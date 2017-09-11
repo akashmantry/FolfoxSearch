@@ -31,8 +31,5 @@ class TextFilter:
     @staticmethod
     def clean_non_ascii(text):
         return re.sub(TextFilter.regex_non_ascii, "", text)
-    
-    @staticmethod
-    def strip_punctuation(s):
-        return re.sub(TextFilter.regex_punctuation, "", s)
+
     
