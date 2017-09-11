@@ -1,0 +1,757 @@
+https://en.wikipedia.org/wiki/Allan_Francovich
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Allan Francovich - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Allan_Francovich","wgTitle":"Allan Francovich","wgCurRevisionId":767373486,"wgRevisionId":767373486,"wgArticleId":3955911,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Place of birth missing","Pages using ISBN magic links","1941 births","1997 deaths","American film producers","American conspiracy theorists","Operation Gladio","20th-century American businesspeople"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Allan_Francovich","wgRelevantArticleId":3955911,"wgRequestId":"WO6g0wpAMF0AAGYBdW4AAABR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2382518","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Allan_Francovich"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Allan_Francovich&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Allan_Francovich&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Allan_Francovich"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Allan_Francovich rootpage-Allan_Francovich skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Allan Francovich</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Allan James Francovich</b> (March 23, 1941 – April 24, 1997) was an American <a href="/wiki/Conspiracy_theorist" class="mw-redirect" title="Conspiracy theorist">conspiracy theorist</a><sup id="cite_ref-indi_1-0" class="reference"><a href="#cite_note-indi-1">[1]</a></sup> and film maker. He is best known for creating a number of revisionist films, critical of the <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a> (CIA), claiming to link them to terrorist attacks during the <a href="/wiki/Cold_War" title="Cold War">Cold War</a>, particularly in Europe. The most notable of these are the <i>Gladio</i> (1992) series about <a href="/wiki/Operation_Gladio" title="Operation Gladio">Operation Gladio</a> which featured on <a href="/wiki/BBC" title="BBC">BBC</a>'s <i><a href="/wiki/Timewatch" title="Timewatch">Timewatch</a></i> and the <i><a href="/wiki/The_Maltese_Double_Cross_%E2%80%93_Lockerbie" title="The Maltese Double Cross – Lockerbie">The Maltese Double Cross – Lockerbie</a></i> (1994) about <a href="/wiki/Pan_Am_Flight_103" title="Pan Am Flight 103">Pan Am Flight 103</a>. Questions over the accuracy of his works have led to a mixed response.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Lockerbie_bombing"><span class="tocnumber">2</span> <span class="toctext">Lockerbie bombing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Letter_to_The_Guardian"><span class="tocnumber">2.1</span> <span class="toctext">Letter to <i>The Guardian</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Death"><span class="tocnumber">3</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Reception"><span class="tocnumber">4</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Filmography"><span class="tocnumber">5</span> <span class="toctext">Filmography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Short_Circuit_.281985.29"><span class="tocnumber">5.1</span> <span class="toctext">Short Circuit (1985)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#On_Company_Business_.281980.29"><span class="tocnumber">5.2</span> <span class="toctext">On Company Business (1980)</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Gladio_.281992.29"><span class="tocnumber">5.3</span> <span class="toctext">Gladio (1992)</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Others"><span class="tocnumber">5.4</span> <span class="toctext">Others</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Literature"><span class="tocnumber">6</span> <span class="toctext">Literature</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Video"><span class="tocnumber">9.1</span> <span class="toctext">Video</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Francovich was born in <a href="/wiki/New_York_City" title="New York City">New York City</a>, to a <a href="/wiki/American_Jews" title="American Jews">Jewish</a>-engineering family.<sup id="cite_ref-indi_1-1" class="reference"><a href="#cite_note-indi-1">[1]</a></sup> His father, Aldo Francovich, worked as a mining engineer for Cerro de Pasco mining company in <a href="/wiki/Peru" title="Peru">Peru</a>; as a child he lived in high altitude mining towns and witnessed the extreme poverty of the miners. He attended an elite preparatory school in Lima then came to the U.S. to attend Notre Dame University, where he completed a B.A. He lived in Paris for several years, studying free-lance at the Sorbonne before coming to Berkeley. There he finished an M.A. in Dramatic Arts at UC, Berkeley; he also studied film briefly at Stanford and received a grant to study film from the <a href="/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a> in 1970. He and translator and writer <a href="/wiki/Kathleen_Weaver" title="Kathleen Weaver">Kathleen Weaver</a> were married in 1970; the two separated amicably and were divorced in 1986. She collaborated on his films during the time of their marriage.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Lockerbie_bombing">Lockerbie bombing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=2" title="Edit section: Lockerbie bombing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Allan Francovich produced, wrote and directed <i><a href="/wiki/The_Maltese_Double_Cross_%E2%80%93_Lockerbie" title="The Maltese Double Cross – Lockerbie">The Maltese Double Cross – Lockerbie</a></i>, a documentary which challenged the official view that Libya was responsible for the sabotage of <a href="/wiki/Pan_Am_Flight_103" title="Pan Am Flight 103">Pan Am Flight 103</a>. Instead, an unwitting drug mule, with links to <a href="/wiki/Hezbollah" title="Hezbollah">Hezbollah</a> and to both the <a href="/wiki/Drug_Enforcement_Administration" title="Drug Enforcement Administration">Drug Enforcement Administration</a> (DEA) and the CIA, was argued to have carried the bomb on board the aircraft. The documentary was funded by <a href="/wiki/Tiny_Rowland" title="Tiny Rowland">Tiny Rowland</a>.</p>
+<p>When his British production company, Hemar Enterprises, released the film in November 1994, it was immediately threatened with legal action by lawyers acting for a US government official (believed to have been the DEA's Michael Hurley). Screenings of the film at the 1994 London Film Festival, at the <a href="/wiki/Institute_of_Contemporary_Arts" title="Institute of Contemporary Arts">Institute of Contemporary Arts</a> and at several universities were prevented. But Labour MP <a href="/wiki/Tam_Dalyell" title="Tam Dalyell">Tam Dalyell</a> ignored libel warnings and went ahead and showed the film at the <a href="/wiki/British_House_of_Commons" class="mw-redirect" title="British House of Commons">House of Commons</a> on November 16, 1994.</p>
+<p><a href="/wiki/Channel_4" title="Channel 4">Channel 4 television</a> decided to broadcast the film in Britain on May 11, 1995. A spokeswoman responded to critics of the decision by saying that "it needed to be shown to a wider public".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Letter_to_The_Guardian">Letter to <i>The Guardian</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=3" title="Edit section: Letter to The Guardian">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The day after the Channel 4 broadcast, <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> published a letter from Francovich headed "The Lockerbie smears":<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<dl>
+<dd>"The attacks by the UK and US authorities on my film <i>The Maltese Double Cross</i> (UK and US scorn Lockerbie film, May 11) are exactly what we predicted would happen. The aim is to smear people in the film in order to divert attention from the mass of evidence that supports our claims.</dd>
+<dd>"The film shows how Lockerbie was masterminded by <a href="/wiki/Iran" title="Iran">Iran</a> and <a href="/wiki/Syria" title="Syria">Syria</a>, not <a href="/wiki/Libya" title="Libya">Libya</a>, and that the bomb got on the plane through a botched US intelligence operation based on Middle East drugs and hostages. Elements within western intelligence knew what was happening but failed to act. The authorities can never admit this, as to do so would make <a href="/wiki/Watergate" class="mw-redirect" title="Watergate">Watergate</a> look like a vicar's tea party.</dd>
+<dd>"The smears referred to have been circulating for years and have been used to attack anyone who has suggested that US government agencies have dirty hands in the affair. The latest round of attacks was begun in a letter to <a href="/wiki/Tam_Dalyell" title="Tam Dalyell">Tam Dalyell MP</a> by a Todd Leventhal, of the <a href="/wiki/United_States_Information_Agency" title="United States Information Agency">US Information Agency</a>, who has the <a href="/wiki/George_Orwell" title="George Orwell">Orwellian</a> title 'Program Officer for Countering Disinformation and Misinformation'. It is disturbing that the supposedly independent Scottish <a href="/wiki/Crown_Office" class="mw-redirect" title="Crown Office">Crown Office</a> should choose to repeat Leventhal's allegations without question.</dd>
+<dd>"The full Crown Office statement states that the Lord Advocate deprecates all attempts to give a version of the Lockerbie story while criminal proceedings are pending. It goes on: 'The proper place for such issues to be explored is in a criminal court.'</dd>
+<dd>"This argument was substantially undermined on November 15, 1991, only a day after the indictments were issued against the two Libyan accused. On that day the <a href="/wiki/US_State_Department" class="mw-redirect" title="US State Department">US State Department</a> issued 'fact sheets' which detailed the evidence against the two accused. The information they contained has been repeated in numerous media reports and at least two books published in the UK since that time. One of the media reports was an item about how the Scottish and US authorities 'solved' the <a href="/wiki/Investigation_into_the_bombing_of_Pan_Am_Flight_103" class="mw-redirect" title="Investigation into the bombing of Pan Am Flight 103">Lockerbie case</a>, contained in a <a href="/wiki/BBC" title="BBC">BBC</a> 'How Do They Do That?' programme broadcast on February 15, 1994. It featured the former <a href="/wiki/Chief_Constable" class="mw-redirect" title="Chief Constable">Chief Constable</a> of <a href="/wiki/Dumfries_and_Galloway" title="Dumfries and Galloway">Dumfries and Galloway</a>, John Boyd. So far as we are aware, neither the Crown Office nor the <a href="/wiki/Lord_Advocate" title="Lord Advocate">Lord Advocate</a> ever issued similarly critical statements against the BBC, John Boyd, or any of the other broadcasters, newspapers or book publishers which have raked over the evidence.</dd>
+<dd>"The British and US authorities insist that the Lockerbie case is still open. Yet during the months my team has been investigating the subject, not one approach has been made by these authorities to see any of the new evidence we have gathered. Is it any wonder that the Libyans are reluctant to stand trial in <a href="/wiki/Scotland" title="Scotland">Scotland</a> or the US?"</dd>
+</dl>
+<p>Because of the likelihood of legal action, <i>The Maltese Double Cross - Lockerbie</i> has never been publicly screened in America. It can however be viewed <a rel="nofollow" class="external text" href="http://www.thedossier.info/video_revealed.htm">here</a> on the internet, by scrolling down to <i>Allan Francovich - The Maltese Double Cross</i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=4" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Francovich suffered a fatal heart attack in a Customs area at <a href="/wiki/George_Bush_Intercontinental_Airport" title="George Bush Intercontinental Airport">George Bush Intercontinental Airport</a> in Houston, Texas, on April 17, 1997 whilst entering the United States from England; he was 56.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <sup id="cite_ref-indi_1-2" class="reference"><a href="#cite_note-indi-1">[1]</a></sup></p>
+<p>His films and papers are archived by the <a href="/wiki/Pacific_Film_Archive" class="mw-redirect" title="Pacific Film Archive">Pacific Film Archive</a>, in Berkeley, California.</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=5" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/John_Pilger" title="John Pilger">John Pilger</a> described Francovich's films as "extraordinary" political documentary films, with particular praise for <i>The Maltese Double Cross</i> - which "destroyed the official truth that Libya was responsible".<sup id="cite_ref-R000777_7-0" class="reference"><a href="#cite_note-R000777-7">[7]</a></sup> Lee Kreindler, the head of a legal team for American families of Pan Am 103 victims, alleged that Francovich approached the American families and misrepresented himself by not mentioning the <a href="/wiki/Libya" title="Libya">Libyan</a> financing of the film and by saying he was a friend of John Merritt, a journalist from <i><a href="/wiki/The_Observer" title="The Observer">The Observer</a></i> who had the respect of the American families. Daniel Cohen, the father of Pan Am 103 victim Theodora Cohen, said that in his eyes Francovich was "completely discredited" since Francovich did not mention the Libyan financing. <a href="/wiki/Jim_Swire" title="Jim Swire">Jim Swire</a>, the head of a British Pan Am 103 family group, supported Francovich.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=6" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Short_Circuit_.281985.29">Short Circuit (1985)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=7" title="Edit section: Short Circuit (1985)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Documentary about the murder of nuns in El Salvador</p>
+<h3><span class="mw-headline" id="On_Company_Business_.281980.29">On Company Business (1980)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=8" title="Edit section: On Company Business (1980)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Documentary about the CIA, with exclusive use of interviews with current and former CIA employees. Won the International Critics Award for Best Documentary at the <a href="/wiki/Berlin_International_Film_Festival" title="Berlin International Film Festival">Berlin International Film Festival</a>.</p>
+<p><br /></p>
+<h3><span class="mw-headline" id="Gladio_.281992.29">Gladio (1992)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=9" title="Edit section: Gladio (1992)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In three programmes shown over consecutive weeks in BBC2's <i><a href="/wiki/Timewatch" title="Timewatch">Timewatch</a></i> strand, Allan Francovich interviewed key <a href="/wiki/Operation_Gladio" title="Operation Gladio">Gladio</a> players such as <a href="/wiki/Propaganda_Due" title="Propaganda Due">Propaganda Due</a> head, <a href="/wiki/Licio_Gelli" title="Licio Gelli">Licio Gelli</a>, Italian <a href="/wiki/Neofascism" class="mw-redirect" title="Neofascism">neofascist</a> and <a href="/wiki/Terrorism" title="Terrorism">terrorist</a> <a href="/wiki/Vincenzo_Vinciguerra" title="Vincenzo Vinciguerra">Vincenzo Vinciguerra</a>, Venetian judge <a href="/wiki/Felice_Casson" title="Felice Casson">Felice Casson</a>, Italian Gladio commander General <a href="/w/index.php?title=Gerardo_Serravale&amp;action=edit&amp;redlink=1" class="new" title="Gerardo Serravale (page does not exist)">Gerardo Serravale</a>, <a href="/wiki/Belgium" title="Belgium">Belgian</a> Senator <a href="/wiki/Roger_Lallemand" title="Roger Lallemand">Roger Lallemand</a>, Belgian <a href="/wiki/Gendarmerie" title="Gendarmerie">gendarme</a> <a href="/w/index.php?title=Martial_Lekue&amp;action=edit&amp;redlink=1" class="new" title="Martial Lekue (page does not exist)">Martial Lekue</a> and former CIA director <a href="/wiki/William_Colby" title="William Colby">William Colby</a>. Also included was "hoaxer" <a href="/wiki/Oswald_LeWinter" title="Oswald LeWinter">Oswald LeWinter</a>.</p>
+<h3><span class="mw-headline" id="Others">Others</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=10" title="Edit section: Others">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Secret_History_(TV_documentary_series)" class="mw-redirect" title="Secret History (TV documentary series)">Secret History</a></i>: <i>Murder in Mississippi</i> (12 Dec, 1991)</li>
+<li><i>Dark Passage</i> (1990)</li>
+<li><i>The Houses Are Full of Smoke</i> (1987)</li>
+<li><i>Inside the CIA</i> (1987)</li>
+<li><i>San Francisco Good Times</i> (1977)</li>
+<li><i>Chile in the Heart</i> (1975)</li>
+<li><i>The Lobster Pot</i> (1973)</li>
+</ul>
+<h2><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=11" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>John Douglas-Gray in his thriller 'The Novak Legacy' <a href="/wiki/Special:BookSources/9780755213214" class="internal mw-magiclink-isbn">ISBN 978-0-7552-1321-4</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Daniele_Ganser" title="Daniele Ganser">Daniele Ganser</a></li>
+<li><a href="/wiki/Sibel_Edmonds" title="Sibel Edmonds">Sibel Edmonds</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-indi-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-indi_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-indi_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-indi_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a href="/wiki/Tam_Dalyell" title="Tam Dalyell">Dalyell, Tam</a> (April 28, 1997). <a rel="nofollow" class="external text" href="http://www.independent.co.uk/news/people/obituary-allan-francovich-5569972.html">"Obituary: Allan Francovich"</a>. <i>The Independent</i>. London.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllan+Francovich&amp;rft.atitle=Obituary%3A+Allan+Francovich&amp;rft.au=Dalyell%2C+Tam&amp;rft.date=1997-04-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fpeople%2Fobituary-allan-francovich-5569972.html&amp;rft.jtitle=The+Independent&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Dalyell, Tam (April 28, 1997). <a rel="nofollow" class="external text" href="http://www.independent.co.uk/news/people/obituary-allan-francovich-1269858.html">"Obituary: Allan Francovich"</a>. <i>The Independent</i>. London.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllan+Francovich&amp;rft.atitle=Obituary%3A+Allan+Francovich&amp;rft.aufirst=Tam&amp;rft.aulast=Dalyell&amp;rft.date=1997-04-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fpeople%2Fobituary-allan-francovich-1269858.html&amp;rft.jtitle=The+Independent&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFNorton-Taylor1995" class="citation">Norton-Taylor, Richard (May 11, 1995), "UK and US scorn Lockerbie film", <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllan+Francovich&amp;rft.atitle=UK+and+US+scorn+Lockerbie+film&amp;rft.aufirst=Richard&amp;rft.aulast=Norton-Taylor&amp;rft.date=1995-05-11&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFFrancovich1995" class="citation">Francovich, Allan (May 12, 1995), "The Lockerbie smears", <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllan+Francovich&amp;rft.atitle=The+Lockerbie+smears&amp;rft.aufirst=Allan&amp;rft.aulast=Francovich&amp;rft.date=1995-05-12&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thedossier.info/video_revealed.htm">Internet version of <i>The Maltese Double Cross</i></a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://findarticles.com/p/articles/mi_qn4158/is_19970428/ai_n14114276">Obituary</a>. <i>The Independent</i> (April 28, 1997).</span></li>
+<li id="cite_note-R000777-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-R000777_7-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a href="/wiki/John_Pilger" title="John Pilger">Pilger, John</a> (September 15, 2006). <a rel="nofollow" class="external text" href="https://www.theguardian.com/film/2006/sep/15/2">"Truth shall set us free - There is a huge public hunger for incisive political documentaries. If only the media had the courage to show them"</a>. <i>The Guardian</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllan+Francovich&amp;rft.atitle=Truth+shall+set+us+free+-+There+is+a+huge+public+hunger+for+incisive+political+documentaries.+If+only+the+media+had+the+courage+to+show+them&amp;rft.aufirst=John&amp;rft.aulast=Pilger&amp;rft.date=2006-09-15&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2006%2Fsep%2F15%2F2&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Cohen, Nick. "<a rel="nofollow" class="external text" href="http://www.independent.co.uk/news/uk/home-news/film-claims-stir-lockerbie-row-1392234.html">Film claims stir Lockerbie row</a>." <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i>. Sunday 6 February 1994. Retrieved on 11 August 2009.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0290712/">Allan Francovich</a> at the <a href="/wiki/IMDb" title="IMDb">Internet Movie Database</a></li>
+</ul>
+<h3><span class="mw-headline" id="Video">Video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit&amp;section=15" title="Edit section: Video">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://archive.org/details/operationgladio">Operation Gladio (1992)</a> - Watch the complete documentary online at <a href="/wiki/Archive.org" class="mw-redirect" title="Archive.org">archive.org</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.org/details/AV_074-THE_CIA-_ON_COMPANY_BUSINESS">Alternative Views #074: THE CIA: ON COMPANY BUSINESS (1980)</a> - Allan Francovich talks with ex-CIA agent <a href="/wiki/John_Stockwell" title="John Stockwell">John Stockwell</a> about <i>On Company Business</i> on <a href="/wiki/Alternative_Views" title="Alternative Views">Alternative Views</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.org/details/AV_167-MAKING_A_MOVIE_ABOUT_THE_CIA">Alternative Views #167: MAKING A MOVIE ABOUT THE CIA (1982)</a> - Allan Francovich talks about <i>On Company Business</i> on <a href="/wiki/Alternative_Views" title="Alternative Views">Alternative Views</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Conspiracy_theories" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Conspiracy_theories" title="Template:Conspiracy theories"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Conspiracy_theories" title="Template talk:Conspiracy theories"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Conspiracy_theories&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Conspiracy_theories" style="font-size:114%;margin:0 4em"><a href="/wiki/Conspiracy_theory" title="Conspiracy theory">Conspiracy theories</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/List_of_conspiracy_theories" title="List of conspiracy theories">List of conspiracy theories</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Core topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cabal" title="Cabal">Cabals</a></li>
+<li><a href="/wiki/Conspiracy_(civil)" title="Conspiracy (civil)">Civil</a></li>
+<li><a href="/wiki/Conspiracy_(criminal)" title="Conspiracy (criminal)">Criminal</a></li>
+<li><a href="/wiki/Deception" title="Deception">Deception</a></li>
+<li><a href="/wiki/Espionage" title="Espionage">Espionage</a></li>
+<li><a href="/wiki/Conspiracy_fiction" title="Conspiracy fiction">Fiction</a></li>
+<li><a href="/wiki/List_of_political_conspiracies" title="List of political conspiracies">Political</a></li>
+<li><a href="/wiki/Secrecy" title="Secrecy">Secrecy</a></li>
+<li><a href="/wiki/Secret_society" title="Secret society">Secret societies</a></li>
+<li><a href="/wiki/Urban_legend" title="Urban legend">Urban legend</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Psychology</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Attitude_polarization" class="mw-redirect" title="Attitude polarization">Attitude polarization</a></li>
+<li><a href="/wiki/Cognitive_dissonance" title="Cognitive dissonance">Cognitive dissonance</a></li>
+<li><a href="/wiki/Communal_reinforcement" title="Communal reinforcement">Communal reinforcement</a></li>
+<li><a href="/wiki/Confirmation_bias" title="Confirmation bias">Confirmation bias</a></li>
+<li><a href="/wiki/Locus_of_control" title="Locus of control">Locus of control</a></li>
+<li><a href="/wiki/Mass_hysteria" title="Mass hysteria">Mass hysteria</a></li>
+<li><a href="/wiki/Paranoia" title="Paranoia">Paranoia</a></li>
+<li><a href="/wiki/Psychological_projection" title="Psychological projection">Psychological projection</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Deaths and<br />
+disappearances</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Assassination" title="Assassination">Assassinations</a> and<br />
+avoidable accidents</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geoffrey_Chaucer" title="Geoffrey Chaucer">Geoffrey Chaucer (1400)</a></li>
+<li><a href="/wiki/Princes_in_the_Tower" title="Princes in the Tower">Princes in the Tower (1483)</a></li>
+<li><a href="/wiki/Kaspar_Hauser" title="Kaspar Hauser">Kaspar Hauser (1833)</a></li>
+<li><a href="/wiki/Assassination_of_Abraham_Lincoln" title="Assassination of Abraham Lincoln">Abraham Lincoln (1865)</a></li>
+<li><a href="/wiki/Assassination_of_Archduke_Franz_Ferdinand_of_Austria" title="Assassination of Archduke Franz Ferdinand of Austria">Franz Ferdinand (1914)</a></li>
+<li><a href="/wiki/Herbert_Kitchener,_1st_Earl_Kitchener#Death" title="Herbert Kitchener, 1st Earl Kitchener">Lord Kitchener (1916)</a></li>
+<li><a href="/wiki/Michael_Collins_(Irish_leader)#Death" title="Michael Collins (Irish leader)">Michael Collins (1922)</a></li>
+<li><a href="/wiki/Sergey_Kirov#Assassination_and_aftermath" title="Sergey Kirov">Sergey Kirov (1934)</a></li>
+<li><a href="/wiki/W%C5%82adys%C5%82aw_Sikorski%27s_death_controversy" title="Władysław Sikorski's death controversy">Władysław Sikorski (1943)</a></li>
+<li><a href="/wiki/Death_of_Subhas_Chandra_Bose" title="Death of Subhas Chandra Bose">Subhas Chandra Bose (1945)</a></li>
+<li><a href="/wiki/Joseph_Stalin#Death_and_legacy" title="Joseph Stalin">Joseph Stalin (1953)</a></li>
+<li><a href="/wiki/Dag_Hammarskj%C3%B6ld#Death" title="Dag Hammarskjöld">Dag Hammarskjöld (1961)</a></li>
+<li><a href="/wiki/Patrice_Lumumba#Foreign_involvement_in_his_death" title="Patrice Lumumba">Patrice Lumumba (1961)</a></li>
+<li><a href="/wiki/John_F._Kennedy_assassination_conspiracy_theories" title="John F. Kennedy assassination conspiracy theories">John F. Kennedy (1963)</a></li>
+<li><a href="/wiki/Malcolm_X#Allegations_of_conspiracy" title="Malcolm X">Malcolm X (1965)</a></li>
+<li><a href="/wiki/Robert_F._Kennedy_assassination_conspiracy_theories" title="Robert F. Kennedy assassination conspiracy theories">Robert F. Kennedy (1968)</a></li>
+<li><a href="/wiki/Assassination_of_Martin_Luther_King_Jr." title="Assassination of Martin Luther King Jr.">Martin Luther King Jr. (1968)</a></li>
+<li><a href="/wiki/Juscelino_Kubitschek#Return_to_Brazil_and_death" title="Juscelino Kubitschek">Juscelino Kubitschek (1976)</a></li>
+<li><a href="/wiki/Pope_John_Paul_I_conspiracy_theories" title="Pope John Paul I conspiracy theories">Pope John Paul I (1978)</a></li>
+<li><a href="/wiki/Airey_Neave#Conspiracy_theories" title="Airey Neave">Airey Neave (1979)</a></li>
+<li><a href="/wiki/1980_Camarate_air_crash" title="1980 Camarate air crash">Francisco</a> <a href="/wiki/Francisco_de_S%C3%A1_Carneiro" title="Francisco de Sá Carneiro">de Sá Carneiro and</a> <a href="/wiki/Adelino_Amaro_da_Costa" title="Adelino Amaro da Costa">Adelino Amaro da Costa (1980)</a></li>
+<li><a href="/wiki/Assassination_of_Benigno_Aquino_Jr." title="Assassination of Benigno Aquino Jr.">Benigno Aquino Jr. (1983)</a></li>
+<li><a href="/wiki/Samantha_Smith#Death" title="Samantha Smith">Samantha Smith (1985)</a></li>
+<li><a href="/wiki/Assassination_of_Olof_Palme#Murder_theories" title="Assassination of Olof Palme">Olof Palme (1986)</a></li>
+<li><a href="/wiki/Death_and_state_funeral_of_Muhammad_Zia-ul-Haq" title="Death and state funeral of Muhammad Zia-ul-Haq">Zia-ul-Haq (1988)</a></li>
+<li><a href="/wiki/Assassination_of_Rajiv_Gandhi" title="Assassination of Rajiv Gandhi">Rajiv Gandhi (1992)</a></li>
+<li><a href="/wiki/Suicide_of_Vince_Foster" title="Suicide of Vince Foster">Vince Foster (1993)</a></li>
+<li><a href="/wiki/Yitzhak_Rabin_assassination_conspiracy_theories" title="Yitzhak Rabin assassination conspiracy theories">Yitzhak Rabin (1995)</a></li>
+<li><a href="/wiki/Death_of_Diana,_Princess_of_Wales_conspiracy_theories" title="Death of Diana, Princess of Wales conspiracy theories">Diana, Princess of Wales (1997)</a></li>
+<li><a href="/wiki/Nepalese_royal_massacre#Conspiracy_theories" title="Nepalese royal massacre">Nepalese royal family (2001)</a></li>
+<li><a href="/wiki/David_Kelly_(weapons_expert)" title="David Kelly (weapons expert)">David Kelly (2003)</a></li>
+<li><a href="/wiki/Cause_of_Yasser_Arafat%27s_death" title="Cause of Yasser Arafat's death">Yasser Arafat (2004)</a></li>
+<li><a href="/wiki/Alexander_Litvinenko_assassination_theories" title="Alexander Litvinenko assassination theories">Alexander Litvinenko (2006)</a></li>
+<li><a href="/wiki/Assassination_of_Benazir_Bhutto" title="Assassination of Benazir Bhutto">Benazir Bhutto (2007)</a></li>
+<li><a href="/wiki/Kim_Jong-nam#Death" title="Kim Jong-nam">Kim Jong-nam (2017)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;"><a href="/wiki/False_flag" title="False flag">False flag</a><br />
+attacks</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/USS_Maine_(ACR-1)#False_flag_conspiracy_theories" title="USS Maine (ACR-1)">USS <i>Maine</i> (1898)</a></li>
+<li><a href="/wiki/RMS_Lusitania#Conspiracy_theories" title="RMS Lusitania">RMS <i>Lusitania</i> (1915)</a></li>
+<li><a href="/wiki/Reichstag_fire" title="Reichstag fire">Reichstag fire (1933)</a></li>
+<li><a href="/wiki/Pearl_Harbor_advance-knowledge_conspiracy_theory" title="Pearl Harbor advance-knowledge conspiracy theory">Pearl Harbor (1941)</a></li>
+<li><a href="/wiki/Operation_Gladio" title="Operation Gladio">Operation "Gladio"</a></li>
+<li><a href="/wiki/USS_Liberty_incident#Ongoing_controversy_and_unresolved_questions" title="USS Liberty incident">USS <i>Liberty</i> (1967)</a></li>
+<li><a href="/wiki/Wider%C3%B8e_Flight_933" title="Widerøe Flight 933">Widerøe Flight 933 (1982)</a></li>
+<li><a href="/wiki/Korean_Air_Lines_Flight_007_alternative_theories" title="Korean Air Lines Flight 007 alternative theories">KAL Flight 007 (1983)</a></li>
+<li><a href="/wiki/1986_Mozambican_Tupolev_Tu-134_crash" title="1986 Mozambican Tupolev Tu-134 crash">Mozambican presidential jet (1986)</a></li>
+<li><a href="/wiki/Pan_Am_Flight_103_conspiracy_theories" title="Pan Am Flight 103 conspiracy theories">Pan Am Flight 103 (1988)</a></li>
+<li><a href="/wiki/Oklahoma_City_bombing_conspiracy_theories" title="Oklahoma City bombing conspiracy theories">Oklahoma City bombing (1995)</a></li>
+<li><a href="/wiki/Port_Arthur_massacre_(Australia)#Aftermath_and_analysis" title="Port Arthur massacre (Australia)">Port Arthur massacre (1996)</a></li>
+<li><a href="/wiki/Explanation_attempts_for_the_Russian_apartment_bombings" title="Explanation attempts for the Russian apartment bombings">Russian apartment bombings (1999)</a></li>
+<li><a href="/wiki/9/11_conspiracy_theories" title="9/11 conspiracy theories">9/11 attacks (2001)</a>
+<ul>
+<li><a href="/wiki/September_11_attacks_advance-knowledge_conspiracy_theories" title="September 11 attacks advance-knowledge conspiracy theories">Advance knowledge (2001)</a></li>
+<li><a href="/wiki/World_Trade_Center_controlled_demolition_conspiracy_theories" title="World Trade Center controlled demolition conspiracy theories">WTC collapse (2001)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Controversies_about_the_2004_Madrid_train_bombings" title="Controversies about the 2004 Madrid train bombings">Madrid train bombing (2004)</a></li>
+<li><a href="/wiki/Rumours_and_conspiracy_theories_about_the_July_2005_London_bombings" class="mw-redirect" title="Rumours and conspiracy theories about the July 2005 London bombings">London bombings (2005)</a></li>
+<li><a href="/wiki/2011_Norway_attacks#Accomplices" title="2011 Norway attacks">2011 Norway attacks</a></li>
+<li><a href="/wiki/Malaysia_Airlines_Flight_17#Russian_media_coverage" title="Malaysia Airlines Flight 17">Malaysia Airlines Flight 17 (2014)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/RMS_Titanic_alternative_theories" title="RMS Titanic alternative theories">RMS <i>Titanic</i> (1912)</a></li>
+<li><a href="/wiki/Armenian_Genocide_denial" title="Armenian Genocide denial">Armenian Genocide (1915–23)</a></li>
+<li><a href="/wiki/Joseph_Force_Crater" title="Joseph Force Crater">Judge Crater</a> (1930)</li>
+<li><a href="/wiki/Phar_Lap#Death" title="Phar Lap">Phar Lap (1932)</a></li>
+<li><a href="/wiki/Denial_of_the_Holodomor" title="Denial of the Holodomor">Holodomor (1932–33)</a></li>
+<li><a href="/wiki/Nanking_Massacre_denial" title="Nanking Massacre denial">Nanking Massacre (1937-38)</a></li>
+<li><a href="/wiki/Holocaust_denial" title="Holocaust denial">The Holocaust (1930s–40s)</a></li>
+<li><a href="/wiki/Conspiracy_theories_about_Adolf_Hitler%27s_death" title="Conspiracy theories about Adolf Hitler's death">Adolf Hitler's death (1945)</a></li>
+<li><a href="/wiki/Yemenite_Children_Affair" title="Yemenite Children Affair">Yemenite Children (1948–54)</a></li>
+<li><a href="/wiki/Cairo_Fire#Conspiracy_theories" class="mw-redirect" title="Cairo Fire">Cairo Fire (1952)</a></li>
+<li><a href="/wiki/Dyatlov_Pass_incident" title="Dyatlov Pass incident">Dyatlov Pass incident (1959)</a></li>
+<li><a href="/wiki/Lost_Cosmonauts" title="Lost Cosmonauts">Lost Cosmonauts (1950s&#160;/ 1960s)</a></li>
+<li><a href="/wiki/Death_of_Marilyn_Monroe" title="Death of Marilyn Monroe">Marilyn Monroe (1962)</a></li>
+<li><a href="/wiki/Jabidah_massacre" title="Jabidah massacre">Jabidah massacre / Operation Merdeka (1968)</a></li>
+<li><a href="/wiki/Cambodian_genocide_denial" title="Cambodian genocide denial">Cambodian Genocide (1975-79)</a></li>
+<li><a href="/wiki/Elvis_sightings" title="Elvis sightings">Elvis Presley's death (1977)</a></li>
+<li><a href="/wiki/Jonestown_conspiracy_theories" title="Jonestown conspiracy theories">Jonestown (1978)</a></li>
+<li><a href="/wiki/Satanic_ritual_abuse" title="Satanic ritual abuse">Satanic ritual abuse</a> (<a href="/wiki/Blood_libel" title="Blood libel">blood libel</a>)</li>
+<li><a href="/wiki/South_African_Airways_Flight_295" title="South African Airways Flight 295">SAA Flight 295 (1987)</a></li>
+<li><a href="/wiki/Khojaly_Massacre" title="Khojaly Massacre">Khojaly Massacre (1992)</a></li>
+<li><a href="/wiki/MS_Estonia#Causes_of_the_disaster" title="MS Estonia">MS <i>Estonia</i> (1994)</a></li>
+<li><a href="/wiki/Rwandan_genocide_denial" title="Rwandan genocide denial">Rwandan Genocide (1994)</a></li>
+<li><a href="/wiki/Death_of_Kurt_Cobain" class="mw-redirect" title="Death of Kurt Cobain">Kurt Cobain (1994)</a></li>
+<li><a href="/wiki/Srebrenica_massacre#Denial_and_scepticism" title="Srebrenica massacre">Srebrenica massacre (1995)</a></li>
+<li><a href="/wiki/Hello_Garci_scandal" title="Hello Garci scandal">Hello Garci scandal</a></li>
+<li><a href="/wiki/Osama_bin_Laden_death_conspiracy_theories" title="Osama bin Laden death conspiracy theories">Osama bin Laden (2011)</a></li>
+<li><a href="/wiki/2013_Lahad_Datu_standoff#Allegations_of_political_motives_behind_the_conflict" title="2013 Lahad Datu standoff">Lahad Datu, Malaysia standoff (2013)</a></li>
+<li><a href="/wiki/Zamboanga_City_crisis#Alleged_link_to_the_PDAF_scam" title="Zamboanga City crisis">Zamboanga City crisis (2013)</a></li>
+<li><a href="/wiki/Malaysia_Airlines_Flight_370_unofficial_disappearance_theories" title="Malaysia Airlines Flight 370 unofficial disappearance theories">Malaysia Airlines Flight 370 (2014)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">16th&#160;/ 17th-<br />
+century Britain</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Babington_Plot" title="Babington Plot">Babington Plot</a></li>
+<li><a href="/wiki/Bye_Plot" title="Bye Plot">Bye Plot</a></li>
+<li><a href="/wiki/Essex%27s_Rebellion" title="Essex's Rebellion">Essex's Rebellion</a></li>
+<li><a href="/wiki/John_Ruthven,_3rd_Earl_of_Gowrie" title="John Ruthven, 3rd Earl of Gowrie">Gowrie conspiracy</a></li>
+<li><a href="/wiki/Gunpowder_Plot" title="Gunpowder Plot">Gunpowder Plot</a></li>
+<li><a href="/wiki/Main_Plot" title="Main Plot">Main Plot</a></li>
+<li><a href="/wiki/Ridolfi_plot" title="Ridolfi plot">Ridolfi plot</a></li>
+<li><a href="/wiki/Throckmorton_Plot" title="Throckmorton Plot">Throckmorton Plot</a></li>
+<li><a href="/wiki/Popish_Plot" title="Popish Plot">Popish Plot</a></li>
+<li><a href="/wiki/Christopher_Marlowe" title="Christopher Marlowe">Christopher Marlowe (1593)</a></li>
+<li><a href="/wiki/Shakespeare_authorship_question" title="Shakespeare authorship question">Shakespeare authorship question</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/New_World_Order_(conspiracy_theory)" title="New World Order (conspiracy theory)">New World Order</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bilderberg_Group" title="Bilderberg Group">Bilderberg Group</a></li>
+<li><a href="/wiki/Black_helicopter" title="Black helicopter">Black helicopters</a></li>
+<li><a href="/wiki/Bohemian_Grove" title="Bohemian Grove">Bohemian Grove</a></li>
+<li><a href="/wiki/Council_on_Foreign_Relations" title="Council on Foreign Relations">Council on Foreign Relations</a></li>
+<li><a href="/wiki/Cultural_Marxism" class="mw-redirect" title="Cultural Marxism">Cultural Marxism</a></li>
+<li><a href="/wiki/Denver_International_Airport#Conspiracies_and_controversy" title="Denver International Airport">Denver International Airport</a></li>
+<li><a href="/wiki/Eurabia" title="Eurabia">Eurabia</a></li>
+<li><a href="/wiki/Georgia_Guidestones" title="Georgia Guidestones">Georgia Guidestones</a></li>
+<li><a href="/wiki/Illuminati" title="Illuminati">Illuminati</a></li>
+<li><a href="/wiki/Judeo-Masonic_conspiracy_theory" title="Judeo-Masonic conspiracy theory">Judeo-Masonic plot</a></li>
+<li><a href="/wiki/Jewish_conspiracy" class="mw-redirect" title="Jewish conspiracy">Jews</a></li>
+<li><i><a href="/wiki/The_Protocols_of_the_Elders_of_Zion" title="The Protocols of the Elders of Zion">The Protocols of the Elders of Zion</a></i></li>
+<li><a href="/wiki/Masonic_conspiracy_theories" title="Masonic conspiracy theories">Freemasons</a></li>
+<li><a href="/wiki/North_American_Union" title="North American Union">North American Union</a></li>
+<li><a href="/wiki/List_of_conspiracy_theories#Anti-Catholic_conspiracy_theories" title="List of conspiracy theories">Catholics</a></li>
+<li><a href="/wiki/Jesuit_conspiracy_theories" title="Jesuit conspiracy theories">Jesuits</a></li>
+<li><a href="/wiki/Vatican_conspiracy_theories" title="Vatican conspiracy theories">Vatican</a></li>
+<li><a href="/wiki/ODESSA" title="ODESSA">ODESSA</a></li>
+<li><a href="/wiki/Rothschild_family#Conspiracy_theories" title="Rothschild family">Rothschild family</a></li>
+<li><a href="/wiki/Skull_and_Bones" title="Skull and Bones">Skull and Bones</a></li>
+<li><a href="/wiki/The_Fellowship_(Christian_organization)" title="The Fellowship (Christian organization)">The Fellowship</a></li>
+<li><a href="/wiki/Trilateral_Commission" title="Trilateral Commission">Trilateral Commission</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/UFO_conspiracy_theory" title="UFO conspiracy theory">UFOs</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">General</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alien_abduction" title="Alien abduction">Alien abduction</a></li>
+<li><a href="/wiki/Area_51" title="Area 51">Area 51</a></li>
+<li><a href="/wiki/Bermuda_Triangle" title="Bermuda Triangle">Bermuda Triangle</a></li>
+<li><a href="/wiki/Black_Knight_satellite_conspiracy_theory" title="Black Knight satellite conspiracy theory">Black Knight satellite</a></li>
+<li><a href="/wiki/Cryptoterrestrial_hypothesis" class="mw-redirect" title="Cryptoterrestrial hypothesis">Cryptoterrestrial hypothesis</a></li>
+<li><a href="/wiki/Extraterrestrial_hypothesis" title="Extraterrestrial hypothesis">Extraterrestrial hypothesis</a></li>
+<li><a href="/wiki/Interdimensional_hypothesis" title="Interdimensional hypothesis">Interdimensional hypothesis</a></li>
+<li><a href="/wiki/Dulce_Base" title="Dulce Base">Dulce Base</a></li>
+<li><a href="/wiki/Estimate_of_the_Situation" title="Estimate of the Situation"><i>Estimate of the Situation</i> (1948)</a></li>
+<li><a href="/wiki/Majestic_12" title="Majestic 12">Majestic 12</a></li>
+<li><a href="/wiki/Men_in_black" title="Men in black">Men in black</a></li>
+<li><a href="/wiki/Nazi_UFOs" title="Nazi UFOs">Nazi UFOs</a></li>
+<li><a href="/wiki/Project_Serpo" class="mw-redirect" title="Project Serpo">Project Serpo</a></li>
+<li><a href="/wiki/Reptilians" title="Reptilians">Reptilians</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_reported_UFO_sightings" title="List of reported UFO sightings">Incidents</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tunguska_event" title="Tunguska event">Tunguska (1908)</a></li>
+<li><a href="/wiki/Ghost_rockets" title="Ghost rockets">Ghost rockets (1946)</a></li>
+<li><a href="/wiki/Maury_Island_incident" title="Maury Island incident">Maury Island (1947)</a></li>
+<li><a href="/wiki/Roswell_UFO_incident" title="Roswell UFO incident">Roswell (1947)</a></li>
+<li><a href="/wiki/Mantell_UFO_incident" title="Mantell UFO incident">Mantell (1948)</a></li>
+<li><a href="/wiki/Kecksburg_UFO_incident" title="Kecksburg UFO incident">Kecksburg (1965)</a></li>
+<li><a href="/wiki/Rendlesham_Forest_incident" title="Rendlesham Forest incident">Rendlesham Forest (1980)</a></li>
+<li><a href="/wiki/Cash-Landrum_incident" title="Cash-Landrum incident">Cash-Landrum (1980)</a></li>
+<li><a href="/wiki/Varginha_UFO_incident" title="Varginha UFO incident">Varginha (1996)</a></li>
+<li><a href="/wiki/Phoenix_Lights" title="Phoenix Lights">Phoenix Lights (1997)</a></li>
+<li><a href="/wiki/2006_O%27Hare_International_Airport_UFO_sighting" title="2006 O'Hare International Airport UFO sighting">Chicago (2006)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Federal_government_of_the_United_States" title="Federal government of the United States">United States<br />
+government</a></div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">Apollo Moon landings</a></li>
+<li><a href="/wiki/Barack_Obama_citizenship_conspiracy_theories" title="Barack Obama citizenship conspiracy theories">Barack Obama's citizenship</a>&#160;/ <a href="/wiki/Barack_Obama_religion_conspiracy_theories" title="Barack Obama religion conspiracy theories">religion</a>&#160;/ <a href="/wiki/Dreams_from_My_Real_Father" title="Dreams from My Real Father">parentage</a></li>
+<li><a href="/wiki/United_States_bombing_of_the_Chinese_embassy_in_Belgrade" title="United States bombing of the Chinese embassy in Belgrade">Belgrade Chinese embassy bombing (1999)</a></li>
+<li><a href="/wiki/Black_genocide_conspiracy_theory" title="Black genocide conspiracy theory">Black genocide</a></li>
+<li><a href="/wiki/CIA_Kennedy_assassination_conspiracy_theory" title="CIA Kennedy assassination conspiracy theory">CIA-Kennedy assassination link</a></li>
+<li><a href="/wiki/Allegations_of_CIA_assistance_to_Osama_bin_Laden" title="Allegations of CIA assistance to Osama bin Laden">Allegations of CIA assistance to Osama bin Laden</a></li>
+<li><a href="/wiki/Dulles%27_Plan" title="Dulles' Plan">Dulles' Plan</a></li>
+<li><a href="/wiki/FEMA_camps_conspiracy_theory" title="FEMA camps conspiracy theory">FEMA concentration camps</a></li>
+<li><a href="/wiki/High_Frequency_Active_Auroral_Research_Program#Conspiracy_theories" title="High Frequency Active Auroral Research Program">HAARP</a></li>
+<li><a href="/wiki/Jade_Helm_15_conspiracy_theories" title="Jade Helm 15 conspiracy theories">Jade Helm 15 (2015)</a></li>
+<li><a href="/wiki/Montauk_Project" title="Montauk Project">Montauk Project</a></li>
+<li><a href="/wiki/October_Surprise_conspiracy_theory" title="October Surprise conspiracy theory">October Surprise (1980)</a></li>
+<li><a href="/wiki/Pizzagate_conspiracy_theory" title="Pizzagate conspiracy theory">Pizzagate (2016)</a></li>
+<li><a href="/wiki/Philadelphia_Experiment" title="Philadelphia Experiment">Philadelphia Experiment (1943)</a></li>
+<li><a href="/wiki/Project_Azorian" title="Project Azorian">Project Azorian (1974)</a></li>
+<li><a href="/wiki/Sandy_Hook_Elementary_School_shooting_conspiracy_theories" title="Sandy Hook Elementary School shooting conspiracy theories">Sandy Hook shooting (2012)</a></li>
+<li><a href="/wiki/Sovereign_citizen_movement" title="Sovereign citizen movement">Sovereign citizen</a>&#160;/ <a href="/wiki/Redemption_movement" title="Redemption movement">Redemption movement</a></li>
+<li><a href="/wiki/Vast_right-wing_conspiracy" title="Vast right-wing conspiracy">Vast right-wing conspiracy</a></li>
+<li><a href="/wiki/Vietnam_War_POW/MIA_issue" title="Vietnam War POW/MIA issue">Vietnam War POW&#160;/ MIA issue</a></li>
+<li><a href="/wiki/Waco_siege" title="Waco siege">Waco siege (1993)</a></li>
+<li><a href="/wiki/TWA_Flight_800_conspiracy_theories" title="TWA Flight 800 conspiracy theories">TWA Flight 800 (1996)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Health, energy,<br />
+environment</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemtrail_conspiracy_theory" title="Chemtrail conspiracy theory">Chemtrails</a></li>
+<li><a href="/wiki/Free_energy_suppression_conspiracy_theory" title="Free energy suppression conspiracy theory">Free energy suppression</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming</a></li>
+<li><a href="/wiki/Discredited_HIV/AIDS_origins_theories" title="Discredited HIV/AIDS origins theories">HIV/AIDS origins</a></li>
+<li><a href="/wiki/HIV/AIDS_denialism" title="HIV/AIDS denialism">HIV/AIDS denialism</a></li>
+<li><a href="/wiki/SARS_conspiracy_theory" title="SARS conspiracy theory">SARS (2003)</a></li>
+<li><a href="/wiki/Water_fluoridation_controversy#Conspiracy_theories" title="Water fluoridation controversy">Water fluoridation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2012_phenomenon" title="2012 phenomenon">2012 phenomenon</a></li>
+<li><a href="/wiki/Agenda_21#Opposition" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Avro_Canada_CF-105_Arrow#Cancellation" title="Avro Canada CF-105 Arrow">Cancellation of the Avro Arrow (1959)</a></li>
+<li><a href="/wiki/Bible_conspiracy_theory" title="Bible conspiracy theory">Bible conspiracy theory</a></li>
+<li><a href="/wiki/Clockwork_Orange_(plot)" title="Clockwork Orange (plot)">Clockwork Orange (1970s)</a></li>
+<li><a href="/wiki/Conspiracy_theories_in_the_Arab_world" title="Conspiracy theories in the Arab world">Conspiracy theories in the Arab world</a>
+<ul>
+<li><a href="/wiki/Israel-related_animal_conspiracy_theories" title="Israel-related animal conspiracy theories">Israeli animal theories</a></li>
+<li><a href="/wiki/Temple_Denial" title="Temple Denial">Temple Mount</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Conspiracy_Encyclopedia" title="Conspiracy Encyclopedia">Conspiracy Encyclopedia</a></i></li>
+<li><a href="/wiki/Paul_is_dead" title="Paul is dead">"Death" of Paul McCartney (1969)</a></li>
+<li><a href="/wiki/Homintern" title="Homintern">Homintern</a></li>
+<li><a href="/wiki/Homosexual_recruitment" title="Homosexual recruitment">Homosexual recruitment</a></li>
+<li><a href="/wiki/Knights_Templar_legends" class="mw-redirect" title="Knights Templar legends">Knights Templar</a></li>
+<li><a href="/wiki/Lilla_Saltsj%C3%B6badsavtalet" title="Lilla Saltsjöbadsavtalet">Lilla Saltsjöbadsavtalet (1987)</a></li>
+<li><a href="/wiki/Love_Jihad" title="Love Jihad">Love Jihad</a></li>
+<li><a href="/wiki/Reconquista_(Mexico)" title="Reconquista (Mexico)">Mexican Reconquista</a></li>
+<li><a href="/wiki/New_Coke#Conspiracy_theories" title="New Coke">New Coke (1985)</a></li>
+<li><a href="/wiki/Transition_to_the_New_Order" title="Transition to the New Order">Overthrow of Sukarno (1966)</a></li>
+<li><a href="/wiki/Phantom_time_hypothesis" title="Phantom time hypothesis">Phantom time</a>&#160;/ <a href="/wiki/New_Chronology_(Fomenko)" title="New Chronology (Fomenko)">New Chronology</a></li>
+<li><a href="/wiki/Red_mercury" title="Red mercury">Red mercury</a></li>
+<li><a href="/wiki/Soft_coup" title="Soft coup">Soft coup</a></li>
+<li><a href="/wiki/Stanislav_Lunev" title="Stanislav Lunev">Stanislav Lunev</a></li>
+<li><a href="/wiki/Vela_Incident" title="Vela Incident">Vela Incident (1979)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/6712970">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/6712970">6712970</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1301
+Cached time: 20170412211735
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.182 seconds
+Preprocessor visited node count: 1471/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88008/2097152 bytes
+Template argument size: 7149/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 2.95 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  113.380      1 -total
+ 45.79%   51.921      1 Template:Reflist
+ 32.91%   37.313      3 Template:Navbox
+ 30.91%   35.042      3 Template:Cite_news
+ 26.31%   29.835      1 Template:Conspiracy_theories
+ 17.43%   19.764      1 Template:IMDb_name
+ 13.11%   14.866      2 Template:Navbox_subgroup
+ 10.25%   11.627      1 Template:Authority_control
+  6.90%    7.825      2 Template:Citation
+  3.07%    3.476      1 Template:Str_len
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3955911-0!*!*!!en!*!* and timestamp 20170412211735 and revision id 767373486
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Allan_Francovich&amp;oldid=767373486">https://en.wikipedia.org/w/index.php?title=Allan_Francovich&amp;oldid=767373486</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1941_births" title="Category:1941 births">1941 births</a></li><li><a href="/wiki/Category:1997_deaths" title="Category:1997 deaths">1997 deaths</a></li><li><a href="/wiki/Category:American_film_producers" title="Category:American film producers">American film producers</a></li><li><a href="/wiki/Category:American_conspiracy_theorists" title="Category:American conspiracy theorists">American conspiracy theorists</a></li><li><a href="/wiki/Category:Operation_Gladio" title="Category:Operation Gladio">Operation Gladio</a></li><li><a href="/wiki/Category:20th-century_American_businesspeople" title="Category:20th-century American businesspeople">20th-century American businesspeople</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Place_of_birth_missing" title="Category:Place of birth missing">Place of birth missing</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Allan+Francovich" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Allan+Francovich" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Allan_Francovich"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Allan_Francovich"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Allan_Francovich" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Allan_Francovich&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Allan_Francovich&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Allan_Francovich" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Allan_Francovich" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Allan_Francovich&amp;oldid=767373486" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Allan_Francovich&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2382518" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Allan_Francovich&amp;id=767373486" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Allan+Francovich">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Allan+Francovich&amp;returnto=Allan+Francovich&amp;oldid=767373486&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Allan_Francovich&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Allan_Francovich" title="Allan Francovich – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Allan_Francovich" title="Allan Francovich – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2382518#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 25 February 2017, at 14:25.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Allan_Francovich&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.182","ppvisitednodes":{"value":1471,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88008,"limit":2097152},"templateargumentsize":{"value":7149,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  113.380      1 -total"," 45.79%   51.921      1 Template:Reflist"," 32.91%   37.313      3 Template:Navbox"," 30.91%   35.042      3 Template:Cite_news"," 26.31%   29.835      1 Template:Conspiracy_theories"," 17.43%   19.764      1 Template:IMDb_name"," 13.11%   14.866      2 Template:Navbox_subgroup"," 10.25%   11.627      1 Template:Authority_control","  6.90%    7.825      2 Template:Citation","  3.07%    3.476      1 Template:Str_len"]},"scribunto":{"limitreport-timeusage":{"value":"0.041","limit":"10.000"},"limitreport-memusage":{"value":3097793,"limit":52428800}},"cachereport":{"origin":"mw1301","timestamp":"20170412211735","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":49,"wgHostname":"mw1258"});});</script>
+	</body>
+</html>

@@ -1,0 +1,416 @@
+https://en.wikipedia.org/wiki/Ari_Gold_(Entourage)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ari Gold (Entourage) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ari_Gold_(Entourage)","wgTitle":"Ari Gold (Entourage)","wgCurRevisionId":765840469,"wgRevisionId":765840469,"wgArticleId":6813075,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Pages using infobox character with unknown parameters","Entourage (TV series) characters","Fictional talent agents","Fictional characters based on real people","Fictional characters from Los Angeles","Fictional characters from Chicago","Fictional American Jews","Fictional characters from Illinois","Fictional Harvard University people","Fictional characters introduced in 2004"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ari_Gold_(Entourage)","wgRelevantArticleId":6813075,"wgRequestId":"WPuBNgrAIFMAALfUMasAAAGE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2861136","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/4/40/AriGold.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ari_Gold_(Entourage)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ari_Gold_(Entourage)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ari_Gold_Entourage rootpage-Ari_Gold_Entourage skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ari Gold (Entourage)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;border-spacing: 2px 5px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #fbbc87; color: #000000;">Ari Gold</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><i><a href="/wiki/Entourage_(U.S._TV_series)" title="Entourage (U.S. TV series)">Entourage</a></i> character</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:AriGold.jpg" class="image"><img alt="AriGold.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/4/40/AriGold.jpg/220px-AriGold.jpg" width="220" height="194" srcset="//upload.wikimedia.org/wikipedia/en/4/40/AriGold.jpg 1.5x" data-file-width="300" data-file-height="264" /></a></td>
+</tr>
+<tr>
+<th scope="row">Portrayed by</th>
+<td><a href="/wiki/Jeremy_Piven" title="Jeremy Piven">Jeremy Piven</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #fbbc87; color: #000000;">Information</th>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td>Co-founder, former Sr. Partner &amp; co-CEO of MGA (Miller/Gold Talent Agency) and former owner of TMA (Terrance McQuewick Agency)</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td><a href="/wiki/List_of_recurring_characters_in_Entourage#Mrs._Ari_Gold" class="mw-redirect" title="List of recurring characters in Entourage">Mrs. Melissa Gold</a> (wife)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Significant_other" title="Significant other">Significant <span class="nowrap">other(s)</span></a></th>
+<td>previously dated <a href="/wiki/List_of_recurring_characters_in_Entourage#Dana_Gordon" class="mw-redirect" title="List of recurring characters in Entourage">Dana Gordon</a> in the very early 1990s</td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td><a href="/wiki/List_of_recurring_characters_in_Entourage#Sarah_Gold" class="mw-redirect" title="List of recurring characters in Entourage">Sarah Gold</a> (daughter)<br />
+<a href="/wiki/List_of_recurring_characters_in_Entourage#Jonah_Gold" class="mw-redirect" title="List of recurring characters in Entourage">Jonah Gold</a> (son)</td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> <small>(<a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">AB</a>)</small><br />
+<a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a> <small>(<a href="/wiki/JD-MBA" class="mw-redirect" title="JD-MBA">JD/MBA</a>)</small></td>
+</tr>
+</table>
+<p><b>Ariel "Ari" Gold</b> is a fictional character on the <a href="/wiki/Comedy-drama" title="Comedy-drama">comedy-drama</a> television series <i><a href="/wiki/Entourage_(U.S._TV_series)" title="Entourage (U.S. TV series)">Entourage</a></i>. He is played by <a href="/wiki/Jeremy_Piven" title="Jeremy Piven">Jeremy Piven</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Inspiration"><span class="tocnumber">2</span> <span class="toctext">Inspiration</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ari_Gold_Book"><span class="tocnumber">3</span> <span class="toctext">Ari Gold Book</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Former_clients_and_associates"><span class="tocnumber">4</span> <span class="toctext">Former clients and associates</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ari Gold (born 1967) is <a href="/wiki/Vincent_Chase" title="Vincent Chase">Vincent Chase</a>'s movie <a href="/wiki/Talent_agent" title="Talent agent">agent</a>. He was an undergraduate at <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> before earning his <a href="/wiki/J.D./M.B.A." class="mw-redirect" title="J.D./M.B.A.">J.D./M.B.A.</a> at the <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a>.</p>
+<p>Ari is <a href="/wiki/Jewish" class="mw-redirect" title="Jewish">Jewish</a> and has one brother, Howard. In spite of making multiple exaggerations of a sister to whom he has referred as both crazy and a whore, Ari has also stated that he has no sister. Despite his position as one of the most powerful agents in <a href="/wiki/Cinema_of_the_United_States" title="Cinema of the United States">Hollywood</a>, Ari acquiesces to his wife at home (who has a large inheritance from her father), who is able to keep him in check. Despite frequent sexual innuendos, Ari has never cheated on his wife since they married, and "loves a liar, hates a cheater." However, in the pilot episode, Ari tells <a href="/wiki/Eric_Murphy" title="Eric Murphy">Eric Murphy</a> during lunch that he is having sex with a swim suit model. This is likely an empty boast designed to make Eric feel insecure about his tepid relationships with women.</p>
+<p>Towards the end of Season 2, Ari gets into rivalry with <a href="/wiki/List_of_recurring_characters_in_Entourage#Terrance_McQuewick" class="mw-redirect" title="List of recurring characters in Entourage">Terrance McQuewick</a>, his partner, the majority owner of the agency. Conflicts between the two became apparent when Terrance attempted to persuade Vincent Chase - Ari's star client - to work with him instead. When Ari attempted to break away from the agency along with eight other agents, he was ratted out by Adam Davies (a rival agent), and was forced out by Terrance, who attempted to have his employees sign letters of commitment to his company. Later in the episode, he appears to have a brief mental breakdown but recovers after <a href="/wiki/List_of_recurring_characters_in_Entourage#Lloyd" class="mw-redirect" title="List of recurring characters in Entourage">Lloyd</a> lectures him and encourages Ari to continue his attempt to open his own agency. At the end of season 2, Ari sets up a small boutique with five other agents working for him, until Terrance and Ari settle on $11 million in return for Ari not suing Terrance for wrongful termination. Later, Ari intends to use the money to start a much larger agency, but he is discovered. Terrance makes it clear he will spend all of his money to ensure Ari never sees a dime of their agreed settlement. In the end, Ari's former mentor - and former boss before Terrance - <a href="/wiki/List_of_recurring_characters_in_Entourage#Barbara_.22Babs.22_Miller" class="mw-redirect" title="List of recurring characters in Entourage">Barbara "Babs" Miller</a> makes a deal to partner with him to start a new agency. It ends up being called Miller Gold Talent Agency. Ari comments that it sounds like the name of a beer company.</p>
+<p>Ari and <a href="/wiki/Eric_Murphy" title="Eric Murphy">Eric Murphy</a> are the primary influences in Vincent's life. Due to their lifelong friendship, Vince follows Eric's advice much more than he does Ari's. This makes a tense relationship between Eric and Ari. While neither particularly likes the other, they realize that they are in a marriage of necessity and grow to become close comrades. Their personal and professional relationship shatters at the end of the <a href="/wiki/Sorry,_Ari" class="mw-redirect" title="Sorry, Ari">Season 3 Part 1 finale</a> when Eric and Vince fire Ari due to his risky business move that ends up costing Vince the role of <a href="/wiki/Joey_Ramone" title="Joey Ramone">Joey Ramone</a> in a biographical film documenting the story of legendary punk rock group <a href="/wiki/The_Ramones" class="mw-redirect" title="The Ramones">The Ramones</a>.</p>
+<p>In the following episode, Ari has a friendly lunch with Vince and Eric, informing them that Vince's dream project, <i>Medellin</i> (the story of Colombian drug kingpin <a href="/wiki/Pablo_Escobar" title="Pablo Escobar">Pablo Escobar</a>), is now available, but Vince's new agent <a href="/wiki/List_of_recurring_characters_in_Entourage#Amanda_Daniels" class="mw-redirect" title="List of recurring characters in Entourage">Amanda</a> informs him that this is not the case. Later that night at Vince's birthday party, Ari and Amanda square off, but Ari backs off, knowing that he has planted doubt in Vince's mind. Vince decides not to accept any new projects until he is certain that <i>Medellin</i> is off the table.</p>
+<p>During the 17th episode of Season 3, "Return of the King," Ari informs Vince that <i>Medellin</i> has officially become available. In spite of the fact that he is no longer Vince's agent, Ari tries his best to get the lead role for Vince, but because it is <a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur</a>, Ari has difficulty in doing so and the project is shut down. Believing that Ari would never have let it happen (had he still been Vince's agent), Vince concludes that Amanda let the deal fall through because of their romantic relationship, since filming <i>Medellin</i> would have kept him busy for six months. Whether or not this was true, the accusation causes Amanda to drop Vince in every sense of the word. In the next episode The Resurrection, Vincent and Eric rehire Ari as their agent, since Ari got them the full rights to Medellin and they will be producing the project, thus reviving the film.</p>
+<p>During Season 4, Ari tries hard to get Vincent a job, but struggles as no one will give him a job without validating Medellin first. Eventually, the trailer for Medellin is leaked, inducing a flood of offers. The film they decide upon comes from an adaptation of a book Eric gave to Ari some time ago. It is seen as a potential blockbuster for Vincent; Ari goes to Dana Gordon to acquire the role. However, the role is already filled, so Ari and Lloyd begin a game of sabotage to get Vincent the role, successfully after getting <a href="/wiki/Heath_Ledger" title="Heath Ledger">Heath Ledger</a> to drop out. However, the intended director drops out as well. Ari, in a last-minute desperation, sells Dana Gordon the Dream Team: actor Vincent Chase, producer Eric Murphy, and director Billy Walsh. Billy gets commissioned to write the script, but deviates from the source material entirely. Ari then struggles to get the studio interested in the new Project "SILO" which, according to Vince, is a gold mine.</p>
+<p>In the Season 4 season finale, Ari tries to sell Medellin before the screening, getting large offers, eventually the decision is made by the financier Nick Rubenstein, who has accepted an offer from Yair Marx (one of three people who wanted to finance the film - he did not finance it of course) to buy the film for $75 million. After the screening the crowd at Cannes boos it, and Marx drops his offer immediately. Eventually Harvey Weingard, buys the film for $1. Ari is confident that Harvey can fix the film.</p>
+<p>In Season 5, after <a href="/wiki/List_of_recurring_characters_in_Entourage#Alan_Gray" class="mw-redirect" title="List of recurring characters in Entourage">Alan Gray</a> - the studio head of Warner Bros. - suffers a fatal heart attack, Ari is offered the chance to succeed him by the studio's chairman <a href="/wiki/List_of_recurring_characters_in_Entourage#John_Ellis" class="mw-redirect" title="List of recurring characters in Entourage">John Ellis</a> for $10 million. Ari is not sure what to do: if he takes the job, he could give Vince any role he wanted with the studio, but it would also mean that he couldn't be Vince's agent, which could also end their friendship. He decides to turn the job down, but then he learns that <a href="/wiki/List_of_recurring_characters_in_Entourage#Amanda_Daniels" class="mw-redirect" title="List of recurring characters in Entourage">Amanda Daniels</a> - who still holds a grudge against Vince and Ari - is next in line. Ari attempts to make peace with her, offering to put his full support behind her for the job as long as she agrees to add Vince as the second lead in <i>Smoke Jumpers</i>. Saying that Vince isn't good enough, she refuses, adding that, "Ari can kiss his relationship with the studio goodbye." Wanting to save his friend's career, Ari declares that he's taking the job to spite her, but instead convinces John Ellis to give the position to Dana Gordon. Not only does this guarantee Vince in <i>Smoke Jumpers</i> but it also repairs his relationship with Dana.</p>
+<p>After that was resolved, Ari meets Andrew Klein, an old colleague and friend during Ari's days as assistant to agents at <a href="/wiki/List_of_recurring_characters_in_Entourage#Terrance_McQuewick" class="mw-redirect" title="List of recurring characters in Entourage">Terrance</a> and Jim Oliver's agency. Ari was ready to give up being an agent and go back to Chicago to become a lawyer, but it was his friend Andrew who convinced Ari to stay in Hollywood. When the partnership at the agency between Terrance and Oliver broke up, Ari went with Terrance but Andrew went with Oliver, who wound up ripping off his clients and employees. As a result, Klein's status as a rising star was halted. Eventually, Ari convinces Klein to sell his profitable literary agency to Ari in return for Klein getting more responsibilities, more money, and a second chance at life as a big time agent like Ari. Unfortunately, Ari's partner Babs disagrees with Ari's buyout plan, so Ari embarrasses her at a lunch honoring her and other powerful female agents. Ari proposes that the agency be split down the middle. Babs finally agrees to the purchase of Andrew Klein's agency, but tells Ari that any losses from the purchase will go on Ari's end of the books. However, Klein proves to be a profitable entity as he starts signing major writer/producer clients.</p>
+<p>In Season 2 we found out that Ari had been involved with Dana Gordon before his marriage. In Season 5 Dana and Ari's relationship is confirmed to have occurred before he was dating his wife in 1990.</p>
+<p>During season 6, Lloyd leaves Ari for a job as an agent at TMA. Terrance later gives Ari an offer to buy his agency. After a great deal of arguing, Terrance and Ari make peace and the deal goes through. After completing the deal, Ari gets revenge on many of his enemies as he storms through TMA, paintballing all of the agents he's firing. After getting yelled at by Lloyd for taking advantage of him, Ari gives Lloyd an apology and offers him a job as an agent.</p>
+<p>During season 7, Ari takes on his new company after acquiring TMA. He looks to acquire an NFL team, with the help of Lizzie Grant. After Ari's wife discovers that Lizzie is helping him, she asks Ari to fire her for what she had done to Ari's former employee Andrew Klein. Lizzie asks to be in charge of the Television division, and Ari asserts that she isn't ready. Frustrated, Lizzie quits and works to take down Ari after she is hired by Amanda Daniels, a rival agent with a grudge against Ari, because Ari took away from her the Warners studio head job. News is leaked to the press regarding how Ari treats his employees, so he tries to patch things up with everyone to no avail. As a result of the fallout and his angry outburst directed at Amanda, Ari's wife leaves him in the final episode as he tries to throw her a surprise birthday party.</p>
+<p>In season 8 Ari is separated from his wife Melissa, and - after an awkward date with a much younger woman - visits Dana. Ari and Dana have sex. The morning after, Dana appears happy, but is disheartened when Ari tells her that he has a marriage counseling session with Melissa that day. That night Ari takes Dana out to dinner to Bobby Flay's restaurant (Flay was dating Melissa) to make Melissa jealous. Dana was furious at being used, and walked out on Ari.</p>
+<p>Ari realized he had made a mistake and tried to avoid Dana. However, this proved impossible as Dana had to go to Ari's office on business. While there, she met Ari's children, including his son Jonah, who asked her, "Are you the Dana our mum hates?" This caused Dana to break down, telling Ari that the situation was humiliating but that she "did nothing wrong." Ari told her that if he didn't have a family, things would not be complicated between Dana and him, but that he didn't know what to do. That night, Melissa told Ari she was filing for divorce. Later that night, Ari drunkenly called Dana, who offered to see him. Dana told Ari she was "lonely" and willing to take her chances on another relationship with him.</p>
+<p>Ari visited Melissa to attempt once again to save their marriage, only to find Flay in his house. He told Melissa that clearly she had been dishonest about herself to him, and walked out.</p>
+<p>By the penultimate episode of the series Ari was dating Dana Gordon. She was spending the night with Ari at his hotel, and appeared content. She fixed Ari's tie, offered to help him get backing for Drama's TV movie, and kissed Ari on his way to work, smiling at him as he left. Yet, Ari still was not over Melissa. Sensing this, Dana asked Ari if she was wasting her time because she didn't "have time to waste." This implied that Dana was eager to start a family with Ari. Ari honestly admitted that while he had a great feeling when he was with her, he still loved Melissa. Dana realized that Ari would never be able fully to love her, and she told Ari to go back to Melissa. Dana admitted that Ari's confession made her sad, but she could not be mad at Ari, because he was being honest with her. Dana then kissed Ari one last time, and left, appearing to be slightly crying. (It was her last appearance on Entourage.)</p>
+<p>In the series finale, Ari decides to leave his company permanently, to spend time with his wife traveling around the world. During the closing credits of the final episode, the screen cuts to a shot of Ari and his wife relaxing on holiday. As his wife walks away, Ari receives a phone call from John Ellis asking Ari to replace him as chairman and CEO of Time Warner.</p>
+<h2><span class="mw-headline" id="Inspiration">Inspiration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=edit&amp;section=2" title="Edit section: Inspiration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ari's character is based in part on the real-life Hollywood agent <a href="/wiki/Ari_Emanuel" title="Ari Emanuel">Ari Emanuel</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> who broke away from mega-agency <a href="/wiki/International_Creative_Management" class="mw-redirect" title="International Creative Management">ICM</a> to form the <a href="/wiki/Endeavor_Talent_Agency" title="Endeavor Talent Agency">Endeavor Talent Agency</a>, which represents such stars as <a href="/wiki/Vin_Diesel" title="Vin Diesel">Vin Diesel</a> and <a href="/wiki/Larry_David" title="Larry David">Larry David</a>, both of whom are represented on the show by the fictional Ari Gold. Likewise, both Emanuel and Gold represent series producer <a href="/wiki/Mark_Wahlberg" title="Mark Wahlberg">Mark Wahlberg</a>, upon whose experiences in Hollywood the series is loosely based. Ari Emanuel also once represented Jeremy Piven himself, and in an interview on the special features of the Season 3 Part 2 DVD, Entourage creator <a href="/wiki/Doug_Ellin" title="Doug Ellin">Doug Ellin</a> says that Ari Emanuel demanded the "Ari Gold" part be cast to Piven and wouldn't accept anyone else to play him. Ari Gold, in the episode 'Playin with Fire' says that director Peter Berg was his roommate in college.</p>
+<p>Ari Emanuel is the brother of <a href="/wiki/Ezekiel_Emanuel" title="Ezekiel Emanuel">Ezekiel Emanuel</a>, a <a href="/wiki/Bioethicist" class="mw-redirect" title="Bioethicist">bioethicist</a>, and <a href="/wiki/Rahm_Emanuel" title="Rahm Emanuel">Rahm Emanuel</a>, the current mayor of <a href="/wiki/Chicago" title="Chicago">Chicago</a>, and former White House Chief of Staff to President <a href="/wiki/Barack_Obama" title="Barack Obama">Barack Obama</a>, and a member of the <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">House of Representatives</a>, representing a <a href="/wiki/Chicagoland" class="mw-redirect" title="Chicagoland">Chicago-area</a> <a href="/wiki/Congressional_district" title="Congressional district">district</a>.</p>
+<h2><span class="mw-headline" id="Ari_Gold_Book">Ari Gold Book</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=edit&amp;section=3" title="Edit section: Ari Gold Book">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"The Gold Standard: Rules to Rule By" by Ari Gold is a memoir and self-help guide "that's about as legitimate and motivational as any book written by a fictitious character can get."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Published by Hachette Books,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> the book is framed around 18 rules (including "Either You Know it All or You Blow it All" and "Keep a Scorecard for Favors") with accompanying anecdotes about how Gold discovered, developed and/or follows his own rules. Written in the fast-talking, hard-hitting and arrogant style of Hollywood's most powerful agent, ""The Gold Standard" raises the standard for books spawned by TV shows or movies."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Among the politically incorrect remarks, crass sexual humor and sly references to recent, real-life celebrity headlines, the book contains some pretty great words of wisdom, such as "life is not about learning from your failures; it's about learning so you don't fail" and "don't half-ass anything. Always use your full ass." Contently Magazine described it as "possibly the greatest piece of cross-marketing ever."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> An Amazon bestseller, the book was written by Joey Boukadakis, Jake Greene, and Doug Ellin.</p>
+<h2><span class="mw-headline" id="Former_clients_and_associates">Former clients and associates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=edit&amp;section=4" title="Edit section: Former clients and associates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>List of Ari Gold's associates at MGA, the "Miller/Gold Agency" (officially opened in season 3, episode 8):</p>
+<ul>
+<li><a href="/wiki/List_of_recurring_characters_in_Entourage#Barbara_.22Babs.22_Miller" class="mw-redirect" title="List of recurring characters in Entourage">Barbara "Babs" Miller</a> (Sr. Partner, Co-CEO &amp; Co-founder)</li>
+<li><a href="/wiki/List_of_recurring_characters_in_Entourage#Andrew_Klein" class="mw-redirect" title="List of recurring characters in Entourage">Andrew Klein</a> (Partner, Former Head of Television Department, stated in season 7, episode 2, that he was left for sexual addiction rehab)</li>
+<li><a href="/wiki/List_of_recurring_characters_in_Entourage#Lloyd_Lee" class="mw-redirect" title="List of recurring characters in Entourage">Lloyd Lee</a> (Former assistant to Ari Gold, now Head of Television Department and Sr. Partner alongside Babs)</li>
+<li><a href="/wiki/List_of_recurring_characters_in_Entourage#Lizzie_Grant" class="mw-redirect" title="List of recurring characters in Entourage">Lizzy Grant</a> (Former junior Agent in the Television Department)</li>
+</ul>
+<p>Former clients of Ari Gold, both real and fictional celebrities:</p>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Vincent_Chase" title="Vincent Chase">Vincent Chase</a></li>
+<li><a href="/wiki/List_of_recurring_characters_in_Entourage#Other_minor_recurring_characters" class="mw-redirect" title="List of recurring characters in Entourage">Justine Chapin</a></li>
+<li><a href="/wiki/List_of_recurring_characters_in_Entourage#Nick_Rubenstein" class="mw-redirect" title="List of recurring characters in Entourage">Nick Rubenstein</a></li>
+<li><a href="/wiki/List_of_recurring_characters_in_Entourage#Bob_Ryan" class="mw-redirect" title="List of recurring characters in Entourage">Bob Ryan</a></li>
+<li><a href="/wiki/List_of_recurring_characters_in_Entourage#Billy_Walsh" class="mw-redirect" title="List of recurring characters in Entourage">Billy Walsh</a></li>
+<li><a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a></li>
+<li><a href="/wiki/Gary_Busey" title="Gary Busey">Gary Busey</a></li>
+<li><a href="/wiki/Gwyneth_Paltrow" title="Gwyneth Paltrow">Gwyneth Paltrow</a></li>
+<li><a href="/wiki/Sydney_Pollack" title="Sydney Pollack">Sydney Pollack</a></li>
+<li><a href="/wiki/Eric_Roberts" title="Eric Roberts">Eric Roberts</a></li>
+<li><a href="/wiki/Jon_Cryer" title="Jon Cryer">Jon Cryer</a></li>
+<li><a href="/wiki/Jeffrey_Tambor" title="Jeffrey Tambor">Jeffrey Tambor</a></li>
+<li><a href="/wiki/Johnny_Drama" class="mw-redirect" title="Johnny Drama">Johnny Drama</a></li>
+<li><a href="/wiki/Melinda_Clarke" title="Melinda Clarke">Melinda Clarke</a></li>
+<li><a href="/wiki/Queen_Latifah" title="Queen Latifah">Queen Latifah</a></li>
+<li><a href="/wiki/Mark_Wahlberg" title="Mark Wahlberg">Mark Wahlberg</a></li>
+<li><a href="/wiki/Eva_Longoria" title="Eva Longoria">Eva Longoria</a></li>
+<li><a href="/wiki/Lindsay_Lohan" title="Lindsay Lohan">Lindsay Lohan</a></li>
+<li><a href="/wiki/Larry_David" title="Larry David">Larry David</a></li>
+<li><a href="/wiki/Vin_Diesel" title="Vin Diesel">Vin Diesel</a></li>
+<li><a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Bow Wow</a></li>
+<li><a href="/wiki/Richard_Kelly_(director)" title="Richard Kelly (director)">Richard Kelly</a></li>
+<li><a href="/wiki/Richard_Schiff" title="Richard Schiff">Richard Schiff</a></li>
+<li><a href="/wiki/Rob_Reiner" title="Rob Reiner">Rob Reiner</a></li>
+<li><a href="/wiki/M._Night_Shyamalan" title="M. Night Shyamalan">M. Night Shyamalan</a></li>
+<li><a href="/wiki/James_Woods" title="James Woods">James Woods</a></li>
+<li><a href="/wiki/Leonardo_DiCaprio" title="Leonardo DiCaprio">Leonardo DiCaprio</a></li>
+<li><a href="/wiki/Hugh_Jackman" title="Hugh Jackman">Hugh Jackman</a></li>
+<li><a href="/wiki/Jessica_Biel" title="Jessica Biel">Jessica Biel</a></li>
+<li><a href="/wiki/Sharon_Stone" title="Sharon Stone">Sharon Stone</a></li>
+<li><a href="/wiki/T.I." title="T.I.">T.I.</a></li>
+<li><a href="/wiki/Zac_Efron" title="Zac Efron">Zac Efron</a></li>
+<li><a href="/wiki/Matt_Damon" title="Matt Damon">Matt Damon</a></li>
+<li><a href="/wiki/David_Schwimmer" title="David Schwimmer">David Schwimmer</a></li>
+<li><a href="/wiki/Nick_Cassavetes" title="Nick Cassavetes">Nick Cassavetes</a></li>
+<li><a href="/wiki/Ryan_Reynolds" title="Ryan Reynolds">Ryan Reynolds</a></li>
+<li><a href="/wiki/Mike_Tyson" title="Mike Tyson">Mike Tyson</a></li>
+<li><a href="/wiki/Jessica_Simpson" title="Jessica Simpson">Jessica Simpson</a></li>
+<li><a href="/wiki/Aaron_Sorkin" title="Aaron Sorkin">Aaron Sorkin</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a rel="nofollow" class="external text" href="http://www.success.com/article/where-ari-gold-ends-and-jeremy-piven-begins">Where Ari Gold Ends and Jeremy Piven Begins</a></p>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.variety.com/article/VR1117891313.html?categoryiesdsd=3&amp;cs=1">"Showrunner added to Wahlberg's 'Entourage'"</a> by Michael Fleming, Variety August 21, 2003 retrieved August 23, 2006.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.redeyechicago.com/artsculture/redeye-gold-standard-ari-gold-entourage-book-review-20150602-story.html">http://www.redeyechicago.com/artsculture/redeye-gold-standard-ari-gold-entourage-book-review-20150602-story.html</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.hachettebookgroup.com/_b2c/media/files/25-02-2015/2012-02-25_ACQ_Ari_Gold.pdf">https://www.hachettebookgroup.com/_b2c/media/files/25-02-2015/2012-02-25_ACQ_Ari_Gold.pdf</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.redeyechicago.com/artsculture/redeye-gold-standard-ari-gold-entourage-book-review-20150602-story.html">http://www.redeyechicago.com/artsculture/redeye-gold-standard-ari-gold-entourage-book-review-20150602-story.html</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://contently.com/strategist/2015/05/13/is-ari-golds-new-book-the-greatest-piece-of-content-marketing-ever/">https://contently.com/strategist/2015/05/13/is-ari-golds-new-book-the-greatest-piece-of-content-marketing-ever/</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.hbo.com/entourage/cast-and-crew#/entourage/cast-and-crew/ari/index.html">Official HBO web page</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Entourage" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Entourage" title="Template:Entourage"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Entourage" title="Template talk:Entourage"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Entourage&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Entourage" style="font-size:114%;margin:0 4em"><i><a href="/wiki/Entourage_(U.S._TV_series)" title="Entourage (U.S. TV series)">Entourage</a></i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Characters</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eric_Murphy" title="Eric Murphy">Eric "E" Murphy</a></li>
+<li><a href="/wiki/Vincent_Chase" title="Vincent Chase">Vincent Chase</a></li>
+<li><a href="/wiki/Johnny_%22Drama%22_Chase" title="Johnny &quot;Drama&quot; Chase">Johnny "Drama" Chase</a></li>
+<li><a href="/wiki/Turtle_(Entourage)" title="Turtle (Entourage)">Salvatore "Turtle" Assante</a></li>
+<li><strong class="selflink">Ari Gold</strong></li>
+<li><a href="/wiki/List_of_recurring_Entourage_characters" title="List of recurring Entourage characters">Recurring characters</a></li>
+<li><a href="/wiki/List_of_celebrities_appearing_on_Entourage" title="List of celebrities appearing on Entourage">Guests and cameos</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_Entourage_episodes" title="List of Entourage episodes">Episodes</a>
+<ul>
+<li>"<a href="/wiki/Entourage_(episode)" title="Entourage (episode)">Entourage</a>"</li>
+<li>"<a href="/wiki/Lose_Yourself_(Entourage)" title="Lose Yourself (Entourage)">Lose Yourself</a>"</li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Entourage" title="List of awards and nominations received by Entourage">Awards and nominations</a></li>
+<li><a href="/wiki/Entourage_(film)" title="Entourage (film)">Film</a></li>
+<li><i><a href="/wiki/Viking_Quest" title="Viking Quest">Viking Quest</a></i></li>
+<li><i><a href="/wiki/Entourage_(South_Korean_TV_series)" title="Entourage (South Korean TV series)">South Korean remake</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20170406134929
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.100 seconds
+Real time usage: 0.129 seconds
+Preprocessor visited node count: 821/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12478/2097152 bytes
+Template argument size: 1552/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   99.704      1 -total
+ 79.09%   78.853      1 Template:Infobox_character
+ 58.81%   58.640      1 Template:Infobox
+ 16.03%   15.986      6 Template:Ifempty
+ 12.07%   12.030      2 Template:Greater_color_contrast_ratio
+  8.30%    8.278      3 Template:Main_other
+  7.16%    7.138      1 Template:Entourage
+  6.22%    6.199      1 Template:Ensure_AAA_contrast_ratio
+  5.88%    5.863      1 Template:Navbox
+  4.58%    4.568      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6813075-0!*!0!!en!4!* and timestamp 20170406134929 and revision id 765840469
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ari_Gold_(Entourage)&amp;oldid=765840469">https://en.wikipedia.org/w/index.php?title=Ari_Gold_(Entourage)&amp;oldid=765840469</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Entourage_(TV_series)_characters" title="Category:Entourage (TV series) characters">Entourage (TV series) characters</a></li><li><a href="/wiki/Category:Fictional_talent_agents" title="Category:Fictional talent agents">Fictional talent agents</a></li><li><a href="/wiki/Category:Fictional_characters_based_on_real_people" title="Category:Fictional characters based on real people">Fictional characters based on real people</a></li><li><a href="/wiki/Category:Fictional_characters_from_Los_Angeles" title="Category:Fictional characters from Los Angeles">Fictional characters from Los Angeles</a></li><li><a href="/wiki/Category:Fictional_characters_from_Chicago" title="Category:Fictional characters from Chicago">Fictional characters from Chicago</a></li><li><a href="/wiki/Category:Fictional_American_Jews" title="Category:Fictional American Jews">Fictional American Jews</a></li><li><a href="/wiki/Category:Fictional_characters_from_Illinois" title="Category:Fictional characters from Illinois">Fictional characters from Illinois</a></li><li><a href="/wiki/Category:Fictional_Harvard_University_people" title="Category:Fictional Harvard University people">Fictional Harvard University people</a></li><li><a href="/wiki/Category:Fictional_characters_introduced_in_2004" title="Category:Fictional characters introduced in 2004">Fictional characters introduced in 2004</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Pages_using_infobox_character_with_unknown_parameters" title="Category:Pages using infobox character with unknown parameters">Pages using infobox character with unknown parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ari+Gold+%28Entourage%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ari+Gold+%28Entourage%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ari_Gold_(Entourage)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ari_Gold_(Entourage)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ari_Gold_(Entourage)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ari_Gold_(Entourage)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ari_Gold_(Entourage)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;oldid=765840469" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2861136" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ari_Gold_%28Entourage%29&amp;id=765840469" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ari+Gold+%28Entourage%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ari+Gold+%28Entourage%29&amp;returnto=Ari+Gold+%28Entourage%29&amp;oldid=765840469&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ari_Gold_(Entourage)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ari_A._Gold" title="Ari A. Gold – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2861136#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 February 2017, at 19:04.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ari_Gold_(Entourage)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.100","walltime":"0.129","ppvisitednodes":{"value":821,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12478,"limit":2097152},"templateargumentsize":{"value":1552,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   99.704      1 -total"," 79.09%   78.853      1 Template:Infobox_character"," 58.81%   58.640      1 Template:Infobox"," 16.03%   15.986      6 Template:Ifempty"," 12.07%   12.030      2 Template:Greater_color_contrast_ratio","  8.30%    8.278      3 Template:Main_other","  7.16%    7.138      1 Template:Entourage","  6.22%    6.199      1 Template:Ensure_AAA_contrast_ratio","  5.88%    5.863      1 Template:Navbox","  4.58%    4.568      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.032","limit":"10.000"},"limitreport-memusage":{"value":1622723,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20170406134929","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw2195"});});</script>
+	</body>
+</html>

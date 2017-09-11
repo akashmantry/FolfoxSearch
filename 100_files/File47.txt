@@ -1,0 +1,2567 @@
+https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Abu Talib ibn Abd al-Muttalib - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Abu_Talib_ibn_Abd_al-Muttalib","wgTitle":"Abu Talib ibn Abd al-Muttalib","wgCurRevisionId":774037181,"wgRevisionId":774037181,"wgArticleId":23569239,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox person with unknown parameters","Infobox person using ethnicity","Articles with hCards","Articles containing Arabic-language text","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Year of birth unknown","619 deaths","Family of Muhammad","People from Mecca","Banu Hashim"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Abu_Talib_ibn_Abd_al-Muttalib","wgRelevantArticleId":23569239,"wgRequestId":"WO8mbApAADwAAG7U3Z0AAAAM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q297913","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Abu_Talib_ibn_Abd_al-Muttalib rootpage-Abu_Talib_ibn_Abd_al-Muttalib skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Abu Talib ibn Abd al-Muttalib</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Abu Talib ibn ‘Abd al-Muttalib</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span class="nickname">‘Imran or ‘Abd Manaf<sup id="cite_ref-Duas2013_1-0" class="reference"><a href="#cite_note-Duas2013-1">[1]</a></sup></span><br />
+<abbr title="circa">c.</abbr> 539 <a href="/wiki/Common_Era" title="Common Era">CE</a><br />
+<span class="birthplace"><a href="/wiki/Mecca" title="Mecca">Mecca</a>, <a href="/wiki/Hijaz" class="mw-redirect" title="Hijaz">Hijaz</a>, <a href="/wiki/Pre-Islamic_Arabia" title="Pre-Islamic Arabia">Arabian Peninsula</a></span></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td><abbr title="circa">c.</abbr> 619 CE</td>
+</tr>
+<tr>
+<th scope="row">Resting place</th>
+<td class="label"><a href="/wiki/Jannatul_Mualla" class="mw-redirect" title="Jannatul Mualla">Jannatul-Mu‘alla</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>being the uncle of <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> and father of ‘<a href="/wiki/Ali" title="Ali">Ali</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td><a href="/wiki/Fatimah_bint_Asad" title="Fatimah bint Asad">Fatimah bint Asad</a></td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>Talib<br />
+<a href="/wiki/Aqeel_ibn_Abi_Talib" title="Aqeel ibn Abi Talib">‘Aqeel</a><br />
+<a href="/wiki/Ja%27far_ibn_Abi_Talib" title="Ja'far ibn Abi Talib">Ja‘far</a><br />
+‘<a href="/wiki/Ali" title="Ali">Ali</a><br />
+<a href="/wiki/Fakhitah_bint_Abi_Talib" title="Fakhitah bint Abi Talib">Fakhitah</a></td>
+</tr>
+<tr>
+<th scope="row">Parent(s)</th>
+<td>‘<a href="/wiki/Abdul-Muttalib" title="Abdul-Muttalib">Abdul-Muttalib</a><br />
+<a href="/wiki/Fatimah_bint_%E2%80%98Amr" class="mw-redirect" title="Fatimah bint ‘Amr">Fatimah bint ‘Amr</a></td>
+</tr>
+<tr>
+<th scope="row">Relatives</th>
+<td><a href="/wiki/Az-Zubayr_ibn_%27Abd_al-Muttalib" class="mw-redirect" title="Az-Zubayr ibn 'Abd al-Muttalib">Az-Zubayr</a> <small>(brother)</small><br />
+<a href="/wiki/Abd_Allah_ibn_Abd_al_Muttalib" class="mw-redirect" title="Abd Allah ibn Abd al Muttalib">‘Abdullah</a> <small>(brother)</small></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;">
+<tr>
+<td style="background-color:#dcf5dc;;padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Islam" title="Category:Islam">a series</a> on</td>
+</tr>
+<tr>
+<th style="background-color:#dcf5dc;;padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Islam" title="Islam">Islam</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Allah3.svg" class="image"><img alt="Allah3.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Allah3.svg/110px-Allah3.svg.png" width="110" height="110" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Allah3.svg/165px-Allah3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Allah3.svg/220px-Allah3.svg.png 2x" data-file-width="213" data-file-height="213" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/Iman_(concept)" title="Iman (concept)">Beliefs</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Tawhid" title="Tawhid">Oneness</a> <small>of</small> <a href="/wiki/God_in_Islam" title="God in Islam">God</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Prophets_and_messengers_in_Islam" title="Prophets and messengers in Islam">Prophets</a></li>
+<li><a href="/wiki/Islamic_holy_books" title="Islamic holy books">Revealed books</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Islamic_view_of_angels" title="Islamic view of angels">Angels</a></li>
+<li><a href="/wiki/Predestination_in_Islam" title="Predestination in Islam">Predestination</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Islamic_eschatology" title="Islamic eschatology">Day of Resurrection</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/Five_Pillars_of_Islam" title="Five Pillars of Islam">Practices</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Shahada" title="Shahada">Profession of faith</a></li>
+<li><a href="/wiki/Salah" title="Salah">Prayer</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Fasting_in_Islam" title="Fasting in Islam">Fasting</a></li>
+<li><a href="/wiki/Zakat" title="Zakat">Alms-giving</a></li>
+<li><a href="/wiki/Hajj" title="Hajj">Pilgrimage</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/List_of_Islamic_texts" title="List of Islamic texts">Texts</a> and <a href="/wiki/Sharia" title="Sharia">laws</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><i><a href="/wiki/Quran" title="Quran">Quran</a></i></li>
+<li><i><a href="/wiki/Sunnah" title="Sunnah">Sunnah</a></i></li>
+<li><i><a href="/wiki/Hadith" title="Hadith">Hadith</a></i></li>
+</ul>
+<ul>
+<li><a href="/wiki/Sharia" title="Sharia"><i>Sharia</i> <small>(law)</small></a></li>
+<li><a href="/wiki/Fiqh" title="Fiqh"><i>Fiqh</i> <small>(jurisprudence)</small></a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Kalam" title="Kalam"><i>Kalam</i> <small>(dialectic)</small></a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/History_of_Islam" title="History of Islam">History</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Timeline_of_Islamic_history" title="Timeline of Islamic history">Timeline</a></li>
+<li><a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Ahl_al-Bayt" title="Ahl al-Bayt">Ahl al-Bayt</a></i></li>
+<li><i><a href="/wiki/Sahabah" title="Sahabah">Sahabah</a></i></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Rashidun" title="Rashidun">Rashidun</a></i></li>
+<li><a href="/wiki/Imamah_(Shia_doctrine)" title="Imamah (Shia doctrine)">Imamah (Shia doctrine)</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Caliphate" title="Caliphate">Caliphate</a></li>
+<li><a href="/wiki/Spread_of_Islam" title="Spread of Islam">Spread of Islam</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/Islamic_schools_and_branches" title="Islamic schools and branches">Denominations</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Sunni_Islam" title="Sunni Islam">Sunni</a></li>
+<li><a href="/wiki/Shia_Islam" title="Shia Islam">Shia</a></li>
+<li><a href="/wiki/Ibadi" title="Ibadi">Ibadi</a></li>
+<li><a href="/wiki/Sufism" title="Sufism">Sufism</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Quranism" title="Quranism">Quranism</a></li>
+<li><a href="/wiki/Ahmadiyya" title="Ahmadiyya">Ahmadiyya</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Islam_in_the_United_States#Black_Muslim_movements" title="Islam in the United States">Black Muslim movements</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Non-denominational_Muslim" title="Non-denominational Muslim">Nondenominational</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/Islamic_culture" title="Islamic culture">Culture</a> and <a href="/wiki/Muslim_world" title="Muslim world">society</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Calendar</a></li>
+<li><a href="/wiki/Muslim_holidays" title="Muslim holidays">Festivals</a></li>
+<li><a href="/wiki/Islamic_studies" title="Islamic studies">Academics</a></li>
+<li><a href="/wiki/Islamic_art" title="Islamic art">Art</a></li>
+<li><a href="/wiki/Morality_in_Islam" title="Morality in Islam">Moral teachings</a></li>
+<li><a href="/wiki/Islam_and_children" title="Islam and children">Children</a></li>
+<li><a href="/wiki/Islamic_feminism" title="Islamic feminism">Feminism</a></li>
+<li><a href="/wiki/Women_in_Islam" title="Women in Islam">Women</a></li>
+<li><a href="/wiki/Mosque" title="Mosque">Mosque</a></li>
+<li><a href="/wiki/Islamic_philosophy" title="Islamic philosophy">Philosophy</a></li>
+<li><a href="/wiki/Political_aspects_of_Islam" title="Political aspects of Islam">Politics</a></li>
+<li><a href="/wiki/Dawah" title="Dawah">Proselytizing</a></li>
+<li><a href="/wiki/Animals_in_Islam" title="Animals in Islam">Animals</a></li>
+<li><a href="/wiki/LGBT_in_Islam" title="LGBT in Islam">LGBT</a></li>
+<li><a href="/wiki/Islamic_attitudes_towards_science" title="Islamic attitudes towards science">Science</a></li>
+<li><a href="/wiki/Islam_by_country" title="Islam by country">Demographics</a></li>
+<li><a href="/wiki/Islamic_economics" title="Islamic economics">Economics</a></li>
+<li><a href="/wiki/Islamic_banking_and_finance" title="Islamic banking and finance">Finance</a></li>
+<li><a href="/wiki/Islam_and_humanity" title="Islam and humanity">Social welfare</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/Category:Islam" title="Category:Islam">Related topics</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Criticism_of_Islam" title="Criticism of Islam">Criticism of Islam</a></li>
+<li><a href="/wiki/Islam_and_other_religions" title="Islam and other religions">Islam and other religions</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Islamism" title="Islamism">Islamism</a></li>
+<li><a href="/wiki/Islamophobia" title="Islamophobia">Islamophobia</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Glossary_of_Islam" title="Glossary of Islam">Glossary</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.1em;font-weight:bold;line-height:1.5em;">
+<ul>
+<li><a href="/wiki/File:Allah-green.svg" class="image"><img alt="Allah-green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/15px-Allah-green.svg.png" width="15" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/23px-Allah-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/31px-Allah-green.svg.png 2x" data-file-width="206" data-file-height="215" /></a> <a href="/wiki/Portal:Islam" title="Portal:Islam">Islam portal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;padding-right:0.2em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Islam" title="Template:Islam"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Islam" title="Template talk:Islam"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Islam&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Abū Ṭālib <a href="/wiki/Patronymic#Arabic" title="Patronymic">ibn</a> ‘Abd al-Muṭṭalib</b> (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">ابو طالب بن عبد المطلب</span>‎‎; <abbr title="circa">c.</abbr><span style="white-space:nowrap;"> 539</span>&#160;– <abbr title="circa">c.</abbr><span style="white-space:nowrap;"> 619</span>), <i><a href="/wiki/N%C3%A9e" class="mw-redirect" title="Née">née</a></i> <b>‘Imran</b> <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">عِـمـران</span>‎‎) or <b>‘Abd Manaf</b> (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">عَـبـد مَـنـاف</span>‎‎),<sup id="cite_ref-Duas2013_1-1" class="reference"><a href="#cite_note-Duas2013-1">[1]</a></sup> was the leader of <a href="/wiki/Banu_Hashim" title="Banu Hashim">Banu Hashim</a>, a clan of the <a href="/wiki/Quraysh_(tribe)" class="mw-redirect" title="Quraysh (tribe)">Qurayshi tribe</a> of <a href="/wiki/Mecca" title="Mecca">Mecca</a> in the <a href="/wiki/Hijaz" class="mw-redirect" title="Hijaz">Hijaz</a>, <a href="/wiki/Arabian_Peninsula" title="Arabian Peninsula">Arabian Peninsula</a>. After the death of his father ‘<a href="/wiki/Abd_al-Muttalib" class="mw-redirect" title="Abd al-Muttalib">Abd al-Muttalib</a>, he inherited this position and the offices of <i>Siqaya</i> and <i>Rifada</i>.<sup id="cite_ref-Encyclopaedia_of_Islam_2-0" class="reference"><a href="#cite_note-Encyclopaedia_of_Islam-2">[2]</a></sup> He was well respected in Mecca despite a declining fortune.<sup id="cite_ref-Armstrong_3-0" class="reference"><a href="#cite_note-Armstrong-3">[3]</a></sup></p>
+<p>Abu Talib was an uncle of the <a href="/wiki/Prophets_and_messengers_in_Islam" title="Prophets and messengers in Islam">Islamic <i>Nabi</i></a> (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">نَـبِي</span>‎‎, <a href="/wiki/Prophet" title="Prophet">Prophet</a>) <a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a>, and father of the <a href="/wiki/Rashidun_Caliph" class="mw-redirect" title="Rashidun Caliph">Rashid Caliph</a> ‘<a href="/wiki/Ali" title="Ali">Ali</a>, who is also regarded as the first <a href="/wiki/Shia_Islam" title="Shia Islam">Shi'ite</a> Imam. There is a great debate among Muslim scholars on whether he died a Muslim or a non-Muslim.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Relationship_with_Muhammad"><span class="tocnumber">1</span> <span class="toctext">Relationship with Muhammad</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Protecting_Muhammad"><span class="tocnumber">2</span> <span class="toctext">Protecting Muhammad</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Death"><span class="tocnumber">3</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sunni_and_Shi.E2.80.98ite_views"><span class="tocnumber">4</span> <span class="toctext">Sunni and Shi‘ite views</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Historical_Sunni_view"><span class="tocnumber">4.1</span> <span class="toctext">Historical Sunni view</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Historical_Shi.E2.80.98ite_view"><span class="tocnumber">4.2</span> <span class="toctext">Historical Shi‘ite view</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Family"><span class="tocnumber">5</span> <span class="toctext">Family</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#His_ancestors_and_some_of_the_important_descendants"><span class="tocnumber">5.1</span> <span class="toctext">His ancestors and some of the important descendants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Relationship_with_Muhammad">Relationship with Muhammad</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=1" title="Edit section: Relationship with Muhammad">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Abū Ṭālib was a brother of <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a>'s father, <a href="/wiki/Abdullah_ibn_Abdul-Muttalib" title="Abdullah ibn Abdul-Muttalib">'Abdullāh ibn Abdul-Muttalib</a>, who had died before Muhammad's birth. After the death of Muhammad's mother <a href="/wiki/Aminah_bint_Wahab" class="mw-redirect" title="Aminah bint Wahab">Āminah bint Wahb</a>, Muhammad as a child was taken into the care of his grandfather, ‘Abdul-Muttalib. When Muhammad reached eight years of age, 'Abdul-Muttalib died. One of Muhammad's uncles was to take him in. The oldest, Al-Harith was not wealthy enough to take him in. Abu Talib, despite his poverty, took in Muhammad because of his generosity.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Although Abu Talib was responsible for <i>Siqaya</i> and <i>Rifada</i> (Food and Beverages) of <a href="/wiki/Hajj" title="Hajj">Hajj</a> pilgrims, he was poor.</p>
+<p>Muhammad loved his uncle very much, and Abu Talib loved him in return.<sup id="cite_ref-Rubin_5-0" class="reference"><a href="#cite_note-Rubin-5">[5]</a></sup> Abu Talib is remembered as a gifted poet, and many poetic verses in support of Muhammad are attributed to him.<sup id="cite_ref-Encyclopaedia_of_Islam_2-1" class="reference"><a href="#cite_note-Encyclopaedia_of_Islam-2">[2]</a></sup><sup id="cite_ref-Lings_6-0" class="reference"><a href="#cite_note-Lings-6">[6]</a></sup></p>
+<p>Once, as Abu Talib was about to leave for a trading expedition, Muhammad wept and could not bear to be separated from him. To this Abu Talib responded, "By God I will take him with me, and we shall never part from each other." <sup id="cite_ref-Tabari_7-0" class="reference"><a href="#cite_note-Tabari-7">[7]</a></sup></p>
+<p>Later in life, as an adult, Muhammad saw that Abu Talib was struggling financially after a severe drought. Muhammad decided to take charge of one of Abu Talib's children and he convinced <a href="/wiki/Al-%E2%80%98Abbas_ibn_%E2%80%98Abd_al-Muttalib" title="Al-‘Abbas ibn ‘Abd al-Muttalib">al-'Abbas</a> to do the same. They discussed this matter with Abū Ṭālib, who asked that his favorite child 'Aqīl be left with him. Al-'Abbās chose <a href="/wiki/Ja%27far_ibn_Abi_Talib" title="Ja'far ibn Abi Talib">Ja'far</a>, and Muhammad chose <a href="/wiki/Ali_ibn_Abu_Talib" class="mw-redirect" title="Ali ibn Abu Talib">'Alī</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-ref3_9-0" class="reference"><a href="#cite_note-ref3-9">[9]</a></sup><sup id="cite_ref-firstMuslims_10-0" class="reference"><a href="#cite_note-firstMuslims-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Protecting_Muhammad">Protecting Muhammad</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=2" title="Edit section: Protecting Muhammad">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In tribal society, a tribal affiliation is important, otherwise a man can be killed with impunity.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> As leader of the Banu Hashim, Abu Talib acted as a protector to Muhammad. After Muhammad began preaching the message of <a href="/wiki/Islam" title="Islam">Islam</a>, members of the other <a href="/wiki/Quraysh_tribe" class="mw-redirect" title="Quraysh tribe">Qurayshite</a> clans increasingly came to feel threatened by Muḥammad. In attempts to quiet him, they pressured Abū Ṭālib to silence his nephew or control him. Despite these pressures, Abū Ṭālib maintained his support of Muḥammad, defending him from the other leaders of the Quraysh. Leaders of the Quraysh directly confronted Abu Talib several times. Abu Talib brushed them off and continued to support Muhammad even when it put a rift between him and the Quraysh. In one account, the Quraysh even threatened to fight the Banu Hashim over this conflict.<sup id="cite_ref-Rubin_1995_150_14-0" class="reference"><a href="#cite_note-Rubin_1995_150-14">[14]</a></sup> In a particular narration of one such confrontation, Abu Talib summoned Muhammad to speak with the Quraysh. Muhammad asked the Quraysh leaders to say the <a href="/wiki/Shahada" title="Shahada">shahada</a> and they were astounded.<sup id="cite_ref-The_History_of_al-Tabari_15-0" class="reference"><a href="#cite_note-The_History_of_al-Tabari-15">[15]</a></sup></p>
+<p>The Quraysh even tried to bribe Abu Talib. The Quraysh told Abu Talib that if he let them handle Muhammad he could adopt 'Umarah ibn al Walid ibn al Mughirah, the handsomest youth in Quraysh.<sup id="cite_ref-Rubin_1995_150_14-1" class="reference"><a href="#cite_note-Rubin_1995_150-14">[14]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p>When this also failed, the Quraysh elicited the support of other tribes to boycott trading with or marrying members of the Banu Hashim lineage. This boycott started seven years after Muhammad first received revelation and lasted for three years.<sup id="cite_ref-Encyclopaedia_of_Islam_2-2" class="reference"><a href="#cite_note-Encyclopaedia_of_Islam-2">[2]</a></sup> The goal was to put pressure on the Hashimites and even starve them into submission.<sup id="cite_ref-Armstrong_1993_129_18-0" class="reference"><a href="#cite_note-Armstrong_1993_129-18">[18]</a></sup> For the sake of security many members of the Banu Hashim moved near to Abu Talib (Encyclopedia of Islam) and the place became like a ghetto.<sup id="cite_ref-Armstrong_1993_129_18-1" class="reference"><a href="#cite_note-Armstrong_1993_129-18">[18]</a></sup> This didn't cause undue hardship <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> because many had family members in other tribes that would smuggle goods to them.<sup id="cite_ref-Armstrong_1993_129_18-2" class="reference"><a href="#cite_note-Armstrong_1993_129-18">[18]</a></sup> Abu Talib's brother, <a href="/wiki/Abu_Lahab" class="mw-redirect" title="Abu Lahab">Abu Lahab</a>, sided with the Quraysh on this issue; he moved to a house in the district of Abd Shams to demonstrate support for the Quraysh.<sup id="cite_ref-Armstrong_1993_129_18-3" class="reference"><a href="#cite_note-Armstrong_1993_129-18">[18]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> He thought Muhammad was either mad or an impostor.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<p>Protecting Muhammad put considerable pressure on Abu Talib and the Banu Hashim. In one instance Abu Talib exclaimed to Muhammad, "Save me and yourself, and do not put a greater burden on me than I cannot bear". Muhammad responded, "Oh uncle! By God Almighty I swear, even if they should put the sun in my right hand and the moon in my left that I abjure this cause, I shall not do so until God has vindicated it or caused me to perish in the process."<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Seeing his nephew's emotion, Abu Talib responded, "Go, nephew, and say what you like. By God, I will never hand you over for any reason."<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=3" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Abū Ṭālib's died circa 619, at more than 80 years of age, about 10 years after the start of Muhammad's mission.<sup id="cite_ref-Encyclopaedia_of_Islam_2-3" class="reference"><a href="#cite_note-Encyclopaedia_of_Islam-2">[2]</a></sup> This year is known as the <a href="/wiki/Year_of_Sorrow" title="Year of Sorrow">Year of Sorrow</a> for Muhammad, because not only did his uncle Abu Talib die, but also his wife <a href="/wiki/Khadijah_bint_Khuwaylid" class="mw-redirect" title="Khadijah bint Khuwaylid">Khadijah bint Khuwaylid</a>, within a month of Abu Talib.</p>
+<p>Before Abu Talib died, Muhammad asked him to pronounce the <a href="/wiki/Shahadah" class="mw-redirect" title="Shahadah">Shahadah</a>.<sup id="cite_ref-The_History_of_al-Tabari_15-1" class="reference"><a href="#cite_note-The_History_of_al-Tabari-15">[15]</a></sup> In another tradition Abu Talib was dissuaded from saying the Shahadah by the Quraysh, false statement.<sup id="cite_ref-Donner_245_24-0" class="reference"><a href="#cite_note-Donner_245-24">[24]</a></sup> According to the historiographer Fred McGraw Donner, both of these traditions have very old <a href="/wiki/Isnad" class="mw-redirect" title="Isnad">isnads</a> but the first variation has two different isnads which might suggest that the second variation is a modification of the older, first variation.<sup id="cite_ref-Donner_245_24-1" class="reference"><a href="#cite_note-Donner_245-24">[24]</a></sup></p>
+<p>In yet another variation of Abu Talib's death, al-'Abbas, who was sitting next to Abu Talib as he died, saw Abu Talib moving his lips. Al-'Abbas claimed that Abu Talib had said the shahada but Muhammad replied that he had not heard it.<sup id="cite_ref-Encyclopaedia_of_Islam_2-4" class="reference"><a href="#cite_note-Encyclopaedia_of_Islam-2">[2]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> Some Muslims see this as proof that Abu Talib died a Muslim. However, the majority of sources state that Abu Talib died a pagan.</p>
+<p>After Abu Talib's death, Muhammad was left unprotected. Abu Talib's brother and successor as the Chief of the family, that is Abu Lahab, did not protect him, as he was an enemy of Muhammad, so Muhammad and his followers faced incredible persecution. Muhammad is quoted as exclaiming, "By God, Quraysh never harmed me so much as after the death of Abu Talib."<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> The early Muslims relocated to Medina in order to escape persecution by the Quraysh.</p>
+<h2><span class="mw-headline" id="Sunni_and_Shi.E2.80.98ite_views">Sunni and Shi‘ite views</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=4" title="Edit section: Sunni and Shi‘ite views">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The memory of Abu Talib is influenced by political aims of the Sunnis and Shias.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The character of Abu Talib was elemental in the <a href="/wiki/Abbasid" class="mw-redirect" title="Abbasid">Abbasid</a>/Shia power struggle.</p>
+<p>Originally, the Abbasids, being Shi‘ites, worked with Ajamis to overthrow the <a href="/wiki/Umayyad" class="mw-redirect" title="Umayyad">Umayyad</a> dynasty, and both tried to legitimize their claim to power through ancestral relationship to Muhammad.<sup id="cite_ref-Donner_237_30-0" class="reference"><a href="#cite_note-Donner_237-30">[30]</a></sup> The Abbasids traced their ancestry to <a href="/wiki/Al-Abbas_ibn_Abd_al-Muttalib" class="mw-redirect" title="Al-Abbas ibn Abd al-Muttalib">al-Abbas</a>, while the Shias traced their ancestry to 'Ali, son of Abu Talib. Therefore, in order to assert their credibility, the Abbasids (who embraced Sunni Islam) tried to discredit Abu Talib by emphasizing that he died a pagan.<sup id="cite_ref-Donner_245_24-2" class="reference"><a href="#cite_note-Donner_245-24">[24]</a></sup> All historical error can say history is always having different angles.</p>
+<h3><span class="mw-headline" id="Historical_Sunni_view">Historical Sunni view</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=5" title="Edit section: Historical Sunni view">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is reporeted in the Sunni hadith collections of Sahih Muslim and Bukhari that the Quranic verse 28:56 ("O Prophet! Verily, you guide not whom you like, but Allah guides whom He will") was revealed concerning Abu Talib's rejection of Islam at the hands of his nephew.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<p>The Abbasids tried to emphasize Muhammad's disappointment in Abu Talib; in one tradition recorded by the historian <a href="/wiki/Al-Mada%27ini" title="Al-Mada'ini">al-Mada'ini</a>, and widely circulated by the Abbasids, one of two men states, "I wish that Abu Talib had embraced Islam, for the Apostle of God would have been delighted at that. But he was an unbeliever."<sup id="cite_ref-Donner_238_33-0" class="reference"><a href="#cite_note-Donner_238-33">[33]</a></sup></p>
+<p>Along the same lines, there is a similar account where 'Ali informs Muhammad of Abu Talib's death by saying, "Your uncle, the erring old man, has died."<sup id="cite_ref-Donner_239_34-0" class="reference"><a href="#cite_note-Donner_239-34">[34]</a></sup></p>
+<h3><span class="mw-headline" id="Historical_Shi.E2.80.98ite_view">Historical Shi‘ite view</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=6" title="Edit section: Historical Shi‘ite view">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Shi‘ites believe that the father of the first imam, 'Ali, must be nearly as great as the imam himself. Shias elevate Abu Talib and see him as a heroic defender of Muhammad. Many sources from this perspective claim that Abu Talib was indeed Muslim, he just kept his faith a secret so that he could better protect Muhammad (150 Rubin).</p>
+<p>In one account, when Abu Talib was ill, Muhammad fed grapes to him that God forbade unbelievers to eat. This implies that Abu Talib had accepted Islam despite his outward actions.<sup id="cite_ref-Donner_239_34-1" class="reference"><a href="#cite_note-Donner_239-34">[34]</a></sup></p>
+<p>Some Shi‘ites go so far as to insist that even the ancestors of Abu Talib were Muslim. Abu Talib was a descendant of <a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">Isma‘il</a> <a href="/wiki/Patronymic#Arabic" title="Patronymic">ibn</a> <a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">Ibrahim</a>,<sup id="cite_ref-Donner_2405_35-0" class="reference"><a href="#cite_note-Donner_2405-35">[35]</a></sup> and Shi‘ites believe that the "divine transmigration of the spirit" is applied to ancestors as well as descendants.<sup id="cite_ref-Armstrong2_36-0" class="reference"><a href="#cite_note-Armstrong2-36">[36]</a></sup> However, according to the <a href="/wiki/Qur%E2%80%99an" class="mw-redirect" title="Qur’an">Qur’an</a>, Ibrahim's father <a href="/wiki/Terah#Islamic_tradition" title="Terah">Azar</a> was an <a href="/wiki/Shirk_(Islam)" title="Shirk (Islam)">Idolator</a> and <a href="/wiki/Kafir" title="Kafir">Disbeliever</a>.<sup id="cite_ref-Cite_quran.7C6.7C74.7Ce.3D90.7Cs.3Dns_37-0" class="reference"><a href="#cite_note-Cite_quran.7C6.7C74.7Ce.3D90.7Cs.3Dns-37">[37]</a></sup><sup id="cite_ref-Cite_quran.7C9.7C113.7Ce.3D114.7Cs.3Dns_38-0" class="reference"><a href="#cite_note-Cite_quran.7C9.7C113.7Ce.3D114.7Cs.3Dns-38">[38]</a></sup><sup id="cite_ref-Cite_quran.7C19.7C41.7Ce.3D50.7Cs.3Dns_39-0" class="reference"><a href="#cite_note-Cite_quran.7C19.7C41.7Ce.3D50.7Cs.3Dns-39">[39]</a></sup><sup id="cite_ref-Ibn_Kathir.2C_QAN_40-0" class="reference"><a href="#cite_note-Ibn_Kathir.2C_QAN-40">[40]</a></sup></p>
+<p>Others claimed that even if Abu Talib did not accept Islam, he did a great service to Islam by protecting Muhammad from the Quraysh, sentence itself is confirm that only Muslim can do what Abu Talib manage. They put the blame of Abu Talib's failure to convert on the Quarysh, no need to blame as this is a close chapter Abu Talib was not to blame.<sup id="cite_ref-Donner_2405_35-1" class="reference"><a href="#cite_note-Donner_2405-35">[35]</a></sup></p>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=7" title="Edit section: Family">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Abu Talib was married to <a href="/wiki/Fatimah_bint_Asad" title="Fatimah bint Asad">Fatimah bint Asad</a>. They had four sons:</p>
+<ul>
+<li><a href="/wiki/Talib_ibn_Abi_Talib" title="Talib ibn Abi Talib">Ṭālib ibn Abī Ṭālib</a></li>
+<li><a href="/wiki/Aqeel_ibn_Abi_Talib" title="Aqeel ibn Abi Talib">'Aqīl ibn Abī Ṭālib</a></li>
+<li><a href="/wiki/Ja%60far_bin_Abi_Talib" class="mw-redirect" title="Ja`far bin Abi Talib">Ja'far ibn Abī Ṭālib</a></li>
+<li><a href="/wiki/Ali_ibn_Abi_Talib" class="mw-redirect" title="Ali ibn Abi Talib">'Alī ibn Abī Ṭālib</a></li>
+</ul>
+<p>and three daughters:</p>
+<ul>
+<li><a href="/wiki/Fakhitah_bint_Abi_Talib" title="Fakhitah bint Abi Talib">Fākhitah bint Abī Ṭālib</a> (Umm Hānī)</li>
+<li><a href="/wiki/Jumanah_bint_Abi_Talib" title="Jumanah bint Abi Talib">Jumānah bint Abī Ṭālib</a></li>
+<li><a href="/wiki/Rayta_bint_Abi_Talib" title="Rayta bint Abi Talib">Rayta bint Abī Ṭālib (Asma or Umm Talib)</a></li>
+</ul>
+<p>By another wife, Illa, he had a fifth son:</p>
+<ul>
+<li>Tulayq ibn Abī Ṭālib<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="His_ancestors_and_some_of_the_important_descendants">His ancestors and some of the important descendants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=8" title="Edit section: His ancestors and some of the important descendants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><br /></p>
+<table style="border-spacing: 0; font-size:100%;" title="">
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><b><a href="/wiki/Quraysh_tribe" class="mw-redirect" title="Quraysh tribe">Quraysh tribe</a></b></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px dashed black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px dashed black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Abd_Manaf_ibn_Qusai" title="Abd Manaf ibn Qusai">Abd Manaf ibn Qusai</a></td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Atikah_bint_Murrah" title="Atikah bint Murrah">Ātikah bint Murrah</a></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Abd_Shams_ibn_Abd_Manaf" title="Abd Shams ibn Abd Manaf">‘Abd Shams</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;">Barra</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Muttalib_ibn_Abd_Manaf" title="Muttalib ibn Abd Manaf">Muṭṭalib</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;">Hala</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Hashim_ibn_%27Abd_Manaf" class="mw-redirect" title="Hashim ibn 'Abd Manaf">Hashim</a></td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Salma_bint_Amr" title="Salma bint Amr">Salma bint Amr</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px dashed black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;">Umayya ibn Abd Shams</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Abdul-Muttalib" title="Abdul-Muttalib">‘Abd al-Muttalib</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;">Harb</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Abu_al-%27As_ibn_Umayyah" title="Abu al-'As ibn Umayyah">Abu al-'As</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Aminah" title="Aminah">ʿĀminah</a></td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Abdullah_ibn_Abdul-Muttalib" title="Abdullah ibn Abdul-Muttalib">ʿAbd Allāh</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Abu_Talib_ibn_Abdul-Muttalib" class="mw-redirect" title="Abu Talib ibn Abdul-Muttalib">Abî Ṭâlib</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Hamza_ibn_Abdul-Muttalib" title="Hamza ibn Abdul-Muttalib">Hamza</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Al-%E2%80%98Abbas_ibn_%E2%80%98Abd_al-Muttalib" title="Al-‘Abbas ibn ‘Abd al-Muttalib">Al-‘Abbas</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Abu_Sufyan_ibn_Harb" title="Abu Sufyan ibn Harb">ʾAbī Sufyān ibn Harb</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Al-Hakam_ibn_Abi_al-%27As" title="Al-Hakam ibn Abi al-'As">Al-Hakam</a></td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Affan_ibn_Abi_al-%27As" title="Affan ibn Abi al-'As">Affan ibn Abi al-'As</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Muhammad" title="Muhammad"><b>MUHAMMAD</b></a><br />
+<small><i>(<a href="/wiki/Family_tree_of_Muhammad" title="Family tree of Muhammad">Family tree</a>)</i></small></td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Khadija_bint_Khuwaylid" title="Khadija bint Khuwaylid">Khadija bint Khuwaylid</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Ali" title="Ali">`Alî al-Mûrtdhā</a></td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;">Khawlah bint Ja'far</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Abd_Allah_ibn_Abbas" title="Abd Allah ibn Abbas">ʿAbd Allâh</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px dashed black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Muawiyah_I" title="Muawiyah I">Muʿāwiyah</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Marwan_I" title="Marwan I">Marwan I</a></td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Uthman_ibn_Affan" class="mw-redirect" title="Uthman ibn Affan">Uthman ibn Affan</a></td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Ruqayyah_bint_Muhammad" title="Ruqayyah bint Muhammad">Ruqayyah</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Fatima_Zahra" class="mw-redirect" title="Fatima Zahra">Fatima Zahra</a></td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px dashed black;border-bottom:1px dashed black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Muhammad_ibn_al-Hanafiyyah" title="Muhammad ibn al-Hanafiyyah">Muhammad ibn al-Hanafiyyah</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;">ʿAli bin ʿAbd Allâh</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px dashed black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Umayyad_family_tree" title="Umayyad family tree">Umayyad</a> <a href="/wiki/Umayyad" class="mw-redirect" title="Umayyad">Caliphate</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Uthman_ibn_Abu-al-Aas" title="Uthman ibn Abu-al-Aas">Uthman ibn Abu-al-Aas</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Hasan_bin_Ali" class="mw-redirect" title="Hasan bin Ali">Hasan al-Mûjtabâ</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Husayn_bin_Ali" class="mw-redirect" title="Husayn bin Ali">Husayn bin Ali</a><br />
+<small><i>(<a href="/wiki/Family_tree_of_Husayn_ibn_Ali" title="Family tree of Husayn ibn Ali">Family tree</a>)</i></small></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Mukhtar_al-Thaqafi" title="Mukhtar al-Thaqafi">al-Mukhtār ibn Abī ‘Ubayd Allah al-Thaqafī</a><br />
+<i>(Abû‘Amra`<a href="/wiki/Kaysanites_Shia" class="mw-redirect" title="Kaysanites Shia">Kaysan</a>’îyyah)</i></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em; background:LightBlue;;"><a href="/wiki/Muhammad_ibn_Ali_ibn_Abdallah" title="Muhammad ibn Ali ibn Abdallah">Muhammad <b>"al-Imâm"</b></a> <i>(<a href="/wiki/Abbasids" class="mw-redirect" title="Abbasids">Abbasids</a>)</i></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Family_tree_of_Ali" title="Family tree of Ali">Family tree of Ali</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Duas2013-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Duas2013_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Duas2013_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.duas.org/abutalibas.htm">"Abu-Talib (a.s.) The Greatest Guardian of Islam"</a>. <i>duas.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.atitle=Abu-Talib+%28a.s.%29+The+Greatest+Guardian+of+Islam&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.duas.org%2Fabutalibas.htm&amp;rft.jtitle=duas.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Encyclopaedia_of_Islam-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Encyclopaedia_of_Islam_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Encyclopaedia_of_Islam_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Encyclopaedia_of_Islam_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Encyclopaedia_of_Islam_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Encyclopaedia_of_Islam_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Rubin, Uri (2013). Gudrun Kramer; Denis Matringe; John Nawas; Everett Rowson, eds. <i>Encyclopaedia of Islam, Three</i>. Brill Online.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Uri&amp;rft.aulast=Rubin&amp;rft.btitle=Encyclopaedia+of+Islam%2C+Three&amp;rft.date=2013&amp;rft.genre=book&amp;rft.pub=Brill+Online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Armstrong-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Armstrong_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Armstrong, Karen (1992). <i>Muhammad: A Biography of the Prophet</i>. San Francisco: Harper Collins. p.&#160;77.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Karen&amp;rft.aulast=Armstrong&amp;rft.btitle=Muhammad%3A+A+Biography+of+the+Prophet&amp;rft.date=1992&amp;rft.genre=book&amp;rft.pages=77&amp;rft.place=San+Francisco&amp;rft.pub=Harper+Collins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Haykal, Muhammad Husayn (1976). <i>The Life of Muhammad</i>. North American Trust Publications. p.&#160;54.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Muhammad+Husayn&amp;rft.aulast=Haykal&amp;rft.btitle=The+Life+of+Muhammad&amp;rft.date=1976&amp;rft.genre=book&amp;rft.pages=54&amp;rft.pub=North+American+Trust+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rubin-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rubin_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Rubin, Uri (1995). <i>The Eye of the Beholder</i>. Princeton, NJ: Darwin Press, Inc. p.&#160;93.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Uri&amp;rft.aulast=Rubin&amp;rft.btitle=The+Eye+of+the+Beholder&amp;rft.date=1995&amp;rft.genre=book&amp;rft.pages=93&amp;rft.place=Princeton%2C+NJ&amp;rft.pub=Darwin+Press%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Lings-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lings_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Lings, Martin (2006). <i>Muhammad: His Life Based on the Earliest Sources</i>. Rochester, VT: Inner Traditions. p.&#160;33.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Martin&amp;rft.aulast=Lings&amp;rft.btitle=Muhammad%3A+His+Life+Based+on+the+Earliest+Sources&amp;rft.date=2006&amp;rft.genre=book&amp;rft.pages=33&amp;rft.place=Rochester%2C+VT&amp;rft.pub=Inner+Traditions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Tabari-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tabari_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>The History of al-Tabari</i>. Albany: State University of New York Press. 1988. p.&#160;44.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.btitle=The+History+of+al-Tabari&amp;rft.date=1988&amp;rft.genre=book&amp;rft.pages=44&amp;rft.place=Albany&amp;rft.pub=State+University+of+New+York+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Ibn Hisham, al-Sirah, Vol. I, p.162.</span></li>
+<li id="cite_note-ref3-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-ref3_9-0">^</a></b></span> <span class="reference-text">Tārīkh Al-Tabarī (vol 2 p.63), Tārīkh ibn Al-Athīr (vol 2 p.24), Musnad of Aḥmed ibn Ḥanbal (vol 1 p.159), Al-Sīrat al-Nabawīyah by ibn Kathīr (vol 1 p.457-459).</span></li>
+<li id="cite_note-firstMuslims-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-firstMuslims_10-0">^</a></b></span> <span class="reference-text">Sunan al-Tirmidhī (vol 2 p.301), Al-Ṭabaqāt Al-Kubrā - ibn Sa'd (vol 3 kklkp.12), Usd Al-Ghābah (vol 4 p.17), Kanz al-'Ummāl (vol 6 p.400), Tārīkh Al-Ṭabarī (vol 2 p.55), Tārīkh Baghdād (vol 2 p.18)</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Armstrong, Karen (1993). <i>Muhammad: A Biography of the Prophet</i>. San Francisco: Harper Collins. p.&#160;81.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Karen&amp;rft.aulast=Armstrong&amp;rft.btitle=Muhammad%3A+A+Biography+of+the+Prophet&amp;rft.date=1993&amp;rft.genre=book&amp;rft.pages=81&amp;rft.place=San+Francisco&amp;rft.pub=Harper+Collins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>The History of al-Tabari</i>. Albany: State University Press. 1985. p.&#160;83.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.btitle=The+History+of+al-Tabari&amp;rft.date=1985&amp;rft.genre=book&amp;rft.pages=83&amp;rft.place=Albany&amp;rft.pub=State+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Armstrong, Karen (2000). <i>Islam: A Short History</i>. New York: Modern Library. p.&#160;13.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Karen&amp;rft.aulast=Armstrong&amp;rft.btitle=Islam%3A+A+Short+History&amp;rft.date=2000&amp;rft.genre=book&amp;rft.pages=13&amp;rft.place=New+York&amp;rft.pub=Modern+Library&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rubin_1995_150-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rubin_1995_150_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rubin_1995_150_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Rubin, Uri (1995). <i>The Eye of the Beholder</i>. Princeton, NJ: Darwin Press, Inc. p.&#160;150.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Uri&amp;rft.aulast=Rubin&amp;rft.btitle=The+Eye+of+the+Beholder&amp;rft.date=1995&amp;rft.genre=book&amp;rft.pages=150&amp;rft.place=Princeton%2C+NJ&amp;rft.pub=Darwin+Press%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_History_of_al-Tabari-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_History_of_al-Tabari_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_History_of_al-Tabari_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><i>The History of al-Tabari</i>. New York: State University Press. 1985. p.&#160;95.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.btitle=The+History+of+al-Tabari&amp;rft.date=1985&amp;rft.genre=book&amp;rft.pages=95&amp;rft.place=New+York&amp;rft.pub=State+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>The History of al-Tabari</i>. New York: State University Press. 1985. p.&#160;97.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.btitle=The+History+of+al-Tabari&amp;rft.date=1985&amp;rft.genre=book&amp;rft.pages=97&amp;rft.place=New+York&amp;rft.pub=State+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation book">Haykal, Muhammad Husayn (1976). <i>The Life of Muhammad</i>. North American Trust Publications. p.&#160;88.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Muhammad+Husayn&amp;rft.aulast=Haykal&amp;rft.btitle=The+Life+of+Muhammad&amp;rft.date=1976&amp;rft.genre=book&amp;rft.pages=88&amp;rft.pub=North+American+Trust+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Armstrong_1993_129-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Armstrong_1993_129_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Armstrong_1993_129_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Armstrong_1993_129_18-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Armstrong_1993_129_18-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Armstrong, Karen (1993). <i>Muhammad: A Biography of the Prophet</i>. San Francisco: Harper Collins. p.&#160;129.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Karen&amp;rft.aulast=Armstrong&amp;rft.btitle=Muhammad%3A+A+Biography+of+the+Prophet&amp;rft.date=1993&amp;rft.genre=book&amp;rft.pages=129&amp;rft.place=San+Francisco&amp;rft.pub=Harper+Collins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>The History of al-Tabari</i>. New York: State University Press. 1985. p.&#160;xliv.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.btitle=The+History+of+al-Tabari&amp;rft.date=1985&amp;rft.genre=book&amp;rft.pages=xliv&amp;rft.place=New+York&amp;rft.pub=State+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation book">Lings, Martin (2006). <i>Muhammad: His Life Based on the Earliest Sources</i>. Rochester, VT: Inner Traditions. p.&#160;90.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Martin&amp;rft.aulast=Lings&amp;rft.btitle=Muhammad%3A+His+Life+Based+on+the+Earliest+Sources&amp;rft.date=2006&amp;rft.genre=book&amp;rft.pages=90&amp;rft.place=Rochester%2C+VT&amp;rft.pub=Inner+Traditions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book">Lings, Martin (2006). <i>Muhammad: His Life Based on the Earliest Sources</i>. Rochester, VT: Inner Traditions. p.&#160;52.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Martin&amp;rft.aulast=Lings&amp;rft.btitle=Muhammad%3A+His+Life+Based+on+the+Earliest+Sources&amp;rft.date=2006&amp;rft.genre=book&amp;rft.pages=52&amp;rft.place=Rochester%2C+VT&amp;rft.pub=Inner+Traditions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Haykal, Muhammad Husayn (1976). <i>The Life of Muhammad</i>. North American Trust Publications. p.&#160;89.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Muhammad+Husayn&amp;rft.aulast=Haykal&amp;rft.btitle=The+Life+of+Muhammad&amp;rft.date=1976&amp;rft.genre=book&amp;rft.pages=89&amp;rft.pub=North+American+Trust+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>The History of al-Tabari</i>. New York: State University Press. 1985. p.&#160;96.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.btitle=The+History+of+al-Tabari&amp;rft.date=1985&amp;rft.genre=book&amp;rft.pages=96&amp;rft.place=New+York&amp;rft.pub=State+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Donner_245-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Donner_245_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Donner_245_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Donner_245_24-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Donner, Fred McGraw (1987). "The Death of Abu Talib". In John H. Marks; Robert M. Good. <i>Love and Death in the Ancient Near East</i>. Guilford, CT: Four Quarters. p.&#160;245.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.atitle=The+Death+of+Abu+Talib&amp;rft.aufirst=Fred+McGraw&amp;rft.aulast=Donner&amp;rft.btitle=Love+and+Death+in+the+Ancient+Near+East&amp;rft.date=1987&amp;rft.genre=bookitem&amp;rft.pages=245&amp;rft.place=Guilford%2C+CT&amp;rft.pub=Four+Quarters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation book">Lings, Martin (2006). <i>Muhammad: His Life Based on the Earliest Sources</i>. Rochester, VT: Inner Traditions. p.&#160;99.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Martin&amp;rft.aulast=Lings&amp;rft.btitle=Muhammad%3A+His+Life+Based+on+the+Earliest+Sources&amp;rft.date=2006&amp;rft.genre=book&amp;rft.pages=99&amp;rft.place=Rochester%2C+VT&amp;rft.pub=Inner+Traditions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation book">Rubin, Uri (1995). <i>The Eye of the Beholder</i>. Princeton, NJ: Darwin Press, Inc. p.&#160;152.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Uri&amp;rft.aulast=Rubin&amp;rft.btitle=The+Eye+of+the+Beholder&amp;rft.date=1995&amp;rft.genre=book&amp;rft.pages=152&amp;rft.place=Princeton%2C+NJ&amp;rft.pub=Darwin+Press%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation book">Haykal, Muhammad Husayn (1976). <i>The Life of Muhammad</i>. North American Trust Publications. p.&#160;136.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Muhammad+Husayn&amp;rft.aulast=Haykal&amp;rft.btitle=The+Life+of+Muhammad&amp;rft.date=1976&amp;rft.genre=book&amp;rft.pages=136&amp;rft.pub=North+American+Trust+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation book">Armstrong, Karen (1993). <i>Muhammad: A Biography of the Prophet</i>. San Francisco: Harper Collins. p.&#160;135.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Karen&amp;rft.aulast=Armstrong&amp;rft.btitle=Muhammad%3A+A+Biography+of+the+Prophet&amp;rft.date=1993&amp;rft.genre=book&amp;rft.pages=135&amp;rft.place=San+Francisco&amp;rft.pub=Harper+Collins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation book">Rubin, Uri (1995). <i>The Eye of the Beholder</i>. Princeton, NJ: Darwin Press, Inc. p.&#160;149.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Uri&amp;rft.aulast=Rubin&amp;rft.btitle=The+Eye+of+the+Beholder&amp;rft.date=1995&amp;rft.genre=book&amp;rft.pages=149&amp;rft.place=Princeton%2C+NJ&amp;rft.pub=Darwin+Press%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Donner_237-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Donner_237_30-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Donner, Fred McGraw (1987). "The Death of Abu Talib". In John H. Marks; Robert M. Good. <i>Love and Death in the Ancient Near East</i>. Guilford, CT: Four Quarters. p.&#160;237.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.atitle=The+Death+of+Abu+Talib&amp;rft.aufirst=Fred+McGraw&amp;rft.aulast=Donner&amp;rft.btitle=Love+and+Death+in+the+Ancient+Near+East&amp;rft.date=1987&amp;rft.genre=bookitem&amp;rft.pages=237&amp;rft.place=Guilford%2C+CT&amp;rft.pub=Four+Quarters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation book">Diane Morgan (2010). <i>Essential Islam: A Comprehensive Guide to Belief and Practice</i>. ABC-CLIO. p.&#160;114. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780313360251" title="Special:BookSources/9780313360251">9780313360251</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.au=Diane+Morgan&amp;rft.btitle=Essential+Islam%3A+A+Comprehensive+Guide+to+Belief+and+Practice&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=9780313360251&amp;rft.pages=114&amp;rft.pub=ABC-CLIO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation book">Muhammad Saed Abdul-Rahman (2009). <i>The Meaning and Explanation of the Glorious Qur'an (Vol 7)</i>. MSA Publication Limited. p.&#160;202. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781861796615" title="Special:BookSources/9781861796615">9781861796615</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.au=Muhammad+Saed+Abdul-Rahman&amp;rft.btitle=The+Meaning+and+Explanation+of+the+Glorious+Qur%27an+%28Vol+7%29&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=9781861796615&amp;rft.pages=202&amp;rft.pub=MSA+Publication+Limited&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Donner_238-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Donner_238_33-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Donner, Fred McGraw (1987). "The Death of Abu Talib". In John H. Marks; Robert M. Good. <i>Love and Death in the Ancient Near East</i>. Guilford, CT: Four Quarters. p.&#160;238.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.atitle=The+Death+of+Abu+Talib&amp;rft.aufirst=Fred+McGraw&amp;rft.aulast=Donner&amp;rft.btitle=Love+and+Death+in+the+Ancient+Near+East&amp;rft.date=1987&amp;rft.genre=bookitem&amp;rft.pages=238&amp;rft.place=Guilford%2C+CT&amp;rft.pub=Four+Quarters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Donner_239-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-Donner_239_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Donner_239_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Donner, Fred McGraw (1987). "The Death of Abu Talib". In John H. Marks; Robert M. Good. <i>Love and Death in the Ancient Near East</i>. Guilford, CT: Four Quarters. p.&#160;239.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.atitle=The+Death+of+Abu+Talib&amp;rft.aufirst=Fred+McGraw&amp;rft.aulast=Donner&amp;rft.btitle=Love+and+Death+in+the+Ancient+Near+East&amp;rft.date=1987&amp;rft.genre=bookitem&amp;rft.pages=239&amp;rft.place=Guilford%2C+CT&amp;rft.pub=Four+Quarters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Donner_2405-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-Donner_2405_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Donner_2405_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Donner, Fred McGraw (1987). "The Death of Abu Talib". In John H. Marks; Robert M. Good. <i>Love and Death in the Ancient Near East</i>. Guilford, CT: Four Quarters. p.&#160;240.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.atitle=The+Death+of+Abu+Talib&amp;rft.aufirst=Fred+McGraw&amp;rft.aulast=Donner&amp;rft.btitle=Love+and+Death+in+the+Ancient+Near+East&amp;rft.date=1987&amp;rft.genre=bookitem&amp;rft.pages=240&amp;rft.place=Guilford%2C+CT&amp;rft.pub=Four+Quarters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Armstrong2-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Armstrong2_36-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Armstrong, Karen (1992). <i>Muhammad: A Biography of the Prophet</i>. San Francisco: Harper Collins. p.&#160;108.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbu+Talib+ibn+Abd+al-Muttalib&amp;rft.aufirst=Karen&amp;rft.aulast=Armstrong&amp;rft.btitle=Muhammad%3A+A+Biography+of+the+Prophet&amp;rft.date=1992&amp;rft.genre=book&amp;rft.pages=108&amp;rft.place=San+Francisco&amp;rft.pub=Harper+Collins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Cite_quran.7C6.7C74.7Ce.3D90.7Cs.3Dns-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cite_quran.7C6.7C74.7Ce.3D90.7Cs.3Dns_37-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D6%3Averse%3D74">6:74–90</a></span></li>
+<li id="cite_note-Cite_quran.7C9.7C113.7Ce.3D114.7Cs.3Dns-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cite_quran.7C9.7C113.7Ce.3D114.7Cs.3Dns_38-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D9%3Averse%3D113">9:113–114</a></span></li>
+<li id="cite_note-Cite_quran.7C19.7C41.7Ce.3D50.7Cs.3Dns-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cite_quran.7C19.7C41.7Ce.3D50.7Cs.3Dns_39-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D19%3Averse%3D41">19:41–50</a></span></li>
+<li id="cite_note-Ibn_Kathir.2C_QAN-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ibn_Kathir.2C_QAN_40-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Stories_of_the_Prophets_(Ibn_Kathir)" class="mw-redirect" title="Stories of the Prophets (Ibn Kathir)">Stories of the Prophets</a>, <a href="/wiki/Ibn_Kathir" title="Ibn Kathir">Ibn Kathir</a>, <i>Abraham and his father</i></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Muhammad ibn Saad. <i>Kitab al-Tabaqat al-Tabir</i>. Translated by Haq, S. M. (1967). <i>Ibn Sa'd's Kitab al-Tabaqat al-Kabir, Vol. I Parts I &amp; II</i>, pp. 135-136. Delhi: Kitab Bhavan.</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">Muhammad ibn Saad. <i>Kitab al-Tabaqat al-Tabir</i>, vol. 8. Translated by Bewley, A. (1995). <i>The Women of Madina</i>, p. 35. London: Ta-Ha Publishers.</span></li>
+</ol>
+</div>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Zubair_bin_Abdul_Muttalib" class="mw-redirect" title="Zubair bin Abdul Muttalib">Zubayr ibn 'Abd al-Muṭallib</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b>Head of <a href="/wiki/Banu_Hashim" title="Banu Hashim">Banū Hāshim</a></b><br />
+?–619</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Abu_Lahab" class="mw-redirect" title="Abu Lahab">Abū Lahab</a></span></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/67385701">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/67385701">67385701</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n84022818">n84022818</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/123907519">123907519</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20170413071909
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.628 seconds
+Real time usage: 0.703 seconds
+Preprocessor visited node count: 26038/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 315730/2097152 bytes
+Template argument size: 94992/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Lua time usage: 0.165/10.000 seconds
+Lua memory usage: 4.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  531.830      1 -total
+ 31.29%  166.406      1 Template:Reflist
+ 26.31%  139.908      1 Template:Quraysh_tree
+ 23.22%  123.472     17 Template:Familytree
+ 17.51%   93.109     32 Template:Cite_book
+ 17.42%   92.630     17 Template:Family_tree/step2
+ 16.37%   87.047      1 Template:Infobox_person
+ 11.09%   59.002      1 Template:Infobox
+  7.01%   37.286      4 Template:Lang-ar
+  6.68%   35.510      4 Template:Language_with_name_and_transliteration
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23569239-0!*!0!!en!4!* and timestamp 20170413071908 and revision id 774037181
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;oldid=774037181">https://en.wikipedia.org/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;oldid=774037181</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:619_deaths" title="Category:619 deaths">619 deaths</a></li><li><a href="/wiki/Category:Family_of_Muhammad" title="Category:Family of Muhammad">Family of Muhammad</a></li><li><a href="/wiki/Category:People_from_Mecca" title="Category:People from Mecca">People from Mecca</a></li><li><a href="/wiki/Category:Banu_Hashim" title="Category:Banu Hashim">Banu Hashim</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_person_with_unknown_parameters" title="Category:Pages using infobox person with unknown parameters">Pages using infobox person with unknown parameters</a></li><li><a href="/wiki/Category:Infobox_person_using_ethnicity" title="Category:Infobox person using ethnicity">Infobox person using ethnicity</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Year_of_birth_unknown" title="Category:Year of birth unknown">Year of birth unknown</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Abu+Talib+ibn+Abd+al-Muttalib" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Abu+Talib+ibn+Abd+al-Muttalib" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Abu_Talib_ibn_Abd_al-Muttalib"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Abu_Talib_ibn_Abd_al-Muttalib"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Abu_Talib_ibn_Abd_al-Muttalib" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Abu_Talib_ibn_Abd_al-Muttalib" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Abu_Talib_ibn_Abd_al-Muttalib" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;oldid=774037181" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q297913" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Abu_Talib_ibn_Abd_al-Muttalib&amp;id=774037181" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Abu+Talib+ibn+Abd+al-Muttalib">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Abu+Talib+ibn+Abd+al-Muttalib&amp;returnto=Abu+Talib+ibn+Abd+al-Muttalib&amp;oldid=774037181&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%B7%D8%A7%D9%84%D8%A8_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8" title="أبو طالب بن عبد المطلب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C6%8Fbu_Talib" title="Əbu Talib – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%AC%E0%A7%81_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AC_%E0%A6%87%E0%A6%AC%E0%A6%A8%E0%A7%87_%E0%A6%86%E0%A6%AC%E0%A6%A6%E0%A7%81%E0%A6%B2_%E0%A6%AE%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AC" title="আবু তালিব ইবনে আবদুল মুত্তালিব – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Abu-T%C3%A0lib_ibn_Abd-al-M%C3%BAttalib" title="Abu-Tàlib ibn Abd-al-Múttalib – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ab%C5%AB_T%C4%81lib_ibn_%CA%BFAbd_al-Muttalib" title="Abū Tālib ibn ʿAbd al-Muttalib – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib" title="Abu Talib ibn Abd al-Muttalib – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88%D8%B7%D8%A7%D9%84%D8%A8" title="ابوطالب – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ab%C3%BB_T%C3%A2lib" title="Abû Tâlib – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EB%B6%80_%ED%83%88%EB%A6%AC%EB%B8%8C" title="아부 탈리브 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Abu_Thalib" title="Abu Thalib – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Abu_Talib" title="Abu Talib – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Abu_Thalib" title="Abu Thalib – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D3%98%D0%B1%D1%83_%D0%A2%D0%B0%D0%BB%D0%B8%D0%B1" title="Әбу Талиб – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Eb%C3%BB_Talib_bin_Ebdulmutel%C3%AEb" title="Ebû Talib bin Ebdulmutelîb – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%AC%E0%B5%82_%E0%B4%A4%E0%B4%BE%E0%B4%B2%E0%B4%BF%E0%B4%AC%E0%B5%8D" title="അബൂ താലിബ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Abu_Talib" title="Abu Talib – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Aboe_Talib_ibn_Abdul_Muttalib" title="Aboe Talib ibn Abdul Muttalib – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%BC%EF%BC%9D%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%96" title="アブー＝ターリブ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%90%D0%B1%D1%83_%D0%A2%D3%80%D0%B5%D0%BB%D0%B8%D0%BF_%D0%B1%D0%B8%D0%BD_%D3%80%D0%B0%D0%B1%D0%B4%D1%83%D0%BB-%D0%9C%D1%83%D1%82%D1%82%D3%80%D0%B5%D0%BB%D0%B8%D0%BF" title="Абу ТӀелип бин Ӏабдул-МуттӀелип – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Abu_Tolib" title="Abu Tolib – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%85%E0%A8%AC%E0%A9%82%E0%A8%A4%E0%A8%BE%E0%A8%B2%E0%A8%BF%E0%A8%AC" title="ਅਬੂਤਾਲਿਬ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88_%D8%B7%D8%A7%D9%84%D8%A8" title="ابو طالب – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Abu_Talibe" title="Abu Talibe – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%83_%D0%A2%D0%B0%D0%BB%D0%B8%D0%B1_%D0%B8%D0%B1%D0%BD_%D0%90%D0%B1%D0%B4_%D0%B0%D0%BB%D1%8C-%D0%9C%D1%83%D1%82%D1%82%D0%B0%D0%BB%D0%B8%D0%B1" title="Абу Талиб ибн Абд аль-Мутталиб – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Ebu_Talib_ibn_Abdylmutalib" title="Ebu Talib ibn Abdylmutalib – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Abu_Talib" title="Abu Talib – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88_%D8%B7%D8%A7%D9%84%D8%A8" title="ابو طالب – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D8%A8%D9%88_%D8%AA%D8%A7%DA%B5%DB%8C%D8%A8%DB%8C_%DA%A9%D9%88%DA%95%DB%8C_%D8%B9%DB%95%D8%A8%D8%AF%D9%88%D9%84%D9%85%D9%88%D8%AA%DB%95%DA%B5%DB%8C%D8%A8" title="ئەبو تاڵیبی کوڕی عەبدولموتەڵیب – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Ebu-Talib" title="Ebu-Talib – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Abu_Talib" title="Abu Talib – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Abu_Talib_ibn_%E2%80%98Abd_al-Muttalib" title="Abu Talib ibn ‘Abd al-Muttalib – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B0%E0%B8%9A%E0%B8%B9%E0%B8%8F%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%9A" title="อะบูฏอลิบ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ebu_Talib_bin_Abdulmuttalib" title="Ebu Talib bin Abdulmuttalib – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%B1%D1%83_%D0%A2%D0%B0%D0%BB%D1%96%D0%B1" title="Абу Таліб – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88_%D8%B7%D8%A7%D9%84%D8%A8_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8" title="ابو طالب بن عبد المطلب – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A6%DB%95%D8%A8%DB%87_%D8%AA%D8%A7%D9%84%D9%89%D8%A8" title="ئەبۇ تالىب – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q297913#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 April 2017, at 22:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Abu_Talib_ibn_Abd_al-Muttalib&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.628","walltime":"0.703","ppvisitednodes":{"value":26038,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":315730,"limit":2097152},"templateargumentsize":{"value":94992,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  531.830      1 -total"," 31.29%  166.406      1 Template:Reflist"," 26.31%  139.908      1 Template:Quraysh_tree"," 23.22%  123.472     17 Template:Familytree"," 17.51%   93.109     32 Template:Cite_book"," 17.42%   92.630     17 Template:Family_tree/step2"," 16.37%   87.047      1 Template:Infobox_person"," 11.09%   59.002      1 Template:Infobox","  7.01%   37.286      4 Template:Lang-ar","  6.68%   35.510      4 Template:Language_with_name_and_transliteration"]},"scribunto":{"limitreport-timeusage":{"value":"0.165","limit":"10.000"},"limitreport-memusage":{"value":5063092,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20170413071909","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":783,"wgHostname":"mw1265"});});</script>
+	</body>
+</html>

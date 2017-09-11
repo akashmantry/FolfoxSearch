@@ -1,0 +1,1220 @@
+https://en.wikipedia.org/wiki/Akan_religion
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Akan religion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Akan_religion","wgTitle":"Akan religion","wgCurRevisionId":771956012,"wgRevisionId":771956012,"wgArticleId":26848063,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from September 2011","African traditional religions","African mythology","Akan culture"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Akan_religion","wgRelevantArticleId":26848063,"wgRequestId":"WPCjkwpAIDQAAC-LEyUAAAAB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1493154","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/6/62/Gye_nyame.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Akan_religion"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Akan_religion&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Akan_religion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Akan_religion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Akan_religion rootpage-Akan_religion skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Akan religion</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gye_nyame.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/Gye_nyame.png/220px-Gye_nyame.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/Gye_nyame.png/330px-Gye_nyame.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/Gye_nyame.png/440px-Gye_nyame.png 2x" data-file-width="1000" data-file-height="1000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gye_nyame.png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Adinkra" class="mw-redirect" title="Adinkra">Adinkra</a> symbol representing the omnipotence and omnipresence of Nyame</div>
+</div>
+</div>
+<p><b>Akan religion</b> comprises the traditional beliefs and religious practices of the <a href="/wiki/Akan_people" title="Akan people">Akan people</a> of <a href="/wiki/Ghana" title="Ghana">Ghana</a> and eastern <a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a>. Akan religion is referred to as <b>Akom</b> (from the <a href="/wiki/Twi" title="Twi">Twi</a> word <i>okom</i>, meaning "hunger"). Although most <a href="/wiki/Akan_people" title="Akan people">Akan people</a> have identified as <a href="/wiki/Christianity" title="Christianity">Christians</a> since the early 20th century, Akan religion remains practiced by some, and is often <a href="/wiki/Syncretic_religion" class="mw-redirect" title="Syncretic religion">syncretized</a> with Christianity. The Akan have many subgroups (including the <a href="/wiki/Ashanti_people" title="Ashanti people">Asante</a>, the <a href="/wiki/Akuapem_People" title="Akuapem People">Akuapem</a>, the <a href="/wiki/Wassa" title="Wassa">Wassa</a>, the <a href="/wiki/Abron_tribe" title="Abron tribe">Abron</a>, the <a href="/wiki/Anyi_people" title="Anyi people">Anyi</a>, and the <a href="/wiki/Baoul%C3%A9_people" title="Baoulé people">Baoulé</a>, among others), so the religion varies greatly by region and subgroup.</p>
+<p>Similar to other <a href="/wiki/African_traditional_religion" class="mw-redirect" title="African traditional religion">traditional religions</a> of <a href="/wiki/West_Africa" title="West Africa">West</a> and <a href="/wiki/Central_Africa" title="Central Africa">Central Africa</a> such as <a href="/wiki/West_African_Vodun" title="West African Vodun">West African Vodun</a>, <a href="/wiki/Yoruba_religion" title="Yoruba religion">Yoruba religion</a>, or <a href="/wiki/Odinani" title="Odinani">Odinani</a>, Akan cosmology consists of a supreme creator god who generally does not interact with humans and many lesser spirits who assist humans.</p>
+<p><a href="/wiki/Anansi" title="Anansi">Anansi</a> the Spider is a folk <a href="/wiki/Hero" title="Hero">hero</a> who is prominent in Asante folktales where he is depicted as a <a href="/wiki/Trickster" title="Trickster">trickster</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Deities"><span class="tocnumber">1</span> <span class="toctext">Deities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Creator_God"><span class="tocnumber">1.1</span> <span class="toctext">Creator God</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Abosom"><span class="tocnumber">1.2</span> <span class="toctext">Abosom</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Nsamanfo"><span class="tocnumber">1.3</span> <span class="toctext">Nsamanfo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#In_the_Americas"><span class="tocnumber">2</span> <span class="toctext">In the Americas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Jamaica"><span class="tocnumber">2.1</span> <span class="toctext">Jamaica</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Myal_and_Revival"><span class="tocnumber">2.1.1</span> <span class="toctext">Myal and Revival</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Suriname"><span class="tocnumber">2.2</span> <span class="toctext">Suriname</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Deities">Deities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_religion&amp;action=edit&amp;section=1" title="Edit section: Deities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Creator_God">Creator God</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_religion&amp;action=edit&amp;section=2" title="Edit section: Creator God">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Followers of Akan religion believe in a supreme god who created the universe. He is distant and does not interact with humans.</p>
+<p>The creator god takes on different names depending upon the region of worship, including <i>Nyame</i>, <i>Nyankopon</i>, <i>Brekyirihunuade</i> ("Almighty"), <i>Odomankoma</i> ("infinite inventor")<sup id="cite_ref-FOOTNOTESykesKendall2001146_1-0" class="reference"><a href="#cite_note-FOOTNOTESykesKendall2001146-1">[1]</a></sup>, <i>Oboadee</i> ("creator") and <i>Anansi Kokuroku</i> ("the great designer" or "the great spider").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It is occasionally said that the creator god is a part of a triune deity or triad, which consists of Nyame, Nyankopon and Odomankoma.<sup id="cite_ref-FOOTNOTELynch201093_3-0" class="reference"><a href="#cite_note-FOOTNOTELynch201093-3">[3]</a></sup></p>
+<p>The Supreme Creator is an <a href="/wiki/Omniscience" title="Omniscience">omniscient</a>, <a href="/wiki/Omnipotence" title="Omnipotence">omnipotent</a> <a href="/wiki/Sky_father" title="Sky father">sky father</a>. His wife is <a href="/wiki/Asase_Ya" title="Asase Ya">Asase Yaa</a> (also known as Mother Earth) , considered second to God.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Together they brought forth two children: Bia and Tano.<sup id="cite_ref-FOOTNOTELynch201094_5-0" class="reference"><a href="#cite_note-FOOTNOTELynch201094-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Abosom">Abosom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_religion&amp;action=edit&amp;section=3" title="Edit section: Abosom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i>abosom</i>, the lower deities or <a href="/wiki/Spirits" class="mw-redirect" title="Spirits">spirits</a>, assist humans on earth. These are akin to <a href="/wiki/Orisha" title="Orisha">orishas</a> in <a href="/wiki/Yoruba_religion" title="Yoruba religion">Yoruba religion</a>, the vodun in <a href="/wiki/West_African_Vodun" title="West African Vodun">West African Vodun</a> and its derivatives, and the <a href="/wiki/Alusi" title="Alusi">alusi</a> in <a href="/wiki/Odinani" title="Odinani">Odinani</a>. Abosom receive their power from the creator god and are most often connected to the world as it appears in its natural state. Priests serve individual abosom and act as mediators between the abosom and mankind. Many of those who believe in these traditions participate in daily prayer, which includes the pouring of <a href="/wiki/Libation" title="Libation">libations</a> as an offering to both the ancestors who are buried under the land and to the spirits who are everywhere.</p>
+<h3><span class="mw-headline" id="Nsamanfo">Nsamanfo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_religion&amp;action=edit&amp;section=4" title="Edit section: Nsamanfo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i>Nsamanfo</i> are the <a href="/wiki/Ancestor_worship" class="mw-redirect" title="Ancestor worship">ancestors</a>.</p>
+<h2><span class="mw-headline" id="In_the_Americas">In the Americas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_religion&amp;action=edit&amp;section=5" title="Edit section: In the Americas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Jamaica">Jamaica</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_religion&amp;action=edit&amp;section=6" title="Edit section: Jamaica">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to Long, Akan (then referred to as "<a href="/wiki/Coromantee" title="Coromantee">Coromantee</a>") culture obliterated any other African customs and incoming non-Akan Africans had to submit to the culture of the majority Akan population in <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>, much like a foreigner learning migrating to a foreign country. Other than Ananse stories, Akan religion made a huge impact. The Akan pantheon of gods referred to as Abosom in <a href="/wiki/Twi" title="Twi">Twi</a> were documented. Enslaved Akan would praise Nyankopong (erroneously written by the British as Accompong, not related to the Maroon leader <a href="/wiki/Accompong" title="Accompong">Accompong</a> [Twi: <i>Akyeampong</i>]); libations would be poured to <a href="/wiki/Asase_Ya" title="Asase Ya">Asase Yaa</a> (erroneously written as 'Assarci') and Epo the sea god. Bonsam was referred to as the god of evil.<sup id="cite_ref-Long_6-0" class="reference"><a href="#cite_note-Long-6">[6]</a></sup> <b>Kumfu</b> (from the word <i>Akom</i> the name of the Akan spiritual system) was documented as <i>Myal</i> and originally only found in books, while the term Kumfu is still used by Jamaican Maroons. The priest of Kumfu was called a <i>Kumfu-man</i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The <a href="/wiki/Jamaican_Maroon_spirit-possession_language" title="Jamaican Maroon spirit-possession language">Jamaican Maroon spirit-possession language</a>, a <a href="/wiki/Creole_language" title="Creole language">creolized</a> form of <a href="/wiki/Akan_language" title="Akan language">Akan</a>, is used in religious ceremonies of some <a href="/wiki/Jamaican_Maroons" title="Jamaican Maroons">Jamaican Maroons</a>.</p>
+<h4><span class="mw-headline" id="Myal_and_Revival">Myal and Revival</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_religion&amp;action=edit&amp;section=7" title="Edit section: Myal and Revival">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Kumfu evolved into Revival, a syncretic Christian sect. Kumfu followers gravitated to the American <a href="/wiki/Revival_of_1800" title="Revival of 1800">Revival of 1800 Seventh Day Adventist movement</a> because it observed Saturday as god's day of rest. This was a shared aboriginal belief of the Akan people as this too was the day that the Akan god, Nyame rested after creating the earth. Jamaicans that were aware of their Ashanti past while wanting to keep hidden, mixed their Kumfu spirituality with the American Adventists to create Jamaican Revival in 1860. Revival has two sects: <i>60 order</i>(or Zion Revival, the order of the heavens) and <i>61 order</i>(or Pocomania, the order of the earth). 60 order worships God and spirits of air or the heavens on a Saturday and considers itself to be the more 'clean' sect. 61 order more deals with spirits of the earth. This division of Kumfu clearly shows the dichotomy of Nyame and Asase Yaa's relationship, Nyame representing <i>air</i> and has his 60 order'; <i>Asase Yaa</i> having her 61 order of the <i>earth</i>. Also the Ashanti funerary/war colours: red and black have the same meaning in Revival of <i>vengeance</i>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Other Ashanti elements include the use of swords and rings as means to guard the spirit from spiritual attack. The Asantehene like the Mother Woman of Revival, has special two swords used to protect himself from witchcraft called an <a href="/wiki/Akrafena" title="Akrafena">Akrafena</a> or <i>soul sword</i> and a Bosomfena or <i>spirit sword</i> <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="Suriname">Suriname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_religion&amp;action=edit&amp;section=8" title="Edit section: Suriname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Winti" title="Winti">Winti</a> is an <a href="/wiki/Suriname" title="Suriname">Afro-Surinamese</a> religion which is largely derived from Akan religion.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_religion&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Olson, James Stuart (1996). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=MdaAdBC-_S4C&amp;pg=PA41&amp;dq=Assin+ghana&amp;as_brr=3&amp;cd=1#v=snippet&amp;q=%22AKAN.%20The%20Akan%22&amp;f=false"><i>The peoples of Africa: an ethnohistorical dictionary</i></a>. Santa Barbara, CA: Greenwood Press. p.&#160;18. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-313-27918-8" title="Special:BookSources/978-0-313-27918-8">978-0-313-27918-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+religion&amp;rft.aufirst=James+Stuart&amp;rft.aulast=Olson&amp;rft.btitle=The+peoples+of+Africa%3A+an+ethnohistorical+dictionary&amp;rft.date=1996&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DMdaAdBC-_S4C%26pg%3DPA41%26dq%3DAssin%2Bghana%26as_brr%3D3%26cd%3D1%23v%3Dsnippet%26q%3D%2522AKAN.%2520The%2520Akan%2522%26f%3Dfalse&amp;rft.isbn=978-0-313-27918-8&amp;rft.pages=18&amp;rft.place=Santa+Barbara%2C+CA&amp;rft.pub=Greenwood+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFSykesKendall2001" class="citation book">Sykes, Egerton; Kendall, Alan (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=xlRaVT1DOW8C&amp;pg=PA146&amp;dq=%22Ashanti+mythology%22&amp;cd=1#v=onepage&amp;q=Ashanti&amp;f=false"><i>Who's who in non-classical mythology</i></a>. Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-415-26040-4" title="Special:BookSources/978-0-415-26040-4">978-0-415-26040-4</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+religion&amp;rft.aufirst=Egerton&amp;rft.au=Kendall%2C+Alan&amp;rft.aulast=Sykes&amp;rft.btitle=Who%27s+who+in+non-classical+mythology&amp;rft.date=2001&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxlRaVT1DOW8C%26pg%3DPA146%26dq%3D%2522Ashanti%2Bmythology%2522%26cd%3D1%23v%3Donepage%26q%3DAshanti%26f%3Dfalse&amp;rft.isbn=978-0-415-26040-4&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFForde1954" class="citation">Forde, Cyril Daryll (1954), <i>African Worlds: Studies in the Cosmological Ideas and Social Values of African Peoples</i>, James Currey Publishers, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780852552810" title="Special:BookSources/9780852552810">9780852552810</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+religion&amp;rft.aufirst=Cyril+Daryll&amp;rft.aulast=Forde&amp;rft.btitle=African+Worlds%3A+Studies+in+the+Cosmological+Ideas+and+Social+Values+of+African+Peoples&amp;rft.date=1954&amp;rft.genre=book&amp;rft.isbn=9780852552810&amp;rft.pub=James+Currey+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li><cite id="CITEREFLynch2010" class="citation">Lynch, Patricia Ann (2010), <i>African Mythology, A to Z</i>, Infobase Publishing, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781438131337" title="Special:BookSources/9781438131337">9781438131337</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+religion&amp;rft.aufirst=Patricia+Ann&amp;rft.aulast=Lynch&amp;rft.btitle=African+Mythology%2C+A+to+Z&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=9781438131337&amp;rft.pub=Infobase+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FOOTNOTESykesKendall2001146-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESykesKendall2001146_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSykesKendall2001">Sykes &amp; Kendall 2001</a>, p.&#160;146.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cfiks.org/akanart/akanart/themes/akancosmology.htm">http://www.cfiks.org/akanart/akanart/themes/akancosmology.htm</a></span></li>
+<li id="cite_note-FOOTNOTELynch201093-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTELynch201093_3-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFLynch2010">Lynch 2010</a>, p.&#160;93.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Opokuwaa, Nana Akua Kyerewaa (2005-01-01). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ax0FxTUykP4C&amp;pg=PA148&amp;dq=akan+religion&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjO5Ybx4dPPAhWEPz4KHc3CCIsQ6AEIIzAB#v=onepage&amp;q=asase&amp;f=false"><i>The Quest for Spiritual Transformation: Introduction to Traditional Akan Religion, Rituals and Practices</i></a>. iUniverse. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780595350711" title="Special:BookSources/9780595350711">9780595350711</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+religion&amp;rft.aufirst=Nana+Akua+Kyerewaa&amp;rft.aulast=Opokuwaa&amp;rft.btitle=The+Quest+for+Spiritual+Transformation%3A+Introduction+to+Traditional+Akan+Religion%2C+Rituals+and+Practices&amp;rft.date=2005-01-01&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dax0FxTUykP4C%26pg%3DPA148%26dq%3Dakan%2Breligion%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwjO5Ybx4dPPAhWEPz4KHc3CCIsQ6AEIIzAB%23v%3Donepage%26q%3Dasase%26f%3Dfalse&amp;rft.isbn=9780595350711&amp;rft.pub=iUniverse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FOOTNOTELynch201094-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTELynch201094_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFLynch2010">Lynch 2010</a>, p.&#160;94.</span></li>
+<li id="cite_note-Long-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Long_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Long, Edward (1774). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=QLw_AAAAcAAJ&amp;dq=edward%20long%20coromantee&amp;pg=PA446#v=onepage&amp;q&amp;f=false">"The History of Jamaica Or, A General Survey of the Antient and Modern State of that Island: With Reflexions on Its Situation, Settlements, Inhabitants, Climate, Products, Commerce, Laws, and Government"</a> <span style="font-size:85%;">(google)</span>. <b>2</b> (3/4): 445–475.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+religion&amp;rft.atitle=The+History+of+Jamaica+Or%2C+A+General+Survey+of+the+Antient+and+Modern+State+of+that+Island%3A+With+Reflexions+on+Its+Situation%2C+Settlements%2C+Inhabitants%2C+Climate%2C+Products%2C+Commerce%2C+Laws%2C+and+Government&amp;rft.aufirst=Edward&amp;rft.aulast=Long&amp;rft.date=1774&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DQLw_AAAAcAAJ%26dq%3Dedward%2520long%2520coromantee%26pg%3DPA446%23v%3Donepage%26q%26f%3Dfalse&amp;rft.issue=3%2F4&amp;rft.pages=445-475&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Gardner, William James (1909). <a rel="nofollow" class="external text" href="https://www.amazon.com/History-Jamaica-Discovery-Christopher-Columbus/dp/0415760992"><i>History of Jamaica, From Its Discovery To The Year 1872</i></a>. Appleton &amp; Company. p.&#160;184. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0415760997" title="Special:BookSources/978-0415760997">978-0415760997</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+religion&amp;rft.aufirst=William+James&amp;rft.aulast=Gardner&amp;rft.btitle=History+of+Jamaica%2C+From+Its+Discovery+To+The+Year+1872&amp;rft.date=1909&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2FHistory-Jamaica-Discovery-Christopher-Columbus%2Fdp%2F0415760992&amp;rft.isbn=978-0415760997&amp;rft.pages=184&amp;rft.pub=Appleton+%26+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Allenye, Mervyn C. (2004). <i>Jamaican Folk Medicine: A Source Of Healing</i>. University of the West Indies Press. p.&#160;36. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789766401238" title="Special:BookSources/9789766401238">9789766401238</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+religion&amp;rft.aufirst=Mervyn+C.&amp;rft.aulast=Allenye&amp;rft.btitle=Jamaican+Folk+Medicine%3A+A+Source+Of+Healing&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=9789766401238&amp;rft.pages=36&amp;rft.pub=University+of+the+West+Indies+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://jamaica-gleaner.com/gleaner/20100919/lead/lead4.html">"Running to Mother-Thugs Seek Guard Rings and Divine Protection"</a>. <i>Jamaica Gleaner</i>. September 19, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+religion&amp;rft.atitle=Running+to+Mother-Thugs+Seek+Guard+Rings+and+Divine+Protection&amp;rft.date=2010-09-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fjamaica-gleaner.com%2Fgleaner%2F20100919%2Flead%2Flead4.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.britishmuseum.org/research/online_research_catalogues/ag/asante_gold_regalia/i_history-significance-usage/iv.aspx">https://www.britishmuseum.org/research/online_research_catalogues/ag/asante_gold_regalia/i_history-significance-usage/iv.aspx</a></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Religion" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Religion_topics" title="Template:Religion topics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Religion_topics" title="Template talk:Religion topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Religion_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Religion" style="font-size:114%;margin:0 4em"><a href="/wiki/Religion" title="Religion">Religion</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Major_religious_groups_and_religious_denominations" style="font-size:114%;margin:0 4em"><a href="/wiki/Major_religious_groups" title="Major religious groups">Major religious groups</a> and <a href="/wiki/Religious_denomination" title="Religious denomination">religious denominations</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Abrahamic_religions" title="Abrahamic religions">Abrahamic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Judaism" title="Judaism">Judaism</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a>
+<ul>
+<li><a href="/wiki/Haredi_Judaism" title="Haredi Judaism">Haredi</a></li>
+<li><a href="/wiki/Hasidic_Judaism" title="Hasidic Judaism">Hasidic</a></li>
+<li><a href="/wiki/Modern_Orthodox_Judaism" title="Modern Orthodox Judaism">Modern</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Conservative_Judaism" title="Conservative Judaism">Conservative</a></li>
+<li><a href="/wiki/Reform_Judaism" title="Reform Judaism">Reform</a></li>
+<li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaite</a></li>
+<li><a href="/wiki/Reconstructionist_Judaism" title="Reconstructionist Judaism">Reconstructionist</a></li>
+<li><a href="/wiki/Jewish_Renewal" title="Jewish Renewal">Renewal</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic</a></li>
+<li><a href="/wiki/Haymanot" title="Haymanot">Haymanot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Christianity" title="Christianity">Christianity</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catholic_Church" title="Catholic Church">Catholicism</a>
+<ul>
+<li><a href="/wiki/Eastern_Catholic_Churches" title="Eastern Catholic Churches">Eastern Catholic Churches</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eastern_Christianity" title="Eastern Christianity">Eastern Christianity</a>
+<ul>
+<li><a href="/wiki/Church_of_the_East" title="Church of the East">Church of the East</a>
+<ul>
+<li><a href="/wiki/Assyrian_Church_of_the_East" title="Assyrian Church of the East">Assyrian Church of the East</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodoxy</a></li>
+<li><a href="/wiki/Oriental_Orthodoxy" title="Oriental Orthodoxy">Oriental Orthodoxy</a>
+<ul>
+<li><a href="/wiki/Ethiopian_Orthodox_Tewahedo_Church" title="Ethiopian Orthodox Tewahedo Church">Ethiopian Orthodoxy</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Independent_Catholic_churches" class="mw-redirect" title="Independent Catholic churches">Independent Catholicism</a>
+<ul>
+<li><a href="/wiki/Old_Catholic_Church" title="Old Catholic Church">Old Catholicism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Protestantism" title="Protestantism">Protestantism</a>
+<ul>
+<li><a href="/wiki/Adventism" title="Adventism">Adventism</a></li>
+<li><a href="/wiki/Anabaptism" title="Anabaptism">Anabaptism</a></li>
+<li><a href="/wiki/Anglicanism" title="Anglicanism">Anglicanism</a></li>
+<li><a href="/wiki/Baptists" title="Baptists">Baptists</a></li>
+<li><a href="/wiki/Calvinism" title="Calvinism">Calvinism</a>
+<ul>
+<li><a href="/wiki/Presbyterianism" title="Presbyterianism">Presbyterianism</a></li>
+<li><a href="/wiki/Congregational_church" title="Congregational church">Congregationalism</a></li>
+<li><a href="/wiki/Continental_Reformed_church" title="Continental Reformed church">Continental Reformed</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lutheranism" title="Lutheranism">Lutheranism</a></li>
+<li><a href="/wiki/Methodism" title="Methodism">Methodism</a></li>
+<li><a href="/wiki/Pentecostalism" title="Pentecostalism">Pentecostalism</a></li>
+<li><a href="/wiki/Evangelicalism" title="Evangelicalism">Evangelicalism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nontrinitarianism" title="Nontrinitarianism">Nontrinitarianism</a>
+<ul>
+<li><a href="/wiki/Jehovah%27s_Witnesses" title="Jehovah's Witnesses">Jehovah's Witnesses</a></li>
+<li><a href="/wiki/Mormonism" title="Mormonism">Mormonism</a></li>
+<li><a href="/wiki/Jesuism" title="Jesuism">Jesuism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nondenominational_Christianity" title="Nondenominational Christianity">Nondenominational</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Islam" title="Islam">Islam</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sunni_Islam" title="Sunni Islam">Sunni</a>
+<ul>
+<li><a href="/wiki/Hanafi" title="Hanafi">Hanafi</a></li>
+<li><a href="/wiki/Maliki" title="Maliki">Maliki</a></li>
+<li><a href="/wiki/Hanbali" title="Hanbali">Hanbali</a></li>
+<li><a href="/wiki/Shafi%27i" title="Shafi'i">Shafi'i</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Shia_Islam" title="Shia Islam">Shia</a>
+<ul>
+<li><a href="/wiki/Twelver" title="Twelver">Twelver</a></li>
+<li><a href="/wiki/Isma%27ilism" title="Isma'ilism">Isma'ilism</a></li>
+<li><a href="/wiki/Zaidiyyah" title="Zaidiyyah">Zaidiyyah</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ahmadiyya" title="Ahmadiyya">Ahmadi</a></li>
+<li><a href="/wiki/Ibadi" title="Ibadi">Ibadi</a></li>
+<li><a href="/wiki/Non-denominational_Muslim" title="Non-denominational Muslim">Non-denominational</a></li>
+<li><a href="/wiki/Quranism" title="Quranism">Quranism</a></li>
+<li><a href="/wiki/%E1%BA%92%C4%81hir%C4%AB" title="Ẓāhirī">Zahirism</a></li>
+<li><a href="/wiki/Salafi_movement" title="Salafi movement">Salafism</a>
+<ul>
+<li><a href="/wiki/Wahhabism" title="Wahhabism">Wahhabism</a></li>
+<li><a href="/wiki/Ahl_al-Hadith" title="Ahl al-Hadith">Ahl al-Hadith</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mahdavia" title="Mahdavia">Mahdavia</a></li>
+<li><a href="/wiki/European_Islam" title="European Islam">European Islam</a></li>
+<li><a href="/wiki/Nation_of_Islam" title="Nation of Islam">Nation of Islam</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/B%C3%A1bism" title="Bábism">Bábism</a>
+<ul>
+<li><a href="/wiki/Azali" title="Azali">Azáli Bábism</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá'í Faith">Bahá'í Faith</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Druze" title="Druze">Druze</a></li>
+<li><a href="/wiki/Mandaeism" title="Mandaeism">Mandaeism</a></li>
+<li><a href="/wiki/Rastafari" title="Rastafari">Rastafari</a></li>
+<li><a href="/wiki/Samaritanism" class="mw-redirect" title="Samaritanism">Samaritanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Dharmic_religions" class="mw-redirect" title="Dharmic religions">Dharmic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnavism</a></li>
+<li><a href="/wiki/Shaktism" title="Shaktism">Shaktism</a></li>
+<li><a href="/wiki/Shaivism" title="Shaivism">Shaivism</a></li>
+<li><a href="/wiki/Ayyavazhi" title="Ayyavazhi">Ayyavazhi</a></li>
+<li><a href="/wiki/Smarta_Tradition" title="Smarta Tradition">Smartism</a></li>
+<li><a href="/wiki/Balinese_Hinduism" title="Balinese Hinduism">Balinese</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Buddhism" title="Buddhism">Buddhism</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mahayana" title="Mahayana">Mahayana</a>
+<ul>
+<li><a href="/wiki/Chan_Buddhism" title="Chan Buddhism">Chan</a>
+<ul>
+<li><a href="/wiki/Zen" title="Zen">Zen</a></li>
+<li><a href="/wiki/Vietnamese_Thi%E1%BB%81n" title="Vietnamese Thiền">Thiền</a></li>
+<li><a href="/wiki/Korean_Seon" title="Korean Seon">Seon</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pure_Land_Buddhism" title="Pure Land Buddhism">Pure Land</a></li>
+<li><a href="/wiki/Nichiren_Buddhism" title="Nichiren Buddhism">Nichiren</a></li>
+<li><a href="/wiki/Madhyamaka" title="Madhyamaka">Madhyamaka</a></li>
+<li><a href="/wiki/Tiantai" title="Tiantai">Tiantai</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Theravada" title="Theravada">Theravada</a></li>
+<li><a href="/wiki/Vajrayana" title="Vajrayana">Vajrayana</a>
+<ul>
+<li><a href="/wiki/Tibetan_Buddhism" title="Tibetan Buddhism">Tibetan</a></li>
+<li><a href="/wiki/Shingon_Buddhism" title="Shingon Buddhism">Shingon</a></li>
+<li><a href="/wiki/Newar_Buddhism" title="Newar Buddhism">Newar</a></li>
+<li><a href="/wiki/Bon" title="Bon">Bon</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Navayana" title="Navayana">Navayana</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jainism" title="Jainism">Jainism</a>
+<ul>
+<li><a href="/wiki/Digambara" title="Digambara">Digambara</a></li>
+<li><a href="/wiki/%C5%9Av%C4%93t%C4%81mbara" title="Śvētāmbara">Śvētāmbara</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sikhism" title="Sikhism">Sikhism</a></li>
+<li><a href="/wiki/Gurung_shamanism" title="Gurung shamanism">Gurung shamanism</a></li>
+<li><a href="/wiki/Tamang_people#Religion" title="Tamang people">Bon Lamaism</a></li>
+<li><a href="/wiki/Kirant_Mundhum" title="Kirant Mundhum">Kirant Mundhum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Iranian</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Manichaeism" title="Manichaeism">Manichaeism</a></li>
+<li><a href="/wiki/Yazd%C3%A2nism" title="Yazdânism">Yazdânism</a>
+<ul>
+<li><a href="/wiki/Yazidis" title="Yazidis">Yazidism</a></li>
+<li><a href="/wiki/Ishikism" title="Ishikism">Ishikism</a></li>
+<li><a href="/wiki/Ali-Illahism" title="Ali-Illahism">Ali-Illahism</a></li>
+<li><a href="/wiki/Yarsanism" title="Yarsanism">Yarsanism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">European</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Armenian_neopaganism" title="Armenian neopaganism">Armenian</a></li>
+<li><a href="/wiki/Baltic_neopaganism" title="Baltic neopaganism">Baltic</a>
+<ul>
+<li><a href="/wiki/Dievtur%C4%ABba" title="Dievturība">Dievturība</a></li>
+<li><a href="/wiki/Druwi" title="Druwi">Druwi</a></li>
+<li><a href="/wiki/Romuva_(religion)" title="Romuva (religion)">Romuva</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Caucasian_neopaganism" title="Caucasian neopaganism">Caucasian</a></li>
+<li><a href="/wiki/Celtic_neopaganism" title="Celtic neopaganism">Celtic</a>
+<ul>
+<li><a href="/wiki/Neo-Druidism" title="Neo-Druidism">Druidry</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heathenry_(new_religious_movement)" title="Heathenry (new religious movement)">Germanic</a></li>
+<li><a href="/wiki/Hellenism_(religion)" title="Hellenism (religion)">Hellenism</a></li>
+<li><a href="/wiki/Italo-Roman_neopaganism" class="mw-redirect" title="Italo-Roman neopaganism">Italo-Roman</a></li>
+<li><a href="/wiki/Zalmoxianism" title="Zalmoxianism">Romanian</a></li>
+<li><a href="/wiki/Slavic_neopaganism" title="Slavic neopaganism">Slavic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Uralic</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Finnish_neopaganism" title="Finnish neopaganism">Finnish</a></li>
+<li><a href="/wiki/Hungarian_neopaganism" title="Hungarian neopaganism">Hungarian</a></li>
+<li><a href="/wiki/Uralic_neopaganism" title="Uralic neopaganism">Uralic</a>
+<ul>
+<li><a href="/wiki/Mari_native_religion" title="Mari native religion">Mari</a></li>
+<li><a href="/wiki/Mordvin_native_religion" title="Mordvin native religion">Mordvin</a></li>
+<li><a href="/wiki/Udmurt_Vos" title="Udmurt Vos">Udmurt</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Central and<br />
+Northern Asian</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burkhanism" title="Burkhanism">Burkhanism</a></li>
+<li><a href="/wiki/Vattisen_Yaly" title="Vattisen Yaly">Chuvash</a></li>
+<li><a href="/wiki/Manchu_shamanism" title="Manchu shamanism">Manchu</a></li>
+<li><a href="/wiki/Mongolian_shamanism" title="Mongolian shamanism">Mongolian</a></li>
+<li><a href="/wiki/Shamanism_in_Siberia" title="Shamanism in Siberia">Siberian</a></li>
+<li><a href="/wiki/Tengrism" title="Tengrism">Tengrism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/East_Asian_religions" title="East Asian religions">East Asian</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Confucianism" title="Confucianism">Confucianism</a></li>
+<li><a href="/wiki/Chinese_ritual_mastery_traditions" title="Chinese ritual mastery traditions">Faism</a></li>
+<li><a href="/wiki/Taoism" title="Taoism">Taoism</a></li>
+<li><a href="/wiki/Luo_teaching" title="Luo teaching">Luoism</a></li>
+<li><a href="/wiki/Neo-Confucianism" title="Neo-Confucianism">Neo-Confucianism</a></li>
+<li><a href="/wiki/Chinese_folk_religion" title="Chinese folk religion">Shenism</a></li>
+<li><a href="/wiki/Chinese_shamanism" title="Chinese shamanism">Wuism</a></li>
+<li><a href="/wiki/Shinto" title="Shinto">Shinto</a></li>
+<li><a href="/wiki/Ryukyuan_religion" title="Ryukyuan religion">Ryukyuan religion</a></li>
+<li><a href="/wiki/Cheondoism" title="Cheondoism">Cheondoism</a></li>
+<li><a href="/wiki/Korean_shamanism" title="Korean shamanism">Muism</a></li>
+<li><a href="/wiki/Jeung_San_Do" title="Jeung San Do">Jeungsanism</a></li>
+<li><a href="/wiki/Benzhuism" title="Benzhuism">Benzhuism</a></li>
+<li><a href="/wiki/Bimoism" title="Bimoism">Bimoism</a></li>
+<li><a href="/wiki/Bon" title="Bon">Bon</a></li>
+<li><a href="/wiki/Dongba" title="Dongba">Dongbaism</a></li>
+<li><a href="/wiki/Miao_folk_religion" title="Miao folk religion">Hmongism</a></li>
+<li><a href="/wiki/Yao_folk_religion" title="Yao folk religion">Meishanism</a></li>
+<li><a href="/wiki/Maitreya_teachings" title="Maitreya teachings">Mileism</a></li>
+<li><a href="/wiki/Mo_(religion)" title="Mo (religion)">Shigongism</a></li>
+<li><a href="/wiki/Yiguandao" title="Yiguandao">Yiguandao</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Southeast Asian</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burmese_folk_religion" title="Burmese folk religion">Burmese</a></li>
+<li><a href="/wiki/Caodaism" title="Caodaism">Caodaism</a></li>
+<li><a href="/wiki/Tai_folk_religion" title="Tai folk religion">Satsana Phi</a></li>
+<li><a href="/wiki/Malaysian_folk_religion" title="Malaysian folk religion">Malaysian</a></li>
+<li><a href="/wiki/Marapu" title="Marapu">Marapu</a> (Sumba)</li>
+<li><a href="/wiki/Aliran_kepercayaan" title="Aliran kepercayaan">Indonesian</a></li>
+<li><a href="/wiki/Kaharingan" title="Kaharingan">Kaharingan</a></li>
+<li><a href="/wiki/H%C3%B2a_H%E1%BA%A3o" title="Hòa Hảo">Hoahaoism</a></li>
+<li><a href="/wiki/Kebatinan" title="Kebatinan">Javanism</a></li>
+<li><a href="/wiki/Philippine_mythology" title="Philippine mythology">Philippine</a></li>
+<li><a href="/wiki/Vietnamese_folk_religion" title="Vietnamese folk religion">Vietnamese</a>
+<ul>
+<li><a href="/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu" title="Đạo Mẫu">Đạo Mẫu</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">African</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Traditional_African_religions" title="Traditional African religions">Traditional</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Akan</a></li>
+<li><a href="/wiki/Kamba_people" title="Kamba people">Akamba</a></li>
+<li><a href="/wiki/Baluba_mythology" title="Baluba mythology">Baluba</a></li>
+<li><a href="/wiki/Bantu_mythology" title="Bantu mythology">Bantu</a></li>
+<li><a href="/wiki/Traditional_Berber_religion" title="Traditional Berber religion">Berber</a></li>
+<li><a href="/wiki/Bushongo_mythology" title="Bushongo mythology">Bushongo</a></li>
+<li><a href="/wiki/Waaq" title="Waaq">Cushitic</a></li>
+<li><a href="/wiki/Dinka_religion" title="Dinka religion">Dinka</a></li>
+<li><a href="/wiki/Efik_mythology" title="Efik mythology">Efik</a></li>
+<li><a href="/wiki/Dahomean_religion" title="Dahomean religion">Fon and Ewe</a></li>
+<li><a href="/wiki/Church_of_the_Guanche_People" title="Church of the Guanche People">Guanche</a></li>
+<li><a href="/wiki/Odinani" title="Odinani">Igbo</a></li>
+<li><a href="/wiki/Isoko_people" class="mw-redirect" title="Isoko people">Isoko</a></li>
+<li><a href="/wiki/Lotuko_mythology" title="Lotuko mythology">Lotuko</a></li>
+<li><a href="/wiki/Lozi_mythology" title="Lozi mythology">Lozi</a></li>
+<li><a href="/wiki/Lugbara_mythology" title="Lugbara mythology">Lugbara</a></li>
+<li><a href="/wiki/Maasai_mythology" title="Maasai mythology">Maasai</a></li>
+<li><a href="/wiki/Mbuti_mythology" title="Mbuti mythology">Mbuti</a></li>
+<li><a href="/wiki/San_religion" title="San religion">San</a></li>
+<li><a href="/wiki/Serer_religion" title="Serer religion">Serer</a></li>
+<li><a href="/wiki/Tumbuka_mythology" title="Tumbuka mythology">Tumbuka</a></li>
+<li><a href="/wiki/Waaq" title="Waaq">Waaq</a></li>
+<li><a href="/wiki/Yoruba_religion" title="Yoruba religion">Yoruba</a></li>
+<li><a href="/wiki/Zulu_people#Religion_and_beliefs" title="Zulu people">Zulu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Afro-American_religion" title="Afro-American religion">Diasporic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Candombl%C3%A9" title="Candomblé">Candomblé</a></li>
+<li><a href="/wiki/Kumina" title="Kumina">Kumina</a></li>
+<li><a href="/wiki/Obeah" title="Obeah">Obeah</a></li>
+<li><a href="/wiki/Quimbanda" title="Quimbanda">Quimbanda</a></li>
+<li><a href="/wiki/Palo_(religion)" title="Palo (religion)">Palo</a></li>
+<li><a href="/wiki/Santer%C3%ADa" title="Santería">Santería</a></li>
+<li><a href="/wiki/Umbanda" title="Umbanda">Umbanda</a></li>
+<li><a href="/wiki/Haitian_Vodou" title="Haitian Vodou">Vodou</a></li>
+<li><a href="/wiki/Louisiana_Voodoo" title="Louisiana Voodoo">Voodoo</a></li>
+<li><a href="/wiki/Winti" title="Winti">Winti</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other groups</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bathouism" title="Bathouism">Bathouism</a></li>
+<li><a href="/wiki/Mun_(religion)" title="Mun (religion)">Bongthingism</a></li>
+<li><a href="/wiki/Donyi-Polo" title="Donyi-Polo">Donyi-Polo</a></li>
+<li><a href="/wiki/Dravidian_folk_religion" title="Dravidian folk religion">Dravidian</a></li>
+<li><a href="/wiki/Kirant_Mundhum" title="Kirant Mundhum">Kiratism</a></li>
+<li><a href="/wiki/Sanamahism" title="Sanamahism">Sanamahism</a></li>
+<li><a href="/wiki/Sarnaism" title="Sarnaism">Sarnaism</a></li>
+<li><a href="/wiki/Australian_Aboriginal_mythology" title="Australian Aboriginal mythology">Aboriginal Australian</a></li>
+<li><a href="/wiki/Native_American_religion" title="Native American religion">Native American</a></li>
+<li><a href="/wiki/Mesoamerican_religion" title="Mesoamerican religion">Mesoamerican</a></li>
+<li><a href="/wiki/Hawaiian_religion" title="Hawaiian religion">Hawaiian</a></li>
+<li><a href="/wiki/Polynesian_narrative" title="Polynesian narrative">Polynesian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_new_religious_movements" title="List of new religious movements">Recent</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discordianism" title="Discordianism">Discordianism</a></li>
+<li><a href="/wiki/Pastafarianism" class="mw-redirect" title="Pastafarianism">Pastafarianism</a></li>
+<li><a href="/wiki/Eckankar" title="Eckankar">Eckankar</a></li>
+<li><a href="/wiki/Jediism" title="Jediism">Jediism</a></li>
+<li><a href="/wiki/New_Age" title="New Age">New Age</a></li>
+<li><a href="/wiki/New_Thought" title="New Thought">New Thought</a></li>
+<li><a href="/wiki/Ra%C3%ABlism" title="Raëlism">Raëlism</a></li>
+<li><a href="/wiki/Satanism" title="Satanism">Satanism</a></li>
+<li><a href="/wiki/Scientology" title="Scientology">Scientology</a></li>
+<li><a href="/wiki/Thelema" title="Thelema">Thelema</a></li>
+<li><a href="/wiki/Unitarian_Universalism" title="Unitarian Universalism">Unitarian Universalism</a></li>
+<li><a href="/wiki/Wicca" title="Wicca">Wicca</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Historical_religions" style="font-size:114%;margin:0 4em"><a href="/wiki/History_of_religions" title="History of religions">Historical religions</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Prehistoric_religion" title="Prehistoric religion">Prehistoric</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Paleolithic_religion" title="Paleolithic religion">Paleolithic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Religions_of_the_ancient_Near_East" title="Religions of the ancient Near East">Near East</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Religion_in_pre-Islamic_Arabia" title="Religion in pre-Islamic Arabia">Arabian</a></li>
+<li><a href="/wiki/Ancient_Egyptian_religion" title="Ancient Egyptian religion">Egyptian</a></li>
+<li><a href="/wiki/Ancient_Mesopotamian_religion" title="Ancient Mesopotamian religion">Mesopotamian</a></li>
+<li><a href="/wiki/Ancient_Semitic_religion" title="Ancient Semitic religion">Semitic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Proto-Indo-European_religion" title="Proto-Indo-European religion">Indo-European</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Asia</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Proto-Indo-Iranian_religion" title="Proto-Indo-Iranian religion">Proto-Indo-Iranian</a></li>
+<li><a href="/wiki/Armenian_mythology" title="Armenian mythology">Armenian</a></li>
+<li><a href="/wiki/Ossetian_mythology" title="Ossetian mythology">Ossetian</a></li>
+<li><a href="/wiki/Historical_Vedic_religion" title="Historical Vedic religion">Vedic</a></li>
+<li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a>
+<ul>
+<li><a href="/wiki/Mithraism" title="Mithraism">Mithraism</a></li>
+<li><a href="/wiki/Zurvanism" title="Zurvanism">Zurvanism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gnosticism" title="Gnosticism">Gnosticism</a>
+<ul>
+<li><a href="/wiki/Manichaeism" title="Manichaeism">Manichaeism</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Europe</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Celtic_polytheism" title="Celtic polytheism">Celtic</a></li>
+<li><a href="/wiki/Germanic_paganism" title="Germanic paganism">Germanic</a>
+<ul>
+<li><a href="/wiki/Anglo-Saxon_paganism" title="Anglo-Saxon paganism">Anglo-Saxon</a></li>
+<li><a href="/wiki/Continental_Germanic_mythology" title="Continental Germanic mythology">Continental</a></li>
+<li><a href="/wiki/Norse_religion" title="Norse religion">Norse</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Greek_mythology" title="Greek mythology">Greek</a>
+<ul>
+<li><a href="/wiki/Gnosticism" title="Gnosticism">Gnosticism</a></li>
+<li><a href="/wiki/Neoplatonism" title="Neoplatonism">Neoplatonism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Manichaeism" title="Manichaeism">Manichaeism</a></li>
+<li><a href="/wiki/Paleo-Balkan_mythology" title="Paleo-Balkan mythology">Balkan</a></li>
+<li><a href="/wiki/Roman_mythology" title="Roman mythology">Roman</a></li>
+<li><a href="/wiki/Slavic_mythology" title="Slavic mythology">Slavic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;">
+<div style="padding:0em 0.25em">----</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Topics" style="font-size:114%;margin:0 4em">Topics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Aspects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apostasy" title="Apostasy">Apostasy</a>&#160;/ <a href="/wiki/Religious_disaffiliation" title="Religious disaffiliation">Disaffiliation</a></li>
+<li><a href="/wiki/Religious_behaviour" title="Religious behaviour">Behaviour</a></li>
+<li><a href="/wiki/Religious_belief" class="mw-redirect" title="Religious belief">Beliefs</a></li>
+<li><a href="/wiki/Clergy" title="Clergy">Clergy</a></li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Conversion</a></li>
+<li><a href="/wiki/Deity" title="Deity">Deities</a></li>
+<li><a href="/wiki/Entheogen" title="Entheogen">Entheogens</a></li>
+<li><a href="/wiki/Ethnic_religion" title="Ethnic religion">Ethnic religion</a></li>
+<li><a href="/wiki/Religious_denomination" title="Religious denomination">Denomination</a></li>
+<li><a href="/wiki/Faith" title="Faith">Faith</a></li>
+<li><a href="/wiki/Fire_worship" title="Fire worship">Fire</a></li>
+<li><a href="/wiki/Folk_religion" title="Folk religion">Folk religion</a></li>
+<li><a href="/wiki/God" title="God">God</a></li>
+<li><a href="/wiki/Meditation" title="Meditation">Meditation</a></li>
+<li><a href="/wiki/Monasticism" title="Monasticism">Monasticism</a>
+<ul>
+<li><a href="/wiki/Monk" title="Monk">monk</a></li>
+<li><a href="/wiki/Nun" title="Nun">nun</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mysticism" title="Mysticism">Mysticism</a></li>
+<li><a href="/wiki/Religion_and_mythology" title="Religion and mythology">Mythology</a></li>
+<li><a href="/wiki/Nature_worship" title="Nature worship">Nature</a></li>
+<li><a href="/wiki/Ordination" title="Ordination">Ordination</a></li>
+<li><a href="/wiki/Orthodoxy" title="Orthodoxy">Orthodoxy</a></li>
+<li><a href="/wiki/Orthopraxy" title="Orthopraxy">Orthopraxy</a></li>
+<li><a href="/wiki/Prayer" title="Prayer">Prayer</a></li>
+<li><a href="/wiki/Religious_experience" title="Religious experience">Religious experience</a></li>
+<li><a href="/wiki/Ritual" title="Ritual">Ritual</a>
+<ul>
+<li><a href="/wiki/Liturgy" title="Liturgy">liturgy</a></li>
+<li><a href="/wiki/Sacrifice" title="Sacrifice">sacrifice</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Spirituality" title="Spirituality">Spirituality</a></li>
+<li><a href="/wiki/Supernatural" title="Supernatural">Supernatural</a></li>
+<li><a href="/wiki/Religious_symbolism" title="Religious symbolism">Symbols</a></li>
+<li><a href="/wiki/Religious_views_on_truth" title="Religious views on truth">Truth</a></li>
+<li><a href="/wiki/Water_and_religion" title="Water and religion">Water</a></li>
+<li><a href="/wiki/Worship" title="Worship">Worship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Theism" title="Theism">Theism</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Animism" title="Animism">Animism</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Dualism" title="Dualism">Dualism</a></li>
+<li><a href="/wiki/Henotheism" title="Henotheism">Henotheism</a></li>
+<li><a href="/wiki/Monotheism" title="Monotheism">Monotheism</a></li>
+<li><a href="/wiki/Nontheism" title="Nontheism">Nontheism</a></li>
+<li><a href="/wiki/Panentheism" title="Panentheism">Panentheism</a></li>
+<li><a href="/wiki/Pantheism" title="Pantheism">Pantheism</a></li>
+<li><a href="/wiki/Polytheism" title="Polytheism">Polytheism</a></li>
+<li><a href="/wiki/Transtheism" title="Transtheism">Transtheism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Religious_studies" title="Religious studies">Religious studies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropology_of_religion" title="Anthropology of religion">Anthropology</a></li>
+<li><a href="/wiki/Cognitive_science_of_religion" title="Cognitive science of religion">Cognitive science</a></li>
+<li><a href="/wiki/Comparative_religion" title="Comparative religion">Comparative</a></li>
+<li><a href="/wiki/Development_of_religion" title="Development of religion">Development</a></li>
+<li><a href="/wiki/Evolutionary_origin_of_religions" title="Evolutionary origin of religions">Evolutionary origin</a></li>
+<li><a href="/wiki/Evolutionary_psychology_of_religion" title="Evolutionary psychology of religion">Evolutionary psychology</a></li>
+<li><a href="/wiki/History_of_religions" title="History of religions">History</a></li>
+<li><a href="/wiki/Philosophy_of_religion" title="Philosophy of religion">Philosophy</a></li>
+<li><a href="/wiki/Neurotheology" title="Neurotheology">Neurotheology</a></li>
+<li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Psychology</a></li>
+<li><a href="/wiki/Sociology_of_religion" title="Sociology of religion">Sociology</a></li>
+<li><a href="/wiki/Theology" title="Theology">Theology</a></li>
+<li><a href="/wiki/Theories_about_religions" title="Theories about religions">Theories</a></li>
+<li><a href="/wiki/Women_and_religion" title="Women and religion">Women</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Category:Religion_and_society" title="Category:Religion and society">Religion and<br />
+society</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Religion_and_agriculture" title="Religion and agriculture">Agriculture</a></li>
+<li><a href="/wiki/Religion_and_business" title="Religion and business">Business</a></li>
+<li><a href="/wiki/Clergy" title="Clergy">Clergy</a>
+<ul>
+<li><a href="/wiki/Monasticism" title="Monasticism">monasticism</a></li>
+<li><a href="/wiki/Ordination" title="Ordination">ordination</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Conversion</a>
+<ul>
+<li><a href="/wiki/Evangelism" title="Evangelism">evangelism</a></li>
+<li><a href="/wiki/Missionary" title="Missionary">missionary</a></li>
+<li><a href="/wiki/Proselytism" title="Proselytism">proselytism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Religious_education" title="Religious education">Education</a></li>
+<li><a href="/wiki/Religious_fanaticism" title="Religious fanaticism">Fanaticism</a></li>
+<li><a href="/wiki/Freedom_of_religion" title="Freedom of religion">Freedom</a>
+<ul>
+<li><a href="/wiki/Religious_pluralism" title="Religious pluralism">pluralism</a></li>
+<li><a href="/wiki/Syncretism" title="Syncretism">syncretism</a></li>
+<li><a href="/wiki/Toleration" title="Toleration">toleration</a></li>
+<li><a href="/wiki/Universalism" title="Universalism">universalism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fundamentalism" title="Fundamentalism">Fundamentalism</a></li>
+<li><a href="/wiki/Growth_of_religion" title="Growth of religion">Growth</a></li>
+<li><a href="/wiki/Religion_and_happiness" class="mw-redirect" title="Religion and happiness">Happiness</a></li>
+<li><a href="/wiki/Homosexuality_and_religion" title="Homosexuality and religion">Homosexuality</a></li>
+<li><a href="/wiki/Minority_religion" title="Minority religion">Minorities</a></li>
+<li><a href="/wiki/National_church" title="National church">National church</a></li>
+<li><a href="/wiki/Importance_of_religion_by_country" title="Importance of religion by country">National religiosity levels</a></li>
+<li><a href="/wiki/Religiocentrism" title="Religiocentrism">Religiocentrism</a></li>
+<li><a href="/wiki/Political_science_of_religion" title="Political science of religion">Political science</a></li>
+<li><a href="/wiki/List_of_religious_populations" title="List of religious populations">Populations</a></li>
+<li><a href="/wiki/Schism" title="Schism">Schism</a></li>
+<li><a href="/wiki/Relationship_between_religion_and_science" title="Relationship between religion and science">Science</a></li>
+<li><a href="/wiki/State_religion" title="State religion">State</a></li>
+<li><a href="/wiki/Theocracy" title="Theocracy">Theocracy</a></li>
+<li><a href="/wiki/Vegetarianism_and_religion" title="Vegetarianism and religion">Vegetarianism</a></li>
+<li><a href="/wiki/Religion_and_video_games" title="Religion and video games">Video games</a></li>
+<li><a href="/wiki/Religious_violence" title="Religious violence">Violence</a>
+<ul>
+<li><a href="/wiki/Religious_persecution" title="Religious persecution">persecution</a></li>
+<li><a href="/wiki/Religious_terrorism" title="Religious terrorism">terrorism</a></li>
+<li><a href="/wiki/Religious_war" title="Religious war">war</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wealth_and_religion" title="Wealth and religion">Wealth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Secularism" title="Secularism">Secularism</a> and<br />
+<a href="/wiki/Irreligion" title="Irreligion">irreligion</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antireligion" title="Antireligion">Antireligion</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Agnosticism" title="Agnosticism">Agnosticism</a></li>
+<li><a href="/wiki/Atheism" title="Atheism">Atheism</a></li>
+<li><a href="/wiki/Criticism_of_religion" title="Criticism of religion">Criticism</a></li>
+<li><a href="/wiki/LaVeyan_Satanism" title="LaVeyan Satanism">LaVeyan Satanism</a></li>
+<li><a href="/wiki/Deconstruction_and_religion" title="Deconstruction and religion">Deconstruction</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic Judaism</a></li>
+<li><a href="/wiki/List_of_countries_by_irreligion" title="List of countries by irreligion">Irreligion by country</a></li>
+<li><a href="/wiki/Objectivism_(Ayn_Rand)" title="Objectivism (Ayn Rand)">Objectivism</a></li>
+<li><a href="/wiki/Secular_humanism" title="Secular humanism">Secular humanism</a></li>
+<li><a href="/wiki/Secular_theology" title="Secular theology">Secular theology</a></li>
+<li><a href="/wiki/Secularization" title="Secularization">Secularization</a></li>
+<li><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">Separation of church and state</a></li>
+<li><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Unaffiliated</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Overviews<br />
+and <a href="/wiki/Category:Religion-related_lists" title="Category:Religion-related lists">lists</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Index_of_religion-related_articles" title="Index of religion-related articles">Index</a></li>
+<li><a href="/wiki/Outline_of_religion" title="Outline of religion">Outline</a></li>
+<li><a href="/wiki/Timeline_of_religion" title="Timeline of religion">Timeline</a></li>
+<li><a href="/wiki/Table_of_prophets_of_Abrahamic_religions" title="Table of prophets of Abrahamic religions">Abrahamic prophets</a></li>
+<li><a href="/wiki/List_of_people_who_have_been_considered_deities" title="List of people who have been considered deities">Deification</a></li>
+<li><a href="/wiki/Lists_of_deities" title="Lists of deities">Deities</a></li>
+<li><a href="/wiki/List_of_founders_of_religious_traditions" title="List of founders of religious traditions">Founders</a></li>
+<li><a href="/wiki/List_of_largest_peaceful_gatherings_in_history" title="List of largest peaceful gatherings in history">Mass gatherings</a></li>
+<li><a href="/wiki/List_of_new_religious_movements" title="List of new religious movements">New religious movements</a></li>
+<li><a href="/wiki/List_of_religious_organizations" title="List of religious organizations">Organizations</a></li>
+<li><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Religions and spiritual traditions</a></li>
+<li><a href="/wiki/List_of_religious_studies_scholars" title="List of religious studies scholars">Scholars</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><a href="/wiki/Category:Religion" title="Category:Religion">Category</a></li>
+<li><a href="/wiki/Portal:Religion" title="Portal:Religion">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20170414102523
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.232 seconds
+Real time usage: 0.271 seconds
+Preprocessor visited node count: 1394/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 189948/2097152 bytes
+Template argument size: 21405/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.084/10.000 seconds
+Lua memory usage: 2.82 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  175.514      1 -total
+ 34.59%   60.718      1 Template:Religion_topics
+ 32.84%   57.646      1 Template:Navbox_with_collapsible_groups
+ 25.48%   44.719      5 Template:Cite_book
+ 18.82%   33.040      1 Template:Reflist
+ 17.96%   31.528      7 Template:Navbox
+ 11.15%   19.573      3 Template:Sfn
+  7.99%   14.017      1 Template:Use_dmy_dates
+  5.94%   10.434      1 Template:DMCA
+  5.64%    9.903      2 Template:Citation
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26848063-0!*!0!!en!4!* and timestamp 20170414102523 and revision id 771956012
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Akan_religion&amp;oldid=771956012">https://en.wikipedia.org/w/index.php?title=Akan_religion&amp;oldid=771956012</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:African_traditional_religions" title="Category:African traditional religions">African traditional religions</a></li><li><a href="/wiki/Category:African_mythology" title="Category:African mythology">African mythology</a></li><li><a href="/wiki/Category:Akan_culture" title="Category:Akan culture">Akan culture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_September_2011" title="Category:Use dmy dates from September 2011">Use dmy dates from September 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Akan+religion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Akan+religion" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Akan_religion"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Akan_religion"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Akan_religion" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Akan_religion&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Akan_religion&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Akan_religion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Akan_religion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Akan_religion&amp;oldid=771956012" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Akan_religion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1493154" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Akan_religion&amp;id=771956012" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Akan+religion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Akan+religion&amp;returnto=Akan+religion&amp;oldid=771956012&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Akan_religion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Religion_der_Akan" title="Religion der Akan – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%B3%E4%BA%BA%E3%81%AE%E5%AE%97%E6%95%99" title="アカン人の宗教 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1493154#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 March 2017, at 13:38.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Akan_religion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.271","ppvisitednodes":{"value":1394,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":189948,"limit":2097152},"templateargumentsize":{"value":21405,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  175.514      1 -total"," 34.59%   60.718      1 Template:Religion_topics"," 32.84%   57.646      1 Template:Navbox_with_collapsible_groups"," 25.48%   44.719      5 Template:Cite_book"," 18.82%   33.040      1 Template:Reflist"," 17.96%   31.528      7 Template:Navbox"," 11.15%   19.573      3 Template:Sfn","  7.99%   14.017      1 Template:Use_dmy_dates","  5.94%   10.434      1 Template:DMCA","  5.64%    9.903      2 Template:Citation"]},"scribunto":{"limitreport-timeusage":{"value":"0.084","limit":"10.000"},"limitreport-memusage":{"value":2952711,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20170414102523","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":346,"wgHostname":"mw1182"});});</script>
+	</body>
+</html>

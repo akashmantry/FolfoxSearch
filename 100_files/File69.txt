@@ -1,0 +1,1277 @@
+https://en.wikipedia.org/wiki/American_Crime_(TV_series)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>American Crime (TV series) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"American_Crime_(TV_series)","wgTitle":"American Crime (TV series)","wgCurRevisionId":776343458,"wgRevisionId":776343458,"wgArticleId":42734913,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from December 2016","Pages using infobox television with alias parameters","2010s American television series","2015 American television series debuts","American Broadcasting Company network shows","American anthology television series","American crime drama television series","American LGBT-related television shows","English-language television programming","Rape in fiction","Television series by ABC Studios","Television shows filmed in Texas","Television shows set in Modesto, California","Television shows set in Indianapolis","Works about racism","Works about rape","Homophobia in fiction","Television series about dysfunctional families"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"American_Crime_(TV_series)","wgRelevantArticleId":42734913,"wgRequestId":"WPn0ZwrAEFYAAH@ZuWgAAAAU","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q16863042","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/8/8d/American_Crime_%28TV_series%29.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/American_Crime_(TV_series)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/American_Crime_(TV_series)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-American_Crime_TV_series rootpage-American_Crime_TV_series skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>American Crime</i> (TV series)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the ABC TV series. It is not to be confused with <a href="/wiki/American_Crime_Story" title="American Crime Story">American Crime Story</a>.</div>
+<table class="infobox vevent" style="width:22em">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">American Crime</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:American_Crime_(TV_series).jpg" class="image"><img alt="American Crime (TV series).jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8d/American_Crime_%28TV_series%29.jpg/250px-American_Crime_%28TV_series%29.jpg" width="250" height="145" srcset="//upload.wikimedia.org/wikipedia/en/8/8d/American_Crime_%28TV_series%29.jpg 1.5x" data-file-width="275" data-file-height="160" /></a></td>
+</tr>
+<tr>
+<th scope="row">Genre</th>
+<td class="category"><a href="/wiki/Crime_drama" class="mw-redirect" title="Crime drama">Crime drama</a></td>
+</tr>
+<tr>
+<th scope="row">Created by</th>
+<td><a href="/wiki/John_Ridley" title="John Ridley">John Ridley</a></td>
+</tr>
+<tr>
+<th scope="row">Starring</th>
+<td class="attendee">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a></li>
+<li><a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a></li>
+<li><a href="/wiki/W._Earl_Brown" title="W. Earl Brown">W. Earl Brown</a></li>
+<li><a href="/wiki/Richard_Cabral" title="Richard Cabral">Richard Cabral</a></li>
+<li><a href="/wiki/Caitlin_Gerard" title="Caitlin Gerard">Caitlin Gerard</a></li>
+<li><a href="/wiki/Benito_Martinez_(actor)" title="Benito Martinez (actor)">Benito Martinez</a></li>
+<li><a href="/wiki/Penelope_Ann_Miller" title="Penelope Ann Miller">Penelope Ann Miller</a></li>
+<li><a href="/wiki/Elvis_Nolasco" title="Elvis Nolasco">Elvis Nolasco</a></li>
+<li>Johnny Ortiz</li>
+<li><a href="/wiki/Lili_Taylor" title="Lili Taylor">Lili Taylor</a></li>
+<li><a href="/wiki/Trevor_Jackson_(performer)" title="Trevor Jackson (performer)">Trevor Jackson</a></li>
+<li><a href="/wiki/Connor_Jessup" title="Connor Jessup">Connor Jessup</a></li>
+<li><a href="/wiki/Joey_Pollari" title="Joey Pollari">Joey Pollari</a></li>
+<li>Angelique Rivera</li>
+<li><a href="/wiki/Regina_King" title="Regina King">Regina King</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Composer(s)</th>
+<td><a href="/wiki/Mark_Isham" title="Mark Isham">Mark Isham</a></td>
+</tr>
+<tr>
+<th scope="row">Country of origin</th>
+<td>United States</td>
+</tr>
+<tr>
+<th scope="row">Original <span class="nowrap">language(s)</span></th>
+<td>English</td>
+</tr>
+<tr>
+<th scope="row"><abbr title="Number">No.</abbr> of seasons</th>
+<td>3</td>
+</tr>
+<tr>
+<th scope="row"><abbr title="Number">No.</abbr> of episodes</th>
+<td>27 <span class="nowrap">(<a href="/wiki/List_of_American_Crime_episodes" title="List of American Crime episodes">list of episodes</a>)</span></td>
+</tr>
+<tr>
+<th colspan="2" class="summary" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">Production</th>
+</tr>
+<tr>
+<th scope="row">Executive <span class="nowrap">producer(s)</span></th>
+<td>
+<div class="plainlist">
+<ul>
+<li>John Ridley</li>
+<li>Michael J. McDonald</li>
+<li><a href="/wiki/Julie_H%C3%A9bert" title="Julie Hébert">Julie Hébert</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Location(s)</th>
+<td><a href="/wiki/Austin,_Texas" title="Austin, Texas">Austin, Texas</a><br />
+<a href="/wiki/Los_Angeles,_California" class="mw-redirect" title="Los Angeles, California">Los Angeles, California</a></td>
+</tr>
+<tr>
+<th scope="row">Camera setup</th>
+<td><a href="/wiki/Single-camera_setup" title="Single-camera setup">Single-camera</a></td>
+</tr>
+<tr>
+<th scope="row">Running time</th>
+<td>43 minutes</td>
+</tr>
+<tr>
+<th scope="row">Production <span class="nowrap">company(s)</span></th>
+<td>
+<div class="plainlist">
+<ul>
+<li>The International Famous Players Radio Pictures Corporation Entertainment Company</li>
+<li>Stearns Castle Entertainment</li>
+<li><a href="/wiki/ABC_Studios" title="ABC Studios">ABC Studios</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Distributor</th>
+<td><a href="/wiki/Disney%E2%80%93ABC_Domestic_Television" title="Disney–ABC Domestic Television">Disney–ABC Domestic Television</a></td>
+</tr>
+<tr>
+<th colspan="2" class="summary" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">Release</th>
+</tr>
+<tr>
+<th scope="row">Original network</th>
+<td><a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a></td>
+</tr>
+<tr>
+<th scope="row">Picture format</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/720p" title="720p">720p</a> (<a href="/wiki/High-definition_television" title="High-definition television">HDTV</a>)</li>
+<li><a href="/wiki/480i" title="480i">480i</a> (<a href="/wiki/Standard-definition_television" title="Standard-definition television">SDTV</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Audio format</th>
+<td><a href="/wiki/Stereo" class="mw-redirect" title="Stereo">Stereo</a><br />
+<a href="/wiki/Dolby_Digital" title="Dolby Digital">Dolby Digital</a> 5.1</td>
+</tr>
+<tr>
+<th scope="row">Original release</th>
+<td>March 5, 2015<span style="display:none">&#160;(<span class="bday dtstart published updated">2015-03-05</span>)</span>&#160;– present</td>
+</tr>
+<tr>
+<th colspan="2" class="summary" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">External links</th>
+</tr>
+<tr>
+<td colspan="2" class="url" style="text-align:center"><a rel="nofollow" class="external text" href="http://abc.go.com/shows/american-crime">Official website</a></td>
+</tr>
+</table>
+<p><i><b>American Crime</b></i> is an American <a href="/wiki/Anthology_series" title="Anthology series">anthology</a> <a href="/wiki/Crime_drama" class="mw-redirect" title="Crime drama">crime drama</a> television series that premiered on <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a> on March 5, 2015.<sup id="cite_ref-TVBTN_1-0" class="reference"><a href="#cite_note-TVBTN-1">[1]</a></sup> The series was created by <a href="/wiki/John_Ridley" title="John Ridley">John Ridley</a>, and stars <a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a> and <a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The first season centers on race, class, and gender politics as it follows the lives of the participants in a trial who are forever changed during the legal process.<sup id="cite_ref-andreeva508_3-0" class="reference"><a href="#cite_note-andreeva508-3">[3]</a></sup><sup id="cite_ref-variety508_4-0" class="reference"><a href="#cite_note-variety508-4">[4]</a></sup></p>
+<p>The series was renewed for a second season on May 7, 2015.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The second season, which premiered on-demand on December 17, 2015,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> and premiered on ABC on January 6, 2016,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> features a new storyline and characters, with some actors from the first season—including Huffman, Hutton, <a href="/wiki/Regina_King" title="Regina King">Regina King</a>, <a href="/wiki/Elvis_Nolasco" title="Elvis Nolasco">Elvis Nolasco</a>, <a href="/wiki/Richard_Cabral" title="Richard Cabral">Richard Cabral</a>, and <a href="/wiki/Lili_Taylor" title="Lili Taylor">Lili Taylor</a>—playing different characters.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-Taylor_10-0" class="reference"><a href="#cite_note-Taylor-10">[10]</a></sup> On May 12, 2016, ABC renewed the series for a third season,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> which stars Huffman, Hutton and King.<sup id="cite_ref-s3huffman_12-0" class="reference"><a href="#cite_note-s3huffman-12">[12]</a></sup><sup id="cite_ref-s3details_13-0" class="reference"><a href="#cite_note-s3details-13">[13]</a></sup> The third season premiered on March 12, 2017.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>All three seasons of <i>American Crime</i> have received critical acclaim. In 2015, the series received ten <a href="/wiki/Primetime_Emmy_Award" title="Primetime Emmy Award">Primetime Emmy Award</a> nominations, including for <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Miniseries" class="mw-redirect" title="Primetime Emmy Award for Outstanding Miniseries">Outstanding Limited Series</a>, <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Miniseries,_Movie_or_a_Dramatic_Special" class="mw-redirect" title="Primetime Emmy Award for Outstanding Writing for a Miniseries, Movie or a Dramatic Special">Writing for a Miniseries, Movie or a Dramatic Special</a> (Ridley), <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie" class="mw-redirect" title="Primetime Emmy Award for Outstanding Lead Actress in a Miniseries or a Movie">Lead Actress in a Miniseries or Movie</a> (Huffman), <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Miniseries_or_a_Movie" class="mw-redirect" title="Primetime Emmy Award for Outstanding Lead Actor in a Miniseries or a Movie">Lead Actor in a Miniseries or Movie</a> (Hutton), <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Miniseries_or_a_Movie" class="mw-redirect" title="Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie">Supporting Actor in a Miniseries or Movie</a> (Cabral), and a win for <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Miniseries_or_a_Movie" class="mw-redirect" title="Primetime Emmy Award for Outstanding Supporting Actress in a Miniseries or a Movie">Supporting Actress in a Miniseries or Movie</a> (King).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cast_and_characters"><span class="tocnumber">2</span> <span class="toctext">Cast and characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Season_1"><span class="tocnumber">2.1</span> <span class="toctext">Season 1</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Regular_cast"><span class="tocnumber">2.1.1</span> <span class="toctext">Regular cast</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Recurring_cast"><span class="tocnumber">2.1.2</span> <span class="toctext">Recurring cast</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Season_2"><span class="tocnumber">2.2</span> <span class="toctext">Season 2</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Regular_cast_2"><span class="tocnumber">2.2.1</span> <span class="toctext">Regular cast</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Recurring_cast_2"><span class="tocnumber">2.2.2</span> <span class="toctext">Recurring cast</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Season_3"><span class="tocnumber">2.3</span> <span class="toctext">Season 3</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Regular_cast_3"><span class="tocnumber">2.3.1</span> <span class="toctext">Regular cast</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Recurring_cast_3"><span class="tocnumber">2.3.2</span> <span class="toctext">Recurring cast</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Production"><span class="tocnumber">3</span> <span class="toctext">Production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Development_and_casting"><span class="tocnumber">3.1</span> <span class="toctext">Development and casting</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Filming"><span class="tocnumber">3.2</span> <span class="toctext">Filming</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Episodes"><span class="tocnumber">4</span> <span class="toctext">Episodes</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Reception"><span class="tocnumber">5</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Critical_response"><span class="tocnumber">5.1</span> <span class="toctext">Critical response</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Accolades"><span class="tocnumber">5.2</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first season takes place in <a href="/wiki/Modesto,_California" title="Modesto, California">Modesto, California</a>, where a war veteran becomes the victim of a home invasion gone wrong, and the lives of four people are forever changed after each one is connected to the crime.</p>
+<p>The second season takes place in <a href="/wiki/Indianapolis,_Indiana" class="mw-redirect" title="Indianapolis, Indiana">Indianapolis, Indiana</a>, where the captains of a private school's championship basketball team are accused of sexually assaulting a classmate and posting photographs of the incident online.</p>
+<p>The third season takes place in <a href="/wiki/Alamance_County,_North_Carolina" title="Alamance County, North Carolina">Alamance County, North Carolina</a>, where five people struggle to survive in a place where the American Dream comes with a price.</p>
+<h2><span class="mw-headline" id="Cast_and_characters">Cast and characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=2" title="Edit section: Cast and characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Season_1">Season 1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=3" title="Edit section: Season 1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Regular_cast">Regular cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=4" title="Edit section: Regular cast">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a> as Barbara "Barb" Hanlon</li>
+<li><a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a> as Russ Skokie</li>
+<li><a href="/wiki/W._Earl_Brown" title="W. Earl Brown">W. Earl Brown</a> as Thomas "Tom" Carlin</li>
+<li><a href="/wiki/Richard_Cabral" title="Richard Cabral">Richard Cabral</a> as Hector Tontz</li>
+<li><a href="/wiki/Caitlin_Gerard" title="Caitlin Gerard">Caitlin Gerard</a> as Aubry Taylor</li>
+<li><a href="/wiki/Benito_Martinez_(actor)" title="Benito Martinez (actor)">Benito Martinez</a> as Alonzo Gutiérrez</li>
+<li><a href="/wiki/Penelope_Ann_Miller" title="Penelope Ann Miller">Penelope Ann Miller</a> as Eve Carlin</li>
+<li><a href="/wiki/Elvis_Nolasco" title="Elvis Nolasco">Elvis Nolasco</a> as Carter Nix</li>
+<li>Johnny Ortiz as Anthony "Tony" Gutiérrez</li>
+</ul>
+<h4><span class="mw-headline" id="Recurring_cast">Recurring cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=5" title="Edit section: Recurring cast">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Regina_King" title="Regina King">Regina King</a> as Aliyah Shadeed<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> (born Doreen Nix), Carter Nix's sister and a <a href="/wiki/Religious_conversion" title="Religious conversion">convert to</a> <a href="/wiki/Islam" title="Islam">Islam</a></li>
+<li><a href="/wiki/David_Hoflin" title="David Hoflin">David Hoflin</a> as Mark Skokie, Barb and Russ' younger son, on leave from the Army</li>
+<li><a href="/wiki/Gwendoline_Yeo" title="Gwendoline Yeo">Gwendoline Yeo</a> as Richelle, Mark's fiancée</li>
+<li>Gleendylis Inoa as Jennifer "Jenny" Gutiérrez, the sister of Tony and daughter of Alonzo Gutiérrez</li>
+<li><a href="/wiki/Lili_Taylor" title="Lili Taylor">Lili Taylor</a> as Nancy Straumberg<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+<li>Kira Pozehl as Gwendolyn "Gwen" Skokie, Matt's wife who is in a coma after being beaten during a home invasion</li>
+<li>Grant Merritt as Matt Skokie, Gwen's husband who was killed during a home invasion</li>
+<li>Bob Hess as Michael Taylor, Aubry's father</li>
+<li><a href="/wiki/Jennifer_Savidge" title="Jennifer Savidge">Jennifer Savidge</a> as Ruth Taylor, Aubry's mother</li>
+<li>Joe Nemmers as Deputy D.A. Rick Soderbergh</li>
+<li>Brent Anderson as Detective Chuck Palmer</li>
+<li>Todd Terry as Jackson, defense attorney for Hector Tontz</li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Season_2">Season 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=6" title="Edit section: Season 2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Regular_cast_2">Regular cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=7" title="Edit section: Regular cast">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a> as Leslie Graham, the private school's manipulative principal<sup id="cite_ref-Season2_17-0" class="reference"><a href="#cite_note-Season2-17">[17]</a></sup><sup id="cite_ref-Huffman_and_Hutton_18-0" class="reference"><a href="#cite_note-Huffman_and_Hutton-18">[18]</a></sup></li>
+<li><a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a> as Dan Sullivan, the school's basketball coach<sup id="cite_ref-Season2_17-1" class="reference"><a href="#cite_note-Season2-17">[17]</a></sup><sup id="cite_ref-Huffman_and_Hutton_18-1" class="reference"><a href="#cite_note-Huffman_and_Hutton-18">[18]</a></sup></li>
+<li><a href="/wiki/Lili_Taylor" title="Lili Taylor">Lili Taylor</a> as Anne Blaine, Taylor's mother<sup id="cite_ref-Taylor_10-1" class="reference"><a href="#cite_note-Taylor-10">[10]</a></sup><sup id="cite_ref-Season2_17-2" class="reference"><a href="#cite_note-Season2-17">[17]</a></sup></li>
+<li><a href="/wiki/Elvis_Nolasco" title="Elvis Nolasco">Elvis Nolasco</a> as Chris Dixon, a public school's principal<sup id="cite_ref-Season2_17-3" class="reference"><a href="#cite_note-Season2-17">[17]</a></sup><sup id="cite_ref-nc_19-0" class="reference"><a href="#cite_note-nc-19">[19]</a></sup></li>
+<li><a href="/wiki/Trevor_Jackson_(performer)" title="Trevor Jackson (performer)">Trevor Jackson</a> as Kevin LaCroix, a private school student and captain of the basketball team<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li><a href="/wiki/Connor_Jessup" title="Connor Jessup">Connor Jessup</a> as Taylor Blaine, the sexual assault accuser<sup id="cite_ref-Season2_17-4" class="reference"><a href="#cite_note-Season2-17">[17]</a></sup><sup id="cite_ref-cjar_21-0" class="reference"><a href="#cite_note-cjar-21">[21]</a></sup></li>
+<li><a href="/wiki/Joey_Pollari" title="Joey Pollari">Joey Pollari</a> as Eric Tanner, the gay basketball player accused of sexual assault by Taylor<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+<li>Angelique Rivera as Evy Dominguez, Taylor's girlfriend and a witness to the crime<sup id="cite_ref-cjar_21-1" class="reference"><a href="#cite_note-cjar-21">[21]</a></sup></li>
+<li><a href="/wiki/Regina_King" title="Regina King">Regina King</a> as Terri LaCroix, Kevin's strict mother<sup id="cite_ref-Season2_17-5" class="reference"><a href="#cite_note-Season2-17">[17]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li>
+</ul>
+<h4><span class="mw-headline" id="Recurring_cast_2">Recurring cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=8" title="Edit section: Recurring cast">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Hope_Davis" title="Hope Davis">Hope Davis</a> as Steph Sullivan, Coach Sullivan's wife<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></li>
+<li><a href="/wiki/Faran_Tahir" title="Faran Tahir">Faran Tahir</a> as Rhys Bashir, the chairman of the board at Leyland<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></li>
+<li><a href="/wiki/Andr%C3%A9_3000" title="André 3000">André L. Benjamin</a> as Michael LaCroix, Kevin's father<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></li>
+<li><a href="/wiki/Emily_Bergl" title="Emily Bergl">Emily Bergl</a> as Lillah Tanner, Eric's mother who seems to have a hard time accepting her son's homosexuality after he is outed.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></li>
+<li><a href="/wiki/Christopher_Stanley" title="Christopher Stanley">Christopher Stanley</a> as Charles, the businessman and Dr. Graham's boyfriend<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></li>
+<li>Brent Anderson as Curt Tanner, Eric's father. Unlike his wife he tries to make an effort to come to terms with Eric being gay.</li>
+<li><a href="/wiki/Stephanie_Sigman" title="Stephanie Sigman">Stephanie Sigman</a> as Monica Salazar, an administrator at a public school and colleague of Dixon<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li>
+<li><a href="/wiki/Richard_Cabral" title="Richard Cabral">Richard Cabral</a> as Sebastian De La Torre, a <a href="/wiki/White_hat_(computer_security)" title="White hat (computer security)">white hat</a> computer <a href="/wiki/Hacker_(computer_security)" class="mw-redirect" title="Hacker (computer security)">hacker</a><sup id="cite_ref-nc_19-1" class="reference"><a href="#cite_note-nc-19">[19]</a></sup></li>
+<li>Lynn Blackburn as Cammy Ross, a reporter for a local media outlet</li>
+<li>Sky Azure Van Vliet as Becca Sullivan, Coach Sullivan's daughter and a cheerleader</li>
+<li>Michael Seitz as Wes Baxter, a basketball player at Leyland</li>
+<li>Ty Doran as Peter Tanner, Eric's brother and a student at Marshall</li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Season_3">Season 3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=9" title="Edit section: Season 3">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Regular_cast_3">Regular cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=10" title="Edit section: Regular cast">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a> as Jeanette Hesby<sup id="cite_ref-s3huffman_12-1" class="reference"><a href="#cite_note-s3huffman-12">[12]</a></sup><sup id="cite_ref-Roberts_30-0" class="reference"><a href="#cite_note-Roberts-30">[30]</a></sup></li>
+<li><a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a> as Nicholas Coates<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup><sup id="cite_ref-Bizet_32-0" class="reference"><a href="#cite_note-Bizet-32">[32]</a></sup></li>
+<li><a href="/wiki/Lili_Taylor" title="Lili Taylor">Lili Taylor</a> as Clair Coates, Nicholas's wife<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><sup id="cite_ref-Bizet_32-1" class="reference"><a href="#cite_note-Bizet-32">[32]</a></sup></li>
+<li><a href="/wiki/Connor_Jessup" title="Connor Jessup">Connor Jessup</a> as Coy Henson, a young American who is addicted to drugs<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><sup id="cite_ref-TV_Series_Finale_35-0" class="reference"><a href="#cite_note-TV_Series_Finale-35">[35]</a></sup></li>
+<li><a href="/wiki/Richard_Cabral" title="Richard Cabral">Richard Cabral</a> as Isaac Castillo, a farm crew chief<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup><sup id="cite_ref-TV_Series_Finale_35-1" class="reference"><a href="#cite_note-TV_Series_Finale-35">[35]</a></sup></li>
+<li><a href="/wiki/Benito_Martinez_(actor)" title="Benito Martinez (actor)">Benito Martinez</a> as Luis Salazar, a father from Mexico who wants to find his missing son<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup><sup id="cite_ref-TV_Series_Finale_35-2" class="reference"><a href="#cite_note-TV_Series_Finale-35">[35]</a></sup></li>
+<li><a href="/wiki/Regina_King" title="Regina King">Regina King</a> as Kimara Walters, a social worker who wants to have a baby<sup id="cite_ref-s3details_13-1" class="reference"><a href="#cite_note-s3details-13">[13]</a></sup></li>
+</ul>
+<h4><span class="mw-headline" id="Recurring_cast_3">Recurring cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=11" title="Edit section: Recurring cast">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Sandra_Oh" title="Sandra Oh">Sandra Oh</a> as Abby Tanaka<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></li>
+<li><a href="/wiki/Cherry_Jones" title="Cherry Jones">Cherry Jones</a> as Laurie Ann Hesby, the matriarch of Hesby Farms<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup><sup id="cite_ref-TV_Series_Finale_35-3" class="reference"><a href="#cite_note-TV_Series_Finale-35">[35]</a></sup></li>
+<li><a href="/wiki/Tim_DeKay" title="Tim DeKay">Tim DeKay</a> as JD Hesby, Laurie Ann's brother.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></li>
+<li><a href="/wiki/Janel_Moloney" title="Janel Moloney">Janel Moloney</a> as Raelyn, Jeanette's sister, a single mother recently abandoned by her husband.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></li>
+<li><a href="/wiki/Dallas_Roberts" title="Dallas Roberts">Dallas Roberts</a> as Carson Hesby, Jeanette's husband<sup id="cite_ref-Roberts_30-1" class="reference"><a href="#cite_note-Roberts-30">[30]</a></sup></li>
+<li><a href="/wiki/Ana_Mulvoy-Ten" title="Ana Mulvoy-Ten">Ana Mulvoy-Ten</a> as Shae Reese, a 17-year-old prostitute<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup><sup id="cite_ref-TV_Series_Finale_35-4" class="reference"><a href="#cite_note-TV_Series_Finale-35">[35]</a></sup></li>
+<li>Mickaëlle X. Bizet as Gabrielle Durand, a Haitian woman, the nanny of Coates's son<sup id="cite_ref-Bizet_32-2" class="reference"><a href="#cite_note-Bizet-32">[32]</a></sup><sup id="cite_ref-TV_Series_Finale_35-5" class="reference"><a href="#cite_note-TV_Series_Finale-35">[35]</a></sup></li>
+<li>Clayton Cardenas as Diego Castillo<sup id="cite_ref-TV_Series_Finale_35-6" class="reference"><a href="#cite_note-TV_Series_Finale-35">[35]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=12" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Development_and_casting">Development and casting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=13" title="Edit section: Development and casting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In October 2013, ABC announced it was developing a drama <a href="/wiki/Television_pilot" title="Television pilot">pilot</a> created by <a href="/wiki/John_Ridley" title="John Ridley">John Ridley</a>.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup> In January 2014, ABC greenlighted the pilot, and signed a deal with Ridley to direct.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup></p>
+<p><a href="/wiki/Elvis_Nolasco" title="Elvis Nolasco">Elvis Nolasco</a> and <a href="/wiki/Caitlin_Gerard" title="Caitlin Gerard">Caitlin Gerard</a> were the first regular members to be cast, as announced on February 14, 2014.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> Later <a href="/wiki/Richard_Cabral" title="Richard Cabral">Richard Cabral</a>, Johnny Ortiz, <a href="/wiki/Benito_Martinez_(actor)" title="Benito Martinez (actor)">Benito Martinez</a> and <a href="/wiki/W._Earl_Brown" title="W. Earl Brown">W. Earl Brown</a> were cast for regular supporting roles in the pilot.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup> In early March, <a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a> was cast in a lead role as Russ, and <a href="/wiki/Penelope_Ann_Miller" title="Penelope Ann Miller">Penelope Ann Miller</a> signed on in a supporting role of the mother of the murdered man's wife.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup> Soon thereafter, it was announced that <a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a> was cast in the lead role of Barb Skokie, Russ' stoic ex-wife and mother of the murdered young man.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup></p>
+<h3><span class="mw-headline" id="Filming">Filming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=14" title="Edit section: Filming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The pilot episode, along with further episodes, was filmed in <a href="/wiki/Austin,_Texas" title="Austin, Texas">Austin, Texas</a>, which substitutes for the <a href="/wiki/Central_Valley_(California)" title="Central Valley (California)">California Central Valley</a> city of <a href="/wiki/Modesto,_California" title="Modesto, California">Modesto</a>.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup> On May 8, 2014, ABC picked up the pilot to the series for the 2014–15 television season.<sup id="cite_ref-andreeva508_3-1" class="reference"><a href="#cite_note-andreeva508-3">[3]</a></sup><sup id="cite_ref-variety508_4-1" class="reference"><a href="#cite_note-variety508-4">[4]</a></sup></p>
+<p>Filming for the series moved to <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> with the third season, as the show's production was awarded a California tax credit.<sup id="cite_ref-s3details_13-2" class="reference"><a href="#cite_note-s3details-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Episodes">Episodes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=15" title="Edit section: Episodes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/List_of_American_Crime_episodes" title="List of American Crime episodes">List of American Crime episodes</a></div>
+<table class="wikitable plainrowheaders" style="text-align:center">
+<tr style="text-align:center">
+<th scope="col" rowspan="2" colspan="2" style="padding:0 8px">Season</th>
+<th scope="col" rowspan="2" colspan="2" style="padding:0 8px">Episodes</th>
+<th scope="col" rowspan="1" colspan="2">Originally aired</th>
+</tr>
+<tr>
+<th scope="col">First aired</th>
+<th scope="col">Last aired</th>
+</tr>
+<tr>
+<td scope="row" style="background:#F1B82D;width:10px"></td>
+<td colspan="1"><a href="/wiki/List_of_American_Crime_episodes#Season_1_.282015.29" title="List of American Crime episodes">1</a></td>
+<td colspan="2">11</td>
+<td colspan="1" style="padding:0 8px">March&#160;5,&#160;2015<span style="display:none">&#160;(<span class="bday dtstart published updated">2015-03-05</span>)</span></td>
+<td style="padding:0 8px">May&#160;14,&#160;2015<span style="display:none">&#160;(<span class="dtend">2015-05-14</span>)</span></td>
+</tr>
+<tr>
+<td scope="row" style="background:#000000;width:10px"></td>
+<td colspan="1"><a href="/wiki/List_of_American_Crime_episodes#Season_2_.282016.29" title="List of American Crime episodes">2</a></td>
+<td colspan="2">10</td>
+<td colspan="1" style="padding:0 8px">January&#160;6,&#160;2016<span style="display:none">&#160;(<span class="bday dtstart published updated">2016-01-06</span>)</span></td>
+<td style="padding:0 8px">March&#160;9,&#160;2016<span style="display:none">&#160;(<span class="dtend">2016-03-09</span>)</span></td>
+</tr>
+<tr>
+<td scope="row" style="background:#8CA13D;width:10px"></td>
+<td colspan="1"><a href="/wiki/List_of_American_Crime_episodes#Season_3_.282017.29" title="List of American Crime episodes">3</a></td>
+<td colspan="2">8<sup id="cite_ref-futonCritic_54-0" class="reference"><a href="#cite_note-futonCritic-54">[54]</a></sup></td>
+<td colspan="1" style="padding:0 8px">March&#160;12,&#160;2017<span style="display:none">&#160;(<span class="bday dtstart published updated">2017-03-12</span>)</span></td>
+<td style="padding:0 8px">April&#160;30,&#160;2017<span style="display:none">&#160;(<span class="dtend">2017-04-30</span>)</span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=16" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Critical_response">Critical response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=17" title="Edit section: Critical response">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>American Crime</i> has been met with wide acclaim from critics with many praising the writing, directing, and the acting abilities of its cast, particularly <a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a> and <a href="/wiki/Regina_King" title="Regina King">Regina King</a>. <a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a> gave the first season a rating of 95% based on 42 reviews with an average rating of 8.32 out of 10. The site's critical consensus reads, "Raw, emotional portrayals of diverse characters in dire pain, mashed up with chilling narratives and a gutsy attitude make <i>American Crime</i> a must-see."<sup id="cite_ref-rtmt_55-0" class="reference"><a href="#cite_note-rtmt-55">[55]</a></sup> <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a> gave the first season a score of 85 out of 100, based on 35 reviews.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup> <a href="/wiki/Deadline.com" title="Deadline.com">Deadline.com</a> critic Dominic Patten said in his review: "the 11-episode limited series marks a resounding flag planting by network television and tells cable that it doesn’t own poignant drama on our small screens."<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup> Critic Ed Bark praised the performance of Felicity Huffman and wrote that she would be a favorite to win at <a href="/wiki/67th_Primetime_Emmy_Awards" title="67th Primetime Emmy Awards">next year's Primetime Emmy Awards</a>.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup></p>
+<p>The second season continued to receive critical acclaim from critics. On Rotten Tomatoes, the season has a 97% rating based on 35 reviews with an average score of 8.34 out of 10. The site's critical consensus reads, "<i>American Crime</i><span class="nowrap" style="padding-left:0.1em;">'</span>s intense second season infuses a complicated, topical story with genuine emotion, and patiently allows its narrative arc to develop without sacrificing momentum."<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup> On Metacritic, it has a score of 85 out of 100 based on 26 reviews.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup></p>
+<p>The third season has received even higher acclaim than its first two seasons. On Rotten Tomatoes, it has a 100% rating, based on 26 reviews with an average score of 8.9 out of 10. The site's critical consensus reads, "<i>American Crime</i> offers a unique anthology series filled with surprising revelations and compelling inter-connected narratives that opt for original, emotional human commentary instead of tired arguments over current events."<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup> On Metacritic, it has a score of 90 out of 100, based on 26 reviews, indicating "universal acclaim".<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup> Verne Gay of <i><a href="/wiki/Newsday" title="Newsday">Newsday</a></i> calls it "Another brilliant, powerful, moving season of one of TV's best."<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup></p>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=18" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span id="Awards"></span></p>
+<table class="wikitable sortable">
+<tr>
+<th align="left">Ceremony</th>
+<th align="left">Category</th>
+<th align="left">Recipient</th>
+<th align="left">Result</th>
+</tr>
+<tr>
+<td colspan="4">
+<center><b>Season 1</b></center>
+</td>
+</tr>
+<tr>
+<td rowspan="3"><a href="/wiki/5th_Critics%27_Choice_Television_Awards" title="5th Critics' Choice Television Awards">5th Critics' Choice Television Awards</a><sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup></td>
+<td><a href="/wiki/Critics%27_Choice_Television_Award_for_Best_Movie/Miniseries" title="Critics' Choice Television Award for Best Movie/Miniseries">Best Limited Series</a></td>
+<td><i>American Crime</i></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Critics%27_Choice_Television_Award_for_Best_Actress_in_a_Movie/Miniseries" title="Critics' Choice Television Award for Best Actress in a Movie/Miniseries">Best Actress in a Movie or Limited Series</a></td>
+<td><a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Critics%27_Choice_Television_Award_for_Best_Supporting_Actor_in_a_Movie/Miniseries" title="Critics' Choice Television Award for Best Supporting Actor in a Movie/Miniseries">Best Supporting Actor in a Movie or Limited Series</a></td>
+<td>Elvis Nolasco</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td rowspan="10"><a href="/wiki/67th_Primetime_Emmy_Awards" title="67th Primetime Emmy Awards">67th Primetime Emmy Awards</a><sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup><sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup></td>
+<td><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Miniseries" class="mw-redirect" title="Primetime Emmy Award for Outstanding Miniseries">Outstanding Limited Series</a></td>
+<td><i>American Crime</i></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Limited_Series_or_Movie" title="Primetime Emmy Award for Outstanding Lead Actor in a Limited Series or Movie">Outstanding Lead Actor in a Limited Series or a Movie</a></td>
+<td><a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Limited_Series_or_Movie" title="Primetime Emmy Award for Outstanding Lead Actress in a Limited Series or Movie">Outstanding Lead Actress in a Limited Series or a Movie</a></td>
+<td>Felicity Huffman</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Limited_Series_or_Movie" title="Primetime Emmy Award for Outstanding Supporting Actor in a Limited Series or Movie">Outstanding Supporting Actor in a Limited Series or a Movie</a></td>
+<td><a href="/wiki/Richard_Cabral" title="Richard Cabral">Richard Cabral</a><br />
+(Episode: "Episode Ten")</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Limited_Series_or_Movie" title="Primetime Emmy Award for Outstanding Supporting Actress in a Limited Series or Movie">Outstanding Supporting Actress in a Limited Series or a Movie</a></td>
+<td><a href="/wiki/Regina_King" title="Regina King">Regina King</a><br />
+(Episode: "Episode Four")</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+</tr>
+<tr>
+<td><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Miniseries,_Movie_or_a_Dramatic_Special" class="mw-redirect" title="Primetime Emmy Award for Outstanding Writing for a Miniseries, Movie or a Dramatic Special">Outstanding Writing for a Limited Series, Movie or a Dramatic Special</a></td>
+<td><a href="/wiki/John_Ridley" title="John Ridley">John Ridley</a><br />
+(Episode: "Episode One")</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Casting_for_a_Miniseries,_Movie,_or_a_Special" class="mw-redirect" title="Primetime Emmy Award for Outstanding Casting for a Miniseries, Movie, or a Special">Outstanding Casting for a Limited Series, Movie or a Special</a></td>
+<td>Kim Coleman and Beth Sepko Lindsay</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td>Outstanding Single-Camera Picture Editing for a Limited Series or a Movie</td>
+<td>Luyen Vu<br />
+(Episode: "Episode One")</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Sound_Editing_for_a_Miniseries,_Movie_or_a_Special" class="mw-redirect" title="Primetime Emmy Award for Outstanding Sound Editing for a Miniseries, Movie or a Special">Outstanding Sound Editing for a Limited Series, Movie or a Special</a></td>
+<td>Gregg Barbanell, Catherine Harper, Walter Newman, Pete Reynolds, Louie Schultz, Darleen Stoker, Bruce Tanis and Kenneth Young<br />
+(Episode: "Episode One")</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td>Outstanding Sound Mixing for a Limited Series or a Movie</td>
+<td>Ryan Davis, Ben Lowry and Rick Norman<br />
+(Episode: "Episode Eleven")</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td rowspan="6"><a href="/wiki/20th_Satellite_Awards" title="20th Satellite Awards">20th Satellite Awards</a><sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[67]</a></sup></td>
+<td><a href="/wiki/Satellite_Award_for_Best_Television_Series_%E2%80%93_Drama" title="Satellite Award for Best Television Series – Drama">Best Television Series – Drama</a></td>
+<td><i>American Crime</i></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Satellite_Award_for_Best_Actor_%E2%80%93_Television_Series_Drama" title="Satellite Award for Best Actor – Television Series Drama">Best Actor in a Television Series – Drama</a></td>
+<td>Timothy Hutton</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Satellite_Award_for_Best_Actress_%E2%80%93_Television_Series_Drama" title="Satellite Award for Best Actress – Television Series Drama">Best Actress in a Television Series – Drama</a></td>
+<td>Felicity Huffman</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Satellite_Award_for_Best_Supporting_Actor_%E2%80%93_Series,_Miniseries_or_Television_Film" title="Satellite Award for Best Supporting Actor – Series, Miniseries or Television Film">Best Supporting Actor – Series, Miniseries or Television Film</a></td>
+<td>Elvis Nolasco</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Satellite_Award_for_Best_Supporting_Actress_%E2%80%93_Series,_Miniseries_or_Television_Film" title="Satellite Award for Best Supporting Actress – Series, Miniseries or Television Film">Best Supporting Actress – Series, Miniseries or Television Film</a></td>
+<td>Regina King</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Satellite_Award_for_Best_Cast_%E2%80%93_Television_Series" title="Satellite Award for Best Cast – Television Series">Best Ensemble – Television Series</a></td>
+<td>Felicity Huffman, Timothy Hutton, W. Earl Brown, Regina King, Richard Cabral, Caitlin Gerard, Benito Martinez, Penelope Ann Miller, Elvis Nolasco, and Johnny Ortiz</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+</tr>
+<tr>
+<td rowspan="5"><a href="/wiki/NAACP_Image_Award" title="NAACP Image Award">47th NAACP Image Awards</a><sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[68]</a></sup></td>
+<td><a href="/wiki/NAACP_Image_Award_for_Outstanding_Television_Movie,_Mini-Series_or_Dramatic_Special" title="NAACP Image Award for Outstanding Television Movie, Mini-Series or Dramatic Special">Outstanding Television Movie, Mini-Series or Dramatic Special</a></td>
+<td><i>American Crime</i></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/NAACP_Image_Award_for_Outstanding_Supporting_Actress_in_a_Drama_Series" title="NAACP Image Award for Outstanding Supporting Actress in a Drama Series">Outstanding Supporting Actress in a Drama Series</a></td>
+<td>Regina King</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+</tr>
+<tr>
+<td rowspan="2">Outstanding Director in a Drama Series</td>
+<td>John Ridley<br />
+(Episode: "Episode One")</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+</tr>
+<tr>
+<td><a href="/wiki/Millicent_Shelton" title="Millicent Shelton">Millicent Shelton</a><br />
+(Episode: "Episode Ten")</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td>Outstanding Writer in a Drama Series</td>
+<td>John Ridley<br />
+(Episode: "Episode One")</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td rowspan="4"><a href="/wiki/73rd_Golden_Globe_Awards" title="73rd Golden Globe Awards">73rd Golden Globe Awards</a><sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Golden_Globe_Award_for_Best_Miniseries_or_Television_Film" title="Golden Globe Award for Best Miniseries or Television Film">Best Miniseries or Television Film</a></td>
+<td><i>American Crime</i></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Golden_Globe_Award_for_Best_Actress_%E2%80%93_Miniseries_or_Television_Film" title="Golden Globe Award for Best Actress – Miniseries or Television Film">Best Actress – Miniseries or Television Film</a></td>
+<td>Felicity Huffman</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Golden_Globe_Award_for_Best_Supporting_Actress_%E2%80%93_Series,_Miniseries_or_Television_Film" title="Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film">Best Supporting Actress – Series, Miniseries or Television Film</a></td>
+<td>Regina King</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td colspan="5">
+<center><b>Season 2</b></center>
+</td>
+</tr>
+<tr>
+<td rowspan="4"><a href="/wiki/68th_Primetime_Emmy_Awards" title="68th Primetime Emmy Awards">68th Primetime Emmy Awards</a><sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[70]</a></sup></td>
+<td>Outstanding Limited Series</td>
+<td><i>American Crime</i></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td rowspan="2">Outstanding Lead Actress in a Limited Series or Movie</td>
+<td>Felicity Huffman</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Lili_Taylor" title="Lili Taylor">Lili Taylor</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td>Outstanding Supporting Actress in a Limited Series or Movie</td>
+<td>Regina King<br />
+(Episode: "Season Two: Episode Eight")</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+</tr>
+<tr>
+<td rowspan="3"><a href="/wiki/7th_Critics%27_Choice_Television_Awards" title="7th Critics' Choice Television Awards">7th Critics' Choice Television Awards</a><sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[71]</a></sup></td>
+<td rowspan="2">Best Actress in a Movie or Limited Series</td>
+<td>Felicity Huffman</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td>Lili Taylor</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td>Best Supporting Actress in a Movie or Limited Series</td>
+<td>Regina King</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+</tr>
+<tr>
+<td rowspan="2"><a href="/wiki/74th_Golden_Globe_Awards" title="74th Golden Globe Awards">74th Golden Globe Awards</a><sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[72]</a></sup></td>
+<td>Best Miniseries or Television Film</td>
+<td><i>American Crime</i></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td>Best Actress – Miniseries or Television Film</td>
+<td>Felicity Huffman</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/23rd_Screen_Actors_Guild_Awards" title="23rd Screen Actors Guild Awards">23rd Screen Actors Guild Awards</a><sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[73]</a></sup></td>
+<td><a href="/wiki/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Female_Actor_in_a_Miniseries_or_Television_Movie" title="Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Miniseries or Television Movie">Outstanding Performance by a Female Actor in a Television Movie or Limited Series</a></td>
+<td>Felicity Huffman</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+<tr>
+<td><a href="/wiki/Writers_Guild_of_America_Awards_2016" title="Writers Guild of America Awards 2016">69th Writers Guild of America Awards</a><sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[74]</a></sup></td>
+<td><a href="/wiki/Writers_Guild_of_America_Award_for_Television:_Long_Form_%E2%80%93_Original" title="Writers Guild of America Award for Television: Long Form – Original">Long Form – Original</a></td>
+<td><a href="/wiki/Julie_H%C3%A9bert" title="Julie Hébert">Julie Hébert</a>, Sonay Hoffman, Keith Huff, <a href="/wiki/Stacy_A._Littlejohn" title="Stacy A. Littlejohn">Stacy A. Littlejohn</a>, Kirk A. Moore, Davy Perez, <a href="/wiki/Diana_Son" title="Diana Son">Diana Son</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-TVBTN-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-TVBTN_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Kondolojy, Amanda (November 19, 2014). <a rel="nofollow" class="external text" href="http://tvbythenumbers.zap2it.com/2014/11/19/abc-announces-premiere-dates-for-american-crime-and-secrets-and-lies/329680/">"ABC Announces Premiere Dates for 'American Crime' and 'Secrets and Lies<span style="padding-right:0.2em;">'</span>"</a>. <a href="/wiki/TV_by_the_Numbers" title="TV by the Numbers">TV by the Numbers</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 19,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Amanda&amp;rft.aulast=Kondolojy&amp;rft.btitle=ABC+Announces+Premiere+Dates+for+%27American+Crime%27+and+%27Secrets+and+Lies%27&amp;rft.date=2014-11-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftvbythenumbers.zap2it.com%2F2014%2F11%2F19%2Fabc-announces-premiere-dates-for-american-crime-and-secrets-and-lies%2F329680%2F&amp;rft.pub=TV+by+the+Numbers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Stanley, Alessandra (March 4, 2015). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2015/03/05/arts/television/review-american-crime-a-series-where-justice-is-far-from-black-or-white.html">"Review: 'American Crime,' a Series Where Justice Is Far From Black or White"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 5,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Review%3A+%98American+Crime%2C%99+a+Series+Where+Justice+Is+Far+From+Black+or+White&amp;rft.aufirst=Alessandra&amp;rft.aulast=Stanley&amp;rft.date=2015-03-04&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2015%2F03%2F05%2Farts%2Ftelevision%2Freview-american-crime-a-series-where-justice-is-far-from-black-or-white.html&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-andreeva508-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-andreeva508_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-andreeva508_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (May 8, 2014). <a rel="nofollow" class="external text" href="http://www.deadline.com/2014/05/abc-picks-up-shonda-rhimes-how-to-get-away-with-murder-anthony-anderson-american-crime/">"ABC New Series Pickups: 'Selfie', 'Forever', Galavant', 'Whispers', 'How To Get Away With Murder', 'American Crime', 'Black-ish', Jeff Lowell Comedy"</a>. Deadline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.btitle=ABC+New+Series+Pickups%3A+%27Selfie%27%2C+%27Forever%27%2C+Galavant%27%2C+%27Whispers%27%2C+%27How+To+Get+Away+With+Murder%27%2C+%27American+Crime%27%2C+%27Black-ish%27%2C+Jeff+Lowell+Comedy&amp;rft.date=2014-05-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2014%2F05%2Fabc-picks-up-shonda-rhimes-how-to-get-away-with-murder-anthony-anderson-american-crime%2F&amp;rft.pub=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-variety508-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-variety508_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-variety508_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Littleton, Cynthia (May 8, 2014). <a rel="nofollow" class="external text" href="http://variety.com/2014/tv/news/abc-orders-viola-davis-drama-how-to-get-away-with-murder-1201176035/">"ABC Orders 'Marvel's Agent Carter,' 4 Other Dramas and 4 Comedies"</a>. <i><a href="/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=ABC+Orders+%27Marvel%27s+Agent+Carter%2C%27+4+Other+Dramas+and+4+Comedies&amp;rft.aufirst=Cynthia&amp;rft.aulast=Littleton&amp;rft.date=2014-05-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fvariety.com%2F2014%2Ftv%2Fnews%2Fabc-orders-viola-davis-drama-how-to-get-away-with-murder-1201176035%2F&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (May 7, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/05/american-crime-castle-agents-of-shield-agent-carter-galavant-secrets-lies-fresh-off-the-boat-renewed-abc-1201422717/">"<span style="padding-left:0.2em;">'</span>American Crime', 'Castle' 'S.H.I.E.L.D.', 'Agent Carter', 'Galavant', 'Secrets &amp; Lies', 'Nashville' Among ABC Renewals"</a>. Deadline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">May 8,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.btitle=%98American+Crime%99%2C+%98Castle%99+%98S.H.I.E.L.D.%99%2C+%98Agent+Carter%99%2C+%98Galavant%99%2C+%98Secrets+%26+Lies%99%2C+%98Nashville%99+Among+ABC+Renewals&amp;rft.date=2015-05-07&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F05%2Famerican-crime-castle-agents-of-shield-agent-carter-galavant-secrets-lies-fresh-off-the-boat-renewed-abc-1201422717%2F&amp;rft.pub=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Krolak, Mike (December 17, 2015). <a rel="nofollow" class="external text" href="http://abc.go.com/shows/american-crime/news/updates/watch-american-crime-season-2-premiere-online-free-151217">"Watch American Crime Season 2 Premiere Online Free: Early Release"</a>. ABC<span class="reference-accessdate">. Retrieved <span class="nowrap">December 21,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Mike&amp;rft.aulast=Krolak&amp;rft.btitle=Watch+American+Crime+Season+2+Premiere+Online+Free%3A+Early+Release&amp;rft.date=2015-12-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fabc.go.com%2Fshows%2Famerican-crime%2Fnews%2Fupdates%2Fwatch-american-crime-season-2-premiere-online-free-151217&amp;rft.pub=ABC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Friedlander, Whitney (December 21, 2015). <a rel="nofollow" class="external text" href="http://variety.com/2015/tv/news/usa-colony-premiere-online-second-chance-american-crime-1201666345/">"USA's 'Colony,' Fox's 'Second Chance' Receive Early Premieres Online"</a>. <i><a href="/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 22,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=USA%27s+%27Colony%2C%27+Fox%27s+%27Second+Chance%27+Receive+Early+Premieres+Online&amp;rft.aufirst=Whitney&amp;rft.aulast=Friedlander&amp;rft.date=2015-12-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvariety.com%2F2015%2Ftv%2Fnews%2Fusa-colony-premiere-online-second-chance-american-crime-1201666345%2F&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (November 6, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/11/american-crime-season-2-premiere-date-time-slot-abc-1201611658/">"<span style="padding-left:0.2em;">'</span>American Crime' Gets January Return Date, New Time Slot on ABC"</a>. Deadline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">November 6,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.btitle=%27American+Crime%27+Gets+January+Return+Date%2C+New+Time+Slot+on+ABC&amp;rft.date=2015-11-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F11%2Famerican-crime-season-2-premiere-date-time-slot-abc-1201611658%2F&amp;rft.pub=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Ge, Linda (May 12, 2015). <a rel="nofollow" class="external text" href="http://www.thewrap.com/american-crime-will-feature-same-actors-in-different-roles-in-season-2/">"<span style="padding-left:0.2em;">'</span>American Crime' Will Feature Same Actors in Different Roles in Season 2"</a>. The Wrap<span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Linda&amp;rft.aulast=Ge&amp;rft.btitle=%98American+Crime%99+Will+Feature+Same+Actors+in+Different+Roles+in+Season+2&amp;rft.date=2015-05-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thewrap.com%2Famerican-crime-will-feature-same-actors-in-different-roles-in-season-2%2F&amp;rft.pub=The+Wrap&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Taylor-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Taylor_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Taylor_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (June 24, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/06/lili-taylor-cast-american-crime-season-2-regular-1201453590/">"Lili Taylor Returning To 'American Crime' Season 2 As Regular"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 24,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Lili+Taylor+Returning+To+%98American+Crime%99+Season+2+As+Regular&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2015-06-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F06%2Flili-taylor-cast-american-crime-season-2-regular-1201453590%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Ausiello, Michael (May 12, 2016). <a rel="nofollow" class="external text" href="http://tvline.com/2016/05/12/american-crime-renewed-abc-season-3/">"American Crime Renewed at ABC"</a>. TVLine<span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Michael&amp;rft.aulast=Ausiello&amp;rft.btitle=American+Crime+Renewed+at+ABC&amp;rft.date=2016-05-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftvline.com%2F2016%2F05%2F12%2Famerican-crime-renewed-abc-season-3%2F&amp;rft.pub=TVLine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-s3huffman-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-s3huffman_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-s3huffman_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (June 29, 2016). <a rel="nofollow" class="external text" href="http://deadline.com/2016/06/american-crime-felicity-huffman-return-season-3-1201781289/">"<span style="padding-left:0.2em;">'</span>American Crime': Felicity Huffman Set To Return For Season 3"</a>. Deadline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">June 29,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.btitle=%98American+Crime%99%3A+Felicity+Huffman+Set+To+Return+For+Season+3&amp;rft.date=2016-06-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2016%2F06%2Famerican-crime-felicity-huffman-return-season-3-1201781289%2F&amp;rft.pub=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-s3details-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-s3details_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-s3details_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-s3details_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (June 20, 2016). <a rel="nofollow" class="external text" href="http://deadline.com/2016/06/american-crime-regina-king-return-details-season-3-abc-1201776113/">"<span style="padding-left:0.2em;">'</span>American Crime': Regina King Set To Return, Details About Season 3 Revealed"</a>. Deadline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">June 21,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.btitle=%98American+Crime%99%3A+Regina+King+Set+To+Return%2C+Details+About+Season+3+Revealed&amp;rft.date=2016-06-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2016%2F06%2Famerican-crime-regina-king-return-details-season-3-abc-1201776113%2F&amp;rft.pub=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (January 10, 2017). <a rel="nofollow" class="external text" href="http://deadline.com/2017/01/abc-midseason-schedule-time-after-time-american-crime-the-catch-dirty-dancing-others-get-premiere-dates-1201882316/">"ABC Midseason Schedule: 'Time After Time', 'American Crime', 'The Catch', 'Dirty Dancing', Others Get Premiere Dates"</a>. Deadline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">January 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.btitle=ABC+Midseason+Schedule%3A+%27Time+After+Time%27%2C+%27American+Crime%27%2C+%27The+Catch%27%2C+%27Dirty+Dancing%27%2C+Others+Get+Premiere+Dates&amp;rft.date=2017-01-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2017%2F01%2Fabc-midseason-schedule-time-after-time-american-crime-the-catch-dirty-dancing-others-get-premiere-dates-1201882316%2F&amp;rft.pub=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Goldberg, Lesley (July 22, 2014). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/live-feed/regina-king-joins-american-crime-720399">"Regina King Joins 'American Crime,' Will Direct 'Scandal,' Return to 'Big Bang Theory<span style="padding-right:0.2em;">'</span>"</a>. <i>The Hollywood Reporter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 19,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Regina+King+Joins+%27American+Crime%2C%27+Will+Direct+%27Scandal%2C%27+Return+to+%27Big+Bang+Theory%27&amp;rft.aufirst=Lesley&amp;rft.aulast=Goldberg&amp;rft.date=2014-07-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Flive-feed%2Fregina-king-joins-american-crime-720399&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Sullivan, Kevin P. (December 18, 2014). <a rel="nofollow" class="external text" href="http://insidetv.ew.com/2014/12/18/lili-taylor-american-crime/">"First look at Lili Taylor on ABC's 'American Crime<span style="padding-right:0.2em;">'</span>"</a>. <i>Entertainment Weekly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 19,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=First+look+at+Lili+Taylor+on+ABC%27s+%27American+Crime%27&amp;rft.aufirst=Kevin+P.&amp;rft.aulast=Sullivan&amp;rft.date=2014-12-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Finsidetv.ew.com%2F2014%2F12%2F18%2Flili-taylor-american-crime%2F&amp;rft.jtitle=Entertainment+Weekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Season2-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Season2_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Season2_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Season2_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Season2_17-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Season2_17-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Season2_17-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Birnbaum, Debra (August 1, 2015). <a rel="nofollow" class="external text" href="http://variety.com/2015/tv/news/american-crime-season-2-john-ridley-1201554723/">"John Ridley Reveals Season Two Plot of 'American Crime' (EXCLUSIVE)"</a>. <i>Variety</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 4,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=John+Ridley+Reveals+Season+Two+Plot+of+%98American+Crime%99+%28EXCLUSIVE%29&amp;rft.aufirst=Debra&amp;rft.aulast=Birnbaum&amp;rft.date=2015-08-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvariety.com%2F2015%2Ftv%2Fnews%2Famerican-crime-season-2-john-ridley-1201554723%2F&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Huffman_and_Hutton-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Huffman_and_Hutton_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Huffman_and_Hutton_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (May 14, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/05/felicity-huffman-timothy-hutton-return-american-crime-season-2-abc-1201427118/">"Felicity Huffman &amp; Timothy Hutton To Return To 'American Crime' For Season 2"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 14,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Felicity+Huffman+%26+Timothy+Hutton+To+Return+To+%98American+Crime%99+For+Season+2&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2015-05-14&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F05%2Ffelicity-huffman-timothy-hutton-return-american-crime-season-2-abc-1201427118%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nc-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-nc_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nc_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">D'Alessandro, Anthony (June 22, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/06/american-crime-richard-cabral-elvis-nolasco-abc-1201451883/">"American Crime Season 2: Richard Cabral, Elvis Nolasco Set To Return"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 23,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime+Season+2%3A+Richard+Cabral%2C+Elvis+Nolasco+Set+To+Return&amp;rft.aufirst=Anthony&amp;rft.aulast=D%27Alessandro&amp;rft.date=2015-06-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F06%2Famerican-crime-richard-cabral-elvis-nolasco-abc-1201451883%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Pedersen, Erik (August 3, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/08/trevor-jackson-american-crime-jenna-dewan-tatum-supergirl-1201491174/">"Trevor Jackson Joins 'American Crime'; Jenna Dewan-Tatum Cast In 'Supergirl<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 4,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Trevor+Jackson+Joins+%98American+Crime%27%3B+Jenna+Dewan-Tatum+Cast+In+%98Supergirl%99&amp;rft.aufirst=Erik&amp;rft.aulast=Pedersen&amp;rft.date=2015-08-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F08%2Ftrevor-jackson-american-crime-jenna-dewan-tatum-supergirl-1201491174%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cjar-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-cjar_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cjar_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Lincoln, Ross A. (July 22, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/07/american-crime-adds-connor-jessup-angelique-rivera-1201483359/">"Connor Jessup, Angelique Rivera Join 'American Crime' Season 2 Lineup"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 22,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Connor+Jessup%2C+Angelique+Rivera+Join+%98American+Crime%99+Season+2+Lineup&amp;rft.aufirst=Ross+A.&amp;rft.aulast=Lincoln&amp;rft.date=2015-07-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F07%2Famerican-crime-adds-connor-jessup-angelique-rivera-1201483359%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Lincoln, Ross A. (July 21, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/07/abcs-american-crime-adds-joey-pollari-as-season-regular-1201482976/">"Joey Pollari Joins 'American Crime' As Season 2 Regular"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 22,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Joey+Pollari+Joins+%98American+Crime%99+As+Season+2+Regular&amp;rft.aufirst=Ross+A.&amp;rft.aulast=Lincoln&amp;rft.date=2015-07-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F07%2Fabcs-american-crime-adds-joey-pollari-as-season-regular-1201482976%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (June 16, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/06/regina-king-return-american-crime-season-2-series-regular-1201445187/">"Regina King To Return To 'American Crime' As Series Regular In Season 2"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Regina+King+To+Return+To+%98American+Crime%99+As+Series+Regular+In+Season+2&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2015-06-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F06%2Fregina-king-return-american-crime-season-2-series-regular-1201445187%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Pond, Steve (July 22, 2015). <a rel="nofollow" class="external text" href="http://www.thewrap.com/american-crime-adds-hope-davis-to-season-2-cast-exclusive/">"<span style="padding-left:0.2em;">'</span>American Crime' Adds Hope Davis to Season 2 Cast (Exclusive)"</a>. <i>TheWrap</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 24,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%27American+Crime%27+Adds+Hope+Davis+to+Season+2+Cast+%28Exclusive%29&amp;rft.aufirst=Steve&amp;rft.aulast=Pond&amp;rft.date=2015-07-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thewrap.com%2Famerican-crime-adds-hope-davis-to-season-2-cast-exclusive%2F&amp;rft.jtitle=TheWrap&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Petski, Denise (July 24, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/07/faran-tahir-cast-american-crime-holly-curran-amazon-pilot-zelda-1201484861/">"Faran Tahir Cast In ABC's 'American Crime<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 25,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Faran+Tahir+Cast+In+ABC%99s+%98American+Crime%99&amp;rft.aufirst=Denise&amp;rft.aulast=Petski&amp;rft.date=2015-07-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F07%2Ffaran-tahir-cast-american-crime-holly-curran-amazon-pilot-zelda-1201484861%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Petski, Denise (July 31, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/07/andre-benjamin-cast-american-crime-john-ridley-regina-king-1201489026/">"André Benjamin Joins ABC Drama Series 'American Crime<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 1,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Andr%C3%A9+Benjamin+Joins+ABC+Drama+Series+%98American+Crime%99&amp;rft.aufirst=Denise&amp;rft.aulast=Petski&amp;rft.date=2015-07-31&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F07%2Fandre-benjamin-cast-american-crime-john-ridley-regina-king-1201489026%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Petski, Denise (August 26, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/08/emily-bergl-cast-abc-american-crime-travis-mills-flaked-1201507008/">"Emily Bergl Joins ABC's 'American Crime'; Travis Mills In 'Flaked<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Emily+Bergl+Joins+ABC%99s+%98American+Crime%99%3B+Travis+Mills+In+%98Flaked%99&amp;rft.aufirst=Denise&amp;rft.aulast=Petski&amp;rft.date=2015-08-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F08%2Femily-bergl-cast-abc-american-crime-travis-mills-flaked-1201507008%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation news">Sandberg, Bryn Elise (September 10, 2015). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/live-feed/christopher-stanley-joins-american-crime-821834">"Christopher Stanley Joins 'American Crime' Season Two (Exclusive)"</a>. <i><a href="/wiki/The_Hollywood_Reporter" title="The Hollywood Reporter">The Hollywood Reporter</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Christopher+Stanley+Joins+%27American+Crime%27+Season+Two+%28Exclusive%29&amp;rft.aufirst=Bryn+Elise&amp;rft.aulast=Sandberg&amp;rft.date=2015-09-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Flive-feed%2Fchristopher-stanley-joins-american-crime-821834&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">Petski, Denise (August 19, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/08/stephanie-sigman-cast-american-crime-john-ridley-1201501762/">"Stephanie Sigman Joins 'American Crime'; Michael Maize In 'Hawaii Five-O<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 20,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Stephanie+Sigman+Joins+%27American+Crime%27%3B+Michael+Maize+In+%27Hawaii+Five-O%27&amp;rft.aufirst=Denise&amp;rft.aulast=Petski&amp;rft.date=2015-08-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F08%2Fstephanie-sigman-cast-american-crime-john-ridley-1201501762%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Roberts-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-Roberts_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Roberts_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Petski, Denise (November 7, 2016). <a rel="nofollow" class="external text" href="http://deadline.com/2016/11/american-crime-dallas-roberts-cast-season-3-abc-series-1201850279/">"<span style="padding-left:0.2em;">'</span>American Crime': Dallas Roberts Joins Cast For Season 3 Of ABC Series"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 4,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98American+Crime%99%3A+Dallas+Roberts+Joins+Cast+For+Season+3+Of+ABC+Series&amp;rft.aufirst=Denise&amp;rft.aulast=Petski&amp;rft.date=2016-11-07&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2016%2F11%2Famerican-crime-dallas-roberts-cast-season-3-abc-series-1201850279%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">Petski, Denise (July 25, 2016). <a rel="nofollow" class="external text" href="http://deadline.com/2016/07/american-crime-timothy-hutton-return-season-3-john-ridley-abc-1201792313/">"<span style="padding-left:0.2em;">'</span>American Crime': Timothy Hutton Set To Return For Season 3"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 26,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98American+Crime%99%3A+Timothy+Hutton+Set+To+Return+For+Season+3&amp;rft.aufirst=Denise&amp;rft.aulast=Petski&amp;rft.date=2016-07-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2016%2F07%2Famerican-crime-timothy-hutton-return-season-3-john-ridley-abc-1201792313%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bizet-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bizet_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bizet_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bizet_32-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Petski, Denise (November 17, 2016). <a rel="nofollow" class="external text" href="http://deadline.com/2016/11/american-crime-mickaelle-bizet-mary-louise-parker-guest-star-billions-1201856014/">"<span style="padding-left:0.2em;">'</span>American Crime' Adds Mickaëlle X. Bizet; Mary Louise Parker To Guest In 'Billions<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 4,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98American+Crime%99+Adds+Micka%C3%ABlle+X.+Bizet%3B+Mary+Louise+Parker+To+Guest+In+%98Billions%99&amp;rft.aufirst=Denise&amp;rft.aulast=Petski&amp;rft.date=2016-11-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2016%2F11%2Famerican-crime-mickaelle-bizet-mary-louise-parker-guest-star-billions-1201856014%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web">Roots, Kimberly (August 1, 2016). <a rel="nofollow" class="external text" href="http://tvline.com/2016/08/01/american-crime-lili-taylor-cast-season-3/">"American Crime's Lili Taylor Re-Ups for Transformational Season 3 Role"</a>. <i>TVLine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 1,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime%27s+Lili+Taylor+Re-Ups+for+Transformational+Season+3+Role&amp;rft.aufirst=Kimberly&amp;rft.aulast=Roots&amp;rft.date=2016-08-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftvline.com%2F2016%2F08%2F01%2Famerican-crime-lili-taylor-cast-season-3%2F&amp;rft.jtitle=TVLine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">Ausiello, Michael (August 17, 2016). <a rel="nofollow" class="external text" href="http://tvline.com/2016/08/17/american-crime-season-3-connor-jessup-cast/">"American Crime: Connor Jessup Sets 'Shocking' Season 3 Return"</a>. <i>TVLine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime%3A+Connor+Jessup+Sets+%27Shocking%27+Season+3+Return&amp;rft.aufirst=Michael&amp;rft.aulast=Ausiello&amp;rft.date=2016-08-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftvline.com%2F2016%2F08%2F17%2Famerican-crime-season-3-connor-jessup-cast%2F&amp;rft.jtitle=TVLine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TV_Series_Finale-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-TV_Series_Finale_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TV_Series_Finale_35-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TV_Series_Finale_35-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-TV_Series_Finale_35-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-TV_Series_Finale_35-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-TV_Series_Finale_35-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-TV_Series_Finale_35-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Pena, Jessica (January 3, 2017). <a rel="nofollow" class="external text" href="http://tvseriesfinale.com/tv-show/american-crime-season-three-synopsis-released-whos-coming-back/">"<i>American Crime:</i> Season Three Synopsis Released; Who's Coming Back?"</a>. <i>TV Series Finale</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 4,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime%3A+Season+Three+Synopsis+Released%3B+Who%99s+Coming+Back%3F&amp;rft.aufirst=Jessica&amp;rft.aulast=Pena&amp;rft.date=2017-01-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftvseriesfinale.com%2Ftv-show%2Famerican-crime-season-three-synopsis-released-whos-coming-back%2F&amp;rft.jtitle=TV+Series+Finale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web">Petski, Denise (July 8, 2016). <a rel="nofollow" class="external text" href="http://deadline.com/2016/07/american-crime-richard-cabral-return-season-3-1201784262/">"<span style="padding-left:0.2em;">'</span>American Crime': Richard Cabral Set To Return For Season 3"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98American+Crime%99%3A+Richard+Cabral+Set+To+Return+For+Season+3&amp;rft.aufirst=Denise&amp;rft.aulast=Petski&amp;rft.date=2016-07-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2016%2F07%2Famerican-crime-richard-cabral-return-season-3-1201784262%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (August 22, 2016). <a rel="nofollow" class="external text" href="http://deadline.com/2016/08/american-crime-benito-martinez-cast-season-3-abc-1201806909/">"<span style="padding-left:0.2em;">'</span>American Crime': Benito Martinez To Return For Season 3 Of ABC Series"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 3,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98American+Crime%99%3A+Benito+Martinez+To+Return+For+Season+3+Of+ABC+Series&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2016-08-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2016%2F08%2Famerican-crime-benito-martinez-cast-season-3-abc-1201806909%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation news">Roshanian, Arya (September 29, 2016). <a rel="nofollow" class="external text" href="http://variety.com/2016/tv/news/sandra-oh-american-crime-season-3-arrowverse-crossover-dominators-1201873877/">"TV News Roundup: Sandra Oh Joins 'American Crime' Season 3"</a>. <i>Variety</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 29,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=TV+News+Roundup%3A+Sandra+Oh+Joins+%98American+Crime%99+Season+3&amp;rft.aufirst=Arya&amp;rft.aulast=Roshanian&amp;rft.date=2016-09-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvariety.com%2F2016%2Ftv%2Fnews%2Fsandra-oh-american-crime-season-3-arrowverse-crossover-dominators-1201873877%2F&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation news">Birnbaum, Debra (September 20, 2016). <a rel="nofollow" class="external text" href="http://variety.com/2016/tv/news/cherry-jones-american-crime-season-3-1201864000/">"Cherry Jones Joins Cast of 'American Crime' Season 3 (EXCLUSIVE)"</a>. <i>Variety</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 20,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Cherry+Jones+Joins+Cast+of+%98American+Crime%99+Season+3+%28EXCLUSIVE%29&amp;rft.aufirst=Debra&amp;rft.aulast=Birnbaum&amp;rft.date=2016-09-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvariety.com%2F2016%2Ftv%2Fnews%2Fcherry-jones-american-crime-season-3-1201864000%2F&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (October 27, 2016). <a rel="nofollow" class="external text" href="http://deadline.com/2016/10/tim-dekay-cast-american-crime-season-3-abc-1201844161/">"<span style="padding-left:0.2em;">'</span>American Crime': Tim DeKay Joins Cast For Season 3 Of ABC Series"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 4,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98American+Crime%99%3A+Tim+DeKay+Joins+Cast+For+Season+3+Of+ABC+Series&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2016-10-27&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2016%2F10%2Ftim-dekay-cast-american-crime-season-3-abc-1201844161%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation news">Wagmeister, Elizabeth (October 17, 2016). <a rel="nofollow" class="external text" href="http://variety.com/2016/tv/news/american-crime-season-3-janel-moloney-abc-1201891137/">"<span style="padding-left:0.2em;">'</span>The West Wing' Alum Janel Moloney Joins ABC's 'American Crime' Season 3 (EXCLUSIVE)"</a>. <i>Variety</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 21,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98The+West+Wing%99+Alum+Janel+Moloney+Joins+ABC%99s+%98American+Crime%99+Season+3+%28EXCLUSIVE%29&amp;rft.aufirst=Elizabeth&amp;rft.aulast=Wagmeister&amp;rft.date=2016-10-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvariety.com%2F2016%2Ftv%2Fnews%2Famerican-crime-season-3-janel-moloney-abc-1201891137%2F&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation news">Wagmeister, Elizabeth (October 25, 2016). <a rel="nofollow" class="external text" href="http://variety.com/2016/tv/news/ana-mulvoy-ten-american-crime-season-3-cast-abc-1201900015/">"<span style="padding-left:0.2em;">'</span>American Crime' Adds Former Nickelodeon Star to Season 3 as Series Regular (EXCLUSIVE)"</a>. <i>Variety</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 4,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98American+Crime%99+Adds+Former+Nickelodeon+Star+to+Season+3+as+Series+Regular+%28EXCLUSIVE%29&amp;rft.aufirst=Elizabeth&amp;rft.aulast=Wagmeister&amp;rft.date=2016-10-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvariety.com%2F2016%2Ftv%2Fnews%2Fana-mulvoy-ten-american-crime-season-3-cast-abc-1201900015%2F&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (October 24, 2013). <a rel="nofollow" class="external text" href="http://www.deadline.com/2013/10/abc-john-ridley-12-years-a-slave-murder-drama-american-crime/">"ABC To Tackle Race With Murder Drama From '12 Years A Slave' Writer John Ridley"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=ABC+To+Tackle+Race+With+Murder+Drama+From+%2712+Years+A+Slave%27+Writer+John+Ridley&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2013-10-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2013%2F10%2Fabc-john-ridley-12-years-a-slave-murder-drama-american-crime%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web">Obenson, Tambay A. (January 15, 2014). <a rel="nofollow" class="external text" href="http://blogs.indiewire.com/shadowandact/abc-gives-pilot-green-light-to-john-ridleys-racially-charged-murder-drama-american-crime">"ABC Gives Pilot Green Light To John Ridley's Racially-Charged Murder Drama 'American Crime' |Shadow and Act"</a>. <i>Indiewire</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=ABC+Gives+Pilot+Green+Light+To+John+Ridley%27s+Racially-Charged+Murder+Drama+%27American+Crime%27+%26%23124%3BShadow+and+Act&amp;rft.aufirst=Tambay+A.&amp;rft.aulast=Obenson&amp;rft.date=2014-01-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblogs.indiewire.com%2Fshadowandact%2Fabc-gives-pilot-green-light-to-john-ridleys-racially-charged-murder-drama-american-crime&amp;rft.jtitle=Indiewire&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation news">Goldberg, Lesley (January 21, 2014). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/live-feed/12-years-a-slave-oscar-672827">"<span style="padding-left:0.2em;">'</span>12 Years a Slave' Oscar Nominee to Direct ABC Pilot (Exclusive)"</a>. <i>The Hollywood Reporter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%2712+Years+a+Slave%27+Oscar+Nominee+to+Direct+ABC+Pilot+%28Exclusive%29&amp;rft.aufirst=Lesley&amp;rft.aulast=Goldberg&amp;rft.date=2014-01-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Flive-feed%2F12-years-a-slave-oscar-672827&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (February 14, 2014). <a rel="nofollow" class="external text" href="http://www.deadline.com/2014/02/gerlald-mcraney-joins-tnt-pilot-agent-x-duo-cast-in-abcs-american-crime/">"Gerlald McRaney Joins TNT Pilot 'Agent X'; Duo Cast In ABC's 'American Crime<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Gerlald+McRaney+Joins+TNT+Pilot+%27Agent+X%27%3B+Duo+Cast+In+ABC%27s+%27American+Crime%27&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2014-02-14&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2014%2F02%2Fgerlald-mcraney-joins-tnt-pilot-agent-x-duo-cast-in-abcs-american-crime%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.deadline.com/2014/02/american-crime-agent-x-and-warriors-pilots-add-cast/">"<span style="padding-left:0.2em;">'</span>American Crime', 'Agent X' And 'Warriors' Pilots Add Cast"</a>. <i>Deadline.com</i>. February 21, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%27American+Crime%27%2C+%27Agent+X%27+And+%27Warriors%27+Pilots+Add+Cast&amp;rft.date=2014-02-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2014%2F02%2Famerican-crime-agent-x-and-warriors-pilots-add-cast%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (March 3, 2014). <a rel="nofollow" class="external text" href="http://www.deadline.com/2014/03/benito-martinez-w-earl-brown-john-ridley-abc-pilot-american-crime/">"Benito Martinez &amp; W. Earl Brown To Co-Star In John Ridley's ABC Pilot 'American Crime<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Benito+Martinez+%26+W.+Earl+Brown+To+Co-Star+In+John+Ridley%27s+ABC+Pilot+%27American+Crime%27&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2014-03-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2014%2F03%2Fbenito-martinez-w-earl-brown-john-ridley-abc-pilot-american-crime%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation news">Goldberg, Lesley (March 5, 2014). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/live-feed/timothy-hutton-star-john-ridleys-686422">"Timothy Hutton to Star in John Ridley's ABC Drama"</a>. <i>Hollywood Reporter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Timothy+Hutton+to+Star+in+John+Ridley%27s+ABC+Drama&amp;rft.aufirst=Lesley&amp;rft.aulast=Goldberg&amp;rft.date=2014-03-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Flive-feed%2Ftimothy-hutton-star-john-ridleys-686422&amp;rft.jtitle=Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (March 5, 2014). <a rel="nofollow" class="external text" href="http://www.deadline.com/2014/03/penelope-ann-miller-joins-abcs-american-crime-chris-butler-in-nbcs-lifesaver/">"Penelope Ann Miller Joins ABC's 'American Crime', Chris Butler In NBC's 'Lifesaver<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Penelope+Ann+Miller+Joins+ABC%27s+%27American+Crime%27%2C+Chris+Butler+In+NBC%27s+%27Lifesaver%27&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2014-03-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2014%2F03%2Fpenelope-ann-miller-joins-abcs-american-crime-chris-butler-in-nbcs-lifesaver%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (March 7, 2014). <a rel="nofollow" class="external text" href="http://www.deadline.com/2014/03/felicity-huffman-american-crime-john-ridley-abc/">"Felicity Huffman To Star In John Ridley's ABC Pilot 'American Crime<span style="padding-right:0.2em;">'</span>"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Felicity+Huffman+To+Star+In+John+Ridley%27s+ABC+Pilot+%27American+Crime%27&amp;rft.aufirst=Nellie&amp;rft.aulast=Andreeva&amp;rft.date=2014-03-07&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2014%2F03%2Ffelicity-huffman-american-crime-john-ridley-abc%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation news">Goldberg, Lesley (March 7, 2014). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/live-feed/felicity-huffman-star-abc-drama-686812">"Felicity Huffman to Star in ABC Drama From '12 Years a Slave' Writer"</a>. <i>The Hollywood Reporter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Felicity+Huffman+to+Star+in+ABC+Drama+From+%2712+Years+a+Slave%27+Writer&amp;rft.aufirst=Lesley&amp;rft.aulast=Goldberg&amp;rft.date=2014-03-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Flive-feed%2Ffelicity-huffman-star-abc-drama-686812&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><cite class="citation news">Rowland, Marijke (June 22, 2014). <a rel="nofollow" class="external text" href="http://www.modbee.com/2014/06/22/3404379/abc-crime-drama-will-be-set-in.html">"ABC crime drama will be set in Modesto; local reaction mixed"</a>. <i>The Modesto Bee</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 4,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=ABC+crime+drama+will+be+set+in+Modesto%3B+local+reaction+mixed&amp;rft.aufirst=Marijke&amp;rft.aulast=Rowland&amp;rft.date=2014-06-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.modbee.com%2F2014%2F06%2F22%2F3404379%2Fabc-crime-drama-will-be-set-in.html&amp;rft.jtitle=The+Modesto+Bee&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-futonCritic-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-futonCritic_54-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thefutoncritic.com/showatch/american-crime/listings/">"Shows A-Z - american crime on abc"</a>. <i><a href="/wiki/The_Futon_Critic" title="The Futon Critic">The Futon Critic</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 5,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Shows+A-Z+-+american+crime+on+abc&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thefutoncritic.com%2Fshowatch%2Famerican-crime%2Flistings%2F&amp;rft.jtitle=The+Futon+Critic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rtmt-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-rtmt_55-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rottentomatoes.com/tv/american-crime/s01/">"American Crime: Season 1"</a>. <i>Rotten Tomatoes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 20,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime%3A+Season+1&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rottentomatoes.com%2Ftv%2Famerican-crime%2Fs01%2F&amp;rft.jtitle=Rotten+Tomatoes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/tv/american-crime">"American Crime: Season 1"</a>. <i>Metacritic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 5,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime%3A+Season+1&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Ftv%2Famerican-crime&amp;rft.jtitle=Metacritic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation web">Patten, Dominic (March 4, 2015). <a rel="nofollow" class="external text" href="http://deadline.com/2015/03/american-crime-review-john-ridley-timothy-hutton-dominic-patten-1201385856/">"<span style="padding-left:0.2em;">'</span>American Crime' Review: John Ridley Drama With Timothy Hutton, Felicity Huffman"</a>. <i>Deadline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 4,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98American+Crime%99+Review%3A+John+Ridley+Drama+With+Timothy+Hutton%2C+Felicity+Huffman&amp;rft.aufirst=Dominic&amp;rft.aulast=Patten&amp;rft.date=2015-03-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2015%2F03%2Famerican-crime-review-john-ridley-timothy-hutton-dominic-patten-1201385856%2F&amp;rft.jtitle=Deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation web">Bark, Ed (March 4, 2014). <a rel="nofollow" class="external text" href="http://unclebarky.com/reviews_files/b330d895511e21704d32783aa4c566c6-1921.html">"ABC's American Crime soars on the strength of its daring, daunting premise"</a>. <i>UncleBarky.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 5,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=ABC%27s+American+Crime+soars+on+the+strength+of+its+daring%2C+daunting+premise&amp;rft.aufirst=Ed&amp;rft.aulast=Bark&amp;rft.date=2014-03-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Funclebarky.com%2Freviews_files%2Fb330d895511e21704d32783aa4c566c6-1921.html&amp;rft.jtitle=UncleBarky.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rottentomatoes.com/tv/american-crime/s02/">"American Crime: Season 2"</a>. <i>Rotten Tomatoes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 9,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime%3A+Season+2&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rottentomatoes.com%2Ftv%2Famerican-crime%2Fs02%2F&amp;rft.jtitle=Rotten+Tomatoes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/tv/american-crime/season-2">"American Crime: Season 2"</a>. <i>Metacritic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 9,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime%3A+Season+2&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Ftv%2Famerican-crime%2Fseason-2&amp;rft.jtitle=Metacritic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rottentomatoes.com/tv/american-crime/s03/">"American Crime: Season 3"</a>. <i>Rotten Tomatoes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 16,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime%3A+Season+3&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rottentomatoes.com%2Ftv%2Famerican-crime%2Fs03%2F&amp;rft.jtitle=Rotten+Tomatoes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/tv/american-crime/season-3">"American Crime: Season 3"</a>. <i>Metacritic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 16,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=American+Crime%3A+Season+3&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Ftv%2Famerican-crime%2Fseason-3&amp;rft.jtitle=Metacritic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><cite class="citation news">Gay, Verne (March 8, 2017). <a rel="nofollow" class="external text" href="http://www.newsday.com/entertainment/tv/american-crime-review-season-3-just-as-brilliant-powerful-1.13229984">"<span style="padding-left:0.2em;">'</span>American Crime' review: Season 3 just as brilliant, powerful"</a>. <i>Newsday</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 13,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%98American+Crime%99+review%3A+Season+3+just+as+brilliant%2C+powerful&amp;rft.aufirst=Verne&amp;rft.aulast=Gay&amp;rft.date=2017-03-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.newsday.com%2Fentertainment%2Ftv%2Famerican-crime-review-season-3-just-as-brilliant-powerful-1.13229984&amp;rft.jtitle=Newsday&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><cite class="citation news">Li, Shirley (May 6, 2014). <a rel="nofollow" class="external text" href="http://www.ew.com/article/2015/05/05/critics-tv-choice-awards-2015-and-nominees-are">"The Critics' Choice TV Awards 2015: And the nominees are..."</a>. <i>Entertainment Weekly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=The+Critics%27+Choice+TV+Awards+2015%3A+And+the+nominees+are...&amp;rft.aufirst=Shirley&amp;rft.aulast=Li&amp;rft.date=2014-05-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Farticle%2F2015%2F05%2F05%2Fcritics-tv-choice-awards-2015-and-nominees-are&amp;rft.jtitle=Entertainment+Weekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text"><cite class="citation web">Mitovich, Matt Webb (September 20, 2015). <a rel="nofollow" class="external text" href="http://tvline.com/2015/09/20/emmy-winners-2015-emmy-award-winner-list/">"Emmys 2015: <i>Game of Thrones</i>, <i>Veep</i> and <i>Olive</i> Fuel HBO's Huge Night; <i>Mad Men</i><span class="nowrap" style="padding-left:0.1em;">'</span>s Jon Hamm Finally Grabs Gold"</a>. <i>TVLine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 21,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Emmys+2015%3A+Game+of+Thrones%2C+Veep+and+Olive+Fuel+HBO%27s+Huge+Night%3B+Mad+Men%27s+Jon+Hamm+Finally+Grabs+Gold&amp;rft.aufirst=Matt+Webb&amp;rft.aulast=Mitovich&amp;rft.date=2015-09-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftvline.com%2F2015%2F09%2F20%2Femmy-winners-2015-emmy-award-winner-list%2F&amp;rft.jtitle=TVLine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><cite class="citation web">Schwartz, Ryan (September 12, 2015). <a rel="nofollow" class="external text" href="http://tvline.com/2015/09/12/emmys-2015-creative-arts-winners-list/">"Emmys 2015: <i>Americans</i>, <i>House of Cards</i> and <i>Shameless</i> Stars, <i>Freak Show</i>, <i>Thrones</i> Among Early Winners"</a>. <i>TVLine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 21,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Emmys+2015%3A+Americans%2C+House+of+Cards+and+Shameless+Stars%2C+Freak+Show%2C+Thrones+Among+Early+Winners&amp;rft.aufirst=Ryan&amp;rft.aulast=Schwartz&amp;rft.date=2015-09-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftvline.com%2F2015%2F09%2F12%2Femmys-2015-creative-arts-winners-list%2F&amp;rft.jtitle=TVLine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pressacademy.com/award_cat/2015/">"Satellite Awards (2015)"</a>. <i>International Press Academy</i>. December 1, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">December 2,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Satellite+Awards+%282015%29&amp;rft.date=2015-12-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pressacademy.com%2Faward_cat%2F2015%2F&amp;rft.jtitle=International+Press+Academy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/news/naacp-image-award-nominees-full-846814">"<span style="padding-left:0.2em;">'</span>Creed,' 'Empire' Top NAACP Image Award Nominations; Full List"</a>. <i>The Hollywood Reporter</i>. December 8, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">December 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=%27Creed%2C%27+%27Empire%27+Top+NAACP+Image+Award+Nominations%3B+Full+List&amp;rft.date=2015-12-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Fnews%2Fnaacp-image-award-nominees-full-846814&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><cite class="citation web">Mitovich, Matt Webb (January 10, 2016). <a rel="nofollow" class="external text" href="http://tvline.com/2016/01/10/golden-globe-award-winners-2016-full-list/">"Golden Globes: <i>Mr. Robot</i> and <i>Mozart</i> Win Big; Taraji P. Henson, Lady Gaga, Jon Hamm, Rachel Bloom Grab Gold"</a>. <i>TVLine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 11,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Golden+Globes%3A+Mr.+Robot+and+Mozart+Win+Big%3B+Taraji+P.+Henson%2C+Lady+Gaga%2C+Jon+Hamm%2C+Rachel+Bloom+Grab+Gold&amp;rft.aufirst=Matt+Webb&amp;rft.aulast=Mitovich&amp;rft.date=2016-01-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftvline.com%2F2016%2F01%2F10%2Fgolden-globe-award-winners-2016-full-list%2F&amp;rft.jtitle=TVLine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text"><cite class="citation news">Prudom, Laura (July 14, 2016). <a rel="nofollow" class="external text" href="http://variety.com/2016/tv/awards/2016-emmys-nominees-list-drama-comedy-acting-nomination-1201814021/">"Emmy Nominations 2016: Full List of Nominees"</a>. <i>Variety</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Emmy+Nominations+2016%3A+Full+List+of+Nominees&amp;rft.aufirst=Laura&amp;rft.aulast=Prudom&amp;rft.date=2016-07-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvariety.com%2F2016%2Ftv%2Fawards%2F2016-emmys-nominees-list-drama-comedy-acting-nomination-1201814021%2F&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.ew.com/article/2016/12/11/critics-choice-awards-2016-winners">"Critics' Choice Awards 2016 winners list: La La Land, People v. O.J dominate"</a>. <i>Entertainment Weekly</i>. December 11, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">December 12,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Critics%27+Choice+Awards+2016+winners+list%3A+La+La+Land%2C+People+v.+O.J+dominate&amp;rft.date=2016-12-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Farticle%2F2016%2F12%2F11%2Fcritics-choice-awards-2016-winners&amp;rft.jtitle=Entertainment+Weekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><cite class="citation web">Mitovich, Matt Webb (December 12, 2016). <a rel="nofollow" class="external text" href="http://tvline.com/2016/12/12/golden-globe-nominations-2017-globes-awards-nominees/">"Golden Globes: People v. O.J. Simpson, Night Manager, This Is Us, Westworld, The Crown, black-ish Lead TV Nominees"</a>. <i>TVLine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 12,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=Golden+Globes%3A+People+v.+O.J.+Simpson%2C+Night+Manager%2C+This+Is+Us%2C+Westworld%2C+The+Crown%2C+black-ish+Lead+TV+Nominees&amp;rft.aufirst=Matt+Webb&amp;rft.aulast=Mitovich&amp;rft.date=2016-12-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftvline.com%2F2016%2F12%2F12%2Fgolden-globe-nominations-2017-globes-awards-nominees%2F&amp;rft.jtitle=TVLine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text"><cite class="citation news">Nolfi, Joey (December 14, 2016). <a rel="nofollow" class="external text" href="http://www.ew.com/article/2016/12/14/2017-sag-awards-nominations">"SAG Awards nominations 2017: See the full list"</a>. <i>Entertainment Weekly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=SAG+Awards+nominations+2017%3A+See+the+full+list&amp;rft.aufirst=Joey&amp;rft.aulast=Nolfi&amp;rft.date=2016-12-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Farticle%2F2016%2F12%2F14%2F2017-sag-awards-nominations&amp;rft.jtitle=Entertainment+Weekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text"><cite class="citation web">Petski, Denise (December 5, 2016). <a rel="nofollow" class="external text" href="http://deadline.com/2016/12/wga-tv-nominations-the-americans-stranger-things-this-is-us-westworld-1201864546/">"WGA TV Nominations: 'The Americans', 'Stranger Things', 'Westworld', 'This Is Us' Among Nominees"</a>. <i>Deadline</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 7,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Crime+%28TV+series%29&amp;rft.atitle=WGA+TV+Nominations%3A+%98The+Americans%99%2C+%98Stranger+Things%99%2C+%98Westworld%99%2C+%98This+Is+Us%99+Among+Nominees&amp;rft.aufirst=Denise&amp;rft.aulast=Petski&amp;rft.date=2016-12-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2016%2F12%2Fwga-tv-nominations-the-americans-stranger-things-this-is-us-westworld-1201864546%2F&amp;rft.jtitle=Deadline&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://abc.go.com/shows/american-crime">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt3488298/"><i>American Crime</i></a> at the <a href="/wiki/IMDb" title="IMDb">Internet Movie Database</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="ABC_programming_.28current_and_upcoming.29" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:ABCNetwork_Shows_(current_and_upcoming)" title="Template:ABCNetwork Shows (current and upcoming)"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:ABCNetwork_Shows_(current_and_upcoming)" title="Template talk:ABCNetwork Shows (current and upcoming)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ABCNetwork_Shows_(current_and_upcoming)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="ABC_programming_.28current_and_upcoming.29" style="font-size:114%;margin:0 4em"><a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a> <a href="/wiki/List_of_programs_broadcast_by_American_Broadcasting_Company" title="List of programs broadcast by American Broadcasting Company">programming</a> (current and upcoming)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Primetime</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/20/20_(U.S._TV_series)" title="20/20 (U.S. TV series)">20/20</a></i> <small>(since 1978)</small></li>
+<li><i><a href="/wiki/Agents_of_S.H.I.E.L.D." title="Agents of S.H.I.E.L.D.">Agents of S.H.I.E.L.D.</a></i> <small>(since 2013)</small></li>
+<li><i><a href="/wiki/America%27s_Funniest_Home_Videos" title="America's Funniest Home Videos">America's Funniest Home Videos</a></i> <small>(since 1989)</small></li>
+<li><i><a class="mw-selflink selflink">American Crime</a></i> <small>(since 2015)</small></li>
+<li><i><a href="/wiki/American_Housewife" title="American Housewife">American Housewife</a></i> <small>(since 2016)</small></li>
+<li><i><a href="/wiki/The_Bachelor_(U.S._TV_series)" title="The Bachelor (U.S. TV series)">The Bachelor</a></i> <small>(since 2002)</small></li>
+<li><i><a href="/wiki/Black-ish" title="Black-ish">Black-ish</a></i> <small>(since 2014)</small></li>
+<li><i><a href="/wiki/The_Catch_(TV_series)" title="The Catch (TV series)">The Catch</a></i> <small>(since 2016)</small></li>
+<li><i><a href="/wiki/Conviction_(2016_TV_series)" title="Conviction (2016 TV series)">Conviction</a></i> <small>(since 2016)</small></li>
+<li><i><a href="/wiki/Dancing_with_the_Stars_(U.S._TV_series)" title="Dancing with the Stars (U.S. TV series)">Dancing with the Stars</a></i> <small>(since 2005)</small></li>
+<li><i><a href="/wiki/Designated_Survivor_(TV_series)" title="Designated Survivor (TV series)">Designated Survivor</a></i> <small>(since 2016)</small></li>
+<li><i><a href="/wiki/Dr._Ken" title="Dr. Ken">Dr. Ken</a></i> <small>(since 2015)</small></li>
+<li><i><a href="/wiki/Fresh_Off_the_Boat" title="Fresh Off the Boat">Fresh Off the Boat</a></i> <small>(since 2015)</small></li>
+<li><i><a href="/wiki/The_Goldbergs_(2013_TV_series)" title="The Goldbergs (2013 TV series)">The Goldbergs</a></i> <small>(since 2013)</small></li>
+<li><i><a href="/wiki/The_Great_American_Baking_Show" title="The Great American Baking Show">The Great American Baking Show</a></i> <small>(since 2015)</small></li>
+<li><i><a href="/wiki/The_Great_Christmas_Light_Fight" title="The Great Christmas Light Fight">The Great Christmas Light Fight</a></i> <small>(since 2013)</small></li>
+<li><i><a href="/wiki/Grey%27s_Anatomy" title="Grey's Anatomy">Grey's Anatomy</a></i> <small>(since 2005)</small></li>
+<li><i><a href="/wiki/How_to_Get_Away_with_Murder" title="How to Get Away with Murder">How to Get Away with Murder</a></i> <small>(since 2014)</small></li>
+<li><i><a href="/wiki/Imaginary_Mary" title="Imaginary Mary">Imaginary Mary</a></i> <small>(since 2017)</small></li>
+<li><i><a href="/wiki/In_an_Instant" title="In an Instant">In an Instant</a></i> <small>(since 2015)</small></li>
+<li><i><a href="/wiki/Last_Man_Standing_(U.S._TV_series)" title="Last Man Standing (U.S. TV series)">Last Man Standing</a></i> <small>(since 2011)</small></li>
+<li><i><a href="/wiki/Match_Game" title="Match Game">Match Game</a></i> <small>(since 2016)</small></li>
+<li><i><a href="/wiki/The_Middle_(TV_series)" title="The Middle (TV series)">The Middle</a></i> <small>(since 2009)</small></li>
+<li><i><a href="/wiki/Modern_Family" title="Modern Family">Modern Family</a></i> <small>(since 2009)</small></li>
+<li><i><a href="/wiki/Notorious_(2016_TV_series)" title="Notorious (2016 TV series)">Notorious</a></i> <small>(since 2016)</small></li>
+<li><i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i> <small>(since 2011)</small></li>
+<li><i><a href="/wiki/Quantico_(TV_series)" title="Quantico (TV series)">Quantico</a></i> <small>(since 2015)</small></li>
+<li><i><a href="/wiki/The_Real_O%27Neals" title="The Real O'Neals">The Real O'Neals</a></i> <small>(since 2016)</small></li>
+<li><i><a href="/wiki/Scandal_(TV_series)" title="Scandal (TV series)">Scandal</a></i> <small>(since 2012)</small></li>
+<li><i><a href="/wiki/Secrets_and_Lies_(U.S._TV_series)" title="Secrets and Lies (U.S. TV series)">Secrets and Lies</a></i> <small>(since 2015)</small></li>
+<li><i><a href="/wiki/Shark_Tank" title="Shark Tank">Shark Tank</a></i> <small>(since 2009)</small></li>
+<li><i><a href="/wiki/Speechless_(TV_series)" title="Speechless (TV series)">Speechless</a></i> <small>(since 2016)</small></li>
+<li><i><a href="/wiki/The_Toy_Box" title="The Toy Box">The Toy Box</a></i> <small>(since 2017)</small></li>
+<li><i><a href="/wiki/What_Would_You_Do%3F_(ABC_News_series)" title="What Would You Do? (ABC News series)">What Would You Do?</a></i> <small>(since 2008)</small></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Summer</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Pyramid_(game_show)" title="Pyramid (game show)">The $100,000 Pyramid</a></i> <small>(since 2016)</small></li>
+<li><i><a href="/wiki/The_Bachelorette" title="The Bachelorette">The Bachelorette</a></i> <small>(2003–05; since 2008)</small></li>
+<li><i><a href="/wiki/Bachelor_in_Paradise_(TV_series)" title="Bachelor in Paradise (TV series)">Bachelor in Paradise</a></i> <small>(since 2014)</small></li>
+<li><i><a href="/wiki/Bachelor_in_Paradise:_After_Paradise" title="Bachelor in Paradise: After Paradise">Bachelor in Paradise: After Paradise</a></i> <small>(since 2015)</small></li>
+<li><i><a href="/wiki/Celebrity_Family_Feud" title="Celebrity Family Feud">Celebrity Family Feud</a></i> <small>(since 2015)</small></li>
+<li><i><a href="/wiki/To_Tell_the_Truth" title="To Tell the Truth">To Tell the Truth</a></i> <small>(since 2016)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/ABC_Daytime" title="ABC Daytime">Daytime</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Chew" title="The Chew">The Chew</a></i> <small>(since 2011)</small></li>
+<li><i><a href="/wiki/General_Hospital" title="General Hospital">General Hospital</a></i> <small>(since 1963)</small></li>
+<li><i><a href="/wiki/The_View_(U.S._TV_series)" title="The View (U.S. TV series)">The View</a></i> <small>(since 1997)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_late-night_American_network_TV_programs" title="List of late-night American network TV programs">Late night</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Jimmy_Kimmel_Live!" title="Jimmy Kimmel Live!">Jimmy Kimmel Live!</a></i> <small>(since 2003)</small></li>
+<li><i><a href="/wiki/Nightline" title="Nightline">Nightline</a></i> <small>(since 1980)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/ABC_News" title="ABC News">News</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/20/20_(U.S._TV_series)" title="20/20 (U.S. TV series)">20/20</a></i> <small>(since 1978)</small></li>
+<li><i><a href="/wiki/ABC_World_News_Tonight" title="ABC World News Tonight">ABC World News Tonight</a></i> <small>(since 1953)</small></li>
+<li><i><a href="/wiki/America_This_Morning" title="America This Morning">America This Morning</a></i> <small>(since 1982)</small></li>
+<li><i><a href="/wiki/Good_Morning_America" title="Good Morning America">Good Morning America</a></i> <small>(since 1975)</small></li>
+<li><i><a href="/wiki/Nightline" title="Nightline">Nightline</a></i> <small>(since 1980)</small></li>
+<li><i><a href="/wiki/This_Week_(ABC_TV_series)" title="This Week (ABC TV series)">This Week</a></i> <small>(since 1981)</small></li>
+<li><i><a href="/wiki/What_Would_You_Do%3F_(ABC_News_series)" title="What Would You Do? (ABC News series)">What Would You Do?</a></i> <small>(since 2008)</small></li>
+<li><i><a href="/wiki/World_News_Now" title="World News Now">World News Now</a></i> <small>(since 1992)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/ESPN_on_ABC" title="ESPN on ABC">Sports</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/ESPN_College_Football_on_ABC" title="ESPN College Football on ABC">ESPN College Football on ABC</a></i></li>
+<li><i><a href="/wiki/Indianapolis_500" title="Indianapolis 500">Indianapolis 500</a></i></li>
+<li><i><a href="/wiki/IndyCar_Series_on_ABC" title="IndyCar Series on ABC">IndyCar Series on ABC</a></i></li>
+<li><i><a href="/wiki/NBA_on_ABC" title="NBA on ABC">NBA on ABC</a></i></li>
+<li><i><a href="/wiki/Saturday_Night_Football" title="Saturday Night Football">ESPN Saturday Night Football</a></i></li>
+<li><i><a href="/wiki/WNBA_on_ESPN" title="WNBA on ESPN">WNBA on ESPN</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Litton%27s_Weekend_Adventure" title="Litton's Weekend Adventure">Saturday morning</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Born_to_Explore_with_Richard_Wiese" class="mw-redirect" title="Born to Explore with Richard Wiese">Born to Explore with Richard Wiese</a></i></li>
+<li><i><a href="/wiki/Jack_Hanna%27s_Wild_Countdown" class="mw-redirect" title="Jack Hanna's Wild Countdown">Jack Hanna's Wild Countdown</a></i></li>
+<li><i><a href="/wiki/Ocean_Mysteries_with_Jeff_Corwin" title="Ocean Mysteries with Jeff Corwin">Ocean Mysteries with Jeff Corwin</a></i></li>
+<li><i><a href="/wiki/Sea_Rescue" title="Sea Rescue">Sea Rescue</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Upcoming</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Downward_Dog_(TV_series)" title="Downward Dog (TV series)">Downward Dog</a></i> <small>(2017)</small></li>
+<li><i><a href="/wiki/The_Gong_Show" title="The Gong Show">The Gong Show</a></i> <small>(2017)</small></li>
+<li><i><a href="/wiki/Inhumans_(TV_series)" title="Inhumans (TV series)">Inhumans</a></i> <small>(2017)</small></li>
+<li><i><a href="/wiki/Somewhere_Between_(TV_series)" title="Somewhere Between (TV series)">Somewhere Between</a></i> <small>(2017)</small></li>
+<li><i><a href="/wiki/Still_Star-Crossed" title="Still Star-Crossed">Still Star-Crossed</a></i> <small>(2017)</small></li>
+<li><i><a href="/wiki/Ten_Days_in_the_Valley" title="Ten Days in the Valley">Ten Days in the Valley</a></i> <small>(2017)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Satellite_Award_for_Best_Cast_.E2.80.93_Television_Series" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Satellite_Award_for_Best_Cast_%E2%80%93_Television_Series" title="Template:Satellite Award for Best Cast – Television Series"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Satellite_Award_for_Best_Cast_%E2%80%93_Television_Series" title="Template talk:Satellite Award for Best Cast – Television Series"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Satellite_Award_for_Best_Cast_%E2%80%93_Television_Series&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Satellite_Award_for_Best_Cast_.E2.80.93_Television_Series" style="font-size:114%;margin:0 4em"><a href="/wiki/Satellite_Award_for_Best_Cast_%E2%80%93_Television_Series" title="Satellite Award for Best Cast – Television Series">Satellite Award for Best Cast – Television Series</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2005</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><i><a href="/wiki/Rescue_Me_(U.S._TV_series)" title="Rescue Me (U.S. TV series)">Rescue Me</a></i></dt>
+<dd><a href="/wiki/Denis_Leary" title="Denis Leary">Denis Leary</a></dd>
+<dd><a href="/wiki/John_Scurti" title="John Scurti">John Scurti</a></dd>
+<dd><a href="/wiki/Daniel_Sunjata" title="Daniel Sunjata">Daniel Sunjata</a></dd>
+<dd><a href="/wiki/Mike_Lombardi_(actor)" title="Mike Lombardi (actor)">Mike Lombardi</a></dd>
+<dd><a href="/wiki/Steven_Pasquale" title="Steven Pasquale">Steven Pasquale</a></dd>
+<dd><a href="/wiki/Andrea_Roth" title="Andrea Roth">Andrea Roth</a></dd>
+<dd><a href="/wiki/Callie_Thorne" title="Callie Thorne">Callie Thorne</a></dd>
+<dd><a href="/wiki/Adam_Ferrara" title="Adam Ferrara">Adam Ferrara</a></dd>
+<dd><a href="/wiki/Larenz_Tate" title="Larenz Tate">Larenz Tate</a></dd>
+<dd><a href="/wiki/James_McCaffrey_(actor)" title="James McCaffrey (actor)">James McCaffrey</a></dd>
+<dd><a href="/wiki/Dean_Winters" title="Dean Winters">Dean Winters</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2006</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><i><a href="/wiki/Grey%27s_Anatomy" title="Grey's Anatomy">Grey's Anatomy</a></i></dt>
+<dd><a href="/wiki/Justin_Chambers" title="Justin Chambers">Justin Chambers</a></dd>
+<dd><a href="/wiki/Eric_Dane" title="Eric Dane">Eric Dane</a></dd>
+<dd><a href="/wiki/Patrick_Dempsey" title="Patrick Dempsey">Patrick Dempsey</a></dd>
+<dd><a href="/wiki/Katherine_Heigl" title="Katherine Heigl">Katherine Heigl</a></dd>
+<dd><a href="/wiki/T._R._Knight" title="T. R. Knight">T. R. Knight</a></dd>
+<dd><a href="/wiki/Sandra_Oh" title="Sandra Oh">Sandra Oh</a></dd>
+<dd><a href="/wiki/James_Pickens_Jr." title="James Pickens Jr.">James Pickens Jr.</a></dd>
+<dd><a href="/wiki/Ellen_Pompeo" title="Ellen Pompeo">Ellen Pompeo</a></dd>
+<dd><a href="/wiki/Sara_Ramirez" title="Sara Ramirez">Sara Ramirez</a></dd>
+<dd><a href="/wiki/Kate_Walsh_(actress)" title="Kate Walsh (actress)">Kate Walsh</a></dd>
+<dd><a href="/wiki/Isaiah_Washington" title="Isaiah Washington">Isaiah Washington</a></dd>
+<dd><a href="/wiki/Chandra_Wilson" title="Chandra Wilson">Chandra Wilson</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2007</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><i><a href="/wiki/Mad_Men" title="Mad Men">Mad Men</a></i></dt>
+<dd><a href="/wiki/Bryan_Batt" title="Bryan Batt">Bryan Batt</a></dd>
+<dd><a href="/wiki/Anne_Dudek" title="Anne Dudek">Anne Dudek</a></dd>
+<dd><a href="/wiki/Michael_Gladis" title="Michael Gladis">Michael Gladis</a></dd>
+<dd><a href="/wiki/Jon_Hamm" title="Jon Hamm">Jon Hamm</a></dd>
+<dd><a href="/wiki/Christina_Hendricks" title="Christina Hendricks">Christina Hendricks</a></dd>
+<dd><a href="/wiki/January_Jones" title="January Jones">January Jones</a></dd>
+<dd><a href="/wiki/Vincent_Kartheiser" title="Vincent Kartheiser">Vincent Kartheiser</a></dd>
+<dd><a href="/wiki/Robert_Morse" title="Robert Morse">Robert Morse</a></dd>
+<dd><a href="/wiki/Elisabeth_Moss" title="Elisabeth Moss">Elisabeth Moss</a></dd>
+<dd><a href="/wiki/Kiernan_Shipka" title="Kiernan Shipka">Kiernan Shipka</a></dd>
+<dd><a href="/wiki/Maggie_Siff" title="Maggie Siff">Maggie Siff</a></dd>
+<dd><a href="/wiki/John_Slattery" title="John Slattery">John Slattery</a></dd>
+<dd><a href="/wiki/Rich_Sommer" title="Rich Sommer">Rich Sommer</a></dd>
+<dd><a href="/wiki/Aaron_Staton" title="Aaron Staton">Aaron Staton</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2009</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><i><a href="/wiki/True_Blood" title="True Blood">True Blood</a></i></dt>
+<dd><a href="/wiki/Chris_Bauer" title="Chris Bauer">Chris Bauer</a></dd>
+<dd><a href="/wiki/Mehcad_Brooks" title="Mehcad Brooks">Mehcad Brooks</a></dd>
+<dd><a href="/wiki/Anna_Camp" title="Anna Camp">Anna Camp</a></dd>
+<dd><a href="/wiki/Nelsan_Ellis" title="Nelsan Ellis">Nelsan Ellis</a></dd>
+<dd><a href="/wiki/Michelle_Forbes" title="Michelle Forbes">Michelle Forbes</a></dd>
+<dd><a href="/wiki/Mariana_Klaveno" title="Mariana Klaveno">Mariana Klaveno</a></dd>
+<dd><a href="/wiki/Ryan_Kwanten" title="Ryan Kwanten">Ryan Kwanten</a></dd>
+<dd><a href="/wiki/Todd_Lowe" title="Todd Lowe">Todd Lowe</a></dd>
+<dd><a href="/wiki/Michael_McMillian" title="Michael McMillian">Michael McMillian</a></dd>
+<dd><a href="/wiki/Stephen_Moyer" title="Stephen Moyer">Stephen Moyer</a></dd>
+<dd><a href="/wiki/Anna_Paquin" title="Anna Paquin">Anna Paquin</a></dd>
+<dd><a href="/wiki/Jim_Parrack" title="Jim Parrack">Jim Parrack</a></dd>
+<dd><a href="/wiki/Carrie_Preston" title="Carrie Preston">Carrie Preston</a></dd>
+<dd><a href="/wiki/William_Sanderson" title="William Sanderson">William Sanderson</a></dd>
+<dd><a href="/wiki/Alexander_Skarsg%C3%A5rd" title="Alexander Skarsgård">Alexander Skarsgård</a></dd>
+<dd><a href="/wiki/Sam_Trammell" title="Sam Trammell">Sam Trammell</a></dd>
+<dd><a href="/wiki/Rutina_Wesley" title="Rutina Wesley">Rutina Wesley</a></dd>
+<dd><a href="/wiki/Deborah_Ann_Woll" title="Deborah Ann Woll">Deborah Ann Woll</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2012</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><i><a href="/wiki/The_Walking_Dead_(TV_series)" title="The Walking Dead (TV series)">The Walking Dead</a></i></dt>
+<dd><a href="/wiki/Andrew_Lincoln" title="Andrew Lincoln">Andrew Lincoln</a></dd>
+<dd><a href="/wiki/Sarah_Wayne_Callies" title="Sarah Wayne Callies">Sarah Wayne Callies</a></dd>
+<dd><a href="/wiki/Laurie_Holden" title="Laurie Holden">Laurie Holden</a></dd>
+<dd><a href="/wiki/Norman_Reedus" title="Norman Reedus">Norman Reedus</a></dd>
+<dd><a href="/wiki/Steven_Yeun" title="Steven Yeun">Steven Yeun</a></dd>
+<dd><a href="/wiki/Lauren_Cohan" title="Lauren Cohan">Lauren Cohan</a></dd>
+<dd><a href="/wiki/Chandler_Riggs" title="Chandler Riggs">Chandler Riggs</a></dd>
+<dd><a href="/wiki/Melissa_McBride" title="Melissa McBride">Melissa McBride</a></dd>
+<dd><a href="/wiki/Scott_Wilson_(actor)" title="Scott Wilson (actor)">Scott Wilson</a></dd>
+<dd><a href="/wiki/Danai_Gurira" title="Danai Gurira">Danai Gurira</a></dd>
+<dd><a href="/wiki/Michael_Rooker" title="Michael Rooker">Michael Rooker</a></dd>
+<dd><a href="/wiki/David_Morrissey" title="David Morrissey">David Morrissey</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2013</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><i><a href="/wiki/Orange_Is_the_New_Black" title="Orange Is the New Black">Orange Is the New Black</a></i></dt>
+<dd><a href="/wiki/Taylor_Schilling" title="Taylor Schilling">Taylor Schilling</a></dd>
+<dd><a href="/wiki/Laura_Prepon" title="Laura Prepon">Laura Prepon</a></dd>
+<dd><a href="/wiki/Michael_Harney" title="Michael Harney">Michael J. Harney</a></dd>
+<dd><a href="/wiki/Michelle_Hurst" title="Michelle Hurst">Michelle Hurst</a></dd>
+<dd><a href="/wiki/Kate_Mulgrew" title="Kate Mulgrew">Kate Mulgrew</a></dd>
+<dd><a href="/wiki/Jason_Biggs" title="Jason Biggs">Jason Biggs</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2014</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><i><a href="/wiki/The_Knick" title="The Knick">The Knick</a></i></dt>
+<dd><a href="/wiki/Clive_Owen" title="Clive Owen">Clive Owen</a></dd>
+<dd><a href="/wiki/Andr%C3%A9_Holland" title="André Holland">André Holland</a></dd>
+<dd><a href="/wiki/Jeremy_Bobb" title="Jeremy Bobb">Jeremy Bobb</a></dd>
+<dd><a href="/wiki/Juliet_Rylance" title="Juliet Rylance">Juliet Rylance</a></dd>
+<dd><a href="/wiki/Eve_Hewson" title="Eve Hewson">Eve Hewson</a></dd>
+<dd><a href="/wiki/Michael_Angarano" title="Michael Angarano">Michael Angarano</a></dd>
+<dd>Chris Sullivan</dd>
+<dd><a href="/wiki/Cara_Seymour" title="Cara Seymour">Cara Seymour</a></dd>
+<dd><a href="/wiki/Eric_Johnson_(actor)" title="Eric Johnson (actor)">Eric Johnson</a></dd>
+<dd>David Fierro</dd>
+<dd><a href="/wiki/Maya_Kazan" title="Maya Kazan">Maya Kazan</a></dd>
+<dd>Leon Addison Brown</dd>
+<dd><a href="/wiki/Grainger_Hines" title="Grainger Hines">Grainger Hines</a></dd>
+<dd><a href="/wiki/Matt_Frewer" title="Matt Frewer">Matt Frewer</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2015</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><i><a class="mw-selflink selflink">American Crime</a></i></dt>
+<dd><a href="/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a></dd>
+<dd><a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a></dd>
+<dd><a href="/wiki/W._Earl_Brown" title="W. Earl Brown">W. Earl Brown</a></dd>
+<dd><a href="/wiki/Richard_Cabral" title="Richard Cabral">Richard Cabral</a></dd>
+<dd><a href="/wiki/Regina_King" title="Regina King">Regina King</a></dd>
+<dd><a href="/wiki/Caitlin_Gerard" title="Caitlin Gerard">Caitlin Gerard</a></dd>
+<dd><a href="/wiki/Benito_Martinez_(actor)" title="Benito Martinez (actor)">Benito Martinez</a></dd>
+<dd><a href="/wiki/Penelope_Ann_Miller" title="Penelope Ann Miller">Penelope Ann Miller</a></dd>
+<dd><a href="/wiki/Elvis_Nolasco" title="Elvis Nolasco">Elvis Nolasco</a></dd>
+<dd>Johnny Ortiz</dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2016</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><i><a href="/wiki/Outlander_(TV_series)" title="Outlander (TV series)">Outlander</a></i></dt>
+<dd><a href="/wiki/Caitriona_Balfe" title="Caitriona Balfe">Caitriona Balfe</a></dd>
+<dd><a href="/wiki/Sam_Heughan" title="Sam Heughan">Sam Heughan</a></dd>
+<dd><a href="/wiki/Tobias_Menzies" title="Tobias Menzies">Tobias Menzies</a></dd>
+<dd><a href="/wiki/Lotte_Verbeek" title="Lotte Verbeek">Lotte Verbeek</a></dd>
+<dd><a href="/wiki/Laura_Donnelly_(actress)" title="Laura Donnelly (actress)">Laura Donnelly</a></dd>
+<dd>Steven Cree</dd>
+<dd>Duncan Lacroix</dd>
+<dd>Grant O'Rourke</dd>
+<dd><a href="/wiki/Gary_Lewis_(actor)" title="Gary Lewis (actor)">Gary Lewis</a></dd>
+<dd><a href="/wiki/Graham_McTavish" title="Graham McTavish">Graham McTavish</a></dd>
+<dd><a href="/wiki/Stephen_Walters" title="Stephen Walters">Stephen Walters</a></dd>
+<dd><a href="/wiki/Simon_Callow" title="Simon Callow">Simon Callow</a></dd>
+<dd><a href="/wiki/Nell_Hudson" title="Nell Hudson">Nell Hudson</a></dd>
+<dd><a href="/wiki/Dominique_Pinon" title="Dominique Pinon">Dominique Pinon</a></dd>
+<dd><a href="/wiki/Stanley_Weber" title="Stanley Weber">Stanley Weber</a></dd>
+<dd><a href="/wiki/Richard_Rankin" title="Richard Rankin">Richard Rankin</a></dd>
+<dd>Sophie Skelton</dd>
+<dd><a href="/wiki/Andrew_Gower_(actor)" title="Andrew Gower (actor)">Andrew Gower</a></dd>
+<dd><a href="/wiki/Rosie_Day" title="Rosie Day">Rosie Day</a></dd>
+<dd><a href="/wiki/Clive_Russell" title="Clive Russell">Clive Russell</a></dd>
+<dd><a href="/wiki/Frances_de_la_Tour" title="Frances de la Tour">Frances de la Tour</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2192
+Cached time: 20170421115944
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.544 seconds
+Real time usage: 0.645 seconds
+Preprocessor visited node count: 5339/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 211151/2097152 bytes
+Template argument size: 14110/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 1/500
+Lua time usage: 0.264/10.000 seconds
+Lua memory usage: 5.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  546.506      1 -total
+ 55.87%  305.308      1 Template:Reflist
+ 33.30%  181.962     55 Template:Cite_web
+  9.93%   54.246     19 Template:Cite_news
+  7.96%   43.523      1 Template:Infobox_television
+  6.70%   36.598      1 Template:About-distinguish
+  6.33%   34.576      1 Template:Infobox
+  4.20%   22.944      3 Template:Navbox
+  3.82%   20.857      1 Template:Use_mdy_dates
+  3.59%   19.624      1 Template:IMDb_title
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42734913-0!*!0!!en!4!* and timestamp 20170421115944 and revision id 776343458
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=American_Crime_(TV_series)&amp;oldid=776343458">https://en.wikipedia.org/w/index.php?title=American_Crime_(TV_series)&amp;oldid=776343458</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2010s_American_television_series" title="Category:2010s American television series">2010s American television series</a></li><li><a href="/wiki/Category:2015_American_television_series_debuts" title="Category:2015 American television series debuts">2015 American television series debuts</a></li><li><a href="/wiki/Category:American_Broadcasting_Company_network_shows" title="Category:American Broadcasting Company network shows">American Broadcasting Company network shows</a></li><li><a href="/wiki/Category:American_anthology_television_series" title="Category:American anthology television series">American anthology television series</a></li><li><a href="/wiki/Category:American_crime_drama_television_series" title="Category:American crime drama television series">American crime drama television series</a></li><li><a href="/wiki/Category:American_LGBT-related_television_shows" title="Category:American LGBT-related television shows">American LGBT-related television shows</a></li><li><a href="/wiki/Category:English-language_television_programming" title="Category:English-language television programming">English-language television programming</a></li><li><a href="/wiki/Category:Rape_in_fiction" title="Category:Rape in fiction">Rape in fiction</a></li><li><a href="/wiki/Category:Television_series_by_ABC_Studios" title="Category:Television series by ABC Studios">Television series by ABC Studios</a></li><li><a href="/wiki/Category:Television_shows_filmed_in_Texas" title="Category:Television shows filmed in Texas">Television shows filmed in Texas</a></li><li><a href="/wiki/Category:Television_shows_set_in_Modesto,_California" title="Category:Television shows set in Modesto, California">Television shows set in Modesto, California</a></li><li><a href="/wiki/Category:Television_shows_set_in_Indianapolis" title="Category:Television shows set in Indianapolis">Television shows set in Indianapolis</a></li><li><a href="/wiki/Category:Works_about_racism" title="Category:Works about racism">Works about racism</a></li><li><a href="/wiki/Category:Works_about_rape" title="Category:Works about rape">Works about rape</a></li><li><a href="/wiki/Category:Homophobia_in_fiction" title="Category:Homophobia in fiction">Homophobia in fiction</a></li><li><a href="/wiki/Category:Television_series_about_dysfunctional_families" title="Category:Television series about dysfunctional families">Television series about dysfunctional families</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_December_2016" title="Category:Use mdy dates from December 2016">Use mdy dates from December 2016</a></li><li><a href="/wiki/Category:Pages_using_infobox_television_with_alias_parameters" title="Category:Pages using infobox television with alias parameters">Pages using infobox television with alias parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=American+Crime+%28TV+series%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=American+Crime+%28TV+series%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/American_Crime_(TV_series)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:American_Crime_(TV_series)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/American_Crime_(TV_series)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/American_Crime_(TV_series)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/American_Crime_(TV_series)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=American_Crime_(TV_series)&amp;oldid=776343458" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=American_Crime_(TV_series)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q16863042" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=American_Crime_%28TV_series%29&amp;id=776343458" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=American+Crime+%28TV+series%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=American+Crime+%28TV+series%29&amp;returnto=American+Crime+%28TV+series%29&amp;oldid=776343458&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=American_Crime_(TV_series)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/American_Crime" title="American Crime – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/American_Crime" title="American Crime – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B1%D9%85_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C_(%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86%DB%8C)" title="جرم آمریکایی (مجموعه تلویزیونی) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/American_Crime_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)" title="American Crime (série télévisée) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%ED%81%AC%EB%9D%BC%EC%9E%84" title="아메리칸 크라임 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/American_Crime_(serie_televisiva)" title="American Crime (serie televisiva) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%A9%D7%A2_%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%90%D7%99_(%D7%A1%D7%93%D7%A8%D7%AA_%D7%98%D7%9C%D7%95%D7%95%D7%99%D7%96%D7%99%D7%94)" title="פשע אמריקאי (סדרת טלוויזיה) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/American_Crime" title="American Crime – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/American_Crime" title="American Crime – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Американское преступление (телесериал) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BB%D0%BE%D1%87%D0%B8%D0%BD_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D1%96%D0%B0%D0%BB)" title="Американський злочин (телесеріал) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%BC%8F%E6%87%B8%E7%BD%AA" title="美式懸罪 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q16863042#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 April 2017, at 12:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=American_Crime_(TV_series)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.544","walltime":"0.645","ppvisitednodes":{"value":5339,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":211151,"limit":2097152},"templateargumentsize":{"value":14110,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  546.506      1 -total"," 55.87%  305.308      1 Template:Reflist"," 33.30%  181.962     55 Template:Cite_web","  9.93%   54.246     19 Template:Cite_news","  7.96%   43.523      1 Template:Infobox_television","  6.70%   36.598      1 Template:About-distinguish","  6.33%   34.576      1 Template:Infobox","  4.20%   22.944      3 Template:Navbox","  3.82%   20.857      1 Template:Use_mdy_dates","  3.59%   19.624      1 Template:IMDb_title"]},"scribunto":{"limitreport-timeusage":{"value":"0.264","limit":"10.000"},"limitreport-memusage":{"value":5642136,"limit":52428800}},"cachereport":{"origin":"mw2192","timestamp":"20170421115944","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw2113"});});</script>
+	</body>
+</html>

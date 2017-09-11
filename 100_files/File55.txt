@@ -1,0 +1,902 @@
+https://en.wikipedia.org/wiki/Alan_Dale
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Alan Dale - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alan_Dale","wgTitle":"Alan Dale","wgCurRevisionId":773124721,"wgRevisionId":773124721,"wgArticleId":1022518,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing style editing from April 2016","All articles needing style editing","Use New Zealand English from January 2013","All Wikipedia articles written in New Zealand English","Use dmy dates from January 2013","Good articles","Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1947 births","20th-century New Zealand male actors","21st-century New Zealand male actors","Living people","New Zealand male video game actors","New Zealand male film actors","New Zealand male television actors","New Zealand male musical theatre actors","People from Dunedin","People from Sydney","Actors from Manhattan Beach, California","New Zealand expatriates in the United States","New Zealand expatriates in Australia","New Zealand male voice actors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Alan_Dale","wgRelevantArticleId":1022518,"wgRequestId":"WPmT7QrAEFMAAEEgHWoAAABU","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q350194","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alan_DaleRev3.jpg/1200px-Alan_DaleRev3.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Alan_Dale"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alan_Dale&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alan_Dale&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alan_Dale"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Alan_Dale rootpage-Alan_Dale skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-good-star" class="mw-indicator"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" width="19" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Alan Dale</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the actor. For other people named Alan Dale, see <a href="/wiki/Alan_Dale_(disambiguation)" class="mw-disambig" title="Alan Dale (disambiguation)">Alan Dale (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-Tone" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This 's <b>tone or style may not reflect the <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">encyclopedic tone</a> used on Wikipedia</b>. <span class="hide-when-compact">Relevant discussion may be found on the <a href="/wiki/Talk:Alan_Dale#Stylistic_clean-up_required" title="Talk:Alan Dale">talk page</a>. See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">guide to writing better articles</a> for suggestions.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Alan Dale</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Alan_DaleRev3.jpg" class="image"><img alt="Alan DaleRev3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alan_DaleRev3.jpg/220px-Alan_DaleRev3.jpg" width="220" height="331" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alan_DaleRev3.jpg/330px-Alan_DaleRev3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alan_DaleRev3.jpg/440px-Alan_DaleRev3.jpg 2x" data-file-width="1330" data-file-height="2000" /></a>
+<div>Dale at a promotional event in 2009</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span class="nickname">Alan Hugh Dale</span><br />
+<span style="display:none">(<span class="bday">1947-05-06</span>)</span> 6 May 1947 <span class="noprint ForceAgeToShow">(age&#160;69)</span><br />
+<span class="birthplace"><a href="/wiki/Dunedin" title="Dunedin">Dunedin</a>, <a href="/wiki/Otago" title="Otago">Otago</a>, New Zealand</span></td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Actor</td>
+</tr>
+<tr>
+<th scope="row">Years&#160;active</th>
+<td>1979–present</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td>Claire Dale (1968–1979)<br />
+Tracey Pearson (1990–present)</td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>4</td>
+</tr>
+</table>
+<p><b>Alan Hugh Dale</b> (born 6 May 1947) is a New Zealand actor. As a child, Dale developed a love of theatre and also became a <a href="/wiki/Rugby_union" title="Rugby union">rugby</a> player. After retiring from the sport, he took on a number of professions to support his family, before deciding to become a professional actor at age 27. With work limited in New Zealand, Dale moved to Australia, where he played Dr. John Forrest in <i><a href="/wiki/The_Young_Doctors" title="The Young Doctors">The Young Doctors</a></i> from 1979 to 1982. He later appeared as <a href="/wiki/Jim_Robinson_(Neighbours)" title="Jim Robinson (Neighbours)">Jim Robinson</a> in <i><a href="/wiki/Neighbours" title="Neighbours">Neighbours</a></i>, a part he played from 1985 until 1993. He left the series when he fell out with the producers over the pay he and the rest of the cast received.</p>
+<p>After leaving <i>Neighbours</i>, Dale found he had become <a href="/wiki/Typecast_(acting)" class="mw-redirect" title="Typecast (acting)">typecast</a> as Robinson in Australia and struggled to find work. His career was revitalised after he relocated to the United States in 2000. Since then, he has had roles in many American series including prominent parts in <i><a href="/wiki/The_O.C." title="The O.C.">The O.C.</a></i> (as <a href="/wiki/Caleb_Nichol" class="mw-redirect" title="Caleb Nichol">Caleb Nichol</a>) and <i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> (as <a href="/wiki/Bradford_Meade" title="Bradford Meade">Bradford Meade</a>), as well as recurring and guest roles in <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>, <i><a href="/wiki/24_(TV_series)" title="24 (TV series)">24</a></i>, <i><a href="/wiki/NCIS_(TV_series)" title="NCIS (TV series)">NCIS</a></i>, <i><a href="/wiki/ER_(TV_series)" title="ER (TV series)">ER</a></i>, <i><a href="/wiki/The_West_Wing" title="The West Wing">The West Wing</a></i>, <i><a href="/wiki/The_X-Files" title="The X-Files">The X-Files</a></i>, <i><a href="/wiki/Entourage_(U.S._TV_series)" title="Entourage (U.S. TV series)">Entourage</a></i> and <i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i>. Dale has also appeared in minor roles in films such as <i><a href="/wiki/Star_Trek_Nemesis" class="mw-redirect" title="Star Trek Nemesis">Star Trek Nemesis</a></i>, <i><a href="/wiki/Hollywood_Homicide" title="Hollywood Homicide">Hollywood Homicide</a></i>, <i><a href="/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull" title="Indiana Jones and the Kingdom of the Crystal Skull">Indiana Jones and the Kingdom of the Crystal Skull</a></i>, <i><a href="/wiki/The_Girl_with_the_Dragon_Tattoo_(2011_film)" title="The Girl with the Dragon Tattoo (2011 film)">The Girl with the Dragon Tattoo</a></i> and <i><a href="/wiki/Captain_America:_The_Winter_Soldier" title="Captain America: The Winter Soldier">Captain America: The Winter Soldier</a></i>, as well as the London West End production of <i><a href="/wiki/Spamalot" title="Spamalot">Spamalot</a></i>. Dale has been married to former <a href="/wiki/Miss_Australia" title="Miss Australia">Miss Australia</a> Tracey Pearson since 1990 and has four children.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life_and_work"><span class="tocnumber">1</span> <span class="toctext">Early life and work</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Acting_career"><span class="tocnumber">2</span> <span class="toctext">Acting career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Early_roles_and_Neighbours"><span class="tocnumber">2.1</span> <span class="toctext">Early roles and <i>Neighbours</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Wider_success"><span class="tocnumber">2.2</span> <span class="toctext">Wider success</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Popularity_and_style"><span class="tocnumber">3</span> <span class="toctext">Popularity and style</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Filmography"><span class="tocnumber">5</span> <span class="toctext">Filmography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Films"><span class="tocnumber">5.1</span> <span class="toctext">Films</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Television"><span class="tocnumber">5.2</span> <span class="toctext">Television</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Video_games"><span class="tocnumber">5.3</span> <span class="toctext">Video games</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Theatre"><span class="tocnumber">5.4</span> <span class="toctext">Theatre</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life_and_work">Early life and work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=1" title="Edit section: Early life and work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quotebox" style="float: left; clear: left; margin: 0.5em 1.4em 0.8em 0; width:25em; padding: 6px; border: 1px solid #aaa; font-size: 88%; background-color: #F9F9F9;">
+<div class="" style="position: relative; text-align: left;">
+<div>
+<p>"When I was 27, I started to get really jumpy and thought, what could I do that would give me the same buzz rugby did? Acting was what came to mind. I told my first wife, 'Look, I really can't stand it any more. I'm going to have to go and be an actor'."</p>
+</div>
+</div>
+<cite style="display: block; text-align: left;">— Dale on why he turned to acting professionally.<sup id="cite_ref-sydney_1-0" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup></cite></div>
+<p>Dale was born on 6 May 1947 in <a href="/wiki/Dunedin" title="Dunedin">Dunedin</a>, <a href="/wiki/Otago" title="Otago">Otago</a>, New Zealand.<sup id="cite_ref-twenty_2-0" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> One of four children, Dale enjoyed his childhood, but his family was relatively poor.<sup id="cite_ref-sydney_1-1" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> Although he was a gentle child, Dale was bullied so he learned to defend and stand up for himself.<sup id="cite_ref-sydney_1-2" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup></p>
+<p>Growing up in New Zealand without television until the 1960s, Dale developed a love of theatre and <a href="/wiki/Amateur_dramatics" class="mw-redirect" title="Amateur dramatics">amateur dramatics</a>.<sup id="cite_ref-times_4-0" class="reference"><a href="#cite_note-times-4">[4]</a></sup> His first performance was for a school concert, at the age of 13, doing an impression of comedian <a href="/wiki/Shelley_Berman" title="Shelley Berman">Shelley Berman</a>. His parents became founding members of an amateur theatre in <a href="/wiki/Auckland" title="Auckland">Auckland</a> called "The Little Dolphin Theatre". Dale often operated the stage equipment used to produce weather effects,<sup id="cite_ref-sydney_1-3" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> and whenever he was on stage he loved the applause.<sup id="cite_ref-twenty_2-1" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> Although a skilled <a href="/wiki/Rugby_union" title="Rugby union">rugby</a> player, Dale opted to move into drama instead because "the acting fraternity didn't like footballers and the footballers didn't like actors. [...] Acting gave me the same buzz and there was the chance of a longer career."<sup id="cite_ref-times_4-1" class="reference"><a href="#cite_note-times-4">[4]</a></sup> He gave up rugby at the age of 21 because it was not considered a workable career at the time, and he had to support his family.<sup id="cite_ref-sydney_1-4" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> Acting roles were limited in New Zealand so Dale worked in multiple jobs, including as a <a href="/wiki/Male_model" class="mw-redirect" title="Male model">male model</a>,<sup id="cite_ref-nz_5-0" class="reference"><a href="#cite_note-nz-5">[5]</a></sup> a <a href="/wiki/Car_salesman" class="mw-redirect" title="Car salesman">car salesman</a> and a <a href="/wiki/Realtor" class="mw-redirect" title="Realtor">realtor</a>.<sup id="cite_ref-times_4-2" class="reference"><a href="#cite_note-times-4">[4]</a></sup> While working as a <a href="/wiki/Milkman" title="Milkman">milkman</a> he heard the disc jockey at his local radio station resign during a broadcast. Dale went over to the station and told the managers he could do a better job. They gave him a trial and then signed him up for the afternoon show, which led to him landing his first TV role,<sup id="cite_ref-times_4-3" class="reference"><a href="#cite_note-times-4">[4]</a></sup> and at the age of 27 he decided to become a professional actor.<sup id="cite_ref-sydney_1-5" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Acting_career">Acting career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=2" title="Edit section: Acting career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_roles_and_Neighbours">Early roles and <i>Neighbours</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=3" title="Edit section: Early roles and Neighbours">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dale's first professional acting job was playing an Indian in a production of <i><a href="/wiki/The_Royal_Hunt_of_the_Sun" title="The Royal Hunt of the Sun">The Royal Hunt of the Sun</a></i> at the Grafton Theatre in Auckland.<sup id="cite_ref-twenty_2-2" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> His first on-screen role came in the New Zealand television drama <i>Radio Waves</i>, which although not successful, he described as "nine months of solid work and great fun."<sup id="cite_ref-twenty_2-3" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> In the late 1970s, Dale moved to Australia at the age of 32,<sup id="cite_ref-sydney_1-6" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup><sup id="cite_ref-times_4-4" class="reference"><a href="#cite_note-times-4">[4]</a></sup> due to the limited acting work in New Zealand. He applied to the <a href="/wiki/National_Institute_of_Dramatic_Art" title="National Institute of Dramatic Art">National Institute of Dramatic Art</a> in Sydney, but was rejected because he "was a lot older than anybody else on the course."<sup id="cite_ref-twenty_2-4" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> He was soon cast as Dr. John Forrest in the Australian soap opera <i><a href="/wiki/The_Young_Doctors" title="The Young Doctors">The Young Doctors</a></i>, where he remained for three-and-a-half years.<sup id="cite_ref-twenty_2-5" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup></p>
+<p>In 1985, Dale was cast in the continuing role of <a href="/wiki/Jim_Robinson_(Neighbours)" title="Jim Robinson (Neighbours)">Jim Robinson</a> in the Australian soap opera <i><a href="/wiki/Neighbours" title="Neighbours">Neighbours</a></i>, earning him acclaim across the world, including the United Kingdom. He appeared on the show from the first episode and stayed for eight years before his character was killed off in 1993.<sup id="cite_ref-times_4-5" class="reference"><a href="#cite_note-times-4">[4]</a></sup> He found working on <i>Neighbours</i> "exciting" and it enabled him to provide for his sons, but he noted: "You were a totally replaceable commodity; [the production company] didn't put any value on any of the people appearing in the show."<sup id="cite_ref-sydney_1-7" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> He expanded: "I didn't like it there, they were not nice people. When we decided that we hated each other, the company and me, one of the things the company did was to market everything they could out of us and pay us nothing."<sup id="cite_ref-nz_5-1" class="reference"><a href="#cite_note-nz-5">[5]</a></sup> Dale and the company (<a href="/wiki/Reg_Grundy_Organisation" title="Reg Grundy Organisation">Grundy Television</a>) parted on "bad terms".<sup id="cite_ref-metro_6-0" class="reference"><a href="#cite_note-metro-6">[6]</a></sup></p>
+<p>After <i>Neighbours</i>, Dale struggled to find work in Australia because he was <a href="/wiki/Typecast_(acting)" class="mw-redirect" title="Typecast (acting)">typecast</a> as Jim Robinson.<sup id="cite_ref-sydney_1-8" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> His only regular sources of income were <a href="/wiki/Voice-over" title="Voice-over">voice-overs</a>,<sup id="cite_ref-times_4-6" class="reference"><a href="#cite_note-times-4">[4]</a></sup> and <a href="/wiki/Publishing" title="Publishing">publishing</a> magazines about his former show which he "made quite a lot of money out of". He lost most of his profits investing in a failed children's magazine.<sup id="cite_ref-nz_5-2" class="reference"><a href="#cite_note-nz-5">[5]</a></sup> In 1999, he was cast in the American TV film <i><a href="/wiki/First_Daughter_(1999_film)" title="First Daughter (1999 film)">First Daughter</a></i>, which was filmed in Australia. After discovering he could perform a convincing American accent, Dale attended the film's premiere, finally moving with his family to the United States permanently in January 2000.<sup id="cite_ref-times_4-7" class="reference"><a href="#cite_note-times-4">[4]</a></sup> Dale, his second wife Tracey, and their then two-year-old son Nick moved into an "awful little flat" in Los Angeles and found an agent. Dale recalled telling his wife in Melbourne that "there's no way this is going to work. But if it does, it proves you can do anything."<sup id="cite_ref-sydney_1-9" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Wider_success">Wider success</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=4" title="Edit section: Wider success">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alan_Dale_(aka_Jim).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alan_Dale_%28aka_Jim%29.jpg/220px-Alan_Dale_%28aka_Jim%29.jpg" width="220" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alan_Dale_%28aka_Jim%29.jpg/330px-Alan_Dale_%28aka_Jim%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alan_Dale_%28aka_Jim%29.jpg/440px-Alan_Dale_%28aka_Jim%29.jpg 2x" data-file-width="1042" data-file-height="900" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Alan_Dale_(aka_Jim).jpg" class="internal" title="Enlarge"></a></div>
+Dale at the <a href="/wiki/2008_BAFTA_Television_Awards" class="mw-redirect" title="2008 BAFTA Television Awards">2008 BAFTA Television Awards</a></div>
+</div>
+</div>
+<p>At the age of 52, he began to revive his career and started taking acting classes,<sup id="cite_ref-times_4-8" class="reference"><a href="#cite_note-times-4">[4]</a></sup> something he had not thought about after being cast in <i>Neighbours</i>.<sup id="cite_ref-twenty_2-6" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> He described his age, unknown status and willingness to work for a relatively low fee as being his main assets for getting work in America. His drama teacher, who he has remained with ever since,<sup id="cite_ref-twenty_2-7" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> told him "that you might want to play great roles, but truth is you will get cast as a specific type. Just work out your type. The others in the class said I was a bit <a href="/wiki/Anthony_Hopkins" title="Anthony Hopkins">Anthony Hopkins</a> and a bit <a href="/wiki/Sean_Connery" title="Sean Connery">Sean Connery</a> and that went into my head. I thought if I go for roles those guys would go for I'm more likely to get them."<sup id="cite_ref-times_4-9" class="reference"><a href="#cite_note-times-4">[4]</a></sup> The first role he was offered was a part in a series called <i>Sign of Life</i>, a show about a rock band, which eventually fell through.<sup id="cite_ref-twenty_2-8" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> Dale only received a couple of auditions during his first year in America, but his break came when he was cast as the <a href="/wiki/South_African" class="mw-redirect" title="South African">South African</a> Al Patterson in four episodes of <i><a href="/wiki/ER_(TV_series)" title="ER (TV series)">ER</a></i>.<sup id="cite_ref-sydney_1-10" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> Since then, Dale has been "busier than ever".<sup id="cite_ref-times_4-10" class="reference"><a href="#cite_note-times-4">[4]</a></sup> He has appeared in many television series including guest appearances on <i><a href="/wiki/The_West_Wing_(TV_series)" class="mw-redirect" title="The West Wing (TV series)">The West Wing</a></i>, <i><a href="/wiki/Torchwood" title="Torchwood">Torchwood</a></i>, <i><a href="/wiki/The_Lone_Gunmen" title="The Lone Gunmen">The Lone Gunmen</a></i>, <i><a href="/wiki/Californication_(TV_series)" title="Californication (TV series)">Californication</a></i>,<sup id="cite_ref-hro_7-0" class="reference"><a href="#cite_note-hro-7">[7]</a></sup> and <i><a href="/wiki/The_Practice" title="The Practice">The Practice</a></i>.<sup id="cite_ref-twenty_2-9" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> Many of these have been recurring roles, such as the part of Tom Morrow in <i><a href="/wiki/JAG_(TV_series)" title="JAG (TV series)">JAG</a></i> and its spin-off <i><a href="/wiki/NCIS_(TV_series)" title="NCIS (TV series)">NCIS</a></i>, as well as appearing in three episodes, including the <a href="/wiki/Series_finale" title="Series finale">series finale</a>, of <i><a href="/wiki/The_X-Files" title="The X-Files">The X-Files</a></i>, playing the "<a href="/wiki/List_of_The_X-Files_characters#Toothpick_Man" title="List of The X-Files characters">Toothpick Man</a>".<sup id="cite_ref-twenty_2-10" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> He played the recurring role of Vice President of the United States <a href="/wiki/Jim_Prescott" class="mw-redirect" title="Jim Prescott">Jim Prescott</a> for seven episodes of the second season of <i><a href="/wiki/24_(TV_series)" title="24 (TV series)">24</a></i>, a part which was originally supposed to be a single scene.<sup id="cite_ref-sydney_1-11" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> Dale had recurring roles in the serial <i><a href="/wiki/Midnight_Man_(TV_serial)" class="mw-redirect" title="Midnight Man (TV serial)">Midnight Man</a></i> and the Australian series <i><a href="/wiki/Sea_Patrol_(TV_series)" class="mw-redirect" title="Sea Patrol (TV series)">Sea Patrol</a></i> in 2008.<sup id="cite_ref-twenty_2-11" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> He also had recurring parts on <i><a href="/wiki/Undercovers_(TV_series)" title="Undercovers (TV series)">Undercovers</a></i>, <i><a href="/wiki/Entourage_(U.S._TV_series)" title="Entourage (U.S. TV series)">Entourage</a></i> as John Ellis, the fictional owner of <a href="/wiki/Warner_Bros." title="Warner Bros.">Warner Bros.</a>, and the British series <i><a href="/wiki/Moving_Wallpaper" title="Moving Wallpaper">Moving Wallpaper</a></i> as a fictional version of himself.<sup id="cite_ref-hro_7-1" class="reference"><a href="#cite_note-hro-7">[7]</a></sup><sup id="cite_ref-undercovers_8-0" class="reference"><a href="#cite_note-undercovers-8">[8]</a></sup><sup id="cite_ref-renaissance_9-0" class="reference"><a href="#cite_note-renaissance-9">[9]</a></sup> He had a recurring role as King George in the series <i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i>,<sup id="cite_ref-hro_7-2" class="reference"><a href="#cite_note-hro-7">[7]</a></sup><sup id="cite_ref-once_10-0" class="reference"><a href="#cite_note-once-10">[10]</a></sup> and Emmett in <i><a href="/wiki/Hot_in_Cleveland" title="Hot in Cleveland">Hot in Cleveland</a></i>,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> before joining the main cast of <i><a href="/wiki/Dominion_(TV_series)" title="Dominion (TV series)">Dominion</a></i> in 2014, playing General Edward Riesen.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>From 2003 to 2010, Dale appeared in his longest running American roles. He starred in the <a href="/wiki/Fox_Broadcasting_Company" title="Fox Broadcasting Company">Fox</a> TV series, <i><a href="/wiki/The_O.C." title="The O.C.">The O.C.</a></i> playing <a href="/wiki/Caleb_Nichol" class="mw-redirect" title="Caleb Nichol">Caleb Nichol</a>, a wealthy tycoon. The producers saw that the character had further potential, and made his initially recurring role a regular character in the series.<sup id="cite_ref-nz_5-3" class="reference"><a href="#cite_note-nz-5">[5]</a></sup> After 35 appearances,<sup id="cite_ref-tattoo_13-0" class="reference"><a href="#cite_note-tattoo-13">[13]</a></sup> Caleb was killed off in the second season episode "<a href="/wiki/The_O.Sea" class="mw-redirect" title="The O.Sea">The O.Sea</a>" in 2005. Dale was disappointed that Caleb was written out and described it as a mistake by the production staff.<sup id="cite_ref-ign_14-0" class="reference"><a href="#cite_note-ign-14">[14]</a></sup> In 2006, Dale was cast in the starring role of <a href="/wiki/Bradford_Meade" title="Bradford Meade">Bradford Meade</a>, the owner of Meade Publications in the <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a> show <i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i>.<sup id="cite_ref-ign_14-1" class="reference"><a href="#cite_note-ign-14">[14]</a></sup> Although he impressed the producers in his audition, he initially lost the role to a "bigger star". After said star began "causing trouble" and was fired, Dale was given the part.<sup id="cite_ref-nz_5-4" class="reference"><a href="#cite_note-nz-5">[5]</a></sup> Bradford was killed off during the show's second season.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Dale appeared in the second season finale of <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>, "<a href="/wiki/Live_Together,_Die_Alone" title="Live Together, Die Alone">Live Together, Die Alone</a>", as <a href="/wiki/Charles_Widmore" title="Charles Widmore">Charles Widmore</a>, a businessman and leader of the <a href="/wiki/Others_(Lost)" class="mw-redirect" title="Others (Lost)">Others</a>.<sup id="cite_ref-hro_7-3" class="reference"><a href="#cite_note-hro-7">[7]</a></sup><sup id="cite_ref-ign_14-2" class="reference"><a href="#cite_note-ign-14">[14]</a></sup> Dale's publicist was initially worried that Widmore (who was an integral part of the show's mystery) would become a starring role, meaning it would be hard for Dale to appear in both <i>Lost</i> and <i>Ugly Betty</i> at the same time.<sup id="cite_ref-ign_14-3" class="reference"><a href="#cite_note-ign-14">[14]</a></sup> The part became a recurring role, with Dale appearing numerous times between <a href="/wiki/Lost_(season_2)" title="Lost (season 2)">seasons two</a> (2006) and <a href="/wiki/Lost_(season_6)" title="Lost (season 6)">six</a> (2010). He enjoyed the role but often found it difficult due to his character's unclear motivation.<sup id="cite_ref-media_16-0" class="reference"><a href="#cite_note-media-16">[16]</a></sup></p>
+<p>In March 2008, Dale replaced <a href="/wiki/Peter_Davison" title="Peter Davison">Peter Davison</a> in the lead role of <a href="/wiki/King_Arthur" title="King Arthur">King Arthur</a> in the London West End production of <a href="/wiki/Monty_Python" title="Monty Python">Monty Python</a>'s <i><a href="/wiki/Spamalot" title="Spamalot">Spamalot</a></i> at the Palace Theatre.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> He accepted the role because he was a fan of <i>Monty Python</i> and considered that "life's too short" for him to have turned down a West End part.<sup id="cite_ref-times_4-11" class="reference"><a href="#cite_note-times-4">[4]</a></sup> Although he has seen all of the shows and the other films, Dale had never seen <i><a href="/wiki/Monty_Python_and_the_Holy_Grail" title="Monty Python and the Holy Grail">Monty Python and the Holy Grail</a></i> (from which <i>Spamalot</i> is "lovingly ripped off") and had to buy a copy to prepare for the role.<sup id="cite_ref-twenty_2-12" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> It was not his first experience in musical theatre because he appeared in a 1984 Australian production of <i><a href="/wiki/Applause_(musical)" title="Applause (musical)">Applause</a></i>, but Dale found the comic timing of the part to be the hardest task. "On stage, the battle is to find all of the humorous moments and not skip over them. [...] There's an art to Python humour and I'm aiming to try and get every single joke just right."<sup id="cite_ref-twenty_2-13" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> He was succeeded in the role by <a href="/wiki/Sanjeev_Bhaskar" title="Sanjeev Bhaskar">Sanjeev Bhaskar</a> on 23 June 2008.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>Dale has also made several film appearances. He appeared as the <a href="/wiki/Romulan" title="Romulan">Romulan</a> Praetor Hiren in <i><a href="/wiki/Star_Trek_Nemesis" class="mw-redirect" title="Star Trek Nemesis">Star Trek Nemesis</a></i>, a part he got after the actor originally cast fell ill,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> and had small parts in films such as <i><a href="/wiki/Hollywood_Homicide" title="Hollywood Homicide">Hollywood Homicide</a></i>, <i><a href="/wiki/After_the_Sunset" title="After the Sunset">After the Sunset</a></i>,<sup id="cite_ref-nz_5-5" class="reference"><a href="#cite_note-nz-5">[5]</a></sup> and the minor part of General Ross in <i><a href="/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull" title="Indiana Jones and the Kingdom of the Crystal Skull">Indiana Jones and the Kingdom of the Crystal Skull</a></i>. Dale said his script for <i>Kingdom of the Crystal Skull</i> was printed on <a href="/wiki/Tin_foil" title="Tin foil">tin foil</a> so it was impossible to replicate, in order to keep the film's plot a secret.<sup id="cite_ref-times_4-12" class="reference"><a href="#cite_note-times-4">[4]</a></sup> He appeared in four films released in 2011: <i><a href="/wiki/A_Little_Bit_of_Heaven_(2011_film)" title="A Little Bit of Heaven (2011 film)">A Little Bit of Heaven</a></i>, <i><a href="/wiki/Priest_(2011_film)" title="Priest (2011 film)">Priest</a></i>, <i><a href="/wiki/Don%27t_Be_Afraid_of_the_Dark_(2011_film)" class="mw-redirect" title="Don't Be Afraid of the Dark (2011 film)">Don't Be Afraid of the Dark</a></i>,<sup id="cite_ref-media_16-1" class="reference"><a href="#cite_note-media-16">[16]</a></sup> and <i><a href="/wiki/The_Girl_with_the_Dragon_Tattoo_(2011_film)" title="The Girl with the Dragon Tattoo (2011 film)">The Girl with the Dragon Tattoo</a></i>, having joined late in the film's production.<sup id="cite_ref-tattoo_13-1" class="reference"><a href="#cite_note-tattoo-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Popularity_and_style">Popularity and style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=5" title="Edit section: Popularity and style">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Despite his mainstream success since his move to America, Dale is still primarily known for his role as Jim Robinson in <i>Neighbours</i> in the United Kingdom and Australia.<sup id="cite_ref-times_4-13" class="reference"><a href="#cite_note-times-4">[4]</a></sup><sup id="cite_ref-ident_20-0" class="reference"><a href="#cite_note-ident-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-sfx_22-0" class="reference"><a href="#cite_note-sfx-22">[22]</a></sup> This was spoofed in a promotional <a href="/wiki/Station_identification" title="Station identification">ident</a> for the UK's <a href="/wiki/Channel_4" title="Channel 4">Channel 4</a> in 2007 which sees Dale taking part in a mock interview about the sudden upturn in his career, before being accosted by an Australian fan, who recognises him as Jim Robinson.<sup id="cite_ref-ident_20-1" class="reference"><a href="#cite_note-ident-20">[20]</a></sup> Discussing this association after <i>Ugly Betty</i>'s 2007 <a href="/wiki/Golden_Globe" class="mw-redirect" title="Golden Globe">Golden Globe</a> win, Dale noted: "Every article I read I'm always, 'Ex-soap star Jim Robinson'. Maybe now people will just get to know me as actor Alan Dale."<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> In 2007, <a href="/wiki/Amazon.co.uk" class="mw-redirect" title="Amazon.co.uk">Amazon.co.uk</a> reported that they had sold more DVDs of films and television shows featuring Dale than any featuring other ex-<i>Neighbours</i> cast members.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>Dale's characters on most of the American television shows he has appeared on have shared similar character traits, which Dale describes as the "go-to powerful guy" role.<sup id="cite_ref-nz_5-6" class="reference"><a href="#cite_note-nz-5">[5]</a></sup> Following his appearance as Senator Eaton in <i><a href="/wiki/The_Killing_(U.S._TV_series)" title="The Killing (U.S. TV series)">The Killing</a></i> in 2011,<sup id="cite_ref-hro_7-4" class="reference"><a href="#cite_note-hro-7">[7]</a></sup> reviewers commented on his tendency to play powerful, wealthy and mysterious characters in many shows.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> Maureen Ryan of <i><a href="/wiki/TV_Squad" class="mw-redirect" title="TV Squad">TV Squad</a></i> wrote that it was "lovely to see Alan Dale playing a typically Alan Dale-ian character. He's always so great at playing That Sketchy Wealthy Guy With a Hidden Agenda, which he has now played on, I believe, 87 different shows. And he always does it well."<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> Coincidentally, Dale's characters in <i>Neighbours</i>, <i>The O.C.</i> and <i>Ugly Betty</i> have all been killed off by a fatal heart attack.<sup id="cite_ref-metro_6-1" class="reference"><a href="#cite_note-metro-6">[6]</a></sup> Christopher Rosen of <i><a href="/wiki/The_New_York_Observer" class="mw-redirect" title="The New York Observer">The New York Observer</a></i> wrote in 2008 that "with his square jaw and seemingly no nonsense attitude, Mr. Dale is the go-to actor when casting directors need a conservative-looking authoritarian. When he comes onto the screen, audiences immediately take him seriously, since he radiates rich, smug and serious. He demands your respect." Rosen says that Dale is "not even...a particularly good actor" but is "fine enough" and "bring[s] a no frills, no gimmicks style to his roles," and "manages to give a consistent performance in every show he appears on."<sup id="cite_ref-yes_28-0" class="reference"><a href="#cite_note-yes-28">[28]</a></sup></p>
+<p>Jayne Nelson, writing in magazine <i><a href="/wiki/SFX_(magazine)" title="SFX (magazine)">SFX</a></i>, named Dale the second most "serial" science-fiction guest star after <a href="/wiki/Mark_Sheppard" title="Mark Sheppard">Mark Sheppard</a>. She wrote: "The thing is, soap-opera origins aside, Dale is always good. Which is why he keeps getting so much work....Dale never lets you down, always (well, usually) summoning up a pitch-perfect accent, too. There's something comforting about his presence on a show, as though the fact he's in it has lent it some weight."<sup id="cite_ref-sfx_22-1" class="reference"><a href="#cite_note-sfx-22">[22]</a></sup> In a profile of his work on "cult shows", Ben Rawson-Jones of <a href="/wiki/Digital_Spy" title="Digital Spy">Digital Spy</a> called Dale an "institution".<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=6" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quotebox" style="float: right; clear: right; margin: 0.5em 0 0.8em 1.4em; width:25em; padding: 6px; border: 1px solid #aaa; font-size: 88%; background-color: #F9F9F9;">
+<div class="" style="position: relative; text-align: left;">
+<div>
+<p>"I like both places [Australia and New Zealand] but I get a lot more respect and recognition from Australia than I do in New Zealand. New Zealanders don't want to know me at all, really. I've been Australian for 20-odd years. Everywhere I went I was the guy from <i>Neighbours</i> so I was Australian. Then when I came here [Hollywood], because I have a New Zealand passport I became a New Zealander again. It's odd."</p>
+</div>
+</div>
+<cite style="display: block; text-align: left;">— Dale on his nationality.<sup id="cite_ref-nz_5-7" class="reference"><a href="#cite_note-nz-5">[5]</a></sup></cite></div>
+<p>In 1968, Dale married his girlfriend, Claire. The couple had two children, Simon and Matthew,<sup id="cite_ref-tvguide_30-0" class="reference"><a href="#cite_note-tvguide-30">[30]</a></sup><sup id="cite_ref-hollywood_31-0" class="reference"><a href="#cite_note-hollywood-31">[31]</a></sup> both of whom are involved in the entertainment industry, Simon as a radio announcer at <a href="/wiki/Kiss_100_London" class="mw-redirect" title="Kiss 100 London">Kiss 100</a><sup id="cite_ref-twenty_2-14" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> and Matthew as a writer, film maker and actor.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> The marriage ended in divorce in 1979.<sup id="cite_ref-fr_33-0" class="reference"><a href="#cite_note-fr-33">[33]</a></sup> At the time, Dale lived in <a href="/wiki/Auckland" title="Auckland">Auckland</a> but after the divorce he moved to Sydney with his sons.<sup id="cite_ref-sydney_1-12" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> On 8 April 1990,<sup id="cite_ref-fr_33-1" class="reference"><a href="#cite_note-fr-33">[33]</a></sup> he married Tracey Pearson, the 1986 <a href="/wiki/Miss_Australia" title="Miss Australia">Miss Australia</a>, whom he met at the <a href="/wiki/1986_Australian_Grand_Prix" title="1986 Australian Grand Prix">1986 Australian Grand Prix</a>, when she was 21 and he was 39. Dale described it as "the most appropriate relationship I've ever had."<sup id="cite_ref-sydney_1-13" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> Dale also has two children from this marriage, Daniel and Nick, who "keep him young".<sup id="cite_ref-sydney_1-14" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup></p>
+<p>He and his family now live in <a href="/wiki/Manhattan_Beach,_California" title="Manhattan Beach, California">Manhattan Beach</a>, Los Angeles, California<sup id="cite_ref-cruisy_34-0" class="reference"><a href="#cite_note-cruisy-34">[34]</a></sup> and also own property in Australia.<sup id="cite_ref-twenty_2-15" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> Dale sold his holiday home in New Zealand in 2011 for <a href="/wiki/New_Zealand_dollar" title="New Zealand dollar">$</a>1.25m.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> Both of Dale's parents died in 2007,<sup id="cite_ref-twenty_2-16" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup> and he regrets not spending enough time with them.<sup id="cite_ref-metro_6-2" class="reference"><a href="#cite_note-metro-6">[6]</a></sup> Dale describes his life philosophy as being <a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a>'s quote "Never, never, never give up",<sup id="cite_ref-sydney_1-15" class="reference"><a href="#cite_note-sydney-1">[1]</a></sup> and counts <a href="/wiki/Gene_Hackman" title="Gene Hackman">Gene Hackman</a> as his "big acting hero".<sup id="cite_ref-twenty_2-17" class="reference"><a href="#cite_note-twenty-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=7" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Films">Films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=8" title="Edit section: Films">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Year</th>
+<th>Title</th>
+<th>Role</th>
+<th class="unsortable">Notes</th>
+</tr>
+<tr>
+<td>1989</td>
+<td><i><a href="/wiki/Houseboat_Horror" title="Houseboat Horror">Houseboat Horror</a></i></td>
+<td>Evans</td>
+<td>Direct to video release</td>
+</tr>
+<tr>
+<td>2002</td>
+<td><i>Rent Control</i></td>
+<td>George</td>
+<td></td>
+</tr>
+<tr>
+<td>2002</td>
+<td><i><a href="/wiki/Star_Trek:_Nemesis" title="Star Trek: Nemesis">Star Trek: Nemesis</a></i></td>
+<td>Praetor Hiren</td>
+<td></td>
+</tr>
+<tr>
+<td>2003</td>
+<td><i>The Extreme Team</i></td>
+<td>Richard Knowles</td>
+<td></td>
+</tr>
+<tr>
+<td>2003</td>
+<td><i><a href="/wiki/Hollywood_Homicide" title="Hollywood Homicide">Hollywood Homicide</a></i></td>
+<td>Commander Preston</td>
+<td></td>
+</tr>
+<tr>
+<td>2004</td>
+<td><i>Straight Eye: The Movie</i></td>
+<td>Kelly's Dad</td>
+<td></td>
+</tr>
+<tr>
+<td>2004</td>
+<td><i><a href="/wiki/After_the_Sunset" title="After the Sunset">After the Sunset</a></i></td>
+<td>Security Chief</td>
+<td></td>
+</tr>
+<tr>
+<td>2008</td>
+<td><i><a href="/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull" title="Indiana Jones and the Kingdom of the Crystal Skull">Indiana Jones and the Kingdom of the Crystal Skull</a></i></td>
+<td>General Ross</td>
+<td></td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i>Happy New Year</i></td>
+<td>Bill</td>
+<td>Awaiting release</td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i><a href="/wiki/A_Little_Bit_of_Heaven_(2011_film)" title="A Little Bit of Heaven (2011 film)">A Little Bit of Heaven</a></i></td>
+<td>Dr. Sanders</td>
+<td></td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i><a href="/wiki/Priest_(2011_film)" title="Priest (2011 film)">Priest</a></i></td>
+<td>Monsignor Chamberlain</td>
+<td></td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i><a href="/wiki/Don%27t_Be_Afraid_of_the_Dark_(2011_film)" class="mw-redirect" title="Don't Be Afraid of the Dark (2011 film)">Don't Be Afraid of the Dark</a></i></td>
+<td>Jacoby</td>
+<td></td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i><a href="/wiki/The_Girl_with_the_Dragon_Tattoo_(2011_film)" title="The Girl with the Dragon Tattoo (2011 film)">The Girl with the Dragon Tattoo</a></i></td>
+<td>Detective Isaksson</td>
+<td></td>
+</tr>
+<tr>
+<td>2012</td>
+<td><i><a href="/wiki/Tangled#Tangled_Ever_After" title="Tangled">Tangled Ever After</a></i></td>
+<td>Priest</td>
+<td>Short film; voice</td>
+</tr>
+<tr>
+<td>2014</td>
+<td><i><a href="/wiki/Captain_America:_The_Winter_Soldier" title="Captain America: The Winter Soldier">Captain America: The Winter Soldier</a></i></td>
+<td>Councilman Rockwell<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>2014</td>
+<td><i>Grace</i></td>
+<td>Father John</td>
+<td><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></td>
+</tr>
+<tr>
+<td>2015</td>
+<td><i><a href="/wiki/Entourage_(film)" title="Entourage (film)">Entourage</a></i></td>
+<td>John Ellis</td>
+<td></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=9" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Year</th>
+<th>Title</th>
+<th>Role</th>
+<th class="unsortable">Notes</th>
+</tr>
+<tr>
+<td>1979–1982</td>
+<td><i><a href="/wiki/The_Young_Doctors" title="The Young Doctors">The Young Doctors</a></i></td>
+<td>Dr. John Forrest</td>
+<td>Main cast member</td>
+</tr>
+<tr>
+<td>1985–1993</td>
+<td><i><a href="/wiki/Neighbours" title="Neighbours">Neighbours</a></i></td>
+<td><a href="/wiki/Jim_Robinson_(Neighbours)" title="Jim Robinson (Neighbours)">Jim Robinson</a></td>
+<td>Main cast member; 869 episodes</td>
+</tr>
+<tr>
+<td>1986</td>
+<td><i><a href="/wiki/The_Far_Country_(1952_novel)" class="mw-redirect" title="The Far Country (1952 novel)">The Far Country</a></i></td>
+<td>Dave Marshall</td>
+<td>Two-part TV film</td>
+</tr>
+<tr>
+<td>1994</td>
+<td><i><a href="/wiki/Janus_(TV_series)" title="Janus (TV series)">Janus</a></i></td>
+<td>Richard Issacs</td>
+<td>Recurring role</td>
+</tr>
+<tr>
+<td>1994</td>
+<td><i><a href="/wiki/Time_Trax" title="Time Trax">Time Trax</a></i></td>
+<td>Mr. Bergdorf</td>
+<td>Episode 2.21: "The Crash"</td>
+</tr>
+<tr>
+<td>1995</td>
+<td><i>Plainclothes</i></td>
+<td>Senior Sergeant Mitch Mitchell</td>
+<td></td>
+</tr>
+<tr>
+<td>1995</td>
+<td><i><a href="/wiki/Space:_Above_and_Beyond" title="Space: Above and Beyond">Space: Above and Beyond</a></i></td>
+<td>Colonial Governor Borman</td>
+<td>Episode 1.1: "<a href="/wiki/Pilot_(Space:_Above_and_Beyond_episode)" class="mw-redirect" title="Pilot (Space: Above and Beyond episode)">Pilot</a>"</td>
+</tr>
+<tr>
+<td>1997</td>
+<td><i><a href="/wiki/Frontline_(Australian_TV_series)" title="Frontline (Australian TV series)">Frontline</a></i></td>
+<td>Dave</td>
+<td>Episode 3.1: "<a href="/wiki/Frontline_(season_3)" title="Frontline (season 3)">Dick on the Line</a>"</td>
+</tr>
+<tr>
+<td>1997</td>
+<td><i><a href="/wiki/Blue_Heelers" title="Blue Heelers">Blue Heelers</a></i></td>
+<td>Rod Wright</td>
+<td>Episode 4.31: "Off the Air"</td>
+</tr>
+<tr>
+<td>1997–1998</td>
+<td><i><a href="/wiki/State_Coroner_(TV_series)" title="State Coroner (TV series)">State Coroner</a></i></td>
+<td>Dudley Mills</td>
+<td>Eight episodes</td>
+</tr>
+<tr>
+<td>1999</td>
+<td><i>Alien Cargo</i></td>
+<td>Eichhorn, Explorer Dolphin</td>
+<td>TV film</td>
+</tr>
+<tr>
+<td>1999</td>
+<td><i><a href="/wiki/First_Daughter_(1999_film)" title="First Daughter (1999 film)">First Daughter</a></i></td>
+<td>Daly</td>
+<td>TV film</td>
+</tr>
+<tr>
+<td>2000</td>
+<td><i><a href="/wiki/Sir_Arthur_Conan_Doyle%27s_The_Lost_World" class="mw-redirect" title="Sir Arthur Conan Doyle's The Lost World">Sir Arthur Conan Doyle's The Lost World</a></i></td>
+<td>Phelan</td>
+<td>Episode 1.20: "The Chosen One"</td>
+</tr>
+<tr>
+<td>2000–2001</td>
+<td><i><a href="/wiki/ER_(TV_series)" title="ER (TV series)">ER</a></i></td>
+<td>Al Patterson</td>
+<td>Four episodes</td>
+</tr>
+<tr>
+<td>2001</td>
+<td><i>Signs of Life</i></td>
+<td>Clive</td>
+<td>Episode 1.1: "Pilot"</td>
+</tr>
+<tr>
+<td>2001</td>
+<td><i><a href="/wiki/The_Lone_Gunmen_(TV_series)" title="The Lone Gunmen (TV series)">The Lone Gunmen</a></i></td>
+<td>Michael Wilhelm</td>
+<td>Episode 1.3: "Eine Kleine Frohike"</td>
+</tr>
+<tr>
+<td>2001</td>
+<td><i><a href="/wiki/Philly_(TV_series)" title="Philly (TV series)">Philly</a></i></td>
+<td>Bruce Frohman</td>
+<td>Episode 1.9: "Loving Sons"</td>
+</tr>
+<tr>
+<td>2002</td>
+<td><i><a href="/wiki/The_X-Files" title="The X-Files">The X-Files</a></i></td>
+<td><a href="/wiki/Toothpick_Man" class="mw-redirect" title="Toothpick Man">Toothpick Man</a></td>
+<td>Three episodes</td>
+</tr>
+<tr>
+<td>2002</td>
+<td><i><a href="/wiki/American_Dreams" title="American Dreams">American Dreams</a></i></td>
+<td>Captain Andrews</td>
+<td>Episode 1.6: "Soldier Boy"</td>
+</tr>
+<tr>
+<td>2002</td>
+<td><i><a href="/wiki/The_Practice" title="The Practice">The Practice</a></i></td>
+<td>Judge Robert Brenford</td>
+<td>Episodes 7.9: "The Good Fight" and 7.10: "Silent Partners"</td>
+</tr>
+<tr>
+<td>2002–2003</td>
+<td><i><a href="/wiki/The_West_Wing" title="The West Wing">The West Wing</a></i></td>
+<td>Secretary of Commerce Mitch Bryce</td>
+<td>Episodes 4.1: "<a href="/wiki/20_Hours_in_America,_Part_I" class="mw-redirect" title="20 Hours in America, Part I">20 Hours in America, Part I</a>" and 4.23: "<a href="/wiki/Twenty_Five_(The_West_Wing)" title="Twenty Five (The West Wing)">Twenty Five</a>"</td>
+</tr>
+<tr>
+<td>2003</td>
+<td><i><a href="/wiki/JAG_(TV_series)" title="JAG (TV series)">JAG</a></i></td>
+<td>NCIS Director <a href="/wiki/List_of_NCIS_characters#Thomas_Morrow" title="List of NCIS characters">Tom Morrow</a></td>
+<td>Episodes 8.20: "<a href="/wiki/Ice_Queen_(JAG)" title="Ice Queen (JAG)">Ice Queen</a>" and 8.21: "Meltdown"</td>
+</tr>
+<tr>
+<td>2003</td>
+<td><i><a href="/wiki/CSI:_Miami" title="CSI: Miami">CSI: Miami</a></i></td>
+<td>Canadian Consulate General Dubay</td>
+<td>Episode 2.1: "Blood Brothers"</td>
+</tr>
+<tr>
+<td>2003–2004</td>
+<td><i><a href="/wiki/24_(TV_series)" title="24 (TV series)">24</a></i></td>
+<td><a href="/wiki/Minor_characters_in_24" class="mw-redirect" title="Minor characters in 24">Vice President Jim Prescott</a></td>
+<td>Eight episodes (seasons 2–3)</td>
+</tr>
+<tr>
+<td>2003–2005</td>
+<td><i><a href="/wiki/The_O.C." title="The O.C.">The O.C.</a></i></td>
+<td><a href="/wiki/Caleb_Nichol" class="mw-redirect" title="Caleb Nichol">Caleb Nichol</a></td>
+<td>Main cast member; appeared in 35 episodes (seasons 1–2)</td>
+</tr>
+<tr>
+<td>2003–2016</td>
+<td><i><a href="/wiki/NCIS_(TV_series)" title="NCIS (TV series)">NCIS</a></i></td>
+<td>NCIS (later Homeland) Director Tom Morrow</td>
+<td>Reprised character from <i>JAG</i>; 14 episodes (seasons 1–3, 10–13)</td>
+</tr>
+<tr>
+<td>2004</td>
+<td><i><a href="/wiki/Crossing_Jordan" title="Crossing Jordan">Crossing Jordan</a></i></td>
+<td>Carl Logan</td>
+<td>Episode 3.2: "Slam Dunk"</td>
+</tr>
+<tr>
+<td>2005</td>
+<td><i><a href="/wiki/E-Ring" title="E-Ring">E-Ring</a></i></td>
+<td>Raymond Metcalf</td>
+<td>Three episodes</td>
+</tr>
+<tr>
+<td>2005</td>
+<td><i>Bow</i></td>
+<td>"<a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Bow Wow</a>'s gay English butler"<sup id="cite_ref-nz_5-8" class="reference"><a href="#cite_note-nz-5">[5]</a></sup></td>
+<td>Episode 1.1: "Pilot"; series not picked up</td>
+</tr>
+<tr>
+<td>2006–2010</td>
+<td><i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i></td>
+<td><a href="/wiki/Charles_Widmore" title="Charles Widmore">Charles Widmore</a></td>
+<td>17 episodes (seasons 2–6)</td>
+</tr>
+<tr>
+<td>2006–2007</td>
+<td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i></td>
+<td><a href="/wiki/Bradford_Meade" title="Bradford Meade">Bradford Meade</a></td>
+<td>Main cast member; 35 episodes (seasons 1–2)</td>
+</tr>
+<tr>
+<td>2008</td>
+<td><i><a href="/wiki/Torchwood" title="Torchwood">Torchwood</a></i></td>
+<td>Dr. Aaron Copley</td>
+<td>Episode 2.6: "<a href="/wiki/Reset_(Torchwood)" title="Reset (Torchwood)">Reset</a>"</td>
+</tr>
+<tr>
+<td>2008</td>
+<td><i><a href="/wiki/Midnight_Man_(TV_serial)" class="mw-redirect" title="Midnight Man (TV serial)">Midnight Man</a></i></td>
+<td>Donald Hagan</td>
+<td>Episodes 1.1 and 1.3</td>
+</tr>
+<tr>
+<td>2008</td>
+<td><i><a href="/wiki/Sea_Patrol_(TV_series)" class="mw-redirect" title="Sea Patrol (TV series)">Sea Patrol</a></i></td>
+<td>Ray Walsman</td>
+<td>Six episodes</td>
+</tr>
+<tr>
+<td>2008–2011</td>
+<td><i><a href="/wiki/Entourage_(U.S._TV_series)" title="Entourage (U.S. TV series)">Entourage</a></i></td>
+<td>John Ellis</td>
+<td>Five episodes (seasons 5–8)</td>
+</tr>
+<tr>
+<td>2009</td>
+<td><i><a href="/wiki/Flight_of_the_Conchords_(TV_series)" title="Flight of the Conchords (TV series)">Flight of the Conchords</a></i></td>
+<td>Australian Ambassador</td>
+<td>Episode 2.3: "<a href="/wiki/The_Tough_Brets" title="The Tough Brets">The Tough Brets</a>"</td>
+</tr>
+<tr>
+<td>2009</td>
+<td><i><a href="/wiki/Moving_Wallpaper" title="Moving Wallpaper">Moving Wallpaper</a></i></td>
+<td>Himself/John Priest</td>
+<td>Six episodes; Dale plays a fictionalised version of himself and stars in the <a href="/wiki/Show-within-a-show" class="mw-redirect" title="Show-within-a-show">show-within-a-show</a> <i>Renaissance</i>.<sup id="cite_ref-renaissance_9-1" class="reference"><a href="#cite_note-renaissance-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td>2009</td>
+<td><i><a href="/wiki/Law_%26_Order:_Special_Victims_Unit" title="Law &amp; Order: Special Victims Unit">Law &amp; Order: Special Victims Unit</a></i></td>
+<td>Judge Joshua Koehler</td>
+<td>Episode 10.21: "Liberties"</td>
+</tr>
+<tr>
+<td>2010</td>
+<td><i><a href="/wiki/Important_Things_with_Demetri_Martin" title="Important Things with Demetri Martin">Important Things with Demetri Martin</a></i></td>
+<td>Mob Boss</td>
+<td>Episode 2.1: "Attention"</td>
+</tr>
+<tr>
+<td>2010</td>
+<td><i><a href="/wiki/Burn_Notice" title="Burn Notice">Burn Notice</a></i></td>
+<td>Mr. Bocklage</td>
+<td>Episode 4.6: "Entry Point"</td>
+</tr>
+<tr>
+<td>2010</td>
+<td><i><a href="/wiki/Undercovers_(TV_series)" title="Undercovers (TV series)">Undercovers</a></i></td>
+<td>James Kelvin</td>
+<td>Five episodes<sup id="cite_ref-undercovers_8-1" class="reference"><a href="#cite_note-undercovers-8">[8]</a></sup></td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i><a href="/wiki/Californication_(TV_series)" title="Californication (TV series)">Californication</a></i></td>
+<td>Lloyd Alan Phillips Jr.</td>
+<td>Episode 4.07: "The Recused"</td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i><a href="/wiki/Doomsday_Prophecy" title="Doomsday Prophecy">Doomsday Prophecy</a></i></td>
+<td>General Slade</td>
+<td>TV film</td>
+</tr>
+<tr>
+<td>2011</td>
+<td><i><a href="/wiki/Person_of_Interest_(TV_series)" title="Person of Interest (TV series)">Person of Interest</a></i></td>
+<td>Kohl</td>
+<td>Episode 1.8: "Foe"</td>
+</tr>
+<tr>
+<td>2011–2012</td>
+<td><i><a href="/wiki/The_Killing_(U.S._TV_series)" title="The Killing (U.S. TV series)">The Killing</a></i></td>
+<td>Senator Eaton</td>
+<td>Six episodes (seasons 1–2)</td>
+</tr>
+<tr>
+<td>2011–2013, 2017</td>
+<td><i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i></td>
+<td>King George/Albert Spencer</td>
+<td>nine episodes (seasons 1–2,6)<br />
+Also narrated the clip show "The Price of Magic"</td>
+</tr>
+<tr>
+<td>2012</td>
+<td><i><a href="/wiki/House_of_Lies" title="House of Lies">House of Lies</a></i></td>
+<td>Jonathan Strauss</td>
+<td>Episode 1.3: "Microphallus"</td>
+</tr>
+<tr>
+<td>2012</td>
+<td><i><a href="/wiki/Unsupervised" title="Unsupervised">Unsupervised</a></i></td>
+<td>Sid</td>
+<td>Episode 1.9: "Jesse Judge Lawncare Incorporated"</td>
+</tr>
+<tr>
+<td>2012</td>
+<td><i>Beauty and the Beast</i></td>
+<td>Emperor Dorian</td>
+<td>Episode 1.1: "Pilot"; series not picked up<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></td>
+</tr>
+<tr>
+<td>2012-2013</td>
+<td><i><a href="/wiki/Hot_in_Cleveland" title="Hot in Cleveland">Hot in Cleveland</a></i></td>
+<td>Sir Emmett Lawson</td>
+<td>Eight episodes</td>
+</tr>
+<tr>
+<td>2013</td>
+<td><i><a href="/wiki/Body_of_Proof" title="Body of Proof">Body of Proof</a></i></td>
+<td>Emmett Harrington</td>
+<td>Episode 3.12: "Breakout"<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></td>
+</tr>
+<tr>
+<td>2013</td>
+<td><i><a href="/wiki/The_Mindy_Project" title="The Mindy Project">The Mindy Project</a></i></td>
+<td>Alfred</td>
+<td>Episode 2.5: "Sk8er Man"<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></td>
+</tr>
+<tr>
+<td>2013</td>
+<td><i>Auckland Daze</i></td>
+<td>Alan/Himself</td>
+<td>Three episodes</td>
+</tr>
+<tr>
+<td>2014</td>
+<td><i><a href="/wiki/Dominion_(TV_series)" title="Dominion (TV series)">Dominion</a></i></td>
+<td>General Edward Riesen</td>
+<td>Main cast</td>
+</tr>
+<tr>
+<td>2015</td>
+<td><i>Top Coppers</i></td>
+<td>Frank</td>
+<td>Episode 1.1: "The Chill of the Cockney Freezer"</td>
+</tr>
+<tr>
+<td>2016</td>
+<td><i><a href="/wiki/Secret_City_(TV_series)" title="Secret City (TV series)">Secret City</a></i></td>
+<td>Prime Minister Martin Toohey</td>
+<td>Main Cast</td>
+</tr>
+<tr>
+<td>2017</td>
+<td><i><a href="/wiki/Homeland_(TV_series)" title="Homeland (TV series)">Homeland</a></i></td>
+<td>President Morse</td>
+<td>Episode 6.6: "The Return"<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Video_games">Video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=10" title="Edit section: Video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tr>
+<th>Year</th>
+<th>Title</th>
+<th>Role</th>
+</tr>
+<tr>
+<td>2002</td>
+<td><i><a href="/wiki/X-Men:_Next_Dimension" title="X-Men: Next Dimension">X-Men: Next Dimension</a></i></td>
+<td>Additional voices</td>
+</tr>
+<tr>
+<td>2004</td>
+<td><i><a href="/wiki/EverQuest_II" title="EverQuest II">EverQuest II</a></i></td>
+<td>Dawson Magnificent, Generic High Elf</td>
+</tr>
+<tr>
+<td>2005</td>
+<td><i><a href="/wiki/Yakuza_(video_game)" title="Yakuza (video game)">Yakuza</a></i></td>
+<td>Masa Sera</td>
+</tr>
+<tr>
+<td>2006</td>
+<td><i><a href="/wiki/24:_The_Game" title="24: The Game">24: The Game</a></i></td>
+<td>Vice President Jim Prescott</td>
+</tr>
+<tr>
+<td>2012</td>
+<td><i><a href="/wiki/Mass_Effect_3" title="Mass Effect 3">Mass Effect 3</a></i></td>
+<td>Henry Lawson<br />
+Captain Aaron Sommers</td>
+</tr>
+<tr>
+<td>2013</td>
+<td><i><a href="/wiki/The_Bureau:_XCOM_Declassified" title="The Bureau: XCOM Declassified">The Bureau: XCOM Declassified</a></i></td>
+<td>Dr. Alan Weir</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Theatre">Theatre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=11" title="Edit section: Theatre">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Spamalot" title="Spamalot">Spamalot</a></i> (2008) – <a href="/wiki/King_Arthur" title="King Arthur">King Arthur</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-sydney-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-sydney_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sydney_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-sydney_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-sydney_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-sydney_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-sydney_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-sydney_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-sydney_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-sydney_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-sydney_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-sydney_1-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-sydney_1-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-sydney_1-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-sydney_1-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-sydney_1-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-sydney_1-15"><sup><i><b>p</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Dale, Alan (1 June 2008). "In My Own Words". <i><a href="/wiki/The_Daily_Telegraph_(Australia)" title="The Daily Telegraph (Australia)">The Sunday Telegraph Magazine</a></i>. p.&#160;013.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=In+My+Own+Words&amp;rft.aufirst=Alan&amp;rft.aulast=Dale&amp;rft.date=2008-06-01&amp;rft.genre=article&amp;rft.jtitle=The+Sunday+Telegraph+Magazine&amp;rft.pages=013&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-twenty-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-twenty_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-twenty_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-twenty_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-twenty_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-twenty_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-twenty_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-twenty_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-twenty_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-twenty_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-twenty_2-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-twenty_2-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-twenty_2-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-twenty_2-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-twenty_2-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-twenty_2-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-twenty_2-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-twenty_2-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-twenty_2-17"><sup><i><b>r</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Roger Foss (10 March 2008). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110517105003/http://www.whatsonstage.com/index.php?pg=207&amp;story=E8821205155127">"20 Questions With ... Alan Dale"</a>. <i>What's on Stage</i>. Archived from <a rel="nofollow" class="external text" href="http://www.whatsonstage.com/index.php?pg=207&amp;story=E8821205155127">the original</a> on 17 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">24 April</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=20+Questions+With+...+Alan+Dale&amp;rft.au=Roger+Foss&amp;rft.date=2008-03-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.whatsonstage.com%2Findex.php%3Fpg%3D207%26story%3DE8821205155127&amp;rft.jtitle=What%27s+on+Stage&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">"Celebrity birthdays". <i><a href="/wiki/The_Hamilton_Spectator" title="The Hamilton Spectator">The Hamilton Spectator</a></i>. 6 May 2008. p.&#160;G02.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Celebrity+birthdays&amp;rft.date=2008-05-06&amp;rft.genre=article&amp;rft.jtitle=The+Hamilton+Spectator&amp;rft.pages=G02&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-times-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-times_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-times_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-times_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-times_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-times_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-times_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-times_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-times_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-times_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-times_4-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-times_4-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-times_4-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-times_4-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-times_4-13"><sup><i><b>n</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Bruce Dessau (8 March 2008). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100530111240/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/stage/theatre/article3483853.ece">"Alan Dale: the journey from Neighbours to king of Spamalot"</a>. <i>The Times</i>. UK. Archived from <a rel="nofollow" class="external text" href="http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/stage/theatre/article3483853.ece">the original</a> on 30 May 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Alan+Dale%3A+the+journey+from+Neighbours+to+king+of+Spamalot&amp;rft.au=Bruce+Dessau&amp;rft.date=2008-03-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fentertainment.timesonline.co.uk%2Ftol%2Farts_and_entertainment%2Fstage%2Ftheatre%2Farticle3483853.ece&amp;rft.jtitle=The+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nz-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-nz_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nz_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nz_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nz_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-nz_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-nz_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-nz_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-nz_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-nz_5-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Barry, Rebecca (15 February 2007). <a rel="nofollow" class="external text" href="http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&amp;objectid=10424025">"Alan Dale shares his Hollywood highs and heartbreak"</a>. <i><a href="/wiki/New_Zealand_Herald" class="mw-redirect" title="New Zealand Herald">New Zealand Herald</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Alan+Dale+shares+his+Hollywood+highs+and+heartbreak&amp;rft.aufirst=Rebecca&amp;rft.aulast=Barry&amp;rft.date=2007-02-15&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nzherald.co.nz%2Fentertainment%2Fnews%2Farticle.cfm%3Fc_id%3D1501119%26objectid%3D10424025&amp;rft.jtitle=New+Zealand+Herald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-metro-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-metro_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-metro_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-metro_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Williams, Andrew (5 March 2008). <a rel="nofollow" class="external text" href="http://www.metro.co.uk/fame/interviews/article.html?in_article_id=111418&amp;in_page_id=11">"Neighbours star slams US sausage"</a>. <i>Metro</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Neighbours+star+slams+US+sausage&amp;rft.aufirst=Andrew&amp;rft.aulast=Williams&amp;rft.date=2008-03-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.metro.co.uk%2Ffame%2Finterviews%2Farticle.html%3Fin_article_id%3D111418%26in_page_id%3D11&amp;rft.jtitle=Metro&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-hro-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-hro_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hro_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hro_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hro_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-hro_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Nededog, Jethro (25 August 2011). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/live-feed/losts-alan-dale-lands-abcs-227936">"<span style="padding-left:0.2em;">'</span>Lost's' Alan Dale Lands on ABC's 'Once Upon A Time<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/The_Hollywood_Reporter" title="The Hollywood Reporter">The Hollywood Reporter</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=%27Lost%27s%27+Alan+Dale+Lands+on+ABC%27s+%27Once+Upon+A+Time%27&amp;rft.au=Nededog%2C+Jethro&amp;rft.date=2011-08-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Flive-feed%2Flosts-alan-dale-lands-abcs-227936&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-undercovers-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-undercovers_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-undercovers_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Kate Stanhope (29 October 2010). <a rel="nofollow" class="external text" href="http://www.tvguide.com/News/Undercovers-Alan-Dale-1024911.aspx">"Exclusive: Undercovers Recruits Alan Dale for Recurring Role"</a>. <i><a href="/wiki/TV_Guide" title="TV Guide">TV Guide</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101101205636/http://www.tvguide.com/News/Undercovers-Alan-Dale-1024911.aspx">Archived</a> from the original on 1 November 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Exclusive%3A+Undercovers+Recruits+Alan+Dale+for+Recurring+Role&amp;rft.au=Kate+Stanhope&amp;rft.date=2010-10-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.tvguide.com%2FNews%2FUndercovers-Alan-Dale-1024911.aspx&amp;rft.jtitle=TV+Guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-renaissance-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-renaissance_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-renaissance_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/entertainment/7568616.stm">"Alan Dale joins Moving Wallpaper"</a>. BBC News. 18 August 2008. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090125160641/http://news.bbc.co.uk/1/hi/entertainment/7568616.stm">Archived</a> from the original on 25 January 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">18 August</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Alan+Dale+joins+Moving+Wallpaper&amp;rft.date=2008-08-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fentertainment%2F7568616.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-once-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-once_10-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Ausiello, Michael (25 August 2011). <a rel="nofollow" class="external text" href="http://www.tvline.com/2011/08/once-upon-a-time-alan-dale-lost/">"Exclusive: ABC's Once Upon a Time Gets Lost, Taps Alan Dale For Royal Role"</a>. <i><a href="/wiki/TVLine" title="TVLine">TVLine</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Exclusive%3A+ABC%27s+Once+Upon+a+Time+Gets+Lost%2C+Taps+Alan+Dale+For+Royal+Role&amp;rft.au=Ausiello%2C+Michael&amp;rft.date=2011-08-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.tvline.com%2F2011%2F08%2Fonce-upon-a-time-alan-dale-lost%2F&amp;rft.jtitle=TVLine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Keck, William (13 August 2012). <a rel="nofollow" class="external text" href="http://www.tvguide.com/News/Kecks-Exclusives-Cleveland-1051926.aspx">"Keck's Exclusives: Lost Alum Heads to Cleveland"</a>. <i><a href="/wiki/TV_Guide" title="TV Guide">TV Guide</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Keck%27s+Exclusives%3A+Lost+Alum+Heads+to+Cleveland&amp;rft.au=Keck%2C+William&amp;rft.date=2012-08-13&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.tvguide.com%2FNews%2FKecks-Exclusives-Cleveland-1051926.aspx&amp;rft.jtitle=TV+Guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Harvey, J. (2014-06-19). <a rel="nofollow" class="external text" href="http://community.ew.com/2014/06/19/dominion-premiere-recap/">"<span style="padding-left:0.2em;">'</span>Dominion' premiere recap: Call us 'Legion,' for we're based on that movie"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=%27Dominion%27+premiere+recap%3A+Call+us+%27Legion%2C%27+for+we%27re+based+on+that+movie&amp;rft.au=Harvey%2C+J.&amp;rft.date=2014-06-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcommunity.ew.com%2F2014%2F06%2F19%2Fdominion-premiere-recap%2F&amp;rft.jtitle=Entertainment+Weekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-tattoo-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-tattoo_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tattoo_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Kroll, Justin (30 August 2011). <a rel="nofollow" class="external text" href="http://www.variety.com/article/VR1118042017">"<span style="padding-left:0.2em;">'</span>Dragon Tattoo' inks a latecomer"</a>. <i><a href="/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=%27Dragon+Tattoo%27+inks+a+latecomer&amp;rft.au=Kroll%2C+Justin&amp;rft.date=2011-08-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.variety.com%2Farticle%2FVR1118042017&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ign-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-ign_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ign_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ign_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ign_14-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Goldman, Eric (23 August 2006). <a rel="nofollow" class="external text" href="http://uk.tv.ign.com/articles/727/727513p2.html">"IGN Interview: Alan Dale"</a>. <i><a href="/wiki/IGN" title="IGN">IGN</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 May</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=IGN+Interview%3A+Alan+Dale&amp;rft.aufirst=Eric&amp;rft.aulast=Goldman&amp;rft.date=2006-08-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fuk.tv.ign.com%2Farticles%2F727%2F727513p2.html&amp;rft.jtitle=IGN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Tanner Stransky (13 November 2007). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,20160549,00.html">"<i>Ugly Betty</i>: Dead Meade"</a>. <i>Entertainment Weekly</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080529202926/http://www.ew.com/ew/article/0,,20160549,00.html">Archived</a> from the original on 29 May 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Ugly+Betty%3A+Dead+Meade&amp;rft.au=Tanner+Stransky&amp;rft.date=2007-11-13&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C20160549%2C00.html&amp;rft.jtitle=Entertainment+Weekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-media-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-media_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-media_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Ruby, Jamie (5 May 2010). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110930094413/http://www.mediablvd.com/magazine/alan-dale-on-lost_201005033016.html">"Alan Dale on 'Lost<span style="padding-right:0.2em;">'</span>"</a>. <i>MediaBlvd Magazine</i>. Archived from <a rel="nofollow" class="external text" href="http://www.mediablvd.com/magazine/alan-dale-on-lost_201005033016.html">the original</a> on 30 September 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Alan+Dale+on+%27Lost%27&amp;rft.au=Ruby%2C+Jamie&amp;rft.date=2010-05-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.mediablvd.com%2Fmagazine%2Falan-dale-on-lost_201005033016.html&amp;rft.jtitle=MediaBlvd+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.broadway.com/Ugly-Betty-Star-Alan-Dale-Headed-for-London-Spamalot/broadway_news/559698">"Ugly Betty Star Alan Dale Headed for London Spamalot"</a>. <i>Broadway.com</i>. 28 January 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Ugly+Betty+Star+Alan+Dale+Headed+for+London+Spamalot&amp;rft.date=2008-01-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.broadway.com%2FUgly-Betty-Star-Alan-Dale-Headed-for-London-Spamalot%2Fbroadway_news%2F559698&amp;rft.jtitle=Broadway.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Shenton, Mark (2 June 2008). <a rel="nofollow" class="external text" href="http://www.playbill.com/news/article/118275.html">"London Spamalot Will Welcome New King in June and Close in January 2009"</a>. <i><a href="/wiki/Playbill" title="Playbill">Playbill</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080605030339/http://www.playbill.com/news/article/118275.html">Archived</a> from the original on 5 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">12 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=London+Spamalot+Will+Welcome+New+King+in+June+and+Close+in+January+2009&amp;rft.aufirst=Mark&amp;rft.aulast=Shenton&amp;rft.date=2008-06-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.playbill.com%2Fnews%2Farticle%2F118275.html&amp;rft.jtitle=Playbill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news">Michael Bodey (6 February 2003). "Long trek from Ramsay Street". <i><a href="/wiki/The_Daily_Telegraph_(Australia)" title="The Daily Telegraph (Australia)">The Daily Telegraph</a></i>. p.&#160;T06.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Long+trek+from+Ramsay+Street&amp;rft.au=Michael+Bodey&amp;rft.date=2003-02-06&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.pages=T06&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ident-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-ident_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ident_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Sweney, Mark (30 May 2007). <a rel="nofollow" class="external text" href="https://www.theguardian.com/media/2007/may/30/channel4.broadcasting">"Channel 4 to air 'Jim Robinson' idents"</a>. <i><a href="/wiki/Media_Guardian" class="mw-redirect" title="Media Guardian">Media Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Channel+4+to+air+%27Jim+Robinson%27+idents&amp;rft.aufirst=Mark&amp;rft.aulast=Sweney&amp;rft.date=2007-05-30&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2007%2Fmay%2F30%2Fchannel4.broadcasting&amp;rft.jtitle=Media+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Galer, Kit (18 June 2008). "Ugly hedging your Bettys". <i>Herald Sun</i>. Australia.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Ugly+hedging+your+Bettys&amp;rft.aufirst=Kit&amp;rft.aulast=Galer&amp;rft.date=2008-06-18&amp;rft.genre=article&amp;rft.jtitle=Herald+Sun&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sfx-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-sfx_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sfx_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Nelson, Jayne (2 June 2011). <a rel="nofollow" class="external text" href="http://www.sfx.co.uk/2011/06/02/sf%E2%80%99s-greatest-guest-stars/10/">"SF's Serial Guest Stars"</a>. <i><a href="/wiki/SFX_(magazine)" title="SFX (magazine)">SFX</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=SF%99s+Serial+Guest+Stars&amp;rft.au=Nelson%2C+Jayne&amp;rft.date=2011-06-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sfx.co.uk%2F2011%2F06%2F02%2Fsf%25E2%2580%2599s-greatest-guest-stars%2F10%2F&amp;rft.jtitle=SFX&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Clune, Richard (4 February 2007). "Dale hits big time at age 60". <i><a href="/wiki/The_Daily_Telegraph_(Australia)" title="The Daily Telegraph (Australia)">The Daily Telegraph</a></i>. p.&#160;028.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Dale+hits+big+time+at+age+60&amp;rft.aufirst=Richard&amp;rft.aulast=Clune&amp;rft.date=2007-02-04&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.pages=028&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news">"Amazon.co.uk: Dale's sales thrash ex-<i>Neighbours</i> stars". <i>M2 Presswire</i>. 24 September 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Amazon.co.uk%3A+Dale%27s+sales+thrash+ex-Neighbours+stars&amp;rft.date=2007-09-24&amp;rft.genre=article&amp;rft.jtitle=M2+Presswire&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news">VanDerWerff, Todd (18 April 2011). <a rel="nofollow" class="external text" href="http://latimesblogs.latimes.com/showtracker/2011/04/the-killing-recap-in-which-everybody-has-a-dark-past.html">"<span style="padding-left:0.2em;">'</span>The Killing' recap: In which everybody has a dark past"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=%27The+Killing%27+recap%3A+In+which+everybody+has+a+dark+past&amp;rft.au=VanDerWerff%2C+Todd&amp;rft.date=2011-04-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flatimesblogs.latimes.com%2Fshowtracker%2F2011%2F04%2Fthe-killing-recap-in-which-everybody-has-a-dark-past.html&amp;rft.jtitle=Los+Angeles+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news">Rothing, Hilary (18 April 2011). <a rel="nofollow" class="external text" href="http://www.craveonline.com/tv/reviews/165787-the-killing-104-a-soundless-echo">"The Killing 1.04 'A Soundless Echo<span style="padding-right:0.2em;">'</span>"</a>. <i>CraveOnline</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=The+Killing+1.04+%27A+Soundless+Echo%27&amp;rft.au=Rothing%2C+Hilary&amp;rft.date=2011-04-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.craveonline.com%2Ftv%2Freviews%2F165787-the-killing-104-a-soundless-echo&amp;rft.jtitle=CraveOnline&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news">Ryan, Maureen (17 April 2011). <a rel="nofollow" class="external text" href="http://www.tvsquad.com/2011/04/17/the-killing-season-1-episode-4-recap/">"<span style="padding-left:0.2em;">'</span>The Killing' Season 1, Episode 4 Recap"</a>. <i><a href="/wiki/TV_Squad" class="mw-redirect" title="TV Squad">TV Squad</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=%27The+Killing%27+Season+1%2C+Episode+4+Recap&amp;rft.au=Ryan%2C+Maureen&amp;rft.date=2011-04-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.tvsquad.com%2F2011%2F04%2F17%2Fthe-killing-season-1-episode-4-recap%2F&amp;rft.jtitle=TV+Squad&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-yes-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-yes_28-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Rosen, Christopher (20 October 2008). <a rel="nofollow" class="external text" href="http://www.observer.com/2008/politics/dont-know-alan-dale-yes-you-do">"Don't Know Alan Dale? Yes You Do!"</a>. <i><a href="/wiki/The_New_York_Observer" class="mw-redirect" title="The New York Observer">The New York Observer</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Don%99t+Know+Alan+Dale%3F+Yes+You+Do%21&amp;rft.au=Rosen%2C+Christopher&amp;rft.date=2008-10-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.observer.com%2F2008%2Fpolitics%2Fdont-know-alan-dale-yes-you-do&amp;rft.jtitle=The+New+York+Observer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation news">Rawson-Jones, Ben (8 March 2009). <a rel="nofollow" class="external text" href="http://www.digitalspy.co.uk/ustv/s10/lost/news/a148222/all-hail-the-mighty-alan-dale.html">"All hail the mighty Alan Dale!"</a>. <a href="/wiki/Digital_Spy" title="Digital Spy">Digital Spy</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=All+hail+the+mighty+Alan+Dale%21&amp;rft.au=Rawson-Jones%2C+Ben&amp;rft.date=2009-03-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Fustv%2Fs10%2Flost%2Fnews%2Fa148222%2Fall-hail-the-mighty-alan-dale.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-tvguide-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-tvguide_30-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tvguide.com/celebrities/alan-dale/bio/138509">"Alan Dale: Biography"</a>. <i><a href="/wiki/TV_Guide" title="TV Guide">TV Guide</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080726153425/http://www.tvguide.com/celebrities/alan-dale/bio/138509">Archived</a> from the original on 26 July 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">12 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Alan+Dale%3A+Biography&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tvguide.com%2Fcelebrities%2Falan-dale%2Fbio%2F138509&amp;rft.jtitle=TV+Guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-hollywood-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-hollywood_31-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hollywood.com/celebrity/Alan_Dale/1239558">"Alan Dale"</a>. <i>Hollywood.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Alan+Dale&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hollywood.com%2Fcelebrity%2FAlan_Dale%2F1239558&amp;rft.jtitle=Hollywood.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm1035261/">"Michael Dale"</a>. <a href="/wiki/Internet_Movie_Database" class="mw-redirect" title="Internet Movie Database">Internet Movie Database</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.btitle=Michael+Dale&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm1035261%2F&amp;rft.pub=Internet+Movie+Database&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fr-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-fr_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fr_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.filmreference.com/film/93/Alan-Dale.html">"Alan Dale Biography (1947–)"</a>. <i>Film Reference</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Alan+Dale+Biography+%281947%93%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.filmreference.com%2Ffilm%2F93%2FAlan-Dale.html&amp;rft.jtitle=Film+Reference&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cruisy-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-cruisy_34-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Agostino, Josephine (26 May 2008). <a rel="nofollow" class="external text" href="http://womansday.ninemsn.com.au/article.aspx?id=568259">"Alan Dale's life is cruisy"</a>. <i>Woman's Day</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080529230559/http://womansday.ninemsn.com.au/article.aspx?id=568259">Archived</a> from the original on 29 May 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">28 June</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Alan+Dale%27s+life+is+cruisy&amp;rft.aufirst=Josephine&amp;rft.aulast=Agostino&amp;rft.date=2008-05-26&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwomansday.ninemsn.com.au%2Farticle.aspx%3Fid%3D568259&amp;rft.jtitle=Woman%27s+Day&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.stuff.co.nz/entertainment/celebrities/4587795/Actor-sells-1-25m-Waiwera-home">"Actor sells $1.25m Waiwera home"</a>. <i>Stuff.co.nz</i>. 27 January 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Actor+sells+%241.25m+Waiwera+home&amp;rft.date=2011-01-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.stuff.co.nz%2Fentertainment%2Fcelebrities%2F4587795%2FActor-sells-1-25m-Waiwera-home&amp;rft.jtitle=Stuff.co.nz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation news">Brown, Todd (2013-05-31). <a rel="nofollow" class="external text" href="http://twitchfilm.com/2013/05/meet-robert-redfords-shield-team-from-captain-america-the-winter-soldier.html">"Meet Robert Redford's S.H.I.E.L.D. Team From CAPTAIN AMERICA: THE WINTER SOLDIER"</a>. <i>twitch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Meet+Robert+Redford%27s+S.H.I.E.L.D.+Team+From+CAPTAIN+AMERICA%3A+THE+WINTER+SOLDIER&amp;rft.au=Brown%2C+Todd&amp;rft.date=2013-05-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftwitchfilm.com%2F2013%2F05%2Fmeet-robert-redfords-shield-team-from-captain-america-the-winter-soldier.html&amp;rft.jtitle=twitch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation news">McNary, Dave (2013-07-18). <a rel="nofollow" class="external text" href="http://variety.com/2013/film/news/sony-acquires-alexia-fast-horror-pic-grace-1200564945/">"Sony Acquires Alexia Fast Horror Pic 'Grace<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Sony+Acquires+Alexia+Fast+Horror+Pic+%98Grace%99&amp;rft.au=McNary%2C+Dave&amp;rft.date=2013-07-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvariety.com%2F2013%2Ffilm%2Fnews%2Fsony-acquires-alexia-fast-horror-pic-grace-1200564945%2F&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation news">Levine, Stuart (9 March 2012). <a rel="nofollow" class="external text" href="http://www.variety.com/article/VR1118051300">"<span style="padding-left:0.2em;">'</span>Lost' actor Alan Dale joins ABC's 'Beast<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=%27Lost%27+actor+Alan+Dale+joins+ABC%27s+%27Beast%27&amp;rft.au=Levine%2C+Stuart&amp;rft.date=2012-03-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.variety.com%2Farticle%2FVR1118051300&amp;rft.jtitle=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation news">Cummins, Steve (22 June 2012). <a rel="nofollow" class="external text" href="http://www.iftn.ie/news/?act1=record&amp;aid=73&amp;rid=4285068&amp;tpl=archnews&amp;only=1">"Ruth Bradley Signs US Deal with ABC Studios"</a>. IFTN<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Ruth+Bradley+Signs+US+Deal+with+ABC+Studios&amp;rft.au=Cummins%2C+Steve&amp;rft.date=2012-06-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.iftn.ie%2Fnews%2F%3Fact1%3Drecord%26aid%3D73%26rid%3D4285068%26tpl%3Darchnews%26only%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://tv.broadwayworld.com/article/Scoop-BODY-OF-PROOF-on-ABC-Tuesday-March-19-2013-20130304">"Scoop: BODY OF PROOF on ABC - Tuesday, March 19, 2013"</a>. BroadwayWorld. 2013-03-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Scoop%3A+BODY+OF+PROOF+on+ABC+-+Tuesday%2C+March+19%2C+2013&amp;rft.date=2013-03-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftv.broadwayworld.com%2Farticle%2FScoop-BODY-OF-PROOF-on-ABC-Tuesday-March-19-2013-20130304&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation news">Faria, Sonya (2013-10-01). <a rel="nofollow" class="external text" href="http://www.hypable.com/2013/10/01/mindy-project-season-2-episode-5-sk8er-man-synopsis-released/">"<span style="padding-left:0.2em;">'</span>The Mindy Project' season 2, episode 5 'Sk8er Man' synopsis released"</a>. hypable<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=%98The+Mindy+Project%99+season+2%2C+episode+5+%98Sk8er+Man%99+synopsis+released&amp;rft.au=Faria%2C+Sonya&amp;rft.date=2013-10-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hypable.com%2F2013%2F10%2F01%2Fmindy-project-season-2-episode-5-sk8er-man-synopsis-released%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation news">Riccio, Aaron (2017-02-26). <a rel="nofollow" class="external text" href="http://www.slantmagazine.com/house/article/homeland-recap-season-6-episode-6-the-return">"Homeland Recap Season 6, Episode 6, "The Return<span style="padding-right:0.2em;">"</span>"</a>. Slant Magazine.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Dale&amp;rft.atitle=Homeland+Recap+Season+6%2C+Episode+6%2C+%22The+Return%22&amp;rft.au=Riccio%2C+Aaron&amp;rft.date=2017-02-26&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.slantmagazine.com%2Fhouse%2Farticle%2Fhomeland-recap-season-6-episode-6-the-return&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Dale&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0197638/">Alan Dale</a> at the <a href="/wiki/IMDb" title="IMDb">Internet Movie Database</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/29340404">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/29340404">29340404</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/no2008060149">no2008060149</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/1019893621">1019893621</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb16959340t">cb16959340t</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb16959340t">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2136
+Cached time: 20170421042753
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.568 seconds
+Real time usage: 0.653 seconds
+Preprocessor visited node count: 3582/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 76987/2097152 bytes
+Template argument size: 2499/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.253/10.000 seconds
+Lua memory usage: 5.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  572.939      1 -total
+ 49.13%  281.506      1 Template:Reflist
+ 33.21%  190.247     38 Template:Cite_news
+ 15.88%   90.975      1 Template:Infobox_person
+  8.31%   47.621      1 Template:Infobox
+  5.27%   30.192      1 Template:Tone
+  4.53%   25.931      1 Template:Ambox
+  4.43%   25.390      2 Template:Main_other
+  4.36%   25.001      1 Template:IMDb_name
+  3.86%   22.135      4 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1022518-0!*!0!!en!4!* and timestamp 20170421042752 and revision id 773124721
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alan_Dale&amp;oldid=773124721">https://en.wikipedia.org/w/index.php?title=Alan_Dale&amp;oldid=773124721</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1947_births" title="Category:1947 births">1947 births</a></li><li><a href="/wiki/Category:20th-century_New_Zealand_male_actors" title="Category:20th-century New Zealand male actors">20th-century New Zealand male actors</a></li><li><a href="/wiki/Category:21st-century_New_Zealand_male_actors" title="Category:21st-century New Zealand male actors">21st-century New Zealand male actors</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:New_Zealand_male_video_game_actors" title="Category:New Zealand male video game actors">New Zealand male video game actors</a></li><li><a href="/wiki/Category:New_Zealand_male_film_actors" title="Category:New Zealand male film actors">New Zealand male film actors</a></li><li><a href="/wiki/Category:New_Zealand_male_television_actors" title="Category:New Zealand male television actors">New Zealand male television actors</a></li><li><a href="/wiki/Category:New_Zealand_male_musical_theatre_actors" title="Category:New Zealand male musical theatre actors">New Zealand male musical theatre actors</a></li><li><a href="/wiki/Category:People_from_Dunedin" title="Category:People from Dunedin">People from Dunedin</a></li><li><a href="/wiki/Category:People_from_Sydney" title="Category:People from Sydney">People from Sydney</a></li><li><a href="/wiki/Category:Actors_from_Manhattan_Beach,_California" title="Category:Actors from Manhattan Beach, California">Actors from Manhattan Beach, California</a></li><li><a href="/wiki/Category:New_Zealand_expatriates_in_the_United_States" title="Category:New Zealand expatriates in the United States">New Zealand expatriates in the United States</a></li><li><a href="/wiki/Category:New_Zealand_expatriates_in_Australia" title="Category:New Zealand expatriates in Australia">New Zealand expatriates in Australia</a></li><li><a href="/wiki/Category:New_Zealand_male_voice_actors" title="Category:New Zealand male voice actors">New Zealand male voice actors</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_style_editing_from_April_2016" title="Category:Wikipedia articles needing style editing from April 2016">Wikipedia articles needing style editing from April 2016</a></li><li><a href="/wiki/Category:All_articles_needing_style_editing" title="Category:All articles needing style editing">All articles needing style editing</a></li><li><a href="/wiki/Category:Use_New_Zealand_English_from_January_2013" title="Category:Use New Zealand English from January 2013">Use New Zealand English from January 2013</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_New_Zealand_English" title="Category:All Wikipedia articles written in New Zealand English">All Wikipedia articles written in New Zealand English</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2013" title="Category:Use dmy dates from January 2013">Use dmy dates from January 2013</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alan+Dale" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alan+Dale" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Alan_Dale"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Alan_Dale"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Alan_Dale" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Alan_Dale&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Alan_Dale&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alan_Dale" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alan_Dale" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Alan_Dale&amp;oldid=773124721" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Alan_Dale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q350194" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alan_Dale&amp;id=773124721" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Alan+Dale">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Alan+Dale&amp;returnto=Alan+Dale&amp;oldid=773124721&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alan_Dale&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D1%8A%D0%BD_%D0%94%D0%B5%D0%B9%D0%BB" title="Алън Дейл – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D9%86_%D8%AF%D8%A7%D9%84%D9%87" title="الن داله – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%A8%EB%9F%B0_%EB%8D%B0%EC%9D%BC" title="앨런 데일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%AC%D5%A1%D5%B6_%D4%B4%D5%A5%D5%B5%D5%AC" title="Ալան Դեյլ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Alan_Dale_(acteur)" title="Alan Dale (acteur) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%87%E3%82%A4%E3%83%AB" title="アラン・デイル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D1%8D%D0%B9%D0%BB,_%D0%90%D0%BB%D0%B0%D0%BD" title="Дэйл, Алан – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%A5%E0%B8%B1%E0%B8%99_%E0%B9%80%E0%B8%94%E0%B8%A5" title="อลัน เดล – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Alan_Dale" title="Alan Dale – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%BD_%D0%94%D0%B5%D0%B9%D0%BB" title="Алан Дейл – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E8%98%AD%C2%B7%E6%88%B4%E7%88%BE" title="阿蘭·戴爾 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q350194#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 March 2017, at 13:19.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alan_Dale&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.568","walltime":"0.653","ppvisitednodes":{"value":3582,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":76987,"limit":2097152},"templateargumentsize":{"value":2499,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  572.939      1 -total"," 49.13%  281.506      1 Template:Reflist"," 33.21%  190.247     38 Template:Cite_news"," 15.88%   90.975      1 Template:Infobox_person","  8.31%   47.621      1 Template:Infobox","  5.27%   30.192      1 Template:Tone","  4.53%   25.931      1 Template:Ambox","  4.43%   25.390      2 Template:Main_other","  4.36%   25.001      1 Template:IMDb_name","  3.86%   22.135      4 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.253","limit":"10.000"},"limitreport-memusage":{"value":5594406,"limit":52428800}},"cachereport":{"origin":"mw2136","timestamp":"20170421042753","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw2110"});});</script>
+	</body>
+</html>

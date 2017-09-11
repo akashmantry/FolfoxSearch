@@ -1,0 +1,1092 @@
+https://en.wikipedia.org/wiki/1993_Bishopsgate_bombing
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1993 Bishopsgate bombing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1993_Bishopsgate_bombing","wgTitle":"1993 Bishopsgate bombing","wgCurRevisionId":776905317,"wgRevisionId":776905317,"wgArticleId":14478554,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Use British English from May 2013","Use dmy dates from May 2013","Good articles","Coordinates on Wikidata","1993 in London","Terrorist incidents in 1993","Car and truck bombings in England","Murder in 1993","Terrorist incidents in the United Kingdom","1993 crimes in the United Kingdom","Explosions in 1993","Explosions in London","History of the City of London","Provisional Irish Republican Army actions in London","April 1993 events"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1993_Bishopsgate_bombing","wgRelevantArticleId":14478554,"wgRequestId":"WP1YPArAIFEAAJepGcgAAABU","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.5156,"lon":-0.0822},"wgWikibaseItemId":"Q4352718","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/b/b1/IRA_Bishopsgate.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1993_Bishopsgate_bombing"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1993_Bishopsgate_bombing"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1993_Bishopsgate_bombing rootpage-1993_Bishopsgate_bombing skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-good-star" class="mw-indicator"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" width="19" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1993 Bishopsgate bombing</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%;">1993 Bishopsgate bombing</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">Part of <a href="/wiki/The_Troubles" title="The Troubles">The Troubles</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:IRA_Bishopsgate.JPG" class="image"><img alt="IRA Bishopsgate.JPG" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b1/IRA_Bishopsgate.JPG/220px-IRA_Bishopsgate.JPG" width="220" height="160" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b1/IRA_Bishopsgate.JPG/330px-IRA_Bishopsgate.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b1/IRA_Bishopsgate.JPG/440px-IRA_Bishopsgate.JPG 2x" data-file-width="454" data-file-height="330" /></a>
+<div><a href="/wiki/Wormwood_Street" title="Wormwood Street">Wormwood Street</a> pictured in the aftermath of the bombing which occurred on nearby Bishopsgate</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="location"><a href="/wiki/Bishopsgate" title="Bishopsgate">Bishopsgate</a>, London, United Kingdom</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=1993_Bishopsgate_bombing&amp;params=51.5156_N_-0.0822_E_type:event_region:GB-LND"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°30′56″N</span> <span class="longitude">0°04′56″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.5156°N 0.0822°W</span><span style="display:none">﻿ / <span class="geo">51.5156; -0.0822</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=1993_Bishopsgate_bombing&amp;params=51.5156_N_-0.0822_E_type:event_region:GB-LND"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°30′56″N</span> <span class="longitude">0°04′56″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.5156°N 0.0822°W</span><span style="display:none">﻿ / <span class="geo">51.5156; -0.0822</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row">Date</th>
+<td>24 April 1993<br />
+10:27&#160;am (GMT)</td>
+</tr>
+<tr>
+<th scope="row">Target</th>
+<td>London's primary financial district</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Attack type</div>
+</th>
+<td><a href="/wiki/Car_bomb" title="Car bomb">Truck bomb</a></td>
+</tr>
+<tr>
+<th scope="row">Deaths</th>
+<td>1</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Non-fatal injuries</div>
+</th>
+<td>44</td>
+</tr>
+<tr>
+<th scope="row">Perpetrators</th>
+<td><a href="/wiki/Provisional_Irish_Republican_Army" title="Provisional Irish Republican Army">Provisional Irish Republican Army</a></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="The_Troubles" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Northern_Ireland_Troubles" title="Template:Campaignbox Northern Ireland Troubles"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Northern_Ireland_Troubles" title="Template talk:Campaignbox Northern Ireland Troubles"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Northern_Ireland_Troubles&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="The_Troubles" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/The_Troubles" title="The Troubles">The Troubles</a></span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div>
+<p><i><b><a href="/wiki/Ireland" title="Ireland">Ireland</a></b></i><br />
+<b>1969</b></p>
+<ul>
+<li><a href="/wiki/Battle_of_the_Bogside" title="Battle of the Bogside">Battle of the Bogside</a></li>
+<li><a href="/wiki/1969_Northern_Ireland_riots" title="1969 Northern Ireland riots">August 1969 riots</a></li>
+</ul>
+<p><b>1970</b></p>
+<ul>
+<li><a href="/wiki/Battle_of_St_Matthew%27s" title="Battle of St Matthew's">Battle of St Matthew's</a></li>
+<li><a href="/wiki/Falls_Curfew" title="Falls Curfew">Falls Curfew</a></li>
+<li><a href="/wiki/1970_RUC_booby-trap_bombing" title="1970 RUC booby-trap bombing">1970 RUC booby-trap bombing</a></li>
+</ul>
+<p><b>1971</b></p>
+<ul>
+<li><a href="/wiki/Burning_of_the_Burning_Embers_pub" title="Burning of the Burning Embers pub">Official IRA Clubs attacked</a></li>
+<li><a href="/wiki/1971_Scottish_soldiers%27_killings" title="1971 Scottish soldiers' killings">Scottish soldiers' killings</a></li>
+<li><a href="/wiki/Operation_Demetrius" title="Operation Demetrius">Operation Demetrius</a></li>
+<li><a href="/wiki/Ballymurphy_massacre" title="Ballymurphy massacre">Ballymurphy massacre</a></li>
+<li><a href="/wiki/1971_Newry_Killings" class="mw-redirect" title="1971 Newry Killings">Newry Killings</a></li>
+<li><a href="/wiki/McGurk%27s_Bar_bombing" title="McGurk's Bar bombing">McGurk's bombing</a></li>
+<li><a href="/wiki/1971_Balmoral_Furniture_Company_bombing" title="1971 Balmoral Furniture Company bombing">Balmoral showroom bombing</a></li>
+</ul>
+<p><b>1972</b></p>
+<ul>
+<li><a href="/wiki/Bloody_Sunday_(1972)" title="Bloody Sunday (1972)">Bloody Sunday</a></li>
+<li><a href="/wiki/Abercorn_Restaurant_bombing" title="Abercorn Restaurant bombing">Abercorn bombing</a></li>
+<li><a href="/wiki/1972_Donegall_Street_bombing" title="1972 Donegall Street bombing">Donegall St bombing</a></li>
+<li><a href="/wiki/Battle_at_Springmartin" title="Battle at Springmartin">Battle at Springmartin</a></li>
+<li><a href="/wiki/Battle_of_Lenadoon" title="Battle of Lenadoon">Battle of Lenadoon Avenue</a></li>
+<li><a href="/wiki/Springhill_Massacre" title="Springhill Massacre">Springhill massacre</a></li>
+<li><a href="/wiki/Bloody_Friday_(1972)" title="Bloody Friday (1972)">Bloody Friday</a></li>
+<li><a href="/wiki/Operation_Motorman" title="Operation Motorman">Operation Motorman</a></li>
+<li><a href="/wiki/Claudy_bombing" title="Claudy bombing">Claudy bombing</a></li>
+<li><a href="/wiki/Benny%27s_Bar_bombing" title="Benny's Bar bombing">Benny's bombing</a></li>
+<li><a href="/wiki/Belturbet_bombing" title="Belturbet bombing">Belturbet bombing</a></li>
+<li><a href="/wiki/1972_and_1973_Dublin_bombings" title="1972 and 1973 Dublin bombings">Dublin bombings</a></li>
+</ul>
+<p><b>1973</b></p>
+<ul>
+<li><a href="/wiki/New_Lodge_Six_shooting" title="New Lodge Six shooting">New Lodge Six shooting</a></li>
+<li><a href="/wiki/1973_Coleraine_bombings" title="1973 Coleraine bombings">Coleraine bombings</a></li>
+<li><a href="/wiki/Paddy_Wilson_and_Irene_Andrews_killings" title="Paddy Wilson and Irene Andrews killings">Paddy Wilson and Irene Andrews</a></li>
+<li><a href="/wiki/1973_Mountjoy_Prison_helicopter_escape" class="mw-redirect" title="1973 Mountjoy Prison helicopter escape">Mountjoy Helicopter Escape</a></li>
+</ul>
+<p><b>1974</b></p>
+<ul>
+<li><a href="/wiki/Ulster_Workers%27_Council_strike" title="Ulster Workers' Council strike">UWC strike</a></li>
+<li><a href="/wiki/Rose_%26_Crown_Bar_bombing" title="Rose &amp; Crown Bar bombing">Rose &amp; Crown Bar bombing</a></li>
+<li><a href="/wiki/Dublin_and_Monaghan_bombings" title="Dublin and Monaghan bombings">Dublin-Monaghan bombings</a></li>
+<li><a href="/wiki/Murder_of_Ann_Ogilby" title="Murder of Ann Ogilby">UDA Killing of Ann Ogilby</a></li>
+</ul>
+<p><b>1975</b></p>
+<ul>
+<li><a href="/wiki/Mountainview_Tavern_bombing_1975" title="Mountainview Tavern bombing 1975">Mountainview Tavern attack</a></li>
+<li><a href="/wiki/Miami_Showband_killings" title="Miami Showband killings">Miami Showband killings</a></li>
+<li><a href="/wiki/Bayardo_Bar_attack" title="Bayardo Bar attack">Bayardo Bar</a></li>
+<li><a href="/wiki/Belfast_and_Coleraine_attacks,_1975" title="Belfast and Coleraine attacks, 1975">Belfast and Coleraine attacks</a></li>
+<li><a href="/wiki/Drummuckavall_Ambush" title="Drummuckavall Ambush">Drummuckavall ambush</a></li>
+<li><a href="/wiki/Dublin_Airport_bombing_1975" class="mw-redirect" title="Dublin Airport bombing 1975">Dublin Airport bomb</a></li>
+</ul>
+<p><b>1976</b></p>
+<ul>
+<li><a href="/wiki/Reavey_and_O%27Dowd_killings" title="Reavey and O'Dowd killings">Reavey-O'Dowd killings</a></li>
+<li><a href="/wiki/Kingsmill_massacre" title="Kingsmill massacre">Kingsmill massacre</a></li>
+<li><a href="/wiki/Hillcrest_Bar_bombing" title="Hillcrest Bar bombing">Hillcrest Bar bombing</a></li>
+<li><a href="/wiki/Flagstaff_hill_incident" title="Flagstaff hill incident">Flagstaff incident</a></li>
+<li><a href="/wiki/Chlorane_Bar_attack" title="Chlorane Bar attack">Chlorane Bar</a></li>
+<li><a href="/wiki/Ramble_Inn_attack" title="Ramble Inn attack">Ramble Inn</a></li>
+<li><a href="/wiki/1976_Step_Inn_Pub_bombing" class="mw-redirect" title="1976 Step Inn Pub bombing">Step Inn bombing</a></li>
+</ul>
+<p><b>1977</b></p>
+<ul>
+<li><a href="/wiki/Robert_Nairac" title="Robert Nairac">Robert Nairac killing</a></li>
+</ul>
+<p><b>1978</b></p>
+<ul>
+<li><a href="/wiki/1978_British_Army_Gazelle_downing" title="1978 British Army Gazelle downing">Jonesboro <i>Gazelle</i> downing</a></li>
+<li><a href="/wiki/La_Mon_restaurant_bombing" title="La Mon restaurant bombing">La Mon bombing</a></li>
+</ul>
+<p><b>1979</b></p>
+<ul>
+<li><a href="/wiki/1979_Bessbrook_bombing" title="1979 Bessbrook bombing">Bessbrook bombing</a></li>
+<li><a href="/wiki/Warrenpoint_ambush" title="Warrenpoint ambush">Warrenpoint ambush</a></li>
+</ul>
+<p><b>1980</b></p>
+<ul>
+<li><a href="/wiki/Herbert_Westmacott" title="Herbert Westmacott">M60 Gang</a></li>
+<li><a href="/wiki/Dunmurry_train_bombing" title="Dunmurry train bombing">Dunmurry bombing</a></li>
+</ul>
+<p><b>1981</b></p>
+<ul>
+<li><a href="/wiki/Attacks_on_shipping_in_Lough_Foyle_(1981%E2%80%931982)" class="mw-redirect" title="Attacks on shipping in Lough Foyle (1981–1982)">Lough Foyle</a></li>
+<li><a href="/wiki/Bessbrook_Landmine_Attack" class="mw-redirect" title="Bessbrook Landmine Attack">Bessbrook Landmine Attack</a></li>
+<li><a href="/wiki/Glasdrumman_ambush" title="Glasdrumman ambush">Glasdrumman ambush</a></li>
+</ul>
+<p><b>1982</b></p>
+<ul>
+<li><a href="/wiki/Droppin_Well_bombing" title="Droppin Well bombing">Ballykelly bombing</a></li>
+</ul>
+<p><b>1983</b></p>
+<ul>
+<li><a href="/wiki/Ballygawley_Land_Mine_Attack" class="mw-redirect" title="Ballygawley Land Mine Attack">Ballygawley land mine</a></li>
+<li><a href="/wiki/Maze_Prison_escape" title="Maze Prison escape">Maze Prison escape</a></li>
+<li><a href="/wiki/Darkley_killings" title="Darkley killings">Darkley killings</a></li>
+<li><a href="/wiki/UDR_Four#Murder_of_Adrian_Carroll" title="UDR Four">Adrian Carroll Murder &amp; UDR4</a></li>
+</ul>
+<p><b>1985</b></p>
+<ul>
+<li><a href="/wiki/1985_Newry_mortar_attack" title="1985 Newry mortar attack">Newry barracks</a></li>
+<li><a href="/wiki/Attack_on_Ballygawley_barracks" title="Attack on Ballygawley barracks">Ballygawley barracks</a></li>
+</ul>
+<p><b>1986</b></p>
+<ul>
+<li><a href="/wiki/Clontibret_invasion" title="Clontibret invasion">Clontibret invasion</a></li>
+<li><a href="/wiki/Attack_on_RUC_Birches_barracks" title="Attack on RUC Birches barracks">The Birches barracks</a></li>
+</ul>
+<p><b>1987</b></p>
+<ul>
+<li><a href="/wiki/Loughgall_ambush" title="Loughgall ambush">Loughgall ambush</a></li>
+<li><a href="/wiki/Remembrance_Day_bombing" title="Remembrance Day bombing">Enniskillen bombing</a></li>
+</ul>
+<p><b>1988</b></p>
+<ul>
+<li><a href="/wiki/Milltown_Cemetery_attack" title="Milltown Cemetery attack">Milltown Cemetery</a></li>
+<li><a href="/wiki/Corporals_killings" title="Corporals killings">Corporals killings</a></li>
+<li><a href="/wiki/Avenue_Bar_shooting" title="Avenue Bar shooting">Avenue Bar shooting</a></li>
+<li><a href="/wiki/1988_Lisburn_van_bombing" title="1988 Lisburn van bombing">Lisburn van bombing</a></li>
+<li><a href="/wiki/Ballygawley_bus_bombing" title="Ballygawley bus bombing">Ballygawley bus bombing</a></li>
+</ul>
+<p><b>1989</b></p>
+<ul>
+<li><a href="/wiki/Pat_Finucane" title="Pat Finucane">Murder of Pat Finucane</a></li>
+<li><a href="/wiki/Orange_Cross_Social_Club_shooting" title="Orange Cross Social Club shooting">Orange Cross shooting</a></li>
+<li><a href="/wiki/1989_Jonesborough_ambush" title="1989 Jonesborough ambush">Jonesborough ambush</a></li>
+<li><a href="/wiki/Attack_on_Derryard_checkpoint" title="Attack on Derryard checkpoint">Derryard checkpoint</a></li>
+</ul>
+<p><b>1990</b></p>
+<ul>
+<li><a href="/wiki/Downpatrick_bombing_1990" class="mw-redirect" title="Downpatrick bombing 1990">Downpatrick bombing</a></li>
+<li><a href="/wiki/1990_British_Army_Gazelle_shootdown" title="1990 British Army Gazelle shootdown">Derrygorry <i>Gazelle</i> shootdown</a></li>
+<li><a href="/wiki/Operation_Conservation" title="Operation Conservation">Operation Conservation</a></li>
+<li><a href="/wiki/RFA_Fort_Victoria_bombing" title="RFA Fort Victoria bombing"><i>Fort Victoria</i></a></li>
+<li><a href="/wiki/Proxy_bomb#October_1990_proxy_bombings" title="Proxy bomb">1990 proxy bombs</a></li>
+</ul>
+<p><b>1991</b></p>
+<ul>
+<li><a href="/wiki/Mullacreevie_ambush" title="Mullacreevie ambush">Mullacreevie ambush</a></li>
+<li><a href="/wiki/1991_Cappagh_killings" title="1991 Cappagh killings">Cappagh killings</a></li>
+<li><a href="/wiki/Glenanne_barracks_bombing" title="Glenanne barracks bombing">Glenanne barracks</a></li>
+<li><a href="/wiki/Coagh_ambush" title="Coagh ambush">Coagh ambush</a></li>
+<li><a href="/wiki/Donegall_Arms_shooting" title="Donegall Arms shooting">Donegall Arms shooting</a></li>
+</ul>
+<p><b>1992</b></p>
+<ul>
+<li><a href="/wiki/Teebane_bombing" title="Teebane bombing">Teebane bombing</a></li>
+<li><a href="/wiki/Sean_Graham_bookmakers%27_shooting" title="Sean Graham bookmakers' shooting">Bookmakers' shooting</a></li>
+<li><a href="/wiki/Clonoe_ambush" title="Clonoe ambush">Clonoe ambush</a></li>
+<li><a href="/wiki/Attack_on_Cloghoge_checkpoint" title="Attack on Cloghoge checkpoint">Cloghoge checkpoint</a></li>
+<li><a href="/wiki/1992_Coalisland_riots" title="1992 Coalisland riots">Coalisland riots</a></li>
+<li><a href="/wiki/South_Armagh_Sniper_(1990%E2%80%9397)" title="South Armagh Sniper (1990–97)">South Armagh sniper campaign</a></li>
+<li><a href="/wiki/Night_of_the_Long_Knives_(1992)" title="Night of the Long Knives (1992)">Night of the Long Knives</a></li>
+<li><a href="/wiki/Attack_on_James_Murray%27s_bookmakers" title="Attack on James Murray's bookmakers">James Murray's bookmakers</a></li>
+</ul>
+<p><b>1993</b></p>
+<ul>
+<li><a href="/wiki/1993_Castlerock_killings" title="1993 Castlerock killings">Castlerock killings</a></li>
+<li><a href="/wiki/Occupation_of_Cullaville" title="Occupation of Cullaville">Cullaville occupation</a></li>
+<li><a href="/wiki/Battle_of_Newry_Road" title="Battle of Newry Road">Battle of Newry Road</a></li>
+<li><a href="/wiki/Shankill_Road_bombing" title="Shankill Road bombing">1993 Shankill bombing</a></li>
+<li><a href="/wiki/Greysteel_massacre" title="Greysteel massacre">Greysteel massacre</a></li>
+</ul>
+<p><b>1994</b></p>
+<ul>
+<li><a href="/wiki/1994_British_Army_Lynx_shootdown" title="1994 British Army Lynx shootdown">Crossmaglen <i>Lynx</i> shootdown</a></li>
+<li><a href="/wiki/1994_Shankill_Road_killings" title="1994 Shankill Road killings">1994 Shankill Road killings</a></li>
+<li><a href="/wiki/Loughinisland_massacre" title="Loughinisland massacre">Loughinisland massacre</a></li>
+</ul>
+<p><b>1995</b></p>
+<ul>
+<li><a href="/wiki/Drumcree_conflict" title="Drumcree conflict">Drumcree crisis</a></li>
+</ul>
+<p><b>1996</b></p>
+<ul>
+<li><a href="/wiki/Murder_of_Michael_McGoldrick" title="Murder of Michael McGoldrick">LVF Murder of Taxi Driver</a></li>
+<li><a href="/wiki/Thiepval_barracks_bombing" title="Thiepval barracks bombing">Thiepval barracks</a></li>
+</ul>
+<p><b>1997</b></p>
+<ul>
+<li><a href="/wiki/South_Armagh_Sniper_(1990%E2%80%9397)#Shootings" title="South Armagh Sniper (1990–97)">Last British soldier killed in conflict</a></li>
+<li><a href="/wiki/1997_Coalisland_attack" title="1997 Coalisland attack">1997 Coalisland attack</a></li>
+<li><a href="/wiki/1997_nationalist_riots_in_Northern_Ireland" title="1997 nationalist riots in Northern Ireland">July 1997 riots</a></li>
+</ul>
+<p><b>1998</b></p>
+<ul>
+<li><a href="/wiki/Newtownhamilton_bombing" title="Newtownhamilton bombing">Newtownhamilton bombing</a></li>
+<li><a href="/wiki/Quinn_brothers%27_killings" title="Quinn brothers' killings">Quinn brothers' killings</a></li>
+<li><a href="/wiki/Omagh_bombing" title="Omagh bombing">Omagh bombing</a></li>
+</ul>
+<p><i><b><a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></b></i><br />
+<b>1972</b></p>
+<ul>
+<li><a href="/wiki/1972_Aldershot_bombing" title="1972 Aldershot bombing">Aldershot bombing</a></li>
+</ul>
+<p><b>1973</b></p>
+<ul>
+<li><a href="/wiki/1973_Old_Bailey_bombing" title="1973 Old Bailey bombing">Old Bailey bombing</a></li>
+<li><a href="/wiki/King%27s_Cross_%26_Euston_Station_bombings" class="mw-redirect" title="King's Cross &amp; Euston Station bombings">King's Cross &amp; Euston Station</a></li>
+</ul>
+<p><b>1974</b></p>
+<ul>
+<li><a href="/wiki/M62_coach_bombing" title="M62 coach bombing">M62 coach bombing</a></li>
+<li><a href="/wiki/Houses_of_Parliament_1974_bombing" title="Houses of Parliament 1974 bombing">Houses of Parliament bomb</a></li>
+<li><a href="/wiki/Guildford_pub_bombings" title="Guildford pub bombings">Guildford bombings</a></li>
+<li><a href="/wiki/Brook%27s_Club_Bomb_Attack" class="mw-redirect" title="Brook's Club Bomb Attack">Brook's bombing</a></li>
+<li><a href="/wiki/Harrow_School_bombing" title="Harrow School bombing">Harrow School</a></li>
+<li><a href="/wiki/Kings_Arms,_Woolwich" title="Kings Arms, Woolwich">Woolwich Pub bomb</a></li>
+<li><a href="/wiki/Birmingham_pub_bombings" title="Birmingham pub bombings">Birmingham bombings</a></li>
+<li><a href="/wiki/Pillar-Box_bombings_1974" title="Pillar-Box bombings 1974">Pillar box bombs</a></li>
+</ul>
+<p><b>1975</b></p>
+<ul>
+<li><a href="/wiki/Caterham_Arms_pub_bombing" title="Caterham Arms pub bombing">Caterham bombing</a></li>
+<li><a href="/wiki/London_Hilton_bombing" title="London Hilton bombing">London Hilton bombing</a></li>
+<li><a href="/wiki/Green_Park_Tube_Station_Bombing" title="Green Park Tube Station Bombing">Green Park bomb</a></li>
+<li><a href="/wiki/Scott%27s_(restaurant)_bombing" class="mw-redirect" title="Scott's (restaurant) bombing">Scott's bombing</a></li>
+<li><a href="/wiki/Walton%27s_Restaurant_bombing" title="Walton's Restaurant bombing">Walton's bombing</a></li>
+<li><a href="/wiki/Balcombe_Street_Siege" class="mw-redirect" title="Balcombe Street Siege">Balcombe St siege</a></li>
+</ul>
+<p><b>1982</b></p>
+<ul>
+<li><a href="/wiki/Hyde_Park_and_Regent%27s_Park_bombings" title="Hyde Park and Regent's Park bombings">Hyde and Regent's Park bombings</a></li>
+</ul>
+<p><b>1983</b></p>
+<ul>
+<li><a href="/wiki/Harrods_bombing" class="mw-redirect" title="Harrods bombing">Harrods bombing</a></li>
+<li><a href="/wiki/1983_Royal_Artillery_Barracks_bombing" title="1983 Royal Artillery Barracks bombing">Woolwich barracks</a></li>
+</ul>
+<p><b>1984</b></p>
+<ul>
+<li><a href="/wiki/Brighton_hotel_bombing" title="Brighton hotel bombing">Brighton bombing</a></li>
+</ul>
+<p><b>1988</b></p>
+<ul>
+<li><a href="/wiki/Inglis_Barracks_bombing" title="Inglis Barracks bombing">Inglis barracks</a></li>
+</ul>
+<p><b>1989</b></p>
+<ul>
+<li><a href="/wiki/Deal_barracks_bombing" title="Deal barracks bombing">Deal barracks</a></li>
+</ul>
+<p><b>1990</b></p>
+<ul>
+<li><a href="/wiki/Lichfield_gun_attack" title="Lichfield gun attack">Lichfield attack</a></li>
+</ul>
+<p><b>1991</b></p>
+<ul>
+<li><a href="/wiki/Downing_Street_mortar_attack" title="Downing Street mortar attack">Downing St attack</a></li>
+<li><a href="/wiki/Victoria_%26_Paddington_Station_bombing" class="mw-redirect" title="Victoria &amp; Paddington Station bombing">Victoria &amp; Paddington Station bombings</a></li>
+</ul>
+<p><b>1992</b></p>
+<ul>
+<li><a href="/wiki/London_Bridge_station_bombing_1992" class="mw-redirect" title="London Bridge station bombing 1992">London Bridge bombing</a></li>
+<li><a href="/wiki/1992_Manchester_bombing" title="1992 Manchester bombing">1992 Manchester bombing</a></li>
+</ul>
+<p><b>1993</b></p>
+<ul>
+<li><a href="/wiki/Warrington_bomb_attacks" title="Warrington bomb attacks">Warrington bombings</a></li>
+<li><a class="mw-selflink selflink">Bishopsgate bombing</a></li>
+</ul>
+<p><b>1994</b></p>
+<ul>
+<li><a href="/wiki/1994_IRA_Heathrow_Mortar_Attacks" class="mw-redirect" title="1994 IRA Heathrow Mortar Attacks">Heathrow Mortar Attacks</a></li>
+<li><a href="/wiki/1994_Scotland_RAF_Chinook_crash" title="1994 Scotland RAF Chinook crash">1994 Scotland RAF Chinook crash</a></li>
+</ul>
+<p><b>1996</b></p>
+<ul>
+<li><a href="/wiki/1996_Docklands_bombing" title="1996 Docklands bombing">Docklands bombing</a></li>
+<li><a href="/wiki/1996_Manchester_bombing" title="1996 Manchester bombing">Manchester bombing</a></li>
+</ul>
+<p><i><b>Elsewhere</b></i></p>
+<ul>
+<li><a href="/wiki/JHQ_Rheindahlen_bombing_(1987)" class="mw-redirect" title="JHQ Rheindahlen bombing (1987)">JHQ Rheindahlen bombing (Germany)</a></li>
+<li><a href="/wiki/Operation_Flavius" title="Operation Flavius">Operation Flavius (Gibraltar)</a></li>
+<li><a href="/wiki/1988_Netherlands_Ambush" class="mw-redirect" title="1988 Netherlands Ambush">1988 Netherlands Attacks</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck_mortar_attack" title="Osnabrück mortar attack">Osnabrück barracks (Germany)</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Bishopsgate bombing</b> occurred on Saturday 24 April 1993, when the <a href="/wiki/Provisional_Irish_Republican_Army" title="Provisional Irish Republican Army">Provisional Irish Republican Army</a> (IRA) detonated an <a href="/wiki/ANFO" title="ANFO">ANFO</a> <a href="/wiki/Car_bomb" title="Car bomb">truck bomb</a> on <a href="/wiki/Bishopsgate" title="Bishopsgate">Bishopsgate</a>, a major thoroughfare in London's financial district, the <a href="/wiki/City_of_London" title="City of London">City of London</a>. A news photographer was killed in the explosion and 44 people were injured; the damage cost £350 million to repair. As a result of the bombing, which occurred just over a year after <a href="/wiki/Baltic_Exchange_(building)" title="Baltic Exchange (building)">the bombing of the nearby Baltic Exchange</a>, a "<a href="/wiki/Ring_of_steel_(London)" class="mw-redirect" title="Ring of steel (London)">ring of steel</a>" was implemented to protect the City, and many firms introduced <a href="/wiki/Disaster_recovery_plan" title="Disaster recovery plan">disaster recovery plans</a> in case of further attacks or similar disasters.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Bombing"><span class="tocnumber">2</span> <span class="toctext">Bombing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Reaction"><span class="tocnumber">3</span> <span class="toctext">Reaction</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Aftermath"><span class="tocnumber">4</span> <span class="toctext">Aftermath</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Subsequent_events"><span class="tocnumber">5</span> <span class="toctext">Subsequent events</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In early 1993 the <a href="/wiki/Northern_Ireland_peace_process" title="Northern Ireland peace process">Northern Ireland peace process</a> was at a delicate stage, with attempts to broker an IRA ceasefire ongoing.<sup id="cite_ref-coaffee_1-0" class="reference"><a href="#cite_note-coaffee-1">[1]</a></sup> <a href="/wiki/Gerry_Adams" title="Gerry Adams">Gerry Adams</a> of <a href="/wiki/Sinn_F%C3%A9in" title="Sinn Féin">Sinn Féin</a> and <a href="/wiki/John_Hume" title="John Hume">John Hume</a> of the <a href="/wiki/Social_Democratic_and_Labour_Party" title="Social Democratic and Labour Party">Social Democratic and Labour Party</a> had been engaged in private dialogue since 1988, with a view to establishing a broad <a href="/wiki/Irish_nationalism" title="Irish nationalism">Irish nationalist</a> coalition.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> British Prime Minister <a href="/wiki/John_Major" title="John Major">John Major</a> had refused to openly enter into talks with Sinn Féin until the IRA declared a ceasefire. The risk of an IRA attack on the <a href="/wiki/City_of_London" title="City of London">City of London</a> had increased due to the lack of progress with political talks, resulting in a warning being circulated to all police forces in Britain highlighting intelligence reports of a possible attack, as it was felt the IRA had sufficient personnel, equipment and funds to launch a sustained campaign in <a href="/wiki/England" title="England">England</a>.<sup id="cite_ref-coaffee_1-1" class="reference"><a href="#cite_note-coaffee-1">[1]</a></sup> During <a href="/wiki/The_Troubles" title="The Troubles">the Troubles</a> the IRA had bombed financial targets in London on a number of occasions, most notably on 10 April 1992 when a truck bomb exploded outside the <a href="/wiki/Baltic_Exchange" title="Baltic Exchange">Baltic Exchange</a> on <a href="/wiki/St._Mary_Axe" class="mw-redirect" title="St. Mary Axe">St. Mary Axe</a>. The <a href="/wiki/Baltic_Exchange_(building)#Bombing_of_the_exchange_building" title="Baltic Exchange (building)">Baltic Exchange bombing</a> caused £800 million worth of damage (the equivalent of £1,470 million in 2017),<sup id="cite_ref-inflation-UK_3-0" class="reference"><a href="#cite_note-inflation-UK-3">[3]</a></sup> £200 million more than the total damage caused by the 10,000 explosions that had occurred during the Troubles in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a> up to that point.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Bombing">Bombing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=edit&amp;section=2" title="Edit section: Bombing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In March 1993 an <a href="/wiki/Iveco" title="Iveco">Iveco</a> <a href="/wiki/Dump_truck" title="Dump truck">tipper truck</a> was stolen in <a href="/wiki/Newcastle-under-Lyme" title="Newcastle-under-Lyme">Newcastle-under-Lyme</a>, <a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a>, and repainted from white to dark blue.<sup id="cite_ref-harnden_6-0" class="reference"><a href="#cite_note-harnden-6">[6]</a></sup> A 1 tonne <a href="/wiki/ANFO" title="ANFO">ANFO</a> bomb made by the IRA's <a href="/wiki/Provisional_IRA_South_Armagh_Brigade" title="Provisional IRA South Armagh Brigade">South Armagh Brigade</a> had been smuggled into England and was placed in the truck disguised underneath a layer of <a href="/wiki/Tarmac" title="Tarmac">tarmac</a>.<sup id="cite_ref-harnden_6-1" class="reference"><a href="#cite_note-harnden-6">[6]</a></sup><sup id="cite_ref-kelly_7-0" class="reference"><a href="#cite_note-kelly-7">[7]</a></sup> At approximately 9&#160;am on 24 April, two <a href="/wiki/Volunteer_(Irish_republican)" title="Volunteer (Irish republican)">volunteers</a> from an IRA <a href="/wiki/Active_service_unit" title="Active service unit">active service unit</a> drove the truck containing the bomb onto Bishopsgate.<sup id="cite_ref-kelly_7-1" class="reference"><a href="#cite_note-kelly-7">[7]</a></sup><sup id="cite_ref-dillon_8-0" class="reference"><a href="#cite_note-dillon-8">[8]</a></sup> They parked the truck outside <a href="/wiki/99_Bishopsgate" title="99 Bishopsgate">99 Bishopsgate</a>, which was then the <a href="/wiki/The_Hongkong_and_Shanghai_Banking_Corporation" title="The Hongkong and Shanghai Banking Corporation">Hongkong and Shanghai Bank</a>, located by the junction with <a href="/wiki/Wormwood_Street" title="Wormwood Street">Wormwood Street</a> and <a href="/wiki/Camomile_Street" title="Camomile Street">Camomile Street</a>, and left the area in a car driven by an accomplice.<sup id="cite_ref-dillon_8-1" class="reference"><a href="#cite_note-dillon-8">[8]</a></sup> A series of telephone warnings were then delivered from a phonebox in <a href="/wiki/Forkhill" title="Forkhill">Forkhill</a>, <a href="/wiki/County_Armagh" title="County Armagh">County Armagh</a>, Northern Ireland, with the caller using a recognised IRA codeword and stating "[there's] a massive bomb… clear a wide area".<sup id="cite_ref-harnden_6-2" class="reference"><a href="#cite_note-harnden-6">[6]</a></sup><sup id="cite_ref-geraghty_9-0" class="reference"><a href="#cite_note-geraghty-9">[9]</a></sup> Two police officers were already making inquiries into the truck when the warnings were received, and police began evacuating the area.<sup id="cite_ref-dillon_8-2" class="reference"><a href="#cite_note-dillon-8">[8]</a></sup><sup id="cite_ref-nyt_10-0" class="reference"><a href="#cite_note-nyt-10">[10]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ford_Iveco.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ford_Iveco.jpg/220px-Ford_Iveco.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ford_Iveco.jpg/330px-Ford_Iveco.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ford_Iveco.jpg/440px-Ford_Iveco.jpg 2x" data-file-width="922" data-file-height="616" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ford_Iveco.jpg" class="internal" title="Enlarge"></a></div>
+An <a href="/wiki/Iveco" title="Iveco">Iveco</a> tipper truck, the type used to carry the bomb</div>
+</div>
+</div>
+<p>The bomb exploded at 10:27&#160;am causing extensive damage to buildings along a significant stretch of Bishopsgate; the cost of repair was estimated at the time at £1 billion.<sup id="cite_ref-nyt_10-1" class="reference"><a href="#cite_note-nyt-10">[10]</a></sup><sup id="cite_ref-taylor_11-0" class="reference"><a href="#cite_note-taylor-11">[11]</a></sup> Buildings up to 500 metres away were damaged, with 1,500,000 sq ft (140,000 m²) of office space being affected and over 500 tonnes of glass broken.<sup id="cite_ref-tpc_12-0" class="reference"><a href="#cite_note-tpc-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The <a href="/wiki/Tower_42" title="Tower 42">NatWest Tower</a> — at the time the City's tallest skyscraper – was amongst the structures badly damaged, with many windows on the east side of the tower destroyed; the <i><a href="/wiki/Daily_Mail" title="Daily Mail">Daily Mail</a></i> said "black gaps punched its fifty-two floors like a mouth full of bad teeth".<sup id="cite_ref-geraghty_9-1" class="reference"><a href="#cite_note-geraghty-9">[9]</a></sup><sup id="cite_ref-nyt_10-2" class="reference"><a href="#cite_note-nyt-10">[10]</a></sup> Damage extended as far north as <a href="/wiki/Liverpool_Street_station" title="Liverpool Street station">Liverpool Street station</a> and south beyond <a href="/wiki/Threadneedle_Street" title="Threadneedle Street">Threadneedle Street</a>.<sup id="cite_ref-bbc_14-0" class="reference"><a href="#cite_note-bbc-14">[14]</a></sup><sup id="cite_ref-ob_15-0" class="reference"><a href="#cite_note-ob-15">[15]</a></sup> <a href="/wiki/St_Ethelburga%27s_Bishopsgate" title="St Ethelburga's Bishopsgate">St Ethelburga's church</a>, seven metres away from the bomb, collapsed as a result of the explosion.<sup id="cite_ref-bbc_14-1" class="reference"><a href="#cite_note-bbc-14">[14]</a></sup><sup id="cite_ref-esper_16-0" class="reference"><a href="#cite_note-esper-16">[16]</a></sup> Civilian casualties were low as it was a Saturday morning and the City was typically occupied by only a small number of residents, office workers, security guards, builders, and maintenance staff.<sup id="cite_ref-nyt_10-3" class="reference"><a href="#cite_note-nyt-10">[10]</a></sup><sup id="cite_ref-bbc_14-2" class="reference"><a href="#cite_note-bbc-14">[14]</a></sup> Forty-four people were injured by the bomb and <i><a href="/wiki/News_of_the_World" title="News of the World">News of the World</a></i> photographer Ed Henty was killed after ignoring police warnings and rushing to the scene.<sup id="cite_ref-bbc_14-3" class="reference"><a href="#cite_note-bbc-14">[14]</a></sup><sup id="cite_ref-jbb_17-0" class="reference"><a href="#cite_note-jbb-17">[17]</a></sup><sup id="cite_ref-rnt_18-0" class="reference"><a href="#cite_note-rnt-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The truck-bomb produced explosive power of 1,200&#160;kg of <a href="/wiki/Trinitrotoluene" class="mw-redirect" title="Trinitrotoluene">TNT</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="Reaction">Reaction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=edit&amp;section=3" title="Edit section: Reaction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The business community and media called for increased security in the City, with one leading City figure calling for "a medieval-style walled enclave to prevent terrorist attacks".<sup id="cite_ref-graham_22-0" class="reference"><a href="#cite_note-graham-22">[22]</a></sup> Prime Minister John Major received a telephone call from Francis McWilliams, the <a href="/wiki/Lord_Mayor_of_the_City_of_London" class="mw-redirect" title="Lord Mayor of the City of London">Lord Mayor of London</a>, reminding him that "the City of London earned £17 billion last year for the nation as a whole. Its operating environment and future must be preserved".<sup id="cite_ref-kelly_7-2" class="reference"><a href="#cite_note-kelly-7">[7]</a></sup><sup id="cite_ref-geraghty_9-2" class="reference"><a href="#cite_note-geraghty-9">[9]</a></sup> Major, McWilliams and <a href="/wiki/Chancellor_of_the_Exchequer" title="Chancellor of the Exchequer">Chancellor of the Exchequer</a> <a href="/wiki/Norman_Lamont,_Baron_Lamont_of_Lerwick" class="mw-redirect" title="Norman Lamont, Baron Lamont of Lerwick">Norman Lamont</a> made public statements that business would continue as normal in the City and that the Bishopsgate bombing would not achieve a lasting effect.<sup id="cite_ref-tpc_12-1" class="reference"><a href="#cite_note-tpc-12">[12]</a></sup> Major later gave an account of the public stance taken by his government on the bombing:</p>
+<blockquote class="templatequote">
+<p>Frankly, we thought it was likely to bring the whole process to an end. And we told them repeatedly that that was the case. They assumed that if they bombed and put pressure on the British at Bishopsgate or with some other outrage or other, it would affect our negotiating position to their advantage. In that judgment they were wholly wrong. Every time they did that, they made it harder not easier for any movement to be made towards a settlement. They hardened our attitude, whereas they believed that their actions would soften it. That is a fundamental mistake the IRA have made with successive British governments throughout the last quarter of a century.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+</blockquote>
+<p>John Hume and Gerry Adams issued their first joint statement on the same day as the bombing, stating, "We accept that the Irish people as a whole have a right to national self-determination. This is a view shared by a majority of the people of this island, though not by all its people", and that, "The exercise of self-determination is a matter for agreement between the people of Ireland".<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<p>The IRA's reaction appeared in the 29 April edition of <i><a href="/wiki/An_Phoblacht" title="An Phoblacht">An Phoblacht</a></i>, highlighting how the bombers exploited a security loophole after "having spotted a breach in the usually tight security around the City".<sup id="cite_ref-coaffee_1-2" class="reference"><a href="#cite_note-coaffee-1">[1]</a></sup> There was also a message from the IRA leadership, calling for "the British establishment to seize the opportunity and to take the steps needed for ending its futile and costly war in Ireland. We again emphasise that they should pursue the path of peace or resign themselves to the path of war".<sup id="cite_ref-english_26-0" class="reference"><a href="#cite_note-english-26">[26]</a></sup> The IRA also attempted to apply indirect pressure to the British government with a statement sent to non-American foreign-owned businesses in the City, warning that "no one should be misled into underestimating the IRA's intention to mount future planned attacks into the political and financial heart of the British state ... In the context of present political realities, further attacks on the City of London and elsewhere are inevitable. This we feel we are bound to convey to you directly, to allow you to make fully informed decisions".<sup id="cite_ref-kelly_7-3" class="reference"><a href="#cite_note-kelly-7">[7]</a></sup><sup id="cite_ref-english_26-1" class="reference"><a href="#cite_note-english-26">[26]</a></sup></p>
+<p>The <a href="/wiki/City_of_London_Corporation" title="City of London Corporation">City of London Corporation</a>'s chief planning officer called for the demolition of buildings damaged in the explosion, including the NatWest Tower, seeing an opportunity to rid the City of some of the 1970s architecture and build a new state-of-the-art structure as a "symbol of defiance to the IRA".<sup id="cite_ref-coaffee2_27-0" class="reference"><a href="#cite_note-coaffee2-27">[27]</a></sup> His comments were not endorsed by the Corporation themselves, who remarked that the NatWest Tower was an integral part of the City's skyline.<sup id="cite_ref-coaffee2_27-1" class="reference"><a href="#cite_note-coaffee2-27">[27]</a></sup></p>
+<h2><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=edit&amp;section=4" title="Edit section: Aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In May 1993 the <a href="/wiki/City_of_London_Police" title="City of London Police">City of London Police</a> confirmed a planned security cordon for the City, conceived by its commissioner Owen Kelly, and on 3 July 1993 the '<a href="/wiki/Ring_of_steel_(London)" class="mw-redirect" title="Ring of steel (London)">ring of steel</a>' was introduced.<sup id="cite_ref-graham_22-1" class="reference"><a href="#cite_note-graham-22">[22]</a></sup> Most routes into the City were closed or made exit-only, and the remaining eight routes into the City had checkpoints manned by armed police.<sup id="cite_ref-graham_22-2" class="reference"><a href="#cite_note-graham-22">[22]</a></sup> <a href="/wiki/Closed-circuit_television" title="Closed-circuit television">CCTV</a> cameras were also introduced to monitor vehicles entering the area, including two cameras at each entry point – one to read the <a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">vehicle registration plate</a> and another to monitor the driver and passenger.<sup id="cite_ref-graham_22-3" class="reference"><a href="#cite_note-graham-22">[22]</a></sup> Over 70 police-controlled cameras monitored the City but to increase coverage of public areas "Camera Watch" was launched in September 1993 to encourage co-operation on surveillance between the police, private companies and the Corporation of London.<sup id="cite_ref-graham_22-4" class="reference"><a href="#cite_note-graham-22">[22]</a></sup> Nine months after the scheme was launched only 12.5% of buildings had camera systems, but by 1996 well over 1,000 cameras in 376 separate systems were operational in the City.<sup id="cite_ref-graham_22-5" class="reference"><a href="#cite_note-graham-22">[22]</a></sup></p>
+<p>The bombing resulted in a number of companies changing their working practices and drawing up plans to deal with any future incidents. Documents were blown out of windows of multi-storey buildings by the force of the explosion, prompting the police to use a <a href="/wiki/Paper_shredder" title="Paper shredder">shredder</a> to destroy all documents found. This resulted in risk managers subsequently demanding a "clear desk" policy at the end of each working day to improve <a href="/wiki/Information_security" title="Information security">information security</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> The attack also prompted British and American financial companies to prepare <a href="/wiki/Disaster_recovery_plan" title="Disaster recovery plan">disaster recovery plans</a> in case of future attacks.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><sup id="cite_ref-cw_30-0" class="reference"><a href="#cite_note-cw-30">[30]</a></sup> The <a href="/wiki/1993_World_Trade_Center_bombing" title="1993 World Trade Center bombing">World Trade Center bombing</a> in New York City in February 1993 had caused bankruptcy in 40% of the affected companies within two years of the attack, according to a report from analysts IDC.<sup id="cite_ref-cw_30-1" class="reference"><a href="#cite_note-cw-30">[30]</a></sup> As a result of the Baltic Exchange and Bishopsgate bomb attacks, City-based companies were well-prepared to deal with the aftermath of the <a href="/wiki/September_11_attacks" title="September 11 attacks">September 11 attacks</a> in 2001, with a spokesman for the Corporation of London stating: "After the IRA bombs, firms redoubled their disaster recovery plans and the City recovered remarkably quickly. It has left the City pretty well-prepared for this sort of thing now."<sup id="cite_ref-cw_30-2" class="reference"><a href="#cite_note-cw-30">[30]</a></sup></p>
+<p>The initial estimate of £1 billion worth of damage was later downgraded, and the total cost of reconstruction was £350 million.<sup id="cite_ref-dillon_8-3" class="reference"><a href="#cite_note-dillon-8">[8]</a></sup><sup id="cite_ref-bbc_14-4" class="reference"><a href="#cite_note-bbc-14">[14]</a></sup> The subsequent payouts by insurance companies resulted in them suffering heavy losses causing a crisis in the industry, including the near-collapse of the <a href="/wiki/Lloyd%27s_of_London" title="Lloyd's of London">Lloyd's of London</a> market.<sup id="cite_ref-bbc_14-5" class="reference"><a href="#cite_note-bbc-14">[14]</a></sup> A government-backed insurance scheme, <a href="/wiki/Pool_Re" title="Pool Re">Pool Re</a>, was subsequently introduced in Britain, with the government acting as a "re-insurer of last resort" for losses over £75 million.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<p>The bombing, mounted at a cost of £3,000, was the last major bombing in England during that phase of the Northern Ireland conflict.<sup id="cite_ref-moloney_33-0" class="reference"><a href="#cite_note-moloney-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> The campaign of bombing of the UK's financial centre, described by author and journalist <a href="/wiki/Ed_Moloney" title="Ed Moloney">Ed Moloney</a> as "possibly the [IRA's] most successful military tactic since the start of the Troubles", was suspended by the IRA to allow the political progress made by <a href="/wiki/Gerry_Adams" title="Gerry Adams">Gerry Adams</a> and <a href="/wiki/John_Hume" title="John Hume">John Hume</a> to continue.<sup id="cite_ref-moloney_33-1" class="reference"><a href="#cite_note-moloney-33">[33]</a></sup> The IRA carried out a number of smaller bomb and mortar attacks in England during the remainder of 1993 and in early 1994, before declaring a "complete cessation of military operations" on 31 August 1994.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup><sup id="cite_ref-bbc2_36-0" class="reference"><a href="#cite_note-bbc2-36">[36]</a></sup> The ceasefire ended on 9 February 1996 when the IRA killed two people in the <a href="/wiki/1996_Docklands_bombing" title="1996 Docklands bombing">Docklands bombing</a> which targeted London's secondary financial district, <a href="/wiki/Canary_Wharf" title="Canary Wharf">Canary Wharf</a>.<sup id="cite_ref-bbc2_36-1" class="reference"><a href="#cite_note-bbc2-36">[36]</a></sup></p>
+<h2><span class="mw-headline" id="Subsequent_events">Subsequent events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=edit&amp;section=5" title="Edit section: Subsequent events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In July 2000 it was announced that <i><a href="/wiki/Punch_(magazine)" title="Punch (magazine)">Punch</a></i> magazine was to be prosecuted for <a href="/wiki/Contempt_of_court" title="Contempt of court">contempt of court</a> after publishing an article by former <a href="/wiki/MI5" title="MI5">MI5</a> agent <a href="/wiki/David_Shayler" title="David Shayler">David Shayler</a>. Shayler's article claimed MI5 could have stopped the Bishopsgate bombing, which a spokesman for <a href="/wiki/Attorney_General_for_England_and_Wales" title="Attorney General for England and Wales">Attorney General</a> <a href="/wiki/Gareth_Williams,_Baron_Williams_of_Mostyn" title="Gareth Williams, Baron Williams of Mostyn">Lord Williams</a> claimed was a breach of a 1997 court injunction preventing Shayler disclosing information on security or intelligence matters.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup><sup id="cite_ref-hr_38-0" class="reference"><a href="#cite_note-hr-38">[38]</a></sup> In November 2000 <i>Punch</i> and its editor were found guilty and fined £20,000 and £5,000 respectively.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> In March 2001 the editor successfully appealed against his conviction and fine, with an appeal judge accusing the Attorney General of acting like a press censor and ruling that the 1997 injunction was in breach of the <a href="/wiki/European_Convention_on_Human_Rights" title="European Convention on Human Rights">European Convention on Human Rights</a>.<sup id="cite_ref-rnt_18-1" class="reference"><a href="#cite_note-rnt-18">[18]</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> In December 2002 this decision was overturned at the <a href="/wiki/House_of_Lords" title="House of Lords">House of Lords</a>, with five law lords ruling that editor James Steen's publication of Shayler's article was indeed in contempt.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></p>
+<p>On 24 April 2013, a commemorative dinner was held by the Felix Fund, a charity for bomb disposal experts and their families, at the <a href="/wiki/Merchant_Taylors%27_Hall,_London" title="Merchant Taylors' Hall, London">Merchant Taylors' Hall</a> on <a href="/wiki/Threadneedle_Street" title="Threadneedle Street">Threadneedle Street</a>, to mark 20 years since the Bishopsgate bombing.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-coaffee-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-coaffee_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-coaffee_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-coaffee_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Coaffee, Jon (2003). <i>Terrorism, Risk and the City: The Making of a Contemporary Urban Landscape</i>. Ashgate Publishing. p.&#160;94. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7546-3555-0" title="Special:BookSources/978-0-7546-3555-0">978-0-7546-3555-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Jon&amp;rft.aulast=Coaffee&amp;rft.btitle=Terrorism%2C+Risk+and+the+City%3A+The+Making+of+a+Contemporary+Urban+Landscape&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=978-0-7546-3555-0&amp;rft.pages=94&amp;rft.pub=Ashgate+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Peter_Taylor_(Journalist)" class="mw-redirect" title="Peter Taylor (Journalist)">Taylor, Peter</a> (1997). <i>Provos The IRA &amp; Sinn Féin</i>. <a href="/wiki/Bloomsbury_Publishing" title="Bloomsbury Publishing">Bloomsbury Publishing</a>. pp.&#160;305–306. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7475-3818-2" title="Special:BookSources/0-7475-3818-2">0-7475-3818-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Peter&amp;rft.aulast=Taylor&amp;rft.btitle=Provos+The+IRA+%26+Sinn+F%C3%A9in&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-7475-3818-2&amp;rft.pages=305-306&amp;rft.pub=Bloomsbury+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-inflation-UK-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-inflation-UK_3-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Consumer_Price_Index_(United_Kingdom)" title="Consumer Price Index (United Kingdom)">UK Consumer Price Index</a> inflation figures are based on data from Gregory Clark (2016), "<a rel="nofollow" class="external text" href="https://measuringworth.com/ukearncpi/">The Annual RPI and Average Earnings for Britain, 1209 to Present (New Series)</a>", MeasuringWorth.com.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">De Baróid, Ciarán (2000). <i>Ballymurphy and the Irish War</i>. <a href="/wiki/Pluto_Press" title="Pluto Press">Pluto Press</a>. p.&#160;325. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7453-1509-7" title="Special:BookSources/0-7453-1509-7">0-7453-1509-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Ciar%C3%A1n&amp;rft.aulast=De+Bar%C3%B3id&amp;rft.btitle=Ballymurphy+and+the+Irish+War&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-7453-1509-7&amp;rft.pages=325&amp;rft.pub=Pluto+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i>Provos The IRA &amp; Sinn Féin</i>, p. 327.</span></li>
+<li id="cite_note-harnden-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-harnden_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-harnden_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-harnden_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Toby_Harnden" title="Toby Harnden">Harnden, Toby</a> (1999). <i>Bandit Country</i>. Hodder &amp; Stoughton. pp.&#160;337–38. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-340-71736-X" title="Special:BookSources/0-340-71736-X">0-340-71736-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Toby&amp;rft.aulast=Harnden&amp;rft.btitle=Bandit+Country&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=0-340-71736-X&amp;rft.pages=337-38&amp;rft.pub=Hodder+%26+Stoughton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-kelly-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-kelly_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kelly_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-kelly_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-kelly_7-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Owen Kelly. <a rel="nofollow" class="external text" href="http://www.rjerrard.co.uk/law/city/irathreat.htm">"The IRA Threat to the City of London"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071215105348/http://www.rjerrard.co.uk/law/city/irathreat.htm">Archived</a> from the original on 15 December 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Owen+Kelly&amp;rft.btitle=The+IRA+Threat+to+the+City+of+London&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rjerrard.co.uk%2Flaw%2Fcity%2Firathreat.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dillon-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-dillon_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dillon_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dillon_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-dillon_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Martin_Dillon" title="Martin Dillon">Dillon, Martin</a> (1996). <i>25 Years of Terror: The IRA's war against the British</i>. <a href="/wiki/Bantam_Books" title="Bantam Books">Bantam Books</a>. p.&#160;292. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-553-40773-2" title="Special:BookSources/0-553-40773-2">0-553-40773-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Martin&amp;rft.aulast=Dillon&amp;rft.btitle=25+Years+of+Terror%3A+The+IRA%27s+war+against+the+British&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=0-553-40773-2&amp;rft.pages=292&amp;rft.pub=Bantam+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-geraghty-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-geraghty_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-geraghty_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-geraghty_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Geraghty, Tony (2003). <i>The Irish War</i>. <a href="/wiki/Pan_Books" title="Pan Books">Pan Books</a>. p.&#160;296. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-330-49388-4" title="Special:BookSources/0-330-49388-4">0-330-49388-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Tony&amp;rft.aulast=Geraghty&amp;rft.btitle=The+Irish+War&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-330-49388-4&amp;rft.pages=296&amp;rft.pub=Pan+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nyt-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-nyt_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nyt_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nyt_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nyt_10-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">William E. Schmidt (25 April 1993). <a rel="nofollow" class="external text" href="https://query.nytimes.com/gst/fullpage.html?res=9F0CEED7113CF936A15757C0A965958260">"1 Dead, 40 Hurt As a Blast Rips Central London"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=William+E.+Schmidt&amp;rft.btitle=1+Dead%2C+40+Hurt+As+a+Blast+Rips+Central+London&amp;rft.date=1993-04-25&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fres%3D9F0CEED7113CF936A15757C0A965958260&amp;rft.pub=%27%27The+New+York+Times%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-taylor-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-taylor_11-0">^</a></b></span> <span class="reference-text"><i>Provos The IRA &amp; Sinn Féin</i>, p. 335.</span></li>
+<li id="cite_note-tpc-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-tpc_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tpc_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Tim_Pat_Coogan" title="Tim Pat Coogan">Coogan, Tim</a> (2000). <i>The IRA</i>. <a href="/wiki/Harper_Collins" class="mw-redirect" title="Harper Collins">Harper Collins</a>. p.&#160;587. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-00-653155-5" title="Special:BookSources/0-00-653155-5">0-00-653155-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Tim&amp;rft.aulast=Coogan&amp;rft.btitle=The+IRA&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-00-653155-5&amp;rft.pages=587&amp;rft.pub=Harper+Collins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Teicholz, Eric (2001). <i>Facility Design and Management Handbook</i>. <a href="/wiki/McGraw-Hill_Professional" class="mw-redirect" title="McGraw-Hill Professional">McGraw-Hill Professional</a>. p.&#160;521. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-07-135394-6" title="Special:BookSources/978-0-07-135394-6">978-0-07-135394-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Eric&amp;rft.aulast=Teicholz&amp;rft.btitle=Facility+Design+and+Management+Handbook&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=978-0-07-135394-6&amp;rft.pages=521&amp;rft.pub=McGraw-Hill+Professional&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bbc-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbc_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbc_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bbc_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bbc_14-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-bbc_14-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-bbc_14-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/onthisday/hi/dates/stories/april/24/newsid_2523000/2523345.stm">"1993: IRA bomb devastates City of London"</a>. <a href="/wiki/BBC" title="BBC">BBC</a>. 24 April 1993. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071117011944/http://news.bbc.co.uk/onthisday/hi/dates/stories/april/24/newsid_2523000/2523345.stm">Archived</a> from the original on 17 November 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.atitle=1993%3A+IRA+bomb+devastates+City+of+London&amp;rft.date=1993-04-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fonthisday%2Fhi%2Fdates%2Fstories%2Fapril%2F24%2Fnewsid_2523000%2F2523345.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ob-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-ob_15-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Brendan_O%27Brien_(Irish_journalist)" class="mw-redirect" title="Brendan O'Brien (Irish journalist)">O'Brien, Brendan</a> (1999). <i>The Long War: The IRA and Sinn Féin</i>. Syracuse Univ Pr. pp.&#160;272–273. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8156-0319-3" title="Special:BookSources/0-8156-0319-3">0-8156-0319-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Brendan&amp;rft.aulast=O%27Brien&amp;rft.btitle=The+Long+War%3A+The+IRA+and+Sinn+F%C3%A9in&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=0-8156-0319-3&amp;rft.pages=272-273&amp;rft.pub=Syracuse+Univ+Pr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-esper-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-esper_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Philip Esper. <a rel="nofollow" class="external text" href="http://user.unob.cz/manas/Ansys/vybuch/Vybuch.htm">"NON-LINEAR TRANSIENT AND QUASI-STATIC ANALYSES OF THE DYNAMIC RESPONSE OF BUILDINGS TO BLAST LOADING"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071120064946/http://user.unob.cz/manas/Ansys/vybuch/Vybuch.htm">Archived</a> from the original on 20 November 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Philip+Esper&amp;rft.btitle=NON-LINEAR+TRANSIENT+AND+QUASI-STATIC+ANALYSES+OF+THE+DYNAMIC+RESPONSE+OF+BUILDINGS+TO+BLAST+LOADING&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fuser.unob.cz%2Fmanas%2FAnsys%2Fvybuch%2FVybuch.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-jbb-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-jbb_17-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/J._Bowyer_Bell" title="J. Bowyer Bell">Bowyer Bell, J.</a> (1997). <i>The Secret Army: The IRA</i>. Transaction Publishers. p.&#160;641. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56000-901-2" title="Special:BookSources/1-56000-901-2">1-56000-901-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=J.&amp;rft.aulast=Bowyer+Bell&amp;rft.btitle=The+Secret+Army%3A+The+IRA&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=1-56000-901-2&amp;rft.pages=641&amp;rft.pub=Transaction+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rnt-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-rnt_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rnt_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Richard Norton-Taylor (24 March 2001). <a rel="nofollow" class="external text" href="https://www.theguardian.com/shayler/article/0,2763,462308,00.html">"Judge backs editor over Shayler case"</a>. London: <i>The Guardian</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071222073831/http://www.guardian.co.uk/shayler/article/0,2763,462308,00.html">Archived</a> from the original on 22 December 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Richard+Norton-Taylor&amp;rft.btitle=Judge+backs+editor+over+Shayler+case&amp;rft.date=2001-03-24&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fshayler%2Farticle%2F0%2C2763%2C462308%2C00.html&amp;rft.place=London&amp;rft.pub=%27%27The+Guardian%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Roy_Greenslade" title="Roy Greenslade">Greenslade, Roy</a> (2004). <i>Press Gang: How Newspapers Make Profits From Propaganda</i>. <a href="/wiki/Pan_Books" title="Pan Books">Pan Books</a>. p.&#160;601. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-330-39376-8" title="Special:BookSources/978-0-330-39376-8">978-0-330-39376-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Roy&amp;rft.aulast=Greenslade&amp;rft.btitle=Press+Gang%3A+How+Newspapers+Make+Profits+From+Propaganda&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=978-0-330-39376-8&amp;rft.pages=601&amp;rft.pub=Pan+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Oppenheimer, A. R. (2009). <i>IRA: The Bombs and The Bullets. A History of Deadly Ingenuity</i>. Irish Academic Press, p. 127. <a href="/wiki/Special:BookSources/9780716528951" class="internal mw-magiclink-isbn">ISBN 978-0-7165-2895-1</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Jane's intelligence digest: the global early-warning service. Jane's Information Group, 2005</span></li>
+<li id="cite_note-graham-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-graham_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-graham_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-graham_22-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-graham_22-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-graham_22-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-graham_22-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Graham, Stephen (2004). <i>Cities, War, and Terrorism: Towards an Urban Geopolitics</i>. <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">Wiley</a>. pp.&#160;281–284. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4051-1575-9" title="Special:BookSources/978-1-4051-1575-9">978-1-4051-1575-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Stephen&amp;rft.aulast=Graham&amp;rft.btitle=Cities%2C+War%2C+and+Terrorism%3A+Towards+an+Urban+Geopolitics&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=978-1-4051-1575-9&amp;rft.pages=281-284&amp;rft.pub=Wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book">Taylor, Peter (2001). <i>Brits</i>. Bloomsbury Publishing. p.&#160;327. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7475-5806-X" title="Special:BookSources/0-7475-5806-X">0-7475-5806-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Peter&amp;rft.aulast=Taylor&amp;rft.btitle=Brits&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-7475-5806-X&amp;rft.pages=327&amp;rft.pub=Bloomsbury+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cain.ulst.ac.uk/events/peace/docs/ha24493.htm">"First Joint Statement issued by John Hume and Gerry Adams"</a>. <a href="/wiki/CAIN" class="mw-redirect" title="CAIN">CAIN</a>. 24 April 1993. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071020201455/http://cain.ulst.ac.uk/events/peace/docs/ha24493.htm">Archived</a> from the original on 20 October 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.btitle=First+Joint+Statement+issued+by+John+Hume+and+Gerry+Adams&amp;rft.date=1993-04-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcain.ulst.ac.uk%2Fevents%2Fpeace%2Fdocs%2Fha24493.htm&amp;rft.pub=CAIN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Vincent_Browne" title="Vincent Browne">Vincent Browne</a> (31 January 2007). <a rel="nofollow" class="external text" href="http://www.irishtimes.com/newspaper/opinion/2007/0131/1169681041563.html">"This is a good time for Ireland"</a>. <i><a href="/wiki/The_Irish_Times" title="The Irish Times">The Irish Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Vincent+Browne&amp;rft.btitle=This+is+a+good+time+for+Ireland&amp;rft.date=2007-01-31&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.irishtimes.com%2Fnewspaper%2Fopinion%2F2007%2F0131%2F1169681041563.html&amp;rft.pub=%27%27The+Irish+Times%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-english-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-english_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-english_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Richard_English" title="Richard English">English, Richard</a> (2003). <i>Armed Struggle: The History of the IRA</i>. <a href="/wiki/Pan_Books" title="Pan Books">Pan Books</a>. p.&#160;296. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-330-49388-4" title="Special:BookSources/0-330-49388-4">0-330-49388-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Richard&amp;rft.aulast=English&amp;rft.btitle=Armed+Struggle%3A+The+History+of+the+IRA&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-330-49388-4&amp;rft.pages=296&amp;rft.pub=Pan+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-coaffee2-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-coaffee2_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-coaffee2_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>Terrorism, Risk and the City: The Making of a Contemporary Urban Landscape</i>, p. 95.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation book">Graham, Julia; Kaye, David (2006). <i>A Risk Management Approach to Business Continuity: Aligning Business Continuity with Corporate Governance</i>. Rothstein Associates Inc. p.&#160;135. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-931332-36-1" title="Special:BookSources/978-1-931332-36-1">978-1-931332-36-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Graham%2C+Julia&amp;rft.au=Kaye%2C+David&amp;rft.btitle=A+Risk+Management+Approach+to+Business+Continuity%3A+Aligning+Business+Continuity+with+Corporate+Governance&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-1-931332-36-1&amp;rft.pages=135&amp;rft.pub=Rothstein+Associates+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">Joe Scanlon (2001). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20061013142202/http://www.caj.ca/mediamag/fall2001/opinion.html">"Putting terrorism and its aftermath into context"</a>. <a href="/wiki/Canadian_Association_of_Journalists" title="Canadian Association of Journalists">Canadian Association of Journalists</a>. Archived from <a rel="nofollow" class="external text" href="http://www.caj.ca/mediamag/fall2001/opinion.html">the original</a> on 13 October 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Joe+Scanlon&amp;rft.btitle=Putting+terrorism+and+its+aftermath+into+context&amp;rft.date=2001&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.caj.ca%2Fmediamag%2Ffall2001%2Fopinion.html&amp;rft.pub=Canadian+Association+of+Journalists&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cw-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-cw_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cw_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-cw_30-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computerweekly.com/Articles/2001/09/12/182467/terror-in-the-us-london-shocked-but-prepared.htm">"Terror in the US: London shocked but prepared"</a>. <i><a href="/wiki/Computer_Weekly" title="Computer Weekly">Computer Weekly</a></i>. 12 September 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.btitle=Terror+in+the+US%3A+London+shocked+but+prepared&amp;rft.date=2001-09-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerweekly.com%2FArticles%2F2001%2F09%2F12%2F182467%2Fterror-in-the-us-london-shocked-but-prepared.htm&amp;rft.pub=%27%27Computer+Weekly%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">Rachel Stevenson (8 July 2005). <a rel="nofollow" class="external text" href="http://news.independent.co.uk/business/news/article297610.ece">"Insurance losses capped by scheme"</a>. London: <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Rachel+Stevenson&amp;rft.btitle=Insurance+losses+capped+by+scheme&amp;rft.date=2005-07-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.independent.co.uk%2Fbusiness%2Fnews%2Farticle297610.ece&amp;rft.place=London&amp;rft.pub=%27%27The+Independent%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation book">Murray, Gerard (2005). <i>Sinn Féin and the SDLP: From Alienation to Participation</i>. <a href="/wiki/Palgrave_Macmillan" title="Palgrave Macmillan">Palgrave Macmillan</a>. p.&#160;185. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4039-6860-9" title="Special:BookSources/978-1-4039-6860-9">978-1-4039-6860-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Gerard&amp;rft.aulast=Murray&amp;rft.btitle=Sinn+F%C3%A9in+and+the+SDLP%3A+From+Alienation+to+Participation&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=978-1-4039-6860-9&amp;rft.pages=185&amp;rft.pub=Palgrave+Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-moloney-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-moloney_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-moloney_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Moloney, Ed (2002). <i>A Secret History of the IRA</i>. <a href="/wiki/Penguin_Books" title="Penguin Books">Penguin Books</a>. p.&#160;291. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-14-101041-X" title="Special:BookSources/0-14-101041-X">0-14-101041-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Ed&amp;rft.aulast=Moloney&amp;rft.btitle=A+Secret+History+of+the+IRA&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-14-101041-X&amp;rft.pages=291&amp;rft.pub=Penguin+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Damian_Bugg" title="Damian Bugg">Damian Bugg</a> (12 August 2003). <a rel="nofollow" class="external text" href="http://www.cdpp.gov.au/Media/Speeches/20030812db.aspx">"The reach of terrorist financing and combating it: the links between terrorism and ordinary crime"</a>. Commonwealth Director of Public Prosecutions<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Damian+Bugg&amp;rft.btitle=The+reach+of+terrorist+financing+and+combating+it%3A+the+links+between+terrorism+and+ordinary+crime&amp;rft.date=2003-08-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cdpp.gov.au%2FMedia%2FSpeeches%2F20030812db.aspx&amp;rft.pub=Commonwealth+Director+of+Public+Prosecutions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><i>25 Years of Terror: The IRA's war against the British</i>, pp. 294–295.</span></li>
+<li id="cite_note-bbc2-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbc2_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbc2_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/onthisday/hi/dates/stories/august/31/newsid_3605000/3605348.stm">"1994: IRA declares 'complete' ceasefire"</a>. BBC. 31 August 1994<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.atitle=1994%3A+IRA+declares+%27complete%27+ceasefire&amp;rft.date=1994-08-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fonthisday%2Fhi%2Fdates%2Fstories%2Faugust%2F31%2Fnewsid_3605000%2F3605348.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web">Richard Norton-Taylor (28 July 2000). <a rel="nofollow" class="external text" href="https://www.theguardian.com/shayler/article/0,2763,347906,00.html">"Punch faces contempt action"</a>. London: <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071222083716/http://www.guardian.co.uk/shayler/article/0,2763,347906,00.html">Archived</a> from the original on 22 December 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Richard+Norton-Taylor&amp;rft.btitle=Punch+faces+contempt+action&amp;rft.date=2000-07-28&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fshayler%2Farticle%2F0%2C2763%2C347906%2C00.html&amp;rft.place=London&amp;rft.pub=%27%27The+Guardian%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-hr-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-hr_38-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Arnheim, Michael (2004). <i>The Handbook of Human Rights Law: An Accessible Approach to the Issues and Principles</i>. <a href="/wiki/Kogan_Page_Publishers" class="mw-redirect" title="Kogan Page Publishers">Kogan Page Publishers</a>. p.&#160;149. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7494-3498-4" title="Special:BookSources/978-0-7494-3498-4">978-0-7494-3498-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.aufirst=Michael&amp;rft.aulast=Arnheim&amp;rft.btitle=The+Handbook+of+Human+Rights+Law%3A+An+Accessible+Approach+to+the+Issues+and+Principles&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=978-0-7494-3498-4&amp;rft.pages=149&amp;rft.pub=Kogan+Page+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web">Jessica Hodgson (7 November 2000). <a rel="nofollow" class="external text" href="https://www.theguardian.com/media/2000/nov/07/pressandpublishing1">"Punch magazine and editor fined £25,000 for contempt of court"</a>. London: <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Jessica+Hodgson&amp;rft.btitle=Punch+magazine+and+editor+fined+%A325%2C000+for+contempt+of+court&amp;rft.date=2000-11-07&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2000%2Fnov%2F07%2Fpressandpublishing1&amp;rft.place=London&amp;rft.pub=%27%27The+Guardian%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web">Jessica Hodgson (23 March 2001). <a rel="nofollow" class="external text" href="https://www.theguardian.com/media/2001/mar/23/pressandpublishing2">"Punch editor wins court case"</a>. London: <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Jessica+Hodgson&amp;rft.btitle=Punch+editor+wins+court+case&amp;rft.date=2001-03-23&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2001%2Fmar%2F23%2Fpressandpublishing2&amp;rft.place=London&amp;rft.pub=%27%27The+Guardian%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web">Ciar Byrne (12 December 2002). <a rel="nofollow" class="external text" href="https://www.theguardian.com/media/2002/dec/12/pressandpublishing.law">"Law lords overturn Punch decision"</a>. London: <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1993+Bishopsgate+bombing&amp;rft.au=Ciar+Byrne&amp;rft.btitle=Law+lords+overturn+Punch+decision&amp;rft.date=2002-12-12&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2002%2Fdec%2F12%2Fpressandpublishing.law&amp;rft.place=London&amp;rft.pub=%27%27The+Guardian%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><i>London Evening Standard</i>, page 37, 25 April 2013.</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Provisional_Irish_Republican_Army" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:PIRA" title="Template:PIRA"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:PIRA" title="Template talk:PIRA"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:PIRA&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Provisional_Irish_Republican_Army" style="font-size:114%;margin:0 4em"><a href="/wiki/Provisional_Irish_Republican_Army" title="Provisional Irish Republican Army">Provisional Irish Republican Army</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Irish_Republican_Army_(1922%E2%80%9369)" title="Irish Republican Army (1922–69)">Anti-Treaty IRA</a></li>
+<li><a href="/wiki/Sinn_F%C3%A9in" title="Sinn Féin">Sinn Féin</a></li>
+<li><a href="/wiki/Republican_News" title="Republican News">Republican News</a></li>
+<li><a href="/wiki/An_Phoblacht" title="An Phoblacht">An Phoblacht</a></li>
+<li><a href="/wiki/The_Green_Book_(IRA)" title="The Green Book (IRA)">The Green Book</a></li>
+<li><a href="/wiki/The_Troubles" title="The Troubles">The Troubles</a> (<a href="/wiki/Timeline_of_the_Northern_Ireland_Troubles_and_peace_process" title="Timeline of the Northern Ireland Troubles and peace process">Timeline</a>)</li>
+<li><a href="/wiki/Arms_Crisis" title="Arms Crisis">Haughey arms crisis</a></li>
+<li><a href="/wiki/Official_Irish_Republican_Army" title="Official Irish Republican Army">Officials-Provisionals split</a></li>
+<li><a href="/wiki/Provisional_Irish_Republican_Army_campaign_1969%E2%80%9397" class="mw-redirect" title="Provisional Irish Republican Army campaign 1969–97">Provisional IRA campaign</a></li>
+<li><a href="/wiki/Provisional_Irish_Republican_Army_arms_importation" title="Provisional Irish Republican Army arms importation">Arms importation</a></li>
+<li><a href="/wiki/Disappeared_(Northern_Ireland)" title="Disappeared (Northern Ireland)">Disappeared</a></li>
+<li><a href="/wiki/Mountjoy_Prison_helicopter_escape" title="Mountjoy Prison helicopter escape">Mountjoy Prison helicopter escape</a></li>
+<li><a href="/wiki/Blanket_protest" title="Blanket protest">Blanket protest</a></li>
+<li><a href="/wiki/Dirty_protest" title="Dirty protest">Dirty protest</a></li>
+<li><a href="/wiki/HM_Prison_Maze" title="HM Prison Maze">HM Prison Maze</a></li>
+<li><a href="/wiki/Anti_H-Block" title="Anti H-Block">Anti H-Block</a></li>
+<li><a href="/wiki/1981_Irish_hunger_strike" title="1981 Irish hunger strike">1981 Irish hunger strike</a></li>
+<li><a href="/wiki/Maze_Prison_escape" title="Maze Prison escape">Maze Prison escape</a></li>
+<li><a href="/wiki/Armalite_and_ballot_box_strategy" title="Armalite and ballot box strategy">Armalite and ballot box strategy</a></li>
+<li><a href="/wiki/Smithwick_Tribunal" title="Smithwick Tribunal">Smithwick Tribunal</a></li>
+<li><a href="/wiki/Northern_Ireland_peace_process" title="Northern Ireland peace process">Northern Ireland peace process</a></li>
+<li><a href="/wiki/1992_North_American_IRA_arrests" title="1992 North American IRA arrests">North American arrests</a></li>
+<li><a href="/wiki/Barrack_buster" title="Barrack buster">Barrack buster</a></li>
+<li><a href="/wiki/Good_Friday_Agreement" title="Good Friday Agreement">Good Friday Agreement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Organisation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/IRA_Army_Council" title="IRA Army Council">IRA Army Council</a></li>
+<li><a href="/wiki/Internal_Security_Unit" title="Internal Security Unit">Internal Security Unit</a></li>
+<li><a href="/wiki/Active_service_unit" title="Active service unit">Active Service Unit</a></li>
+<li><a href="/wiki/Provisional_IRA_Belfast_Brigade" title="Provisional IRA Belfast Brigade">Provisional IRA Belfast Brigade</a></li>
+<li><a href="/wiki/Provisional_IRA_South_Armagh_Brigade" title="Provisional IRA South Armagh Brigade">Provisional IRA South Armagh Brigade</a></li>
+<li><a href="/wiki/Provisional_IRA_East_Tyrone_Brigade" title="Provisional IRA East Tyrone Brigade">Provisional IRA East Tyrone Brigade</a></li>
+<li><a href="/wiki/The_Provisional_IRA%27s_Balcombe_Street_Gang" class="mw-redirect" title="The Provisional IRA's Balcombe Street Gang">Provisional IRA Balcombe Street Gang ASU</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_chronologies_of_Provisional_Irish_Republican_Army_actions" title="List of chronologies of Provisional Irish Republican Army actions">Attacks</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chronology_of_Provisional_Irish_Republican_Army_actions_(1970%E2%80%9379)" title="Chronology of Provisional Irish Republican Army actions (1970–79)">Insurgency</a>,<br />
+1969–1977</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_St_Matthew%27s" title="Battle of St Matthew's">Battle of St Matthew's</a></li>
+<li><a href="/wiki/1970_RUC_booby-trap_bombing" title="1970 RUC booby-trap bombing">1970 RUC booby-trap bombing</a></li>
+<li><a href="/wiki/1971_Scottish_soldiers%27_killings" title="1971 Scottish soldiers' killings">Scottish soldiers' killings</a></li>
+<li><a href="/wiki/1971_Balmoral_Furniture_Company_bombing" title="1971 Balmoral Furniture Company bombing">Balmoral showroom bombing</a></li>
+<li><a href="/wiki/Abercorn_Restaurant_bombing" title="Abercorn Restaurant bombing">Abercorn bombing</a></li>
+<li><a href="/wiki/1972_Donegall_Street_bombing" title="1972 Donegall Street bombing">Donegall St bombing</a></li>
+<li><a href="/wiki/Battle_at_Springmartin" title="Battle at Springmartin">Battle at Springmartin</a></li>
+<li><a href="/wiki/Bloody_Friday_(1972)" title="Bloody Friday (1972)">Bloody Friday</a></li>
+<li><a href="/wiki/Claudy_bombing" title="Claudy bombing">Claudy bombing</a></li>
+<li><a href="/wiki/1973_Coleraine_bombings" title="1973 Coleraine bombings">Coleraine bombings</a></li>
+<li><a href="/wiki/M62_coach_bombing" title="M62 coach bombing">M62 coach bombing</a></li>
+<li><a href="/wiki/Guildford_pub_bombings" title="Guildford pub bombings">Guildford pub bombings</a></li>
+<li><a href="/wiki/Brook%27s_Club_Bomb_Attack" class="mw-redirect" title="Brook's Club Bomb Attack">Brook's Club Bomb Attack</a></li>
+<li><a href="/wiki/1974_British_Airways_bombing_attempt" title="1974 British Airways bombing attempt">British Airways bombing attempt</a></li>
+<li><a href="/wiki/Birmingham_pub_bombings" title="Birmingham pub bombings">Birmingham pub bombings</a></li>
+<li><a href="/wiki/Bayardo_Bar_attack" title="Bayardo Bar attack">Bayardo Bar attack</a></li>
+<li><a href="/wiki/Caterham_Arms_pub_bombing" title="Caterham Arms pub bombing">Caterham Arms pub bombing</a></li>
+<li><a href="/wiki/London_Hilton_bombing" title="London Hilton bombing">London Hilton bombing</a></li>
+<li><a href="/wiki/Green_Park_Tube_Station_Bombing" title="Green Park Tube Station Bombing">Green Park Tube Station Bombing</a></li>
+<li><a href="/wiki/Scott%27s_(restaurant)_bombing" class="mw-redirect" title="Scott's (restaurant) bombing">Scott's (restaurant) bombing</a></li>
+<li><a href="/wiki/Walton%27s_Restaurant_bombing" title="Walton's Restaurant bombing">Walton's Restaurant bombing</a></li>
+<li><a href="/wiki/Drummuckavall_Ambush" title="Drummuckavall Ambush">Drummuckavall ambush</a></li>
+<li><a href="/wiki/Balcombe_Street_siege" title="Balcombe Street siege">Balcombe Street siege</a></li>
+<li><a href="/wiki/Kingsmill_massacre" title="Kingsmill massacre">Kingsmill massacre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chronology_of_Provisional_Irish_Republican_Army_actions_(1980%E2%80%9389)" title="Chronology of Provisional Irish Republican Army actions (1980–89)">Long War</a>,<br />
+1977–1988</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1978_British_Army_Gazelle_downing" title="1978 British Army Gazelle downing">Jonesboro <i>Gazelle</i> downing</a></li>
+<li><a href="/wiki/La_Mon_restaurant_bombing" title="La Mon restaurant bombing">La Mon restaurant bombing</a></li>
+<li><a href="/wiki/Warrenpoint_ambush" title="Warrenpoint ambush">Warrenpoint ambush</a></li>
+<li><a href="/wiki/Dunmurry_train_bombing" title="Dunmurry train bombing">Dunmurry train explosion</a></li>
+<li><a href="/wiki/Attacks_on_shipping_in_Lough_Foyle_(1981%E2%80%9382)" title="Attacks on shipping in Lough Foyle (1981–82)">Lough Foyle attacks</a></li>
+<li><a href="/wiki/Hyde_Park_and_Regent%27s_Park_bombings" title="Hyde Park and Regent's Park bombings">Hyde Park and Regent's Park bombings</a></li>
+<li><a href="/wiki/Harrods_bombings" title="Harrods bombings">Harrods bombing</a></li>
+<li><a href="/wiki/1983_Royal_Artillery_Barracks_bombing" title="1983 Royal Artillery Barracks bombing">Woolwich barracks</a></li>
+<li><a href="/wiki/Brighton_hotel_bombing" title="Brighton hotel bombing">Brighton hotel bombing</a></li>
+<li><a href="/wiki/Ballygawley_Land_Mine_Attack" class="mw-redirect" title="Ballygawley Land Mine Attack">Ballygawley Land Mine Attack</a></li>
+<li><a href="/wiki/1985_Newry_mortar_attack" title="1985 Newry mortar attack">Newry mortar attack</a></li>
+<li><a href="/wiki/Attack_on_Ballygawley_barracks" title="Attack on Ballygawley barracks">Ballygawley attack</a></li>
+<li><a href="/wiki/JHQ_Rheindahlen_bombing_(1987)" class="mw-redirect" title="JHQ Rheindahlen bombing (1987)">JHQ Rheindahlen bombing (Germany)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chronology_of_Provisional_Irish_Republican_Army_actions_(1990%E2%80%9399)" title="Chronology of Provisional Irish Republican Army actions (1990–99)">Peace Process</a>,<br />
+1988–1998</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Corporals_killings" title="Corporals killings">Corporals killings</a></li>
+<li><a href="/wiki/1988_Lisburn_van_bombing" title="1988 Lisburn van bombing">Lisburn van bombing</a></li>
+<li><a href="/wiki/1988_Netherlands_Ambush" class="mw-redirect" title="1988 Netherlands Ambush">1988 Netherlands Attacks</a></li>
+<li><a href="/wiki/Inglis_Barracks_bombing" title="Inglis Barracks bombing">Inglis Barracks</a></li>
+<li><a href="/wiki/Ballygawley_bus_bombing" title="Ballygawley bus bombing">Ballygawley bus bombing</a></li>
+<li><a href="/wiki/1989_Jonesborough_ambush" title="1989 Jonesborough ambush">Jonesborough ambush</a></li>
+<li><a href="/wiki/Deal_barracks_bombing" title="Deal barracks bombing">Deal barracks bombing</a></li>
+<li><a href="/wiki/Attack_on_Derryard_checkpoint" title="Attack on Derryard checkpoint">Derryard attack</a></li>
+<li><a href="/wiki/1990_British_Army_Gazelle_shootdown" title="1990 British Army Gazelle shootdown">Derrygorry <i>Gazelle</i> downing</a></li>
+<li><a href="/wiki/RFA_Fort_Victoria_bombing" title="RFA Fort Victoria bombing">RFA Fort Victoria bombing</a></li>
+<li><a href="/wiki/Proxy_bomb" title="Proxy bomb">Proxy bombings</a></li>
+<li><a href="/wiki/Downing_Street_mortar_attack" title="Downing Street mortar attack">Downing St mortar attack</a></li>
+<li><a href="/wiki/Mullacreevie_ambush" title="Mullacreevie ambush">Mullacreevie ambush</a></li>
+<li><a href="/wiki/Glenanne_barracks_bombing" title="Glenanne barracks bombing">Glenanne barracks bombing</a></li>
+<li><a href="/wiki/Teebane_bombing" title="Teebane bombing">Teebane bombing</a></li>
+<li><a href="/wiki/Attack_on_Cloghoge_checkpoint" title="Attack on Cloghoge checkpoint">Cloghoge attack</a></li>
+<li><a href="/wiki/1992_Manchester_bombing" title="1992 Manchester bombing">1992 Manchester bombing</a></li>
+<li><a href="/wiki/South_Armagh_Sniper_(1990%E2%80%9397)" title="South Armagh Sniper (1990–97)">South Armagh sniper campaign</a></li>
+<li><a href="/wiki/Warrington_bomb_attacks" title="Warrington bomb attacks">Warrington bomb attacks</a></li>
+<li><a href="/wiki/Occupation_of_Cullaville" title="Occupation of Cullaville">Cullaville occupation</a></li>
+<li><a class="mw-selflink selflink">Bishopsgate bombing</a></li>
+<li><a href="/wiki/Battle_of_Newry_Road" title="Battle of Newry Road">Battle of Newry Road</a></li>
+<li><a href="/wiki/Shankill_Road_bombing" title="Shankill Road bombing">Shankill Road bombing</a></li>
+<li><a href="/wiki/1994_British_Army_Lynx_shootdown" title="1994 British Army Lynx shootdown">Crossmaglen <i>Lynx</i> downing</a></li>
+<li><a href="/wiki/Drumcree_conflict" title="Drumcree conflict">Drumcree conflict</a></li>
+<li><a href="/wiki/1996_Docklands_bombing" title="1996 Docklands bombing">Docklands bombing</a></li>
+<li><a href="/wiki/1996_Manchester_bombing" title="1996 Manchester bombing">1996 Manchester bombing</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck_mortar_attack" title="Osnabrück mortar attack">Osnabrück mortar attack</a></li>
+<li><a href="/wiki/Thiepval_barracks_bombing" title="Thiepval barracks bombing">Thiepval barracks bombing</a></li>
+<li><a href="/wiki/1997_Coalisland_attack" title="1997 Coalisland attack">Coalisland attack</a></li>
+<li><a href="/wiki/1997_nationalist_riots_in_Northern_Ireland" title="1997 nationalist riots in Northern Ireland">July 1997 riots</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_Irish_Republican_Army_chiefs_of_staff" title="List of Irish Republican Army chiefs of staff">Chiefs of Staff</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Se%C3%A1n_Mac_St%C3%ADof%C3%A1in" title="Seán Mac Stíofáin">Seán Mac Stíofáin</a> <small>(1969–72)</small></li>
+<li><a href="/wiki/Joe_Cahill" title="Joe Cahill">Joe Cahill</a> <small>(1972–73)</small></li>
+<li><a href="/wiki/Seamus_Twomey" title="Seamus Twomey">Seamus Twomey</a> <small>(1973)</small></li>
+<li><a href="/wiki/%C3%89amonn_O%27Doherty_(republican)" title="Éamonn O'Doherty (republican)">Éamonn O'Doherty</a> <small>(1973–74)</small></li>
+<li>Seamus Twomey <small>(1974–77)</small></li>
+<li><a href="/wiki/Gerry_Adams" title="Gerry Adams">Gerry Adams</a> <small>(1977–78)</small></li>
+<li><a href="/wiki/Martin_McGuinness" title="Martin McGuinness">Martin McGuinness</a> <small>(1978–82)</small></li>
+<li><a href="/wiki/Ivor_Bell" title="Ivor Bell">Ivor Bell</a> <small>(1982–83)</small></li>
+<li><a href="/wiki/Kevin_McKenna_(Irish_republican)" title="Kevin McKenna (Irish republican)">Kevin McKenna</a> <small>(1983–97)</small></li>
+<li><a href="/wiki/Thomas_Murphy_(Irish_republican)" title="Thomas Murphy (Irish republican)">Thomas "Slab" Murphy</a> <small>(1997–2005)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_members_of_the_Irish_Republican_Army" title="List of members of the Irish Republican Army">Personalities</a><br />
+<small><a href="/wiki/Volunteer_(Irish_republican)" title="Volunteer (Irish republican)">(Volunteers)</a></small></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Billy_McKee" title="Billy McKee">Billy McKee</a></li>
+<li><a href="/wiki/Gerry_Kelly" title="Gerry Kelly">Gerry Kelly</a></li>
+<li><a href="/wiki/Dolours_Price" title="Dolours Price">Dolours Price</a></li>
+<li><a href="/wiki/Marian_Price" title="Marian Price">Marian Price</a></li>
+<li><a href="/wiki/John_Joe_McGirl" title="John Joe McGirl">John Joe McGirl</a></li>
+<li><a href="/wiki/Ruair%C3%AD_%C3%93_Br%C3%A1daigh" title="Ruairí Ó Brádaigh">Ruairí Ó Brádaigh</a></li>
+<li><a href="/wiki/D%C3%A1ith%C3%AD_%C3%93_Conaill" title="Dáithí Ó Conaill">Dáithí Ó Conaill</a></li>
+<li><a href="/wiki/George_Harrison_(Irish_republican)" title="George Harrison (Irish republican)">George Harrison</a></li>
+<li><a href="/wiki/Billy_Reid_(Irish_republican)" title="Billy Reid (Irish republican)">Billy Reid</a></li>
+<li><a href="/wiki/Michael_Gaughan_(Irish_republican)" title="Michael Gaughan (Irish republican)">Michael Gaughan</a></li>
+<li><a href="/w/index.php?title=James_McDade&amp;action=edit&amp;redlink=1" class="new" title="James McDade (page does not exist)">James McDade</a></li>
+<li><a href="/wiki/Pat_Doherty" title="Pat Doherty">Pat Doherty</a></li>
+<li><a href="/wiki/Hugh_Doherty_(Irish_republican)" title="Hugh Doherty (Irish republican)">Hugh Doherty</a></li>
+<li><a href="/wiki/S%C3%A9anna_Breathnach" title="Séanna Breathnach">Séanna Breathnach</a></li>
+<li><a href="/wiki/Proinsias_MacAirt" title="Proinsias MacAirt">Proinsias MacAirt</a></li>
+<li><a href="/wiki/John_Kelly_(Sinn_F%C3%A9in_politician)" title="John Kelly (Sinn Féin politician)">John Kelly</a></li>
+<li><a href="/wiki/Rose_Dugdale" title="Rose Dugdale">Rose Dugdale</a></li>
+<li><a href="/wiki/John_Francis_Green" title="John Francis Green">John Francis Green</a></li>
+<li><a href="/wiki/Peter_Cleary" title="Peter Cleary">Peter Cleary</a></li>
+<li><a href="/wiki/Kevin_Coen" title="Kevin Coen">Kevin Coen</a></li>
+<li><a href="/wiki/Frank_Stagg_(Irish_republican)" title="Frank Stagg (Irish republican)">Frank Stagg</a></li>
+<li><a href="/wiki/Kieran_Nugent" title="Kieran Nugent">Kieran Nugent</a></li>
+<li><a href="/wiki/Francis_Hughes" title="Francis Hughes">Francis Hughes</a></li>
+<li><a href="/wiki/Brendan_Hughes" title="Brendan Hughes">Brendan Hughes</a></li>
+<li><a href="/wiki/Tommy_McKearney" title="Tommy McKearney">Tommy McKearney</a></li>
+<li><a href="/wiki/Raymond_McCartney" title="Raymond McCartney">Raymond McCartney</a></li>
+<li><a href="/wiki/Gerry_McGeough" title="Gerry McGeough">Gerry McGeough</a></li>
+<li><a href="/wiki/Gerard_Casey_(Irish_republican)" title="Gerard Casey (Irish republican)">Gerard Casey</a></li>
+<li><a href="/wiki/Thomas_McMahon_(Irish_republican)" title="Thomas McMahon (Irish republican)">Thomas McMahon</a></li>
+<li><a href="/wiki/Eamon_Collins" title="Eamon Collins">Eamon Collins</a></li>
+<li><a href="/wiki/Gerard_Tuite" title="Gerard Tuite">Gerard Tuite</a></li>
+<li><a href="/wiki/Patrick_Magee_(Irish_republican)" title="Patrick Magee (Irish republican)">Patrick Magee</a></li>
+<li><a href="/wiki/Bobby_Sands" title="Bobby Sands">Bobby Sands</a></li>
+<li><a href="/wiki/Raymond_McCreesh" title="Raymond McCreesh">Raymond McCreesh</a></li>
+<li><a href="/wiki/Joe_McDonnell_(hunger_striker)" title="Joe McDonnell (hunger striker)">Joe McDonnell</a></li>
+<li><a href="/wiki/Martin_Hurson" title="Martin Hurson">Martin Hurson</a></li>
+<li><a href="/wiki/Kieran_Doherty" title="Kieran Doherty">Kieran Doherty</a></li>
+<li><a href="/wiki/Thomas_McElwee" title="Thomas McElwee">Thomas McElwee</a></li>
+<li><a href="/wiki/Michael_McKevitt" title="Michael McKevitt">Michael McKevitt</a></li>
+<li><a href="/wiki/Alex_Maskey" title="Alex Maskey">Alex Maskey</a></li>
+<li><a href="/wiki/Fra_McCann" title="Fra McCann">Fra McCann</a></li>
+<li><a href="/wiki/Owen_Carron" title="Owen Carron">Owen Carron</a></li>
+<li><a href="/wiki/Paul_Butler_(politician)" title="Paul Butler (politician)">Paul Butler</a></li>
+<li><a href="/wiki/Dessie_Ellis" title="Dessie Ellis">Dessie Ellis</a></li>
+<li><a href="/wiki/Angelo_Fusco" title="Angelo Fusco">Angelo Fusco</a></li>
+<li><a href="/wiki/Breand%C3%A1n_Mac_Cionnaith" title="Breandán Mac Cionnaith">Breandán Mac Cionnaith</a></li>
+<li><a href="/wiki/Rita_O%27Hare" title="Rita O'Hare">Rita O'Hare</a></li>
+<li><a href="/wiki/Martin_Meehan_(Irish_republican)" title="Martin Meehan (Irish republican)">Martin Meehan</a></li>
+<li><a href="/wiki/Arthur_Morgan_(Irish_politician)" title="Arthur Morgan (Irish politician)">Arthur Morgan</a></li>
+<li><a href="/wiki/Danny_Morrison_(author)" class="mw-redirect" title="Danny Morrison (author)">Danny Morrison</a></li>
+<li><a href="/wiki/Antoine_Mac_Giolla_Bhrighde" title="Antoine Mac Giolla Bhrighde">Antoine Mac Giolla Bhrighde</a></li>
+<li><a href="/wiki/Kieran_Fleming" title="Kieran Fleming">Kieran Fleming</a></li>
+<li><a href="/wiki/William_Fleming_(Irish_republican)" title="William Fleming (Irish republican)">William Fleming</a></li>
+<li><a href="/wiki/Bernard_Fox_(Irish_republican)" title="Bernard Fox (Irish republican)">Bernard Fox</a></li>
+<li><a href="/wiki/Paddy_Quinn_(Irish_republican)" title="Paddy Quinn (Irish republican)">Paddy Quinn</a></li>
+<li><a href="/wiki/Laurence_McKeown" title="Laurence McKeown">Laurence McKeown</a></li>
+<li><a href="/wiki/Pat_McGeown" title="Pat McGeown">Pat McGeown</a></li>
+<li><a href="/wiki/Matt_Devlin" title="Matt Devlin">Matt Devlin</a></li>
+<li><a href="/wiki/Pat_Sheehan_(Irish_republican)" title="Pat Sheehan (Irish republican)">Pat Sheehan</a></li>
+<li><a href="/wiki/Siobh%C3%A1n_O%27Hanlon" title="Siobhán O'Hanlon">Siobhán O'Hanlon</a></li>
+<li><a href="/wiki/Jackie_McMullan" title="Jackie McMullan">Jackie McMullan</a></li>
+<li><a href="/wiki/Patrick_Joseph_Kelly" title="Patrick Joseph Kelly">Patrick Joseph Kelly</a></li>
+<li><a href="/wiki/Larry_Marley" title="Larry Marley">Larry Marley</a></li>
+<li><a href="/wiki/Jim_Lynagh" title="Jim Lynagh">Jim Lynagh</a></li>
+<li><a href="/wiki/P%C3%A1draig_McKearney" title="Pádraig McKearney">Pádraig McKearney</a></li>
+<li><a href="/wiki/Brendan_McFarlane" title="Brendan McFarlane">Brendan McFarlane</a></li>
+<li><a href="/wiki/Charles_Breslin" title="Charles Breslin">Charles Breslin</a></li>
+<li><a href="/wiki/Sean_O%27Callaghan" title="Sean O'Callaghan">Sean O'Callaghan</a></li>
+<li><a href="/wiki/S%C3%A9amus_McElwaine" title="Séamus McElwaine">Séamus McElwaine</a></li>
+<li><a href="/wiki/Gabriel_Cleary" title="Gabriel Cleary">Gabriel Cleary</a></li>
+<li><a href="/wiki/Daniel_McCann" title="Daniel McCann">Daniel McCann</a></li>
+<li><a href="/wiki/Se%C3%A1n_Savage" title="Seán Savage">Seán Savage</a></li>
+<li><a href="/wiki/Mair%C3%A9ad_Farrell" title="Mairéad Farrell">Mairéad Farrell</a></li>
+<li><a href="/wiki/Martin_McCaughey" title="Martin McCaughey">Martin McCaughey</a></li>
+<li><a href="/wiki/Dessie_Grew" title="Dessie Grew">Dessie Grew</a></li>
+<li><a href="/wiki/Fergal_Caraher" title="Fergal Caraher">Fergal Caraher</a></li>
+<li><a href="/wiki/Patricia_Black" title="Patricia Black">Patricia Black</a></li>
+<li><a href="/wiki/Malachy_Carey" title="Malachy Carey">Malachy Carey</a></li>
+<li><a href="/wiki/Martin_McGartland" title="Martin McGartland">Martin McGartland</a></li>
+<li><a href="/wiki/Joseph_MacManus" title="Joseph MacManus">Joseph MacManus</a></li>
+<li><a href="/wiki/Paul_Magee" title="Paul Magee">Paul Magee</a></li>
+<li><a href="/wiki/Pearse_Jordan" title="Pearse Jordan">Pearse Jordan</a></li>
+<li><a href="/wiki/Thomas_Begley" title="Thomas Begley">Thomas Begley</a></li>
+<li><a href="/wiki/Martin_Doherty_(Irish_republican)" title="Martin Doherty (Irish republican)">Martin Doherty</a></li>
+<li><a href="/wiki/Edward_O%27Brien_(Irish_republican)" title="Edward O'Brien (Irish republican)">Ed O'Brien</a></li>
+<li><a href="/wiki/Diarmuid_O%27Neill" title="Diarmuid O'Neill">Diarmuid O'Neill</a></li>
+<li><a href="/wiki/Car%C3%A1l_N%C3%AD_Chuil%C3%ADn" title="Carál Ní Chuilín">Carál Ní Chuilín</a></li>
+<li><a href="/wiki/Ian_Milne" title="Ian Milne">Ian Milne</a></li>
+<li><a href="/wiki/Conor_Murphy" title="Conor Murphy">Conor Murphy</a></li>
+<li><a href="/wiki/Martina_Anderson" title="Martina Anderson">Martina Anderson</a></li>
+<li><a href="/wiki/Jennifer_McCann" title="Jennifer McCann">Jennifer McCann</a></li>
+<li><a href="/wiki/Liam_Campbell" title="Liam Campbell">Liam Campbell</a></li>
+<li><a href="/wiki/Colin_Duffy" title="Colin Duffy">Colin Duffy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Espionage &amp;<br />
+<a href="/wiki/Supergrass_(informer)" class="mw-redirect" title="Supergrass (informer)">Supergrasses</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Denis_Donaldson" title="Denis Donaldson">Denis Donaldson</a></li>
+<li><a href="/wiki/Freddie_Scappaticci" title="Freddie Scappaticci">Freddie Scappaticci</a> <small>(allegedly "<a href="/wiki/Stakeknife" title="Stakeknife">Stakeknife</a>")</small></li>
+<li><a href="/wiki/Martin_McGartland" title="Martin McGartland">Martin McGartland</a></li>
+<li><a href="/wiki/Raymond_Gilmour" title="Raymond Gilmour">Raymond Gilmour</a></li>
+<li><a href="/wiki/Kevin_Fulton" title="Kevin Fulton">Kevin Fulton</a></li>
+<li><a href="/wiki/Joseph_Fenton" title="Joseph Fenton">Joseph Fenton</a></li>
+<li><a href="/wiki/Eamon_Collins" title="Eamon Collins">Eamon Collins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Associates</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cumann_na_mBan" title="Cumann na mBan">Cumann na mBan</a></li>
+<li><a href="/wiki/Fianna_%C3%89ireann" title="Fianna Éireann">Fianna Éireann</a></li>
+<li><a href="/wiki/South_Armagh_Republican_Action_Force" title="South Armagh Republican Action Force">South Armagh Republican Action Force</a></li>
+<li><a href="/wiki/Direct_Action_Against_Drugs" title="Direct Action Against Drugs">Direct Action Against Drugs</a></li>
+<li><a href="/wiki/NORAID" title="NORAID">NORAID</a></li>
+<li><a href="/wiki/Clan_na_Gael" title="Clan na Gael">Provisional Clan na Gael</a></li>
+<li><a href="/wiki/Friends_of_Sinn_F%C3%A9in" title="Friends of Sinn Féin">Friends of Sinn Féin</a></li>
+<li><a href="/wiki/Cairde_na_h%C3%89ireann" title="Cairde na hÉireann">Cairde na hÉireann</a></li>
+<li><a href="/wiki/Troops_Out_Movement" title="Troops Out Movement">Troops Out Movement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Derivatives</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Continuity_Irish_Republican_Army" title="Continuity Irish Republican Army">Continuity Irish Republican Army</a></li>
+<li><a href="/wiki/Real_Irish_Republican_Army" title="Real Irish Republican Army">Real Irish Republican Army</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Prominent killings</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Michael_Willetts" title="Michael Willetts">Michael Willetts</a></li>
+<li><a href="/wiki/Murder_of_Jean_McConville" title="Murder of Jean McConville">Jean McConville</a></li>
+<li><a href="/wiki/Columba_McVeigh" title="Columba McVeigh">Columba McVeigh</a></li>
+<li><a href="/wiki/Billy_Fox_(politician)" title="Billy Fox (politician)">Billy Fox</a></li>
+<li><a href="/wiki/Martin_McBirney" title="Martin McBirney">Martin McBirney</a></li>
+<li><a href="/wiki/Murder_of_Stephen_Tibble" title="Murder of Stephen Tibble">Steven Tibble</a></li>
+<li><a href="/wiki/Ross_McWhirter" title="Ross McWhirter">Ross McWhirter</a></li>
+<li><a href="/wiki/Sammy_Smyth_(loyalist)" title="Sammy Smyth (loyalist)">Sammy Smyth</a></li>
+<li><a href="/wiki/Christopher_Ewart-Biggs" title="Christopher Ewart-Biggs">Christopher Ewart-Biggs</a></li>
+<li><a href="/wiki/Jeffery_Agate" title="Jeffery Agate">Jeffery Stanford Agate</a></li>
+<li><a href="/wiki/Robert_Nairac" title="Robert Nairac">Robert Nairac</a></li>
+<li><a href="/wiki/Assassination_of_Richard_Sykes_(British_diplomat)" class="mw-redirect" title="Assassination of Richard Sykes (British diplomat)">Richard Sykes</a></li>
+<li><a href="/wiki/Gerard_Evans" title="Gerard Evans">Gerard Evans</a></li>
+<li><a href="/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma" title="Louis Mountbatten, 1st Earl Mountbatten of Burma">Lord Mountbatten</a></li>
+<li><a href="/wiki/Doreen_Knatchbull,_Baroness_Brabourne" title="Doreen Knatchbull, Baroness Brabourne">Baroness Brabourne</a></li>
+<li><a href="/wiki/Norman_Stronge" title="Norman Stronge">Norman Stronge</a></li>
+<li><a href="/wiki/James_Stronge_(Mid-Armagh_MP)" title="James Stronge (Mid-Armagh MP)">James Stronge</a></li>
+<li><a href="/wiki/Robert_Bradford_(Northern_Irish_politician)" title="Robert Bradford (Northern Irish politician)">Robert Bradford</a></li>
+<li><a href="/wiki/Lenny_Murphy" title="Lenny Murphy">Lenny Murphy</a></li>
+<li><a href="/wiki/Death_of_Kenneth_Salvesen" title="Death of Kenneth Salvesen">Kenneth Salvesen</a></li>
+<li><a href="/wiki/Anthony_Berry" title="Anthony Berry">Anthony Berry</a></li>
+<li><a href="/wiki/Maurice_Gibson" title="Maurice Gibson">Maurice Gibson</a></li>
+<li><a href="/wiki/Robert_Seymour_(loyalist)" title="Robert Seymour (loyalist)">Robert Seymour</a></li>
+<li><a href="/wiki/Heidi_Hazell_(IRA_murder_victim)" title="Heidi Hazell (IRA murder victim)">Heidi Hazell</a></li>
+<li><a href="/wiki/Joseph_Fenton" title="Joseph Fenton">Joseph Fenton</a></li>
+<li><a href="/wiki/Killings_of_Nick_Spanos_and_Stephen_Melrose" title="Killings of Nick Spanos and Stephen Melrose">Nick Spanos</a></li>
+<li><a href="/wiki/Killings_of_Nick_Spanos_and_Stephen_Melrose" title="Killings of Nick Spanos and Stephen Melrose">Stephen Melrose</a></li>
+<li><a href="/wiki/Ian_Gow" title="Ian Gow">Ian Gow</a></li>
+<li><a href="/wiki/Donald_Kaberry,_Baron_Kaberry_of_Adel" title="Donald Kaberry, Baron Kaberry of Adel">Donald Kaberry</a></li>
+<li><a href="/wiki/Murder_of_Thomas_Oliver" title="Murder of Thomas Oliver">Thomas Oliver</a></li>
+<li><a href="/wiki/Sammy_Ward" title="Sammy Ward">Sammy Ward</a></li>
+<li><a href="/wiki/The_Tim_Parry_Johnathan_Ball_Foundation_for_Peace" title="The Tim Parry Johnathan Ball Foundation for Peace">Tim Parry</a></li>
+<li><a href="/wiki/The_Tim_Parry_Johnathan_Ball_Foundation_for_Peace" title="The Tim Parry Johnathan Ball Foundation for Peace">Jonathan Ball</a></li>
+<li><a href="/wiki/Ray_Smallwoods" title="Ray Smallwoods">Ray Smallwoods</a></li>
+<li><a href="/wiki/Joe_Bratty" title="Joe Bratty">Joe Bratty</a></li>
+<li><a href="/wiki/Raymond_Elder" title="Raymond Elder">Raymond Elder</a></li>
+<li><a href="/wiki/Martin_Cahill" title="Martin Cahill">Martin Cahill</a></li>
+<li><a href="/wiki/Death_of_Jerry_McCabe" class="mw-redirect" title="Death of Jerry McCabe">Jerry McCabe</a></li>
+<li><a href="/wiki/Murder_of_Andrew_Kearney" title="Murder of Andrew Kearney">Andrew Kearney</a></li>
+<li><a href="/wiki/Eamon_Collins" title="Eamon Collins">Eamon Collins</a></li>
+<li><a href="/wiki/Murder_of_Matthew_Burns" title="Murder of Matthew Burns">Matthew Burns</a></li>
+<li><a href="/wiki/Murder_of_Robert_McCartney" title="Murder of Robert McCartney">Robert McCartney</a> <small>(allegedly)</small></li>
+<li><a href="/wiki/Murder_of_James_Curran" title="Murder of James Curran">James Curran</a></li>
+<li><a href="/wiki/Murder_of_Joseph_Rafferty" title="Murder of Joseph Rafferty">Joseph Rafferty</a> <small>(allegedly)</small></li>
+<li><a href="/wiki/Murder_of_Paul_Quinn" title="Murder of Paul Quinn">Paul Quinn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2214
+Cached time: 20170424014256
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.448 seconds
+Real time usage: 0.563 seconds
+Preprocessor visited node count: 4711/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 159899/2097152 bytes
+Template argument size: 18078/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 3/500
+Lua time usage: 0.187/10.000 seconds
+Lua memory usage: 5.15 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  453.822      1 -total
+ 46.28%  210.041      1 Template:Reflist
+ 22.19%  100.700     18 Template:Cite_book
+ 17.58%   79.799      1 Template:Infobox_terrorist_attack
+ 16.57%   75.205      1 Template:Infobox
+ 11.57%   52.499     14 Template:Cite_web
+ 10.79%   48.986      1 Template:Coord
+  7.28%   33.040      1 Template:Inflation
+  5.97%   27.072      3 Template:Navbox
+  5.87%   26.633      1 Template:Good_article
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14478554-0!*!0!!en!4!* and timestamp 20170424014301 and revision id 776905317
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1993_Bishopsgate_bombing&amp;oldid=776905317">https://en.wikipedia.org/w/index.php?title=1993_Bishopsgate_bombing&amp;oldid=776905317</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1993_in_London" title="Category:1993 in London">1993 in London</a></li><li><a href="/wiki/Category:Terrorist_incidents_in_1993" title="Category:Terrorist incidents in 1993">Terrorist incidents in 1993</a></li><li><a href="/wiki/Category:Car_and_truck_bombings_in_England" title="Category:Car and truck bombings in England">Car and truck bombings in England</a></li><li><a href="/wiki/Category:Murder_in_1993" title="Category:Murder in 1993">Murder in 1993</a></li><li><a href="/wiki/Category:Terrorist_incidents_in_the_United_Kingdom" title="Category:Terrorist incidents in the United Kingdom">Terrorist incidents in the United Kingdom</a></li><li><a href="/wiki/Category:1993_crimes_in_the_United_Kingdom" title="Category:1993 crimes in the United Kingdom">1993 crimes in the United Kingdom</a></li><li><a href="/wiki/Category:Explosions_in_1993" title="Category:Explosions in 1993">Explosions in 1993</a></li><li><a href="/wiki/Category:Explosions_in_London" title="Category:Explosions in London">Explosions in London</a></li><li><a href="/wiki/Category:History_of_the_City_of_London" title="Category:History of the City of London">History of the City of London</a></li><li><a href="/wiki/Category:Provisional_Irish_Republican_Army_actions_in_London" title="Category:Provisional Irish Republican Army actions in London">Provisional Irish Republican Army actions in London</a></li><li><a href="/wiki/Category:April_1993_events" title="Category:April 1993 events">April 1993 events</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Use_British_English_from_May_2013" title="Category:Use British English from May 2013">Use British English from May 2013</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2013" title="Category:Use dmy dates from May 2013">Use dmy dates from May 2013</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1993+Bishopsgate+bombing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1993+Bishopsgate+bombing" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1993_Bishopsgate_bombing"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1993_Bishopsgate_bombing"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1993_Bishopsgate_bombing" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1993_Bishopsgate_bombing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1993_Bishopsgate_bombing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;oldid=776905317" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4352718" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1993_Bishopsgate_bombing&amp;id=776905317" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1993+Bishopsgate+bombing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1993+Bishopsgate+bombing&amp;returnto=1993+Bishopsgate+bombing&amp;oldid=776905317&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1993_Bishopsgate_bombing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Bishopsgate-bomontploffing" title="Bishopsgate-bomontploffing – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-es badge-Q17437798 badge-goodarticle" title="good article"><a href="https://es.wikipedia.org/wiki/Atentado_de_Bishopsgate_de_1993" title="Atentado de Bishopsgate de 1993 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Bishopsgaten_pommi-isku" title="Bishopsgaten pommi-isku – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4352718#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 April 2017, at 01:43.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1993_Bishopsgate_bombing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.448","walltime":"0.563","ppvisitednodes":{"value":4711,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":159899,"limit":2097152},"templateargumentsize":{"value":18078,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  453.822      1 -total"," 46.28%  210.041      1 Template:Reflist"," 22.19%  100.700     18 Template:Cite_book"," 17.58%   79.799      1 Template:Infobox_terrorist_attack"," 16.57%   75.205      1 Template:Infobox"," 11.57%   52.499     14 Template:Cite_web"," 10.79%   48.986      1 Template:Coord","  7.28%   33.040      1 Template:Inflation","  5.97%   27.072      3 Template:Navbox","  5.87%   26.633      1 Template:Good_article"]},"scribunto":{"limitreport-timeusage":{"value":"0.187","limit":"10.000"},"limitreport-memusage":{"value":5396105,"limit":52428800}},"cachereport":{"origin":"mw2214","timestamp":"20170424014256","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":52,"wgHostname":"mw2193"});});</script>
+	</body>
+</html>

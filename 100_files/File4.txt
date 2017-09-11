@@ -1,0 +1,919 @@
+https://en.wikipedia.org/wiki/%C4%90akovo_concentration_camp
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Đakovo concentration camp - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Đakovo_concentration_camp","wgTitle":"Đakovo concentration camp","wgCurRevisionId":776131244,"wgRevisionId":776131244,"wgArticleId":53129486,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Croatian-language text","Coordinates on Wikidata","Concentration camps of the Independent State of Croatia","Jewish Croatian history","The Holocaust in Yugoslavia","History of the Serbs of Croatia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Đakovo_concentration_camp","wgRelevantArticleId":53129486,"wgRequestId":"WPvFjArAIFMAAK99ghwAAAAC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":45.1836,"lon":18.2436},"wgWikibaseItemId":"Q12745780","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Peace_in_Heaven_2013_%C4%90akovo_Croatia.jpg/1200px-Peace_in_Heaven_2013_%C4%90akovo_Croatia.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/%C4%90akovo_concentration_camp"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/%C4%90akovo_concentration_camp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Đakovo_concentration_camp rootpage-Đakovo_concentration_camp skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Đakovo concentration camp</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Đakovo concentration camp</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/Concentration_camp" class="mw-redirect" title="Concentration camp">Concentration camp</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Peace_in_Heaven_2013_%C4%90akovo_Croatia.jpg" class="image"><img alt="Peace in Heaven 2013 Đakovo Croatia.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Peace_in_Heaven_2013_%C4%90akovo_Croatia.jpg/225px-Peace_in_Heaven_2013_%C4%90akovo_Croatia.jpg" width="225" height="169" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Peace_in_Heaven_2013_%C4%90akovo_Croatia.jpg/338px-Peace_in_Heaven_2013_%C4%90akovo_Croatia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Peace_in_Heaven_2013_%C4%90akovo_Croatia.jpg/450px-Peace_in_Heaven_2013_%C4%90akovo_Croatia.jpg 2x" data-file-width="1280" data-file-height="960" /></a>
+<div><i>Peace in Heaven</i> by <a href="/wiki/Dina_Merhav" title="Dina Merhav">Dina Merhav</a>, the monument commemorating the Holocaust victims from Đakovo concentration camp</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="location"><a href="/wiki/%C4%90akovo" title="Đakovo">Đakovo</a>, <a href="/wiki/Independent_State_of_Croatia" title="Independent State of Croatia">Independent State of Croatia</a> (modern-day <a href="/wiki/Croatia" title="Croatia">Croatia</a>)</td>
+</tr>
+<tr>
+<th scope="row">Operated by</th>
+<td><a href="/wiki/Independent_State_of_Croatia" title="Independent State of Croatia">Independent State of Croatia</a></td>
+</tr>
+<tr>
+<th scope="row">Original use</th>
+<td>the mill <i>Cerereale</i> owned by local Catholic bishopric</td>
+</tr>
+<tr>
+<th scope="row">Operational</th>
+<td>1 December 1941 - 7 July 1942</td>
+</tr>
+<tr>
+<th scope="row">Inmates</th>
+<td>Jewish women and children</td>
+</tr>
+<tr>
+<th scope="row">Number of inmates</th>
+<td>3,000</td>
+</tr>
+<tr>
+<th scope="row">Killed</th>
+<td>at least 516 or 650</td>
+</tr>
+</table>
+<p>The <b>Đakovo concentration camp</b> (<a href="/wiki/Croatian_language" title="Croatian language">Croatian</a>: <span lang="hr" xml:lang="hr"><i>Đakovo koncentracioni logor</i></span>) was a <a href="/wiki/Concentration_camp" class="mw-redirect" title="Concentration camp">concentration camp</a> established in 1941 in <a href="/wiki/%C4%90akovo" title="Đakovo">Đakovo</a>, <a href="/wiki/Independent_State_of_Croatia" title="Independent State of Croatia">Independent State of Croatia</a> (modern-day <a href="/wiki/Croatia" title="Croatia">Croatia</a>). It was established in the deserted flour mill <i>Cereale</i> owned by the <a href="/wiki/Roman_Catholic_Archdiocese_of_%C4%90akovo-Osijek" title="Roman Catholic Archdiocese of Đakovo-Osijek">Roman Catholic Diocese of Đakovo</a> although the Đakovo bishop, supported by <a href="/wiki/Archbishop_of_Zagreb" class="mw-redirect" title="Archbishop of Zagreb">Archbishop of Zagreb</a> <a href="/wiki/Aloysius_Stepinac" title="Aloysius Stepinac">Aloysius Stepinac</a>, firmly opposed the idea of <a href="/wiki/Usta%C5%A1e" title="Ustaše">Ustaše</a> to establish a concentration camp within the borders of the Bishop's domain. The camp was established on 1 December 1941 mainly for <a href="/wiki/Jews" title="Jews">Jewish</a> women and children, including some <a href="/wiki/Serbs" title="Serbs">Serb</a> girls. It was operational until its disestablishment on 7 July 1942. Around 3,000 women and children were its inmates and subjected to beatings, rapes, dog attacks and death from sickness and starvation. At least 650 women and children died in it. During the camp's disestablishment, the remaining inmates were transported to other camps and killed.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Establishment"><span class="tocnumber">1</span> <span class="toctext">Establishment</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Inmates"><span class="tocnumber">2</span> <span class="toctext">Inmates</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Disestablishment"><span class="tocnumber">3</span> <span class="toctext">Disestablishment</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Sources"><span class="tocnumber">5</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Establishment">Establishment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=edit&amp;section=1" title="Edit section: Establishment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Diocese of Đakovo did not give its approval for the establishment of the camp in their flour mill.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The <a href="/wiki/Archbishop_of_Zagreb" class="mw-redirect" title="Archbishop of Zagreb">Archbishop of Zagreb</a> <a href="/wiki/Aloysius_Stepinac" title="Aloysius Stepinac">Aloysius Stepinac</a> supported the office of the Đakovo bishop in their firm opposition to the idea of <a href="/wiki/Usta%C5%A1e" title="Ustaše">Ustaše</a> to establish a concentration camp within the borders of the Bishop's domain.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In spite of their opposition, Ustaše established concentration camp in early December 1941<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> mostly for Jewish women and children, 3,000 of them being inmates of the camp.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Inmates">Inmates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=edit&amp;section=2" title="Edit section: Inmates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first two transports of inmates brought 1,830 Jewish women and children and 50 Serb girls to Đakovo camp, followed by transport of about 1,200 women and children transported from <a href="/wiki/Stara_Gradi%C5%A1ka_concentration_camp" title="Stara Gradiška concentration camp">Stara Gradiška camp</a> on 24 February 1942.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>One fifth of inmates were registered as victims of this camp, most of them died after Ustaše took over complete control of the camp<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> on 29 March 1942.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> They began a terrible terror of camps inmates who were subjected to beatings, death from sickness, starvation, Ustaše threw bread crumbs among starving children and set guard dogs to attack them,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> girls were raped and killed.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> More than 516 or 650<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> corps of people who died in Đakovo concentration camp are buried on Đakovo cemetery.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Ustaše forcibly transported hundreds of people infected with typhus from Stara Gradiška to Đakovo camp to spread the disease.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Disestablishment">Disestablishment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=edit&amp;section=3" title="Edit section: Disestablishment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The camp was disestablished in period 15 June - 7 July 1942.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The disestablishment was organized by Jozo Matković, Ustaše Lieutenant. The remaining inmates numbering between 2,000 and 3,000 Jewish women and children were transported to other camps and killed.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">(<a href="#CITEREFBulatovi.C4.871990">Bulatović 1990</a>, p.&#160;73):"U Đakovu je osnovan koncentracioni logor u mlinu&#160;»Cerereale«, vlasnišvo tamošnje biskupije."</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">(<a href="#CITEREFSteckel1973">Steckel 1973</a>, p.&#160;28): "Although the Djakovo office of the Bishop, supported by Archbishop Alois (Aloyze) Stepinac of Zagreb, opposed firmly the idea of a concentration camp within the confines of the Bishop's estate, the District Police in Osijek decreed that the flour mill "Cereale" should be used as an official camp."</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">(<a href="#CITEREFColi.C4.871973">Colić 1973</a>, p.&#160;384): "Logor u Djakovu osnovan je početkom decembra 1941"</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">(<a href="#CITEREFJeli.C4.87-Buti.C4.871977">Jelić-Butić 1977</a>, p.&#160;186): "U prosincu 1941. osnovan je logor u Đakovu, namijenjen prvenstveno židovskim ženama i djeci, kojih je bilo oko 3.000."</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">(<a href="#CITEREFBulatovi.C4.871990">Bulatović 1990</a>, p.&#160;73): "U prva dva transporta stiglo je u logor Đakovo 1830 jevrejskih žena i djece i 50 srpskih djevojaka."</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">(<a href="#CITEREFCentar1984">Centar 1984</a>, p.&#160;217): " Broj evidentiranih logorskih žrtava sahranjenih na Jevrejskom groblju u Đakovu iznosio je peti dio od ukupnog broja zatočenih. Uzme li se u obzir da je najveći dio logorašica stradao neposredno nakon što su ustaše preuzele upravu logora, ..."</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">(<a href="#CITEREF.C5.A0vob2004">Švob 2004</a>, p.&#160;318): "Mjesec dana nakon dolaska transporta iz Stare Gradiške, 29.3.1942. ustaše preuzimaju logor."</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">(<a href="#CITEREFCouncil1998">Council 1998</a>, p.&#160;69): "Often the children were subjected to whatever cruelty the whim of the Ustashi dictated. In the Djakovo camp, the Ustashi amused themselves by throwing bread crumbs among the starving children and then setting guard dogs on them."</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">(<a href="#CITEREF.C5.A0vob2004">Švob 2004</a>, p.&#160;318): "Nastao je strašan teror, premlaćivanje, umiranje od bolesti, izgladnjivanje, napadanje djece psima, prisiljavanje ....."</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">(<a href="#CITEREFBulaji.C4.872002">Bulajić 2002</a>, p.&#160;174): "The second phase of the Djakovo camp, where after a short while the number of prisoners reached around three thousand, which was far beyond available space, was launched on 24 February 1942, when the Ustasha took full control of the camp. The treatment of prisoners was real hell."</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">(<a href="#CITEREFABSEES1973">ABSEES 1973</a>, p.&#160;267):" JEWS Some 65O women and children, buried in the Djakovo Jewish cemetery, died in the local ustasi concentration camp between December 19^1 and June 19^2, deported there mainly from other towns of Bosnia and Herzegovina."</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">(<a href="#CITEREFBulatovi.C4.871990">Bulatović 1990</a>, p.&#160;74)</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">(<a href="#CITEREFArsdale2006">Arsdale 2006</a>, p.&#160;72): "hundreds of typhus infected inmates from the Stara Gradiska camp were forcibly transported to another camp near Djakovo so as to spread the infection."</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">(<a href="#CITEREFGoldstein2001">Goldstein 2001</a>, p.&#160;324): "U razdoblju od 15. lipnja do 7. srpnja 1942. likvidiran je koncentracioni logor u Đakovu"</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">(<a href="#CITEREFBasta1986">Basta 1986</a>, p.&#160;176): "Posebno ističem da je u početku ljeta izvršena u Jasenovcu likvidacija logorg Đakovo. Tom je likvidacijom rukovodio Joso Matković, ustaški poručnik. Kod te likvidacije logora Đakovo računam da je pobijeno oko 2-3 hiljade Židovki i njihove ..."</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=edit&amp;section=5" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin columns references-column-count references-column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><cite id="CITEREFBulatovi.C4.871990" class="citation book">Bulatović, Radomir (1990). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=4KwrAAAAMAAJ"><i>Koncentracioni logor Jasenovac s posebnim osvrtom na Donju Gradinu: istorijsko-sociološka i antropološka studija</i></a>. Svjetlost.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Radomir&amp;rft.aulast=Bulatovi%C4%87&amp;rft.btitle=Koncentracioni+logor+Jasenovac+s+posebnim+osvrtom+na+Donju+Gradinu%3A+istorijsko-sociolo%C5%A1ka+i+antropolo%C5%A1ka+studija&amp;rft.date=1990&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4KwrAAAAMAAJ&amp;rft.pub=Svjetlost&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFColi.C4.871973" class="citation book">Colić, Mladen (1973). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=8xNWAAAAYAAJ"><i>Takozvana Nezavisna Država Hrvatska 1941</i></a>. Delta-pres.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Mladen&amp;rft.aulast=Coli%C4%87&amp;rft.btitle=Takozvana+Nezavisna+Dr%C5%BEava+Hrvatska+1941&amp;rft.date=1973&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D8xNWAAAAYAAJ&amp;rft.pub=Delta-pres&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFJeli.C4.87-Buti.C4.871977" class="citation book">Jelić-Butić, Fikreta (1977). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=I5tnAAAAMAAJ"><i>Ustaše i Nezavisna Država Hrvatska: 1941-1945</i></a>. Sveučiliǎna naklada Liber&#160;; Školska knjiga.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Fikreta&amp;rft.aulast=Jeli%C4%87-Buti%C4%87&amp;rft.btitle=Usta%C5%A1e+i+Nezavisna+Dr%C5%BEava+Hrvatska%3A+1941-1945&amp;rft.date=1977&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DI5tnAAAAMAAJ&amp;rft.pub=Sveu%C4ili%C7%8Ena+naklada+Liber+%3B+%C5%A0kolska+knjiga&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREF.C5.A0vob2004" class="citation book">Švob, Melita (2004). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=DNg7AAAAMAAJ"><i>Jews in Croatia: Jewish communities</i></a>. Izvori. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-953-203-181-2" title="Special:BookSources/978-953-203-181-2">978-953-203-181-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Melita&amp;rft.aulast=%C5%A0vob&amp;rft.btitle=Jews+in+Croatia%3A+Jewish+communities&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DDNg7AAAAMAAJ&amp;rft.isbn=978-953-203-181-2&amp;rft.pub=Izvori&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFGoldsteinGoldstein2001" class="citation book">Goldstein, Ivo; Goldstein, Slavko (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=lKptAAAAMAAJ"><i>Holokaust u Zagrebu</i></a>. Novi liber.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Ivo&amp;rft.au=Goldstein%2C+Slavko&amp;rft.aulast=Goldstein&amp;rft.btitle=Holokaust+u+Zagrebu&amp;rft.date=2001&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DlKptAAAAMAAJ&amp;rft.pub=Novi+liber&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFArsdale2006" class="citation book">Arsdale, Van Peter W. (4 August 2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=tfdsAAAAQBAJ&amp;pg=PA72"><i>Forced to Flee: Human Rights and Human Wrongs in Refugee Homelands</i></a>. Lexington Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7391-5506-6" title="Special:BookSources/978-0-7391-5506-6">978-0-7391-5506-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Van+Peter+W.&amp;rft.aulast=Arsdale&amp;rft.btitle=Forced+to+Flee%3A+Human+Rights+and+Human+Wrongs+in+Refugee+Homelands&amp;rft.date=2006-08-04&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DtfdsAAAAQBAJ%26pg%3DPA72&amp;rft.isbn=978-0-7391-5506-6&amp;rft.pub=Lexington+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFABSEES1973" class="citation book">ABSEES (January 1973). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=tdpXAAAAYAAJ"><i>ABSEES - Soviet and East European Abstracts Series</i></a>. ABSEES.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.au=ABSEES&amp;rft.btitle=ABSEES+-+Soviet+and+East+European+Abstracts+Series&amp;rft.date=1973-01&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DtdpXAAAAYAAJ&amp;rft.pub=ABSEES&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFBulatovi.C4.871990" class="citation book">Bulatović, Radomir (1990). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=4KwrAAAAMAAJ"><i>Koncentracioni logor Jasenovac s posebnim osvrtom na Donju Gradinu: istorijsko-sociološka i antropološka studija</i></a>. Svjetlost.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Radomir&amp;rft.aulast=Bulatovi%C4%87&amp;rft.btitle=Koncentracioni+logor+Jasenovac+s+posebnim+osvrtom+na+Donju+Gradinu%3A+istorijsko-sociolo%C5%A1ka+i+antropolo%C5%A1ka+studija&amp;rft.date=1990&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4KwrAAAAMAAJ&amp;rft.pub=Svjetlost&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFCentar1984" class="citation book">Centar (1984). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=apcMAQAAMAAJ"><i>Zbornik Centra za drustvena istrazivanja Slavonije i Baranje</i></a>. Centar za drustvena istrazivanja Slavonije i Baranje.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.au=Centar&amp;rft.btitle=Zbornik+Centra+za+drustvena+istrazivanja+Slavonije+i+Baranje&amp;rft.date=1984&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DapcMAQAAMAAJ&amp;rft.pub=Centar+za+drustvena+istrazivanja+Slavonije+i+Baranje&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFBasta1986" class="citation book">Basta, Milan (1986). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=zT0rAAAAMAAJ"><i>Rat je završen 7 dana kasnije</i></a>. Privredni pregled.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Milan&amp;rft.aulast=Basta&amp;rft.btitle=Rat+je+zavr%C5%A1en+7+dana+kasnije&amp;rft.date=1986&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DzT0rAAAAMAAJ&amp;rft.pub=Privredni+pregled&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFBulaji.C4.872002" class="citation book">Bulajić, Milan (2002). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=CgJnAAAAMAAJ"><i>Jasenovac: the Jewish Serbian holocaust (the role of the Vatican) in Nazi-Ustasha Croatia (1941-1945)</i></a>. Fund for Genocide Research.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Milan&amp;rft.aulast=Bulaji%C4%87&amp;rft.btitle=Jasenovac%3A+the+Jewish+Serbian+holocaust+%28the+role+of+the+Vatican%29+in+Nazi-Ustasha+Croatia+%281941-1945%29&amp;rft.date=2002&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCgJnAAAAMAAJ&amp;rft.pub=Fund+for+Genocide+Research&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFCouncil1998" class="citation book">Council (1998). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=NmgMAAAAIAAJ"><i>Krajina: the tragedy of a people</i></a>. Canadian Serbian Council. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-9683870-0-9" title="Special:BookSources/978-0-9683870-0-9">978-0-9683870-0-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.au=Council&amp;rft.btitle=Krajina%3A+the+tragedy+of+a+people&amp;rft.date=1998&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DNmgMAAAAIAAJ&amp;rft.isbn=978-0-9683870-0-9&amp;rft.pub=Canadian+Serbian+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFSteckel1973" class="citation book">Steckel, Charles W. (1973). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=OhVCAAAAIAAJ"><i>Destruction and Survival</i></a>. Delmar Publishing Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C4%90akovo+concentration+camp&amp;rft.aufirst=Charles+W.&amp;rft.aulast=Steckel&amp;rft.btitle=Destruction+and+Survival&amp;rft.date=1973&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOhVCAAAAIAAJ&amp;rft.pub=Delmar+Publishing+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="The_Holocaust" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:The_Holocaust" title="Template:The Holocaust"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:The_Holocaust" title="Template talk:The Holocaust"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Holocaust&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="The_Holocaust" style="font-size:114%;margin:0 4em"><a href="/wiki/The_Holocaust" title="The Holocaust">The Holocaust</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">By territory</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/The_Holocaust_in_Albania" title="The Holocaust in Albania">Albania</a></li>
+<li><a href="/wiki/The_Holocaust_in_Belarus" title="The Holocaust in Belarus">Belarus</a></li>
+<li><a href="/wiki/The_Holocaust_in_Belgium" title="The Holocaust in Belgium">Belgium</a></li>
+<li><a href="/wiki/German_occupation_of_the_Channel_Islands#Repressions" title="German occupation of the Channel Islands">Channel Islands</a></li>
+<li><a href="/wiki/The_Holocaust_in_the_Independent_State_of_Croatia" title="The Holocaust in the Independent State of Croatia">Croatia</a></li>
+<li><a href="/wiki/The_Holocaust_in_Estonia" title="The Holocaust in Estonia">Estonia</a></li>
+<li><a href="/wiki/The_Holocaust_in_France" title="The Holocaust in France">France</a></li>
+<li><a href="/wiki/The_Holocaust_in_Norway" title="The Holocaust in Norway">Norway</a></li>
+<li><a href="/wiki/The_Holocaust_in_Latvia" title="The Holocaust in Latvia">Latvia</a></li>
+<li><a href="/wiki/The_Holocaust_in_Italian_Libya" class="mw-redirect" title="The Holocaust in Italian Libya">Libya</a></li>
+<li><a href="/wiki/The_Holocaust_in_Lithuania" title="The Holocaust in Lithuania">Lithuania</a></li>
+<li><a href="/wiki/The_Holocaust_in_Luxembourg" title="The Holocaust in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/The_Holocaust_in_Poland" title="The Holocaust in Poland">Poland</a></li>
+<li><a href="/wiki/The_Holocaust_in_Russia" title="The Holocaust in Russia">Russia</a></li>
+<li><a href="/wiki/The_Holocaust_in_Serbia" title="The Holocaust in Serbia">Serbia</a></li>
+<li><a href="/wiki/The_Holocaust_in_Ukraine" title="The Holocaust in Ukraine">Ukraine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Lists and<br />
+timelines</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_victims_of_Nazism" title="List of victims of Nazism">Victims of Nazism</a></li>
+<li><a href="/wiki/List_of_Holocaust_survivors" title="List of Holocaust survivors">Holocaust survivors</a></li>
+<li><a href="/wiki/List_of_survivors_of_Sobib%C3%B3r" title="List of survivors of Sobibór">Survivors of Sobibór</a></li>
+<li><a href="/wiki/List_of_victims_and_survivors_of_Auschwitz" title="List of victims and survivors of Auschwitz">Victims and survivors of Auschwitz</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Bibliography_of_The_Holocaust" title="Bibliography of The Holocaust">Books and other resources</a></li>
+<li><a href="/wiki/List_of_Holocaust_films" title="List of Holocaust films">Films about the Holocaust</a></li>
+<li><a href="/wiki/List_of_Nazi_concentration_camps" title="List of Nazi concentration camps">Nazi concentration camps</a></li>
+<li><a href="/wiki/List_of_Nazi_ideologues" title="List of Nazi ideologues">Nazi ideologues</a></li>
+<li><a href="/wiki/Individuals_and_groups_assisting_Jews_during_the_Holocaust" title="Individuals and groups assisting Jews during the Holocaust">Rescuers of Jews</a></li>
+<li><a href="/wiki/List_of_villages_and_towns_depopulated_of_Jews_during_the_Holocaust" title="List of villages and towns depopulated of Jews during the Holocaust">Shtetls depopulated of Jews</a></li>
+<li><a href="/wiki/Timeline_of_deportations_of_French_Jews_to_death_camps" title="Timeline of deportations of French Jews to death camps">Timeline of deportations of French Jews</a></li>
+<li><a href="/wiki/Timeline_of_the_Holocaust" title="Timeline of the Holocaust">Timeline of the Holocaust</a></li>
+<li><a href="/wiki/Timeline_of_the_Holocaust_in_Norway" title="Timeline of the Holocaust in Norway">Timeline of the Holocaust in Norway</a></li>
+<li><a href="/wiki/Timeline_of_Treblinka" class="mw-redirect" title="Timeline of Treblinka">Treblinka timeline</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Camps" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Nazi_concentration_camps" title="List of Nazi concentration camps">Camps</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nazi_concentration_camps" title="Nazi concentration camps">Concentration</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergen-Belsen_concentration_camp" title="Bergen-Belsen concentration camp">Bergen-Belsen</a></li>
+<li><a href="/wiki/Bogdanovka" title="Bogdanovka">Bogdanovka</a></li>
+<li><a href="/wiki/Buchenwald_concentration_camp" title="Buchenwald concentration camp">Buchenwald</a></li>
+<li><a href="/wiki/Dachau_concentration_camp" title="Dachau concentration camp">Dachau</a></li>
+<li><a href="/wiki/Mittelbau-Dora" title="Mittelbau-Dora">Dora</a></li>
+<li><a class="mw-selflink selflink">Đakovo</a></li>
+<li><a href="/wiki/Esterwegen_concentration_camp" title="Esterwegen concentration camp">Esterwegen</a></li>
+<li><a href="/wiki/Flossenb%C3%BCrg_concentration_camp" title="Flossenbürg concentration camp">Flossenbürg</a></li>
+<li><a href="/wiki/Gonars_concentration_camp" title="Gonars concentration camp">Gonars</a></li>
+<li><a href="/wiki/Gross-Rosen_concentration_camp" title="Gross-Rosen concentration camp">Gross-Rosen</a></li>
+<li><a href="/wiki/Herzogenbusch_concentration_camp" title="Herzogenbusch concentration camp">Herzogenbusch</a></li>
+<li><a href="/wiki/Jadovno_concentration_camp" title="Jadovno concentration camp">Jadovno</a></li>
+<li><a href="/wiki/Janowska_concentration_camp" title="Janowska concentration camp">Janowska</a></li>
+<li><a href="/wiki/Kaiserwald_concentration_camp" title="Kaiserwald concentration camp">Kaiserwald</a></li>
+<li><a href="/wiki/Krak%C3%B3w-P%C5%82asz%C3%B3w_concentration_camp" title="Kraków-Płaszów concentration camp">Kraków-Płaszów</a></li>
+<li><a href="/wiki/Kru%C5%A1%C4%8Dica_concentration_camp" title="Kruščica concentration camp">Kruščica</a></li>
+<li><a href="/wiki/Lobor_concentration_camp" title="Lobor concentration camp">Lobor</a></li>
+<li><a href="/wiki/Mauthausen-Gusen_concentration_camp" title="Mauthausen-Gusen concentration camp">Mauthausen-Gusen</a></li>
+<li><a href="/wiki/Neuengamme_concentration_camp" title="Neuengamme concentration camp">Neuengamme</a></li>
+<li><a href="/wiki/Rab_concentration_camp" title="Rab concentration camp">Rab</a></li>
+<li><a href="/wiki/Ravensbr%C3%BCck_concentration_camp" title="Ravensbrück concentration camp">Ravensbrück</a></li>
+<li><a href="/wiki/Sachsenhausen_concentration_camp" title="Sachsenhausen concentration camp">Sachsenhausen</a></li>
+<li><a href="/wiki/Salaspils_concentration_camp" title="Salaspils concentration camp">Salaspils</a></li>
+<li><a href="/wiki/Sisak_children%27s_concentration_camp" title="Sisak children's concentration camp">Sisak children's camp</a></li>
+<li><a href="/wiki/Stutthof_concentration_camp" title="Stutthof concentration camp">Stutthof</a></li>
+<li><a href="/wiki/Theresienstadt_concentration_camp" title="Theresienstadt concentration camp">Theresienstadt</a></li>
+<li><a href="/wiki/Uckermark_concentration_camp" title="Uckermark concentration camp">Uckermark</a></li>
+<li><a href="/wiki/Warsaw_concentration_camp" title="Warsaw concentration camp">Warsaw</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Extermination_camp" title="Extermination camp">Extermination</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Auschwitz_concentration_camp" title="Auschwitz concentration camp">Auschwitz-Birkenau</a></li>
+<li><a href="/wiki/Be%C5%82%C5%BCec_extermination_camp" title="Bełżec extermination camp">Bełżec</a></li>
+<li><a href="/wiki/Che%C5%82mno_extermination_camp" title="Chełmno extermination camp">Chełmno</a></li>
+<li><a href="/wiki/Jasenovac_concentration_camp" title="Jasenovac concentration camp">Jasenovac</a></li>
+<li><a href="/wiki/Majdanek_concentration_camp" title="Majdanek concentration camp">Majdanek</a></li>
+<li><a href="/wiki/Maly_Trostenets_extermination_camp" title="Maly Trostenets extermination camp">Maly Trostenets</a></li>
+<li><a href="/wiki/Sajmi%C5%A1te_concentration_camp" title="Sajmište concentration camp">Sajmište</a></li>
+<li><a href="/wiki/Slana_concentration_camp" title="Slana concentration camp">Slana</a></li>
+<li><a href="/wiki/Sobib%C3%B3r_extermination_camp" title="Sobibór extermination camp">Sobibór</a></li>
+<li><a href="/wiki/Treblinka_extermination_camp" title="Treblinka extermination camp">Treblinka</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Transit</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><span class="smallcaps" style="font-variant:small-caps;">be</span></b></li>
+<li><a href="/wiki/Fort_Breendonk" title="Fort Breendonk">Breendonk</a></li>
+<li><a href="/wiki/Mechelen_transit_camp" title="Mechelen transit camp">Mechelen</a></li>
+<li><b><a href="/wiki/Concentration_camps_in_France" class="mw-redirect" title="Concentration camps in France"><span class="smallcaps" style="font-variant:small-caps;">fr</span></a></b></li>
+<li><a href="/wiki/Gurs_internment_camp" title="Gurs internment camp">Gurs</a></li>
+<li><a href="/wiki/Drancy_internment_camp" title="Drancy internment camp">Drancy</a></li>
+<li><b><a href="/wiki/List_of_Italian_concentration_camps#World_War_II" title="List of Italian concentration camps"><span class="smallcaps" style="font-variant:small-caps;">it</span></a></b></li>
+<li><a href="/wiki/Bolzano_Transit_Camp" title="Bolzano Transit Camp">Bolzano</a></li>
+<li><a href="/wiki/Risiera_di_San_Sabba" title="Risiera di San Sabba">Risiera di San Sabba</a></li>
+<li><b><span class="smallcaps" style="font-variant:small-caps;">nl</span></b></li>
+<li><a href="/wiki/Amersfoort_concentration_camp" title="Amersfoort concentration camp">Amersfoort</a></li>
+<li><a href="/wiki/Westerbork_transit_camp" title="Westerbork transit camp">Westerbork</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Methods</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Einsatzgruppen" title="Einsatzgruppen">Einsatzgruppen</a></li>
+<li><a href="/wiki/Gas_van" title="Gas van">Gas van</a></li>
+<li><a href="/wiki/Gas_chamber" title="Gas chamber">Gas chamber</a></li>
+<li><a href="/wiki/Extermination_through_labour" title="Extermination through labour">Extermination through labour</a></li>
+<li><a href="/wiki/Nazi_human_experimentation" title="Nazi human experimentation">Human medical experimentation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Nazi units</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SS-Totenkopfverb%C3%A4nde" title="SS-Totenkopfverbände">SS-<i>Totenkopfverbände</i></a></li>
+<li><a href="/wiki/Concentration_Camps_Inspectorate" title="Concentration Camps Inspectorate">Concentration Camps Inspectorate</a></li>
+<li><i><a href="/wiki/Politische_Abteilung" title="Politische Abteilung">Politische Abteilung</a></i></li>
+<li><i><a href="/wiki/Sanit%C3%A4tswesen" title="Sanitätswesen">Sanitätswesen</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Victims" style="font-size:114%;margin:0 4em">Victims</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7.5em"><a href="/wiki/History_of_the_Jews_during_World_War_II" title="History of the Jews during World War II">Jews</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Roundup_(history)" title="Roundup (history)">Roundups</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><span class="smallcaps" style="font-variant:small-caps;">fr</span></b></li>
+<li><a href="/wiki/Izieu" title="Izieu">Izieu</a></li>
+<li><a href="/wiki/Round_up_of_Marseille" title="Round up of Marseille">Marseille</a></li>
+<li><a href="/wiki/Vel%27_d%27Hiv_Roundup" title="Vel' d'Hiv Roundup">Vel' d'Hiv</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Pogrom#During_the_Holocaust" title="Pogrom">Pogroms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Kristallnacht" title="Kristallnacht">Kristallnacht</a></i></li>
+<li><a href="/wiki/Legionnaires%27_rebellion_and_Bucharest_pogrom" title="Legionnaires' rebellion and Bucharest pogrom">Bucharest</a></li>
+<li><a href="/wiki/Dorohoi_pogrom" title="Dorohoi pogrom">Dorohoi</a></li>
+<li><a href="/wiki/Ia%C8%99i_pogrom" title="Iași pogrom">Iaşi</a></li>
+<li><a href="/wiki/Jedwabne_pogrom" title="Jedwabne pogrom">Jedwabne</a></li>
+<li><a href="/wiki/Kaunas_pogrom" title="Kaunas pogrom">Kaunas</a></li>
+<li><a href="/wiki/Lviv_pogroms" title="Lviv pogroms">Lviv</a></li>
+<li><a href="/wiki/1941_Odessa_massacre" title="1941 Odessa massacre">Odessa</a></li>
+<li><a href="/wiki/Tykocin_pogrom" title="Tykocin pogrom">Tykocin</a></li>
+<li><a href="/wiki/W%C4%85sosz_pogrom" title="Wąsosz pogrom">Wąsosz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Ghettos_in_Nazi-occupied_Europe" title="Ghettos in Nazi-occupied Europe">Ghettos</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background:#eef;font-weight:normal;"><a href="/wiki/Jewish_ghettos_in_German-occupied_Poland" title="Jewish ghettos in German-occupied Poland">Poland</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bia%C5%82ystok_Ghetto" title="Białystok Ghetto">Białystok</a></li>
+<li><a href="/wiki/Krak%C3%B3w_Ghetto" title="Kraków Ghetto">Kraków</a></li>
+<li><a href="/wiki/%C5%81%C3%B3d%C5%BA_Ghetto" title="Łódź Ghetto">Łódź</a></li>
+<li><a href="/wiki/Lublin_Ghetto" title="Lublin Ghetto">Lublin</a></li>
+<li><a href="/wiki/Lw%C3%B3w_Ghetto" title="Lwów Ghetto">Lwów</a></li>
+<li><a href="/wiki/Warsaw_Ghetto" title="Warsaw Ghetto">Warsaw</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#eef;font-weight:normal;">Elsewhere</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Budapest_Ghetto" title="Budapest Ghetto">Budapest</a></li>
+<li><a href="/wiki/Kovno_Ghetto" title="Kovno Ghetto">Kovno</a></li>
+<li><a href="/wiki/Minsk_Ghetto" title="Minsk Ghetto">Minsk</a></li>
+<li><a href="/wiki/Riga_Ghetto" title="Riga Ghetto">Riga</a></li>
+<li><a href="/wiki/Vilna_Ghetto" title="Vilna Ghetto">Vilna</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">"<a href="/wiki/Final_Solution" title="Final Solution">Final Solution</a>"</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wannsee_Conference" title="Wannsee Conference">Wannsee Conference</a></li>
+<li><a href="/wiki/Operation_Reinhard" title="Operation Reinhard">Operation Reinhard</a></li>
+<li><a href="/wiki/Holocaust_train" title="Holocaust train">Holocaust trains</a></li>
+<li><a href="/wiki/Extermination_camp" title="Extermination camp">Extermination camps</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><i><a href="/wiki/Einsatzgruppen" title="Einsatzgruppen">Einsatzgruppen</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Babi_Yar" title="Babi Yar">Babi Yar</a></li>
+<li><a href="/wiki/Valley_of_Death_(Bydgoszcz)" title="Valley of Death (Bydgoszcz)">Bydgoszcz</a></li>
+<li><a href="/wiki/Kamianets-Podilskyi_massacre" title="Kamianets-Podilskyi massacre">Kamianets-Podilskyi</a></li>
+<li><a href="/wiki/Ninth_Fort" title="Ninth Fort">Ninth Fort</a></li>
+<li><a href="/wiki/Massacres_in_Pia%C5%9Bnica" title="Massacres in Piaśnica">Piaśnica</a></li>
+<li><a href="/wiki/Ponary_massacre" title="Ponary massacre">Ponary</a></li>
+<li><a href="/wiki/Rumbula_massacre" title="Rumbula massacre">Rumbula</a></li>
+<li><a href="/wiki/Aktion_Erntefest" title="Aktion Erntefest">Erntefest</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Jewish_resistance_in_German-occupied_Europe" title="Jewish resistance in German-occupied Europe">Resistance</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jewish_partisans" title="Jewish partisans">Jewish partisans</a></li>
+<li><a href="/wiki/Ghetto_uprising" title="Ghetto uprising">Ghetto uprisings</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Warsaw_Ghetto_Uprising" title="Warsaw Ghetto Uprising">Warsaw</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Bia%C5%82ystok_Ghetto_Uprising" class="mw-redirect" title="Białystok Ghetto Uprising">Białystok</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Cz%C4%99stochowa_Ghetto_Uprising" class="mw-redirect" title="Częstochowa Ghetto Uprising">Częstochowa</a></span></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/End_of_World_War_II_in_Europe" title="End of World War II in Europe">End of World War II</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Death_marches_(Holocaust)" title="Death marches (Holocaust)">Death marches</a></li>
+<li><a href="/wiki/Wola_massacre" title="Wola massacre">Wola</a></li>
+<li><a href="/wiki/Bricha" title="Bricha">Bricha</a></li>
+<li><a href="/wiki/Sh%27erit_ha-Pletah" title="Sh'erit ha-Pletah">Displaced persons</a></li>
+<li><a href="/wiki/Holocaust_denial" title="Holocaust denial">Holocaust denial</a>
+<ul>
+<li><a href="/wiki/Holocaust_trivialization" title="Holocaust trivialization">trivialization</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.5em"><a href="/wiki/Holocaust_victims" title="Holocaust victims">Others</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Porajmos" title="Porajmos">Romani people <span style="font-size:90%;">(gypsies)</span></a></li>
+<li><a href="/wiki/Nazi_crimes_against_the_Polish_nation" title="Nazi crimes against the Polish nation">Poles</a></li>
+<li><a href="/wiki/German_mistreatment_of_Soviet_prisoners_of_war" title="German mistreatment of Soviet prisoners of war">Soviet POWs</a></li>
+<li><a href="/wiki/Generalplan_Ost" title="Generalplan Ost">Slavs in Eastern Europe</a></li>
+<li><a href="/wiki/Persecution_of_homosexuals_in_Nazi_Germany_and_the_Holocaust" title="Persecution of homosexuals in Nazi Germany and the Holocaust">Homosexuals</a></li>
+<li><a href="/wiki/Action_T4" class="mw-redirect" title="Action T4">People with disabilities</a></li>
+<li><a href="/wiki/World_War_II_persecution_of_Serbs" title="World War II persecution of Serbs">Serbs</a></li>
+<li><a href="/wiki/Suppression_of_Freemasonry#Nazi_Germany_and_occupied_Europe" title="Suppression of Freemasonry">Freemasons</a></li>
+<li><a href="/wiki/Persecution_of_Jehovah%27s_Witnesses_in_Nazi_Germany" title="Persecution of Jehovah's Witnesses in Nazi Germany">Jehovah's Witnesses</a></li>
+<li><a href="/wiki/Persecution_of_black_people_in_Nazi_Germany" title="Persecution of black people in Nazi Germany">Black people</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Responsibility" style="font-size:114%;margin:0 4em"><a href="/wiki/Responsibility_for_the_Holocaust" title="Responsibility for the Holocaust">Responsibility</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7.5em">Organizations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nazi_Party" title="Nazi Party">Nazi Party</a></li>
+<li><a href="/wiki/Schutzstaffel" title="Schutzstaffel"><i>Schutzstaffel</i> (SS)</a></li>
+<li><a href="/wiki/Reich_Security_Main_Office" class="mw-redirect" title="Reich Security Main Office">Reich Security Main Office</a> (RSHA)</li>
+<li><a href="/wiki/Sicherheitsdienst" title="Sicherheitsdienst">Sicherheitsdienst</a> (SD)</li>
+<li><a href="/wiki/Waffen-SS" title="Waffen-SS">Waffen-SS</a></li>
+<li><a href="/wiki/War_crimes_of_the_Wehrmacht" title="War crimes of the Wehrmacht">Wehrmacht</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.5em">Units</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Einsatzgruppen" title="Einsatzgruppen">Einsatzgruppen</a></i></li>
+<li><a href="/wiki/Police_Regiment_Centre" title="Police Regiment Centre">Police Regiments</a></li>
+<li><a href="/wiki/Ordnungspolizei#Police_Battalions" title="Ordnungspolizei">Orpo Police Battalions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.5em"><a href="/wiki/Collaboration_with_the_Axis_Powers_during_World_War_II" title="Collaboration with the Axis Powers during World War II">Collaborators</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ypatingasis_b%C5%ABrys" title="Ypatingasis būrys">Ypatingasis būrys</a></li>
+<li><a href="/wiki/Lithuanian_Security_Police" title="Lithuanian Security Police">Lithuanian Security Police</a></li>
+<li><a href="/wiki/Rollkommando_Hamann" title="Rollkommando Hamann">Rollkommando Hamann</a></li>
+<li><a href="/wiki/Arajs_Kommando" title="Arajs Kommando">Arajs Kommando</a></li>
+<li><a href="/wiki/Ukrainian_Auxiliary_Police" title="Ukrainian Auxiliary Police">Ukrainian Auxiliary Police</a></li>
+<li><a href="/wiki/Trawniki_concentration_camp" title="Trawniki concentration camp">Trawnikis</a></li>
+<li><a href="/wiki/Nederlandsche_SS" title="Nederlandsche SS">Nederlandsche SS</a></li>
+<li><a href="/wiki/Special_Brigades" title="Special Brigades">Special Brigades</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.5em">Individuals</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_major_perpetrators_of_the_Holocaust" title="List of major perpetrators of the Holocaust">Major perpetrators</a></li>
+<li><a href="/wiki/List_of_Nazi_ideologues" title="List of Nazi ideologues">Nazi ideologues</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Early_elementsAftermathRemembrance" style="font-size:114%;margin:0 4em">
+<div class="hlist">
+<ul>
+<li>Early elements</li>
+<li>Aftermath</li>
+<li>Remembrance</li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7.5em">Early elements</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Racial_policy_of_Nazi_Germany" title="Racial policy of Nazi Germany">Nazi racial policy</a></li>
+<li><a href="/wiki/Nazi_eugenics" title="Nazi eugenics">Nazi eugenics</a></li>
+<li><a href="/wiki/Nuremberg_Laws" title="Nuremberg Laws">Nuremberg Laws</a></li>
+<li><a href="/wiki/Haavara_Agreement" title="Haavara Agreement">Haavara Agreement</a></li>
+<li><a href="/wiki/Madagascar_Plan" title="Madagascar Plan">Madagascar Plan</a></li>
+<li><a href="/wiki/Action_T4" class="mw-redirect" title="Action T4">Forced euthanasia <span style="font-size:90%;">(Action T4)</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.5em"><a href="/wiki/Aftermath_of_World_War_II" title="Aftermath of World War II">Aftermath</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nuremberg_trials" title="Nuremberg trials">Nuremberg trials</a></li>
+<li><a href="/wiki/Denazification" title="Denazification">Denazification</a></li>
+<li><a href="/wiki/Holocaust_survivors" class="mw-redirect" title="Holocaust survivors">Holocaust survivors</a>
+<ul>
+<li><a href="/wiki/Survivor_guilt" title="Survivor guilt">Survivor guilt</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Reparations_Agreement_between_Israel_and_West_Germany" title="Reparations Agreement between Israel and West Germany">Reparations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.5em">Remembrance</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Holocaust_Memorial_Days" title="Holocaust Memorial Days">Days of remembrance</a></li>
+<li><a href="/wiki/List_of_Holocaust_memorials_and_museums" title="List of Holocaust memorials and museums">Memorials and museums</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=%C4%90akovo_concentration_camp&amp;params=45.1836_N_18.2436_E_source:wikidata"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°11′01″N</span> <span class="longitude">18°14′37″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.1836°N 18.2436°E</span><span style="display:none">﻿ / <span class="geo">45.1836; 18.2436</span></span></span></a></span></span></span></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1287
+Cached time: 20170419044215
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.224 seconds
+Real time usage: 0.287 seconds
+Preprocessor visited node count: 1957/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 165664/2097152 bytes
+Template argument size: 17916/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 3.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  224.793      1 -total
+ 26.39%   59.316     13 Template:Cite_book
+ 24.72%   55.571      1 Template:The_Holocaust
+ 23.56%   52.961      1 Template:Navbox_with_collapsible_groups
+ 14.45%   32.473      1 Template:Infobox_concentration_camp
+ 13.37%   30.049      7 Template:Navbox
+ 11.60%   26.079      1 Template:Infobox
+ 10.80%   24.270      1 Template:Reflist
+  9.62%   21.622      1 Template:Lang-hr
+  9.07%   20.395      1 Template:Language_with_name
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:53129486-0!*!0!!en!4!* and timestamp 20170419044226 and revision id 776131244
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Đakovo_concentration_camp&amp;oldid=776131244">https://en.wikipedia.org/w/index.php?title=Đakovo_concentration_camp&amp;oldid=776131244</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Concentration_camps_of_the_Independent_State_of_Croatia" title="Category:Concentration camps of the Independent State of Croatia">Concentration camps of the Independent State of Croatia</a></li><li><a href="/wiki/Category:Jewish_Croatian_history" title="Category:Jewish Croatian history">Jewish Croatian history</a></li><li><a href="/wiki/Category:The_Holocaust_in_Yugoslavia" title="Category:The Holocaust in Yugoslavia">The Holocaust in Yugoslavia</a></li><li><a href="/wiki/Category:History_of_the_Serbs_of_Croatia" title="Category:History of the Serbs of Croatia">History of the Serbs of Croatia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Croatian-language_text" title="Category:Articles containing Croatian-language text">Articles containing Croatian-language text</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=%C4%90akovo+concentration+camp" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=%C4%90akovo+concentration+camp" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%C4%90akovo_concentration_camp"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:%C4%90akovo_concentration_camp"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%C4%90akovo_concentration_camp" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/%C4%90akovo_concentration_camp" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/%C4%90akovo_concentration_camp" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;oldid=776131244" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q12745780" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=%C4%90akovo_concentration_camp&amp;id=776131244" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=%C4%90akovo+concentration+camp">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=%C4%90akovo+concentration+camp&amp;returnto=%C4%90akovo+concentration+camp&amp;oldid=776131244&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=%C4%90akovo_concentration_camp&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/KZ_%C4%90akovo" title="KZ Đakovo – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%92%27%D7%A7%D7%95%D7%91%D7%95_(%D7%9E%D7%97%D7%A0%D7%94_%D7%A8%D7%99%D7%9B%D7%95%D7%96)" title="ג'קובו (מחנה ריכוז) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Logor_%C4%90akovo" title="Logor Đakovo – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q12745780#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 April 2017, at 04:42.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=%C4%90akovo_concentration_camp&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.287","ppvisitednodes":{"value":1957,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":165664,"limit":2097152},"templateargumentsize":{"value":17916,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  224.793      1 -total"," 26.39%   59.316     13 Template:Cite_book"," 24.72%   55.571      1 Template:The_Holocaust"," 23.56%   52.961      1 Template:Navbox_with_collapsible_groups"," 14.45%   32.473      1 Template:Infobox_concentration_camp"," 13.37%   30.049      7 Template:Navbox"," 11.60%   26.079      1 Template:Infobox"," 10.80%   24.270      1 Template:Reflist","  9.62%   21.622      1 Template:Lang-hr","  9.07%   20.395      1 Template:Language_with_name"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":4181969,"limit":52428800}},"cachereport":{"origin":"mw1287","timestamp":"20170419044215","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw2195"});});</script>
+	</body>
+</html>

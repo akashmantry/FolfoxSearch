@@ -1,0 +1,492 @@
+https://en.wikipedia.org/wiki/Alex_(Lost)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Alex Rousseau - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alex_Rousseau","wgTitle":"Alex Rousseau","wgCurRevisionId":775527681,"wgRevisionId":775527681,"wgArticleId":10042307,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Lost (TV series) characters","Fictional French people","Fictional adoptees","Fictional orphans","Fictional characters introduced in 2006"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Alex_Rousseau","wgRelevantArticleId":10042307,"wgRequestId":"WPmLbQrAIDsAAIqiF-IAAABP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Alex_(Lost)","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Alex_Rousseau","wgWikibaseItemId":"Q51339","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/a/af/Alex_Linus.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Alex_Rousseau"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alex_Rousseau&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alex_Rousseau&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alex_Rousseau"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Alex_Rousseau rootpage-Alex_Rousseau skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Alex Rousseau</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Alex_(Lost)&amp;redirect=no" class="mw-redirect" title="Alex (Lost)">Alex (Lost)</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;border-spacing: 2px 5px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #DEDEE2;">Alex Rousseau</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i> character</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Alex_Linus.png" class="image"><img alt="Alex Linus.png" src="//upload.wikimedia.org/wikipedia/en/a/af/Alex_Linus.png" width="250" height="376" data-file-width="250" data-file-height="376" /></a></td>
+</tr>
+<tr>
+<th scope="row">First appearance</th>
+<td>"<a href="/wiki/Maternity_Leave_(Lost)" title="Maternity Leave (Lost)">Maternity Leave</a>"</td>
+</tr>
+<tr>
+<th scope="row">Last appearance</th>
+<td>"<a href="/wiki/What_They_Died_For" title="What They Died For">What They Died For</a>"</td>
+</tr>
+<tr>
+<th scope="row">Portrayed by</th>
+<td><a href="/wiki/Tania_Raymonde" title="Tania Raymonde">Tania Raymonde</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #DEDEE2;">Information</th>
+</tr>
+<tr>
+<th scope="row">Full name</th>
+<td>Alexandra Rousseau</td>
+</tr>
+<tr>
+<th scope="row">Relatives</th>
+<td><a href="/wiki/Danielle_Rousseau" title="Danielle Rousseau">Danielle Rousseau</a> (mother)<br />
+Robert (biological father)<br />
+<a href="/wiki/Benjamin_Linus" class="mw-redirect" title="Benjamin Linus">Benjamin Linus</a> (adoptive father)</td>
+</tr>
+<tr>
+<th scope="row">Birthplace</th>
+<td>Born on the Island</td>
+</tr>
+</table>
+<p><b>Alexandra</b> "<b>Alex</b>" <b>Rousseau</b> is a <a href="/wiki/Fictional_character" class="mw-redirect" title="Fictional character">fictional character</a> on the <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a> <a href="/wiki/Television_series" class="mw-redirect" title="Television series">television series</a> <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i> played by <a href="/wiki/Tania_Raymonde" title="Tania Raymonde">Tania Raymonde</a>. She was born 16 years prior to the crash of <a href="/wiki/Oceanic_Flight_815" class="mw-redirect" title="Oceanic Flight 815">Oceanic Flight 815</a>, but was <a href="/wiki/Kidnapping" title="Kidnapping">taken</a> from her mother, <a href="/wiki/Danielle_Rousseau" title="Danielle Rousseau">Danielle Rousseau</a> (<a href="/wiki/Mira_Furlan" title="Mira Furlan">Mira Furlan</a>) by <a href="/wiki/Others_(Lost)" class="mw-redirect" title="Others (Lost)">the Others</a>. She was raised among them, believing her mother to be dead. She has helped the survivors of Oceanic Flight 815 on many occasions, and is reunited with her mother at the end of the third season. Not long after however, she is shot and killed by <a href="/wiki/Martin_Keamy" title="Martin Keamy">Keamy</a> (<a href="/wiki/Kevin_Durand" title="Kevin Durand">Kevin Durand</a>) after her adoptive father, <a href="/wiki/Ben_Linus" title="Ben Linus">Ben</a> (<a href="/wiki/Michael_Emerson" title="Michael Emerson">Michael Emerson</a>), would not listen to his demands. Her death scene was received positively by critics, earning it a spot on multiple "top moments of the season" lists (see <a href="#Reception">Reception</a>).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Arc"><span class="tocnumber">1</span> <span class="toctext">Arc</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Before_the_crash"><span class="tocnumber">1.1</span> <span class="toctext">Before the crash</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#After_the_crash"><span class="tocnumber">1.2</span> <span class="toctext">After the crash</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Flash-Sideways"><span class="tocnumber">1.3</span> <span class="toctext">Flash-Sideways</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Characteristics"><span class="tocnumber">2</span> <span class="toctext">Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Development"><span class="tocnumber">3</span> <span class="toctext">Development</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Reception"><span class="tocnumber">4</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances_in_lost"><span class="tocnumber">5</span> <span class="toctext">Appearances in lost</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Arc">Arc</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit&amp;section=1" title="Edit section: Arc">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Before_the_crash">Before the crash</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit&amp;section=2" title="Edit section: Before the crash">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A heavily pregnant Danielle Rousseau (<a href="/wiki/Mira_Furlan" title="Mira Furlan">Mira Furlan</a>) and her husband Robert (<a href="/w/index.php?title=Guillaume_Dabinpons&amp;action=edit&amp;redlink=1" class="new" title="Guillaume Dabinpons (page does not exist)">Guillaume Dabinpons</a>) along with the rest of their crew, shipwrecked on the island, 16 years before the crash of <a href="/wiki/Oceanic_Flight_815" class="mw-redirect" title="Oceanic Flight 815">Oceanic Flight 815</a>, during a French scientific expedition. According to Rousseau, her team becomes "sick", so she kills them all, and later gives birth to Alexandra.<sup id="cite_ref-Solitary_1-0" class="reference"><a href="#cite_note-Solitary-1">[1]</a></sup> Rousseau claims she saw a column of black smoke on the island a week later. That night, <a href="/wiki/Benjamin_Linus" class="mw-redirect" title="Benjamin Linus">Benjamin Linus</a> and a young <a href="/wiki/Ethan_Rom" title="Ethan Rom">Ethan Rom</a> (<a href="/wiki/William_Mapother" title="William Mapother">William Mapother</a>) are ordered by <a href="/wiki/Charles_Widmore" title="Charles Widmore">Charles Widmore</a> (<a href="/wiki/Alan_Dale" title="Alan Dale">Alan Dale</a>) to kill Danielle and, subsequently, her baby, Alex. Instead, unwilling to kill an innocent child, Ben neglected Widmore's orders and kidnapped Alex to raise her as his daughter and let Danielle live.<sup id="cite_ref-Dead_is_Dead_2-0" class="reference"><a href="#cite_note-Dead_is_Dead-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="After_the_crash">After the crash</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit&amp;section=3" title="Edit section: After the crash">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sixteen years later, Alex meets the <a href="/wiki/Pregnancy" title="Pregnancy">pregnant</a> woman <a href="/wiki/Claire_Littleton" title="Claire Littleton">Claire Littleton</a> (<a href="/wiki/Emilie_de_Ravin" title="Emilie de Ravin">Emilie de Ravin</a>), whom the Other, Ethan Rom, had kidnapped to take her baby. Alex tells her that the Others will kill Claire once they get her baby. She leads Claire out of the Others' hatch and tries to make her get back to safety.<sup id="cite_ref-Maternity_Leave_3-0" class="reference"><a href="#cite_note-Maternity_Leave-3">[3]</a></sup></p>
+<p>When Kate, Sawyer and Jack are captured by the Others, Alex attempts to break Kate and Sawyer out of where they are being held captive, but stops and gives up when another Other, <a href="/wiki/Characters_of_Lost#The_Others" class="mw-redirect" title="Characters of Lost">Danny Pickett</a> (<a href="/wiki/Michael_Bowen_(actor)" title="Michael Bowen (actor)">Michael Bowen</a>) pulls a gun on her.<sup id="cite_ref-I_Do_4-0" class="reference"><a href="#cite_note-I_Do-4">[4]</a></sup> In a later rescue attempt, Alex is successful in helping Kate and Sawyer escape. She agrees to let them back to the main island so long as they help rescue her boyfriend, <a href="/wiki/Characters_of_Lost#The_Others" class="mw-redirect" title="Characters of Lost">Karl</a> (<a href="/wiki/Blake_Bashoff" title="Blake Bashoff">Blake Bashoff</a>). After finding where he is, they break him out of a mysterious room where he has been undergoing <a href="/wiki/Brainwashing" class="mw-redirect" title="Brainwashing">brainwashing</a>. Alex, Kate, Sawyer, and Karl are about to leave when <a href="/wiki/Juliet_Burke" title="Juliet Burke">Juliet</a> (<a href="/wiki/Elizabeth_Mitchell" title="Elizabeth Mitchell">Elizabeth Mitchell</a>) insists Alex stays. Later Alex helps Jack escape from his cell to stop Juliet's execution. Thanks to their interference, Juliet is not executed, only "marked."<sup id="cite_ref-Not_in_Portland_5-0" class="reference"><a href="#cite_note-Not_in_Portland-5">[5]</a></sup></p>
+<p>Alex, along with the rest of the Others and Jack, returns to her home in <a href="/wiki/Others_(Lost)#The_Barracks" class="mw-redirect" title="Others (Lost)">Barracks</a>. She is surprised when <a href="/wiki/Sayid_Jarrah" title="Sayid Jarrah">Sayid</a> (<a href="/wiki/Naveen_Andrews" title="Naveen Andrews">Naveen Andrews</a>), part of the rescue party that has arrived to get Jack, says that he knows her thought-to-be deceased mother. She later unknowingly walks past Danielle Rousseau, her mother, while taking <a href="/wiki/John_Locke_(Lost)" title="John Locke (Lost)">Locke</a> (<a href="/wiki/Terry_O%27Quinn" title="Terry O'Quinn">Terry O'Quinn</a>) to the Other's submarine at Ben's request.<sup id="cite_ref-The_Man_from_Tallahassee_6-0" class="reference"><a href="#cite_note-The_Man_from_Tallahassee-6">[6]</a></sup></p>
+<p>The Others leave the Barracks and begin travelling to the Temple with Locke, as he wishes to join them.<sup id="cite_ref-Left_Behind_7-0" class="reference"><a href="#cite_note-Left_Behind-7">[7]</a></sup> After he is initiated,<sup id="cite_ref-The_Brig_8-0" class="reference"><a href="#cite_note-The_Brig-8">[8]</a></sup> Alex approaches Locke, and gives him a <a href="/wiki/Pistol" title="Pistol">pistol</a>, claiming he'll need it if he was planning to meet the leader of the Others, <a href="/wiki/Characters_of_Lost#The_Others" class="mw-redirect" title="Characters of Lost">Jacob</a>.<sup id="cite_ref-The_Man_Behind_the_Curtain_9-0" class="reference"><a href="#cite_note-The_Man_Behind_the_Curtain-9">[9]</a></sup> However, when Ben returns alone the next day, he bitterly returns the gun to her, and reveals his plan for a group of Others to go to the survivor's camp that night and kidnap the pregnant women. Sensing trouble, Alex flees into the jungle in search of Karl, who has been living in hiding since his escape. She gives him her gun and tells him he must warn the survivors. The two kiss before Karl heads off.<sup id="cite_ref-Greatest_Hits_10-0" class="reference"><a href="#cite_note-Greatest_Hits-10">[10]</a></sup> Ben goes to confront the survivors, bringing Alex with him. On the way there, Ben tells her that he is taking her to her new family, explaining the reason he locked Karl up was he didn't want him getting Alex pregnant. Once they meet the survivors, Ben reunites Alex with her mother.<sup id="cite_ref-Through_the_Looking_Glass_11-0" class="reference"><a href="#cite_note-Through_the_Looking_Glass-11">[11]</a></sup></p>
+<p>She joins Locke's group who head to the Barracks, fearing people on an incoming freighter.<sup id="cite_ref-The_Beginning_of_the_End_12-0" class="reference"><a href="#cite_note-The_Beginning_of_the_End-12">[12]</a></sup> Ben sends Alex, Karl and Danielle to the Temple for extra safety, but on the way they are ambushed by mercenaries from the freighter who are looking for Ben, resulting in Karl and Danielle being shot. Alex surrenders shouting that she was Ben's daughter.<sup id="cite_ref-Meet_Kevin_Johnson_13-0" class="reference"><a href="#cite_note-Meet_Kevin_Johnson-13">[13]</a></sup> She is used as a hostage to try to have Ben surrender. Alex sets off a distress signal at the electric fence surrounding the Barracks to warn Ben and the others that the mercenaries were coming. They threaten to kill her if Ben will not surrender himself. Ben refuses, and the lead mercenary, Keamy, executes Alex with one gunshot to the head. Later, Ben goes to Alex's body to say goodbye.<sup id="cite_ref-The_Shape_of_Things_to_Come_14-0" class="reference"><a href="#cite_note-The_Shape_of_Things_to_Come-14">[14]</a></sup></p>
+<p>Alex appeared posthumously as a manifestation of <a href="/wiki/Mythology_of_Lost#The_Monster" title="Mythology of Lost">the Smoke Monster</a> to judge Ben for Alex's death. Ben is spared but as his punishment, the Monster (in the form of Alex) ordered him to follow and listen to John Locke's every word and never again to try to harm him in any way or he will bear the consequences. Crushed by once again seeing Alex, Ben complies.<sup id="cite_ref-Dead_is_Dead_2-1" class="reference"><a href="#cite_note-Dead_is_Dead-2">[2]</a></sup> Richard Alpert later explains that he buried Alex's body and shows Ben where.</p>
+<h3><span class="mw-headline" id="Flash-Sideways">Flash-Sideways</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit&amp;section=4" title="Edit section: Flash-Sideways">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Alex is a bright high school student in Los Angeles hoping to major in history. Her teacher, <a href="/wiki/Ben_Linus" title="Ben Linus">Ben Linus</a>, holds her in high regard, telling her the future is nothing to worry about. Later, while he is tutoring her, she reveals to Ben about Principal Reynolds' sexual affair with one of the school nurses on campus, which leads to Ben attempting to blackmail Reynolds for his position as principal. However, Reynolds retaliates by saying if he is blackmailed, he will not write Alex a <a href="/wiki/Recommendation_letter" title="Recommendation letter">letter of recommendation</a> for <a href="/wiki/Yale_University" title="Yale University">Yale University</a>. Ben backs down, preferring to savor Alex's educational future. Unlike his island counterpart, Ben has chosen Alex over himself. He is eventually invited over for dinner at the Rousseau's home with Alex and her mother, Danielle. Danielle thanks Ben for everything he has done for Alex and says he is the closest thing Alex has to a father, by which Ben is visibly moved.</p>
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit&amp;section=5" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Alex is a renegade Other who often turns her back on her group in order to help the crash survivors.<sup id="cite_ref-Maternity_Leave_3-1" class="reference"><a href="#cite_note-Maternity_Leave-3">[3]</a></sup><sup id="cite_ref-Not_in_Portland_5-1" class="reference"><a href="#cite_note-Not_in_Portland-5">[5]</a></sup><sup id="cite_ref-Greatest_Hits_10-1" class="reference"><a href="#cite_note-Greatest_Hits-10">[10]</a></sup> <a href="/wiki/James_%22Sawyer%22_Ford" title="James &quot;Sawyer&quot; Ford">Sawyer</a> nicknames her "Sheena",<sup id="cite_ref-Not_in_Portland_5-2" class="reference"><a href="#cite_note-Not_in_Portland-5">[5]</a></sup> a reference to <i><a href="/wiki/Sheena,_Queen_of_the_Jungle" title="Sheena, Queen of the Jungle">Sheena, Queen of the Jungle</a></i>, a girl raised in the jungle who is an expert in fighting with makeshift weapons.</p>
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit&amp;section=6" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tania Raymonde was told her character would be called "Jessica" when first cast in the role. Furthermore, her character was promoted as a survivor who would be introduced in <a href="/wiki/Maternity_Leave_(Lost)" title="Maternity Leave (Lost)">Maternity Leave</a>. Cast members often read fake lines with a different names in their audition to limit potential spoilers from leaking.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> In her first appearance, Raymonde was credited as "young girl", preventing viewers knowing in advance that Alex would be introduced.</p>
+<p>Mira Furlan met Raymonde for the first time just minutes before shooting their reunion scene in the season three finale.<sup id="cite_ref-usatoday_familyreunion_16-0" class="reference"><a href="#cite_note-usatoday_familyreunion-16">[16]</a></sup> The actors believed the scene to be a "huge moment" for their characters, which Furlan described as a "basic human moment".<sup id="cite_ref-usatoday_familyreunion_16-1" class="reference"><a href="#cite_note-usatoday_familyreunion-16">[16]</a></sup> Furlan was glad to have "such a beautiful partner", and noted their physical resemblance.<sup id="cite_ref-usatoday_familyreunion_16-2" class="reference"><a href="#cite_note-usatoday_familyreunion-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit&amp;section=7" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jeff Jensen from <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> described Alex's death scene as "hardcore", commenting that it will be "sitting very high on this ranking of all-time pivotal <i>Lost</i> moments" by the end of the series.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Before the <a href="/wiki/There%27s_No_Place_Like_Home" title="There's No Place Like Home">season finale</a> aired, Jensen ranked this as the second best moment of the season<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> <i><a href="/wiki/IGN" title="IGN">IGN</a>'</i>s Chris Carabott also considered it "one of the more pivotal scenes in the entire series" due to it being "phenomenally shot, edited and acted"<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Oscar Dahl described it as "perfectly paced&#160;… and provided a huge shock&#160;… and some of the best acting you'll ever see" ranking it the fifth best moment of the season.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Daniel from <i><a href="/wiki/TMZ.com" class="mw-redirect" title="TMZ.com">TMZ</a></i> loved Alex's execution scene, giving it an "A+".<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="Appearances_in_lost">Appearances in lost</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit&amp;section=8" title="Edit section: Appearances in lost">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><small>Key: <span style="background-color:blue; color:; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> = Recurring</small></dd>
+<dd><small>Key: <span style="background-color:yellow; color:; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> = Guest</small></dd>
+<dd><small>Key: <span style="background-color:white; color:; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> = No Appearances</small></dd>
+</dl>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Actor</th>
+<th rowspan="2">Character</th>
+<th colspan="7">Appearances</th>
+</tr>
+<tr>
+<th><a href="/wiki/Lost_(season_1)" title="Lost (season 1)">S1</a></th>
+<th><a href="/wiki/Lost_(season_2)" title="Lost (season 2)">S2</a></th>
+<th><a href="/wiki/Lost_(season_3)" title="Lost (season 3)">S3</a></th>
+<th><a href="/wiki/Lost_(season_4)" title="Lost (season 4)">S4</a></th>
+<th><a href="/wiki/Lost_(season_5)" title="Lost (season 5)">S5</a></th>
+<th><a href="/wiki/Lost_(season_6)" title="Lost (season 6)">S6</a></th>
+<th>Total</th>
+</tr>
+<tr>
+<td><a href="/wiki/Tania_Raymonde" title="Tania Raymonde">Tania Raymonde</a></td>
+<td>Alex Rousseau</td>
+<td style="background:white;"></td>
+<td style="background:blue;">3</td>
+<td style="background:blue;">9</td>
+<td style="background:blue;">6</td>
+<td style="background:yellow;">1</td>
+<td style="background:yellow;">2</td>
+<td style="background:white;">21</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Solitary-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Solitary_1-0">^</a></b></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Greg_Yaitanes" title="Greg Yaitanes">Greg Yaitanes</a> (director), <a href="/wiki/David_Fury" title="David Fury">David Fury</a> (writer) (2004-11-17). "<a href="/wiki/Solitary_(Lost)" title="Solitary (Lost)">Solitary</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 1. Episode 9. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2004-11-17&amp;rft.genre=unknown&amp;rft.series=Season+1.+Episode+9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Dead_is_Dead-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dead_is_Dead_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dead_is_Dead_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Stephen_Williams_(director)" title="Stephen Williams (director)">Stephen Williams</a> (director), <a href="/wiki/Brian_K._Vaughan" title="Brian K. Vaughan">Brian K. Vaughan</a> &amp; <a href="/wiki/Elizabeth_Sarnoff" title="Elizabeth Sarnoff">Elizabeth Sarnoff</a> (writers) (2009-04-08). "<a href="/wiki/Dead_is_Dead" class="mw-redirect" title="Dead is Dead">Dead is Dead</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 5. Episode 8. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2009-04-08&amp;rft.genre=unknown&amp;rft.series=Season+5.+Episode+8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Maternity_Leave-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Maternity_Leave_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Maternity_Leave_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Jack_Bender" title="Jack Bender">Jack Bender</a> (director), <a href="/wiki/Dawn_Lambertsen_Kelly" title="Dawn Lambertsen Kelly">Dawn Lambertsen Kelly</a> &amp; <a href="/wiki/Matt_Ragghianti" title="Matt Ragghianti">Matt Ragghianti</a> (writers) (2006-03-01). "<a href="/wiki/Maternity_Leave_(Lost)" title="Maternity Leave (Lost)">Maternity Leave</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 2. Episode 15. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2006-03-01&amp;rft.genre=unknown&amp;rft.series=Season+2.+Episode+15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-I_Do-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-I_Do_4-0">^</a></b></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Tucker_Gates" title="Tucker Gates">Tucker Gates</a> (director), <a href="/wiki/Damon_Lindelof" title="Damon Lindelof">Damon Lindelof</a> &amp; <a href="/wiki/Carlton_Cuse" title="Carlton Cuse">Carlton Cuse</a> (writers) (2006-11-08). "<a href="/wiki/I_Do_(Lost)" title="I Do (Lost)">I Do</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 3. Episode 6. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2006-11-08&amp;rft.genre=unknown&amp;rft.series=Season+3.+Episode+6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Not_in_Portland-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Not_in_Portland_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Not_in_Portland_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Not_in_Portland_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Stephen_Williams_(director)" title="Stephen Williams (director)">Stephen Williams</a> (director), <a href="/wiki/Carlton_Cuse" title="Carlton Cuse">Carlton Cuse</a> &amp; <a href="/wiki/Jeff_Pinkner" title="Jeff Pinkner">Jeff Pinkner</a> (writers) (2007-02-07). "<a href="/wiki/Not_in_Portland" title="Not in Portland">Not in Portland</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 3. Episode 7. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2007-02-07&amp;rft.genre=unknown&amp;rft.series=Season+3.+Episode+7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Man_from_Tallahassee-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Man_from_Tallahassee_6-0">^</a></b></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Jack_Bender" title="Jack Bender">Jack Bender</a> (director), <a href="/wiki/Drew_Goddard" title="Drew Goddard">Drew Goddard</a> &amp; <a href="/wiki/Jeff_Pinkner" title="Jeff Pinkner">Jeff Pinkner</a> (writers) (2007-03-21). "<a href="/wiki/The_Man_from_Tallahassee" title="The Man from Tallahassee">The Man from Tallahassee</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 3. Episode 13. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2007-03-21&amp;rft.genre=unknown&amp;rft.series=Season+3.+Episode+13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Left_Behind-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Left_Behind_7-0">^</a></b></span> <span class="reference-text"><cite class="citation episode">Karen Gaviola (director), <a href="/wiki/Damon_Lindelof" title="Damon Lindelof">Damon Lindelof</a> &amp; <a href="/wiki/Elizabeth_Sarnoff" title="Elizabeth Sarnoff">Elizabeth Sarnoff</a> (writers) (2007-04-04). "<a href="/wiki/Left_Behind_(Lost)" title="Left Behind (Lost)">Left Behind</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 3. Episode 15. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2007-04-04&amp;rft.genre=unknown&amp;rft.series=Season+3.+Episode+15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Brig-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Brig_8-0">^</a></b></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Eric_Laneuville" title="Eric Laneuville">Eric Laneuville</a> (director), <a href="/wiki/Damon_Lindelof" title="Damon Lindelof">Damon Lindelof</a> &amp; <a href="/wiki/Carlton_Cuse" title="Carlton Cuse">Carlton Cuse</a> (writers) (2007-05-02). "<a href="/wiki/The_Brig_(Lost)" class="mw-redirect" title="The Brig (Lost)">The Brig</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 3. Episode 19. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2007-05-02&amp;rft.genre=unknown&amp;rft.series=Season+3.+Episode+19&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Man_Behind_the_Curtain-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Man_Behind_the_Curtain_9-0">^</a></b></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Bobby_Roth" title="Bobby Roth">Bobby Roth</a> (director), <a href="/wiki/Elizabeth_Sarnoff" title="Elizabeth Sarnoff">Elizabeth Sarnoff</a> &amp; <a href="/wiki/Drew_Goddard" title="Drew Goddard">Drew Goddard</a> (writers) (2007-05-09). "<a href="/wiki/The_Man_Behind_the_Curtain" title="The Man Behind the Curtain">The Man Behind the Curtain</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 3. Episode 20. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2007-05-09&amp;rft.genre=unknown&amp;rft.series=Season+3.+Episode+20&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Greatest_Hits-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Greatest_Hits_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Greatest_Hits_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Stephen_Williams_(director)" title="Stephen Williams (director)">Stephen Williams</a> (director), <a href="/wiki/Edward_Kitsis" title="Edward Kitsis">Edward Kitsis</a> &amp; <a href="/wiki/Adam_Horowitz_(screenwriter)" class="mw-redirect" title="Adam Horowitz (screenwriter)">Adam Horowitz</a> (writers) (2007-05-16). "<a href="/wiki/Greatest_Hits_(Lost)" title="Greatest Hits (Lost)">Greatest Hits</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 3. Episode 21. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2007-05-16&amp;rft.genre=unknown&amp;rft.series=Season+3.+Episode+21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Through_the_Looking_Glass-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Through_the_Looking_Glass_11-0">^</a></b></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Jack_Bender" title="Jack Bender">Jack Bender</a> (director), <a href="/wiki/Carlton_Cuse" title="Carlton Cuse">Carlton Cuse</a> &amp; <a href="/wiki/Damon_Lindelof" title="Damon Lindelof">Damon Lindelof</a> (writers) (2007-05-23). "<a href="/wiki/Through_the_Looking_Glass_(Lost)" title="Through the Looking Glass (Lost)">Through the Looking Glass</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 3. Episode 22. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2007-05-23&amp;rft.genre=unknown&amp;rft.series=Season+3.+Episode+22&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Beginning_of_the_End-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Beginning_of_the_End_12-0">^</a></b></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Jack_Bender" title="Jack Bender">Jack Bender</a> (director), <a href="/wiki/Damon_Lindelof" title="Damon Lindelof">Damon Lindelof</a> &amp; <a href="/wiki/Carlton_Cuse" title="Carlton Cuse">Carlton Cuse</a> (writers) (2008-01-31). "<a href="/wiki/The_Beginning_of_the_End_(Lost)" title="The Beginning of the End (Lost)">The Beginning of the End</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 4. Episode 1. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2008-01-31&amp;rft.genre=unknown&amp;rft.series=Season+4.+Episode+1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Meet_Kevin_Johnson-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Meet_Kevin_Johnson_13-0">^</a></b></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Stephen_Williams_(director)" title="Stephen Williams (director)">Stephen Williams</a> (director), <a href="/wiki/Elizabeth_Sarnoff" title="Elizabeth Sarnoff">Elizabeth Sarnoff</a> &amp; <a href="/wiki/Brian_K._Vaughan" title="Brian K. Vaughan">Brian K. Vaughan</a> (writers) (2008-03-20). "<a href="/wiki/Meet_Kevin_Johnson" title="Meet Kevin Johnson">Meet Kevin Johnson</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 4. Episode 8. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2008-03-20&amp;rft.genre=unknown&amp;rft.series=Season+4.+Episode+8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Shape_of_Things_to_Come-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Shape_of_Things_to_Come_14-0">^</a></b></span> <span class="reference-text"><cite class="citation episode"><a href="/wiki/Jack_Bender" title="Jack Bender">Jack Bender</a> (director), <a href="/wiki/Brian_K._Vaughan" title="Brian K. Vaughan">Brian K. Vaughan</a> &amp; <a href="/wiki/Drew_Goddard" title="Drew Goddard">Drew Goddard</a> (writers) (2008-04-24). "<a href="/wiki/The_Shape_of_Things_to_Come_(Lost)" title="The Shape of Things to Come (Lost)">The Shape of Things to Come</a>". <i><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</a></i>. Season 4. Episode 9. ABC.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.btitle=Lost&amp;rft.date=2008-04-24&amp;rft.genre=unknown&amp;rft.series=Season+4.+Episode+9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Littleton, Cynthia, (October 12, 2007) "<a rel="nofollow" class="external text" href="http://www.variety.com/article/VR1117974014.html?categoryId=2641&amp;cs=1"><i>Lost</i>: The Weight of the Wait</a>", <i><a href="/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i>. Retrieved on September 24, 2008.</span></li>
+<li id="cite_note-usatoday_familyreunion-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-usatoday_familyreunion_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-usatoday_familyreunion_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-usatoday_familyreunion_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Keck, William (2007-05-22). <a rel="nofollow" class="external text" href="http://www.usatoday.com/life/television/news/2007-05-22-lost-ladies_N.htm">"After 3 long 'Lost' seasons, a Rousseau family reunion"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Rousseau&amp;rft.aufirst=William&amp;rft.aulast=Keck&amp;rft.btitle=After+3+long+%27Lost%27+seasons%2C+a+Rousseau+family+reunion&amp;rft.date=2007-05-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.usatoday.com%2Flife%2Ftelevision%2Fnews%2F2007-05-22-lost-ladies_N.htm&amp;rft.pub=%27%27USA+Today%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Jensen, Jeff "Doc", (April&#160;25, 2008) "<a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,20195369_1,00.html">Raiders of the <i>Lost</i> Story Arc</a>", <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. Retrieved on September 24, 2008.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Jensen, Jeff, (May&#160;29, 2008) "<a rel="nofollow" class="external text" href="http://www.ew.com/ew/gallery/0,,20202804_13,00.html">Best Moment #2 of Season 4: 'He Changed the Rules'</a>", <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i>. Retrieved on September 24, 2008.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Carabott, Chris, (April&#160;25, 2008) "<a rel="nofollow" class="external text" href="http://tv.ign.com/articles/869/869403p1.html">Ben is Faced with an Unimaginable Decision</a>", <a href="/wiki/IGN" title="IGN">IGN</a>. Retrieved on September 24, 2008.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Dahl, Oscar, (June&#160;2, 2008) "<a rel="nofollow" class="external text" href="http://www.buddytv.com/articles/lost/more/5-moment-keamy-kills-alex-20082.aspx">Top Season 4 Moment #5: Keamy Kills Alex</a>", <a href="/wiki/BuddyTV" title="BuddyTV">BuddyTV</a>. Retrieved on June&#160;22, 2008.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Daniel, (April&#160;25, 2008) "<a rel="nofollow" class="external text" href="http://www.tmz.com/2008/04/25/lost-diary-the-shape-of-things-to-come"><i>Lost</i> Diary: 'The Shape of Things to Come'</a>", TMZ. Retrieved on September 24, 2008.</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Lost" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lost_(TV_series)" title="Template:Lost (TV series)"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lost_(TV_series)" title="Template talk:Lost (TV series)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lost_(TV_series)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Lost" style="font-size:114%;margin:0 4em"><a href="/wiki/Lost_(TV_series)" title="Lost (TV series)"><i>Lost</i></a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Lost" title="List of awards and nominations received by Lost">Awards and nominations</a></li>
+<li><a href="/wiki/List_of_Lost_cast_members" title="List of Lost cast members">Cast</a></li>
+<li><a href="/wiki/Lost_Original_Television_Soundtracks" title="Lost Original Television Soundtracks">Soundtracks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_Lost_episodes" title="List of Lost episodes">Episodes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lost_(season_1)" title="Lost (season 1)">Season 1</a></li>
+<li><a href="/wiki/Lost_(season_2)" title="Lost (season 2)">Season 2</a></li>
+<li><a href="/wiki/Lost_(season_3)" title="Lost (season 3)">Season 3</a></li>
+<li><a href="/wiki/Lost_(season_4)" title="Lost (season 4)">Season 4</a></li>
+<li><a href="/wiki/Lost_(season_5)" title="Lost (season 5)">Season 5</a></li>
+<li><a href="/wiki/Lost_(season_6)" title="Lost (season 6)">Season 6</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_Lost_characters" title="List of Lost characters">Characters</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Alex Rousseau</a></li>
+<li><a href="/wiki/Ana_Lucia_Cortez" title="Ana Lucia Cortez">Ana Lucia Cortez</a></li>
+<li><a href="/wiki/Ben_Linus" title="Ben Linus">Ben Linus</a></li>
+<li><a href="/wiki/Boone_Carlyle" title="Boone Carlyle">Boone Carlyle</a></li>
+<li><a href="/wiki/Charles_Widmore" title="Charles Widmore">Charles Widmore</a></li>
+<li><a href="/wiki/Charlie_Pace" title="Charlie Pace">Charlie Pace</a></li>
+<li><a href="/wiki/Charlotte_Lewis_(Lost)" title="Charlotte Lewis (Lost)">Charlotte Lewis</a></li>
+<li><a href="/wiki/Christian_Shephard" title="Christian Shephard">Christian Shephard</a></li>
+<li><a href="/wiki/Claire_Littleton" title="Claire Littleton">Claire Littleton</a></li>
+<li><a href="/wiki/Daniel_Faraday" title="Daniel Faraday">Daniel Faraday</a></li>
+<li><a href="/wiki/Danielle_Rousseau" title="Danielle Rousseau">Danielle Rousseau</a></li>
+<li><a href="/wiki/Desmond_Hume" title="Desmond Hume">Desmond Hume</a></li>
+<li><a href="/wiki/Ethan_Rom" title="Ethan Rom">Ethan Rom</a></li>
+<li><a href="/wiki/Frank_Lapidus" title="Frank Lapidus">Frank Lapidus</a></li>
+<li><a href="/wiki/Hugo_%22Hurley%22_Reyes" title="Hugo &quot;Hurley&quot; Reyes">Hugo "Hurley" Reyes</a></li>
+<li><a href="/wiki/Ilana_Verdansky" title="Ilana Verdansky">Ilana Verdansky</a></li>
+<li><a href="/wiki/Jack_Shephard" title="Jack Shephard">Jack Shephard</a></li>
+<li><a href="/wiki/Jacob_(Lost)" title="Jacob (Lost)">Jacob</a></li>
+<li><a href="/wiki/James_%22Sawyer%22_Ford" title="James &quot;Sawyer&quot; Ford">James "Sawyer" Ford</a></li>
+<li><a href="/wiki/Jin-Soo_Kwon" title="Jin-Soo Kwon">Jin-Soo Kwon</a></li>
+<li><a href="/wiki/John_Locke_(Lost)" title="John Locke (Lost)">John Locke</a></li>
+<li><a href="/wiki/Juliet_Burke" title="Juliet Burke">Juliet Burke</a></li>
+<li><a href="/wiki/Kate_Austen" title="Kate Austen">Kate Austen</a></li>
+<li><a href="/wiki/Libby_(Lost)" title="Libby (Lost)">Libby Smith</a></li>
+<li><a href="/wiki/Man_in_Black_(Lost)" title="Man in Black (Lost)">Man in Black</a></li>
+<li><a href="/wiki/Martin_Keamy" title="Martin Keamy">Martin Keamy</a></li>
+<li><a href="/wiki/Michael_Dawson_(Lost)" title="Michael Dawson (Lost)">Michael Dawson</a></li>
+<li><a href="/wiki/Miles_Straume" title="Miles Straume">Miles Straume</a></li>
+<li><a href="/wiki/Mr._Eko" title="Mr. Eko">Mr. Eko</a></li>
+<li><a href="/wiki/Nikki_and_Paulo" title="Nikki and Paulo">Nikki and Paulo</a></li>
+<li><a href="/wiki/Penny_Widmore" title="Penny Widmore">Penny Widmore</a></li>
+<li><a href="/wiki/Richard_Alpert_(Lost)" title="Richard Alpert (Lost)">Richard Alpert</a></li>
+<li><a href="/wiki/Rose_and_Bernard_Nadler" title="Rose and Bernard Nadler">Rose and Bernard Nadler</a></li>
+<li><a href="/wiki/Sayid_Jarrah" title="Sayid Jarrah">Sayid Jarrah</a></li>
+<li><a href="/wiki/Shannon_Rutherford" title="Shannon Rutherford">Shannon Rutherford</a></li>
+<li><a href="/wiki/Sun-Hwa_Kwon" title="Sun-Hwa Kwon">Sun-Hwa Kwon</a></li>
+<li><a href="/wiki/Tom_Friendly" class="mw-redirect" title="Tom Friendly">Tom Friendly</a></li>
+<li><a href="/wiki/Walt_Lloyd" title="Walt Lloyd">Walt Lloyd</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mythology_of_Lost" title="Mythology of Lost">Mythology</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dharma_Initiative" title="Dharma Initiative">Dharma Initiative</a></li>
+<li><a href="/wiki/Oceanic_Airlines" title="Oceanic Airlines">Oceanic Airlines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Find_815" title="Find 815">Find 815</a></i></li>
+<li><i><a href="/wiki/Lost_Experience" title="Lost Experience">Lost Experience</a></i></li>
+<li><i><a href="/wiki/Lost:_Missing_Pieces" title="Lost: Missing Pieces">Lost: Missing Pieces</a></i></li>
+<li><i><a href="/wiki/Lost:_Via_Domus" title="Lost: Via Domus">Lost: Via Domus</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Lost_(TV_series)" title="Category:Lost (TV series)">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1205
+Cached time: 20170415132606
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.172 seconds
+Real time usage: 0.211 seconds
+Preprocessor visited node count: 1381/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 32651/2097152 bytes
+Template argument size: 582/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 3.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  172.552      1 -total
+ 50.98%   87.975      1 Template:Reflist
+ 36.76%   63.431     14 Template:Cite_episode
+ 30.57%   52.751      1 Template:Infobox_character
+ 23.70%   40.889      1 Template:Infobox
+  8.99%   15.518      1 Template:Lost_navigation
+  8.05%   13.882      4 Template:Ifempty
+  7.52%   12.974      1 Template:Navbox
+  4.13%    7.135      1 Template:Icon
+  2.45%    4.227      3 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10042307-0!*!0!!en!4!* and timestamp 20170415132607 and revision id 775527681
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alex_Rousseau&amp;oldid=775527681">https://en.wikipedia.org/w/index.php?title=Alex_Rousseau&amp;oldid=775527681</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lost_(TV_series)_characters" title="Category:Lost (TV series) characters">Lost (TV series) characters</a></li><li><a href="/wiki/Category:Fictional_French_people" title="Category:Fictional French people">Fictional French people</a></li><li><a href="/wiki/Category:Fictional_adoptees" title="Category:Fictional adoptees">Fictional adoptees</a></li><li><a href="/wiki/Category:Fictional_orphans" title="Category:Fictional orphans">Fictional orphans</a></li><li><a href="/wiki/Category:Fictional_characters_introduced_in_2006" title="Category:Fictional characters introduced in 2006">Fictional characters introduced in 2006</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alex+Rousseau" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alex+Rousseau" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Alex_Rousseau"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Alex_Rousseau"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Alex_Rousseau" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Alex_Rousseau&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Alex_Rousseau&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alex_Rousseau" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alex_Rousseau" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Alex_Rousseau&amp;oldid=775527681" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Alex_Rousseau&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q51339" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alex_Rousseau&amp;id=775527681" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Alex+Rousseau">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Alex+Rousseau&amp;returnto=Alex+Rousseau&amp;oldid=775527681&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alex_Rousseau&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%8A%D9%83%D8%B3_(%D9%84%D9%88%D8%B3%D8%AA)" title="أليكس (لوست) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%A0%D1%83%D1%81%D0%BE" title="Аляксандра Русо – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81_(%D0%98%D0%B7%D0%B3%D1%83%D0%B1%D0%B5%D0%BD%D0%B8)" title="Алекс (Изгубени) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Alex_Rousseau" title="Alex Rousseau – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Alexandra_Rousseau" title="Alexandra Rousseau – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Alexandra_Rousseau" title="Alexandra Rousseau – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%B3_%D8%B1%D9%88%D8%B3%D9%88" title="الکس روسو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Alex_(Lost)" title="Alex (Lost) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A0%89%EC%8A%A4_(%EB%A1%9C%EC%8A%A4%ED%8A%B8)" title="알렉스 (로스트) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Alex_Rousseau" title="Alex Rousseau – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Alexandra_%E2%80%9EAlex%E2%80%9D_Rousseau" title="Alexandra „Alex” Rousseau – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Alex_Rosseau" title="Alex Rosseau – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Alex_Rousseau" title="Alex Rousseau – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Alex_Rousseau" title="Alex Rousseau – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81_%D0%A0%D1%83%D1%81%D1%81%D0%BE" title="Алекс Руссо – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Alex_Rousseau" title="Alex Rousseau – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Alex_Rousseau" title="Alex Rousseau – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%89%BE%E8%8E%89%E5%85%8B%E6%96%AF%C2%B7%E7%9B%A7%E6%A2%AD" title="艾莉克斯·盧梭 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q51339#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 April 2017, at 13:26.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alex_Rousseau&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.211","ppvisitednodes":{"value":1381,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":32651,"limit":2097152},"templateargumentsize":{"value":582,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  172.552      1 -total"," 50.98%   87.975      1 Template:Reflist"," 36.76%   63.431     14 Template:Cite_episode"," 30.57%   52.751      1 Template:Infobox_character"," 23.70%   40.889      1 Template:Infobox","  8.99%   15.518      1 Template:Lost_navigation","  8.05%   13.882      4 Template:Ifempty","  7.52%   12.974      1 Template:Navbox","  4.13%    7.135      1 Template:Icon","  2.45%    4.227      3 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":4090121,"limit":52428800}},"cachereport":{"origin":"mw1205","timestamp":"20170415132606","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw2171"});});</script>
+	</body>
+</html>

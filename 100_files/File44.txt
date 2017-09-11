@@ -1,0 +1,708 @@
+https://en.wikipedia.org/wiki/Abolhassan_Banisadr
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Abolhassan Banisadr - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Abolhassan_Banisadr","wgTitle":"Abolhassan Banisadr","wgCurRevisionId":774721668,"wgRevisionId":774721668,"wgArticleId":399571,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Subscription required using via","Pages containing links to subscription-only content","Use dmy dates from February 2015","BLP articles lacking sources from April 2008","All BLP articles lacking sources","Articles with hAudio microformats","Articles needing pronunciation","Articles needing IPA cleanup","Articles containing Persian-language text","BLP articles lacking sources from June 2013","All articles with unsourced statements","Articles with unsourced statements from March 2015","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Pages using ISBN magic links","1933 births","Living people","Government ministers of Iran","Foreign ministers of Iran","Presidents of Iran","Impeached officials","Impeached officials removed from office","People from Hamadan","University of Paris alumni","Iranian emigrants to France","National Front (Iran) politicians","Abolhassan Banisadr","People of the Iranian Revolution","Iran hostage crisis","Iranian revolutionaries","Exiles of the Iranian Revolution in France","Iranian presidential candidates, 1980","Commanders-in-Chief of Iran","Council of the Islamic Revolution members"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Abolhassan_Banisadr","wgRelevantArticleId":399571,"wgRequestId":"WPyN-grAAD8AAUFayXQAAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q273866","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg/1200px-Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Abolhassan_Banisadr"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Abolhassan_Banisadr"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Abolhassan_Banisadr rootpage-Abolhassan_Banisadr skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Abolhassan Banisadr</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="plainlinks metadata ambox ambox-content ambox-BLP_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Wikipedia:Libel" title="Wikipedia:Libel">libelous</a> or harmful.</span> <small><i>(April 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 130%;"><span class="fn">Abolhassan Banisadr</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg" class="image"><img alt="Abū l-Hasan Banīsadr IMG 2044 edit.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg/220px-Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg" width="220" height="320" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg/330px-Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg/440px-Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg 2x" data-file-width="2294" data-file-height="3339" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender"><a href="/wiki/List_of_Presidents_of_Iran" title="List of Presidents of Iran">1st</a> <a href="/wiki/President_of_Iran" title="President of Iran">President of Iran</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />
+5 February 1980&#160;– 20 June 1981</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Supreme&#160;Leader</th>
+<td><a href="/wiki/Ruhollah_Khomeini" title="Ruhollah Khomeini">Ruhollah Khomeini</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Prime&#160;Minister</th>
+<td><a href="/wiki/Mohammad-Ali_Rajai" title="Mohammad-Ali Rajai">Mohammad-Ali Rajai</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+<td><i>Office established</i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+<td><a href="/wiki/Mohammad-Ali_Rajai" title="Mohammad-Ali Rajai">Mohammad-Ali Rajai</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender"><a href="/wiki/Council_of_the_Islamic_Revolution#Presidents" title="Council of the Islamic Revolution">Head of Council of the Islamic Revolution</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />
+9 September 1979&#160;– 11 February 1980</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+<td><a href="/wiki/Mahmoud_Taleghani" title="Mahmoud Taleghani">Mahmoud Taleghani</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+<td><i>Office abolished</i></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender"><a href="/wiki/Minister_of_Foreign_Affairs_(Iran)" class="mw-redirect" title="Minister of Foreign Affairs (Iran)">Acting Minister of Foreign Affairs</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />
+12 November 1979&#160;– 29 November 1979</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Appointed by</span></th>
+<td><a href="/wiki/Council_of_the_Islamic_Revolution" title="Council of the Islamic Revolution">Council of the Revolution</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+<td><a href="/wiki/Ebrahim_Yazdi" title="Ebrahim Yazdi">Ebrahim Yazdi</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+<td><a href="/wiki/Sadegh_Ghotbzadeh" title="Sadegh Ghotbzadeh">Sadegh Ghotbzadeh</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender"><a href="/wiki/Ministry_of_Economic_Affairs_and_Finance_(Iran)" title="Ministry of Economic Affairs and Finance (Iran)">Minister of Finance</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />
+12 November 1979&#160;– 11 March 1980</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Appointed by</span></th>
+<td><a href="/wiki/Council_of_the_Islamic_Revolution" title="Council of the Islamic Revolution">Council of the Revolution</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+<td>Ali Ardalan</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+<td><a href="/wiki/Hossein_Namazi" title="Hossein Namazi">Hossein Namazi</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender"><a href="/wiki/Assembly_of_Experts_for_Constitution" title="Assembly of Experts for Constitution">Member of the Assembly of Experts for Constitution</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />
+15 August 1979&#160;– 15 November 1979</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Constituency</th>
+<td><a href="/wiki/Tehran_Province" title="Tehran Province">Tehran Province</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Majority</th>
+<td>1,752,816 (69.4%)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender">Personal details</th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1933-03-22</span>)</span> 22 March 1933 <span class="noprint ForceAgeToShow">(age&#160;84)</span><br />
+<a href="/wiki/Hamadan" title="Hamadan">Hamadan</a>, <a href="/wiki/Iran" title="Iran">Iran</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Political party</th>
+<td><a href="/wiki/Independent_(politician)" class="mw-redirect" title="Independent (politician)">Independent</a></td>
+</tr>
+<tr>
+<th scope="row">Other political<br />
+affiliations</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/National_Council_of_Resistance_of_Iran" title="National Council of Resistance of Iran">National Council of Resistance of Iran</a> <small>(1981–4)</small></li>
+<li><a href="/wiki/Office_for_the_Cooperation_of_the_People_with_the_President" title="Office for the Cooperation of the People with the President">Office for the Cooperation of the People with the President</a> <small>(1980–1)</small></li>
+<li><a href="/wiki/National_Front_(Iran)" title="National Front (Iran)">National Front</a> <small>(1960s)</small><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Spouse(s)</th>
+<td>Ozra Hosseini <small>(m. 1961)</small></td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>3</td>
+</tr>
+<tr>
+<th scope="row">Religion</th>
+<td><a href="/wiki/Shia_Islam" title="Shia Islam">Shia Islam</a></td>
+</tr>
+<tr>
+<th scope="row">Signature</th>
+<td><a href="/wiki/File:Abulhassan_Banisadr_signature.svg" class="image" title="Abolhassan Banisadr's signature"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Abulhassan_Banisadr_signature.svg/79px-Abulhassan_Banisadr_signature.svg.png" width="79" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Abulhassan_Banisadr_signature.svg/119px-Abulhassan_Banisadr_signature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Abulhassan_Banisadr_signature.svg/159px-Abulhassan_Banisadr_signature.svg.png 2x" data-file-width="306" data-file-height="308" /></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender">Military service</th>
+</tr>
+<tr>
+<th scope="row">Allegiance</th>
+<td><span class="flagicon"><a href="/wiki/Iran" title="Iran"><img alt="Iran" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></a></span> <a href="/wiki/Iran" title="Iran">Iran</a></td>
+</tr>
+<tr>
+<th scope="row">Years of service</th>
+<td>1980–1981</td>
+</tr>
+<tr>
+<th scope="row">Commands</th>
+<td><a href="/wiki/Commander-in-Chief_of_the_Iranian_Armed_Forces" title="Commander-in-Chief of the Iranian Armed Forces">Commander-in-chief of the Armed Forces of the Islamic Republic of Iran</a></td>
+</tr>
+<tr>
+<th scope="row">Battles/wars</th>
+<td><a href="/wiki/Iran-Iraq_war" class="mw-redirect" title="Iran-Iraq war">Iran-Iraq war</a></td>
+</tr>
+</table>
+<p><b>Sayyed Abolhassan Banisadr</b> (<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Abolhassan_Bani-_sadr_from_Iran_pronunciation.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/2/2d/Abolhassan_Bani-_sadr_from_Iran_pronunciation.ogg" class="internal" title="Abolhassan Bani- sadr from Iran pronunciation.ogg">pronunciation</a></span>&#160;<small class="metadata audiolinkinfo" style="cursor:help;">(<a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="/wiki/File:Abolhassan_Bani-_sadr_from_Iran_pronunciation.ogg" title="File:Abolhassan Bani- sadr from Iran pronunciation.ogg"><span style="cursor:help;">info</span></a>)</small></span>&#160;;<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Pronunciation" title="Wikipedia:Manual of Style/Pronunciation"><span title="IPA transcription needed for this word. You can help!">needs IPA</span></a></i>]</sup> <a href="/wiki/Persian_language" title="Persian language">Persian</a>: <span lang="fa" dir="rtl" xml:lang="fa">سیِّدابوالحسن بنی‌صدر</span>‎‎; born 22 March 1933) is an <a href="/wiki/Iran" title="Iran">Iranian</a> politician and economist. He was the first <a href="/wiki/President_of_Iran" title="President of Iran">President</a> of <a href="/wiki/Iran" title="Iran">Iran</a> after the 1979 <a href="/wiki/Iranian_Revolution" title="Iranian Revolution">Iranian Revolution</a> abolished the <a href="/wiki/Pahlavi_dynasty" title="Pahlavi dynasty">monarchy</a>, serving from 4 February 1980 until he was impeached by <a href="/wiki/Parliament_of_Iran" class="mw-redirect" title="Parliament of Iran">parliament</a> on 21 June 1981. Prior to his presidency, he was the <a href="/wiki/Foreign_Minister_of_Iran" class="mw-redirect" title="Foreign Minister of Iran">minister of foreign affairs</a> in the <a href="/wiki/Interim_Government_of_Iran" title="Interim Government of Iran">interim government</a>. He has resided for many years in <a href="/wiki/Iranians_in_France" title="Iranians in France">France</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life_and_education"><span class="tocnumber">1</span> <span class="toctext">Early life and education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Impeachment"><span class="tocnumber">2.1</span> <span class="toctext">Impeachment</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Flight_and_exile"><span class="tocnumber">3</span> <span class="toctext">Flight and exile</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#My_Turn_to_Speak"><span class="tocnumber">3.1</span> <span class="toctext"><i>My Turn to Speak</i></span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Views"><span class="tocnumber">3.2</span> <span class="toctext">Views</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Books"><span class="tocnumber">5</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life_and_education">Early life and education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=1" title="Edit section: Early life and education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Banisadr was born on 22 March 1933 in <a href="/wiki/Hamedan" class="mw-redirect" title="Hamedan">Hamedan</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> His father was an ayatollah and close to <a href="/wiki/Ruhollah_Khomeini" title="Ruhollah Khomeini">Ruhollah Khomeini</a>.<sup id="cite_ref-twquarterly_4-0" class="reference"><a href="#cite_note-twquarterly-4">[4]</a></sup> He studied finance and economics at the <a href="/wiki/University_of_Paris" title="University of Paris">Sorbonne</a>. In 1972, Banisadr's father died and he attended the funeral in Iraq where he first met Ayatollah Khomeini.<sup id="cite_ref-rubin80_5-0" class="reference"><a href="#cite_note-rubin80-5">[5]</a></sup></p>
+<p>Banisadr had participated in the anti-Shah student movement during the early 1960s and was imprisoned twice, and was wounded during an uprising in 1963. He then fled to France. He later joined the Iranian resistance group led by Khomeini, becoming one of his hard-liner advisors.<sup id="cite_ref-twquarterly_4-1" class="reference"><a href="#cite_note-twquarterly-4">[4]</a></sup><sup id="cite_ref-rubin80_5-1" class="reference"><a href="#cite_note-rubin80-5">[5]</a></sup> Banisadr returned to Iran together with Khomeini as the revolution was beginning in February 1979. He wrote a book on Islamic finance, <i>Eghtesad Tohidi,</i> an Arabic phrase that roughly translates as "The Economics of <a href="/wiki/Tawhid" title="Tawhid">Monotheism</a>."</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Banisadr_beheshti.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Banisadr_beheshti.jpg/220px-Banisadr_beheshti.jpg" width="220" height="160" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Banisadr_beheshti.jpg/330px-Banisadr_beheshti.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/13/Banisadr_beheshti.jpg 2x" data-file-width="350" data-file-height="255" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Banisadr_beheshti.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Abulhassan_Banisadr" class="mw-redirect" title="Abulhassan Banisadr">Banisadr</a> inaugurated as first <a href="/wiki/President_of_Iran" title="President of Iran">President of Iran</a> in 1980</div>
+</div>
+</div>
+<p>Following the <a href="/wiki/Iranian_Revolution" title="Iranian Revolution">Iranian Revolution</a>, Banisadr became deputy minister of finance on 4 February 1979 and was in office until 27 February 1979. He also became a member of the revolutionary council when Bazargan and others left the council to form <a href="/wiki/Interim_Government_of_Iran_(1979)" class="mw-redirect" title="Interim Government of Iran (1979)">the interim government</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> After the resignation of the interim finance minister Ali Ardalan on 27 February 1979, he was appointed finance minister by then <a href="/wiki/Prime_Minister_of_Iran" title="Prime Minister of Iran">prime minister</a> <a href="/wiki/Mehdi_Bazargan" title="Mehdi Bazargan">Mehdi Bazargan</a>. On 12 November 1979, Banisadr was appointed foreign minister to replace <a href="/wiki/Ebrahim_Yazdi" title="Ebrahim Yazdi">Ebrahim Yazdi</a> in the government that was led by <a href="/wiki/Council_of_Islamic_Revolution_(Iran)" class="mw-redirect" title="Council of Islamic Revolution (Iran)">Council of Islamic Revolution</a> when the interim government resigned.</p>
+<p>Banisadr was elected to a four-year term as president on 25 January 1980, receiving 78.9 percent of the vote in the <a href="/wiki/Iranian_presidential_election,_1980" title="Iranian presidential election, 1980">election</a>, and was inaugurated on 4 February. Khomeini remained the Supreme Leader of Iran with the constitutional authority to dismiss the president. The inaugural ceremonies were held at the hospital where Khomeini was recovering from a heart ailment.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Banisadr was not an <a href="/wiki/Islam" title="Islam">Islamic</a> cleric; Khomeini had insisted that clerics should not run for positions in the government. In August and September 1980, Banisadr survived two <a href="/wiki/Helicopter" title="Helicopter">helicopter</a> crashes near the Iran–<a href="/wiki/Iraq" title="Iraq">Iraq</a> border. During the <a href="/wiki/Iran%E2%80%93Iraq_War" title="Iran–Iraq War">Iran–Iraq War</a>, Banisadr was appointed acting commander-in-chief by Khomeini on 10 June 1981.<sup id="cite_ref-m93_8-0" class="reference"><a href="#cite_note-m93-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Impeachment">Impeachment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=3" title="Edit section: Impeachment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox ambox-content ambox-BLP_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section of a <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Wikipedia:Libel" title="Wikipedia:Libel">libelous</a> or harmful.</span> <small><i>(June 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The <a href="/wiki/Majlis" title="Majlis">Majlis</a> (Iran's Parliament) <a href="/wiki/Impeachment" title="Impeachment">impeached</a> Banisadr in his absence on 21 June 1981,<sup id="cite_ref-pay13_9-0" class="reference"><a href="#cite_note-pay13-9">[9]</a></sup> allegedly because of his moves against the clerics in power,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> in particular <a href="/wiki/Mohammad_Beheshti" title="Mohammad Beheshti">Mohammad Beheshti</a>, then head of the judicial system. Khomeini himself appears to have instigated the impeachment, which he signed the next day.</p>
+<p>Even before Khomeini had signed the impeachment papers, the <a href="/wiki/Islamic_Revolutionary_Guards_Corps" class="mw-redirect" title="Islamic Revolutionary Guards Corps">Revolutionary Guard</a> had seized the Presidential buildings and gardens, and imprisoned writers at a newspaper closely tied to Banisadr. Over the next few days, they executed several of his closest friends, including Hossein Navab, Rashid Sadrolhefazi and Manouchehr Massoudi. <a href="/wiki/Ayatollah" title="Ayatollah">Ayatollah</a> <a href="/wiki/Hussein_Ali_Montazeri" class="mw-redirect" title="Hussein Ali Montazeri">Hussein Ali Montazeri</a> was among the few people in the government in support of Banisadr, but he was soon stripped of his powers.</p>
+<p>At the same time, the Iranian government outlawed all political parties, except the <a href="/wiki/Islamic_Republic_Party" class="mw-redirect" title="Islamic Republic Party">Islamic Republic Party</a>. Government forces arrested and imprisoned members of other parties, such as the <a href="/wiki/People%27s_Mujahedin_of_Iran" title="People's Mujahedin of Iran">People's Mujahedin</a>, <a href="/wiki/Iranian_People%27s_Fedai_Guerrillas" title="Iranian People's Fedai Guerrillas">Fadaian Khalq</a>, <a href="/wiki/Tudeh" class="mw-redirect" title="Tudeh">Tudeh</a>, and Paikar.</p>
+<p>Banisadr went into hiding for a few days before his removal, and hid in <a href="/wiki/Tehran" title="Tehran">Tehran</a>, protected by the <a href="/wiki/People%27s_Mujahedin_of_Iran" title="People's Mujahedin of Iran">People's Mujahedin</a> (PMOI). He attempted to organize an alliance of anti-Khomeini factions to retake power, including the PMOI, KDP, and the <a href="/wiki/Fedaian_Organisation_(Minority)" title="Fedaian Organisation (Minority)">Fedaian Organisation (Minority)</a>, while eschewing any contact with pro-Shah exile groups. He met numerous times while in hiding with PMOI leader <a href="/wiki/Massoud_Rajavi" title="Massoud Rajavi">Massoud Rajavi</a> to plan an alliance, but after the execution on 27 July of PMOI member Mohammadreza Saadati, Banisadr and Rajavi concluded that it was unsafe to remain in Iran.<sup id="cite_ref-zabih_11-0" class="reference"><a href="#cite_note-zabih-11">[11]</a></sup></p>
+<table role="presentation" class="metadata mbox-small noprint selfref" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;width: 22em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/40px-Farsi.svg.png" width="40" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/60px-Farsi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/80px-Farsi.svg.png 2x" data-file-width="323" data-file-height="235" /></td>
+<td class="mbox-text plainlist" style="vertical-align:middle; font-size:95%;"><b>This article contains <a href="/wiki/Persian_alphabet" title="Persian alphabet">Persian text</a>.</b> Without proper <a href="/wiki/Help:Arabic" title="Help:Arabic">rendering support</a>, you may see <a href="/wiki/Replacement_character" class="mw-redirect" title="Replacement character">question marks, boxes, or other symbols</a>.</td>
+</tr>
+</table>
+<p>In Banisadr's view, this impeachment was a coup d'état against the democracy in Iran. In order to settle the political differences in the country, President Banisadr had asked for a <a href="/wiki/Referendum" title="Referendum">referendum</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Flight_and_exile">Flight and exile</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=4" title="Edit section: Flight and exile">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Abolhassan_Banisadr_Hamburg_Conference_10.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Abolhassan_Banisadr_Hamburg_Conference_10.jpg/220px-Abolhassan_Banisadr_Hamburg_Conference_10.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Abolhassan_Banisadr_Hamburg_Conference_10.jpg/330px-Abolhassan_Banisadr_Hamburg_Conference_10.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Abolhassan_Banisadr_Hamburg_Conference_10.jpg/440px-Abolhassan_Banisadr_Hamburg_Conference_10.jpg 2x" data-file-width="720" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Abolhassan_Banisadr_Hamburg_Conference_10.jpg" class="internal" title="Enlarge"></a></div>
+Banisadr in 2010</div>
+</div>
+</div>
+<p>When Banisadr was impeached on 21 June 1981 he had fled and had been hiding in western Iran.<sup id="cite_ref-pay13_9-1" class="reference"><a href="#cite_note-pay13-9">[9]</a></sup> On 29 July, Banisadr and <a href="/wiki/Masoud_Rajavi" class="mw-redirect" title="Masoud Rajavi">Masoud Rajavi</a> were smuggled aboard an <a href="/wiki/Iranian_Air_Force" class="mw-redirect" title="Iranian Air Force">Iranian Air Force</a> <a href="/wiki/Boeing_707" title="Boeing 707">Boeing 707</a> piloted by Colonel Behzad Moezzi.<sup id="cite_ref-twquarterly_4-2" class="reference"><a href="#cite_note-twquarterly-4">[4]</a></sup> It followed a routine flight plan before deviating out of Iranian groundspace to <a href="/wiki/Turkey" title="Turkey">Turkish</a> airspace and eventually landing in <a href="/wiki/Paris" title="Paris">Paris</a>.<sup id="cite_ref-pay13_9-2" class="reference"><a href="#cite_note-pay13-9">[9]</a></sup></p>
+<p>Banisadr and Rajavi found political asylum in Paris, conditional on abstaining from anti-Khomeini activities in France. This restriction was effectively ignored after France evacuated its embassy in Tehran. Banisadr, Rajavi and <a href="/wiki/Kurdish_Democratic_Party_of_Iran" class="mw-redirect" title="Kurdish Democratic Party of Iran">the Kurdish Democratic Party</a> set up the <a href="/wiki/National_Council_of_Resistance_of_Iran" title="National Council of Resistance of Iran">National Council of Resistance of Iran</a> in Paris in October 1981.<sup id="cite_ref-twquarterly_4-3" class="reference"><a href="#cite_note-twquarterly-4">[4]</a></sup><sup id="cite_ref-zabih_11-1" class="reference"><a href="#cite_note-zabih-11">[11]</a></sup> However, Banisadr soon fell out with Rajavi, accusing him of ideologies favouring dictatorship and violence. Furthermore, Banisadr opposed the armed opposition as initiated and sustained by Rajavi, and sought support for Iran during the war with Iraq.</p>
+<h3><span class="mw-headline" id="My_Turn_to_Speak"><i>My Turn to Speak</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=5" title="Edit section: My Turn to Speak">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1991, Banisadr released an English translation of his 1989 text <i>My Turn to Speak: Iran, the Revolution and Secret Deals with the U.S.</i>.<sup id="cite_ref-Foreign_Affairs.3B_Winter_1991.2F92_13-0" class="reference"><a href="#cite_note-Foreign_Affairs.3B_Winter_1991.2F92-13">[13]</a></sup> In the book, Banisadr alleged <a href="/wiki/October_surprise_conspiracy_theory" class="mw-redirect" title="October surprise conspiracy theory">covert dealings</a> between the <a href="/wiki/Ronald_Reagan_presidential_campaign,_1980" title="Ronald Reagan presidential campaign, 1980">Ronald Reagan presidential campaign</a> and leaders in Tehran to prolong the <a href="/wiki/Iran_hostage_crisis" title="Iran hostage crisis">Iran hostage crisis</a> before the <a href="/wiki/United_States_presidential_election,_1980" title="United States presidential election, 1980">1980 U.S. presidential election</a>.<sup id="cite_ref-NYT20090731_14-0" class="reference"><a href="#cite_note-NYT20090731-14">[14]</a></sup> He also claimed that <a href="/wiki/Henry_Kissinger" title="Henry Kissinger">Henry Kissinger</a> plotted to set up a <a href="/wiki/Palestinian_state" class="mw-redirect" title="Palestinian state">Palestinian state</a> in the <a href="/wiki/Provinces_of_Iran" title="Provinces of Iran">Iranian province</a> of <a href="/wiki/Khuzistan" class="mw-redirect" title="Khuzistan">Khuzistan</a> and that <a href="/wiki/Zbigniew_Brzezinski" title="Zbigniew Brzezinski">Zbigniew Brzezinski</a> conspired with <a href="/wiki/Saddam_Hussein" title="Saddam Hussein">Saddam Hussein</a> to plot <a href="/wiki/Iran%E2%80%93Iraq_War#1980:_Iraqi_invasion" title="Iran–Iraq War">Iraq's 1980 invasion of Iran</a>.<sup id="cite_ref-Foreign_Affairs.3B_Winter_1991.2F92_13-1" class="reference"><a href="#cite_note-Foreign_Affairs.3B_Winter_1991.2F92-13">[13]</a></sup></p>
+<p>In a review for <i><a href="/wiki/Foreign_Affairs" title="Foreign Affairs">Foreign Affairs</a></i>, <a href="/wiki/William_B._Quandt" title="William B. Quandt">William B. Quandt</a> described the book as "a rambling, self-serving series of reminiscences" and "long on sensational allegations and devoid of documentation that might lend credence to Bani-Sadr's claims."<sup id="cite_ref-Foreign_Affairs.3B_Winter_1991.2F92_13-2" class="reference"><a href="#cite_note-Foreign_Affairs.3B_Winter_1991.2F92-13">[13]</a></sup> <i><a href="/wiki/Kirkus_Reviews" title="Kirkus Reviews">Kirkus Reviews</a></i> called it "an interesting-though frequently incredible and consistently self-serving-memoir" and said "frequent sensational accusations render his tale an eccentric, implausible commentary on the tragic folly of the Iranian Revolution."<sup id="cite_ref-Kirkus_Reviews_15-0" class="reference"><a href="#cite_note-Kirkus_Reviews-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Views">Views</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=6" title="Edit section: Views">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Banisadr, in a 2008 interview with the Voice of America in the 29th anniversary of the revolution, claimed that Khomeini is directly responsible for the violence originated from the Muslim world and that Khomeini did turn against his promises stated in exile following the revolution.<sup id="cite_ref-vofa8_16-0" class="reference"><a href="#cite_note-vofa8-16">[16]</a></sup> In July 2009, Banisadr publicly denounced the Iranian government's conduct after the disputed <a href="/wiki/Iranian_presidential_election,_2009" title="Iranian presidential election, 2009">presidential election</a>: "Khamenei ordered the fraud in the presidential elections and the ensuing crackdown on protesters." He said the government was "holding on to power solely by means of violence and terror" and accused its leaders of amassing wealth for themselves, to the detriment of other Iranians.<sup id="cite_ref-WT20090707_17-0" class="reference"><a href="#cite_note-WT20090707-17">[17]</a></sup></p>
+<p>In published articles on the <a href="/wiki/2009_Iranian_election_protests" class="mw-redirect" title="2009 Iranian election protests">2009 Iranian election protests</a>, he ascribed the unusually open political climate before the election to the government's great need to prove its legitimacy.<sup id="cite_ref-DW20090703_18-0" class="reference"><a href="#cite_note-DW20090703-18">[18]</a></sup> However, he said the government had lost all legitimacy. In particular, the spontaneous uprising had cost it its political legitimacy, and with <a href="/wiki/Supreme_Leader_of_Iran" title="Supreme Leader of Iran">Supreme Leader</a> <a href="/wiki/Ayatollah" title="Ayatollah">Ayatollah</a> <a href="/wiki/Ali_Khamenei" title="Ali Khamenei">Ali Khamenei</a>'s threats &#160;–  leading to the violent crackdown &#160;–  its religious legitimacy.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2015)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=7" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Banisadr lives in <a href="/wiki/Versailles,_Yvelines" title="Versailles, Yvelines">Versailles</a>, near Paris, in a <a href="/wiki/Villa" title="Villa">villa</a> closely guarded by <a href="/wiki/French_police" class="mw-redirect" title="French police">French police</a>.<sup id="cite_ref-WT20090707_17-1" class="reference"><a href="#cite_note-WT20090707-17">[17]</a></sup><sup id="cite_ref-DW20090703_18-1" class="reference"><a href="#cite_note-DW20090703-18">[18]</a></sup> Banisadr's daughter, Firoozeh, married <a href="/wiki/Masoud_Rajavi" class="mw-redirect" title="Masoud Rajavi">Masoud Rajavi</a> in Paris following their exile.<sup id="cite_ref-twquarterly_4-4" class="reference"><a href="#cite_note-twquarterly-4">[4]</a></sup><sup id="cite_ref-habilian_19-0" class="reference"><a href="#cite_note-habilian-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> They later divorced and the alliance between him and Rajavi also ended.<sup id="cite_ref-twquarterly_4-5" class="reference"><a href="#cite_note-twquarterly-4">[4]</a></sup><sup id="cite_ref-habilian_19-1" class="reference"><a href="#cite_note-habilian-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=8" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Touhid Economics</i>, 1980</li>
+<li>(with Jean-Charles Deniau) <i>My Turn to Speak: Iran, the Revolution and Secret Deals With the U.S.</i>, Potomac Books (April 1991) <a href="/wiki/Special:BookSources/0080405630" class="internal mw-magiclink-isbn">ISBN 0-08-040563-0</a></li>
+<li><i>Le Coran et le pouvoir: principes fondamentaux du Coran</i>, Imago, 1993</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/32px-Flag_of_Iran.svg.png" width="32" height="18" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/48px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/64px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Iran" title="Portal:Iran">Iran portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/41px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/55px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/28px-A_coloured_voting_box.svg.png" width="28" height="28" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/42px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/56px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/October_Surprise_conspiracy_theory" title="October Surprise conspiracy theory">October Surprise conspiracy theory</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.britannica.com/biography/Abolhasan-Bani-Sadr">"Abolhasan Bani-Sadr PRESIDENT OF IRAN"</a>. Encyclopædia Britannica<span class="reference-accessdate">. Retrieved <span class="nowrap">22 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.btitle=Abolhasan+Bani-Sadr+PRESIDENT+OF+IRAN&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FAbolhasan-Bani-Sadr&amp;rft.pub=Encyclop%C3%A6dia+Britannica&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Houchang E. Chehabi (1990). <i>Iranian Politics and Religious Modernism: The Liberation Movement of Iran Under the Shah and Khomeini</i>. I.B.Tauris. p.&#160;200. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1850431981" title="Special:BookSources/1850431981">1850431981</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.au=Houchang+E.+Chehabi&amp;rft.btitle=Iranian+Politics+and+Religious+Modernism%3A+The+Liberation+Movement+of+Iran+Under+the+Shah+and+Khomeini&amp;rft.date=1990&amp;rft.genre=book&amp;rft.isbn=1850431981&amp;rft.pages=200&amp;rft.pub=I.B.Tauris&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Jessup, John E. (1998). <a rel="nofollow" class="external text" href="http://www.questia.com/read/106899354/an-encyclopedic-dictionary-of-conflict-and-conflict"><i>An Encyclopedic Dictionary of Conflict and Conflict Resolution, 1945-1996</i></a>. Westport, CT: Greenwood Press. p.&#160;57.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.aufirst=John+E.&amp;rft.aulast=Jessup&amp;rft.btitle=An+Encyclopedic+Dictionary+of+Conflict+and+Conflict+Resolution%2C+1945-1996&amp;rft.date=1998&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.questia.com%2Fread%2F106899354%2Fan-encyclopedic-dictionary-of-conflict-and-conflict&amp;rft.pages=57&amp;rft.place=Westport%2C+CT&amp;rft.pub=Greenwood+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> &#160;–&#160;via&#160;Questia <span style="font-size:0.95em; font-size: 90%; color: #555">(subscription required)</span></span></li>
+<li id="cite_note-twquarterly-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-twquarterly_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-twquarterly_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-twquarterly_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-twquarterly_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-twquarterly_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-twquarterly_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Sreberny-Mohammadi, Annabelle; Ali Mohammadi (January 1987). "Post-Revolutionary Iranian Exiles: A Study in Impotence". <i>Third World Quarterly</i>. <b>9</b> (1): 108–129. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F01436598708419964">10.1080/01436598708419964</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3991849">3991849</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=Post-Revolutionary+Iranian+Exiles%3A+A+Study+in+Impotence&amp;rft.au=Ali+Mohammadi&amp;rft.aufirst=Annabelle&amp;rft.aulast=Sreberny-Mohammadi&amp;rft.date=1987-01&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3991849&amp;rft_id=info%3Adoi%2F10.1080%2F01436598708419964&amp;rft.issue=1&amp;rft.jtitle=Third+World+Quarterly&amp;rft.pages=108-129&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rubin80-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-rubin80_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rubin80_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Rubin, Barry (1980). <a rel="nofollow" class="external text" href="http://www.gloria-center.org/wp-content/uploads/2013/02/Paved-with-Good-Intentions-final.pdf"><i>Paved with Good Intentions</i></a> <span style="font-size:85%;">(PDF)</span>. New York: Penguin Books. p.&#160;308.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.aufirst=Barry&amp;rft.aulast=Rubin&amp;rft.btitle=Paved+with+Good+Intentions&amp;rft.date=1980&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.gloria-center.org%2Fwp-content%2Fuploads%2F2013%2F02%2FPaved-with-Good-Intentions-final.pdf&amp;rft.pages=308&amp;rft.place=New+York&amp;rft.pub=Penguin+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Metz, Helen Chapin. <a rel="nofollow" class="external text" href="http://a1.phobos.apple.com/us/r30/CobaltPublic/v4/bd/15/ac/bd15acc0-011e-1b4b-6e82-2e8709aa1d09/106-2923369153335397402-The_Revolution.pdf">"The Revolution"</a> <span style="font-size:85%;">(PDF)</span>. <i>Phobos</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=The+Revolution&amp;rft.aufirst=Helen+Chapin&amp;rft.aulast=Metz&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fa1.phobos.apple.com%2Fus%2Fr30%2FCobaltPublic%2Fv4%2Fbd%2F15%2Fac%2Fbd15acc0-011e-1b4b-6e82-2e8709aa1d09%2F106-2923369153335397402-The_Revolution.pdf&amp;rft.jtitle=Phobos&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Facts on File 1980 Yearbook, p. 88</span></li>
+<li id="cite_note-m93-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-m93_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mozaffari, Mahdi (1993). <a rel="nofollow" class="external text" href="http://ha6uq4xy8k.scholar.serialssolutions.com/?sid=google&amp;auinit=M&amp;aulast=Mozaffari&amp;atitle=Changes+in+the+Iranian+Political+System+after+Khomeini%27s+Death*&amp;id=doi:10.1111/j.1467-9248.1993.tb01659.x&amp;title=Political+studies&amp;volume=41&amp;issue=4&amp;date=1993&amp;spage=611&amp;issn=0032-3217">"Changes in the Iranian political system after Khomeini's death"</a>. <i>Political Studies</i>. <b>XLI</b>: 611–617. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1467-9248.1993.tb01659.x">10.1111/j.1467-9248.1993.tb01659.x</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=Changes+in+the+Iranian+political+system+after+Khomeini%27s+death&amp;rft.aufirst=Mahdi&amp;rft.aulast=Mozaffari&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fha6uq4xy8k.scholar.serialssolutions.com%2F%3Fsid%3Dgoogle%26auinit%3DM%26aulast%3DMozaffari%26atitle%3DChanges%2Bin%2Bthe%2BIranian%2BPolitical%2BSystem%2Bafter%2BKhomeini%2527s%2BDeath%2A%26id%3Ddoi%3A10.1111%2Fj.1467-9248.1993.tb01659.x%26title%3DPolitical%2Bstudies%26volume%3D41%26issue%3D4%26date%3D1993%26spage%3D611%26issn%3D0032-3217&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1467-9248.1993.tb01659.x&amp;rft.jtitle=Political+Studies&amp;rft.pages=611-617&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=XLI" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pay13-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-pay13_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pay13_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pay13_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Sahimi, Mohammad (20 August 2013). <a rel="nofollow" class="external text" href="http://www.payvand.com/news/13/aug/1138.html">"Iran's Bloody Decade of 1980s"</a>. <i>Payvand</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=Iran%27s+Bloody+Decade+of+1980s&amp;rft.aufirst=Mohammad&amp;rft.aulast=Sahimi&amp;rft.date=2013-08-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.payvand.com%2Fnews%2F13%2Faug%2F1138.html&amp;rft.jtitle=Payvand&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2013/may/13/iranian-presidential-election-2013-iran">"Iranian presidential elections 2013: the essential guide"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=Iranian+presidential+elections+2013%3A+the+essential+guide&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2013%2Fmay%2F13%2Firanian-presidential-election-2013-iran&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-zabih-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-zabih_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zabih_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Sepehr Zabih (1982). <i>Iran Since the Revolution</i>. Taylor &amp; Francis. pp.&#160;133–136. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7099-3000-3" title="Special:BookSources/0-7099-3000-3">0-7099-3000-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.au=Sepehr+Zabih&amp;rft.btitle=Iran+Since+the+Revolution&amp;rft.date=1982&amp;rft.genre=book&amp;rft.isbn=0-7099-3000-3&amp;rft.pages=133-136&amp;rft.pub=Taylor+%26+Francis&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Abolhassan, Bani-Sadr. <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/abolhassan-banisadr/abolhassan-bani-sadr-iranian-revolution_b_4746509.html">"35 Years On, It is Time to Return to the Democratic Spirit of the Iranian Revolution"</a>. <i>Huffington Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=35+Years+On%2C+It+is+Time+to+Return+to+the+Democratic+Spirit+of+the+Iranian+Revolution&amp;rft.aufirst=Bani-Sadr&amp;rft.aulast=Abolhassan&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2Fabolhassan-banisadr%2Fabolhassan-bani-sadr-iranian-revolution_b_4746509.html&amp;rft.jtitle=Huffington+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Foreign_Affairs.3B_Winter_1991.2F92-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Foreign_Affairs.3B_Winter_1991.2F92_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Foreign_Affairs.3B_Winter_1991.2F92_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Foreign_Affairs.3B_Winter_1991.2F92_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/William_B._Quandt" title="William B. Quandt">Quandt, Walter B.</a> (Winter 1991). <a rel="nofollow" class="external text" href="https://www.foreignaffairs.com/reviews/capsule-review/1991-12-01/my-turn-speak-iran-revolution-and-secret-deals-us">"My Turn To Speak: Iran, The Revolution And Secret Deals With The U.S."</a>. <i>Foreign Affairs</i>. Council on Foreign Relations<span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=My+Turn+To+Speak%3A+Iran%2C+The+Revolution+And+Secret+Deals+With+The+U.S.&amp;rft.aufirst=Walter+B.&amp;rft.aulast=Quandt&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.foreignaffairs.com%2Freviews%2Fcapsule-review%2F1991-12-01%2Fmy-turn-speak-iran-revolution-and-secret-deals-us&amp;rft.jtitle=Foreign+Affairs&amp;rft.ssn=winter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYT20090731-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYT20090731_14-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Neil A Lewis (7 May 1991). <a rel="nofollow" class="external text" href="https://www.nytimes.com/1991/05/07/world/bani-sadr-in-us-renews-charges-of-1980-deal.html">"Bani-Sadr, in U.S., Renews Charges of 1980 Deal"</a>. <i>New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=Bani-Sadr%2C+in+U.S.%2C+Renews+Charges+of+1980+Deal&amp;rft.au=Neil+A+Lewis&amp;rft.date=1991-05-07&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1991%2F05%2F07%2Fworld%2Fbani-sadr-in-us-renews-charges-of-1980-deal.html&amp;rft.jtitle=New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kirkus_Reviews-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kirkus_Reviews_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Abol Hassan Bani-Sadr. <a rel="nofollow" class="external text" href="https://www.kirkusreviews.com/book-reviews/abol-hassan-bani-sadr/my-turn-to-speak/">"My Turn to Speak: Iran, the Revolution and Secret Deals with the US"</a>. Kirkus Reviews<span class="reference-accessdate">. Retrieved <span class="nowrap">22 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.au=Abol+Hassan+Bani-Sadr&amp;rft.btitle=My+Turn+to+Speak%3A+Iran%2C+the+Revolution+and+Secret+Deals+with+the+US&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.kirkusreviews.com%2Fbook-reviews%2Fabol-hassan-bani-sadr%2Fmy-turn-to-speak%2F&amp;rft.pub=Kirkus+Reviews&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-vofa8-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-vofa8_16-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://ir.voanews.com/content/a-31-2008-02-19-voa20-62768327/635240.html">"Persian TV weekly highlights"</a>. <i>Voice of America</i>. 19 February 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">4 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=Persian+TV+weekly+highlights&amp;rft.date=2008-02-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fir.voanews.com%2Fcontent%2Fa-31-2008-02-19-voa20-62768327%2F635240.html&amp;rft.jtitle=Voice+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WT20090707-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-WT20090707_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WT20090707_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://televisionwashington.com/floater_article1.aspx?lang=en&amp;t=1&amp;id=11922">"Former Iran president says Khamenei behind election "fraud<span style="padding-right:0.2em;">"</span>"</a>. <i>WashingtonTV</i>. 7 July 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=Former+Iran+president+says+Khamenei+behind+election+%22fraud%22&amp;rft.date=2009-07-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftelevisionwashington.com%2Ffloater_article1.aspx%3Flang%3Den%26t%3D1%26id%3D11922&amp;rft.jtitle=WashingtonTV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DW20090703-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-DW20090703_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DW20090703_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Abolhassan Banisadr (3 July 2009). <a rel="nofollow" class="external text" href="http://en.qantara.de/webcom/show_article.php/_c-476/_nr-1182/i.html">"The Regime Cares Nothing about Human Rights"</a>. <i>Die Welt / Qantara</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=The+Regime+Cares+Nothing+about+Human+Rights&amp;rft.au=Abolhassan+Banisadr&amp;rft.date=2009-07-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fen.qantara.de%2Fwebcom%2Fshow_article.php%2F_c-476%2F_nr-1182%2Fi.html&amp;rft.jtitle=Die+Welt+%2F+Qantara&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-habilian-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-habilian_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-habilian_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Irani, Bahar (19 February 2011). <a rel="nofollow" class="external text" href="http://www.habilian.ir/en/Human-Rights/indispensability-of-examining-sexual-abuses-within-the-cult-of-rajavi.html">"Indispensability of Examining Sexual Abuses within the Cult of Rajavi"</a>. <i>Habilian Association</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=Indispensability+of+Examining+Sexual+Abuses+within+the+Cult+of+Rajavi&amp;rft.aufirst=Bahar&amp;rft.aulast=Irani&amp;rft.date=2011-02-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.habilian.ir%2Fen%2FHuman-Rights%2Findispensability-of-examining-sexual-abuses-within-the-cult-of-rajavi.html&amp;rft.jtitle=Habilian+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Smith, Craig S. (24 September 2005). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2005/09/24/international/europe/24rajavi.html?pagewanted=all">"Exiled Iranians Try to Foment Revolution From France"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbolhassan+Banisadr&amp;rft.atitle=Exiled+Iranians+Try+to+Foment+Revolution+From+France&amp;rft.aufirst=Craig+S.&amp;rft.aulast=Smith&amp;rft.date=2005-09-24&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2005%2F09%2F24%2Finternational%2Feurope%2F24rajavi.html%3Fpagewanted%3Dall&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikiquote-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Abolhassan_Banisadr" class="extiw" title="q:Special:Search/Abolhassan Banisadr">Abolhassan Banisadr</a></b></i></td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Abolhassan_Banisadr" class="extiw" title="commons:Special:Search/Abolhassan Banisadr">Abolhassan Banisadr</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050303011217/http://www.banisadr.com.fr:80/">Abolhassan Banisadr's website</a> (in Persian)</li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr>
+<th colspan="3" style="border-top: 5px solid #ccccff;">Political offices</th>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold">Ali Ardalan</span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Ministry_of_Economic_Affairs_and_Finance_(Iran)" title="Ministry of Economic Affairs and Finance (Iran)">Minister of Finance of Iran</a></b><br />
+1979</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Hossein_Namazi" title="Hossein Namazi">Hossein Namazi</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Ebrahim_Yazdi" title="Ebrahim Yazdi">Ebrahim Yazdi</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Minister_of_Foreign_Affairs_(Iran)" class="mw-redirect" title="Minister of Foreign Affairs (Iran)">Minister of Foreign Affairs of Iran</a> (Acting)</b><br />
+1979</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Sadegh_Ghotbzadeh" title="Sadegh Ghotbzadeh">Sadegh Ghotbzadeh</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Mahmoud_Taleghani" title="Mahmoud Taleghani">Mahmoud Taleghani</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Council_of_Islamic_Revolution_(Iran)" class="mw-redirect" title="Council of Islamic Revolution (Iran)">President of the Council of Islamic Revolution</a></b><br />
+1980</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold">Position abolished</span></td>
+</tr>
+<tr>
+<td style="width: 30%; text-align: center;" rowspan="1"><b>New title</b><br />
+<div style="font-size:90%">Position established</div>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/President_of_Iran" title="President of Iran">President of Iran</a></b><br />
+1980–1981</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Mohammad-Ali_Rajai" title="Mohammad-Ali Rajai">Mohammad-Ali Rajai</a></span></td>
+</tr>
+<tr>
+<th colspan="3" style="border-top: 5px solid #CF9C65;">Military offices</th>
+</tr>
+<tr>
+<td style="width: 30%; text-align: center;" rowspan="1"><b>Vacant</b>
+<div style="font-size:90%">Title last held by</div>
+<b><a href="/wiki/Mohammad_Reza_Pahlavi" title="Mohammad Reza Pahlavi">Mohammad Reza Pahlavi</a></b></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Commander-in-Chief_of_the_Iranian_Armed_Forces" title="Commander-in-Chief of the Iranian Armed Forces">Commander-in-Chief of the Iranian Armed Forces</a></b><br />
+1980–1981</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Ruhollah_Khomeini" title="Ruhollah Khomeini">Ruhollah Khomeini</a></span></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DIran.7Clink.3DIran_Presidents_of_Iran_.28list.29" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Presidents_of_Iran" title="Template:Presidents of Iran"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Presidents_of_Iran" title="Template talk:Presidents of Iran"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Presidents_of_Iran&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DIran.7Clink.3DIran_Presidents_of_Iran_.28list.29" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Iran" title="Iran"><img alt="Iran" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></a></span> <a href="/wiki/President_of_Iran" title="President of Iran">Presidents of Iran</a> <small>(<a href="/wiki/List_of_Presidents_of_Iran" title="List of Presidents of Iran">list</a>)</small></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Abolhassan Banisadr</a> <small>(1980–1981)</small></li>
+<li><a href="/wiki/Mohammad-Ali_Rajai" title="Mohammad-Ali Rajai">Mohammad-Ali Rajai</a> <small>(1981)</small></li>
+<li><a href="/wiki/Ali_Khamenei" title="Ali Khamenei">Ali Khamenei</a> <small>(1981–1989)</small></li>
+<li><a href="/wiki/Akbar_Hashemi_Rafsanjani" title="Akbar Hashemi Rafsanjani">Akbar Hashemi Rafsanjani</a> <small>(1989–1997)</small></li>
+<li><a href="/wiki/Mohammad_Khatami" title="Mohammad Khatami">Mohammad Khatami</a> <small>(1997–2005)</small></li>
+<li><a href="/wiki/Mahmoud_Ahmadinejad" title="Mahmoud Ahmadinejad">Mahmoud Ahmadinejad</a> <small>(2005–2013)</small></li>
+<li><a href="/wiki/Hassan_Rouhani" title="Hassan Rouhani">Hassan Rouhani</a> <small>(2013–present)</small></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Emblem_of_Iran.svg/75px-Emblem_of_Iran.svg.png" width="75" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Emblem_of_Iran.svg/113px-Emblem_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Emblem_of_Iran.svg/150px-Emblem_of_Iran.svg.png 2x" data-file-width="500" data-file-height="492" /></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Ministers_of_Foreign_Affairs_of_Iran" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background:#b0c4de;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ministers_of_Foreign_Affairs_of_Iran" title="Template:Ministers of Foreign Affairs of Iran"><abbr title="View this template" style=";background:#b0c4de;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ministers_of_Foreign_Affairs_of_Iran" title="Template talk:Ministers of Foreign Affairs of Iran"><abbr title="Discuss this template" style=";background:#b0c4de;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ministers_of_Foreign_Affairs_of_Iran&amp;action=edit"><abbr title="Edit this template" style=";background:#b0c4de;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ministers_of_Foreign_Affairs_of_Iran" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Ministers_of_Foreign_Affairs_of_Iran" title="List of Ministers of Foreign Affairs of Iran">Ministers of Foreign Affairs</a> of <a href="/wiki/Iran" title="Iran">Iran</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Abdolvahhab_Khan&amp;action=edit&amp;redlink=1" class="new" title="Abdolvahhab Khan (page does not exist)">Abdolvahhab Khan</a></li>
+<li><a href="/wiki/Mirza_Abolhassan_Khan_Ilchi" title="Mirza Abolhassan Khan Ilchi">Mirza Abolhassan Khan Ilchi</a></li>
+<li><a href="/wiki/Hajj_Mirza_Aghasi" class="mw-redirect" title="Hajj Mirza Aghasi">Hajj Mirza Aghasi</a></li>
+<li><a href="/wiki/Amir_Kabir" title="Amir Kabir">Amir Kabir</a></li>
+<li><a href="/w/index.php?title=Saeed_Khan_Ansari&amp;action=edit&amp;redlink=1" class="new" title="Saeed Khan Ansari (page does not exist)">Saeed Khan Ansari</a></li>
+<li><a href="/wiki/Mirza_Hosein_Khan_Moshir_od-Dowleh" title="Mirza Hosein Khan Moshir od-Dowleh">Mirza Hosein Khan Moshir od-Dowleh</a></li>
+<li><a href="/w/index.php?title=Saeed_Khan_Ansari&amp;action=edit&amp;redlink=1" class="new" title="Saeed Khan Ansari (page does not exist)">Saeed Khan Ansari</a></li>
+<li><a href="/wiki/Mirza_Nasrullah_Khan" title="Mirza Nasrullah Khan">Mirza Nasrullah Khan</a></li>
+<li><a href="/wiki/Firouz_Mirza_Nosrat-ed-Dowleh_Farman_Farmaian_III" class="mw-redirect" title="Firouz Mirza Nosrat-ed-Dowleh Farman Farmaian III">Nosrat-ed-Dowleh</a></li>
+<li><a href="/wiki/Ali_Soheili" title="Ali Soheili">Ali Soheili</a></li>
+<li><a href="/wiki/Mozaffar_Alam" title="Mozaffar Alam">Mozaffar Alam</a></li>
+<li><a href="/wiki/Hossein_Ala%27" title="Hossein Ala'">Hossein Ala'</a></li>
+<li><a href="/w/index.php?title=Mahmoud_Salehi&amp;action=edit&amp;redlink=1" class="new" title="Mahmoud Salehi (page does not exist)">Mahmoud Salehi</a></li>
+<li><a href="/wiki/Mohsen_Rais" title="Mohsen Rais">Mohsen Rais</a></li>
+<li><a href="/w/index.php?title=Bagher_Kazemi&amp;action=edit&amp;redlink=1" class="new" title="Bagher Kazemi (page does not exist)">Bagher Kazemi</a></li>
+<li><a href="/wiki/Hossein_Navab" title="Hossein Navab">Hossein Navab</a></li>
+<li><a href="/wiki/Hossein_Fatemi" title="Hossein Fatemi">Hossein Fatemi</a></li>
+<li><a href="/w/index.php?title=Abdol-Hossein_Meftah&amp;action=edit&amp;redlink=1" class="new" title="Abdol-Hossein Meftah (page does not exist)">Abdol-Hossein Meftah</a></li>
+<li><a href="/wiki/Fazlollah_Zahedi" title="Fazlollah Zahedi">Fazlollah Zahedi</a></li>
+<li><a href="/wiki/Abdullah_Entezam" title="Abdullah Entezam">Abdullah Entezam</a></li>
+<li><a href="/w/index.php?title=Ali_Gholi_Ardalan&amp;action=edit&amp;redlink=1" class="new" title="Ali Gholi Ardalan (page does not exist)">Ali Gholi Ardalan</a></li>
+<li><a href="/wiki/Abbas_Aram" title="Abbas Aram">Abbas Aram</a></li>
+<li><a href="/wiki/Jafar_Sharif-Emami" title="Jafar Sharif-Emami">Jafar Sharif-Emami</a></li>
+<li><a href="/wiki/Hossein_Ghods-Nakhai" title="Hossein Ghods-Nakhai">Hossein Ghods-Nakhai</a></li>
+<li><a href="/wiki/Abbas_Aram" title="Abbas Aram">Abbas Aram</a></li>
+<li><a href="/wiki/Ardeshir_Zahedi" title="Ardeshir Zahedi">Ardeshir Zahedi</a></li>
+<li><a href="/wiki/Abbas_Ali_Khalatbari" title="Abbas Ali Khalatbari">Abbas Ali Khalatbari</a></li>
+<li><a href="/wiki/Amir_Khosrow_Afshar" title="Amir Khosrow Afshar">Amir Khosrow Afshar</a></li>
+<li><a href="/wiki/Ahmad_Mirfendereski" title="Ahmad Mirfendereski">Ahmad Mirfendereski</a></li>
+<li><a href="/wiki/Karim_Sanjabi" title="Karim Sanjabi">Karim Sanjabi</a></li>
+<li><a href="/wiki/Mehdi_Bazargan" title="Mehdi Bazargan">Mehdi Bazargan</a></li>
+<li><a href="/wiki/Ebrahim_Yazdi" title="Ebrahim Yazdi">Ebrahim Yazdi</a></li>
+<li><a href="/wiki/Abulhassan_Banisadr" class="mw-redirect" title="Abulhassan Banisadr">Abulhassan Banisadr</a></li>
+<li><a href="/wiki/Sadegh_Ghotbzadeh" title="Sadegh Ghotbzadeh">Sadegh Ghotbzadeh</a></li>
+<li><a href="/wiki/Karim_Khodapanahi" title="Karim Khodapanahi">Karim Khodapanahi</a></li>
+<li><a href="/wiki/Mohammad-Ali_Rajai" title="Mohammad-Ali Rajai">Mohammad-Ali Rajai</a></li>
+<li><a href="/wiki/Mir-Hossein_Mousavi" title="Mir-Hossein Mousavi">Mir-Hossein Mousavi</a></li>
+<li><a href="/wiki/Ali_Akbar_Velayati" title="Ali Akbar Velayati">Ali Akbar Velayati</a></li>
+<li><a href="/wiki/Kamal_Kharazi" title="Kamal Kharazi">Kamal Kharazi</a></li>
+<li><a href="/wiki/Manouchehr_Mottaki" title="Manouchehr Mottaki">Manouchehr Mottaki</a></li>
+<li><a href="/wiki/Ali_Akbar_Salehi" title="Ali Akbar Salehi">Ali Akbar Salehi</a></li>
+<li><a href="/wiki/Mohammad_Javad_Zarif" title="Mohammad Javad Zarif">Mohammad Javad Zarif</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:Flag_of_Iran.svg" class="image" title="Flag of Iran"><img alt="Flag of Iran" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/80px-Flag_of_Iran.svg.png" width="80" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/120px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/160px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/47553206">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/47553206">47553206</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79121475">n79121475</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000117978281">0000 0001 1797 8281</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/118506412">118506412</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/029468604">029468604</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb121090045">cb121090045</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb121090045">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2237
+Cached time: 20170423112031
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.604 seconds
+Real time usage: 0.935 seconds
+Preprocessor visited node count: 12320/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 119005/2097152 bytes
+Template argument size: 10108/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 6/500
+Lua time usage: 0.224/10.000 seconds
+Lua memory usage: 6.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  804.965      1 -total
+ 35.70%  287.400      1 Template:Infobox_president
+ 35.50%  285.798     11 Template:Infobox
+ 15.30%  123.177     17 Template:Infobox_officeholder/office
+ 15.09%  121.436      1 Template:Reflist
+ 13.30%  107.032      2 Template:BLP_sources
+ 10.67%   85.919      2 Template:Ambox
+  7.32%   58.896      7 Template:Cite_web
+  6.49%   52.248      1 Template:Use_dmy_dates
+  5.83%   46.896      1 Template:Portal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:399571-0!*!0!!en!4!* and timestamp 20170423112030 and revision id 774721668
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Abolhassan_Banisadr&amp;oldid=774721668">https://en.wikipedia.org/w/index.php?title=Abolhassan_Banisadr&amp;oldid=774721668</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1933_births" title="Category:1933 births">1933 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Government_ministers_of_Iran" title="Category:Government ministers of Iran">Government ministers of Iran</a></li><li><a href="/wiki/Category:Foreign_ministers_of_Iran" title="Category:Foreign ministers of Iran">Foreign ministers of Iran</a></li><li><a href="/wiki/Category:Presidents_of_Iran" title="Category:Presidents of Iran">Presidents of Iran</a></li><li><a href="/wiki/Category:Impeached_officials" title="Category:Impeached officials">Impeached officials</a></li><li><a href="/wiki/Category:Impeached_officials_removed_from_office" title="Category:Impeached officials removed from office">Impeached officials removed from office</a></li><li><a href="/wiki/Category:People_from_Hamadan" title="Category:People from Hamadan">People from Hamadan</a></li><li><a href="/wiki/Category:University_of_Paris_alumni" title="Category:University of Paris alumni">University of Paris alumni</a></li><li><a href="/wiki/Category:Iranian_emigrants_to_France" title="Category:Iranian emigrants to France">Iranian emigrants to France</a></li><li><a href="/wiki/Category:National_Front_(Iran)_politicians" title="Category:National Front (Iran) politicians">National Front (Iran) politicians</a></li><li><a href="/wiki/Category:Abolhassan_Banisadr" title="Category:Abolhassan Banisadr">Abolhassan Banisadr</a></li><li><a href="/wiki/Category:People_of_the_Iranian_Revolution" title="Category:People of the Iranian Revolution">People of the Iranian Revolution</a></li><li><a href="/wiki/Category:Iran_hostage_crisis" title="Category:Iran hostage crisis">Iran hostage crisis</a></li><li><a href="/wiki/Category:Iranian_revolutionaries" title="Category:Iranian revolutionaries">Iranian revolutionaries</a></li><li><a href="/wiki/Category:Exiles_of_the_Iranian_Revolution_in_France" title="Category:Exiles of the Iranian Revolution in France">Exiles of the Iranian Revolution in France</a></li><li><a href="/wiki/Category:Iranian_presidential_candidates,_1980" title="Category:Iranian presidential candidates, 1980">Iranian presidential candidates, 1980</a></li><li><a href="/wiki/Category:Commanders-in-Chief_of_Iran" title="Category:Commanders-in-Chief of Iran">Commanders-in-Chief of Iran</a></li><li><a href="/wiki/Category:Council_of_the_Islamic_Revolution_members" title="Category:Council of the Islamic Revolution members">Council of the Islamic Revolution members</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Subscription_required_using_via" title="Category:Subscription required using via">Subscription required using via</a></li><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2015" title="Category:Use dmy dates from February 2015">Use dmy dates from February 2015</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_April_2008" title="Category:BLP articles lacking sources from April 2008">BLP articles lacking sources from April 2008</a></li><li><a href="/wiki/Category:All_BLP_articles_lacking_sources" title="Category:All BLP articles lacking sources">All BLP articles lacking sources</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_needing_pronunciation" title="Category:Articles needing pronunciation">Articles needing pronunciation</a></li><li><a href="/wiki/Category:Articles_needing_IPA_cleanup" title="Category:Articles needing IPA cleanup">Articles needing IPA cleanup</a></li><li><a href="/wiki/Category:Articles_containing_Persian-language_text" title="Category:Articles containing Persian-language text">Articles containing Persian-language text</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_June_2013" title="Category:BLP articles lacking sources from June 2013">BLP articles lacking sources from June 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2015" title="Category:Articles with unsourced statements from March 2015">Articles with unsourced statements from March 2015</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Abolhassan+Banisadr" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Abolhassan+Banisadr" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Abolhassan_Banisadr"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Abolhassan_Banisadr"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Abolhassan_Banisadr" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Abolhassan_Banisadr" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Abolhassan_Banisadr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Abolhassan_Banisadr&amp;oldid=774721668" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Abolhassan_Banisadr&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q273866" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Abolhassan_Banisadr&amp;id=774721668" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Abolhassan+Banisadr">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Abolhassan+Banisadr&amp;returnto=Abolhassan+Banisadr&amp;oldid=774721668&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Abolhassan_Banisadr&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Abulhassan_Banisadr" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%AD%D8%B3%D9%86_%D8%A8%D9%86%D9%8A_%D8%B5%D8%AF%D8%B1" title="أبو الحسن بني صدر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C6%8Fb%C3%BClh%C9%99s%C9%99n_Banis%C9%99dr" title="Əbülhəsən Banisədr – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D8%AD%D8%B3%D9%86_%D8%A8%D9%86%DB%8C_%D8%B5%D8%AF%D8%B1" title="ابوالحسن بنی صدر – تۆرکجه" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%B1%D0%B0%D0%BB%D1%8C%D1%85%D0%B0%D1%81%D0%B0%D0%BD_%D0%91%D0%B0%D0%BD%D1%96%D1%81%D0%B0%D0%B4%D1%80" title="Абальхасан Банісадр – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D0%B1%D0%B0%D0%BB%D1%8C%D1%85%D0%B0%D1%81%D0%B0%D0%BD_%D0%91%D0%B0%D0%BD%D1%96%D1%81%D0%B0%D0%B4%D1%80" title="Абальхасан Банісадр – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%B1%D0%BE%D0%BB%D1%85%D0%B0%D1%81%D0%B0%D0%BD_%D0%91%D0%B0%D0%BD%D0%B8%D1%81%D0%B0%D0%B4%D1%80" title="Аболхасан Банисадр – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ab%C3%BA_al-Hasan_Ban%C3%AD_Sadr" title="Abú al-Hasan Baní Sadr – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Abolhas%C3%A1n_Banisadr" title="Abolhasán Banisadr – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Abolhasan_Banisadr" title="Abolhasan Banisadr – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D8%AD%D8%B3%D9%86_%D8%A8%D9%86%DB%8C%E2%80%8C%D8%B5%D8%AF%D8%B1" title="ابوالحسن بنی‌صدر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Abolhassan_Bani_Sadr" title="Abolhassan Bani Sadr – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Abdolhassan_Banisadr" title="Abdolhassan Banisadr – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EB%B3%BC%ED%95%98%EC%82%B0_%EB%B0%94%EB%8B%88%EC%82%AC%EB%93%9C%EB%A5%B4" title="아볼하산 바니사드르 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%AC%E0%A5%8B%E0%A4%B2-%E0%A4%B9%E0%A4%B8%E0%A4%A8_%E0%A4%AC%E0%A4%A8%E0%A4%BF-%E0%A4%B8%E0%A4%A6%E0%A5%8D%E0%A4%B0" title="अबोल-हसन बनि-सद्र – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%95%D7%9C%D7%97%D7%A1%D7%9F_%D7%91%D7%A0%D7%99-%D7%A1%D7%93%D7%A8" title="אבולחסן בני-סדר – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%AC%E0%B5%81%E0%B5%BE%E0%B4%B9%E0%B4%B8%E0%B5%8D%E0%B4%B8%E0%B5%BB_%E0%B4%AC%E0%B4%BE%E0%B4%A8%E0%B4%BF%E0%B4%B8%E0%B4%BE%E0%B4%A6%E0%B5%BC" title="അബുൾഹസ്സൻ ബാനിസാദർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A4%B9%E0%A4%B8%E0%A4%A8_%E0%A4%AC%E0%A4%A8%E0%A5%80%E0%A4%B8%E0%A4%A6%E0%A5%8D%E0%A4%B0" title="अबोलहसन बनीसद्र – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88_%D8%A7%D9%84%D8%AD%D8%B3%D9%86_%D8%A8%D9%86%D9%89_%D8%B5%D8%AF%D8%B1" title="ابو الحسن بنى صدر – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D8%AD%D8%B3%D9%86_%D8%A8%D9%86%DB%8C%E2%80%8C%D8%B5%D8%AF%D8%B1" title="ابوالحسن بنی‌صدر – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Abolhassan_Bani_Sadr" title="Abolhassan Bani Sadr – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9C%E3%83%AB%E3%83%8F%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%90%E3%83%8B%E3%83%BC%E3%82%B5%E3%83%89%E3%83%AB" title="アボルハサン・バニーサドル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Abolhassan_Bani-Sadr" title="Abolhassan Bani-Sadr – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Abol_Hassan_Bani-Sadr" title="Abol Hassan Bani-Sadr – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Abolhassan_Bani-Sadr" title="Abolhassan Bani-Sadr – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B8%D1%81%D0%B0%D0%B4%D1%80,_%D0%90%D0%B1%D0%BE%D0%BB%D1%8C%D1%85%D0%B0%D1%81%D0%B0%D0%BD" title="Банисадр, Абольхасан – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D8%A8%D9%88%D9%84%D8%AD%DB%95%D8%B3%DB%95%D9%86_%D8%A8%DB%95%D9%86%DB%8C%D8%B3%DB%95%D8%AF%D8%B1" title="ئەبولحەسەن بەنیسەدر – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%B1%D1%83%D0%BB%D1%85%D0%B0%D1%81%D0%B0%D0%BD_%D0%91%D0%B0%D0%BD%D0%B8%D1%81%D0%B0%D0%B4%D1%80" title="Абулхасан Банисадр – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Abulhasan_Banisadr" title="Abulhasan Banisadr – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%A5_%E0%B8%AE%E0%B8%B2%E0%B8%8B%E0%B8%B1%E0%B8%99_%E0%B8%9A%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%8B%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B9%8C" title="อะบุล ฮาซัน บานีซาดร์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ebu%27l-Hasan_Beni_Sadr" title="Ebu'l-Hasan Beni Sadr – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%B1%D0%BE%D0%BB%D1%8C%D1%85%D0%B0%D1%81%D0%B0%D0%BD_%D0%91%D0%B0%D0%BD%D1%96%D1%81%D0%B0%D0%B4%D1%80" title="Абольхасан Банісадр – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Abolhassan_Banisadr" title="Abolhassan Banisadr – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B8%83-%E5%93%88%E6%A1%91%C2%B7%E5%B7%B4%E5%B0%BC%E8%90%A8%E5%BE%B7%E5%B0%94" title="阿布-哈桑·巴尼萨德尔 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q273866#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 April 2017, at 08:06.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Abolhassan_Banisadr&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.604","walltime":"0.935","ppvisitednodes":{"value":12320,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":119005,"limit":2097152},"templateargumentsize":{"value":10108,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  804.965      1 -total"," 35.70%  287.400      1 Template:Infobox_president"," 35.50%  285.798     11 Template:Infobox"," 15.30%  123.177     17 Template:Infobox_officeholder/office"," 15.09%  121.436      1 Template:Reflist"," 13.30%  107.032      2 Template:BLP_sources"," 10.67%   85.919      2 Template:Ambox","  7.32%   58.896      7 Template:Cite_web","  6.49%   52.248      1 Template:Use_dmy_dates","  5.83%   46.896      1 Template:Portal"]},"scribunto":{"limitreport-timeusage":{"value":"0.224","limit":"10.000"},"limitreport-memusage":{"value":6456254,"limit":52428800}},"cachereport":{"origin":"mw2237","timestamp":"20170423112031","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1101,"wgHostname":"mw2237"});});</script>
+	</body>
+</html>

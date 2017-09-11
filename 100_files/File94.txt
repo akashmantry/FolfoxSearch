@@ -1,0 +1,1207 @@
+https://en.wikipedia.org/wiki/Automotive_industry_in_Germany
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Automotive industry in Germany - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Automotive_industry_in_Germany","wgTitle":"Automotive industry in Germany","wgCurRevisionId":775840612,"wgRevisionId":775840612,"wgArticleId":23576290,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from September 2016","Interlanguage link template link number","Automotive industry by country","Industry in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Automotive_industry_in_Germany","wgRelevantArticleId":23576290,"wgRequestId":"WPd4UQrAEEoAAECrVbAAAABD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3788541","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/41/Bundesarchiv_B_145_Bild-F038788-0020%2C_Wolfsburg%2C_VW_Autowerk%2C_K%C3%A4fer.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Automotive_industry_in_Germany"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Automotive_industry_in_Germany&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Automotive_industry_in_Germany&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Automotive_industry_in_Germany"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Automotive_industry_in_Germany rootpage-Automotive_industry_in_Germany skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Automotive industry in Germany</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F038788-0020,_Wolfsburg,_VW_Autowerk,_K%C3%A4fer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv_B_145_Bild-F038788-0020%2C_Wolfsburg%2C_VW_Autowerk%2C_K%C3%A4fer.jpg/220px-Bundesarchiv_B_145_Bild-F038788-0020%2C_Wolfsburg%2C_VW_Autowerk%2C_K%C3%A4fer.jpg" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv_B_145_Bild-F038788-0020%2C_Wolfsburg%2C_VW_Autowerk%2C_K%C3%A4fer.jpg/330px-Bundesarchiv_B_145_Bild-F038788-0020%2C_Wolfsburg%2C_VW_Autowerk%2C_K%C3%A4fer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv_B_145_Bild-F038788-0020%2C_Wolfsburg%2C_VW_Autowerk%2C_K%C3%A4fer.jpg/440px-Bundesarchiv_B_145_Bild-F038788-0020%2C_Wolfsburg%2C_VW_Autowerk%2C_K%C3%A4fer.jpg 2x" data-file-width="800" data-file-height="528" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F038788-0020,_Wolfsburg,_VW_Autowerk,_K%C3%A4fer.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Volkswagen" title="Volkswagen">Volkswagen</a> <a href="/wiki/Assembly_line" title="Assembly line">assembly line</a> as of 1973</div>
+</div>
+</div>
+<p>The <b>automotive industry in Germany</b> is one of the largest employers in the country, with a labour force of over 747,000 (2009) working in the <a href="/wiki/Automotive_industry" title="Automotive industry">industry</a>.</p>
+<p>Being home to the <a href="/wiki/History_of_the_automobile#19th_century" title="History of the automobile">modern car</a>, the German automobile industry is regarded as the most competitive and innovative in the world,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and has the third highest automobile production in the world,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and fourth highest <a href="/wiki/List_of_countries_by_motor_vehicle_production" title="List of countries by motor vehicle production">total motor vehicle production</a>. With an annual output close to six million and a 35.6% share of the <a href="/wiki/European_Union" title="European Union">European Union</a> (2008),</p>
+<p>Germany is the absolute leader of auto production in <a href="/wiki/Europe" title="Europe">Europe</a> since the 1960s.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2016)">citation needed</span></a></i>]</sup></p>
+<p>German-designed cars won in the <a href="/wiki/European_Car_of_the_Year" title="European Car of the Year">European Car of the Year</a>, the <a href="/wiki/International_Car_of_the_Year" title="International Car of the Year">International Car of the Year</a>, the <a href="/wiki/World_Car_of_the_Year" title="World Car of the Year">World Car of the Year</a> annual awards the most times among all countries. The <a href="/wiki/Volkswagen_Beetle" title="Volkswagen Beetle">Volkswagen Beetle</a> and <a href="/wiki/Porsche_911" title="Porsche 911">Porsche 911</a> took 4th and 5th places in the <a href="/wiki/Car_of_the_Century" title="Car of the Century">Car of the Century</a> award.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Present_day"><span class="tocnumber">2</span> <span class="toctext">Present day</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Manufacturers"><span class="tocnumber">3</span> <span class="toctext">Manufacturers</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automotive_industry_in_Germany&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Benz_Patent_Motorwagen_1886_(Replica).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Benz_Patent_Motorwagen_1886_%28Replica%29.jpg/150px-Benz_Patent_Motorwagen_1886_%28Replica%29.jpg" width="150" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Benz_Patent_Motorwagen_1886_%28Replica%29.jpg/225px-Benz_Patent_Motorwagen_1886_%28Replica%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Benz_Patent_Motorwagen_1886_%28Replica%29.jpg/300px-Benz_Patent_Motorwagen_1886_%28Replica%29.jpg 2x" data-file-width="1164" data-file-height="1141" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Benz_Patent_Motorwagen_1886_(Replica).jpg" class="internal" title="Enlarge"></a></div>
+Replica of the <a href="/wiki/Benz_Patent_Motorwagen" class="mw-redirect" title="Benz Patent Motorwagen">Benz Patent Motorwagen</a> built in 1885</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Opel-Olympia.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Opel-Olympia.jpg/150px-Opel-Olympia.jpg" width="150" height="113" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Opel-Olympia.jpg/225px-Opel-Olympia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Opel-Olympia.jpg/300px-Opel-Olympia.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Opel-Olympia.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Opel_Olympia" title="Opel Olympia">Opel Olympia</a> (1935–1937)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:1000000th_Beetle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/1000000th_Beetle.jpg/150px-1000000th_Beetle.jpg" width="150" height="105" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/1000000th_Beetle.jpg/225px-1000000th_Beetle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/1000000th_Beetle.jpg/300px-1000000th_Beetle.jpg 2x" data-file-width="2273" data-file-height="1593" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1000000th_Beetle.jpg" class="internal" title="Enlarge"></a></div>
+The jeweled one-millionth Type 1</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Trabant601deLuxe.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Trabant601deLuxe.jpg/150px-Trabant601deLuxe.jpg" width="150" height="100" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Trabant601deLuxe.jpg/225px-Trabant601deLuxe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Trabant601deLuxe.jpg/300px-Trabant601deLuxe.jpg 2x" data-file-width="1280" data-file-height="857" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Trabant601deLuxe.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Trabant" title="Trabant">Trabant</a> 601 De Luxe Limousine</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Audi_100_Coup%C3%A9_S_(C1)_%E2%80%93_Frontansicht,_27._April_2011,_Velbert.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Audi_100_Coup%C3%A9_S_%28C1%29_%E2%80%93_Frontansicht%2C_27._April_2011%2C_Velbert.jpg/150px-Audi_100_Coup%C3%A9_S_%28C1%29_%E2%80%93_Frontansicht%2C_27._April_2011%2C_Velbert.jpg" width="150" height="71" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Audi_100_Coup%C3%A9_S_%28C1%29_%E2%80%93_Frontansicht%2C_27._April_2011%2C_Velbert.jpg/225px-Audi_100_Coup%C3%A9_S_%28C1%29_%E2%80%93_Frontansicht%2C_27._April_2011%2C_Velbert.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Audi_100_Coup%C3%A9_S_%28C1%29_%E2%80%93_Frontansicht%2C_27._April_2011%2C_Velbert.jpg/300px-Audi_100_Coup%C3%A9_S_%28C1%29_%E2%80%93_Frontansicht%2C_27._April_2011%2C_Velbert.jpg 2x" data-file-width="2284" data-file-height="1086" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Audi_100_Coup%C3%A9_S_(C1)_%E2%80%93_Frontansicht,_27._April_2011,_Velbert.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Audi_100" title="Audi 100">Audi 100</a> Coupe S (C1)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Ford_Taunus_TC_2_door.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ford_Taunus_TC_2_door.jpg/150px-Ford_Taunus_TC_2_door.jpg" width="150" height="90" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ford_Taunus_TC_2_door.jpg/225px-Ford_Taunus_TC_2_door.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ford_Taunus_TC_2_door.jpg/300px-Ford_Taunus_TC_2_door.jpg 2x" data-file-width="2135" data-file-height="1281" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ford_Taunus_TC_2_door.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Ford_Taunus" title="Ford Taunus">Ford Taunus</a> TC3 (1979–1982 )</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:VW_Golf_1.6_TDI_BlueMotion_Technology_Comfortline_(VII)_%E2%80%93_Frontansicht,_31._Dezember_2012,_D%C3%BCsseldorf.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/VW_Golf_1.6_TDI_BlueMotion_Technology_Comfortline_%28VII%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg/150px-VW_Golf_1.6_TDI_BlueMotion_Technology_Comfortline_%28VII%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg" width="150" height="76" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/VW_Golf_1.6_TDI_BlueMotion_Technology_Comfortline_%28VII%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg/225px-VW_Golf_1.6_TDI_BlueMotion_Technology_Comfortline_%28VII%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/VW_Golf_1.6_TDI_BlueMotion_Technology_Comfortline_%28VII%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg/300px-VW_Golf_1.6_TDI_BlueMotion_Technology_Comfortline_%28VII%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg 2x" data-file-width="3446" data-file-height="1739" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:VW_Golf_1.6_TDI_BlueMotion_Technology_Comfortline_(VII)_%E2%80%93_Frontansicht,_31._Dezember_2012,_D%C3%BCsseldorf.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Volkswagen_Golf" title="Volkswagen Golf">Volkswagen Golf</a> manufactured in <a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a> and <a href="/wiki/Zwickau" title="Zwickau">Zwickau</a></div>
+</div>
+</div>
+<p>Germany is considered to be the birthplace of the automobile, as motor-car pioneers <a href="/wiki/Karl_Benz" title="Karl Benz">Karl Benz</a> and <a href="/wiki/Nikolaus_Otto" title="Nikolaus Otto">Nikolaus Otto</a> independently developed four-stroke <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engines</a> in the late 1870s, with Benz fitting his design to a coach in 1887, which led to the modern day motor car. By 1901, Germany was producing about 900 cars a year.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> In 1926, <a href="/wiki/Daimler-Benz" title="Daimler-Benz">Daimler-Benz</a> was formed from the predecessor companies of <a href="/wiki/Karl_Benz" title="Karl Benz">Karl Benz</a> and <a href="/wiki/Gottlieb_Daimler" title="Gottlieb Daimler">Gottlieb Daimler</a> and produced cars under the marque of <a href="/wiki/Mercedes-Benz" title="Mercedes-Benz">Mercedes-Benz</a>. In 1916 <a href="/wiki/BMW" title="BMW">BMW</a> was founded, but didn't start auto production until 1928.</p>
+<p><a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Economics" title="Economics">economist</a> <a href="/wiki/Robert_A._Brady_(economist)" title="Robert A. Brady (economist)">Robert A. Brady</a> extensively documented the <a href="/wiki/Rationalization_(economics)" title="Rationalization (economics)">rationalization</a> movement that shaped German industry in the 1920s, and although his general model of the movement applied to the automotive industry, the sector was in poor health in the later years of the <a href="/wiki/Weimar_Republic" title="Weimar Republic">Weimar Republic</a>. Germany's slow development of the industry left the market open for major American auto manufacturers such as <a href="/wiki/General_Motors" title="General Motors">General Motors</a> who took over German company <a href="/wiki/Opel" title="Opel">Opel</a> in 1929, and the <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford Motor Company</a> which maintained the successful German subsidiary <a href="/wiki/Ford_Germany" title="Ford Germany">Ford-Werke</a>, beginning in 1925.<sup id="cite_ref-reich_4-0" class="reference"><a href="#cite_note-reich-4">[4]</a></sup></p>
+<p>The collapse of the global economy during the <a href="/wiki/Great_Depression" title="Great Depression">Great Depression</a> in the early 1930s plunged Germany's auto industry into a severe crisis. While eighty-six auto companies had existed in Germany during the 1920s, barely twelve survived the depression, including <a href="/wiki/Daimler-Benz" title="Daimler-Benz">Daimler-Benz</a>, <a href="/wiki/Opel" title="Opel">Opel</a> and <a href="/wiki/Ford_Germany" title="Ford Germany">Ford</a>'s factory in <a href="/wiki/Cologne" title="Cologne">Cologne</a>. In addition, four of the country's major car manufacturers — <a href="/wiki/Horch" title="Horch">Horch</a>, <a href="/wiki/DKW" title="DKW">Dampf Kraft Wagen</a> (DKW), <a href="/wiki/Wanderer_(car)" class="mw-redirect" title="Wanderer (car)">Wanderer</a> and <a href="/wiki/Audi" title="Audi">Audi</a> — formed a joint venture known as the <a href="/wiki/Auto_Union" title="Auto Union">Auto Union</a> in 1932, which was to play a leading role in Germany's comeback from the depression.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The turnabout for the German motor industry came about in the mid 1930s following the election of the <a href="/wiki/Nazi_Party" title="Nazi Party">Nazi Party</a> to power. The Nazis instituted a policy known as <i><a href="/w/index.php?title=Motorisierung&amp;action=edit&amp;redlink=1" class="new" title="Motorisierung (page does not exist)">Motorisierung</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/Motorisierung" class="extiw" title="de:Motorisierung">de</a>)</span></i> ("motorization"), a transport policy which <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a> himself considered a key element of attempts to legitimise the Nazi government by raising the people's <a href="/wiki/Standard_of_living" title="Standard of living">standard of living</a>. In addition to development and extensions of major <a href="/wiki/Highway" title="Highway">highway</a> schemes (which saw the completion of the first <a href="/wiki/Autobahn" title="Autobahn">Autobahn</a> in 1935), the <a href="/wiki/Volkswagen" title="Volkswagen">Volkswagen</a> project was also conceived to design and construct a robust but inexpensive "people's car", the product of which was the <a href="/wiki/Volkswagen_Beetle" title="Volkswagen Beetle">Volkswagen Beetle</a>, launched in 1937. A new city (known as <a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a> from 1945) was developed around the factory to house its huge workforce.<sup id="cite_ref-reich_4-1" class="reference"><a href="#cite_note-reich-4">[4]</a></sup></p>
+<p>By the end of <a href="/wiki/World_War_II" title="World War II">World War II</a>, most of the auto factories had been destroyed or badly damaged. Germany needed debt relief. The <a href="/wiki/London_Agreement_on_German_External_Debts" title="London Agreement on German External Debts">London Agreement on German External Debts</a> of 1953 provided that repayments were only due while West Germany ran a trade surplus, and that repayments were limited to 3% of export earnings. This gave Germany’s creditors a powerful incentive to import German goods, assisting reconstruction of the Car Industry.<sup id="cite_ref-observer-20150118_6-0" class="reference"><a href="#cite_note-observer-20150118-6">[6]</a></sup> In addition, the eastern part of Germany was under control of the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>, which dismantled much of the machinery that was left and sent it back to the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> as war reparations. Some manufacturers, such as <a href="/wiki/Maybach" title="Maybach">Maybach</a> and <a href="/wiki/Adler_(automobile)" title="Adler (automobile)">Adler (automobile)</a>, started up again, but did not continue making passenger cars. The <a href="/wiki/Volkswagen" title="Volkswagen">Volkswagen</a> production facility in <a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a> continued making the <a href="/wiki/Volkswagen_Beetle" title="Volkswagen Beetle">Volkswagen Beetle</a> (Type 1) in 1945, a car which it had intended to make prior to the war (under the name of KdF-Wagen), except that the factory was converted to military truck production during the war. By 1955 VW had made one million <a href="/wiki/Volkswagen_Beetle" title="Volkswagen Beetle">Volkswagen Beetles</a>, and by 1965 had built 10 million, as it gained popularity on export markets as well as on the home market. Other auto manufacturers rebuilt their plants and slowly resumed production, with initial models mostly based on pre-war designs. <a href="/wiki/Mercedes-Benz" title="Mercedes-Benz">Mercedes-Benz</a> resumed production in 1946 with the pre-war–designed <a href="/wiki/Mercedes-Benz_W136" title="Mercedes-Benz W136">170 series</a>. In 1951 they introduced the <a href="/wiki/Mercedes-Benz_W187" title="Mercedes-Benz W187">220</a> <a href="/wiki/Mercedes-Benz_Ponton" title="Mercedes-Benz Ponton">series</a>, which came with a more modern engine, and the <a href="/wiki/Mercedes-Benz_300" title="Mercedes-Benz 300">300 series</a>. <a href="/wiki/Opel" title="Opel">Opel</a> revived the pre-war cars <a href="/wiki/Opel_Olympia" title="Opel Olympia">Opel Olympia</a> in 1947 and the <a href="/wiki/Opel_Kapit%C3%A4n" title="Opel Kapitän">Opel Kapitän</a> in 1948. (Toolings for the <a href="/wiki/Opel_Kadett" title="Opel Kadett">Opel Kadett</a> were taken by the Soviets and used to make the <a href="/wiki/Moskvitch_400-420" title="Moskvitch 400-420">Moskvitch 400-420</a>., which had resumed production of trucks in 1945, began building the pre-war <a href="/wiki/Ford_Taunus" title="Ford Taunus">Ford Taunus</a> in 1948. <a href="/wiki/Porsche" title="Porsche">Porsche</a> began production of their <a href="/wiki/Porsche_356" title="Porsche 356">Porsche 356</a> sports car in 1948, and replaced it with their long-lived <a href="/wiki/Porsche_911" title="Porsche 911">Porsche 911</a> in 1964 (which remains in production more than 50 years and several incarnations later).</p>
+<p><a href="/wiki/Borgward" title="Borgward">Borgward</a> began production in 1949, and <a href="/wiki/Goliath_(car)" class="mw-redirect" title="Goliath (car)">Goliath</a>, <a href="/wiki/Lloyd_(car)" class="mw-redirect" title="Lloyd (car)">Lloyd</a>, <a href="/wiki/Gutbrod" title="Gutbrod">Gutbrod</a>, and <a href="/wiki/Auto_Union" title="Auto Union">Auto Union</a> (<a href="/wiki/DKW" title="DKW">DKW</a>) began in 1950. <a href="/wiki/BMW" title="BMW">BMW</a>'s first cars after the war were the luxurious <a href="/wiki/BMW_501" title="BMW 501">BMW 501</a> and <a href="/wiki/BMW_502" class="mw-redirect" title="BMW 502">BMW 502</a> in 1952. In 1957 <a href="/wiki/NSU_Motorenwerke" title="NSU Motorenwerke">NSU Motorenwerke</a> re-entered the car market.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Automobile manufacturers in <a href="/wiki/East_Germany" title="East Germany">East Germany</a> after the war included <a href="/wiki/Eisenacher_Motorenwerk" title="Eisenacher Motorenwerk">Eisenacher Motorenwerk</a> (EMW), which also made the <a href="/wiki/Wartburg_(car)" class="mw-redirect" title="Wartburg (car)">Wartburg (car)</a>, and <a href="/wiki/VEB_Sachsenring_Automobilwerke_Zwickau" class="mw-redirect" title="VEB Sachsenring Automobilwerke Zwickau">VEB Sachsenring Automobilwerke Zwickau</a>, which made the <a href="/wiki/IFA_F8" class="mw-redirect" title="IFA F8">IFA F8</a> (derived from the <a href="/wiki/DKW_F8" title="DKW F8">DKW F8</a>) and the <a href="/wiki/Trabant" title="Trabant">Trabant</a>. East Germany's status as a communist country was reflecting in the relatively primitive design and refinement of these cars, although they both continued in production until the early 1990s, shortly after the <a href="/wiki/Revolutions_of_1989" title="Revolutions of 1989">fall of the communist rule</a> and the <a href="/wiki/German_reunification" title="German reunification">German reunification</a>.</p>
+<p>Initial production by EMW after the war were models that were essentially pre-war <a href="/wiki/BMW_326" title="BMW 326">BMW 326</a> and <a href="/wiki/BMW_327" title="BMW 327">BMW 327</a> models, as the plant in <a href="/wiki/Eisenach" title="Eisenach">Eisenach</a> was formerly owned by BMW.</p>
+<p>During the mid-to-late 1950s the <a href="/wiki/Bubble_car" title="Bubble car">Bubble car</a> became popular. BMW was the largest maker, with the <a href="/wiki/BMW_Isetta" class="mw-redirect" title="BMW Isetta">BMW Isetta</a> and <a href="/wiki/BMW_600" title="BMW 600">BMW 600</a>. Other makes included the <a href="/wiki/Messerschmitt_KR175" title="Messerschmitt KR175">Messerschmitt KR175</a> and <a href="/wiki/Messerschmitt_KR200" title="Messerschmitt KR200">KR200</a>, the <a href="/wiki/Heinkel_Kabine" title="Heinkel Kabine">Heinkel Kabine</a>, and the <a href="/wiki/Z%C3%BCndapp_Janus" title="Zündapp Janus">Zündapp Janus</a>. <a href="/wiki/Microcars" class="mw-redirect" title="Microcars">Microcars</a> such as the <a href="/wiki/Glas" title="Glas">Glas</a> <a href="/wiki/Goggomobile" class="mw-redirect" title="Goggomobile">Goggomobile</a>, <a href="/wiki/BMW_700" title="BMW 700">BMW 700</a>, and <a href="/wiki/Lloyd_600" title="Lloyd 600">Lloyd 600</a> also were popular. However, the "Bubble car" concept had been abandoned by 1970.</p>
+<p>In the late-1950s, BMW developed financial difficulties and control of the company was acquired by the <a href="/wiki/Quandt_family" class="mw-redirect" title="Quandt family">Quandt family</a>. BMW acquired <a href="/wiki/Glas" title="Glas">Glas</a> in 1966. In 1961, the <a href="/wiki/Borgward" title="Borgward">Borgward</a> auto group, including Goliath and Lloyd went out of business. In 1958 Auto Union was acquired by <a href="/wiki/Daimler_AG" title="Daimler AG">Daimler AG</a>, but then in turn it was sold in stages from 1964 to 1966 to <a href="/wiki/Volkswagen_AG" class="mw-redirect" title="Volkswagen AG">Volkswagen AG</a> (at which time the DKW marque was ended and the <a href="/wiki/Audi" title="Audi">Audi</a> name was resurrected). In 1969, <a href="/wiki/Volkswagen_AG" class="mw-redirect" title="Volkswagen AG">Volkswagen AG</a> acquired <a href="/wiki/NSU_Motorenwerke" title="NSU Motorenwerke">NSU Motorenwerke</a> (developer of the <a href="/wiki/Wankel_engine" title="Wankel engine">Wankel engine</a>) and merged it with Auto Union, but the NSU nameplate disappeared by 1977 when production of the <a href="/wiki/Ro80" class="mw-redirect" title="Ro80">Ro80</a> rotary-engine saloon (<a href="/wiki/European_Car_of_the_Year" title="European Car of the Year">European Car of the Year</a> on its launch 10 years earlier) was stopped largely due to disappointing sales and a poor reputation for reliability.</p>
+<p>Ford merged its <a href="/wiki/Ford_Germany" title="Ford Germany">German</a> and <a href="/w/index.php?title=Ford_Great_Britain&amp;action=edit&amp;redlink=1" class="new" title="Ford Great Britain (page does not exist)">British</a> operations in 1967, with the intention of producing identical cars at its German and British factories. Ford had also opened a factory at <a href="/wiki/Genk" title="Genk">Genk</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a>, in 1963. In 1976, it also opened a factory in <a href="/wiki/Valencia" title="Valencia">Valencia</a>, <a href="/wiki/Spain" title="Spain">Spain</a>, where production of the new <a href="/wiki/Ford_Fiesta" title="Ford Fiesta">Fiesta</a> supermini (the first Ford of this size to be built in any country) was concentrated. The <a href="/wiki/Ford_Escort" class="mw-disambig" title="Ford Escort">Escort</a>, launched in 1967, was the first new Ford to be produced at both the German and British factories. At the beginning of 1969, Ford launched a new sporting coupe, the <a href="/wiki/Ford_Capri" title="Ford Capri">Capri</a>, which like the Escort was produced throughout Europe. The <a href="/wiki/Ford_Taunus" title="Ford Taunus">Taunus</a> of 1970 made use of the same basic design as the British <a href="/wiki/Ford_Cortina" title="Ford Cortina">Cortina MK3</a>, but had slightly different exterior styling, although those styling differences were ironed out with the launch of the 1976 Taunus. Ford's new flagship model, the <a href="/wiki/Ford_Granada" class="mw-disambig" title="Ford Granada">Granada</a>, was built in Britain, Germany and Spain from the beginning of 1972, although British production was withdrawn after a few years.</p>
+<p>Volkswagen was faced by major financial difficulties in the early 1970s; with its ageing Beetle still selling strongly all over the world but its newer models had been less successful. However, the company then enjoyed a revival with the arrival of the popular <a href="/wiki/Volkswagen_Passat" title="Volkswagen Passat">Passat</a> in 1973, <a href="/wiki/Volkswagen_Golf" title="Volkswagen Golf">Golf</a> in 1974 and <a href="/wiki/Volkswagen_Polo" title="Volkswagen Polo">Polo</a> in 1975 - all of these cars featured the new front-wheel drive hatchback layout which was enjoying a rise in popularity across <a href="/wiki/Europe" title="Europe">Europe</a> after first being patented by <a href="/wiki/Renault" title="Renault">Renault</a> of <a href="/wiki/France" title="France">France</a> with the <a href="/wiki/Renault_16" title="Renault 16">R16</a> in 1965. The Polo was Volkswagen's new entry-level model, and was aimed directly at modern small hatchbacks like the <a href="/wiki/Fiat_127" title="Fiat 127">Fiat 127</a> and <a href="/wiki/Renault_5" title="Renault 5">Renault 5</a>. The mid-range Golf was seen as the car to eventually replace the Beetle, and was easily the first popular hatchback of this size in Europe, leading to most leading carmakers having a similar-sized hatchback by the early 1980s. Production of the Beetle finished in Germany in 1978, although it continued to be produced in <a href="/wiki/Mexico" title="Mexico">Mexico</a> and <a href="/wiki/Brazil" title="Brazil">Brazil</a> until 2003, with a small number of models being imported to Germany and the rest of <a href="/wiki/Europe" title="Europe">Europe</a> during its final 25 years. The Passat was marketed as a more advanced alternative to traditional larger saloon cars like the <a href="/wiki/Ford_Taunus" title="Ford Taunus">Ford Taunus</a>/<a href="/wiki/Ford_Cortina" title="Ford Cortina">Cortina</a>, <a href="/wiki/Opel_Ascona" title="Opel Ascona">Opel Ascona</a> (sold in Britain from 1975 as the <a href="/wiki/Vauxhall_Cavalier" title="Vauxhall Cavalier">Vauxhall Cavalier</a>) and the <a href="/wiki/Renault_12" title="Renault 12">Renault 12</a>.</p>
+<p>The Scirocco coupe of 1974 was also a success in the smaller sports car market, competing against the likes of the <a href="/wiki/Ford_Capri" title="Ford Capri">Ford Capri</a> and <a href="/wiki/Opel_Manta" title="Opel Manta">Opel Manta</a>. Its partner company Audi also enjoyed an upturn thanks to the success of its 100 range (launched in 1968) and the smaller 80 (launched in 1972 and voted European Car of the Year). Both of the new Audi models featured front-wheel drive. The Volkswagen Polo was in fact a rebadged version of the <a href="/wiki/Audi_50" title="Audi 50">Audi 50</a>, but the Audi original was a slower seller than the Volkswagen that it spawned and was only available in certain markets.</p>
+<p>Volkswagen and Audi both enjoyed a growing rise in popularity in overseas markets during the 1970s and this continued throughout the 1980s. Audi launched a well-received large saloon model, the <a href="/wiki/Audi_100" title="Audi 100">Audi 100</a>, in 1968, and followed this four years later with the smaller <a href="/wiki/Audi_80" title="Audi 80">Audi 80</a>, winner of the <a href="/wiki/European_Car_of_the_Year" title="European Car of the Year">European Car of the Year</a> award for 1973. In 1980, Audi moved into the sports car market with its front-wheel drive <a href="/wiki/Audi_Coupe" class="mw-redirect" title="Audi Coupe">Coupe</a> and the four-wheel drive, high-performance version, the <a href="/wiki/Audi_Quattro" title="Audi Quattro">Quattro</a>. The Quattro four-wheel drive system was later adopted on Audi's saloon models.</p>
+<p>During the 1970s and early 1980s, <a href="/wiki/General_Motors" title="General Motors">General Motors</a> integrated Opel with the British <a href="/wiki/Vauxhall" title="Vauxhall">Vauxhall</a> brand so that designs were shared with the only difference being the names. Faced with fierce competition from up-to-date designs from Volkswagen, General Motors moved to a front-wheel drive hatchback in 1979 with the latest version of the Opel Kadett, followed in 1981 by new Ascona (which retained the Vauxhall Cavalier name for the British market). In 1982 it opened a new plant <a href="/wiki/Zaragoza" title="Zaragoza">Zaragoza</a>, <a href="/wiki/Spain" title="Spain">Spain</a>, to produce the new <a href="/wiki/Opel_Corsa" title="Opel Corsa">Opel Corsa</a> supermini; this car was later imported to Britain as the <a href="/wiki/Vauxhall_Nova" class="mw-redirect" title="Vauxhall Nova">Vauxhall Nova</a>. Production of the Kadett/Astra and Ascona/Cavalier models was divided between factories in Germany, Belgium, Spain and Britain. The <a href="/wiki/Vauxhall_Carlton" title="Vauxhall Carlton">Vauxhall Carlton</a> was briefly built in Britain from its 1978 launch, but within a few years production was fully concentrated in Germany, where it was built alongside the identical <a href="/wiki/Opel_Rekord" title="Opel Rekord">Opel Rekord</a>.</p>
+<p>The final version of the Opel Kadett was voted <a href="/wiki/European_Car_of_the_Year" title="European Car of the Year">European Car of the Year</a> on its launch in 1984, as was the Opel Rekord's successor - the <a href="/wiki/Opel_Omega" title="Opel Omega">Omega</a> - two years afterwards. The Ascona's successor, the <a href="/wiki/Opel_Vectra" title="Opel Vectra">Vectra</a> (still the Vauxhall Cavalier in Britain]], was launched in 1988, but missed out of the European Car of the Year accolade to the <a href="/wiki/Fiat_Tipo" title="Fiat Tipo">Fiat Tipo</a>.</p>
+<p>BMW and Mercedes-Benz remained committed to rear-wheel drive on its saloons and booted coupes during these years. BMW, however, developed its model ranges more comprehensively in the 1980s and early 1990s. The original <a href="/wiki/BMW_3_Series" title="BMW 3 Series">BMW 3 Series</a>, launched in 1975, was sold as a two-door saloon or cabriolet. The second generation model launched in 1982, however, was eventually available also as a four-door saloon and five-door estate, and during the 1990s the third generation model range eventually included a three-door hatchback as well. The <a href="/wiki/BMW_5_Series" title="BMW 5 Series">BMW 5 Series</a>, the mid-range model launched in 1972, was only sold as a four-door saloon for its first two generations, but a third generation model was available as an estate from 1991.</p>
+<p>With the radical changes in car design that took place throughout the 1970s and into the 1980s, Ford responded by substantially altering its model line-up. After launching the Fiesta supermini in 1976, it switched to front-wheel drive and a hatchback on the MK3 <a href="/wiki/Ford_Escort" class="mw-disambig" title="Ford Escort">Escort</a> on its launch in 1980, and opted to replace the Taunus/Cortina with the <a href="/wiki/Ford_Sierra" title="Ford Sierra">Sierra</a> in 1982 - abandoning the hugely popular saloon format for an aerodynamic hatchback, although a saloon version was added in 1987. In 1983, Ford had also responded to the continuing demand for family saloons by launching the <a href="/wiki/Ford_Orion" title="Ford Orion">Orion</a>, the saloon version of the Escort. The <a href="/wiki/Ford_Scorpio" title="Ford Scorpio">Scorpio</a> replaced the <a href="/wiki/Ford_Granada" class="mw-disambig" title="Ford Granada">Granada</a> as Ford's European flagship in 1985, and was solely produced at the <a href="/wiki/Cologne" title="Cologne">Cologne</a> plant in Germany. The Scorpio was originally available only as a hatchback, and despite its popularity, Ford eventually expanded the Scorpio range by launching a saloon model in 1990 and an estate model in 1992. The declining demand for sporting coupes led to Ford's decision not to directly replace the Capri, which was discontinued after 1986.</p>
+<p>After its rejuvenation during the 1970s, VW modernised its model ranges during the first half of the 1980s and continued to enjoy strong sales in Germany and most other European markets. The Polo, Passat and Scirocco all entered their second generation during 1981, and the MK2 Golf was launched in 1983. A saloon version of the MK1 Golf, the <a href="/wiki/Volkswagen_Jetta" title="Volkswagen Jetta">Jetta</a>, had been available since 1979, and the MK2 Jetta was launched in 1984. 1988 saw the launch of the MK3 Passat and a new coupe, the <a href="/wiki/Volkswagen_Corrado" title="Volkswagen Corrado">Corrado</a>, which was produced alongside the Scirocco until the older car's demise in 1992.</p>
+<p>The VW Polo was updated in 1990, an all-new model finally arriving in 1994, and the MK3 Golf was voted <a href="/wiki/European_Car_of_the_Year" title="European Car of the Year">European Car of the Year</a> shortly after its launch in 1991. The saloon version of the MK3 Golf, the <a href="/wiki/Volkswagen_Vento" title="Volkswagen Vento">Vento</a>, was launched in 1992. The Passat was updated in 1993 before an all-new model was launched in 1996. The Corrado was discontinued in 1996 without an immediate replacement. VW moved into the MPV market with the Sharan in 1995, built in <a href="/wiki/Portugal" title="Portugal">Portugal</a> as part of a venture with Ford, which produced the identical Galaxy. A new Beetle, with front-wheel drive and a front-mounted engine, was launched in 1998, but like the later versions of the original model it was produced in <a href="/wiki/Mexico" title="Mexico">Mexico</a> rather than Germany. The MK4 Golf was launched in late 1997, and joined a year later by a saloon version, the <a href="/wiki/Volkswagen_Bora" class="mw-redirect" title="Volkswagen Bora">Bora</a>.</p>
+<p>The West of Germany was far more technically advanced in comparison with the East (more than 4.5 millions against 200 thousands annual production of auto vehicles in the 1980s), with the divide ending with <a href="/wiki/German_reunification" title="German reunification">German reunification</a> in 1990.</p>
+<p>During the 1980s and 1990s, the German auto industry engaged in major acquisitions and international expansion all over the World. Besides of direct export, German manufacturers found or bought plants in European, Asian, Latin American countries and in the <a href="/wiki/United_States" title="United States">United States</a> even. Auto industry of <a href="/wiki/Mexico" title="Mexico">Mexico</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a>, <a href="/wiki/China" title="China">China</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a>, some post-socialist East European countries gained by German investments in a significant share.</p>
+<p><a href="/wiki/Volkswagen" title="Volkswagen">Volkswagen</a> set up a joint venture with <a href="/wiki/Shanghai_Automotive_Industry_Corporation" class="mw-redirect" title="Shanghai Automotive Industry Corporation">Shanghai Automotive Industry Corporation</a> in 1984 (named <a href="/wiki/Shanghai_Volkswagen_Automotive" class="mw-redirect" title="Shanghai Volkswagen Automotive">Shanghai Volkswagen Automotive</a>), and in 1990 established <a href="/wiki/FAW-Volkswagen" title="FAW-Volkswagen">FAW-Volkswagen</a> to produce VWs and Audis in China. VW also acquired <a href="/wiki/SEAT" title="SEAT">SEAT</a> of <a href="/wiki/Spain" title="Spain">Spain</a> in 1986 and <a href="/wiki/%C5%A0koda_Auto" title="Škoda Auto">Škoda</a> of <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a> in 1991, improving the model ranges of these manufacturers and helping increase their market share significantly across Europe. Volkswagen had even shifted Polo production to a SEAT factory in Spain after its acquisition of SEAT, and the 1993 <a href="/wiki/SEAT_Ibiza" title="SEAT Ibiza">SEAT Ibiza</a> formed the basis for the following year's new Polo.</p>
+<p>VW also made use of its components across the different marques; for instance, by the year 2000, the floorpan of the Volkswagen Golf for instance had spawned the <a href="/wiki/Audi_A3" title="Audi A3">Audi A3</a>, <a href="/wiki/Audi_TT" title="Audi TT">Audi TT</a>, <a href="/wiki/SEAT_Toledo" title="SEAT Toledo">SEAT Toledo</a>, <a href="/wiki/Seat_Leon" class="mw-redirect" title="Seat Leon">Seat Leon</a>, <a href="/wiki/Skoda_Octavia" class="mw-redirect" title="Skoda Octavia">Skoda Octavia</a> and <a href="/wiki/Volkswagen_Bora" class="mw-redirect" title="Volkswagen Bora">Volkswagen Bora</a>.</p>
+<p>By the end of the 1990s, VW moved into the luxury and supercar end of the market and acquired <a href="/wiki/Bentley" title="Bentley">Bentley</a> of Britain and the <a href="/wiki/Bugatti" title="Bugatti">Bugatti</a> and <a href="/wiki/Lamborghini" title="Lamborghini">Lamborghini</a> marques from <a href="/wiki/Italy" title="Italy">Italy</a>.</p>
+<p>Ford had concentrated <a href="/wiki/Ford_Sierra" title="Ford Sierra">Sierra</a> production in Belgium rather than Germany and Britain from the end of the 1980s, and its successor - the <a href="/wiki/Ford_Mondeo" title="Ford Mondeo">Mondeo</a> - was solely produced in Belgium when it went into production around the end of 1992. The Escort remained in production throughout Europe until 2000, although its successor, the <a href="/wiki/Ford_Focus" title="Ford Focus">Focus</a>, launched in 1998, was only produced in Germany for European buyers. The <a href="/wiki/Ford_Scorpio" title="Ford Scorpio">Scorpio</a> was discontinued in 1998 and not directly replaced, with Ford instead directing potential Scorpio buyers to high-specification versions of the smaller Mondeo. The Scorpio's demise occurred around the same time that Ford took over <a href="/wiki/Volvo" title="Volvo">Volvo</a>, which already had a strong presence in the executive car market, while Ford had taken over British luxury carmaker <a href="/wiki/Jaguar" title="Jaguar">Jaguar</a> in 1989 and was about to launch the <a href="/wiki/Jaguar_S-Type" title="Jaguar S-Type">Jaguar S-Type</a>.</p>
+<p>At the beginning of 1990s, Ford and Volkswagen agreed a venture to produce an MPV together at the same factory with the same basic design. The result of this venture was the <a href="/wiki/Ford_Galaxy" title="Ford Galaxy">Ford Galaxy</a> and <a href="/wiki/Volkswagen_Sharan" title="Volkswagen Sharan">Volkswagen Sharan</a>, but these vehicles were produced in <a href="/wiki/Portugal" title="Portugal">Portugal</a> rather than Germany from their launch in 1995. They were joined a year later by the <a href="/wiki/SEAT_Alhambra" title="SEAT Alhambra">SEAT Alhambra</a>.</p>
+<p><a href="/wiki/BMW" title="BMW">BMW</a> acquired the British <a href="/wiki/Rover_Group" title="Rover Group">Rover Group</a> in 1994, but large losses led to its sale in 2000. However, BMW retained the <a href="/wiki/Mini_(marque)" title="Mini (marque)">Mini (marque)</a> name for a line of new cars, all built in Britain from 2001. During the 1990s, BMW opened a production facility for <a href="/wiki/SUV" class="mw-redirect" title="SUV">SUVs</a> in <a href="/wiki/Spartanburg_County,_South_Carolina" title="Spartanburg County, South Carolina">Spartanburg County, South Carolina</a>. BMW also acquired the <a href="/wiki/Rolls-Royce_Motor_Cars" title="Rolls-Royce Motor Cars">Rolls-Royce Motor Cars</a> name, effective as of 2003, and in the same year established a joint venture in China named <a href="/wiki/BMW_Brilliance" title="BMW Brilliance">BMW Brilliance</a>. Daimler-Benz entered into what was initially called a "merger of equals" with <a href="/wiki/Chrysler_Corporation" class="mw-redirect" title="Chrysler Corporation">Chrysler Corporation</a> in 1998. However, cultural differences and operating losses led to its dissolution in 2007, although Daimler-Benz kept Chrysler's Chinese joint venture, renamed <a href="/wiki/Beijing_Benz" title="Beijing Benz">Beijing Benz</a>. The company also launched the <a href="/wiki/Smart_(marque)" title="Smart (marque)">Smart</a> in 1998 and relaunched the <a href="/wiki/Maybach" title="Maybach">Maybach</a> brand in 2002. In addition, during the 1990s they opened a production facility for SUVs in <a href="/wiki/Tuscaloosa_County,_Alabama" title="Tuscaloosa County, Alabama">Tuscaloosa County, Alabama</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>On 5 July 2012, Volkswagen AG announced a deal with Porsche resulting in VW's full ownership of Porsche on 1 August 2012. The deal was classified as a restructuring rather than a takeover due to the transfer of a single share as part of the deal. Volkswagen AG paid Porsche shareholders $5.61 billion for the remaining 50.1% it did not own.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Present_day">Present day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automotive_industry_in_Germany&amp;action=edit&amp;section=2" title="Edit section: Present day">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Currently, five German companies and seven marques dominate the automotive industry in the country: <a href="/wiki/Volkswagen_AG" class="mw-redirect" title="Volkswagen AG">Volkswagen AG</a> (and subsidiaries <a href="/wiki/Audi" title="Audi">Audi</a> and <a href="/wiki/Porsche" title="Porsche">Porsche</a>), <a href="/wiki/BMW_AG" class="mw-redirect" title="BMW AG">BMW AG</a>, <a href="/wiki/Daimler_AG" title="Daimler AG">Daimler AG</a>, <a href="/wiki/Adam_Opel_AG" class="mw-redirect" title="Adam Opel AG">Adam Opel AG</a> and <a href="/wiki/Ford_Germany" title="Ford Germany">Ford-Werke GmbH</a>. Nearly six million vehicles are produced in Germany each year, and approximately 5.5 million are produced overseas by German brands.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Alongside the <a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/China" title="China">China</a> and <a href="/wiki/Japan" title="Japan">Japan</a>, Germany is one of the top 4 automobile manufacturers in the world.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> The Volkswagen Group is one of the three biggest automotive companies of the world (along with <a href="/wiki/Toyota" title="Toyota">Toyota</a> and <a href="/wiki/General_Motors" title="General Motors">General Motors</a>).</p>
+<p>The <a href="/wiki/Chevrolet_Volt" title="Chevrolet Volt">Chevrolet Volt</a> and its <a href="/wiki/GM_Voltec_powertrain" title="GM Voltec powertrain">GM Voltec powertrain</a> Technology were invented and developed first and foremost by the former German <a href="/wiki/Opel" title="Opel">Opel</a> engineer <a href="/wiki/Frank_Weber" title="Frank Weber">Frank Weber</a> and—still today—some of the most important parts of the development of GM's electric vehicles is done in Germany.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Manufacturers">Manufacturers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automotive_industry_in_Germany&amp;action=edit&amp;section=3" title="Edit section: Manufacturers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/List_of_automobile_manufacturers_of_Germany" title="List of automobile manufacturers of Germany">List of automobile manufacturers of Germany</a></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Automotive_industry_in_Germany&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gtai.de/GTAI/Navigation/EN/Invest/Industries/Mobility/automotive.html">Germany – The World’s Automotive Hub of Innovation</a>, Germany Trade &amp; Invest, Ernst &amp; Young European Automotive Survey 2013, retrieved 25 April 2015</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.statisticbrain.com/cars-produced-in-the-world/">Total Cars Produced In The World</a> (accessed February 16, 2014). Data source is from <a href="/wiki/Organisation_Internationale_des_Constructeurs_d%27Automobiles" title="Organisation Internationale des Constructeurs d'Automobiles">Organisation Internationale des Constructeurs d'Automobiles</a> ("OICA"); <a rel="nofollow" class="external text" href="http://www.oica.net/category/production-statistics/">production statistics</a>; <a rel="nofollow" class="external text" href="http://www.oica.net/category/production-statistics/2012-statistics/">2012 statistics</a>, oica.net (accessed February 16, 2014).</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120125191322/http://www.bbc.co.uk/languages/german/lj/cultural_notes/car_industry.shtml">"The German Car Industry"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/languages/german/lj/cultural_notes/car_industry.shtml">the original</a> on 25 January 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.btitle=The+German+Car+Industry&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Flanguages%2Fgerman%2Flj%2Fcultural_notes%2Fcar_industry.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-reich-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-reich_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-reich_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Reich, Simon (1990). "Volkswagen and the State". <i>The Fruits of Fascism: Postwar Prosperity in Historical Perspective</i>. New York: Cornell University. p.&#160;25. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8014-9729-9" title="Special:BookSources/0-8014-9729-9">0-8014-9729-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.atitle=Volkswagen+and+the+State&amp;rft.aufirst=Simon&amp;rft.aulast=Reich&amp;rft.btitle=The+Fruits+of+Fascism%3A+Postwar+Prosperity+in+Historical+Perspective&amp;rft.date=1990&amp;rft.genre=bookitem&amp;rft.isbn=0-8014-9729-9&amp;rft.pages=25&amp;rft.place=New+York&amp;rft.pub=Cornell+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Abelshauser, Werner (2005). <i>The Dynamics of German Industry: Germany's Path Toward the New Economy and the American Challenge</i>. Germany: Berghahn Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-84545-072-8" title="Special:BookSources/1-84545-072-8">1-84545-072-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.aufirst=Werner&amp;rft.aulast=Abelshauser&amp;rft.btitle=The+Dynamics+of+German+Industry%3A+Germany%27s+Path+Toward+the+New+Economy+and+the+American+Challenge&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=1-84545-072-8&amp;rft.place=Germany&amp;rft.pub=Berghahn+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-observer-20150118-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-observer-20150118_6-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Heather Stewart (18 January 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2015/jan/18/should-greece-debt-forgiven-new-idea-europe-syriza">"A new idea steals across Europe - should Greece's debt be forgiven?"</a>. <i>The Observer</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.atitle=A+new+idea+steals+across+Europe+-+should+Greece%27s+debt+be+forgiven%3F&amp;rft.au=Heather+Stewart&amp;rft.date=2015-01-18&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2015%2Fjan%2F18%2Fshould-greece-debt-forgiven-new-idea-europe-syriza&amp;rft.jtitle=The+Observer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Norbye, Jan P. (1987). <i>The Complete History of the German Car</i>. Portland House. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780517641804" title="Special:BookSources/9780517641804">9780517641804</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.aufirst=Jan+P.&amp;rft.aulast=Norbye&amp;rft.btitle=The+Complete+History+of+the+German+Car&amp;rft.date=1987&amp;rft.genre=book&amp;rft.isbn=9780517641804&amp;rft.pub=Portland+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Eckermann, Erik (2001). <i>World History of the Automobile</i>. Society of Automotive Engineers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780768008005" title="Special:BookSources/9780768008005">9780768008005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.aufirst=Erik&amp;rft.aulast=Eckermann&amp;rft.btitle=World+History+of+the+Automobile&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=9780768008005&amp;rft.pub=Society+of+Automotive+Engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fundinguniverse.com/company-histories/Volkswagen-Aktiengesellschaft-Company-History.html">"History of Volkswagen Aktiengesellschaft"</a>. fundinguniverse.com<span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.btitle=History+of+Volkswagen+Aktiengesellschaft&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fundinguniverse.com%2Fcompany-histories%2FVolkswagen-Aktiengesellschaft-Company-History.html&amp;rft.pub=fundinguniverse.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fundinguniverse.com/company-histories/Bayerische-Motoren-Werke-AG-Company-History.html">"History of Bayerische Motoren Werke AG"</a>. fundinguniverse.com<span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.btitle=History+of+Bayerische+Motoren+Werke+AG&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fundinguniverse.com%2Fcompany-histories%2FBayerische-Motoren-Werke-AG-Company-History.html&amp;rft.pub=fundinguniverse.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fundinguniverse.com/company-histories/DaimlerChrysler-AG-Company-History.html">"History of DaimlerChrysler AG"</a>. fundinguniverse.com<span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.btitle=History+of+DaimlerChrysler+AG&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fundinguniverse.com%2Fcompany-histories%2FDaimlerChrysler-AG-Company-History.html&amp;rft.pub=fundinguniverse.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.autoblog.com/2012/07/05/volkswagen-finally-really-taking-over-porsche">"Volkswagen finally, really, taking over Porsche"</a>. Autoblog.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.btitle=Volkswagen+finally%2C+really%2C+taking+over+Porsche&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.autoblog.com%2F2012%2F07%2F05%2Fvolkswagen-finally-really-taking-over-porsche&amp;rft.pub=Autoblog.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.volkswagenag.com/content/vwcorp/info_center/en/news/2012/08/Volkswagen_and_Porsche_finalize_creation_of_Integrated_Automotive_Group.html">"Volkswagen Group Volkswagen and Porsche finalize creation of Integrated Automotive Group"</a> (Press release). Volkswagen Group<span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.btitle=Volkswagen+Group+Volkswagen+and+Porsche+finalize+creation+of+Integrated+Automotive+Group&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.volkswagenag.com%2Fcontent%2Fvwcorp%2Finfo_center%2Fen%2Fnews%2F2012%2F08%2FVolkswagen_and_Porsche_finalize_creation_of_Integrated_Automotive_Group.html&amp;rft.pub=Volkswagen+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Facts about Germany. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100327143459/http://www.tatsachen-ueber-deutschland.de/en/economy/main-content-06/car-making.html">"Car-making: The strongest sector"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.tatsachen-ueber-deutschland.de/en/economy/main-content-06/car-making.html">the original</a> on 27 March 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.au=Facts+about+Germany&amp;rft.btitle=Car-making%3A+The+strongest+sector&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tatsachen-ueber-deutschland.de%2Fen%2Feconomy%2Fmain-content-06%2Fcar-making.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.thecarbrands.com/german-car-brands/">"Top German Car Brands Name and Logos List"</a>. TheCarBrands.com<span class="reference-accessdate">. Retrieved <span class="nowrap">1 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.btitle=Top+German+Car+Brands+Name+and+Logos+List&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.thecarbrands.com%2Fgerman-car-brands%2F&amp;rft.pub=TheCarBrands.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110714020227/http://www.magazine-germany.com/en/artikel-en/article/article/ein-mann-steht-unter-hochspannung.html">"Electrifying Prospects"</a>. Deutschland online. 2008-06-18. Archived from <a rel="nofollow" class="external text" href="http://www.magazine-germany.com/en/artikel-en/article/article/ein-mann-steht-unter-hochspannung.html">the original</a> on 2011-07-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutomotive+industry+in+Germany&amp;rft.btitle=Electrifying+Prospects&amp;rft.date=2008-06-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.magazine-germany.com%2Fen%2Fartikel-en%2Farticle%2Farticle%2Fein-mann-steht-unter-hochspannung.html&amp;rft.pub=Deutschland+online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Germany.C2.A0articles" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_topics" title="Template:Germany topics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_topics" title="Template talk:Germany topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Germany.C2.A0articles" style="font-size:114%;margin:0 4em"><a href="/wiki/Germany" title="Germany">Germany</a>&#160;<a href="/wiki/Index_of_Germany-related_articles" title="Index of Germany-related articles">articles</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History_of_Germany" title="History of Germany">History</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Timeline_of_German_history" title="Timeline of German history">Timeline</a></li>
+<li><a href="/wiki/Historiography_of_Germany" title="Historiography of Germany">Historiography</a></li>
+<li><a href="/wiki/Military_history_of_Germany" title="Military history of Germany">Military history</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Germanic_peoples" title="Germanic peoples">Germanic peoples</a></li>
+<li><a href="/wiki/Migration_Period" title="Migration Period">Migration Period</a></li>
+<li><a href="/wiki/Francia" title="Francia">Frankish Empire</a></li>
+<li><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a></li>
+<li><a href="/wiki/Ostsiedlung" title="Ostsiedlung">Ostsiedlung (East Colonisation)</a></li>
+<li><a href="/wiki/Confederation_of_the_Rhine" title="Confederation of the Rhine">Confederation of the Rhine</a></li>
+<li><a href="/wiki/German_Confederation" title="German Confederation">German Confederation</a></li>
+<li><a href="/wiki/Frankfurt_Constitution" title="Frankfurt Constitution">Frankfurt Constitution</a></li>
+<li><a href="/wiki/North_German_Confederation" title="North German Confederation">North German Confederation</a></li>
+<li><a href="/wiki/Unification_of_Germany" title="Unification of Germany">Unification of Germany</a></li>
+<li><a href="/wiki/German_Empire" title="German Empire">German Empire</a></li>
+<li><a href="/wiki/History_of_Germany_during_World_War_I" title="History of Germany during World War I">World War I</a></li>
+<li><a href="/wiki/Weimar_Republic" title="Weimar Republic">Weimar Republic</a></li>
+<li><a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a></li>
+<li><a href="/wiki/Nazi_Germany#World_War_II" title="Nazi Germany">World War II</a></li>
+<li><a href="/wiki/History_of_Germany_(1945%E2%80%9390)" title="History of Germany (1945–90)">Divided Germany</a></li>
+<li><a href="/wiki/Allied-occupied_Germany" title="Allied-occupied Germany">Allied occupation</a></li>
+<li><a href="/wiki/Flight_and_expulsion_of_Germans_(1944%E2%80%9350)" title="Flight and expulsion of Germans (1944–50)">Flight and expulsions</a></li>
+<li><a href="/wiki/East_Germany" title="East Germany">East Germany</a></li>
+<li><a href="/wiki/West_Germany" title="West Germany">West Germany</a></li>
+<li><a href="/wiki/German_reunification" title="German reunification">Reunification</a></li>
+<li><a href="/wiki/History_of_Germany_since_1990" title="History of Germany since 1990">Reunified Germany</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Geography_of_Germany" title="Geography of Germany">Geography</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Administrative_divisions_of_Germany" title="Administrative divisions of Germany">Administrative divisions</a>
+<ul>
+<li><a href="/wiki/States_of_Germany" title="States of Germany">States</a></li>
+<li><a href="/wiki/Districts_of_Germany" title="Districts of Germany">Districts</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">Cities and towns</a></li>
+<li><a href="/wiki/List_of_earthquakes_in_Germany" title="List of earthquakes in Germany">Earthquakes</a></li>
+<li><a href="/wiki/Geology_of_Germany" title="Geology of Germany">Geology</a></li>
+<li><a href="/wiki/List_of_islands_of_Germany" title="List of islands of Germany">Islands</a></li>
+<li><a href="/wiki/List_of_lakes_of_Germany" title="List of lakes of Germany">Lakes</a></li>
+<li><a href="/wiki/Category:Mountains_of_Germany" title="Category:Mountains of Germany">Mountains</a></li>
+<li><a href="/wiki/Category:Rivers_of_Germany" title="Category:Rivers of Germany">Rivers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Politics_of_Germany" title="Politics of Germany">Politics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bundestag" title="Bundestag">Bundestag</a></li>
+<li><a href="/wiki/Bundesrat_of_Germany" title="Bundesrat of Germany">Bundesrat</a></li>
+<li><a href="/wiki/Bundeswehr" title="Bundeswehr"><i>Bundeswehr</i> <small>(military)</small></a></li>
+<li><a href="/wiki/Cabinet_of_Germany" title="Cabinet of Germany">Cabinet</a></li>
+<li><a href="/wiki/Federal_Chancellor_of_the_Federal_Republic_of_Germany" class="mw-redirect" title="Federal Chancellor of the Federal Republic of Germany">Chancellor</a></li>
+<li><a href="/wiki/Basic_Law_for_the_Federal_Republic_of_Germany" title="Basic Law for the Federal Republic of Germany">Constitution</a></li>
+<li><a href="/wiki/Judiciary_of_Germany" title="Judiciary of Germany">Court system</a></li>
+<li><a href="/wiki/Elections_in_Germany" title="Elections in Germany">Elections</a></li>
+<li><a href="/wiki/Foreign_relations_of_Germany" title="Foreign relations of Germany">Foreign relations</a></li>
+<li><a href="/wiki/Human_rights_in_Germany" title="Human rights in Germany">Human rights</a>
+<ul>
+<li><a href="/wiki/Intersex_rights_in_Germany" title="Intersex rights in Germany">Intersex</a></li>
+<li><a href="/wiki/LGBT_rights_in_Germany" title="LGBT rights in Germany">LGBT</a></li>
+<li><a href="/wiki/Transgender_rights_in_Germany" title="Transgender rights in Germany">Transgender</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Law_of_Germany" title="Law of Germany">Law</a></li>
+<li><a href="/wiki/Law_enforcement_in_Germany" title="Law enforcement in Germany">Law enforcement</a></li>
+<li><a href="/wiki/List_of_political_parties_in_Germany" title="List of political parties in Germany">Political parties</a></li>
+<li><a href="/wiki/President_of_Germany" title="President of Germany">President</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Economy_of_Germany" title="Economy of Germany">Economy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agriculture_in_Germany" title="Agriculture in Germany">Agriculture</a></li>
+<li><a class="mw-selflink selflink">Automobile industry</a></li>
+<li><a href="/wiki/Banking_in_Germany" title="Banking in Germany">Banking</a>
+<ul>
+<li><a href="/wiki/Deutsche_Bundesbank" class="mw-redirect" title="Deutsche Bundesbank">Central bank</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Middle_German_Chemical_Triangle" title="Middle German Chemical Triangle">Chemical Triangle</a></li>
+<li><a href="/wiki/Economic_history_of_Germany" title="Economic history of Germany">Economic history</a></li>
+<li><a href="/wiki/Energy_in_Germany" title="Energy in Germany">Energy</a></li>
+<li><a href="/wiki/List_of_exports_of_Germany" title="List of exports of Germany">Exports</a></li>
+<li><a href="/wiki/German_model" title="German model">German model</a></li>
+<li><a href="/wiki/List_of_German_states_by_GDP" title="List of German states by GDP">German states by GDP</a></li>
+<li><a href="/wiki/Category:Mining_in_Germany" title="Category:Mining in Germany">Mining</a></li>
+<li><a href="/wiki/Mittelstand" title="Mittelstand"><i>Mittelstand</i> companies</a></li>
+<li><a href="/wiki/Science_and_technology_in_Germany" title="Science and technology in Germany">Science and technology</a></li>
+<li><a href="/wiki/Frankfurt_Stock_Exchange" title="Frankfurt Stock Exchange">Stock exchange</a></li>
+<li><a href="/wiki/Taxation_in_Germany" title="Taxation in Germany">Taxation</a></li>
+<li><a href="/wiki/Telecommunications_in_Germany" title="Telecommunications in Germany">Telecommunications</a></li>
+<li><a href="/wiki/Tourism_in_Germany" title="Tourism in Germany">Tourism</a></li>
+<li><a href="/wiki/Trade_unions_in_Germany" title="Trade unions in Germany">Trade unions</a></li>
+<li><a href="/wiki/Transport_in_Germany" title="Transport in Germany">Transport</a></li>
+<li><a href="/wiki/Welfare_in_Germany" title="Welfare in Germany">Welfare</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:German_society" title="Category:German society">Society</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crime_in_Germany" title="Crime in Germany">Crime</a></li>
+<li><a href="/wiki/Demographics_of_Germany" title="Demographics of Germany">Demographics</a></li>
+<li><a href="/wiki/Drug_policy_of_Germany" title="Drug policy of Germany">Drug policy</a></li>
+<li><a href="/wiki/Education_in_Germany" title="Education in Germany">Education</a></li>
+<li><a href="/wiki/Germans" title="Germans">Germans</a>
+<ul>
+<li><a href="/wiki/Category:Ethnic_groups_in_Germany" title="Category:Ethnic groups in Germany">Ethnic groups</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Healthcare_in_Germany" title="Healthcare in Germany">Healthcare</a></li>
+<li><a href="/wiki/Immigration_to_Germany" title="Immigration to Germany">Immigration</a></li>
+<li><a href="/wiki/Pensions_in_Germany" title="Pensions in Germany">Pensions</a></li>
+<li><a href="/wiki/Religion_in_Germany" title="Religion in Germany">Religion</a></li>
+<li><a href="/wiki/Social_issues_in_Germany" title="Social issues in Germany">Social issues</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Germany" title="Culture of Germany">Culture</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deutschlandlied" title="Deutschlandlied">Anthem</a></li>
+<li><a href="/wiki/Architecture_of_Germany" title="Architecture of Germany">Architecture</a></li>
+<li><a href="/wiki/German_art" title="German art">Art</a></li>
+<li><a href="/wiki/Category:Arts_in_Germany" title="Category:Arts in Germany">Arts</a></li>
+<li><a href="/wiki/Cinema_of_Germany" title="Cinema of Germany">Cinema</a></li>
+<li><a href="/wiki/Coat_of_arms_of_Germany" title="Coat of arms of Germany">Coat of arms</a></li>
+<li><a href="/wiki/German_cuisine" title="German cuisine">Cuisine</a></li>
+<li><a href="/wiki/Category:Dance_in_Germany" title="Category:Dance in Germany">Dance</a></li>
+<li><a href="/wiki/German_fashion" title="German fashion">Fashion</a></li>
+<li><a href="/wiki/Category:Festivals_in_Germany" title="Category:Festivals in Germany">Festivals</a></li>
+<li><a href="/wiki/Flag_of_Germany" title="Flag of Germany">Flag</a></li>
+<li><a href="/wiki/German_language" title="German language">Language</a></li>
+<li><a href="/wiki/German_literature" title="German literature">Literature</a></li>
+<li><a href="/wiki/Internet_in_Germany" title="Internet in Germany">Internet</a></li>
+<li><a href="/w/index.php?title=Media_of_Germany&amp;action=edit&amp;redlink=1" class="new" title="Media of Germany (page does not exist)">Media</a></li>
+<li><a href="/wiki/Music_of_Germany" title="Music of Germany">Music</a></li>
+<li><a href="/wiki/Names_of_Germany" title="Names of Germany">Names</a></li>
+<li><a href="/wiki/German_philosophy" title="German philosophy">Philosophy</a></li>
+<li><a href="/wiki/Prussian_virtues" title="Prussian virtues">Prussian virtues</a></li>
+<li><a href="/wiki/Sport_in_Germany" title="Sport in Germany">Sport</a></li>
+<li><a href="/wiki/Television_in_Germany" title="Television in Germany">Television</a></li>
+<li><a href="/wiki/List_of_World_Heritage_Sites_in_Germany" title="List of World Heritage Sites in Germany">World Heritage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<div style="margin-bottom:-0.4em;">
+<ul>
+<li><span style="font-weight:normal;"><a href="/wiki/Outline_of_Germany" title="Outline of Germany">Outline</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Index_of_Germany-related_articles" title="Index of Germany-related articles">Index</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Book:Germany" title="Book:Germany">Book</a></li>
+<li><a href="/wiki/Category:Germany" title="Category:Germany">Category</a></li>
+<li><a href="/wiki/Portal:Germany" title="Portal:Germany">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Automotive_industry" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Automotive_industry" title="Template:Automotive industry"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Automotive_industry" title="Template talk:Automotive industry"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Automotive_industry&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Automotive_industry" style="font-size:114%;margin:0 4em"><a href="/wiki/Automotive_industry" title="Automotive industry">Automotive industry</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Car" title="Car">Car</a></li>
+<li><a href="/wiki/Motor_vehicle" title="Motor vehicle">Motor vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Automotive_industry_by_country" title="Automotive industry by country">By country</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Africa</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Automotive_industry_in_Egypt&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Egypt (page does not exist)">Egypt</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Ethiopia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Ethiopia (page does not exist)">Ethiopia</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Ghana&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Ghana (page does not exist)">Ghana</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Ivory_Coast&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Ivory Coast (page does not exist)">Ivory Coast</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Libya&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Libya (page does not exist)">Libya</a></li>
+<li><a href="/wiki/Automotive_industry_in_Kenya" title="Automotive industry in Kenya">Kenya</a></li>
+<li><a href="/wiki/Automotive_industry_in_Morocco" title="Automotive industry in Morocco">Morocco</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Namibia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Namibia (page does not exist)">Namibia</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Nigeria&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Nigeria (page does not exist)">Nigeria</a></li>
+<li><a href="/wiki/Automotive_industry_in_South_Africa" title="Automotive industry in South Africa">South Africa</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Sudan&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Sudan (page does not exist)">Sudan</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Tunisia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Tunisia (page does not exist)">Tunisia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Asia</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Automotive_industry_in_Armenia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Armenia (page does not exist)">Armenia</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Azerbaijan&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Azerbaijan (page does not exist)">Azerbaijan</a></li>
+<li><a href="/wiki/Automotive_industry_in_Bangladesh" title="Automotive industry in Bangladesh">Bangladesh</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Burma&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Burma (page does not exist)">Burma</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Cambodia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Cambodia (page does not exist)">Cambodia</a></li>
+<li><a href="/wiki/Automotive_industry_in_China" title="Automotive industry in China">China</a>
+<ul>
+<li><a href="/wiki/List_of_automobile_manufacturers_of_China" title="List of automobile manufacturers of China">manufacturers</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Georgia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Georgia (page does not exist)">Georgia</a></li>
+<li><a href="/wiki/Automotive_industry_in_India" title="Automotive industry in India">India</a></li>
+<li><a href="/wiki/Automotive_industry_in_Indonesia" title="Automotive industry in Indonesia">Indonesia</a></li>
+<li><a href="/wiki/Automotive_industry_in_Iran" title="Automotive industry in Iran">Iran</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Israel&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Israel (page does not exist)">Israel</a></li>
+<li><a href="/wiki/Automotive_industry_in_Japan" title="Automotive industry in Japan">Japan</a>
+<ul>
+<li><a href="/wiki/List_of_automobile_manufacturers_of_Japan" title="List of automobile manufacturers of Japan">manufacturers</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Kazakhstan&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Kazakhstan (page does not exist)">Kazakhstan</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Lebanon&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Lebanon (page does not exist)">Lebanon</a></li>
+<li><a href="/wiki/Automotive_industry_in_Malaysia" title="Automotive industry in Malaysia">Malaysia</a></li>
+<li><a href="/wiki/Automotive_industry_in_North_Korea" title="Automotive industry in North Korea">North Korea</a></li>
+<li><a href="/wiki/Automotive_industry_in_Pakistan" title="Automotive industry in Pakistan">Pakistan</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_the_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in the Philippines (page does not exist)">Philippines</a></li>
+<li><a href="/wiki/Automotive_industry_in_South_Korea" title="Automotive industry in South Korea">South Korea</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Sri_Lanka&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Sri Lanka (page does not exist)">Sri Lanka</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Taiwan&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Taiwan (page does not exist)">Taiwan</a></li>
+<li><a href="/wiki/Automotive_industry_in_Thailand" title="Automotive industry in Thailand">Thailand</a></li>
+<li><a href="/wiki/Automotive_industry_in_Turkey" title="Automotive industry in Turkey">Turkey</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Vietnam&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Vietnam (page does not exist)">Vietnam</a></li>
+<li><a href="/wiki/Automotive_industry_in_Uzbekistan" title="Automotive industry in Uzbekistan">Uzbekistan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_European_automobiles" title="List of European automobiles">Europe</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Automtoive_industry_in_Austria&amp;action=edit&amp;redlink=1" class="new" title="Automtoive industry in Austria (page does not exist)">Austria</a></li>
+<li><a href="/wiki/Automotive_industry_in_Belarus" title="Automotive industry in Belarus">Belarus</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Belgium&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Belgium (page does not exist)">Belgium</a></li>
+<li><a href="/wiki/Automotive_industry_in_Bulgaria" title="Automotive industry in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Automotive_industry_in_Croatia" title="Automotive industry in Croatia">Croatia</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_the_Czech_Republic&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in the Czech Republic (page does not exist)">Czech Republic</a>
+<ul>
+<li><a href="/wiki/List_of_Czech_automobiles" title="List of Czech automobiles">automobiles</a></li>
+</ul>
+</li>
+<li><i><a href="/w/index.php?title=Automotive_industry_in_Czechoslovakia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Czechoslovakia (page does not exist)">Czechoslovakia</a></i></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Denmark&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Denmark (page does not exist)">Denmark</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Finland&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Finland (page does not exist)">Finland</a></li>
+<li><a href="/wiki/Automotive_industry_in_France" title="Automotive industry in France">France</a>
+<ul>
+<li><a href="/wiki/List_of_automobile_manufacturers_of_France" title="List of automobile manufacturers of France">manufacturers</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">Germany</a>
+<ul>
+<li><a href="/wiki/List_of_automobile_manufacturers_of_Germany" title="List of automobile manufacturers of Germany">manufacturers</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Greece&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Greece (page does not exist)">Greece</a></li>
+<li><a href="/wiki/Automotive_industry_in_Hungary" title="Automotive industry in Hungary">Hungary</a></li>
+<li><a href="/wiki/Automotive_industry_in_Italy" title="Automotive industry in Italy">Italy</a>
+<ul>
+<li><a href="/wiki/List_of_automobile_manufacturers_of_Italy" title="List of automobile manufacturers of Italy">manufacturers</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Automotive_industry_in_Ireland" title="Automotive industry in Ireland">Ireland</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Latvia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Latvia (page does not exist)">Latvia</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Lichtenstein&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Lichtenstein (page does not exist)">Lichtenstein</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Lithuania&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Lithuania (page does not exist)">Lithuania</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Monaco&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Monaco (page does not exist)">Monaco</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_the_Netherlands&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in the Netherlands (page does not exist)">Netherlands</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Norway&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Norway (page does not exist)">Norway</a></li>
+<li><a href="/wiki/Automotive_industry_in_Poland" title="Automotive industry in Poland">Poland</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Portugal&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Portugal (page does not exist)">Portugal</a></li>
+<li><a href="/wiki/Automotive_industry_in_Romania" title="Automotive industry in Romania">Romania</a></li>
+<li><a href="/wiki/Automotive_industry_in_Russia" title="Automotive industry in Russia">Russia</a>
+<ul>
+<li><a href="/wiki/List_of_automobile_manufacturers_of_Russia" title="List of automobile manufacturers of Russia">manufacturers</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Automotive_industry_in_Serbia" title="Automotive industry in Serbia">Serbia</a></li>
+<li><a href="/wiki/Automotive_industry_in_Slovakia" title="Automotive industry in Slovakia">Slovakia</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Slovenia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Slovenia (page does not exist)">Slovenia</a></li>
+<li><i><a href="/wiki/Automotive_industry_in_the_Soviet_Union" title="Automotive industry in the Soviet Union">Soviet Union</a></i></li>
+<li><a href="/wiki/Automotive_industry_in_Spain" title="Automotive industry in Spain">Spain</a></li>
+<li><a href="/wiki/Automotive_industry_in_Sweden" title="Automotive industry in Sweden">Sweden</a>
+<ul>
+<li><a href="/wiki/List_of_automobile_manufacturers_of_Sweden" title="List of automobile manufacturers of Sweden">manufacturers</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Switzerland&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Switzerland (page does not exist)">Switzerland</a></li>
+<li><a href="/wiki/Automotive_industry_in_Ukraine" title="Automotive industry in Ukraine">Ukraine</a></li>
+<li><i><a href="/w/index.php?title=Automotive_industry_in_Yugoslavia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Yugoslavia (page does not exist)">Yugoslavia</a></i></li>
+<li><a href="/wiki/Automotive_industry_in_the_United_Kingdom" title="Automotive industry in the United Kingdom">United Kingdom</a>
+<ul>
+<li><a href="/wiki/List_of_car_manufacturers_of_the_United_Kingdom" title="List of car manufacturers of the United Kingdom">manufacturers</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">North America</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automotive_industry_in_Canada" title="Automotive industry in Canada">Canada</a></li>
+<li><a href="/wiki/Automotive_industry_in_Mexico" title="Automotive industry in Mexico">Mexico</a></li>
+<li><a href="/wiki/Automotive_industry_in_the_United_States" title="Automotive industry in the United States">United States</a>
+<ul>
+<li><a href="/wiki/List_of_automobile_manufacturers_of_the_United_States" title="List of automobile manufacturers of the United States">manufacturers</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">South America</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Automotive_industry_in_Argentina&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Argentina (page does not exist)">Argentina</a></li>
+<li><a href="/wiki/Automotive_industry_in_Brazil" title="Automotive industry in Brazil">Brazil</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Colombia&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Colombia (page does not exist)">Colombia</a></li>
+<li><a href="/w/index.php?title=Automotive_industry_in_Venezuela&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Venezuela (page does not exist)">Venezuela</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Oceania</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automotive_industry_in_Australia" title="Automotive industry in Australia">Australia</a></li>
+<li><a href="/wiki/Automotive_industry_in_New_Zealand" title="Automotive industry in New Zealand">New Zealand</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Data</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_automobile_sales_by_model" title="List of automobile sales by model">Automobile sales by model</a></li>
+<li><a href="/wiki/List_of_best-selling_automobiles" title="List of best-selling automobiles">Best-selling automobiles</a></li>
+<li><a href="/wiki/List_of_countries_by_motor_vehicle_production" title="List of countries by motor vehicle production">Countries by motor vehicle production</a></li>
+<li><a href="/wiki/List_of_countries_by_car_exports" title="List of countries by car exports">Countries by car exports</a></li>
+<li><a href="/wiki/List_of_countries_by_vehicles_per_capita" title="List of countries by vehicles per capita">Countries by vehicles per capita</a></li>
+<li><a href="/wiki/List_of_manufacturers_by_motor_vehicle_production" title="List of manufacturers by motor vehicle production">Top manufacturers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automotive_industry_crisis_of_2008%E2%80%9310" title="Automotive industry crisis of 2008–10">Automotive industry crisis of 2008–10</a></li>
+<li><a href="/wiki/History_of_the_automobile" title="History of the automobile">History of the automobile</a></li>
+<li><a href="/wiki/History_of_the_internal_combustion_engine" title="History of the internal combustion engine">History of the internal combustion engine</a></li>
+<li><a href="/wiki/Motorcycle_history" class="mw-redirect" title="Motorcycle history">History of the motorcycle</a></li>
+<li><a href="/wiki/Timeline_of_motor_vehicle_brands" title="Timeline of motor vehicle brands">Timeline of motor vehicle brands</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Manufacturers</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_automobile_manufacturers" title="List of automobile manufacturers">Automobile manufacturers</a>
+<ul>
+<li><a href="/wiki/List_of_automobile_marques" class="mw-redirect" title="List of automobile marques">marques</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_motorcycle_manufacturers" title="List of motorcycle manufacturers">Motorcycle manufacturers</a></li>
+<li><a href="/wiki/List_of_truck_manufacturers" title="List of truck manufacturers">Truck manufacturers</a></li>
+<li><a href="/wiki/Minor_automotive_manufacturing_groups" title="Minor automotive manufacturing groups">Minor automotive manufacturing groups</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Organisations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Association_for_Standardisation_of_Automation_and_Measuring_Systems" title="Association for Standardisation of Automation and Measuring Systems">Association for Standardisation of Automation and Measuring Systems</a></li>
+<li><a href="/wiki/European_Automobile_Manufacturers_Association" title="European Automobile Manufacturers Association">European Automobile Manufacturers Association</a></li>
+<li><a href="/wiki/Organisation_Internationale_des_Constructeurs_d%27Automobiles" title="Organisation Internationale des Constructeurs d'Automobiles">Organisation Internationale des Constructeurs d'Automobiles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_auto_shows_and_motor_shows_by_continent" title="List of auto shows and motor shows by continent">Auto and motor shows</a></li>
+<li><a href="/wiki/Automotive_design" title="Automotive design">Automotive design</a></li>
+<li><a href="/wiki/Automotive_engineering" title="Automotive engineering">Automotive engineering</a></li>
+<li><a href="/wiki/Category:Automotive_standards" title="Category:Automotive standards">Automotive standards</a></li>
+<li><a href="/wiki/Category:People_in_the_automobile_industry" title="Category:People in the automobile industry">People</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight: bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Automotive_industry" title="Category:Automotive industry">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Automotive_industry" class="extiw" title="commons:Category:Automotive industry">Commons</a></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Lists_of_automobile-related_articles" title="Lists of automobile-related articles">List</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Cars" title="Portal:Cars">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DGermany.7Clink.3DGermany_Automotive_industry_in_Germany" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Automotive_industry_in_Germany" title="Template:Automotive industry in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Automotive_industry_in_Germany" title="Template talk:Automotive industry in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Automotive_industry_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DGermany.7Clink.3DGermany_Automotive_industry_in_Germany" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a class="mw-selflink selflink">Automotive industry in Germany</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Automotive_industry" title="Automotive industry">Automotive industry</a></li>
+<li><a href="/wiki/Economy_of_Germany" title="Economy of Germany">Economy of Germany</a></li>
+<li><a href="/wiki/Transport_in_Germany" title="Transport in Germany">Transport in Germany</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: left;"><a href="/wiki/Category:Automotive_companies_of_Germany" title="Category:Automotive companies of Germany">Companies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_automobile_manufacturers_of_Germany" title="List of automobile manufacturers of Germany">Active vehicle producers</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BMW" title="BMW">BMW</a>
+<ul>
+<li><a href="/wiki/BMW_i" title="BMW i">BMW i</a></li>
+<li><a href="/wiki/BMW_Motorrad" title="BMW Motorrad">BMW Motorrad</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Borgward" title="Borgward">Borgward</a></li>
+<li><a href="/wiki/Daimler_AG" title="Daimler AG">Daimler</a>
+<ul>
+<li><a href="/wiki/Mercedes-Benz" title="Mercedes-Benz">Mercedes-Benz</a></li>
+<li><a href="/wiki/Setra" title="Setra">Setra</a>/<a href="/wiki/EvoBus" title="EvoBus">EvoBus</a></li>
+<li><a href="/wiki/Smart_(marque)" title="Smart (marque)">Smart</a></li>
+<li><a href="/wiki/Maybach" title="Maybach">Maybach</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Apollo_Automobil" title="Apollo Automobil">Apollo Automobil</a></li>
+<li><a href="/wiki/Krauss-Maffei" title="Krauss-Maffei">Krauss-Maffei</a></li>
+<li><a href="/wiki/Rheinmetall" title="Rheinmetall">Rheinmetall</a>
+<ul>
+<li><a href="/wiki/Rheinmetall_MAN_Military_Vehicles" title="Rheinmetall MAN Military Vehicles">RMMV</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Volkswagen_Group" title="Volkswagen Group">Volkswagen Group</a>
+<ul>
+<li><a href="/wiki/Audi" title="Audi">Audi</a></li>
+<li><a href="/wiki/MAN_Truck_%26_Bus" title="MAN Truck &amp; Bus">MAN</a>
+<ul>
+<li><a href="/wiki/Rheinmetall_MAN_Military_Vehicles" title="Rheinmetall MAN Military Vehicles">RMMV</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Porsche" title="Porsche">Porsche</a></li>
+<li><a href="/wiki/Volkswagen" title="Volkswagen">Volkswagen</a></li>
+<li><a href="/wiki/Volkswagen_Commercial_Vehicles" title="Volkswagen Commercial Vehicles">Volkswagen Commercial Vehicles</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Foreign owned</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ford_of_Europe" title="Ford of Europe">Ford of Europe</a>
+<ul>
+<li><a href="/wiki/Ford_Germany" title="Ford Germany">Ford-Werke</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Magirus" title="Magirus">Iveco Magirus</a></li>
+<li><a href="/wiki/Opel" title="Opel">Opel</a></li>
+<li><a href="/wiki/Hyundai_Motor_Europe_GmbH" title="Hyundai Motor Europe GmbH">Hyundai Europe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_automobile_manufacturers_of_Germany#Former_manufacturers" title="List of automobile manufacturers of Germany">Defunct vehicle producers</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Auto_Union" title="Auto Union">Auto Union</a></i></li>
+<li><i><a href="/wiki/DKW" title="DKW">DKW</a></i></li>
+<li><i><a href="/wiki/Horch" title="Horch">Horch</a></i></li>
+<li><i><a href="/wiki/NSU_Motorenwerke" title="NSU Motorenwerke">NSU</a></i></li>
+<li><i><a href="/wiki/Wanderer_(car)" class="mw-redirect" title="Wanderer (car)">Wanderer</a></i></li>
+<li><i><a href="/wiki/Trabant" title="Trabant">Trabant</a></i></li>
+<li><i><a href="/wiki/Hansa_(car)" class="mw-redirect" title="Hansa (car)">Hansa</a></i></li>
+<li><i><a href="/wiki/Goliath_(company)" title="Goliath (company)">Goliath</a></i></li>
+<li><i><a href="/wiki/North_German_Automobile_and_Engine" title="North German Automobile and Engine">North German Automobile and Engine</a></i></li>
+<li><i><a href="/wiki/Artega_Automobile" title="Artega Automobile">Artega Automobile</a></i></li>
+<li><i><a href="/wiki/Fuldamobil" title="Fuldamobil">Fuldamobil</a></i></li>
+<li><i><a href="/wiki/Goggomobil" title="Goggomobil">Goggomobil</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Components</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ATR_(company)" title="ATR (company)">ATR</a></li>
+<li><a href="/wiki/Behr_GmbH_%26_Co._KG" title="Behr GmbH &amp; Co. KG">Behr</a></li>
+<li><a href="/wiki/Robert_Bosch_GmbH" title="Robert Bosch GmbH">Bosch</a>
+<ul>
+<li><a href="/wiki/Blaupunkt" title="Blaupunkt">Blaupunkt</a></li>
+<li><a href="/wiki/ETAS_Group" class="mw-redirect" title="ETAS Group">ETAS Group</a></li>
+</ul>
+</li>
+<li><a href="/wiki/BBS_Kraftfahrzeugtechnik" title="BBS Kraftfahrzeugtechnik">BBS</a></li>
+<li><a href="/wiki/B%C3%BChler_Motor" title="Bühler Motor">Bühler Motor</a></li>
+<li><a href="/wiki/Continental_AG" title="Continental AG">Continental</a></li>
+<li><a href="/wiki/Dr%C3%A4xlmaier_Group" title="Dräxlmaier Group">Dräxlmaier Group</a></li>
+<li><a href="/wiki/D%C3%BCrr_AG" title="Dürr AG">Dürr AG</a></li>
+<li><a href="/wiki/Getrag" title="Getrag">Getrag</a></li>
+<li><a href="/wiki/Hella_(company)" title="Hella (company)">Hella</a></li>
+<li><a href="/wiki/Hermann_Peters" title="Hermann Peters">Hermann Peters</a></li>
+<li><a href="/wiki/KSPG" class="mw-redirect" title="KSPG">KSPG</a></li>
+<li><a href="/wiki/L%C3%B6we_Automobil" title="Löwe Automobil">Löwe Automobil</a></li>
+<li><a href="/wiki/Mahle_GmbH" title="Mahle GmbH">Mahle</a></li>
+<li><a href="/wiki/Mann%2BHummel" title="Mann+Hummel">Mann+Hummel</a></li>
+<li><a href="/wiki/Petri_AG" title="Petri AG">Petri</a></li>
+<li><a href="/wiki/Schaeffler_Group" title="Schaeffler Group">Schaeffler</a></li>
+<li><a href="/wiki/Voith" title="Voith">Voith</a></li>
+<li><a href="/wiki/ZF_Friedrichshafen" title="ZF Friedrichshafen">ZF Friedrichshafen</a>
+<ul>
+<li><a href="/wiki/ZF_Sachs" title="ZF Sachs">ZF Sachs</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Motorsport and<br />
+tuners</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abt_Sportsline" title="Abt Sportsline">Abt Sportsline</a></li>
+<li><a href="/wiki/AC_Schnitzer" title="AC Schnitzer">AC Schnitzer</a></li>
+<li><a href="/wiki/Alpina" title="Alpina">Alpina</a></li>
+<li><a href="/wiki/Mercedes-AMG" title="Mercedes-AMG">AMG</a></li>
+<li><a href="/wiki/Bitter_Cars" title="Bitter Cars">Bitter</a></li>
+<li><a href="/wiki/Brabus" title="Brabus">Brabus</a></li>
+<li><a href="/wiki/BMW_M" title="BMW M">BMW M</a></li>
+<li><a href="/wiki/Carlsson_(car_company)" title="Carlsson (car company)">Carlsson</a></li>
+<li><a href="/wiki/G-Power" title="G-Power">G-Power</a></li>
+<li><a href="/wiki/Gemballa" title="Gemballa">Gemballa</a></li>
+<li><a href="/wiki/Hamann_Motorsport" title="Hamann Motorsport">Hamann Motorsport</a></li>
+<li><a href="/wiki/Hartge" title="Hartge">Hartge</a></li>
+<li><a href="/wiki/Je_Design" title="Je Design">Je Design</a></li>
+<li><a href="/wiki/Koenig_Specials" title="Koenig Specials">Koenig Specials</a></li>
+<li><a href="/wiki/Mansory" title="Mansory">Mansory</a></li>
+<li><a href="/wiki/Opel_Performance_Center" title="Opel Performance Center">Opel Performance Center</a></li>
+<li><a href="/wiki/PPI_Automotive_Design" title="PPI Automotive Design">PPI Automotive Design</a></li>
+<li><a href="/wiki/Audi_Sport_GmbH" title="Audi Sport GmbH">Audi Sport</a></li>
+<li><a href="/wiki/Rieger_Tuning" title="Rieger Tuning">Rieger Tuning</a></li>
+<li><a href="/wiki/Ruf_Automobile" title="Ruf Automobile">Ruf Automobile</a></li>
+<li><a href="/wiki/Steinmetz_Opel_Tuning" title="Steinmetz Opel Tuning">Steinmetz Opel Tuning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Services</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Daimler_Financial_Services" title="Daimler Financial Services">Daimler Financial Services</a>
+<ul>
+<li><a href="/wiki/Mercedes-Benz_Bank" title="Mercedes-Benz Bank">Mercedes-Benz Bank</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sixt" title="Sixt">Sixt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: left;">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADAC" title="ADAC">ADAC</a></li>
+<li><a href="/wiki/Auto_Mobil_International" title="Auto Mobil International">AMI Leipzig</a></li>
+<li><a href="/wiki/Association_for_Standardisation_of_Automation_and_Measuring_Systems" title="Association for Standardisation of Automation and Measuring Systems">ASAM</a></li>
+<li><a href="/wiki/Deutsche_Tourenwagen_Masters" title="Deutsche Tourenwagen Masters">DTM</a></li>
+<li><a href="/wiki/Frankfurt_Motor_Show" class="mw-redirect" title="Frankfurt Motor Show">Frankfurt Motor Show</a></li>
+<li><a href="/wiki/Verband_der_Automobilindustrie" title="Verband der Automobilindustrie">German Association of the Automotive Industry</a></li>
+<li><a href="/wiki/N%C3%BCrburgring" title="Nürburgring">Nürburgring</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><span style="font-size:97%;">Defunct companies and marques above are shown in <i>italics</i></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1281
+Cached time: 20170417121146
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.316 seconds
+Real time usage: 0.414 seconds
+Preprocessor visited node count: 2699/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 160493/2097152 bytes
+Template argument size: 13421/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 23/500
+Lua time usage: 0.112/10.000 seconds
+Lua memory usage: 4.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  291.980      1 -total
+ 38.82%  113.348     11 Template:Navbox
+ 26.75%   78.117      1 Template:Citation_needed
+ 26.00%   75.917      1 Template:Reflist
+ 20.84%   60.840      1 Template:Germany_topics
+ 20.42%   59.635      1 Template:Fix
+ 20.18%   58.916      1 Template:Country_topics
+ 14.61%   42.650      8 Template:Cite_web
+ 13.01%   37.982      2 Template:Category_handler
+  8.76%   25.582      1 Template:Automotive_industry_in_Germany
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23576290-0!*!0!!en!4!* and timestamp 20170417121150 and revision id 775840612
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Automotive_industry_in_Germany&amp;oldid=775840612">https://en.wikipedia.org/w/index.php?title=Automotive_industry_in_Germany&amp;oldid=775840612</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Automotive_industry_by_country" title="Category:Automotive industry by country">Automotive industry by country</a></li><li><a href="/wiki/Category:Industry_in_Germany" title="Category:Industry in Germany">Industry in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2016" title="Category:Articles with unsourced statements from September 2016">Articles with unsourced statements from September 2016</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Automotive+industry+in+Germany" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Automotive+industry+in+Germany" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Automotive_industry_in_Germany"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Automotive_industry_in_Germany"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Automotive_industry_in_Germany" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Automotive_industry_in_Germany&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Automotive_industry_in_Germany&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Automotive_industry_in_Germany" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Automotive_industry_in_Germany" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Automotive_industry_in_Germany&amp;oldid=775840612" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Automotive_industry_in_Germany&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q3788541" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Automotive_industry_in_Germany&amp;id=775840612" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Automotive+industry+in+Germany">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Automotive+industry+in+Germany&amp;returnto=Automotive+industry+in+Germany&amp;oldid=775840612&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Automotive_industry_in_Germany&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA_%D9%81%D9%8A_%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7" title="صناعة السيارات في ألمانيا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Industria_automotriz_en_Alemania" title="Industria automotriz en Alemania – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Industri_otomotif_di_Jerman" title="Industri otomotif di Jerman – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%E8%BB%8A" title="ドイツ車 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8" title="Автомобильная промышленность Германии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Saksan_autoteollisuus" title="Saksan autoteollisuus – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D1%96%D1%81%D1%82%D1%8C_%D1%83_%D0%9D%D1%96%D0%BC%D0%B5%D1%87%D1%87%D0%B8%D0%BD%D1%96" title="Автомобільна промисловість у Німеччині – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q3788541#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 April 2017, at 12:11.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Automotive_industry_in_Germany&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.414","ppvisitednodes":{"value":2699,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":160493,"limit":2097152},"templateargumentsize":{"value":13421,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  291.980      1 -total"," 38.82%  113.348     11 Template:Navbox"," 26.75%   78.117      1 Template:Citation_needed"," 26.00%   75.917      1 Template:Reflist"," 20.84%   60.840      1 Template:Germany_topics"," 20.42%   59.635      1 Template:Fix"," 20.18%   58.916      1 Template:Country_topics"," 14.61%   42.650      8 Template:Cite_web"," 13.01%   37.982      2 Template:Category_handler","  8.76%   25.582      1 Template:Automotive_industry_in_Germany"]},"scribunto":{"limitreport-timeusage":{"value":"0.112","limit":"10.000"},"limitreport-memusage":{"value":4830702,"limit":52428800}},"cachereport":{"origin":"mw1281","timestamp":"20170417121146","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":137,"wgHostname":"mw2101"});});</script>
+	</body>
+</html>

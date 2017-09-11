@@ -1,0 +1,657 @@
+https://en.wikipedia.org/wiki/Arnold_Arre
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Arnold Arre - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arnold_Arre","wgTitle":"Arnold Arre","wgCurRevisionId":754603116,"wgRevisionId":754603116,"wgArticleId":4914108,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Comics nation sweep","Comics infobox without image","Comics creator pop","Comics creator BLP pop","Track variant DoB","Wikipedia articles with VIAF identifiers","Filipino writers","Filipino artists","Filipino illustrators","People from Quezon City","Writers from Metro Manila","Artists from Metro Manila","University of the Philippines Diliman alumni","Living people","1971 births"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arnold_Arre","wgRelevantArticleId":4914108,"wgRequestId":"WPsPAwrAAEEAAjKbEG4AAABM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4794951","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arnold_Arre"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arnold_Arre&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Arnold_Arre&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Arnold_Arre"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Arnold_Arre rootpage-Arnold_Arre skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Arnold Arre</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em;text-align: left; background: #fff;">
+<tr>
+<th colspan="2" class="fn" style="text-align:center;font-size:125%;font-weight:bold;background: #99c2ff;">Arnold Arre</th>
+</tr>
+<tr>
+<th scope="row" style="width: 40%;">Born</th>
+<td>Clem Arnold Lawrence Arre<br />
+<span style="display:none">(<span class="bday">1971-09-02</span>)</span> September 2, 1971 <span class="noprint ForceAgeToShow">(age&#160;45)</span><br />
+<a href="/wiki/Metro_Manila" title="Metro Manila">Metro Manila</a>, <a href="/wiki/Philippines" title="Philippines">Philippines</a></td>
+</tr>
+<tr>
+<th scope="row" style="width: 40%;">Nationality</th>
+<td class="category"><a href="/wiki/Philippines" title="Philippines">Filipino</a></td>
+</tr>
+<tr>
+<th scope="row" style="width: 40%;"><span style="white-space:nowrap;">Area(s)</span></th>
+<td class="role">Writer, Artist</td>
+</tr>
+<tr>
+<th scope="row" style="width: 40%;">
+<div style="padding:0.1em 0;line-height:1.2em;">Notable works</div>
+</th>
+<td><i>The Mythology Class</i>, <i>Ang Mundo ni Andong Agimat</i>, <i>Milkyboy (Animated Short Film)</i>,</td>
+</tr>
+<tr>
+<th scope="row" style="width: 40%;"><span style="white-space:nowrap;">Spouse(s)</span></th>
+<td>Cynthia Bauzon Arre</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-top:#aaa 1px solid"><a rel="nofollow" class="external free" href="http://www.arnold-arre.com">http://www.arnold-arre.com</a></td>
+</tr>
+</table>
+<p><b>Arnold Arre</b> (born September 2, 1971 in <a href="/wiki/Metro_Manila" title="Metro Manila">Metro Manila</a>, <a href="/wiki/Philippines" title="Philippines">Philippines</a>) is a <a href="/wiki/Filipino_people" class="mw-redirect" title="Filipino people">Filipino</a> comic book writer, <a href="/wiki/Comic_book_artist" class="mw-redirect" title="Comic book artist">artist</a> and self-taught <a href="/wiki/Animator" title="Animator">animator</a> best known for his graphic novels <i><a href="/wiki/The_Mythology_Class" title="The Mythology Class">The Mythology Class</a></i> (1999) and <i><a href="/w/index.php?title=Ang_Mundo_ni_Andong_Agimat&amp;action=edit&amp;redlink=1" class="new" title="Ang Mundo ni Andong Agimat (page does not exist)">Ang Mundo ni Andong Agimat</a></i> (2006).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Works"><span class="tocnumber">2</span> <span class="toctext">Works</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Animated_Films"><span class="tocnumber">2.1</span> <span class="toctext">Animated Films</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Graphic_Novels"><span class="tocnumber">2.2</span> <span class="toctext">Graphic Novels</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Design_Projects"><span class="tocnumber">2.3</span> <span class="toctext">Design Projects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Awards"><span class="tocnumber">3</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Exhibits"><span class="tocnumber">4</span> <span class="toctext">Exhibits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Education"><span class="tocnumber">5</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Publishers"><span class="tocnumber">6.1</span> <span class="toctext">Publishers</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Arnold Arre has won <a href="/wiki/Philippine_National_Book_Awards" title="Philippine National Book Awards">National Book Awards</a> from the <a href="/wiki/Manila_Critics_Circle" class="mw-redirect" title="Manila Critics Circle">Manila Critics Circle</a> for his <a href="/wiki/Graphic_novels" class="mw-redirect" title="Graphic novels">graphic novels</a> <i><a href="/wiki/The_Mythology_Class" title="The Mythology Class">The Mythology Class</a></i> (1999), a four-part action-adventure miniseries and <i><a href="/wiki/Trip_to_Tagaytay" title="Trip to Tagaytay">Trip to Tagaytay</a></i> (2000), a one-shot future fiction short story.<sup id="cite_ref-ncca_1-0" class="reference"><a href="#cite_note-ncca-1">[1]</a></sup> <i>The Mythology Class</i>, which has been described as "genre-breaking",<sup id="cite_ref-rodski-inquirer_2-0" class="reference"><a href="#cite_note-rodski-inquirer-2">[2]</a></sup> has the distinction of being the first graphic novel to win in the Manila Critics Circle National Book Awards Comic Books category.<sup id="cite_ref-ncca_1-1" class="reference"><a href="#cite_note-ncca-1">[1]</a></sup></p>
+<p>Arre's other titles include the romantic comedy <i>After Eden</i> (2002), <i><a href="/w/index.php?title=Ang_Mundo_ni_Andong_Agimat&amp;action=edit&amp;redlink=1" class="new" title="Ang Mundo ni Andong Agimat (page does not exist)">Ang Mundo ni Andong Agimat</a></i> (2006), and "Martial Law Babies" (2008).</p>
+<p>Aside from his comics work, Arre did numerous design and illustration jobs for various clients such as the <a href="/wiki/San_Miguel_Foundation_for_the_Performing_Arts" title="San Miguel Foundation for the Performing Arts">San Miguel Foundation for the Performing Arts</a> and <a href="/wiki/Sony_BMG" title="Sony BMG">Sony BMG</a> Music Entertainment Philippines. He also took part in local and international group exhibits and has had a one-man fantasy-themed show, <i>Mythos</i> in 2000.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>In 2007, producer Tony Gloria of Unitel Productions optioned the film rights to Arre's novel <i><a href="/w/index.php?title=Ang_Mundo_ni_Andong_Agimat&amp;action=edit&amp;redlink=1" class="new" title="Ang Mundo ni Andong Agimat (page does not exist)">Ang Mundo ni Andong Agimat</a></i>.<sup id="cite_ref-unitel_5-0" class="reference"><a href="#cite_note-unitel-5">[5]</a></sup><sup id="cite_ref-adobo_6-0" class="reference"><a href="#cite_note-adobo-6">[6]</a></sup> Arre has mentioned in an April 2014 interview that the project is still under development.<sup id="cite_ref-komikon_7-0" class="reference"><a href="#cite_note-komikon-7">[7]</a></sup></p>
+<p>In 2011, Arre studied the art of <a href="/wiki/Animation" title="Animation">animation</a> and made a 4-minute short film titled <i>Andong Agimat: Kanya ang Kalye</i> based on the main character in his book <i><a href="/w/index.php?title=Ang_Mundo_ni_Andong_Agimat&amp;action=edit&amp;redlink=1" class="new" title="Ang Mundo ni Andong Agimat (page does not exist)">Ang Mundo ni Andong Agimat</a></i>. In November 2011 he was commissioned by <a href="/wiki/Gang_Badoy" title="Gang Badoy">Gang Badoy</a> of <a href="/w/index.php?title=Rock_Ed_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Rock Ed Philippines (page does not exist)">Rock Ed Philippines</a> and the <a href="/wiki/National_Historical_Commission_of_the_Philippines" title="National Historical Commission of the Philippines">National Historical Commission of the Philippines</a> (NHCP) to make an animated music video for <i>Kaninong Anino</i> in celebration of the 150th birth anniversary of Filipino hero <a href="/wiki/Jose_Rizal" class="mw-redirect" title="Jose Rizal">Jose Rizal</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The following year, he was commissioned by Rock Ed Philippines and the NHCP to make an animated music video for <i><a href="/wiki/Lupang_Hinirang" title="Lupang Hinirang">Lupang Hinirang</a></i>, the Philippine National Anthem which was broadcast on national television on June 12, 2012, <a href="/wiki/Independence_Day_(Philippines)" title="Independence Day (Philippines)">Independence Day (Philippines)</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> In September 2012, he did a series of educational animated videos titled <i>Tandaan. Kalayaan. Alagaan.</i> to mark the 40th anniversary of the Philippines' freedom from Martial Law. The series was commissioned by Rock Ed Philippines and the <a href="/wiki/National_Youth_Commission_(Philippines)" title="National Youth Commission (Philippines)">National Youth Commission (Philippines)</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>In July 2013, Arre finished his first 20-minute animated short film titled <i>Milkyboy</i>.<sup id="cite_ref-manifesto_11-0" class="reference"><a href="#cite_note-manifesto-11">[11]</a></sup><sup id="cite_ref-gma-milkyboy_12-0" class="reference"><a href="#cite_note-gma-milkyboy-12">[12]</a></sup> The film went on to win awards at the 25th Gawad CCP Para Sa Alternatibong Pelikula in November 2013,<sup id="cite_ref-gawad_13-0" class="reference"><a href="#cite_note-gawad-13">[13]</a></sup> the 7th <a href="/wiki/Animahenasyon" title="Animahenasyon">Animahenasyon</a> (Philippine Animation Festival) in November 2013,<sup id="cite_ref-animahenasyon_14-0" class="reference"><a href="#cite_note-animahenasyon-14">[14]</a></sup> and the 30th <a href="/wiki/Los_Angeles_Asian_Pacific_Film_Festival" title="Los Angeles Asian Pacific Film Festival">Los Angeles Asian Pacific Film Festival</a> (LAAPFF) in May 2014 where Arre was awarded the <i>Linda Mabalot New Directors/New Visions Award</i>,<sup id="cite_ref-laapff_15-0" class="reference"><a href="#cite_note-laapff-15">[15]</a></sup><sup id="cite_ref-hollywoodtimes_16-0" class="reference"><a href="#cite_note-hollywoodtimes-16">[16]</a></sup> presented to a short film that demonstrates innovative and original use of cinematic language and vision.<sup id="cite_ref-mabalot_17-0" class="reference"><a href="#cite_note-mabalot-17">[17]</a></sup></p>
+<p>Arre is based in <a href="/wiki/Quezon_City" title="Quezon City">Quezon City</a> and is married to <a href="/wiki/Graphic_designer" title="Graphic designer">graphic designer</a> Cynthia Bauzon.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="Works">Works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=2" title="Edit section: Works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Animated_Films">Animated Films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=3" title="Edit section: Animated Films">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th align="left">Year of release</th>
+<th align="left">Title</th>
+<th align="left">Notes</th>
+</tr>
+<tr>
+<td align="center">2011</td>
+<td align="center"><i><a href="/w/index.php?title=Andong_Agimat:_Kanya_ang_Kalye&amp;action=edit&amp;redlink=1" class="new" title="Andong Agimat: Kanya ang Kalye (page does not exist)">Andong Agimat: Kanya ang Kalye</a></i></td>
+<td align="center">Best Animation, 1-5 min. Short Film Category, 7th Animahenasyon (Philippine Animation Festival)<sup id="cite_ref-animahenasyon_14-1" class="reference"><a href="#cite_note-animahenasyon-14">[14]</a></sup>
+<p>Special Jury Prize, 7th Animahenasyon (Philippine Animation Festival)<sup id="cite_ref-animahenasyon_14-2" class="reference"><a href="#cite_note-animahenasyon-14">[14]</a></sup></p>
+</td>
+</tr>
+<tr>
+<td align="center">2011</td>
+<td align="center"><i><a href="/w/index.php?title=Kaninong_Anino&amp;action=edit&amp;redlink=1" class="new" title="Kaninong Anino (page does not exist)">Kaninong Anino</a></i></td>
+<td align="center">Best Animation, Music Video Category, 7th Animahenasyon (Philippine Animation Festival)<sup id="cite_ref-animahenasyon_14-3" class="reference"><a href="#cite_note-animahenasyon-14">[14]</a></sup>
+<p>Commissioned by Rock Ed Philippines and the National Historical Commission of the Philippines</p>
+</td>
+</tr>
+<tr>
+<td align="center">2012</td>
+<td align="center"><i><a href="/w/index.php?title=Lupang_Hinirang:_The_Philippine_National_Anthem&amp;action=edit&amp;redlink=1" class="new" title="Lupang Hinirang: The Philippine National Anthem (page does not exist)">Lupang Hinirang: The Philippine National Anthem</a></i></td>
+<td align="center">Commissioned by Rock Ed Philippines and the National Historical Commission of the Philippines</td>
+</tr>
+<tr>
+<td align="center">2013</td>
+<td align="center"><i><a href="/w/index.php?title=Freedom_from_Martial_Law_Series&amp;action=edit&amp;redlink=1" class="new" title="Freedom from Martial Law Series (page does not exist)">Freedom from Martial Law Series</a></i></td>
+<td align="center">Commissioned by Rock Ed Philippines, the National Youth Commission (NYC) and the Commission on Human Rights (CHR)</td>
+</tr>
+<tr>
+<td align="center">2013</td>
+<td align="center"><i><a href="/w/index.php?title=Milkyboy&amp;action=edit&amp;redlink=1" class="new" title="Milkyboy (page does not exist)">Milkyboy</a></i></td>
+<td align="center">Winner, Linda Mabalot New Directors/New Visions Award, 30th Los Angeles Asian Pacific Film Festival<sup id="cite_ref-laapff_15-1" class="reference"><a href="#cite_note-laapff-15">[15]</a></sup>
+<p>1st Prize Winner, Animation Category, The 25th CCP Independent Film &amp; Video Festival<sup id="cite_ref-gawad_13-1" class="reference"><a href="#cite_note-gawad-13">[13]</a></sup></p>
+<p>Best Screenplay, 7th Animahenasyon (Philippine Animation Festival)<sup id="cite_ref-animahenasyon_14-4" class="reference"><a href="#cite_note-animahenasyon-14">[14]</a></sup></p>
+<p>In Competition, Golden Kuker-Sofia Animation Festival</p>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Graphic_Novels">Graphic Novels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=4" title="Edit section: Graphic Novels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Self-published</li>
+</ul>
+<table class="wikitable">
+<tr>
+<th align="left">Year of release</th>
+<th align="left">Title</th>
+<th align="left">Notes</th>
+</tr>
+<tr>
+<td align="center">1999</td>
+<td align="center"><i><a href="/wiki/The_Mythology_Class" title="The Mythology Class">The Mythology Class</a></i></td>
+<td align="center">Winner, Best Comic Book - 19th Manila Critics Circle National Book Awards<sup id="cite_ref-ncca_1-2" class="reference"><a href="#cite_note-ncca-1">[1]</a></sup></td>
+</tr>
+<tr>
+<td align="center">2000</td>
+<td align="center"><i><a href="/wiki/Trip_to_Tagaytay" title="Trip to Tagaytay">Trip to Tagaytay</a></i></td>
+<td align="center">Winner, Best Comic Book - 20th Manila Critics Circle National Book Awards<sup id="cite_ref-ncca_1-3" class="reference"><a href="#cite_note-ncca-1">[1]</a></sup></td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i><a href="/w/index.php?title=Ang_Mundo_ni_Andong_Agimat&amp;action=edit&amp;redlink=1" class="new" title="Ang Mundo ni Andong Agimat (page does not exist)">Ang Mundo ni Andong Agimat</a></i></td>
+<td align="center">Film rights optioned by Unitel Productions in 2007 <sup id="cite_ref-unitel_5-1" class="reference"><a href="#cite_note-unitel-5">[5]</a></sup><sup id="cite_ref-adobo_6-1" class="reference"><a href="#cite_note-adobo-6">[6]</a></sup></td>
+</tr>
+</table>
+<ul>
+<li>Published by Adarna House</li>
+</ul>
+<table class="wikitable">
+<tr>
+<th align="left">Year of release</th>
+<th align="left">Title</th>
+<th align="left">Notes</th>
+</tr>
+<tr>
+<td align="center">2002</td>
+<td align="center"><i>After Eden</i></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">2005</td>
+<td align="center"><i><a href="/wiki/The_Mythology_Class" title="The Mythology Class">The Mythology Class</a> Special Collected Edition</i></td>
+<td align="center">Winner, Best Comic Book - 2000 Manila Critics Circle National Book Awards<sup id="cite_ref-ncca_1-4" class="reference"><a href="#cite_note-ncca-1">[1]</a></sup></td>
+</tr>
+</table>
+<ul>
+<li>Published by Nautilus Comics</li>
+</ul>
+<table class="wikitable">
+<tr>
+<th align="left">Year of release</th>
+<th align="left">Title</th>
+<th align="left">Notes</th>
+</tr>
+<tr>
+<td align="center">2008</td>
+<td align="center"><i>Martial Law Babies</i></td>
+<td></td>
+</tr>
+</table>
+<ul>
+<li>Commissioned Work
+<ul>
+<li>Pencils, Inks and Colors for "Rodski Patotski: Ang Dalagang Baby" by <a href="/wiki/Gerry_Alanguilan" title="Gerry Alanguilan">Gerry Alanguilan</a> (2014, Komikero Publishing)<sup id="cite_ref-rodski-inquirer_2-1" class="reference"><a href="#cite_note-rodski-inquirer-2">[2]</a></sup><sup id="cite_ref-rodskilevel60_19-0" class="reference"><a href="#cite_note-rodskilevel60-19">[19]</a></sup></li>
+<li>Pencils, Inks, and Colors for "Stargazer" by <a href="/w/index.php?title=Luis_Katigbak&amp;action=edit&amp;redlink=1" class="new" title="Luis Katigbak (page does not exist)">Luis Katigbak</a> (2014, The Philippine Star)<sup id="cite_ref-stargazer_20-0" class="reference"><a href="#cite_note-stargazer-20">[20]</a></sup></li>
+<li>Pencils, Inks and Colors for <i>La Perdida</i>, <i>Graphic Classics Volume 20: Western Classics</i> (2010, Eureka Productions)</li>
+<li>Pencils, Inks and Colors for <i>A Whisper in the Dark</i>, <i>Graphic Classics Volume 18:<a href="/wiki/Louisa_May_Alcott" title="Louisa May Alcott">Louisa May Alcott</a></i> (2009, Eureka Productions)</li>
+<li>Pencils, Inks and Colors <i>The Wit of Porportuk</i>, <i>Graphic Classics Volume 2:<a href="/wiki/Jack_London" title="Jack London">Jack London</a></i> (2006, Eureka Productions)</li>
+<li>Illustration for <i>Graphic Classics:<a href="/wiki/Sir_Arthur_Conan_Doyle" class="mw-redirect" title="Sir Arthur Conan Doyle">Sir Arthur Conan Doyle</a></i> (2002, Eureka Productions)</li>
+<li>Illustration for <i>Graphic Classics: <a href="/wiki/H._P._Lovecraft" title="H. P. Lovecraft">H. P. Lovecraft</a></i> (2002, Eureka Productions)</li>
+<li>Cover for <i>Graphic Classics: <a href="/wiki/Jack_London" title="Jack London">Jack London</a></i> volume 1 (2003, Eureka Productions)</li>
+<li>Pencils and Inks for <i><a href="/wiki/Lastikman" title="Lastikman">Lastikman</a></i> (2004, Mango Comics)</li>
+<li>21-page comic for <i>Graphic Classics:<a href="/wiki/Jack_London" title="Jack London">Jack London</a></i> volume 2 - <i>The Wit of Porportuk</i> (2006, Eureka Productions)</li>
+<li>Illustrated for <i><a href="/w/index.php?title=Cast_(comic)&amp;action=edit&amp;redlink=1" class="new" title="Cast (comic) (page does not exist)">Cast</a>:Issue 10</i> by Jamie Bautista (2006, Nautilus Comics)</li>
+<li>Illustrated for <i><a href="/w/index.php?title=Cast_(comic)&amp;action=edit&amp;redlink=1" class="new" title="Cast (comic) (page does not exist)">Cast</a>:Issue 11</i> by Jamie Bautista (2007, Nautilus Comics)</li>
+<li>Illustrated for <i>Private Iris'<sup id="cite_ref-iris_21-0" class="reference"><a href="#cite_note-iris-21">[21]</a></sup></i></li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Design_Projects">Design Projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=5" title="Edit section: Design Projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Album packaging illustration:</li>
+</ul>
+<table class="wikitable">
+<tr>
+<th align="left">Year of release</th>
+<th align="left">Title</th>
+<th align="left">Notes</th>
+</tr>
+<tr>
+<td align="center">1996</td>
+<td align="center"><i>Revenge of the Fishlips</i>
+<p>Keltscross</p>
+</td>
+<td align="center">Released by <a href="/wiki/Bertelsmann_Music_Group" title="Bertelsmann Music Group">BMG Records Pilipinas, Inc.</a></td>
+</tr>
+<tr>
+<td align="center">2001</td>
+<td align="center"><i>Little Monsters Under Your Bed</i>
+<p>The <a href="/wiki/Itchyworms" title="Itchyworms">Itchyworms</a></p>
+</td>
+<td align="center">Released by <a href="/wiki/Viva_Records_(Philippines)" title="Viva Records (Philippines)">Viva Records</a></td>
+</tr>
+<tr>
+<td align="center">2001</td>
+<td align="center"><i>One More</i>
+<p><a href="/wiki/Ryan_Cayabyab" title="Ryan Cayabyab">Ryan Cayabyab</a></p>
+</td>
+<td align="center">Released by BMG Records Pilipinas, Inc</td>
+</tr>
+<tr>
+<td align="center">2002</td>
+<td align="center"><i>Sacred Works of Ryan Cayabyab</i>
+<p><a href="/wiki/Ryan_Cayabyab" title="Ryan Cayabyab">Ryan Cayabyab</a></p>
+</td>
+<td align="center">Released by BMG Records Pilipinas, Inc</td>
+</tr>
+<tr>
+<td align="center">2004</td>
+<td align="center"><i>Great Original Pilipino Music</i>
+<p><a href="/wiki/Ryan_Cayabyab" title="Ryan Cayabyab">Ryan Cayabyab</a></p>
+</td>
+<td align="center">Released by BMG Records Pilipinas, Inc</td>
+</tr>
+<tr>
+<td align="center">2004</td>
+<td align="center"><i>The Eraserheads Anthology</i>
+<p>The <a href="/wiki/Eraserheads" title="Eraserheads">Eraserheads</a></p>
+</td>
+<td align="center">Released by BMG Records Pilipinas, Inc</td>
+</tr>
+<tr>
+<td align="center">2004</td>
+<td align="center"><i>Bomb Threat</i>
+<p>Sexbomb Girls</p>
+</td>
+<td align="center">Released by BMG Records Pilipinas, Inc
+<p>Finalist, Best Music Packaging Awit Awards</p>
+</td>
+</tr>
+<tr>
+<td align="center">2005</td>
+<td align="center"><i>Sharon Sings Alcasid</i>
+<p><a href="/wiki/Sharon_Cuneta" title="Sharon Cuneta">Sharon Cuneta</a></p>
+</td>
+<td align="center">Released by <a href="/wiki/Sony_BMG" title="Sony BMG">Sony BMG Music Entertainment</a></td>
+</tr>
+<tr>
+<td align="center">2005</td>
+<td align="center"><i>UltraelectromagneticJam</i>
+<p>Tribute album for the <a href="/wiki/Eraserheads" title="Eraserheads">Eraserheads</a></p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment
+<p>Finalist, Best Music Packaging Awit Awards</p>
+</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: Sandwich</i>
+<p><a href="/wiki/Sandwich" title="Sandwich">Sandwich</a></p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: Yano</i>
+<p><a href="/wiki/Yano" title="Yano">Yano</a></p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: Color it Red</i>
+<p>Color it Red</p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: Sugar Hiccup</i>
+<p>Sugar Hiccup</p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: The Company</i>
+<p>The Company</p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: Wolfgang</i>
+<p><a href="/wiki/Wolfgang_(band)" title="Wolfgang (band)">Wolfgang</a></p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: Francis M</i>
+<p><a href="/wiki/Francis_M" class="mw-redirect" title="Francis M">Francis M</a></p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: Razorback</i>
+<p><a href="/wiki/Razorback" class="mw-redirect" title="Razorback">Razorback</a></p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: Mojofly</i>
+<p><a href="/wiki/Mojofly" class="mw-redirect" title="Mojofly">Mojofly</a></p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>The 2-in-1 Series: Grace Nono</i>
+<p><a href="/wiki/Grace_Nono" title="Grace Nono">Grace Nono</a></p>
+</td>
+<td align="center">Released by Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>All Seats are Taken</i>
+<p><a href="/wiki/The_Pin-Ups" title="The Pin-Ups">The Pin-up Girls</a></p>
+</td>
+<td align="center">Released by Sutton Records</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>Eraserheads Anthology Two</i>
+<p>The <a href="/wiki/Eraserheads" title="Eraserheads">Eraserheads</a></p>
+</td>
+<td align="center">Sony BMG Music Entertainment</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center"><i>Bandang Pinoy, Lasang Hotdog</i>
+<p>Tribute Album for Hotdog</p>
+</td>
+<td align="center">Sony BMG Music Entertainment</td>
+</tr>
+</table>
+<ul>
+<li>Others:</li>
+</ul>
+<table class="wikitable">
+<tr>
+<th align="left">Year</th>
+<th align="left">Project</th>
+<th align="left">Notes</th>
+</tr>
+<tr>
+<td align="center">2005–2006</td>
+<td align="center">Wall mural for <a href="/wiki/RF_Online" title="RF Online">RF Online</a></td>
+<td align="center">Commissioned by <a href="/wiki/Leo_Burnett_Worldwide" title="Leo Burnett Worldwide">Arc Worldwide</a>/RF Online Philippines
+<p>Situated at the basement level of <a href="/wiki/SM_Megamall" title="SM Megamall">SM Megamall</a> from November 2005 to May 2006</p>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=6" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>19th Manila Critics Circle National Book Awards (1999): Winner, Best Comic Book, <i><a href="/wiki/The_Mythology_Class" title="The Mythology Class">The Mythology Class</a></i></li>
+<li>20th Manila Critics Circle National Book Awards (2000): Winner, Best Comic Book, <i><a href="/wiki/Trip_to_Tagaytay" title="Trip to Tagaytay">Trip to Tagaytay</a></i></li>
+<li>22nd Manila Critics Circle National Book Awards (2002): Finalist, Best Comic Book, <i><a href="/w/index.php?title=After_Eden_(comic_book)&amp;action=edit&amp;redlink=1" class="new" title="After Eden (comic book) (page does not exist)">After Eden</a></i></li>
+<li>25th Gawad CCP for Alternative Film and Video (2013): 1st Prize Winner, Animation Category, <i>Milkyboy</i></li>
+<li>7th Animahenasyon (Philippine Animation Festival) (2013): Best Screenplay, <i>Milkyboy</i></li>
+<li>7th Animahenasyon (Philippine Animation Festival) (2013): Special Jury Prize, <i>Andong Agimat: Kanya ang Kalye</i></li>
+<li>7th Animahenasyon (Philippine Animation Festival) (2013): Best Music Video, <i>Kaninong Anino</i></li>
+<li>30th Los Angeles Asian Pacific Film Festival (2014): Winner, Linda Mabalot New Directors/New Visions Award, <i>Milkyboy</i></li>
+</ul>
+<h2><span class="mw-headline" id="Exhibits">Exhibits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=7" title="Edit section: Exhibits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Mythos (2000)- Crucible Gallery, SM Megamall</li>
+<li>Filipino Art and Artists Exhibition (2001)- Gallery 139, Glorietta 4</li>
+<li>Filipino Art and Artists Exhibition (2001)- San Francisco and New Jersey, USA</li>
+<li>Episode 3 Group Exhibit (2003)- Robinson's Galleria</li>
+<li>ROMIX Italian Comics Festival (2003)- Rome, Italy</li>
+</ul>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=8" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>St. Martin Technical Institute, <a href="/wiki/Mandaluyong_City" class="mw-redirect" title="Mandaluyong City">Mandaluyong City</a> (1978–79)</li>
+<li><a href="/wiki/Lourdes_School_of_Mandaluyong" title="Lourdes School of Mandaluyong">Lourdes School of Mandaluyong</a>, <a href="/wiki/Mandaluyong_City" class="mw-redirect" title="Mandaluyong City">Mandaluyong City</a> (1979–80)</li>
+<li>Cainta Catholic School, <a href="/wiki/Cainta" title="Cainta">Cainta</a>, <a href="/wiki/Rizal" title="Rizal">Rizal</a> (1980–89)</li>
+<li><a href="/wiki/University_of_the_Philippines" title="University of the Philippines">University of the Philippines</a>, Diliman, <a href="/wiki/Quezon_City" title="Quezon City">Quezon City</a> (1989–94)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ncca-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ncca_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ncca_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ncca_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ncca_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ncca_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Alba, Reinero. <a rel="nofollow" class="external text" href="http://ncca.gov.ph/about-culture-and-arts/articles-on-c-n-a/article.php?igm=1&amp;i=144">"The Manila Critics Circle and the National Book Awards List of Past Winners"</a>. <i>National Commission for Culture and the Arts Website</i>. National Commission for Culture and the Arts (NCCA)<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=The+Manila+Critics+Circle+and+the+National+Book+Awards+List+of+Past+Winners&amp;rft.aufirst=Reinero&amp;rft.aulast=Alba&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fncca.gov.ph%2Fabout-culture-and-arts%2Farticles-on-c-n-a%2Farticle.php%3Figm%3D1%26i%3D144&amp;rft.jtitle=National+Commission+for+Culture+and+the+Arts+Website&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rodski-inquirer-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-rodski-inquirer_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rodski-inquirer_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">De Vera, Ruel (12 May 2014). <a rel="nofollow" class="external text" href="http://lifestyle.inquirer.net/159688/2-local-comic-book-stars-collaborate-in-rodski-patotski">"2 local comic book stars collaborate in 'Rodski Patotski<span style="padding-right:0.2em;">'</span>"</a>. <i>Philippine Daily Inquirer</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=2+local+comic+book+stars+collaborate+in+%98Rodski+Patotski%99&amp;rft.aufirst=Ruel&amp;rft.aulast=De+Vera&amp;rft.date=2014-05-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flifestyle.inquirer.net%2F159688%2F2-local-comic-book-stars-collaborate-in-rodski-patotski&amp;rft.jtitle=Philippine+Daily+Inquirer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://article.wn.com/view/2000/05/01/Filipino_Fantasia_nbsp/">"Filipino Fantasia"</a>. wn.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.btitle=Filipino+Fantasia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farticle.wn.com%2Fview%2F2000%2F05%2F01%2FFilipino_Fantasia_nbsp%2F&amp;rft.pub=wn.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://202.124.128.45/v2007/sections/achievers/?details&amp;id=15">"Certified Achiever: Arnold Arre"</a>. GlobalPinoy.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.btitle=Certified+Achiever%3A+Arnold+Arre&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2F202.124.128.45%2Fv2007%2Fsections%2Fachievers%2F%3Fdetails%26id%3D15&amp;rft.pub=GlobalPinoy.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-unitel-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-unitel_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-unitel_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">San Diego, Bayani (October 7, 2007). <a rel="nofollow" class="external text" href="http://showbizandstyle.inquirer.net/entertainment/entertainment/view/20071007-93095/%91Andong_Agimat%92_to_the_US_film_mart">"<span style="padding-left:0.2em;">'</span>Andong Agimat' to the US film mart"</a>. <i>Philippine Daily Inquirer</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=%98Andong+Agimat%99+to+the+US+film+mart&amp;rft.aufirst=Bayani&amp;rft.aulast=San+Diego&amp;rft.date=2007-10-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fshowbizandstyle.inquirer.net%2Fentertainment%2Fentertainment%2Fview%2F20071007-93095%2F%2591Andong_Agimat%2592_to_the_US_film_mart&amp;rft.jtitle=Philippine+Daily+Inquirer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-adobo-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-adobo_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-adobo_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.adobomagazine.com/content-no-longer-fantasy-unitel">"Content No Longer A Fantasy for Unitel"</a>. Adobo Magazine<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.btitle=Content+No+Longer+A+Fantasy+for+Unitel&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.adobomagazine.com%2Fcontent-no-longer-fantasy-unitel&amp;rft.pub=Adobo+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-komikon-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-komikon_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Uy, Jerald. <a rel="nofollow" class="external text" href="http://www.jeralduy.com/2014/04/arnold-arre-summer-komikon-2014.html">"Arnold Arre: Secrets of a Komiks King"</a>. <i>JeraldUy.com</i>. Komikon News Journal.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=Arnold+Arre%3A+Secrets+of+a+Komiks+King&amp;rft.aufirst=Jerald&amp;rft.aulast=Uy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.jeralduy.com%2F2014%2F04%2Farnold-arre-summer-komikon-2014.html&amp;rft.jtitle=JeraldUy.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.gmanetwork.com/news/story/243090/lifestyle/artandculture/rocked-s-kaninong-anino-video-if-jose-rizal-were-alive-today">"RockEd's 'Kaninong Anino' video: If Jose Rizal were alive today"</a>. <i>GMA News Online</i>. December 30, 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=RockEd%27s+%27Kaninong+Anino%27+video%3A+If+Jose+Rizal+were+alive+today&amp;rft.date=2011-12-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.gmanetwork.com%2Fnews%2Fstory%2F243090%2Flifestyle%2Fartandculture%2Frocked-s-kaninong-anino-video-if-jose-rizal-were-alive-today&amp;rft.jtitle=GMA+News+Online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://ph.news.yahoo.com/a-modern--lupang-hinirang--video-for-the-modern-times.html">"A modern 'Lupang Hinirang' video for the modern times"</a>. <i>Yahoo News! Philippines</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 12,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=A+modern+%27Lupang+Hinirang%27+video+for+the+modern+times&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fph.news.yahoo.com%2Fa-modern--lupang-hinirang--video-for-the-modern-times.html&amp;rft.jtitle=Yahoo+News%21+Philippines&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Geronimo, Gian (September 21, 2012). <a rel="nofollow" class="external text" href="http://www.gmanetwork.com/news/story/275019/lifestyle/artandculture/animation-video-to-remind-pinoy-youth-about-the-value-of-freedom">"Animation video to remind Pinoy youth about the value of freedom"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=Animation+video+to+remind+Pinoy+youth+about+the+value+of+freedom&amp;rft.aufirst=Gian&amp;rft.aulast=Geronimo&amp;rft.date=2012-09-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.gmanetwork.com%2Fnews%2Fstory%2F275019%2Flifestyle%2Fartandculture%2Fanimation-video-to-remind-pinoy-youth-about-the-value-of-freedom&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-manifesto-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-manifesto_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">De Veyra, Ramon. <a rel="nofollow" class="external text" href="http://www.manifesto.com.ph/culture/culture-blog-arnold-arres-milkyboy-teaser">"Culture Blog"</a>. <i>Arnold Arre's Milkyboy Teaser</i>. Manifesto.com.ph<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=Culture+Blog&amp;rft.aufirst=Ramon&amp;rft.aulast=De+Veyra&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.manifesto.com.ph%2Fculture%2Fculture-blog-arnold-arres-milkyboy-teaser&amp;rft.jtitle=Arnold+Arre%27s+Milkyboy+Teaser&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-gma-milkyboy-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-gma-milkyboy_12-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a href="/wiki/TJ_Dimacali" title="TJ Dimacali">Dimacali, TJ</a> (August 13, 2013). <a rel="nofollow" class="external text" href="http://www.gmanetwork.com/news/story/321835/scitech/geeksandgaming/pinoy-comics-artist-arnold-arre-teases-milky-boy-animated-film">"Pinoy comics artist Arnold Arre teases 'Milky Boy' animated film"</a>. <i>GMA Network News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=Pinoy+comics+artist+Arnold+Arre+teases+%27Milky+Boy%27+animated+film&amp;rft.aufirst=TJ&amp;rft.aulast=Dimacali&amp;rft.date=2013-08-13&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.gmanetwork.com%2Fnews%2Fstory%2F321835%2Fscitech%2Fgeeksandgaming%2Fpinoy-comics-artist-arnold-arre-teases-milky-boy-animated-film&amp;rft.jtitle=GMA+Network+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-gawad-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-gawad_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gawad_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://culturalcenter.gov.ph/pressreleases/press-releases/winners-of-ika-25-gawad-ccp-para-sa-alternatibong-pelikula-at-video-named/">"WINNERS OF IKA-25 GAWAD CCP PARA SA ALTERNATIBONG PELIKULA AT VIDEO NAMED"</a>. Cultural Center of the Philippines<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.btitle=WINNERS+OF+IKA-25+GAWAD+CCP+PARA+SA+ALTERNATIBONG+PELIKULA+AT+VIDEO+NAMED&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fculturalcenter.gov.ph%2Fpressreleases%2Fpress-releases%2Fwinners-of-ika-25-gawad-ccp-para-sa-alternatibong-pelikula-at-video-named%2F&amp;rft.pub=Cultural+Center+of+the+Philippines&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-animahenasyon-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-animahenasyon_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-animahenasyon_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-animahenasyon_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-animahenasyon_14-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-animahenasyon_14-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.animahenasyon.com/2013/124/ANIMAHENASYON-2013-WINNERS">"Animahenasyon 2013 Winners"</a>. Animation Council of the Philippines<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.btitle=Animahenasyon+2013+Winners&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.animahenasyon.com%2F2013%2F124%2FANIMAHENASYON-2013-WINNERS&amp;rft.pub=Animation+Council+of+the+Philippines&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-laapff-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-laapff_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-laapff_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.filmfestivals.com/blog/editor/winners_announced_2014_laapff_los_angeles_asian_pacific_film_festival?page=12">"Winners announced - 2014 LAAPFF (Los Angeles Asian Pacific Film Festival)"</a>. FilmFestivals.com<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.btitle=Winners+announced+-+2014+LAAPFF+%28Los+Angeles+Asian+Pacific+Film+Festival%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.filmfestivals.com%2Fblog%2Feditor%2Fwinners_announced_2014_laapff_los_angeles_asian_pacific_film_festival%3Fpage%3D12&amp;rft.pub=FilmFestivals.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-hollywoodtimes-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-hollywoodtimes_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Milano, Valerie. <a rel="nofollow" class="external text" href="http://thehollywoodtimesdotorg.com/2014/05/10/los-angeles-asian-pacific-film-festival/">"LOS ANGELES ASIAN PACIFIC FILM FESTIVAL"</a>. The Hollywood Times<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.aufirst=Valerie&amp;rft.aulast=Milano&amp;rft.btitle=LOS+ANGELES+ASIAN+PACIFIC+FILM+FESTIVAL&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fthehollywoodtimesdotorg.com%2F2014%2F05%2F10%2Flos-angeles-asian-pacific-film-festival%2F&amp;rft.pub=The+Hollywood+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mabalot-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-mabalot_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://asianfilmfestla.org/2014/introducing-our-2014-competition-slate-of-films/">"Introducing: OUR 2014 COMPETITION SLATE OF FILMS"</a>. LAAPFF<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.btitle=Introducing%3A+OUR+2014+COMPETITION+SLATE+OF+FILMS&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fasianfilmfestla.org%2F2014%2Fintroducing-our-2014-competition-slate-of-films%2F&amp;rft.pub=LAAPFF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.spot.ph/peopleparties/52799/cool-couples-story/4">"Cool Coupling: 11 of Manila's Most Beloved Couples"</a>. <i>Philippines' most loved artist couple: Arnold Arre and Cynthia Bauzon-Arre</i>. Spot.PH<span class="reference-accessdate">. Retrieved <span class="nowrap">Feb 11,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=Cool+Coupling%3A+11+of+Manila%27s+Most+Beloved+Couples&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.spot.ph%2Fpeopleparties%2F52799%2Fcool-couples-story%2F4&amp;rft.jtitle=Philippines%27+most+loved+artist+couple%3A+Arnold+Arre+and+Cynthia+Bauzon-Arre&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rodskilevel60-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-rodskilevel60_19-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.philstar.com/lifestyle-features/2014/04/14/1312568/rodski-patotski-level-60">"Rodski Patotski is a Level 60"</a>. <i>Philippine Star</i>. April 14, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=Rodski+Patotski+is+a+Level+60&amp;rft.date=2014-04-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.philstar.com%2Flifestyle-features%2F2014%2F04%2F14%2F1312568%2Frodski-patotski-level-60&amp;rft.jtitle=Philippine+Star&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-stargazer-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-stargazer_20-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.philstar.com/young-star/2013/10/11/1243912/stargazer">"Stargazer"</a>. <i>Philippine Star</i>. October 11, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=Stargazer&amp;rft.date=2013-10-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.philstar.com%2Fyoung-star%2F2013%2F10%2F11%2F1243912%2Fstargazer&amp;rft.jtitle=Philippine+Star&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-iris-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-iris_21-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Ong, J. Vincent Sarabia (May 2, 2009). <a rel="nofollow" class="external text" href="http://www.philstar.com/supreme/462889/case-curious-comics-creator">"The case of a curious comics creator"</a>. <i>Philippine Star</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arre&amp;rft.atitle=The+case+of+a+curious+comics+creator&amp;rft.aufirst=J.+Vincent+Sarabia&amp;rft.aulast=Ong&amp;rft.date=2009-05-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.philstar.com%2Fsupreme%2F462889%2Fcase-curious-comics-creator&amp;rft.jtitle=Philippine+Star&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Publishers">Publishers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit&amp;section=10" title="Edit section: Publishers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060510164042/http://www.adarnahouse.com.ph:80/">Adarna House, publisher of After Eden and The Mythology Class Special Collected Edition</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nautiluscomics.com">Nautilus Comics, printer and distributor of Ang Mundo ni Andong Agimat</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/29226490">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/29226490">29226490</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2239
+Cached time: 20170422080628
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.232 seconds
+Real time usage: 0.285 seconds
+Preprocessor visited node count: 1513/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38814/2097152 bytes
+Template argument size: 1070/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 0/500
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 3.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  246.497      1 -total
+ 47.30%  116.588      1 Template:Reflist
+ 30.70%   75.684      1 Template:Infobox_comics_creator
+ 26.71%   65.844      1 Template:Infobox
+ 26.48%   65.284     12 Template:Cite_web
+ 12.90%   31.806      1 Template:Authority_control
+ 12.14%   29.916      9 Template:Cite_news
+  8.00%   19.720      2 Template:Br_separated_entries
+  3.85%    9.496      1 Template:Comics_infobox_sec/creator_nat
+  3.60%    8.868      1 Template:Birth_date_and_age
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4914108-0!*!0!!en!*!* and timestamp 20170422080627 and revision id 754603116
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arnold_Arre&amp;oldid=754603116">https://en.wikipedia.org/w/index.php?title=Arnold_Arre&amp;oldid=754603116</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Filipino_writers" title="Category:Filipino writers">Filipino writers</a></li><li><a href="/wiki/Category:Filipino_artists" title="Category:Filipino artists">Filipino artists</a></li><li><a href="/wiki/Category:Filipino_illustrators" title="Category:Filipino illustrators">Filipino illustrators</a></li><li><a href="/wiki/Category:People_from_Quezon_City" title="Category:People from Quezon City">People from Quezon City</a></li><li><a href="/wiki/Category:Writers_from_Metro_Manila" title="Category:Writers from Metro Manila">Writers from Metro Manila</a></li><li><a href="/wiki/Category:Artists_from_Metro_Manila" title="Category:Artists from Metro Manila">Artists from Metro Manila</a></li><li><a href="/wiki/Category:University_of_the_Philippines_Diliman_alumni" title="Category:University of the Philippines Diliman alumni">University of the Philippines Diliman alumni</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:1971_births" title="Category:1971 births">1971 births</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Comics_nation_sweep" title="Category:Comics nation sweep">Comics nation sweep</a></li><li><a href="/wiki/Category:Comics_infobox_without_image" title="Category:Comics infobox without image">Comics infobox without image</a></li><li><a href="/wiki/Category:Comics_creator_pop" title="Category:Comics creator pop">Comics creator pop</a></li><li><a href="/wiki/Category:Comics_creator_BLP_pop" title="Category:Comics creator BLP pop">Comics creator BLP pop</a></li><li><a href="/wiki/Category:Track_variant_DoB" title="Category:Track variant DoB">Track variant DoB</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Arnold+Arre" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arnold+Arre" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Arnold_Arre"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Arnold_Arre"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Arnold_Arre" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Arnold_Arre&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arnold_Arre&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arnold_Arre" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arnold_Arre" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arnold_Arre&amp;oldid=754603116" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arnold_Arre&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4794951" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arnold_Arre&amp;id=754603116" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arnold+Arre">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Arnold+Arre&amp;returnto=Arnold+Arre&amp;oldid=754603116&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Arnold_Arre&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4794951#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 December 2016, at 15:06.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arnold_Arre&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.285","ppvisitednodes":{"value":1513,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38814,"limit":2097152},"templateargumentsize":{"value":1070,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  246.497      1 -total"," 47.30%  116.588      1 Template:Reflist"," 30.70%   75.684      1 Template:Infobox_comics_creator"," 26.71%   65.844      1 Template:Infobox"," 26.48%   65.284     12 Template:Cite_web"," 12.90%   31.806      1 Template:Authority_control"," 12.14%   29.916      9 Template:Cite_news","  8.00%   19.720      2 Template:Br_separated_entries","  3.85%    9.496      1 Template:Comics_infobox_sec/creator_nat","  3.60%    8.868      1 Template:Birth_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.106","limit":"10.000"},"limitreport-memusage":{"value":3533198,"limit":52428800}},"cachereport":{"origin":"mw2239","timestamp":"20170422080628","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":358,"wgHostname":"mw2239"});});</script>
+	</body>
+</html>

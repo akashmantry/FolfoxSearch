@@ -1,0 +1,377 @@
+https://en.wikipedia.org/wiki/Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Assistant Secretary of the Army (Financial Management and Comptroller) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)","wgTitle":"Assistant Secretary of the Army (Financial Management and Comptroller)","wgCurRevisionId":759100067,"wgRevisionId":759100067,"wgArticleId":30109448,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from May 2011","Wikipedia articles incorporating text from the United States Army","Wikipedia articles incorporating text from public domain works of the United States Government","United States Army civilians"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)","wgRelevantArticleId":30109448,"wgRequestId":"WPls9QrAIEUAAGKoM5sAAAEO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4809031","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_the_Assistant_Secretary_of_the_Army.gif"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Assistant_Secretary_of_the_Army_Financial_Management_and_Comptroller rootpage-Assistant_Secretary_of_the_Army_Financial_Management_and_Comptroller skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Assistant Secretary of the Army (Financial Management and Comptroller)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">United States<br />
+Assistant Secretary of the Army<br />
+(Financial Management and Comptroller)</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.4em; border-bottom:solid 1px #ccd2d9;"><a href="/wiki/File:Flag_of_the_Assistant_Secretary_of_the_Army.gif" class="image"><img alt="Flag of the Assistant Secretary of the Army.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_the_Assistant_Secretary_of_the_Army.gif/180px-Flag_of_the_Assistant_Secretary_of_the_Army.gif" width="180" height="150" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_the_Assistant_Secretary_of_the_Army.gif/270px-Flag_of_the_Assistant_Secretary_of_the_Army.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_the_Assistant_Secretary_of_the_Army.gif 2x" data-file-width="307" data-file-height="256" /></a></td>
+</tr>
+<tr>
+<th scope="row">Formation</th>
+<td>1954</td>
+</tr>
+<tr>
+<th scope="row">First holder</th>
+<td><a href="/wiki/George_H._Roderick" title="George H. Roderick">George H. Roderick</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.asafm.army.mil/offices/office.aspx?officecode=1000">Official Website</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:ASA_FMC.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/ASA_FMC.png/200px-ASA_FMC.png" width="200" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/a/ad/ASA_FMC.png 1.5x" data-file-width="235" data-file-height="235" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ASA_FMC.png" class="internal" title="Enlarge"></a></div>
+Seal of the Office of the Assistant Secretary of the Army (Financial Management and Comptroller)</div>
+</div>
+</div>
+<p><b>Assistant Secretary of the Army (Financial Management and Comptroller)</b> (abbreviated <b>ASA(FM&amp;C)</b>) is a civilian office in the <a href="/wiki/United_States_Department_of_the_Army" title="United States Department of the Army">United States Department of the Army</a>.</p>
+<p>The office of Assistant Secretary of the Army (Financial Management and Comptroller) grows out of a reorganization of the Department of the Army initiated in 1954 by <a href="/wiki/United_States_Secretary_of_the_Army" title="United States Secretary of the Army">United States Secretary of the Army</a> <a href="/wiki/Robert_T._Stevens" title="Robert T. Stevens">Robert T. Stevens</a> and largely designed by <a href="/wiki/United_States_Under_Secretary_of_the_Army" title="United States Under Secretary of the Army">United States Under Secretary of the Army</a> <a href="/wiki/John_Slezak" title="John Slezak">John Slezak</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>The mission of the Assistant Secretary of the Army (Financial Management and Comptroller) is to formulate, submit, and defend the <a href="/wiki/United_States_Army" title="United States Army">United States Army</a>'s budget to the <a href="/wiki/United_States_Congress" title="United States Congress">United States Congress</a> and the American public; to oversee the proper and effective use of <a href="/wiki/Appropriation_(law)" title="Appropriation (law)">appropriated</a> resources to accomplish the Army's assigned missions; to provide timely, accurate, and reliable financial information to enable leaders and managers to incorporate cost considerations into their decision-making; to provide transparent reporting to Congress and the American public on the use of appropriated resources and the achievement of established Army-wide performance objectives; and manage and coordinate programs for the accession, training, and professional development of Army resource managers.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="List_of_Assistant_Secretaries_of_the_Army_.28Financial_Management_and_Comptroller.29.2C_1954.E2.80.94Present_.28incomplete.29">List of Assistant Secretaries of the Army (Financial Management and Comptroller), 1954—Present (incomplete)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;action=edit&amp;section=1" title="Edit section: List of Assistant Secretaries of the Army (Financial Management and Comptroller), 1954—Present (incomplete)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Name</th>
+<th>Assumed Office</th>
+<th>Left Office</th>
+<th><a href="/wiki/President_of_the_United_States" title="President of the United States">President</a> Appointed By</th>
+<th><a href="/wiki/United_States_Secretary_of_the_Army" title="United States Secretary of the Army">Secretary</a> Served Under</th>
+</tr>
+<tr>
+<td><a href="/wiki/George_H._Roderick" title="George H. Roderick">George H. Roderick</a><sup id="cite_ref-administration381_3-0" class="reference"><a href="#cite_note-administration381-3">[3]</a></sup></td>
+<td><span class="nowrap">9 February 1954</span></td>
+<td>25 August 1954</td>
+<td><a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">Dwight D. Eisenhower</a></td>
+<td><a href="/wiki/Robert_T._Stevens" title="Robert T. Stevens">Robert T. Stevens</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Charles_C._Finucane" title="Charles C. Finucane">Charles C. Finucane</a><sup id="cite_ref-administration381_3-1" class="reference"><a href="#cite_note-administration381-3">[3]</a></sup></td>
+<td>26 August 1954</td>
+<td>8 February 1955</td>
+<td><a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">Dwight D. Eisenhower</a></td>
+<td><a href="/wiki/Robert_T._Stevens" title="Robert T. Stevens">Robert T. Stevens</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Chester_R._Davis" title="Chester R. Davis">Chester R. Davis</a><sup id="cite_ref-administration381_3-2" class="reference"><a href="#cite_note-administration381-3">[3]</a></sup></td>
+<td>10 March 1955</td>
+<td>15 December 1956</td>
+<td><a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">Dwight D. Eisenhower</a></td>
+<td><a href="/wiki/Robert_T._Stevens" title="Robert T. Stevens">Robert T. Stevens</a>, <a href="/wiki/Wilber_M._Brucker" title="Wilber M. Brucker">Wilber M. Brucker</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/George_H._Roderick" title="George H. Roderick">George H. Roderick</a><sup id="cite_ref-administration381_3-3" class="reference"><a href="#cite_note-administration381-3">[3]</a></sup></td>
+<td>1 March 1957</td>
+<td>20 January 1961</td>
+<td><a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">Dwight D. Eisenhower</a></td>
+<td><a href="/wiki/Wilber_M._Brucker" title="Wilber M. Brucker">Wilber M. Brucker</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/William_F._Schaub" title="William F. Schaub">William F. Schaub</a><sup id="cite_ref-administration381_3-4" class="reference"><a href="#cite_note-administration381-3">[3]</a></sup></td>
+<td>2 March 1961</td>
+<td>31 December 1962</td>
+<td><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a></td>
+<td><a href="/wiki/Elvis_Jacob_Stahr,_Jr." class="mw-redirect" title="Elvis Jacob Stahr, Jr.">Elvis Jacob Stahr, Jr.</a>, <a href="/wiki/Cyrus_Vance" title="Cyrus Vance">Cyrus Vance</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Edmund_T._Pratt,_Jr." class="mw-redirect" title="Edmund T. Pratt, Jr.">Edmund T. Pratt, Jr.</a><sup id="cite_ref-administration381_3-5" class="reference"><a href="#cite_note-administration381-3">[3]</a></sup></td>
+<td>23 March 1963</td>
+<td>25 November 1964</td>
+<td><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a>, <a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">Lyndon B. Johnson</a></td>
+<td><a href="/wiki/Cyrus_Vance" title="Cyrus Vance">Cyrus Vance</a>, <a href="/wiki/Stephen_Ailes" title="Stephen Ailes">Stephen Ailes</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Michael_P._W._Stone" title="Michael P. W. Stone">Michael P. W. Stone</a></td>
+<td>May 27, 1986</td>
+<td>May 12, 1988</td>
+<td><a href="/wiki/Ronald_Reagan" title="Ronald Reagan">Ronald Reagan</a></td>
+<td><a href="/wiki/Frank_Carlucci" title="Frank Carlucci">Frank Carlucci</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ken_Kramer" title="Ken Kramer">Kenneth B. Kramer</a></td>
+<td>October 14, 1988<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
+<td>1989</td>
+<td>Ronald Reagan</td>
+<td>Frank Carlucci</td>
+</tr>
+<tr>
+<td><a href="/wiki/Douglas_A._Brook" title="Douglas A. Brook">Douglas A. Brook</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+<td>February 28, 1990<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td>
+<td>1992</td>
+<td><a href="/wiki/George_H._W._Bush" title="George H. W. Bush">George H. W. Bush</a></td>
+<td><a href="/wiki/Michael_P._W._Stone" title="Michael P. W. Stone">Michael P. W. Stone</a></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Helen_T._McCoy&amp;action=edit&amp;redlink=1" class="new" title="Helen T. McCoy (page does not exist)">Helen T. McCoy</a></td>
+<td>January 1994</td>
+<td>January 2001</td>
+<td><a href="/wiki/William_J._Clinton" class="mw-redirect" title="William J. Clinton">William J. Clinton</a></td>
+<td><a href="/w/index.php?title=Togo_D._West_Jr;_Louis_Caldera&amp;action=edit&amp;redlink=1" class="new" title="Togo D. West Jr; Louis Caldera (page does not exist)">Togo D. West Jr; Louis Caldera</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Sandra_L._Pack" title="Sandra L. Pack">Sandra L. Pack</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td>
+<td>November 2001</td>
+<td>December 2003</td>
+<td><a href="/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a></td>
+<td><a href="/wiki/Thomas_E._White" title="Thomas E. White">Thomas E. White</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Valerie_L._Baldwin" title="Valerie L. Baldwin">Valerie L. Baldwin</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></td>
+<td>July 2004</td>
+<td>2006</td>
+<td><a href="/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a></td>
+<td><a href="/wiki/Francis_J._Harvey" title="Francis J. Harvey">Francis J. Harvey</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Nelson_M._Ford" title="Nelson M. Ford">Nelson M. Ford</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
+<td>October 2006</td>
+<td>December 2007</td>
+<td><a href="/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a></td>
+<td><a href="/wiki/Francis_J._Harvey" title="Francis J. Harvey">Francis J. Harvey</a>, <a href="/wiki/Pete_Geren" title="Pete Geren">Pete Geren</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Mary_Sally_Matiella" title="Mary Sally Matiella">Mary Sally Matiella</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></td>
+<td>16 February 2010</td>
+<td>27 February 2014</td>
+<td><a href="/wiki/Barack_Obama" title="Barack Obama">Barack Obama</a></td>
+<td><a href="/wiki/John_M._McHugh" title="John M. McHugh">John M. McHugh</a></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Robert_M._Speer_(US_Army)&amp;action=edit&amp;redlink=1" class="new" title="Robert M. Speer (US Army) (page does not exist)">Robert M. Speer</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></td>
+<td>20 November 2014</td>
+<td>Present</td>
+<td><a href="/wiki/Barack_Obama" title="Barack Obama">Barack Obama</a></td>
+<td><a href="/wiki/John_M._McHugh" title="John M. McHugh">John M. McHugh</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.history.army.mil/books/root/chapter6.htm">"James E. Hewes, Jr., ',From Root to McNamara: Army Organization and Administration', (1975), pp. 233–234"</a>. History.army.mil<span class="reference-accessdate">. Retrieved <span class="nowrap">27 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;rft.btitle=James+E.+Hewes%2C+Jr.%2C+%27%2CFrom+Root+to+McNamara%3A+Army+Organization+and+Administration%27%2C+%281975%29%2C+pp.+233%93234&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.history.army.mil%2Fbooks%2Froot%2Fchapter6.htm&amp;rft.pub=History.army.mil&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.asafm.army.mil/Default.aspx">"Army Financial Management Homepage"</a>. Assistant Secretary of the Army for Financial Management and Comptroller<span class="reference-accessdate">. Retrieved <span class="nowrap">22 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;rft.btitle=Army+Financial+Management+Homepage&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.asafm.army.mil%2FDefault.aspx&amp;rft.pub=Assistant+Secretary+of+the+Army+for+Financial+Management+and+Comptroller&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-administration381-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-administration381_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-administration381_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-administration381_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-administration381_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-administration381_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-administration381_3-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.history.army.mil/books/root/appB.htm">"James E. Hewes, Jr., ',From Root to McNamara: Army Organization and Administration', (1975), pp. 381–382"</a>. History.army.mil. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110522000828/http://www.history.army.mil/books/root/appB.htm">Archived</a> from the original on 22 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">27 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;rft.btitle=James+E.+Hewes%2C+Jr.%2C+%27%2CFrom+Root+to+McNamara%3A+Army+Organization+and+Administration%27%2C+%281975%29%2C+pp.+381%93382&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.history.army.mil%2Fbooks%2Froot%2FappB.htm&amp;rft.pub=History.army.mil&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.congress.gov/nomination/100th-congress/1165?r=73">https://www.congress.gov/nomination/100th-congress/1165?r=73</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Kevin D. Jones. <a rel="nofollow" class="external text" href="http://research.nps.edu/cgi-bin/vita.cgi?p=display_vita&amp;id=1023567796">"Profile of Douglas A. Brock at the Naval Postgraduate School"</a>. Research.nps.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">27 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;rft.au=Kevin+D.+Jones&amp;rft.btitle=Profile+of+Douglas+A.+Brock+at+the+Naval+Postgraduate+School&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fresearch.nps.edu%2Fcgi-bin%2Fvita.cgi%3Fp%3Ddisplay_vita%26id%3D1023567796&amp;rft.pub=Research.nps.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.congress.gov/nomination/101st-congress/924">https://www.congress.gov/nomination/101st-congress/924</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=d9xPx5IkL5QC&amp;lpg=SL4-PA551&amp;ots=QkD7l2N74A&amp;dq=Sandra%20L.%20Pack%20%22assistant%20secretary%20of%20the%20army%22&amp;pg=SL4-PA551#v=onepage&amp;q=Sandra%20L.%20Pack%20%22assistant%20secretary%20of%20the%20army%22&amp;f=false">Nomination of Pack, <i>Congressional Record</i>, 8 Nov. 2001, p. D551</a>, <a rel="nofollow" class="external text" href="http://asafm.army.mil/Documents/OfficeDocuments/CostEconomics/acm/archives-memos//022502.pdf">Memo from Pack while Assistant Secretary</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">McIntire, Katherine (15 September 2005). <a rel="nofollow" class="external text" href="http://www.govexec.com/features/0905-15/0905-15CFOs5.htm">"Katherine McIntire Peters, "Chief Financial Officers: Army: Valerie Lynn Baldwin", ',Government Executive',, 15 Sept. 2005"</a>. Govexec.com<span class="reference-accessdate">. Retrieved <span class="nowrap">27 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;rft.aufirst=Katherine&amp;rft.aulast=McIntire&amp;rft.btitle=Katherine+McIntire+Peters%2C+%22Chief+Financial+Officers%3A+Army%3A+Valerie+Lynn+Baldwin%22%2C+%27%2CGovernment+Executive%27%2C%2C+15+Sept.+2005&amp;rft.date=2005-09-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.govexec.com%2Ffeatures%2F0905-15%2F0905-15CFOs5.htm&amp;rft.pub=Govexec.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.armytimes.com/news/2007/12/army_fordarmysec_071204w/">"<span style="padding-left:0.2em;">"</span>Ford named acting undersecretary of the Army", ',Army Times',, 5 Dec. 2007"</a>. Armytimes.com. 4 December 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">27 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;rft.btitle=%22Ford+named+acting+undersecretary+of+the+Army%22%2C+%27%2CArmy+Times%27%2C%2C+5+Dec.+2007&amp;rft.date=2007-12-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.armytimes.com%2Fnews%2F2007%2F12%2Farmy_fordarmysec_071204w%2F&amp;rft.pub=Armytimes.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.army.mil/-news/2010/02/17/34542-army-swears-in-new-financial-management-secretary/">"<span style="padding-left:0.2em;">"</span>Army swears in new financial management secretary", 17 Feb. 2010"</a>. Army.mil<span class="reference-accessdate">. Retrieved <span class="nowrap">27 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;rft.btitle=%22Army+swears+in+new+financial+management+secretary%22%2C+17+Feb.+2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.army.mil%2F-news%2F2010%2F02%2F17%2F34542-army-swears-in-new-financial-management-secretary%2F&amp;rft.pub=Army.mil&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.congress.gov/nomination/113th-congress/1559">"<span style="padding-left:0.2em;">"</span>Congressional Actions on Presidential Nomination (PN) 1559<span style="padding-right:0.2em;">"</span>"</a>. United States Congress<span class="reference-accessdate">. Retrieved <span class="nowrap">4 Dec</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;rft.btitle=%22Congressional+Actions+on+Presidential+Nomination+%28PN%29+1559%22&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.congress.gov%2Fnomination%2F113th-congress%2F1559&amp;rft.pub=United+States+Congress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.senate.gov/pagelayout/legislative/one_item_and_teasers/nom_confc.htm">"Nominations Confirmed (Civilian)"</a>. United States Senate<span class="reference-accessdate">. Retrieved <span class="nowrap">4 Dec</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAssistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;rft.btitle=Nominations+Confirmed+%28Civilian%29&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.senate.gov%2Fpagelayout%2Flegislative%2Fone_item_and_teasers%2Fnom_confc.htm&amp;rft.pub=United+States+Senate&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" />&#160;This article incorporates&#160;<a href="/wiki/Copyright_status_of_work_by_the_U.S._government" title="Copyright status of work by the U.S. government">public domain material</a> from the <a href="/wiki/United_States_Army" title="United States Army">United States Army</a> website <a rel="nofollow" class="external free" href="http://www.asafm.army.mil/Default.aspx">http://www.asafm.army.mil/Default.aspx</a>.</p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20170413125430
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.108 seconds
+Real time usage: 0.139 seconds
+Preprocessor visited node count: 806/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19566/2097152 bytes
+Template argument size: 682/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 2.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  114.338      1 -total
+ 52.44%   59.957      1 Template:Reflist
+ 40.74%   46.578      9 Template:Cite_web
+ 17.81%   20.360      1 Template:Infobox_official_post
+ 16.79%   19.197      1 Template:Use_dmy_dates
+ 15.12%   17.292      1 Template:Infobox
+  6.35%    7.262      1 Template:DMCA
+  5.49%    6.279      1 Template:Dated_maintenance_category
+  5.42%    6.197      1 Template:US_Army
+  3.68%    4.203      1 Template:FULLROOTPAGENAME
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30109448-0!*!0!!*!4!* and timestamp 20170413125429 and revision id 759100067
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;oldid=759100067">https://en.wikipedia.org/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;oldid=759100067</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:United_States_Army_civilians" title="Category:United States Army civilians">United States Army civilians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_May_2011" title="Category:Use dmy dates from May 2011">Use dmy dates from May 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_United_States_Army" title="Category:Wikipedia articles incorporating text from the United States Army">Wikipedia articles incorporating text from the United States Army</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_public_domain_works_of_the_United_States_Government" title="Category:Wikipedia articles incorporating text from public domain works of the United States Government">Wikipedia articles incorporating text from public domain works of the United States Government</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Assistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Assistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;oldid=759100067" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4809031" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Assistant_Secretary_of_the_Army_%28Financial_Management_and_Comptroller%29&amp;id=759100067" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Assistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Assistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;returnto=Assistant+Secretary+of+the+Army+%28Financial+Management+and+Comptroller%29&amp;oldid=759100067&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4809031#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 January 2017, at 06:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Assistant_Secretary_of_the_Army_(Financial_Management_and_Comptroller)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.139","ppvisitednodes":{"value":806,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19566,"limit":2097152},"templateargumentsize":{"value":682,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  114.338      1 -total"," 52.44%   59.957      1 Template:Reflist"," 40.74%   46.578      9 Template:Cite_web"," 17.81%   20.360      1 Template:Infobox_official_post"," 16.79%   19.197      1 Template:Use_dmy_dates"," 15.12%   17.292      1 Template:Infobox","  6.35%    7.262      1 Template:DMCA","  5.49%    6.279      1 Template:Dated_maintenance_category","  5.42%    6.197      1 Template:US_Army","  3.68%    4.203      1 Template:FULLROOTPAGENAME"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":2901638,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20170413125430","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":50,"wgHostname":"mw2181"});});</script>
+	</body>
+</html>

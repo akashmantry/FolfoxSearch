@@ -1,0 +1,1806 @@
+https://en.wikipedia.org/wiki/Banu_Nadir
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Banu Nadir - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Banu_Nadir","wgTitle":"Banu Nadir","wgCurRevisionId":767211896,"wgRevisionId":767211896,"wgArticleId":4065187,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from March 2008","Articles lacking reliable references from April 2016","All articles lacking reliable references","Articles containing Arabic-language text","Articles containing Hebrew-language text","Wikipedia articles needing page number citations from October 2016","All articles with unsourced statements","Articles with unsourced statements from October 2016","All articles needing additional references","Articles needing additional references from October 2016","Banu Nadir","Jewish tribes of Arabia","Hejazi Jews"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Banu_Nadir","wgRelevantArticleId":4065187,"wgRequestId":"WP0KgArAEDUAAkQ4MF8AAACF","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q807012","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Banu_Nadir"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Banu_Nadir&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Banu_Nadir&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Banu_Nadir"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Banu_Nadir rootpage-Banu_Nadir skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Banu Nadir</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>. <span class="hide-when-compact">Please improve this by adding <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The <b>Banu Nadir</b> (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar"><b>بنو النضير</b></span>‎‎, <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span lang="he" dir="rtl" xml:lang="he"><b>בני נצ'יר</b></span>‎‎) were a <a href="/wiki/Jew" class="mw-redirect" title="Jew">Jewish</a> tribe who lived in northern Arabia until the 7th century at the oasis of Madinah. The tribe challenged <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> as the leader of Medina,<sup id="cite_ref-stillman14_1-0" class="reference"><a href="#cite_note-stillman14-1">[1]</a></sup> planned along with allied nomads to attack <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> <sup id="cite_ref-Watt_1956_p._211-2_2-0" class="reference"><a href="#cite_note-Watt_1956_p._211-2-2">[2]</a></sup> and were expelled from Medina as a result. The Banu Nadir then planned the <a href="/wiki/Battle_of_the_Trench" title="Battle of the Trench">battle of the Trench</a> together with the Quraysh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (October 2016)">page&#160;needed</span></a></i>]</sup> They later participated in the <a href="/wiki/Battle_of_Khaybar" title="Battle of Khaybar">battle of Khaybar</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_History"><span class="tocnumber">1</span> <span class="toctext">Early History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tribal_warfare"><span class="tocnumber">2</span> <span class="toctext">Tribal warfare</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Arrival_of_Muhammad"><span class="tocnumber">3</span> <span class="toctext">Arrival of Muhammad</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Reaction_to_the_expulsion_of_the_Banu_Qaynuqa"><span class="tocnumber">4</span> <span class="toctext">Reaction to the expulsion of the Banu Qaynuqa</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Assassination_of_Ka.27b_ibn_al-Ashraf"><span class="tocnumber">5</span> <span class="toctext">Assassination of Ka'b ibn al-Ashraf</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Expulsion_from_Medina"><span class="tocnumber">6</span> <span class="toctext">Expulsion from Medina</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Battle_of_Trench:_627"><span class="tocnumber">7</span> <span class="toctext">Battle of Trench: 627</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Battle_of_Khaybar:_628"><span class="tocnumber">8</span> <span class="toctext">Battle of Khaybar: 628</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_History">Early History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=1" title="Edit section: Early History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In early Medina, in addition to the Banu Nadir, there were two other major Jewish tribes: the <a href="/wiki/Banu_Qurayza" title="Banu Qurayza">Banu Qurayza</a> and the <a href="/wiki/Banu_Qaynuqa" title="Banu Qaynuqa">Banu Qaynuqa</a>. They were joined earlier by two non-Jewish Arab tribes from Yemen, <a href="/wiki/Banu_Aus" class="mw-redirect" title="Banu Aus">Banu Aus</a> and <a href="/wiki/Khazraj" class="mw-redirect" title="Khazraj">Khazraj</a>.</p>
+<p>Like other Medinese Jews, Banu Nadir bore Arabic names, but spoke a distinct dialect of Arabic. They earned their living through agriculture, money lending, and trade in weapons and jewels, maintaining commercial relations with Arab merchants of <a href="/wiki/Mecca" title="Mecca">Mecca</a>. Their fortresses were located half a day's march to the south of Medina.<sup id="cite_ref-BanuNadir_5-0" class="reference"><a href="#cite_note-BanuNadir-5">[5]</a></sup> Banu Nadir were wealthy and lived in some of the best lands in Medina.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Tribal_warfare">Tribal warfare</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=2" title="Edit section: Tribal warfare">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When the two Arabian tribes of <a href="/wiki/Banu_Aus" class="mw-redirect" title="Banu Aus">Aws</a> and <a href="/wiki/Khazraj" class="mw-redirect" title="Khazraj">Khazraj</a> went to war against each other in the <a href="/wiki/Battle_of_Bu%27ath" class="mw-redirect" title="Battle of Bu'ath">Battle of Bu'ath</a> in 617, the three Jewish tribes split on different sides of the war. The Banu Nadir, led by <a href="/wiki/Ka%27b_ibn_al-Ashraf" title="Ka'b ibn al-Ashraf">Ka'b ibn al-Ashraf</a> and <a href="/wiki/Huyayy_ibn_Akhtab" title="Huyayy ibn Akhtab">Huyayy ibn Akhtab</a>,<sup id="cite_ref-BanuNadir_5-1" class="reference"><a href="#cite_note-BanuNadir-5">[5]</a></sup> and the Banu Qurayza fought with the Aus, while the Banu Qaynuqa were allied with the tribe of <a href="/wiki/Khazraj" class="mw-redirect" title="Khazraj">Khazraj</a>. The latter were defeated after a long and arduous battle.<sup id="cite_ref-jewishencyclopedia_1_7-0" class="reference"><a href="#cite_note-jewishencyclopedia_1-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Arrival_of_Muhammad">Arrival of Muhammad</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=3" title="Edit section: Arrival of Muhammad">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> was invited to Medina to broker a peace between the warring tribes, and in September 622 he arrived with a group of his <a href="/wiki/Muhajirun" title="Muhajirun">followers</a>, who were given shelter by members of the indigenous community known as the <a href="/wiki/Ansar_(Islam)" title="Ansar (Islam)">Ansar</a>. Amongst his first actions were the construction of the first mosque in Medina, as well as obtaining residence with <a href="/wiki/Abu_Ayyub_al-Ansari" title="Abu Ayyub al-Ansari">Abu Ayyub al-Ansari</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> He then set about the establishment of a pact, known as the <a href="/wiki/Constitution_of_Medina" title="Constitution of Medina">Constitution of Medina</a>, between the Muslims, the Ansar, and the various Jewish tribes of Medina <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> to regulate the matters of governance of the city, as well as the extent and nature of inter-community relations. The conditions of the pact included boycotting Quraysh, abstinence from "extending any support to them", assistance of one another if attacked by a third party, as well as "<i>defending Medina, in case of a foreign attack</i>".<sup id="cite_ref-sealednectar_10-0" class="reference"><a href="#cite_note-sealednectar-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Reaction_to_the_expulsion_of_the_Banu_Qaynuqa">Reaction to the expulsion of the Banu Qaynuqa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=4" title="Edit section: Reaction to the expulsion of the Banu Qaynuqa">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When Muhammad expelled the Jewish tribe of the <a href="/wiki/Banu_Qaynuqa" title="Banu Qaynuqa">Banu Qaynuqa</a>, the Banu Nadir did not get involved, viewing the conflict as another example of tribal struggle.<sup id="cite_ref-stillman13_13-0" class="reference"><a href="#cite_note-stillman13-13">[13]</a></sup> The conflict led to a ruling that such future action by any of the other parties under the <a href="/wiki/Constitution_of_Medina" title="Constitution of Medina">Constitution of Medina</a> would constitute a voiding of their benefits under the system.</p>
+<h2><span class="mw-headline" id="Assassination_of_Ka.27b_ibn_al-Ashraf">Assassination of Ka'b ibn al-Ashraf</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=5" title="Edit section: Assassination of Ka'b ibn al-Ashraf">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After the <a href="/wiki/Battle_of_Badr" title="Battle of Badr">Battle of Badr</a>, one of the Banu Nadir's chiefs <a href="/wiki/Ka%27b_ibn_al-Ashraf" title="Ka'b ibn al-Ashraf">Ka'b ibn al-Ashraf</a>, went to the Quraish in order to lament the loss at Badr and to incite them to take up arms to regain lost honor, noting the statement of Muhammad: "<i>He (Ka'b) has openly assumed enmity to us and speaks evil of us and he has gone over to the polytheists (who were at war with Muslims) and has made them gather against us for fighting</i>".<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> This was in contravention of the <a href="/wiki/Constitution_of_Medina" title="Constitution of Medina">Constitution of Medina</a>, of which the tribe led by Ka'b ibn al-Ashraf was a signatory, which prohibited them from "extending any support" to the tribes of Mecca, namely Quraish. Some sources suggest that during his visit to Mecca, Ka'b concluded a treaty with Abu Sufyan, stipulating cooperation between the Quraysh and Jews against Muhammad.<sup id="cite_ref-Rubin_15-0" class="reference"><a href="#cite_note-Rubin-15">[15]</a></sup></p>
+<p>Other historians cite that <a href="/wiki/Ka%27b_ibn_al-Ashraf" title="Ka'b ibn al-Ashraf">Ka'b ibn al-Ashraf</a>, who was also a gifted poet, wrote a poetic eulogy commemorating the slain Quraish notables; later, he also wrote erotic poetry about Muslim women, which the Muslims found offensive.<sup id="cite_ref-Ashraf_16-0" class="reference"><a href="#cite_note-Ashraf-16">[16]</a></sup> This poetry influenced so many <sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> that this too was considered directly against the <a href="/wiki/Constitution_of_Medina" title="Constitution of Medina">Constitution of Medina</a> which states, <i>loyalty gives protection against treachery</i> and <i>this document will not (be employed to) protect one who is unjust or commits a crime</i> Muhammad called upon his followers to kill Ka'b. Muhammad ibn Maslama offered his services, collecting four others. By pretending to have turned against <a href="/wiki/Prophet_Muhammad" class="mw-redirect" title="Prophet Muhammad">Muhammad</a>, Muhammad ibn Maslama and the others enticed Ka'b out of his fortress on a moonlit night,<sup id="cite_ref-Ashraf_16-1" class="reference"><a href="#cite_note-Ashraf-16">[16]</a></sup> and killed him in spite of his vigorous resistance.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Some attribute this action to norms of the Arab society that demand retaliation for a slight to a group's honor.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The Jews were terrified at his assassination, and as the historian ibn Ishaq put it "...there was not a Jew who did not fear for his life".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="Expulsion_from_Medina">Expulsion from Medina</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=6" title="Edit section: Expulsion from Medina">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Invasion_of_Banu_Nadir" title="Invasion of Banu Nadir">Invasion of Banu Nadir</a></div>
+<div role="navigation" class="navbox" aria-labelledby="Campaigns_of_Muhammad" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Campaigns_of_Muhammad" title="Template:Campaignbox Campaigns of Muhammad"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Campaigns_of_Muhammad" title="Template talk:Campaignbox Campaigns of Muhammad"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Campaigns_of_Muhammad&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Campaigns_of_Muhammad" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/List_of_expeditions_of_Muhammad" title="List of expeditions of Muhammad">Campaigns of Muhammad</a></span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"><b>Ghazwah (expeditions where he took part)</b>
+<ul>
+<li><a href="/wiki/Patrol_of_Waddan" title="Patrol of Waddan">Abwa</a></li>
+<li><a href="/wiki/Patrol_of_Buwat" title="Patrol of Buwat">Buwat</a></li>
+<li><a href="/wiki/First_Expedition_to_Badr" title="First Expedition to Badr">Safwan</a></li>
+<li><a href="/wiki/Invasion_of_Dul_Ashir" class="mw-redirect" title="Invasion of Dul Ashir">Dul</a></li>
+<li><a href="/wiki/Battle_of_Badr" title="Battle of Badr">1st Badr</a></li>
+<li><a href="/wiki/Al_Kudr_Invasion" title="Al Kudr Invasion">Kudr</a></li>
+<li><a href="/wiki/Invasion_of_Sawiq" title="Invasion of Sawiq">Sawiq</a></li>
+<li><a href="/wiki/Invasion_of_Banu_Qaynuqa" title="Invasion of Banu Qaynuqa">Qaynuqa</a></li>
+<li><a href="/wiki/Invasion_of_Dhi_Amr" title="Invasion of Dhi Amr">Thi</a></li>
+<li><a href="/wiki/Invasion_of_Buhran" title="Invasion of Buhran">Bahran</a></li>
+<li><a href="/wiki/Battle_of_Uhud" title="Battle of Uhud">Uhud</a></li>
+<li><a href="/wiki/Invasion_of_Hamra_al-Asad" class="mw-redirect" title="Invasion of Hamra al-Asad">Asad</a></li>
+<li><a href="/wiki/Invasion_of_Banu_Nadir" title="Invasion of Banu Nadir">Nadir</a></li>
+<li><a href="/wiki/Invasion_of_Nejd" title="Invasion of Nejd">2nd Nejd</a></li>
+<li><a href="/wiki/Invasion_of_Badr" title="Invasion of Badr">2nd Badr</a></li>
+<li><a href="/wiki/Invasion_of_Dumatul_Jandal" title="Invasion of Dumatul Jandal">Jandal</a></li>
+<li><a href="/wiki/Battle_of_the_Trench" title="Battle of the Trench">Trench</a></li>
+<li><a href="/wiki/Invasion_of_Banu_Qurayza" title="Invasion of Banu Qurayza">Qurayza</a></li>
+<li><a href="/wiki/Invasion_of_Banu_Lahyan" title="Invasion of Banu Lahyan">Lahyan</a></li>
+<li><a href="/wiki/Invasion_of_Banu_Mustaliq" title="Invasion of Banu Mustaliq">Mustaliq</a></li>
+<li><a href="/wiki/Treaty_of_Hudaybiyyah" title="Treaty of Hudaybiyyah">Treaty</a></li>
+<li><a href="/wiki/Battle_of_Khaybar" title="Battle of Khaybar">Khaybar</a></li>
+<li><a href="/wiki/Conquest_of_Fadak" title="Conquest of Fadak">Fadak</a></li>
+<li><a href="/wiki/Third_Expedition_of_Wadi_al_Qura" title="Third Expedition of Wadi al Qura">Qura</a></li>
+<li><a href="/wiki/Expedition_of_Dhat_al-Riqa" title="Expedition of Dhat al-Riqa">Dhat</a></li>
+<li><a href="/wiki/Assault_on_Banu_Bakra" title="Assault on Banu Bakra">Baqra</a></li>
+<li><a href="/wiki/Conquest_of_Mecca" title="Conquest of Mecca">Mecca</a></li>
+<li><a href="/wiki/Battle_of_Hunayn" title="Battle of Hunayn">Hunayn</a></li>
+<li><a href="/wiki/Battle_of_Autas" title="Battle of Autas">Autas</a></li>
+<li><a href="/wiki/Siege_of_Ta%27if" title="Siege of Ta'if">Ta'if</a></li>
+<li><a href="/wiki/Expedition_to_Tabouk" title="Expedition to Tabouk">Tabouk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Mohammed_receiving_the_submission_of_the_Banu_Nadir.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mohammed_receiving_the_submission_of_the_Banu_Nadir.jpg/300px-Mohammed_receiving_the_submission_of_the_Banu_Nadir.jpg" width="300" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mohammed_receiving_the_submission_of_the_Banu_Nadir.jpg/450px-Mohammed_receiving_the_submission_of_the_Banu_Nadir.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mohammed_receiving_the_submission_of_the_Banu_Nadir.jpg/600px-Mohammed_receiving_the_submission_of_the_Banu_Nadir.jpg 2x" data-file-width="720" data-file-height="350" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mohammed_receiving_the_submission_of_the_Banu_Nadir.jpg" class="internal" title="Enlarge"></a></div>
+Submission of Banu Nadir to the Muslim troops (14th-century painting)</div>
+</div>
+</div>
+<p>After defeat by the Quraish at the <a href="/wiki/Battle_of_Uhud" title="Battle of Uhud">Mount Uhud</a> in March, 625, the Banu Nadir challenged Muhammad as the leader of Medina.<sup id="cite_ref-stillman14_1-1" class="reference"><a href="#cite_note-stillman14-1">[1]</a></sup></p>
+<p>In July of the same year, two men were killed during skirmish in which the Muslims were involved. As a result, Muhammad went to the Nadir, asking them to make a contribution towards the blood money of two men killed. Initially most of the Nadir, except <a href="/wiki/Huyayy_ibn_Akhtab" title="Huyayy ibn Akhtab">Huyayy ibn Akhtab</a>, were inclined to accept Muhammad's request. However, <a href="/w/index.php?title=Ibn_Ubayy&amp;action=edit&amp;redlink=1" class="new" title="Ibn Ubayy (page does not exist)">Ibn Ubayy</a> communicated to ibn Akhtab of his intent, along with allied nomads, to attack Muhammad. The Nadir, then postponed the contribution until later that day.<sup id="cite_ref-Watt_1956_p._211-2_2-1" class="reference"><a href="#cite_note-Watt_1956_p._211-2-2">[2]</a></sup></p>
+<p>Muhammad left the locality immediately accusing the Banu Nadir of plotting to assassinate him, saying to have learned this either through revelation<sup id="cite_ref-stillman14_1-2" class="reference"><a href="#cite_note-stillman14-1">[1]</a></sup> or <a href="/wiki/Muhammad_ibn_Maslama" class="mw-redirect" title="Muhammad ibn Maslama">Muhammad ibn Maslama</a>.<sup id="cite_ref-Halabi_21-0" class="reference"><a href="#cite_note-Halabi-21">[21]</a></sup></p>
+<p>According to other sources, the Banu Nadir invited Muhammad to their habitations for a religious debate, to which Muhammad accepted. Muhammad also accepted the condition that he bring no more than three men with him. On his way he was notified by a Banu Nadir convert to Islam of an assassination attempt at the debate.<sup id="cite_ref-Halabi_21-1" class="reference"><a href="#cite_note-Halabi-21">[21]</a></sup></p>
+<p>Muhammad besieged the Banu Nadir. He ordered them to surrender their property and leave Medina within ten days. The tribe at first decided to comply, but "certain people of Medina who were not Believers of Muhammad sent a message to the Banu al-Nadir, saying, 'Hold out, and defend yourselves; we shall not surrender you to Muhammad. If you are attacked we shall fight with you and if you are sent away we shall go with you.'" <sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> <a href="/wiki/Huyayy_ibn_Akhtab" title="Huyayy ibn Akhtab">Huyayy ibn Akhtab</a> decided to put up resistance, hoping also for help from the <a href="/wiki/Banu_Qurayza" title="Banu Qurayza">Banu Qurayza</a>, despite opposition within the tribe.<sup id="cite_ref-BanuNadir_5-2" class="reference"><a href="#cite_note-BanuNadir-5">[5]</a></sup> The Nadir were forced to surrender after the siege had lasted for 14 days, when the promised help failed to materialize and when Muhammad ordered the burning and felling of their palm-trees. Under the conditions of surrender, the Banu Nadir could only take with them what they could carry on camels with the exception of weapons.<sup id="cite_ref-BanuNadir_5-3" class="reference"><a href="#cite_note-BanuNadir-5">[5]</a></sup></p>
+<p>The Banu Nadir left on 600 camels, parading through Medina to the music of pipes and tambourines.<sup id="cite_ref-stillman14_1-3" class="reference"><a href="#cite_note-stillman14-1">[1]</a></sup> Al-Waqidi described their impressive farewell: "Their women were decked out in litters wearing silk, brocade, velvet, and fine red and green silk. People lined up to gape at them."<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Most of Banu Nadir found refuge among the Jews of Khaybar, while others emigrated to <a href="/wiki/Syria" title="Syria">Syria</a>.<sup id="cite_ref-BanuNadir_5-4" class="reference"><a href="#cite_note-BanuNadir-5">[5]</a></sup> According to Ibn Ishaq, the chiefs of Nadir who went to Khaybar were Sallam b. Abu'l-Huqayq, <a href="/wiki/Kenana_ibn_al-Rabi" title="Kenana ibn al-Rabi">Kenana ibn al-Rabi</a> and Huyayy b. Akhtab. When these chiefs arrived in Khaybar, the Jewish inhabitants of Khaybar became subject to them.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>Muhammad divided their land between his companions who had emigrated with him from Mecca. Until then, the emigrants had to rely upon the Medinese sympathizers for financial assistance. Muhammad reserved a share of the seized land for himself, which also made him financially independent.<sup id="cite_ref-stillman14_1-4" class="reference"><a href="#cite_note-stillman14-1">[1]</a></sup></p>
+<p>Upon expulsion of the Banu Nadir, Muhammad is said to have received a revelation of the Surah <a href="/wiki/Al-Hashr" title="Al-Hashr">al-Hashr</a>.<sup id="cite_ref-BanuNadir_5-5" class="reference"><a href="#cite_note-BanuNadir-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Battle_of_Trench:_627">Battle of Trench: 627</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=7" title="Edit section: Battle of Trench: 627">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Battle_of_the_Trench" title="Battle of the Trench">Battle of the Trench</a></div>
+<p>A number of Jews who had formed a party against Muhammad, including Sallam b. Abu'l-Huqayq, <a href="/wiki/Kenana_ibn_al-Rabi" title="Kenana ibn al-Rabi">Kenana ibn al-Rabi</a> and Huyayy b. Akhtab, the chiefs of Nadir who had gone to Khaybar, together with two chiefs from the tribe of B. Wa'ili went to Quraysh and invited them to form a coalition against Muhammad so that they might get rid of him altogether. Then they persuaded the tribe of Ghaftan to join the battle against Muhammad.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Banu Nadir promised half the date harvest of Khaybar to nomadic tribes if they would join the battle against Muslims.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> Abu Sufyan, the military leader of Quraysh, with the financial help of Banu Nadir had mustered a force of size 10,000 men. Muhammad was able to prepare a force of about 3000 men. He had however adopted a new form of defense, unknown in Arabia at that time: Muslims had dug a trench wherever Medina lay open to cavalry attack. The idea is credited to a Persian convert to Islam, <a href="/wiki/Salman_the_Persian" title="Salman the Persian">Salman the Persian</a>. The siege of Medina began on March 31, 627 and lasted for two weeks.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> Abu Sufyan's troops were unprepared for the fortifications they were confronted with, and after an ineffectual siege lasting several weeks, the coalition decided to go home.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The Qur'an discusses this battle in verses Qur'an <a rel="nofollow" class="external text" href="http://www.usc.edu/dept/MSA/quran/033.qmt.html#033.09">33:9-33:27</a>.<sup id="cite_ref-Rubin_2_30-0" class="reference"><a href="#cite_note-Rubin_2-30">[30]</a></sup></p>
+<h2><span class="mw-headline" id="Battle_of_Khaybar:_628">Battle of Khaybar: 628</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=8" title="Edit section: Battle of Khaybar: 628">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Battle_of_Khaybar" title="Battle of Khaybar">Battle of Khaybar</a></div>
+<p>In 628, Muhammad attacked Khaybar. According to <a href="/wiki/William_Montgomery_Watt" class="mw-redirect" title="William Montgomery Watt">William Montgomery Watt</a>,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2016)">citation needed</span></a></i>]</sup> this was motivated by the presence of the Banu Nadir in Khaybar, who were inciting hostilities along with other neighboring Arab tribes, against the Islamic community in <a href="/wiki/Medina" title="Medina">Medina</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs additional references to reliable sources. (October 2016)">additional citation needed</span></a></i>]</sup></p>
+<p>Later, Muhammad sent a delegation under Abdullah bin Rawaha to ask another chief of the Banu Nadir, <a href="/wiki/Usayr_ibn_Zarim" title="Usayr ibn Zarim">Usayr (Yusayr) ibn Zarim</a>, to come to Medina along with other Nadir leaders to discuss the two groups' political relations. Among whom were Abdullah bin Unays, an ally of Banu Salima, a clan hostile to the Jews. When they came to him they spoke to him and treated him saying that if he would come to Muhammad he would give him an appointment and honour him. They kept on at him until he went with them with a number of Jews. Abdullah bin Unays mounted him on his beast until when he was in al-Qarqara, about six miles from Khaybar, al-Yusayr changed his mind about going with them. Abdullah perceived his intention as he was preparing to draw his sword so he rushed at him and struck him with his sword cutting off his leg. Al-Yusayr hit him with a stick of shauhat wood which he had in his hand and wounded his head. All Muhammad's emissaries fell upon the thirty Jewish companions and killed them except one man who escaped on his feet.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> <a href="/w/index.php?title=Abdullah_bin_Unays&amp;action=edit&amp;redlink=1" class="new" title="Abdullah bin Unays (page does not exist)">Abdullah bin Unays</a> is the assassin who volunteered and got permission to kill Banu Nadir's <a href="/wiki/Sallam_ibn_Abu_al-Huqayq" title="Sallam ibn Abu al-Huqayq">Sallam ibn Abu al-Huqayq</a> at a previous night mission in Khaybar.</p>
+<p>Muhammad and his followers attacked Khaybar in May/June 628 after the <a href="/wiki/Treaty_of_Hudaybiyyah" title="Treaty of Hudaybiyyah">Treaty of Hudaybiyyah</a>. Although the Jews put up fierce resistance, the lack of central command and preparation for an extended siege sealed the outcome of the battle in favor of the Muslims. When all but two fortresses were captured, the Jews negotiated their surrender. The terms required them to hand over one-half of the annual produce to the Muslims, while the land itself became the collective property of the Muslim state.<sup id="cite_ref-Khaybar_32-0" class="reference"><a href="#cite_note-Khaybar-32">[32]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Banu_Qaynuqa" title="Banu Qaynuqa">Banu Qaynuqa</a></li>
+<li><a href="/wiki/Safiyya_bint_Huyayy" title="Safiyya bint Huyayy">Safiyya bint Huyayy</a></li>
+<li><a href="/wiki/Constitution_of_Medina" title="Constitution of Medina">Constitution of Medina</a></li>
+<li><a href="/wiki/Jihad" title="Jihad">Jihad</a></li>
+<li><a href="/wiki/Itmam_al-hujjah" title="Itmam al-hujjah">Itmam al-hujjah</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-stillman14-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-stillman14_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-stillman14_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-stillman14_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-stillman14_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-stillman14_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Stillman (1979), p. 14.</span></li>
+<li id="cite_note-Watt_1956_p._211-2-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Watt_1956_p._211-2_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Watt_1956_p._211-2_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Watt (1956), p. 211-2.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (March 2008)">clarification needed</span></a></i>]</sup></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">V. Vacca , <i>Encyclopedia of Islam</i>, Banu Nadir</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.witness-pioneer.org/vil/Books/SM_tsn/ch4s8.html">Bani An-Nadeer Invasion at Witness Pioneer</a></span></li>
+<li id="cite_note-BanuNadir-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-BanuNadir_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BanuNadir_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BanuNadir_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BanuNadir_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BanuNadir_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-BanuNadir_5-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia">Vacca, V. "Nadir, Banu 'l". In P.J. Bearman; Th. Bianquis; <a href="/wiki/Clifford_Edmund_Bosworth" title="Clifford Edmund Bosworth">C.E. Bosworth</a>; E. van Donzel; W.P. Heinrichs. <i><a href="/wiki/Encyclopaedia_of_Islam" title="Encyclopaedia of Islam">Encyclopaedia of Islam</a> Online</i>. Brill Academic Publishers. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1573-3912">1573-3912</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanu+Nadir&amp;rft.atitle=Nadir%2C+Banu+%27l&amp;rft.au=Vacca%2C+V.&amp;rft.btitle=Encyclopaedia+of+Islam+Online&amp;rft.genre=bookitem&amp;rft.issn=1573-3912&amp;rft.pub=Brill+Academic+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Norman_Stillman" title="Norman Stillman">Stillman, Norman</a> (1979). <i>The Jews of Arab Lands: A History and Source Book</i>. Philadelphia: Jewish Publication Society of America. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8276-0198-0" title="Special:BookSources/0-8276-0198-0">0-8276-0198-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanu+Nadir&amp;rft.aufirst=Norman&amp;rft.aulast=Stillman&amp;rft.btitle=The+Jews+of+Arab+Lands%3A+A+History+and+Source+Book&amp;rft.date=1979&amp;rft.genre=book&amp;rft.isbn=0-8276-0198-0&amp;rft.place=Philadelphia&amp;rft.pub=Jewish+Publication+Society+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>, p. 13–14.</span></li>
+<li id="cite_note-jewishencyclopedia_1-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-jewishencyclopedia_1_7-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Jewishencyclopedia.com" class="mw-redirect" title="Jewishencyclopedia.com">jewishencyclopedia.com</a> <a rel="nofollow" class="external autonumber" href="http://jewishencyclopedia.com/view.jsp?artid=326&amp;letter=M">[1]</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Ibn Kathir, al-Bidaayah wa al-Nihaayah, Vol II, p. 279</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Ibn Hisham, Vol. I, p. 501.</span></li>
+<li id="cite_note-sealednectar-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-sealednectar_10-0">^</a></b></span> <span class="reference-text">Saif-ur-Rahman Mubarakfuri, ar-Raheeq al-Makhtoom - "The Sealed Nectar"</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Ibn Hisham, as-Seerat an-Nabaweeyat, Vol. II, p. 147-150.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Ibn Ishaq, p. 231-235.</span></li>
+<li id="cite_note-stillman13-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-stillman13_13-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Norman_Stillman" title="Norman Stillman">Stillman, Norman</a> (1979). <i>The Jews of Arab Lands: A History and Source Book</i>. Philadelphia: Jewish Publication Society of America. p.&#160;13. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8276-0198-0" title="Special:BookSources/0-8276-0198-0">0-8276-0198-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanu+Nadir&amp;rft.aufirst=Norman&amp;rft.aulast=Stillman&amp;rft.btitle=The+Jews+of+Arab+Lands%3A+A+History+and+Source+Book&amp;rft.date=1979&amp;rft.genre=book&amp;rft.isbn=0-8276-0198-0&amp;rft.pages=13.&amp;rft.place=Philadelphia&amp;rft.pub=Jewish+Publication+Society+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">al-Zurqaani, Sharh al-Muwaahib, Vol II p. 10-12</span></li>
+<li id="cite_note-Rubin-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rubin_15-0">^</a></b></span> <span class="reference-text">Rubin, Uri. <i>The Assassination of Kaʿb b. al-Ashraf.</i> Oriens, Vol. 32. (1990), pp. 65-71.</span></li>
+<li id="cite_note-Ashraf-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ashraf_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ashraf_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia"><a href="/wiki/William_Montgomery_Watt" class="mw-redirect" title="William Montgomery Watt">William Montgomery Watt</a>. "Ka'b ibn al-Ashraf". In P.J. Bearman; Th. Bianquis; <a href="/wiki/Clifford_Edmund_Bosworth" title="Clifford Edmund Bosworth">C.E. Bosworth</a>; E. van Donzel; W.P. Heinrichs. <i><a href="/wiki/Encyclopaedia_of_Islam" title="Encyclopaedia of Islam">Encyclopaedia of Islam</a> Online</i>. Brill Academic Publishers. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1573-3912">1573-3912</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanu+Nadir&amp;rft.atitle=Ka%27b+ibn+al-Ashraf&amp;rft.au=William+Montgomery+Watt&amp;rft.btitle=Encyclopaedia+of+Islam+Online&amp;rft.genre=bookitem&amp;rft.issn=1573-3912&amp;rft.pub=Brill+Academic+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Philip K. Hitti, History of the Arabs, 10th edition (Macmillan Press, 1970), p. 90.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Ibn_Hisham" title="Ibn Hisham">Ibn Hisham</a> (1955). <i>Al-Sira al-Nabawiyya</i>. vol. 2. Cairo. pp.&#160;51–57.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanu+Nadir&amp;rft.au=Ibn+Hisham&amp;rft.btitle=Al-Sira+al-Nabawiyya&amp;rft.date=1955&amp;rft.genre=book&amp;rft.pages=51-57.&amp;rft.place=Cairo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> English translation from Stillman (1979), p. 125–126.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Stillman (1979) p. 13</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Ibn Hisham (1955). English translation from Stillman (1979), p. 127.</span></li>
+<li id="cite_note-Halabi-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Halabi_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Halabi_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">al-Halabi, Nur al-Din. <i>Sirat-i-Halbiyyah</i>. 2, part 10. Uttar Pradesh: Idarah Qasmiyyah Deoband. p.&#160;34.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanu+Nadir&amp;rft.aufirst=Nur+al-Din&amp;rft.aulast=al-Halabi&amp;rft.btitle=Sirat-i-Halbiyyah&amp;rft.genre=book&amp;rft.pages=34&amp;rft.place=Uttar+Pradesh&amp;rft.pub=Idarah+Qasmiyyah+Deoband&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Translated by Muhammad Aslam Qasmi.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20040625103910/http://www.hraic.org/hadith/ibn_ishaq.html#The%20earliest%20biography%20of%20Muhammad,%20by%20ibn%20Ishaq">The earliest biography of Muhammad, by ibn Ishaq</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Al-Waqidi" title="Al-Waqidi">Al-Waqidi</a> (1966). <a href="/wiki/Marsden_Jones" title="Marsden Jones">Marsden Jones</a>, ed. <i>Kitab al-Maghazi</i>. London. pp.&#160;363–375.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanu+Nadir&amp;rft.au=Al-Waqidi&amp;rft.btitle=Kitab+al-Maghazi&amp;rft.date=1966&amp;rft.genre=book&amp;rft.pages=363-375.&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> English translation from Stillman (1979), p. 136.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">A. Guillaume, <i>The life of Muhammad</i>, Oxford University Press, p.438</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">A. Guillaume, <i>The life of Muhammad</i>, Oxford University Press, p.450</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span>
+<ul>
+<li><span class="reference-text">Cyril Glasse, <a href="/wiki/Huston_Smith" title="Huston Smith">Huston Smith</a>, <i>The New Encyclopedia of Islam</i>, p.81</span></li>
+<li><span class="reference-text">J.A.M. Caldwell, <i>Hizb</i>, <a href="/wiki/Encyclopedia_of_Islam" class="mw-redirect" title="Encyclopedia of Islam">Encyclopedia of Islam</a></span></li>
+</ul>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><i>The Encyclopaedia of Islam</i>. New Edition. Vol.4, p.1137 et sqq.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Watt (1956), p. 36, 37</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">See:</span>
+<ul>
+<li><span class="reference-text">Rodinson (2002), pp. 209–211;</span></li>
+<li><span class="reference-text">Watt (1964) p. 169</span></li>
+</ul>
+</li>
+<li id="cite_note-Rubin_2-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rubin_2_30-0">^</a></b></span> <span class="reference-text">Uri Rubin, Quraysh, Encyclopaedia of the Qur'an</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Ibn Ishaq, A. Guillaume, p. 665-666</span></li>
+<li id="cite_note-Khaybar-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Khaybar_32-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Veccia Vaglieri, L. "Khaybar". In P.J. Bearman; Th. Bianquis; <a href="/wiki/Clifford_Edmund_Bosworth" title="Clifford Edmund Bosworth">C.E. Bosworth</a>; E. van Donzel; W.P. Heinrichs. <i><a href="/wiki/Encyclopaedia_of_Islam" title="Encyclopaedia of Islam">Encyclopaedia of Islam</a> Online</i>. Brill Academic Publishers. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1573-3912">1573-3912</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanu+Nadir&amp;rft.atitle=Khaybar&amp;rft.au=Veccia+Vaglieri%2C+L.&amp;rft.btitle=Encyclopaedia+of+Islam+Online&amp;rft.genre=bookitem&amp;rft.issn=1573-3912&amp;rft.pub=Brill+Academic+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.pbs.org/muhammad/ma_jews.shtml">Muhammad and the Jews of Medina</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="People_and_things_in_the_Quran" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Characters_and_names_in_the_Quran" title="Template:Characters and names in the Quran"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Characters_and_names_in_the_Quran" title="Template talk:Characters and names in the Quran"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Characters_and_names_in_the_Quran&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="People_and_things_in_the_Quran" style="font-size:114%;margin:0 4em">People and things in the Quran</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Characters" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_characters_and_names_mentioned_in_the_Quran" title="List of characters and names mentioned in the Quran">Characters</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/God_in_Islam" title="God in Islam">God in Islam</a> (<a href="/wiki/Allah" title="Allah">Allah</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Names_of_God_in_Islam#List_of_names_and_attributes_of_God_as_found_in_the_Quran" title="Names of God in Islam">Names of God found in the Quran</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Islamic_view_of_angels" title="Islamic view of angels">Angels</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Israfil" title="Israfil">Israfil</a></li>
+<li><a href="/wiki/Azrael#In_Islam" title="Azrael">Izra'il/Azrael (Malak al-Mawt)</a></li>
+<li><a href="/wiki/Gabriel#Islam" title="Gabriel">Jibra'il/Gabriel (Al-Ruh al-Amin)</a> and <a href="/wiki/Holy_Spirit_(Islam)" class="mw-redirect" title="Holy Spirit (Islam)">Holy Spirit (Al-Ruh al-Qudus)</a> and <a href="/wiki/Holy_Spirit_(Islam)#The_Spirit.2C_al-Ruh.2C_in_the_Quran" class="mw-redirect" title="Holy Spirit (Islam)">Al-Ruh (The Spirit)</a></li>
+<li><a href="/wiki/Maalik" title="Maalik">Maalik</a></li>
+<li><a href="/wiki/Michael_(archangel)#Islam" title="Michael (archangel)">Mika'il</a></li>
+<li><a href="/wiki/Harut_and_Marut" title="Harut and Marut">Harut and Marut</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Jinn" title="Jinn">Jinns</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Devil_(Islam)" title="Devil (Islam)">Iblīs/Devil</a></li>
+<li><a href="/wiki/Satan#Islam" title="Satan">Shaitan/Satan</a></li>
+<li><a href="/wiki/Ifrit#Ifrit_in_Islamic_scripture" title="Ifrit">Ifrit</a></li>
+<li><a href="/wiki/Qareen#Qareen_in_islamic_scriptures" title="Qareen">Qareen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">In <a href="/wiki/Jannah" title="Jannah">Heaven (Jannah)</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ghilman" title="Ghilman">Ghilman and Wildan</a></li>
+<li><a href="/wiki/Houri" title="Houri">Houri</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Prophets_and_messengers_in_Islam" title="Prophets and messengers in Islam">Prophets<br />
+and apostles</a><br />
+(messengers)<br />
+of God</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adam_in_Islam" title="Adam in Islam">Ādam/Adam</a></li>
+<li><a href="/wiki/Elisha#In_Islam" title="Elisha">Alyasa'/Elisha</a></li>
+<li><a href="/wiki/Job_in_Islam" title="Job in Islam">Ayyub/Job</a></li>
+<li><a href="/wiki/David_in_Islam" title="David in Islam">Dawud/David</a></li>
+<li><a href="/wiki/Dhul-Kifl" title="Dhul-Kifl">Dhul-Kifl/Ezekiel?</a></li>
+<li><a href="/wiki/Aaron#Islam" title="Aaron">Harun/Aaron</a></li>
+<li><a href="/wiki/Hud_(prophet)" title="Hud (prophet)">Hud/Eber?</a></li>
+<li><a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">Ibrahim/Abraham (Khalilullah)</a></li>
+<li><a href="/wiki/Idris_(prophet)" title="Idris (prophet)">Idris/Enoch?</a></li>
+<li><a href="/wiki/Elijah#Elijah_in_Islam" title="Elijah">Ilyas/Elijah</a></li>
+<li><a href="/wiki/Joachim#In_Islam" title="Joachim">Imran/Joachim (father of Maryam)</a></li>
+<li><a href="/wiki/Jesus_in_Islam" title="Jesus in Islam">Isa/Jesus</a></li>
+<li><a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">Isḥaq/Isaac</a></li>
+<li><a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">Isma'il/Ishmael</a>
+<ul>
+<li><a href="/wiki/Binding_of_Isaac#Muslim_views" title="Binding of Isaac">Dhabih Ullah</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lot_in_Islam" title="Lot in Islam">Lut/Lot</a></li>
+<li><a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a> or <a href="/wiki/Ahmad" title="Ahmad">Ahmad</a>/<a href="/wiki/Paraclete#Paraclete_in_Islam" title="Paraclete">Paraclete</a></li>
+<li><a href="/wiki/Moses_in_Islam" title="Moses in Islam">Musa/Moses (Kalimullah)</a></li>
+<li><a href="/wiki/Noah_in_Islam" title="Noah in Islam">Nuh/Noah</a></li>
+<li><a href="/wiki/Saleh" title="Saleh">Saleh/Shelah?</a></li>
+<li><a href="/wiki/Shuaib" title="Shuaib">Shuaib/Jethro</a></li>
+<li><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Sulayman/Solomon</a></li>
+<li><a href="/wiki/Uzair" title="Uzair">Uzair/Ezra?</a></li>
+<li><a href="/wiki/John_the_Baptist#Islam" title="John the Baptist">Yahya/John the Baptist</a></li>
+<li><a href="/wiki/Jacob_in_Islam" title="Jacob in Islam">Yaqub/Jacob (Israel)</a></li>
+<li><a href="/wiki/Jonah#Jonah_in_Islam" title="Jonah">Yunus/Jonah (Dhul-Nun, Sahib al-Hut)</a></li>
+<li><a href="/wiki/Joseph_in_Islam" title="Joseph in Islam">Yūsuf/Joseph</a></li>
+<li><a href="/wiki/Zechariah_(priest)#In_Islam" title="Zechariah (priest)">Zakariya/Zechariah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Implied</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jeremiah#Islam" title="Jeremiah">Ermia/Jeremiah</a></li>
+<li><a href="/wiki/Samuel#Islam" title="Samuel">Samuel</a></li>
+<li><a href="/wiki/Joshua#Joshua_in_Islamic_history" title="Joshua">Yusha' ibn Nūn/Joshua</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Good people<br />
+(before Islam)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dhul-Qarnayn" title="Dhul-Qarnayn">Dhul-Qarnayn</a></li>
+<li><a href="/wiki/Luqman" title="Luqman">Luqman</a></li>
+<li><a href="/wiki/Mary_in_Islam" title="Mary in Islam">Maryam/Mary (mother of Isa)</a></li>
+<li><a href="/wiki/Saul#In_Islam" title="Saul">Talut/Saul</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asiya,_wife_of_the_Pharaoh" class="mw-redirect" title="Asiya, wife of the Pharaoh">Asiyah bint Muzahim</a>/<a href="/wiki/Bithiah#In_Islamic_tradition" title="Bithiah">Bithiah?</a> <a href="/wiki/Asiya,_wife_of_the_Pharaoh" class="mw-redirect" title="Asiya, wife of the Pharaoh">(wife of Fir'aun)</a></li>
+<li><a href="/wiki/Asif_ibn_Barkhiya" title="Asif ibn Barkhiya">Asif ibn Barkhiya</a></li>
+<li><a href="/wiki/Queen_of_Sheba#Qur.27anic_account" title="Queen of Sheba">Bilquis (Queen of Saba/Sheba)</a></li>
+<li><a href="/w/index.php?title=Believer_of_Fir%27aun_Family&amp;action=edit&amp;redlink=1" class="new" title="Believer of Fir'aun Family (page does not exist)">Believer of Fir'aun Family (Hizbil/Hizqil ibn Sabura)</a></li>
+<li><a href="/wiki/Benjamin#Benjamin_in_Islam" title="Benjamin">Beniamin/Benjamin</a></li>
+<li><a href="/wiki/Habib_the_Carpenter" title="Habib the Carpenter">Habib the Carpenter (believer of Ya-Sin)</a></li>
+<li><a href="/wiki/Caleb#Quranic_account" title="Caleb">Kaleb/Caleb</a></li>
+<li><a href="/wiki/Khidr" title="Khidr">Khidr</a></li>
+<li><a href="/wiki/Moses_in_Islam#Confrontation_with_sorcerers" title="Moses in Islam">Magicians of Fir'aun</a></li>
+<li><a href="/wiki/Peter_in_Islam" title="Peter in Islam">Simon Cephas/Simon Peter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other people<br />
+(before Islam)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abraham_in_Islam#Family" title="Abraham in Islam">Āzar (uncle of Ibrahim)</a></li>
+<li><a href="/wiki/Pharaoh_of_the_Exodus" class="mw-redirect" title="Pharaoh of the Exodus">Fir'aun/Pharaoh</a></li>
+<li><a href="/wiki/Haman_(Islam)" title="Haman (Islam)">Haman</a></li>
+<li><a href="/wiki/Goliath#Islam" title="Goliath">Jalut/Goliath</a></li>
+<li><a href="/wiki/Korah#Quranic_reference" title="Korah">Qarun/Korah</a></li>
+<li><a href="/wiki/Samiri_(Islamic_figure)" title="Samiri (Islamic figure)">Sāmiri</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abraha" title="Abraha">Abraha</a></li>
+<li><a href="/wiki/Balaam#Balaam_in_the_Quran" title="Balaam">Bal'am/Balaam</a></li>
+<li><a href="/wiki/Bar%E1%B9%A3%C4%AB%E1%B9%A3%C4%81" title="Barṣīṣā">Barṣīṣā</a></li>
+<li><a href="/wiki/Nebuchadnezzar_II" title="Nebuchadnezzar II">Nebuchadnezzar II</a></li>
+<li><a href="/wiki/Nimrod" title="Nimrod">Nimrod</a></li>
+<li><a href="/wiki/Potiphar" class="mw-redirect" title="Potiphar">Potiphar (Al-Aziz)</a></li>
+<li><a href="/wiki/Shaddad" title="Shaddad">Shaddad</a></li>
+<li><a href="/wiki/Simeon_(Hebrew_Bible)" class="mw-redirect" title="Simeon (Hebrew Bible)">Simeon (son of Ya'qub)</a></li>
+<li><a href="/w/index.php?title=Qaddar_ibn_Salif&amp;action=edit&amp;redlink=1" class="new" title="Qaddar ibn Salif (page does not exist)">Slayers of Saleh's she-camel (Qaddar ibn Salif</a> and <a href="/w/index.php?title=Musda%27_ibn_Dahr&amp;action=edit&amp;redlink=1" class="new" title="Musda' ibn Dahr (page does not exist)">Musda' ibn Dahr</a>)</li>
+<li><a href="/w/index.php?title=Valid_ibn_Rayyan&amp;action=edit&amp;redlink=1" class="new" title="Valid ibn Rayyan (page does not exist)">Valid ibn Rayyan (king of Egypt in the account of Yūsuf)</a></li>
+<li><a href="/wiki/Zuleika_(tradition)" class="mw-redirect" title="Zuleika (tradition)">Zuleika (wife of al-Aziz)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mentioned people<br />
+(after inception of Islam)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ab%C5%AB_Lahab" title="Abū Lahab">Abū Lahab</a></li>
+<li><a href="/wiki/Zayd_ibn_Harithah" title="Zayd ibn Harithah">Zayd ibn Harithah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Relatives<br />
+of prophets</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Specified<br />
+good relatives</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lot%27s_daughters" title="Lot's daughters">Daughters of Lut/Lot (Ritha, Za'ura, et al.)</a></li>
+<li><a href="/wiki/Elizabeth_(biblical_figure)#In_Islam" title="Elizabeth (biblical figure)">Elizabeth or 'Ishā' (wife of Zakariya)</a></li>
+<li><a href="/wiki/Cain_and_Abel_in_Islam" title="Cain and Abel in Islam">Habil/Abel (son of Adam)</a></li>
+<li><a href="/wiki/Eve#Islamic_view" title="Eve">Hawwa'/Eve (wife of Adam)</a></li>
+<li><a href="/wiki/Miriam#Quranic_account" title="Miriam">Kulthum/Miriam (sister of Musa)</a></li>
+<li><a href="/wiki/Zipporah" title="Zipporah">Saffurah/Zipporah (wife of Musa)</a> and <a href="/w/index.php?title=Layya&amp;action=edit&amp;redlink=1" class="new" title="Layya (page does not exist)">Layya (Saffura's sister)</a></li>
+<li><a href="/wiki/Sarah#Islam" title="Sarah">Sarah (wife of Ibrahim, mother of Isḥaq)</a></li>
+<li><a href="/wiki/Jochebed#The_Islamic_view_of_Jochebed" title="Jochebed">Yukabed/Jochebed (mother of Musa)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Non-specified<br />
+good relatives</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Amtelai_daughter_of_Karnebo&amp;action=edit&amp;redlink=1" class="new" title="Amtelai daughter of Karnebo (page does not exist)">Abiona/Amtelai daughter of Karnebo (mother of Ibrahim)</a></li>
+<li><a href="/wiki/Bathsheba#Islam" title="Bathsheba">Bathsheba (wife of Dawud)</a></li>
+<li><a href="/wiki/Muhammad%27s_wives" title="Muhammad's wives">Muhammad's wives</a></li>
+<li><a href="/wiki/Genealogy_of_Khadijah%27s_daughters" title="Genealogy of Khadijah's daughters">Daughters of Muhammad</a></li>
+<li><a href="/wiki/Hagar_in_Islam" title="Hagar in Islam">Hājar/Hagar (wife of Ibrahim, mother of Isma'il)</a></li>
+<li><a href="/wiki/Saint_Anne#In_Islam" title="Saint Anne">Hannah/Anne daughter of Faquz (mother of Maryam)</a></li>
+<li><a href="/wiki/Amram#In_the_Qur.27an" title="Amram">Imran/Amram (father of Musa)</a></li>
+<li><a href="/wiki/Lamech_(father_of_Noah)" title="Lamech (father of Noah)">Lamech (father of Nuh)</a></li>
+<li><a href="/wiki/Rachel" title="Rachel">Rāhil/Rachel (wife of Ya'qub)</a></li>
+<li><a href="/wiki/Dinah" title="Dinah">Rahma/Dinah (wife of Ayyub)</a></li>
+<li><a href="/w/index.php?title=Betenos&amp;action=edit&amp;redlink=1" class="new" title="Betenos (page does not exist)">Shamkha bint Anush/Betenos (mother of Nuh)</a></li>
+<li><a href="/wiki/Luqman" title="Luqman">Son of Luqman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other relatives</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jacob#Children_of_Jacob" title="Jacob">Brothers of Yūsuf</a></li>
+<li><a href="/wiki/Job_in_Islam" title="Job in Islam">Children of Ayyub</a></li>
+<li><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Dead son of Sulaiman</a></li>
+<li><a href="/wiki/Cain_and_Abel_in_Islam" title="Cain and Abel in Islam">Qabil/Cain?</a></li>
+<li><a href="/wiki/Terah#Islamic_tradition" title="Terah">Tārah/Terah (father of Ibrahim)</a></li>
+<li><a href="/wiki/Umm_Jamil" title="Umm Jamil">Umm Jamil (wife of Abu Lahab)</a></li>
+<li><a href="/wiki/Wives_aboard_Noah%27s_Ark" title="Wives aboard Noah's Ark">Wali'ah or Wa'ilah/Waala? (wife of Nuh)</a></li>
+<li><a href="/wiki/Lot%27s_wife" title="Lot's wife">Walihah or Wahilah (wife of Lut)</a></li>
+<li><a href="/wiki/Generations_of_Noah#Extrabiblical_sons_of_Noah" title="Generations of Noah">Yam or Kan'an (son of Nuh)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Groups_and_tribes" style="font-size:114%;margin:0 4em">Groups and tribes</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Tribes and<br />
+ethnicities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%CA%BF%C4%80d" title="ʿĀd">'Ād (people of Hud)</a></li>
+<li><a href="/wiki/Arabs" title="Arabs">Arabs</a> and <a href="/wiki/Ajam" title="Ajam">Ajam</a></li>
+<li><a href="/wiki/Israelites" title="Israelites">Children of Israel/Israelites</a></li>
+<li><a href="/wiki/Companions_of_the_Rass" title="Companions of the Rass">Companions of the Rass</a></li>
+<li><a href="/wiki/Sabaeans" title="Sabaeans">People of Saba'/Sheba</a></li>
+<li><a href="/wiki/Shuaib" title="Shuaib">People of Shu'aib</a> (<a href="/wiki/Midian#In_the_Qur.27an" title="Midian">people of Madyan</a> and <a href="/w/index.php?title=Aykah&amp;action=edit&amp;redlink=1" class="new" title="Aykah (page does not exist)">people of Aykah/Wood</a>)</li>
+<li><a href="/w/index.php?title=Tubba%27&amp;action=edit&amp;redlink=1" class="new" title="Tubba' (page does not exist)">People of Tubba'</a></li>
+<li><a href="/wiki/Quraysh" title="Quraysh">Quraysh</a></li>
+<li><a href="/wiki/R%C3%BBm" title="Rûm">Romans</a></li>
+<li><a href="/wiki/Thamud" title="Thamud">Thamud (people of Saleh, companions of Hijr)</a></li>
+<li><a href="/wiki/Gog_and_Magog#Qur.27an" title="Gog and Magog">Ya'juj and Ma'juj/Gog and Magog</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ahl_al-Bayt" title="Ahl al-Bayt">Ahl al-Bayt</a></li>
+<li><a href="/wiki/Amalek" title="Amalek">Amalek</a></li>
+<li><a href="/wiki/Banu_Hashim" title="Banu Hashim">Banu Hashim</a></li>
+<li><a class="mw-selflink selflink">Banu Nadir</a></li>
+<li><a href="/wiki/Banu_Qaynuqa" title="Banu Qaynuqa">Banu Qaynuqa</a></li>
+<li><a href="/wiki/Banu_Qurayza" title="Banu Qurayza">Banu Qurayza</a></li>
+<li><a href="/wiki/Iranian_peoples" title="Iranian peoples">Iranian people</a></li>
+<li><a href="/wiki/Umayyad_Caliphate" title="Umayyad Caliphate">Umayyad Dynasty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apostle_(Christian)" class="mw-redirect" title="Apostle (Christian)">Christian apostles</a>
+<ul>
+<li><a href="/wiki/Disciples_of_Jesus_in_Islam" title="Disciples of Jesus in Islam">Disciples of Jesus</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Noah%27s_Ark" title="Noah's Ark">Companions of Noah's Ark</a></li>
+<li><a href="/w/index.php?title=Companions_of_Sabbath&amp;action=edit&amp;redlink=1" class="new" title="Companions of Sabbath (page does not exist)">Companions of Sabbath (Aşḥāb al-Sabt)</a></li>
+<li><a href="/wiki/Seven_Sleepers#Islamic_interpretation" title="Seven Sleepers">Companions of the Cave/Seven Sleepers</a> and <a href="/wiki/Sahab_district#Famous_places_in_Sahab" title="Sahab district">Companions of al-Raqaim</a></li>
+<li><a href="/wiki/Al-Fil" title="Al-Fil">Companions of the Elephant</a></li>
+<li><a href="/wiki/Ancient_towns_in_Saudi_Arabia#Al-Ukhd.C5.ABd_Archeological_Area" title="Ancient towns in Saudi Arabia">People of al-Ukhdūd</a></li>
+<li><a href="/wiki/People_of_Ya-Sin" title="People of Ya-Sin">People of the City (People of Ya-Sin)</a></li>
+<li><a href="/w/index.php?title=People_of_the_Garden&amp;action=edit&amp;redlink=1" class="new" title="People of the Garden (page does not exist)">People of the Burned Garden (Aşḥāb al-Jannah)</a></li>
+<li><a href="/wiki/Ulu%27l_azm_prophets" class="mw-redirect" title="Ulu'l azm prophets">Ulu'l azm prophets</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=People_of_the_Verandah&amp;action=edit&amp;redlink=1" class="new" title="People of the Verandah (page does not exist)">Ahl al-Suffa (People of the Verandah)</a></li>
+<li><a href="/wiki/Banu_Aws" title="Banu Aws">Aus</a> and <a href="/wiki/Banu_Khazraj" title="Banu Khazraj">Khazraj</a></li>
+<li><a href="/wiki/Copts" title="Copts">Copts</a></li>
+<li><a href="/w/index.php?title=Hezbollah_(Quran)&amp;action=edit&amp;redlink=1" class="new" title="Hezbollah (Quran) (page does not exist)">Hezbollah</a></li>
+<li><a href="/wiki/Muhajirun" title="Muhajirun">Muhajirun (The emigrants)</a> and <a href="/wiki/Ansar_(Islam)" title="Ansar (Islam)">Ansar (The helpers)</a></li>
+<li><a href="/wiki/Muslim_world" title="Muslim world">Ummah of Islam (Ummah of Muhammad)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Religious groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dhimmi" title="Dhimmi">Ahl al-dhimmah (Dhimmi)</a></li>
+<li><a href="/wiki/Christian" title="Christian">Christians (People of Injil)</a></li>
+<li><a href="/wiki/Jews" title="Jews">Jews</a></li>
+<li><a href="/wiki/Kafir" title="Kafir">Kafir (Infidels)</a></li>
+<li><a href="/wiki/Majus" title="Majus">Majus</a>
+<ul>
+<li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrians</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Munafiq" class="mw-redirect" title="Munafiq">Munafiq</a>
+<ul>
+<li><a href="/wiki/Hypocrisy" title="Hypocrisy">Hypocrites</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Shirk_(Islam)" title="Shirk (Islam)">Mushrik</a>
+<ul>
+<li><a href="/wiki/Polytheism" title="Polytheism">Polytheists</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Muslim" title="Muslim">Muslims</a></li>
+<li><a href="/wiki/People_of_the_Book" title="People of the Book">People of the Book (‎′Ahl al-Kitāb)</a></li>
+<li><a href="/wiki/Sabians#Islamic_reference" title="Sabians">Sabians</a></li>
+<li><a href="/wiki/Hakham" title="Hakham">Ahbār (Jewish scholars)</a></li>
+<li><a href="/wiki/Priest#Christianity" title="Priest">Qissis (Christian priest)</a></li>
+<li><a href="/wiki/Rabbi" title="Rabbi">Rabbani/Rabbi</a></li>
+<li><a href="/wiki/Monk" title="Monk">Ruhban (Christian monks)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Locations.2C_entities_and_events" style="font-size:114%;margin:0 4em">Locations, entities and events</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Locations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Al-Ahqaf" title="Al-Ahqaf">Ahqāf</a></li>
+<li><a href="/wiki/Al-Aqsa_Mosque" title="Al-Aqsa Mosque">Al-Aqsa Mosque</a></li>
+<li><a href="/wiki/Mount_Arafat" title="Mount Arafat">Arafat</a> and <a href="/w/index.php?title=Mash%27ar_al-Har%C4%81m&amp;action=edit&amp;redlink=1" class="new" title="Mash'ar al-Harām (page does not exist)">Mash'ar al-Harām</a></li>
+<li><a href="/wiki/Babil_Governorate#History" title="Babil Governorate">Bābil</a>/<a href="/wiki/Babylon" title="Babylon">Babylon</a></li>
+<li><a href="/wiki/Badr,_Saudi_Arabia" title="Badr, Saudi Arabia">Badr</a></li>
+<li><a href="/w/index.php?title=Door_of_Hittah&amp;action=edit&amp;redlink=1" class="new" title="Door of Hittah (page does not exist)">Door of Hittah</a></li>
+<li><a href="/wiki/Mada%27in_Saleh" title="Mada'in Saleh">Hijr/Hegra</a></li>
+<li><a href="/wiki/Holy_Land" title="Holy Land">Holy Land</a> (<a href="/wiki/Palestine_(region)" title="Palestine (region)">Palestine</a> and <a href="/wiki/Levant" title="Levant">Levant</a>)</li>
+<li><a href="/wiki/Hunayn,_Saudi_Arabia" title="Hunayn, Saudi Arabia">Hunayn</a></li>
+<li><a href="/wiki/Iram_of_the_Pillars" title="Iram of the Pillars">Iram</a></li>
+<li><a href="/wiki/Kaaba" title="Kaaba">Ka'bah/Kaaba (Bayt al-Harām/Sacred House, Bayt al-'Atīq/Ancient House)</a></li>
+<li><a href="/wiki/Midian" title="Midian">Madyan/Midian</a></li>
+<li><a href="/wiki/Medina" title="Medina">Madinah/Medina</a> (formerly <a href="/wiki/Medina#Pre-Islamic_times" title="Medina">Yathrib</a>)</li>
+<li><a href="/w/index.php?title=Majma%27_al-Bahrain&amp;action=edit&amp;redlink=1" class="new" title="Majma' al-Bahrain (page does not exist)">Majma' al-Bahrain</a></li>
+<li><a href="/wiki/Mecca" title="Mecca">Makkah/Mecca (Umm al-Qura, Balad al-Amin</a>, <a href="/wiki/Bakkah" title="Bakkah">Bakkah</a>)</li>
+<li><a href="/wiki/Masjid_al-Haram#Maq.C4.81m_Ibrahim" class="mw-redirect" title="Masjid al-Haram">Maqām Ibrahim</a></li>
+<li><a href="/wiki/Demolition_of_Masjid_al-Dirar" title="Demolition of Masjid al-Dirar">Masjid al-Dirar</a></li>
+<li><a href="/wiki/Masjid_al-Haram" class="mw-redirect" title="Masjid al-Haram">Masjid al-Haram</a></li>
+<li><a href="/wiki/Mount_Judi" title="Mount Judi">Mount Judi</a></li>
+<li><a href="/wiki/Sodom_and_Gomorrah" title="Sodom and Gomorrah">Mu'tafikat (Sodom)</a></li>
+<li><a href="/wiki/Ar_Rass" title="Ar Rass">Rass</a></li>
+<li><a href="/wiki/Sheba" title="Sheba">Saba'/Sheba</a></li>
+<li><a href="/wiki/Al-Safa_and_Al-Marwah" title="Al-Safa and Al-Marwah">Al-Safa and Al-Marwah</a></li>
+<li><a href="/wiki/Mount_Sinai" title="Mount Sinai">Tur Sinā' /Mount Sinai</a> and <a href="/wiki/Mount_Tabor" title="Mount Tabor">Jabal al-Tur</a></li>
+<li><a href="/wiki/Egypt" title="Egypt">Egypt</a></li>
+<li><a href="/wiki/Valley_of_Tuwa" class="mw-redirect" title="Valley of Tuwa">Valley of Tuwa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antioch" title="Antioch">Antioch</a>
+<ul>
+<li><a href="/wiki/Antakya" title="Antakya">Antakya</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ayla_(city)" title="Ayla (city)">Ayla</a></li>
+<li><a href="/wiki/Dhul-Qarnayn" title="Dhul-Qarnayn">Barrier of Dhul-Qarnayn</a></li>
+<li><a href="/wiki/Jerusalem" title="Jerusalem">Bayt al-Muqaddas</a> and <a href="/wiki/Jericho" title="Jericho">'Ariha</a></li>
+<li><a href="/wiki/Black_Stone" title="Black Stone">Black Stone (Al-Ḥajar al-Aswad)</a> and <a href="/wiki/Al-Hijr_of_Ishmael" class="mw-redirect" title="Al-Hijr of Ishmael">Al-Hijr of Isma'il</a></li>
+<li><a href="/wiki/Canaan" title="Canaan">Canaan</a></li>
+<li><a href="/wiki/Hira" title="Hira">Cave of Hira</a> and <a href="/wiki/Jabal_Thawr#Cave" title="Jabal Thawr">Cave of Thawr</a></li>
+<li><a href="/wiki/Seven_Sleepers#Location_of_the_cave_and_duration_of_stay" title="Seven Sleepers">Cave of Seven Sleepers</a></li>
+<li><a href="/w/index.php?title=D%C4%81r_al-Nadwa&amp;action=edit&amp;redlink=1" class="new" title="Dār al-Nadwa (page does not exist)">Dār al-Nadwa</a></li>
+<li><a href="/wiki/Treaty_of_Hudaybiyyah" title="Treaty of Hudaybiyyah">Hudaybiyyah</a></li>
+<li><a href="/wiki/Jordan_River" title="Jordan River">Jordan River</a></li>
+<li><a href="/wiki/Marib_Dam" title="Marib Dam">Ma'rib Dam</a></li>
+<li><a href="/wiki/Al-Masjid_an-Nabawi" title="Al-Masjid an-Nabawi">Masjid al-Nabawi (Prophet's Mosque)</a></li>
+<li><a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a></li>
+<li><a href="/wiki/Nile" title="Nile">Nile River</a></li>
+<li><a href="/wiki/Nineveh" title="Nineveh">Nineveh</a></li>
+<li><a href="/w/index.php?title=Palestine_River&amp;action=edit&amp;redlink=1" class="new" title="Palestine River (page does not exist)">Palestine River</a></li>
+<li><a href="/wiki/Shaddad" title="Shaddad">Paradise of Shaddad</a></li>
+<li><a href="/wiki/Quba_Mosque" title="Quba Mosque">Quba Mosque</a></li>
+<li><a href="/wiki/Sinai_Peninsula" title="Sinai Peninsula">Sinai Desert</a> and <a href="/w/index.php?title=T%C4%ABh_Desert&amp;action=edit&amp;redlink=1" class="new" title="Tīh Desert (page does not exist)">Tīh Desert</a></li>
+<li><a href="/wiki/Ta%27if" title="Ta'if">Ta'if</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Religious locations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christian_Church" title="Christian Church">Bay'a (Church)</a></li>
+<li><a href="/wiki/Mihrab" title="Mihrab">Mihrab</a></li>
+<li><a href="/wiki/Monastery" title="Monastery">Monastery</a></li>
+<li><a href="/wiki/Mosque" title="Mosque">Mosque</a></li>
+<li><a href="/wiki/Synagogue" title="Synagogue">Salat (Synagogue)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Non-human<br />
+physical<br />
+entities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Islamic_holy_books" title="Islamic holy books">Religious texts</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gospel_in_Islam" title="Gospel in Islam">Injil/Gospel</a></li>
+<li><a href="/wiki/Quran" title="Quran">Quran</a></li>
+<li><a href="/wiki/Scrolls_of_Abraham" title="Scrolls of Abraham">Suhuf-i Ibrahim (Scrolls of Abraham)</a></li>
+<li><a href="/wiki/Torah_in_Islam" title="Torah in Islam">Tawrat/Torah</a>, <a href="/wiki/Scrolls_of_Moses" title="Scrolls of Moses">Suhuf-i-Musa (Scrolls of Moses)</a> and <a href="/wiki/Tablets_of_Stone" title="Tablets of Stone">Tablets of Stone</a></li>
+<li><a href="/wiki/Zabur" title="Zabur">Zabur</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related animals</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Al-Baqara#Overview" title="Al-Baqara">Cow of Israelites</a> and <a href="/wiki/Golden_calf" title="Golden calf">Golden calf</a></li>
+<li><a href="/wiki/Seven_Sleepers#Islamic_interpretation" title="Seven Sleepers">Dog of Seven Sleepers</a></li>
+<li><a href="/wiki/Jonah#The_fish" title="Jonah">Fish of Yunis</a></li>
+<li><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Hoopoe of Sulayman</a></li>
+<li><a href="/wiki/She-Camel_of_God" title="She-Camel of God">She-Camel of Saleh</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related objects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forbidden_fruit#Islamic_tradition" title="Forbidden fruit">Forbidden fruit of Adam</a></li>
+<li><a href="/wiki/Disciples_of_Jesus_in_Islam" title="Disciples of Jesus in Islam">Heavenly Food of Christian Apostles</a></li>
+<li><a href="/wiki/Noah%27s_Ark" title="Noah's Ark">Noah's Ark</a></li>
+<li><a href="/wiki/Staff_of_Moses" title="Staff of Moses">Staff of Musa</a></li>
+<li><a href="/wiki/Ark_of_the_Covenant#Quran" title="Ark of the Covenant">Tabut al-Sakina (Casket of Shekhinah)</a></li>
+<li><a href="/wiki/Queen_of_Sheba#Qur.27anic_account" title="Queen of Sheba">Throne of Bilqis</a></li>
+<li><a href="/wiki/Israfil" title="Israfil">Trumpet of Israfil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mentioned idols<br />
+(cult images)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Baal#In_Islam" title="Baal">Baal</a></li>
+<li><a href="/wiki/Al-l%C4%81t" class="mw-redirect" title="Al-lāt">Lāt</a>, <a href="/wiki/Al-%E2%80%98Uzz%C3%A1" title="Al-‘Uzzá">'Uzza</a> and <a href="/wiki/Man%C4%81t" title="Manāt">Manāt</a></li>
+<li><a href="/wiki/Wadd" title="Wadd">Wadd</a>, <a href="/wiki/Suwa%27" title="Suwa'">Suwa'</a>, <a href="/wiki/Yaghuth" class="mw-redirect" title="Yaghuth">Yaghuth</a>, <a href="/wiki/Ya%27uq" title="Ya'uq">Ya'uq</a> and <a href="/wiki/Nasr_(idol)" title="Nasr (idol)">Nasr</a></li>
+<li>(<a href="/w/index.php?title=Jibt&amp;action=edit&amp;redlink=1" class="new" title="Jibt (page does not exist)">Jibt</a> and <a href="/wiki/Taghut" title="Taghut">Taghut</a></li>
+<li><a href="/w/index.php?title=Ans%C4%81b&amp;action=edit&amp;redlink=1" class="new" title="Ansāb (page does not exist)">Ansāb</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Events</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_Badr" title="Battle of Badr">Battle of Badr</a></li>
+<li><a href="/wiki/Battle_of_Hunayn" title="Battle of Hunayn">Battle of Hunayn</a></li>
+<li><a href="/wiki/Battle_of_Khaybar" title="Battle of Khaybar">Battle of Khaybar</a></li>
+<li><a href="/wiki/Battle_of_Tabouk" class="mw-redirect" title="Battle of Tabouk">Battle of Tabouk</a></li>
+<li><a href="/wiki/Battle_of_the_Trench" title="Battle of the Trench">Battle of the Trench (Battle of the Confederates)</a></li>
+<li><a href="/wiki/Battle_of_Uhud" title="Battle of Uhud">Battle of Uhud</a></li>
+<li><a href="/wiki/Conquest_of_Mecca" title="Conquest of Mecca">Conquest of Mecca</a></li>
+<li><a href="/wiki/Hadith_of_the_pond_of_Khumm" title="Hadith of the pond of Khumm">Hadith of the pond of Khumm</a></li>
+<li><a href="/w/index.php?title=Incident_of_Ifk&amp;action=edit&amp;redlink=1" class="new" title="Incident of Ifk (page does not exist)">Incident of Ifk</a></li>
+<li><a href="/w/index.php?title=Layla_al-Mabit&amp;action=edit&amp;redlink=1" class="new" title="Layla al-Mabit (page does not exist)">Layla al-Mabit</a></li>
+<li><a href="/wiki/Event_of_Mubahala" title="Event of Mubahala">Mubahala</a></li>
+<li><a href="/wiki/Farewell_Pilgrimage" title="Farewell Pilgrimage">The Farewell Pilgrimage (Hujja al-Wada')</a></li>
+<li><a href="/wiki/Treaty_of_Hudaybiyyah" title="Treaty of Hudaybiyyah">Treaty of Hudaybiyyah</a></li>
+<li><a href="/wiki/The_first_pilgrimage" title="The first pilgrimage">Umrah al-Qaza</a></li>
+<li><a href="/w/index.php?title=Yawm_al-D%C4%81r&amp;action=edit&amp;redlink=1" class="new" title="Yawm al-Dār (page does not exist)">Yawm al-Dār</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b>Note:</b> The names are sorted alphabetically. Standard form: Islamic name / Bibilical name (title or relationship)</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Jewish_tribes_of_Arabia" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Arabian_Peninsula_Jewish_tribes" title="Template:Arabian Peninsula Jewish tribes"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Arabian_Peninsula_Jewish_tribes" title="Template talk:Arabian Peninsula Jewish tribes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Arabian_Peninsula_Jewish_tribes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Jewish_tribes_of_Arabia" style="font-size:114%;margin:0 4em"><a href="/wiki/Jewish_tribes_of_Arabia" title="Jewish tribes of Arabia">Jewish tribes of Arabia</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Banu Nadir</a></li>
+<li><a href="/wiki/Banu_Qaynuqa" title="Banu Qaynuqa">Banu Qaynuqa</a></li>
+<li><a href="/wiki/Banu_Qurayza" title="Banu Qurayza">Banu Qurayza</a></li>
+<li><a href="/wiki/Banu_Awf" title="Banu Awf">Banu Awf</a></li>
+<li><a href="/wiki/Banu_Harith" title="Banu Harith">Banu Harith</a></li>
+<li><a href="/wiki/Banu_Jusham" title="Banu Jusham">Banu Jusham</a></li>
+<li><a href="/wiki/Banu_Sa%27ida" title="Banu Sa'ida">Banu Sa'ida</a></li>
+<li><a href="/wiki/Banu_Shutayba" title="Banu Shutayba">Banu Shutayba</a></li>
+<li><a href="/wiki/Hejazi_Jews" class="mw-redirect" title="Hejazi Jews">Hejazi Jews</a></li>
+<li><a href="/wiki/Yemenite_Jews" title="Yemenite Jews">Yemenite Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Aden" title="History of the Jews in Aden">Jews of Aden</a></li>
+<li><a href="/wiki/Habbani_Jews" title="Habbani Jews">Habbani Jews</a></li>
+<li><a href="/wiki/Jews_of_Hadramaut" class="mw-redirect" title="Jews of Hadramaut">Jews of Hadramaut</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Arabian_Peninsula_dust_SeaWiFS.jpg" class="image"><img alt="Arabian Peninsula dust SeaWiFS.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arabian_Peninsula_dust_SeaWiFS.jpg/50px-Arabian_Peninsula_dust_SeaWiFS.jpg" width="50" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arabian_Peninsula_dust_SeaWiFS.jpg/75px-Arabian_Peninsula_dust_SeaWiFS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arabian_Peninsula_dust_SeaWiFS.jpg/100px-Arabian_Peninsula_dust_SeaWiFS.jpg 2x" data-file-width="2504" data-file-height="2286" /></a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Jews_and_Judaism" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Jews_and_Judaism" title="Template:Jews and Judaism"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Jews_and_Judaism" title="Template talk:Jews and Judaism"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jews_and_Judaism&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Jews_and_Judaism" style="font-size:114%;margin:0 4em"><a href="/wiki/Jews" title="Jews">Jews</a> and <a href="/wiki/Judaism" title="Judaism">Judaism</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Outline_of_Judaism" title="Outline of Judaism">Outline of Judaism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Jewish_history" title="Jewish history">History</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Timeline_of_Jewish_history" title="Timeline of Jewish history">Timeline</a></li>
+<li><a href="/wiki/History_of_ancient_Israel_and_Judah" title="History of ancient Israel and Judah">Ancient</a></li>
+<li><a href="/wiki/Temple_in_Jerusalem" title="Temple in Jerusalem">Temple in Jerusalem</a></li>
+<li><a href="/wiki/Babylonian_captivity" title="Babylonian captivity">Babylonian captivity</a></li>
+<li><a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>
+<ul>
+<li><a href="/wiki/Jerusalem_in_Judaism" title="Jerusalem in Judaism">Significance</a></li>
+<li><a href="/wiki/Timeline_of_Jerusalem" title="Timeline of Jerusalem">Timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hasmonean_dynasty" title="Hasmonean dynasty">Hasmonean dynasty</a></li>
+<li><a href="/wiki/Herod_the_Great" title="Herod the Great">Herod</a></li>
+<li><a href="/wiki/Sanhedrin" title="Sanhedrin">Sanhedrin</a></li>
+<li><a href="/wiki/Pharisees" title="Pharisees">Pharisees</a></li>
+<li><a href="/wiki/Sadducees" title="Sadducees">Sadducees</a></li>
+<li><a href="/wiki/Essenes" title="Essenes">Essenes</a></li>
+<li><a href="/wiki/First_Jewish%E2%80%93Roman_War" title="First Jewish–Roman War">First Jewish–Roman War</a></li>
+<li><a href="/wiki/Bar_Kokhba_revolt" title="Bar Kokhba revolt">Bar Kokhba revolt</a></li>
+<li><a href="/wiki/Jewish_diaspora" title="Jewish diaspora">Diaspora</a></li>
+<li><a href="/wiki/Jews_in_the_Middle_Ages" class="mw-redirect" title="Jews in the Middle Ages">Middle Ages</a></li>
+<li><a href="/wiki/History_of_the_Jews_under_Muslim_rule" title="History of the Jews under Muslim rule">Muslim rule</a></li>
+<li><a href="/wiki/Sabbateans" title="Sabbateans">Sabbateans</a></li>
+<li><a href="/wiki/Haskalah" title="Haskalah">Haskalah</a></li>
+<li><a href="/wiki/Jewish_emancipation" title="Jewish emancipation">Emancipation</a></li>
+<li><a href="/wiki/The_Holocaust" title="The Holocaust">The Holocaust</a></li>
+<li><a href="/wiki/History_of_Zionism" title="History of Zionism">History of Zionism</a></li>
+<li><a href="/wiki/History_of_Israel" title="History of Israel">History of Israel</a></li>
+<li><a href="/wiki/Proposals_for_a_Jewish_state" title="Proposals for a Jewish state">Proposals for a Jewish state</a></li>
+<li><a href="/wiki/Land_of_Israel" title="Land of Israel">Land of Israel</a></li>
+<li><a href="/wiki/Aliyah" title="Aliyah">Aliyah</a></li>
+<li><a href="/wiki/Baal_teshuva_movement" title="Baal teshuva movement">Baal teshuva movement</a></li>
+<li><a href="/wiki/Arab%E2%80%93Israeli_conflict" title="Arab–Israeli conflict">Arab–Israeli</a>&#160;/ <a href="/wiki/Israeli%E2%80%93Palestinian_conflict" title="Israeli–Palestinian conflict">Israeli–Palestinian conflicts</a></li>
+<li><a href="/wiki/Judaism_by_country" title="Judaism by country">Judaism by country</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Jewish_ethnic_divisions" title="Jewish ethnic divisions">Jewish groups</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ashkenazi_Jews" title="Ashkenazi Jews">Ashkenazi Jews</a>
+<ul>
+<li><a href="/wiki/History_of_the_Jews_in_Germany" title="History of the Jews in Germany">German Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Hungary" title="History of the Jews in Hungary">Hungarian Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Lithuania" title="History of the Jews in Lithuania">Lithuanian Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Poland" title="History of the Jews in Poland">Polish Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Russia" title="History of the Jews in Russia">Russian Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_the_Soviet_Union" title="History of the Jews in the Soviet Union">Soviet Jews</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sephardi_Jews" title="Sephardi Jews">Sephardi Jews</a>
+<ul>
+<li><a href="/wiki/Spanish_and_Portuguese_Jews" title="Spanish and Portuguese Jews">Spanish and Portuguese Jews</a></li>
+<li><a href="/wiki/Jews_in_Turkey" class="mw-redirect" title="Jews in Turkey">Turkish Jews</a></li>
+<li><a href="/wiki/Maghrebi_Jews" title="Maghrebi Jews">Maghrebi Jews</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mizrahi_Jews" title="Mizrahi Jews">Mizrahi Jews</a>
+<ul>
+<li><a href="/wiki/Yemenite_Jews" title="Yemenite Jews">Yemenite Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Iraq" title="History of the Jews in Iraq">Iraqi Jews</a></li>
+<li><a href="/wiki/Syrian_Jews" title="Syrian Jews">Syrian Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Iran" title="History of the Jews in Iran">Persian Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Kurdistan" title="History of the Jews in Kurdistan">Kurdish Jews</a></li>
+<li><a href="/wiki/Bukharan_Jews" title="Bukharan Jews">Bukharan Jews</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History_of_the_Jews_in_Africa" title="History of the Jews in Africa">African Jews</a>
+<ul>
+<li><a href="/wiki/Berber_Jews" title="Berber Jews">Berber Jews</a></li>
+<li><a href="/wiki/Beta_Israel" title="Beta Israel">Beta Israel</a></li>
+</ul>
+</li>
+<li>Greco-Roman Jews
+<ul>
+<li><a href="/wiki/Romaniote_Jews" title="Romaniote Jews">Romaniote Jews</a></li>
+<li><a href="/wiki/Italian_Jews#Italian_rite_Jews" title="Italian Jews">Italkim</a></li>
+</ul>
+</li>
+<li>Jews of the Caucasus
+<ul>
+<li><a href="/wiki/Georgian_Jews" class="mw-redirect" title="Georgian Jews">Georgian Jews</a></li>
+<li><a href="/wiki/Mountain_Jews" title="Mountain Jews">Mountain Jews</a></li>
+<li><a href="/wiki/Crimean_Karaites" title="Crimean Karaites">Crimean Karaites</a></li>
+<li><a href="/wiki/Krymchaks" title="Krymchaks">Krymchaks</a></li>
+<li><a href="/wiki/Urfalim" title="Urfalim">Urfalim</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History_of_the_Jews_in_India" title="History of the Jews in India">Indian Jews</a>
+<ul>
+<li><a href="/wiki/Baghdadi_Jews" title="Baghdadi Jews">Baghdadi Jews</a></li>
+<li><a href="/wiki/Bene_Ephraim" title="Bene Ephraim">Bene Ephraim</a></li>
+<li><a href="/wiki/Bene_Israel" title="Bene Israel">Bene Israel</a></li>
+<li><a href="/wiki/Bnei_Menashe" title="Bnei Menashe">Bnei Menashe</a></li>
+<li><a href="/wiki/Cochin_Jews" title="Cochin Jews">Cochin Jews</a></li>
+</ul>
+</li>
+<li><a href="/wiki/East_Asian_Jews" title="East Asian Jews">East Asian Jews</a>
+<ul>
+<li><a href="/wiki/Kaifeng_Jews" title="Kaifeng Jews">Kaifeng Jews</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Jewish_religious_movements" title="Jewish religious movements">Religious<br />
+movements</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a>
+<ul>
+<li><a href="/wiki/Haredi_Judaism" title="Haredi Judaism">Haredi</a></li>
+<li><a href="/wiki/Hasidic_Judaism" title="Hasidic Judaism">Hasidic</a></li>
+<li><a href="/wiki/Modern_Orthodox_Judaism" title="Modern Orthodox Judaism">Modern Orthodox</a></li>
+<li><a href="/wiki/Religious_Zionism" title="Religious Zionism">Religious Zionism</a></li>
+<li><a href="/wiki/Chardal" title="Chardal">Chardal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Musar_movement" title="Musar movement">Musar movement</a></li>
+<li><a href="/wiki/Conservative_Judaism" title="Conservative Judaism">Conservative</a>
+<ul>
+<li><a href="/wiki/Neolog_Judaism" title="Neolog Judaism">Neolog</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Reform_Judaism" title="Reform Judaism">Reform/Progressive</a></li>
+<li><a href="/wiki/Reconstructionist_Judaism" title="Reconstructionist Judaism">Reconstructionist</a></li>
+<li><a href="/wiki/Jewish_Renewal" title="Jewish Renewal">Jewish Renewal</a></li>
+<li><a href="/wiki/Haymanot" title="Haymanot">Haymanot</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic</a></li>
+<li><a href="/wiki/Rabbinic_Judaism" title="Rabbinic Judaism">Rabbinic</a></li>
+<li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaite</a></li>
+<li><a href="/wiki/Samaritans" title="Samaritans">Samaritans</a></li>
+<li><a href="/wiki/Jewish_schisms" title="Jewish schisms">Schisms</a></li>
+<li><a href="/wiki/Shomer_Masoret" class="mw-redirect" title="Shomer Masoret">Shomer Masoret</a></li>
+<li><a href="/wiki/Relationships_between_Jewish_religious_movements" title="Relationships between Jewish religious movements">Intra-Jewish relations</a></li>
+<li><a href="/wiki/Jewish_atheism" title="Jewish atheism">Atheism</a></li>
+<li><a href="/wiki/Noahidism" title="Noahidism">Noahidism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Jewish_philosophy" title="Jewish philosophy">Philosophy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/613_commandments" title="613 commandments">613 commandments</a></li>
+<li><a href="/wiki/Halakha" title="Halakha">Halakha</a></li>
+<li><a href="/wiki/Jewish_principles_of_faith" title="Jewish principles of faith">Principles of faith</a></li>
+<li><a href="/wiki/Jews_as_the_chosen_people" title="Jews as the chosen people">Chosen people</a></li>
+<li><a href="/wiki/Jewish_ethics" title="Jewish ethics">Ethics</a>
+<ul>
+<li><a href="/wiki/Chesed" title="Chesed">Chesed</a></li>
+<li><a href="/wiki/Tzedakah" title="Tzedakah">Tzedakah</a></li>
+<li><a href="/wiki/Pikuach_Nefesh" class="mw-redirect" title="Pikuach Nefesh">Pikuach Nefesh</a></li>
+<li><a href="/wiki/Kavod_HaBriyot" title="Kavod HaBriyot">Kavod HaBriyot</a></li>
+<li><a href="/wiki/Lashon_hara" title="Lashon hara">Lashon hara</a></li>
+<li><a href="/wiki/Tza%27ar_ba%27alei_chayim" title="Tza'ar ba'alei chayim">Tza'ar ba'alei chayim</a></li>
+<li><a href="/wiki/Tikkun_olam" title="Tikkun olam">Tikkun olam</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Teshuva" class="mw-redirect" title="Teshuva">Teshuva</a></li>
+<li><a href="/wiki/Kashrut" title="Kashrut">Kashrut</a></li>
+<li><a href="/wiki/Kabbalah" title="Kabbalah">Kabbalah</a></li>
+<li><a href="/wiki/Names_of_God_in_Judaism" title="Names of God in Judaism">Names of God</a></li>
+<li><a href="/wiki/Messiah_in_Judaism" title="Messiah in Judaism">Messiah</a></li>
+<li><a href="/wiki/Jewish_eschatology" title="Jewish eschatology">Eschatology</a></li>
+<li><a href="/wiki/Seven_Laws_of_Noah" title="Seven Laws of Noah">Seven Laws of Noah</a></li>
+<li><a href="/wiki/Tzniut" title="Tzniut">Tzniut</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Jewish_texts" title="Category:Jewish texts">Religious texts</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tanakh" title="Tanakh">Tanakh</a>
+<ul>
+<li><a href="/wiki/Torah#Pentateuch" title="Torah">Torah</a></li>
+<li><a href="/wiki/Nevi%27im" title="Nevi'im">Nevi'im</a></li>
+<li><a href="/wiki/Ketuvim" title="Ketuvim">Ketuvim</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mishnah" title="Mishnah">Mishnah</a></li>
+<li><a href="/wiki/Talmud" title="Talmud">Talmud</a></li>
+<li><a href="/wiki/Tosefta" title="Tosefta">Tosefta</a></li>
+<li><a href="/wiki/Midrash" title="Midrash">Midrash</a></li>
+<li><a href="/wiki/Rabbinic_literature" title="Rabbinic literature">Rabbinic literature</a></li>
+<li><a href="/wiki/Mishneh_Torah" title="Mishneh Torah">Mishneh Torah</a></li>
+<li><a href="/wiki/Arba%27ah_Turim" title="Arba'ah Turim">Arba'ah Turim</a></li>
+<li><a href="/wiki/Shulchan_Aruch" title="Shulchan Aruch">Shulchan Aruch</a></li>
+<li><a href="/wiki/Mishnah_Berurah" title="Mishnah Berurah">Mishnah Berurah</a></li>
+<li><a href="/wiki/Chumash_(Judaism)" title="Chumash (Judaism)">Chumash</a></li>
+<li><a href="/wiki/Zohar" title="Zohar">Zohar</a></li>
+<li><a href="/wiki/Haggadah" title="Haggadah">Haggadah</a></li>
+<li><a href="/wiki/Piyyut" title="Piyyut">Piyyut</a></li>
+<li><a href="/wiki/Siddur" title="Siddur">Siddur</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Jewish_holy_places" title="Category:Jewish holy places">Places</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Land_of_Israel" title="Land of Israel">Land of Israel</a></li>
+<li><a href="/wiki/Four_Holy_Cities" title="Four Holy Cities">Four Holy Cities</a>
+<ul>
+<li><a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a></li>
+<li><a href="/wiki/Safed" title="Safed">Tzfat</a></li>
+<li><a href="/wiki/Hebron" title="Hebron">Hebron</a></li>
+<li><a href="/wiki/Tiberias" title="Tiberias">Tiberias</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Beth_din" title="Beth din">Beth din</a></li>
+<li><a href="/wiki/Mikveh" title="Mikveh">Mikveh</a></li>
+<li><a href="/wiki/Synagogue" title="Synagogue">Synagogue</a></li>
+<li><a href="/wiki/Temple_in_Jerusalem" title="Temple in Jerusalem">Temple</a></li>
+<li><a href="/wiki/Tabernacle" title="Tabernacle">Tabernacle</a></li>
+<li><a href="/wiki/Temple_Mount" title="Temple Mount">Temple Mount</a></li>
+<li><a href="/wiki/Western_Wall" title="Western Wall">Western Wall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_major_biblical_figures" title="List of major biblical figures">Biblical figures</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abraham" title="Abraham">Abraham</a></li>
+<li><a href="/wiki/Isaac" title="Isaac">Isaac</a></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li>
+<li><a href="/wiki/Sarah" title="Sarah">Sarah</a></li>
+<li><a href="/wiki/Rebecca" title="Rebecca">Rebecca</a></li>
+<li><a href="/wiki/Rachel" title="Rachel">Rachel</a></li>
+<li><a href="/wiki/Leah" title="Leah">Leah</a></li>
+<li><a href="/wiki/Joseph_(patriarch)" class="mw-redirect" title="Joseph (patriarch)">Joseph</a></li>
+<li><a href="/wiki/Judah_(biblical_person)" class="mw-redirect" title="Judah (biblical person)">Judah</a></li>
+<li><a href="/wiki/Moses" title="Moses">Moses</a></li>
+<li><a href="/wiki/Joshua" title="Joshua">Joshua</a></li>
+<li><a href="/wiki/Deborah" title="Deborah">Deborah</a></li>
+<li><a href="/wiki/Book_of_Ruth" title="Book of Ruth">Ruth</a></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+<li><a href="/wiki/Solomon" title="Solomon">Solomon</a></li>
+<li><a href="/wiki/Elijah" title="Elijah">Elijah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Jewish_leadership" title="Jewish leadership">Leadership</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ezra" title="Ezra">Ezra</a></li>
+<li><a href="/wiki/Nehemia" class="mw-redirect" title="Nehemia">Nehemia</a></li>
+<li><a href="/wiki/Hillel_the_Elder" title="Hillel the Elder">Hillel</a></li>
+<li><a href="/wiki/Shammai" title="Shammai">Shammai</a></li>
+<li><a href="/wiki/Judah_the_Prince" title="Judah the Prince">Yehudah haNasi</a></li>
+<li><a href="/wiki/Saadia_Gaon" title="Saadia Gaon">Saadia Gaon</a></li>
+<li><a href="/wiki/Gershom_ben_Judah" title="Gershom ben Judah">Gershom ben Judah</a></li>
+<li><a href="/wiki/Isaac_Alfasi" title="Isaac Alfasi">Isaac Alfasi</a></li>
+<li><a href="/wiki/Judah_Halevi" title="Judah Halevi">Judah Halevi</a></li>
+<li><a href="/wiki/Abraham_ibn_Ezra" title="Abraham ibn Ezra">Abraham ibn Ezra</a></li>
+<li><a href="/wiki/List_of_Tosafists" title="List of Tosafists">Tosafists</a></li>
+<li><a href="/wiki/Yosef_Karo" class="mw-redirect" title="Yosef Karo">Yosef Karo</a></li>
+<li><a href="/wiki/Maimonides" title="Maimonides">Maimonides</a></li>
+<li><a href="/wiki/Nahmanides" class="mw-redirect" title="Nahmanides">Nahmanides</a></li>
+<li><a href="/wiki/Gersonides" title="Gersonides">Gersonides</a></li>
+<li><a href="/wiki/Isaac_Abravanel" class="mw-redirect" title="Isaac Abravanel">Isaac Abravanel</a></li>
+<li><a href="/wiki/Judah_Loew_ben_Bezalel" title="Judah Loew ben Bezalel">Maharal</a></li>
+<li><a href="/wiki/Isaac_Luria" title="Isaac Luria">Isaac Luria</a></li>
+<li><a href="/wiki/Baal_Shem_Tov" title="Baal Shem Tov">Baal Shem Tov</a></li>
+<li><a href="/wiki/Vilna_Gaon" title="Vilna Gaon">Vilna Gaon</a></li>
+<li><a href="/wiki/Moses_Sofer" title="Moses Sofer">Moses Sofer</a></li>
+<li><a href="/wiki/Shneur_Zalman_of_Liadi" title="Shneur Zalman of Liadi">Shneur Zalman of Liadi</a></li>
+<li><a href="/wiki/Moses_Mendelssohn" title="Moses Mendelssohn">Moses Mendelssohn</a></li>
+<li><a href="/wiki/Yosef_Dov_Soloveitchik_(Beis_Halevi)" title="Yosef Dov Soloveitchik (Beis Halevi)">Yosef Dov Soloveitchik</a></li>
+<li><a href="/wiki/Samson_Raphael_Hirsch" title="Samson Raphael Hirsch">Samson Raphael Hirsch</a></li>
+<li><a href="/wiki/Nosson_Tzvi_Finkel_(Slabodka)" title="Nosson Tzvi Finkel (Slabodka)">Nosson Tzvi Finkel</a></li>
+<li><a href="/wiki/Abraham_Geiger" title="Abraham Geiger">Abraham Geiger</a></li>
+<li><a href="/wiki/Avrohom_Yeshaya_Karelitz" title="Avrohom Yeshaya Karelitz">Avrohom Yeshaya Karelitz</a></li>
+<li><a href="/wiki/Solomon_Schechter" title="Solomon Schechter">Solomon Schechter</a></li>
+<li><a href="/wiki/David_Ben-Gurion" title="David Ben-Gurion">David Ben-Gurion</a></li>
+<li><a href="/wiki/Golda_Meir" title="Golda Meir">Golda Meir</a></li>
+<li><a href="/wiki/Menachem_Begin" title="Menachem Begin">Menachem Begin</a></li>
+<li><a href="/wiki/Mordecai_Kaplan" title="Mordecai Kaplan">Mordecai Kaplan</a></li>
+<li><a href="/wiki/Aharon_Kotler" title="Aharon Kotler">Aharon Kotler</a></li>
+<li><a href="/wiki/Moshe_Feinstein" title="Moshe Feinstein">Moshe Feinstein</a></li>
+<li><a href="/wiki/Yaakov_Kamenetsky" title="Yaakov Kamenetsky">Yaakov Kamenetsky</a></li>
+<li><a href="/wiki/Joseph_Breuer" title="Joseph Breuer">Joseph Breuer</a></li>
+<li><a href="/wiki/Yaakov_Yitzchok_Ruderman" title="Yaakov Yitzchok Ruderman">Yaakov Yitzchok Ruderman</a></li>
+<li><a href="/wiki/Joel_Teitelbaum" title="Joel Teitelbaum">Yoel Teitelbaum</a></li>
+<li><a href="/wiki/Menachem_Mendel_Schneerson" title="Menachem Mendel Schneerson">Menachem Schneerson</a></li>
+<li><a href="/wiki/Abraham_Joshua_Heschel" title="Abraham Joshua Heschel">Abraham Joshua Heschel</a></li>
+<li><a href="/wiki/Joseph_B._Soloveitchik" title="Joseph B. Soloveitchik">Joseph B. Soloveitchik</a></li>
+<li><a href="/wiki/Elazar_Shach" title="Elazar Shach">Elazar Shach</a></li>
+<li><a href="/wiki/Shlomo_Carlebach_(musician)" title="Shlomo Carlebach (musician)">Shlomo Carlebach</a></li>
+<li><a href="/wiki/Adin_Steinsaltz" title="Adin Steinsaltz">Adin Steinsaltz</a></li>
+<li><a href="/wiki/Zalman_Schachter-Shalomi" title="Zalman Schachter-Shalomi">Zalman Schachter-Shalomi</a></li>
+<li><a href="/wiki/Norman_Lamm" title="Norman Lamm">Norman Lamm</a></li>
+<li><a href="/wiki/Chaim_Kanievsky" title="Chaim Kanievsky">Chaim Kanievsky</a></li>
+<li><a href="/wiki/Shmuel_Kamenetsky" title="Shmuel Kamenetsky">Shmuel Kamenetsky</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Jewish_religious_occupations" title="Category:Jewish religious occupations">Roles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kohen" title="Kohen">Kohen</a></li>
+<li><a href="/wiki/Hazzan" title="Hazzan">Hazzan</a></li>
+<li><a href="/wiki/Gabbai" title="Gabbai">Gabbai</a></li>
+<li><a href="/wiki/Maggid" title="Maggid">Maggid</a></li>
+<li><a href="/wiki/Mashgiach" title="Mashgiach">Mashgiach</a></li>
+<li><a href="/wiki/Mohel" title="Mohel">Mohel</a></li>
+<li><a href="/wiki/Posek" title="Posek">Posek</a></li>
+<li><a href="/wiki/Rabbi" title="Rabbi">Rabbi</a></li>
+<li><a href="/wiki/Rebbe" title="Rebbe">Rebbe</a></li>
+<li><a href="/wiki/Rosh_yeshiva" title="Rosh yeshiva">Rosh yeshiva</a></li>
+<li><a href="/wiki/Scribe" title="Scribe">Scribe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Jewish_culture" title="Jewish culture">Culture</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Minyan" title="Minyan">Minyan</a></li>
+<li><a href="/wiki/Bar_and_Bat_Mitzvah" title="Bar and Bat Mitzvah">Bar and Bat Mitzvah</a></li>
+<li><a href="/wiki/Bereavement_in_Judaism" title="Bereavement in Judaism">Bereavement</a></li>
+<li><a href="/wiki/Brit_milah" title="Brit milah">Brit milah</a></li>
+<li><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a></li>
+<li><a href="/wiki/Hebrew_birthday" title="Hebrew birthday">Hebrew birthday</a></li>
+<li><a href="/wiki/Jew_(word)" title="Jew (word)">Etymology of the word Jew</a></li>
+<li><a href="/wiki/Jewish_views_on_marriage" title="Jewish views on marriage">Marriage</a></li>
+<li><a href="/wiki/Jewish_wedding" title="Jewish wedding">Wedding</a></li>
+<li><a href="/wiki/Niddah" title="Niddah">Niddah</a></li>
+<li><a href="/wiki/Pidyon_haben" title="Pidyon haben">Pidyon haben</a></li>
+<li><a href="/wiki/Jewish_music" title="Jewish music">Music</a></li>
+<li><a href="/wiki/Jewish_cuisine" title="Jewish cuisine">Cuisine</a></li>
+<li><a href="/wiki/Hiloni" title="Hiloni">Hiloni</a></li>
+<li><a href="/wiki/Shidduch" title="Shidduch">Shidduch</a></li>
+<li><a href="/wiki/Zeved_habat" title="Zeved habat">Zeved habat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Issues and others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Who_is_a_Jew%3F" title="Who is a Jew?">Who is a Jew?</a></li>
+<li><a href="/wiki/Judaism_and_abortion" title="Judaism and abortion">Abortion</a></li>
+<li><a href="/wiki/Jewish_assimilation" title="Jewish assimilation">Assimilation</a></li>
+<li><a href="/wiki/Capital_and_corporal_punishment_in_Judaism" title="Capital and corporal punishment in Judaism">Capital punishment</a></li>
+<li><a href="/wiki/Conversion_to_Judaism" title="Conversion to Judaism">Conversion to Judaism</a></li>
+<li><a href="/wiki/Crypto-Judaism" title="Crypto-Judaism">Crypto-Judaism</a></li>
+<li><a href="/wiki/Judaism_and_environmentalism" title="Judaism and environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Forbidden_relationships_in_Judaism" title="Forbidden relationships in Judaism">Forbidden relationships</a></li>
+<li><a href="/wiki/Gender_and_Judaism" title="Gender and Judaism">Gender</a></li>
+<li><a href="/wiki/Heresy_in_Judaism" title="Heresy in Judaism">Heresy</a></li>
+<li><a href="/wiki/Holocaust_theology" title="Holocaust theology">Holocaust theology</a></li>
+<li><a href="/wiki/Ashkenazi_Jewish_intelligence" title="Ashkenazi Jewish intelligence">Jewish intelligence</a></li>
+<li><a href="/wiki/Jewish_studies" title="Jewish studies">Jewish studies</a></li>
+<li><a href="/wiki/Jewish_views_on_marriage" title="Jewish views on marriage">Marriage</a></li>
+<li><a href="/wiki/Homosexuality_and_Judaism" title="Homosexuality and Judaism">Homosexuality</a></li>
+<li><a href="/wiki/Same-sex_marriage_and_Judaism" title="Same-sex marriage and Judaism">Same-sex marriage</a></li>
+<li><a href="/wiki/Jewish_religious_terrorism" title="Jewish religious terrorism">Religious Terrorism</a></li>
+<li><a href="/wiki/Jewish_schisms" title="Jewish schisms">Schisms</a></li>
+<li><a href="/wiki/Jewish_vegetarianism" title="Jewish vegetarianism">Vegetarianism</a></li>
+<li><i><a href="/wiki/Jewish_Encyclopedia" title="Jewish Encyclopedia">Jewish Encyclopedia</a></i></li>
+<li><i><a href="/wiki/Encyclopaedia_Judaica" title="Encyclopaedia Judaica">Encyclopaedia Judaica</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Jewish_languages" title="Jewish languages">Languages</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>
+<ul>
+<li><a href="/wiki/Biblical_Hebrew" title="Biblical Hebrew">Biblical</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Judeo-Tat" title="Judeo-Tat">Juhuri (Judeo-Tat)</a></li>
+<li><a href="/wiki/Judeo-Arabic_languages" title="Judeo-Arabic languages">Judeo-Arabic</a></li>
+<li><a href="/wiki/Judeo-Aramaic_languages" title="Judeo-Aramaic languages">Judeo-Aramaic</a></li>
+<li><a href="/wiki/Jud%C3%A6o-Iranian_languages" class="mw-redirect" title="Judæo-Iranian languages">Judæo-Iranian</a></li>
+<li><a href="/wiki/Judaeo-Spanish" title="Judaeo-Spanish">Ladino</a></li>
+<li><a href="/wiki/Yeshivish" title="Yeshivish">Yeshivish</a></li>
+<li><a href="/wiki/Yiddish" title="Yiddish">Yiddish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Religious articles<br />
+and prayers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aleinu" title="Aleinu">Aleinu</a></li>
+<li><a href="/wiki/Amidah" title="Amidah">Amidah</a></li>
+<li><a href="/wiki/Four_species" title="Four species">Four species</a></li>
+<li><a href="/wiki/Gartel" title="Gartel">Gartel</a></li>
+<li><a href="/wiki/Hallel" title="Hallel">Hallel</a></li>
+<li><a href="/wiki/Havdalah" title="Havdalah">Havdalah</a></li>
+<li><a href="/wiki/Kaddish" title="Kaddish">Kaddish</a></li>
+<li><a href="/wiki/Kittel" title="Kittel">Kittel</a></li>
+<li><a href="/wiki/Kol_Nidre" title="Kol Nidre">Kol Nidre</a></li>
+<li><a href="/wiki/Ma_Tovu" title="Ma Tovu">Ma Tovu</a></li>
+<li><a href="/wiki/Menorah_(Temple)" title="Menorah (Temple)">Menorah</a>
+<ul>
+<li><a href="/wiki/Menorah_(Hanukkah)" title="Menorah (Hanukkah)">Hanukiah</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mezuzah" title="Mezuzah">Mezuzah</a></li>
+<li><a href="/wiki/Sefer_Torah" title="Sefer Torah">Sefer Torah</a>
+<ul>
+<li><a href="/wiki/Inauguration_of_a_Torah_scroll" title="Inauguration of a Torah scroll">Inauguration of a Torah scroll</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jewish_prayer" title="Jewish prayer">Services</a>
+<ul>
+<li><a href="/wiki/List_of_Jewish_prayers_and_blessings" title="List of Jewish prayers and blessings">Prayer</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Shema_Yisrael" title="Shema Yisrael">Shema Yisrael</a></li>
+<li><a href="/wiki/Shofar" title="Shofar">Shofar</a></li>
+<li><a href="/wiki/Siddur" title="Siddur">Siddur</a></li>
+<li><a href="/wiki/Tallit" title="Tallit">Tallit</a></li>
+<li><a href="/wiki/Tefillin" title="Tefillin">Tefillin</a></li>
+<li><a href="/wiki/Tzitzit" title="Tzitzit">Tzitzit</a></li>
+<li><a href="/wiki/Yad" title="Yad">Yad</a></li>
+<li><a href="/wiki/Kippah" title="Kippah">Kippah/Yarmulke</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Category:Judaism_and_other_religions" title="Category:Judaism and other religions">Interactions with<br />
+other religions</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jewish_views_on_religious_pluralism" title="Jewish views on religious pluralism">Jewish views on religious pluralism</a></li>
+<li><a href="/wiki/Abrahamic_religions" title="Abrahamic religions">Abrahamic religions</a></li>
+<li><a href="/wiki/Christianity_and_Judaism" title="Christianity and Judaism">Christianity</a>
+<ul>
+<li><a href="/wiki/Relations_between_Catholicism_and_Judaism" title="Relations between Catholicism and Judaism">Catholicism</a></li>
+<li><a href="/wiki/Christian%E2%80%93Jewish_reconciliation" title="Christian–Jewish reconciliation">Christian–Jewish reconciliation</a></li>
+<li><a href="/wiki/Judeo-Christian" title="Judeo-Christian">Judeo-Christian</a></li>
+<li><a href="/wiki/Messianic_Judaism" title="Messianic Judaism">Messianic Judaism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Islamic%E2%80%93Jewish_relations" title="Islamic–Jewish relations">Islam</a></li>
+<li><a href="/wiki/Judaism_and_Mormonism" title="Judaism and Mormonism">Mormonism</a></li>
+<li><a href="/wiki/Jewish_Buddhist" title="Jewish Buddhist">Jewish Buddhist</a></li>
+<li><a href="/wiki/Semitic_neopaganism" title="Semitic neopaganism">Semitic neopaganism</a></li>
+<li><a href="/wiki/Black_Hebrew_Israelites" title="Black Hebrew Israelites">Black Hebrew Israelites</a></li>
+<li><a href="/wiki/Kabbalah_Centre" title="Kabbalah Centre">Kabbalah Centre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Jewish_political_movements" title="Jewish political movements">Politics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Israel" title="Israel">Israel</a></li>
+<li><a href="/wiki/Zionism" title="Zionism">Zionism</a>
+<ul>
+<li><a href="/wiki/General_Zionists" title="General Zionists">General</a></li>
+<li><a href="/wiki/Labor_Zionism" title="Labor Zionism">Labor</a></li>
+<li><a href="/wiki/Religious_Zionism" title="Religious Zionism">Religious</a></li>
+<li><a href="/wiki/Revisionist_Zionism" title="Revisionist Zionism">Revisionist</a></li>
+<li><a href="/wiki/Neo-Zionism" title="Neo-Zionism">Neo-Zionism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jewish_political_movements" title="Jewish political movements">Political movements</a>
+<ul>
+<li><a href="/wiki/Jewish_left" title="Jewish left">Left</a></li>
+<li><a href="/w/index.php?title=Jewish_right&amp;action=edit&amp;redlink=1" class="new" title="Jewish right (page does not exist)">Right</a></li>
+<li><a href="/wiki/Jewish_anarchism" title="Jewish anarchism">Anarchism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bundism" title="Bundism">Bundism</a></li>
+<li><a href="/wiki/World_Agudath_Israel" title="World Agudath Israel">World Agudath Israel</a></li>
+<li><a href="/wiki/Edah_HaChareidis" title="Edah HaChareidis">Edah HaChareidis</a></li>
+<li><a href="/wiki/Jewish_feminism" title="Jewish feminism">Feminism</a></li>
+<li><a href="/wiki/Politics_of_Israel" title="Politics of Israel">Politics of Israel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Antisemitism" title="Antisemitism">Antisemitism</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_antisemitism" title="History of antisemitism">History</a></li>
+<li><a href="/wiki/Persecution_of_Jews" title="Persecution of Jews">Persecution</a></li>
+<li><a href="/wiki/New_antisemitism" title="New antisemitism">New</a></li>
+<li><a href="/wiki/Racial_antisemitism" title="Racial antisemitism">Racial</a></li>
+<li><a href="/wiki/Religious_antisemitism" title="Religious antisemitism">Religious</a></li>
+<li><a href="/wiki/Secondary_antisemitism" title="Secondary antisemitism">Secondary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Jews_and_Judaism" title="Category:Jews and Judaism">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Judaism" title="Portal:Judaism">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2166
+Cached time: 20170422105128
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.368 seconds
+Real time usage: 0.662 seconds
+Preprocessor visited node count: 2734/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 237422/2097152 bytes
+Template argument size: 5122/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 9/500
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 5.23 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  482.051      1 -total
+ 28.70%  138.351      1 Template:Reflist
+ 27.14%  130.805     15 Template:Navbox
+ 21.53%  103.769      1 Template:Primary_sources
+ 16.19%   78.052      1 Template:Ambox
+ 14.89%   71.764      3 Template:Cite_encyclopedia
+ 10.94%   52.733      3 Template:Fix
+  9.93%   47.887      4 Template:Delink
+  9.31%   44.871      1 Template:Campaignbox_Campaigns_of_Muhammad
+  8.97%   43.236      1 Template:Campaignbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4065187-0!*!0!!en!4!* and timestamp 20170422105127 and revision id 767211896
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Banu_Nadir&amp;oldid=767211896">https://en.wikipedia.org/w/index.php?title=Banu_Nadir&amp;oldid=767211896</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Banu_Nadir" title="Category:Banu Nadir">Banu Nadir</a></li><li><a href="/wiki/Category:Jewish_tribes_of_Arabia" title="Category:Jewish tribes of Arabia">Jewish tribes of Arabia</a></li><li><a href="/wiki/Category:Hejazi_Jews" title="Category:Hejazi Jews">Hejazi Jews</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_March_2008" title="Category:Wikipedia articles needing clarification from March 2008">Wikipedia articles needing clarification from March 2008</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_April_2016" title="Category:Articles lacking reliable references from April 2016">Articles lacking reliable references from April 2016</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:Articles_containing_Hebrew-language_text" title="Category:Articles containing Hebrew-language text">Articles containing Hebrew-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_October_2016" title="Category:Wikipedia articles needing page number citations from October 2016">Wikipedia articles needing page number citations from October 2016</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2016" title="Category:Articles with unsourced statements from October 2016">Articles with unsourced statements from October 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2016" title="Category:Articles needing additional references from October 2016">Articles needing additional references from October 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Banu+Nadir" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Banu+Nadir" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Banu_Nadir"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Banu_Nadir"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Banu_Nadir" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Banu_Nadir&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Banu_Nadir&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Banu_Nadir" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Banu_Nadir" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Banu_Nadir&amp;oldid=767211896" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Banu_Nadir&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q807012" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Banu_Nadir&amp;id=767211896" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Banu+Nadir">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Banu+Nadir&amp;returnto=Banu+Nadir&amp;oldid=767211896&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Banu_Nadir&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%86%D9%88_%D8%A7%D9%84%D9%86%D8%B6%D9%8A%D8%B1" title="بنو النضير – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Banu_n-Nadir" title="Banu n-Nadir – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ban%C5%AB_n-Nad%C4%ABr" title="Banū n-Nadīr – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Banu_Nadir" title="Banu Nadir – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Banu_Nadir" title="Banu Nadir – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%86%DB%8C%E2%80%8C%D9%86%D8%B6%DB%8C%D8%B1" title="بنی‌نضیر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Banu_Nadir" title="Banu Nadir – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Banu_Nadir" title="Banu Nadir – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%91%D7%98_%D7%91%D7%A0%D7%99_%D7%A0%D7%A6%27%D7%99%D7%A8" title="שבט בני נצ'יר – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Banu_Nadhir" title="Banu Nadhir – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Banu_Nadir" title="Banu Nadir – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Banu_Nadir" title="Banu Nadir – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D1%83_%D0%9D%D0%B0%D0%B4%D0%B8%D1%80" title="Бану Надир – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D9%86%D9%88_%D9%86%D8%B6%DB%8C%D8%B1" title="بنو نضیر – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q807012#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 February 2017, at 15:31.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Banu_Nadir&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.368","walltime":"0.662","ppvisitednodes":{"value":2734,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":237422,"limit":2097152},"templateargumentsize":{"value":5122,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  482.051      1 -total"," 28.70%  138.351      1 Template:Reflist"," 27.14%  130.805     15 Template:Navbox"," 21.53%  103.769      1 Template:Primary_sources"," 16.19%   78.052      1 Template:Ambox"," 14.89%   71.764      3 Template:Cite_encyclopedia"," 10.94%   52.733      3 Template:Fix","  9.93%   47.887      4 Template:Delink","  9.31%   44.871      1 Template:Campaignbox_Campaigns_of_Muhammad","  8.97%   43.236      1 Template:Campaignbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.149","limit":"10.000"},"limitreport-memusage":{"value":5483359,"limit":52428800}},"cachereport":{"origin":"mw2166","timestamp":"20170422105128","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw2254"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1370 @@
+https://en.wikipedia.org/wiki/1928_Republican_National_Convention
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1928 Republican National Convention - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1928_Republican_National_Convention","wgTitle":"1928 Republican National Convention","wgCurRevisionId":763771599,"wgRevisionId":763771599,"wgArticleId":1845311,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["United States presidential election, 1928","Republican National Conventions","History of Kansas City, Missouri","Political conventions in Missouri","1928 in Missouri","1928 conferences"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1928_Republican_National_Convention","wgRelevantArticleId":1845311,"wgRequestId":"WPt7ZwrAADoAAY4KMIgAAAAP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4562283","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a7/RP1932.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1928_Republican_National_Convention"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1928_Republican_National_Convention"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1928_Republican_National_Convention rootpage-1928_Republican_National_Convention skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1928 Republican National Convention</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;width:320px;">
+<caption>1928 Republican National Convention</caption>
+<tr>
+<td colspan="2" style="text-align:center;font-weight: bold;"><a href="/wiki/United_States_presidential_election,_1928" title="United States presidential election, 1928">1928 presidential election</a><br /></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:RP1932.png" class="image"><img alt="RP1932.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RP1932.png/125px-RP1932.png" width="125" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RP1932.png/188px-RP1932.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RP1932.png/250px-RP1932.png 2x" data-file-width="935" data-file-height="1170" /></a> <a href="/wiki/File:RV1932.png" class="image"><img alt="RV1932.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/RV1932.png/125px-RV1932.png" width="125" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/RV1932.png/188px-RV1932.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/RV1932.png/250px-RV1932.png 2x" data-file-width="935" data-file-height="1170" /></a>
+<div>Nominees<br />
+Hoover and Curtis</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#AE1C23; color:#ffffff;">Convention</th>
+</tr>
+<tr>
+<th scope="row">Date(s)</th>
+<td>June 12–15, 1928</td>
+</tr>
+<tr>
+<th scope="row">City</th>
+<td><a href="/wiki/Kansas_City,_Missouri" title="Kansas City, Missouri">Kansas City</a>, <a href="/wiki/Missouri" title="Missouri">Missouri</a></td>
+</tr>
+<tr>
+<th scope="row">Venue</th>
+<td><a href="/wiki/Convention_Hall" title="Convention Hall">Convention Hall</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#AE1C23; color:#ffffff;">Candidates</th>
+</tr>
+<tr>
+<th scope="row">Presidential nominee</th>
+<td><a href="/wiki/Herbert_Hoover" title="Herbert Hoover">Herbert C. Hoover</a> of <a href="/wiki/California" title="California">California</a></td>
+</tr>
+<tr>
+<th scope="row">Vice Presidential nominee</th>
+<td><a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a> of <a href="/wiki/Kansas" title="Kansas">Kansas</a></td>
+</tr>
+<tr>
+<td colspan="2" class="noprint" style="text-align:center;background:#FFB6B6;">‹ <a href="/wiki/1924_Republican_National_Convention" title="1924 Republican National Convention">1924</a>&#160;&#160;<b>·</b> &#160;<a href="/wiki/1932_Republican_National_Convention" title="1932 Republican National Convention">1932</a> ›</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Kc-convention-hall.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kc-convention-hall.jpg/300px-Kc-convention-hall.jpg" width="300" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kc-convention-hall.jpg/450px-Kc-convention-hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kc-convention-hall.jpg/600px-Kc-convention-hall.jpg 2x" data-file-width="796" data-file-height="467" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kc-convention-hall.jpg" class="internal" title="Enlarge"></a></div>
+Convention Hall</div>
+</div>
+</div>
+<p>The <b>1928 National Convention</b> of the <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican Party</a> of the <a href="/wiki/United_States" title="United States">United States</a> was held at <a href="/wiki/Convention_Hall" title="Convention Hall">Convention Hall</a> in <a href="/wiki/Kansas_City,_Missouri" title="Kansas City, Missouri">Kansas City</a>, <a href="/wiki/Missouri" title="Missouri">Missouri</a>, from June 12 to June 15, 1928.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Because <a href="/wiki/President_of_the_United_States" title="President of the United States">President</a> <a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">Coolidge</a> had announced unexpectedly he would not run for re-election in 1928, <a href="/wiki/United_States_Secretary_of_Commerce" title="United States Secretary of Commerce">Commerce Secretary</a> <a href="/wiki/Herbert_Hoover" title="Herbert Hoover">Herbert Clark Hoover</a> became the natural front-runner for the Republican nomination. Former <a href="/wiki/Illinois" title="Illinois">Illinois</a> <a href="/wiki/Governor_of_Illinois" title="Governor of Illinois">Governor</a> <a href="/wiki/Frank_Lowden" class="mw-redirect" title="Frank Lowden">Frank Lowden</a> and <a href="/wiki/Kansas" title="Kansas">Kansas</a> <a href="/wiki/United_States_Senate" title="United States Senate">Senator</a> <a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a> were candidates for the nomination but stood no chance against the popular and accomplished Hoover. <a href="/wiki/Chicago" title="Chicago">Chicago</a> <a href="/wiki/Mayor_of_Chicago" title="Mayor of Chicago">Mayor</a> <a href="/wiki/William_Hale_Thompson" title="William Hale Thompson">William Hale Thompson</a> considered himself a candidate, but without the support of <a href="/wiki/Ruth_Hanna_McCormick" title="Ruth Hanna McCormick">Ruth Hanna McCormick</a>, his candidacy was unsuccessful.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Hoover was nominated on the first <a href="/wiki/Ballot" title="Ballot">ballot</a> with 837 votes to 72 for Lowden and 64 for Curtis and the rest scattered. <a href="/w/index.php?title=John_L._McNab&amp;action=edit&amp;redlink=1" class="new" title="John L. McNab (page does not exist)">John L. McNab</a> delivered Hoover's nomination address. In his acceptance speech he said that "We in <a href="/wiki/United_States" title="United States">America</a> today are nearer to the final triumph over <a href="/wiki/Poverty" title="Poverty">poverty</a> ever before in the history of any land"; this and other optimistic remarks about the country's future were held against him in the <a href="/wiki/U.S._presidential_election,_1932" class="mw-redirect" title="U.S. presidential election, 1932">1932 election</a>, which he lost to <a href="/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">Franklin D. Roosevelt</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Platform"><span class="tocnumber">1</span> <span class="toctext">Platform</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Candidates_for_the_nomination_before_and_during_the_convention"><span class="tocnumber">2</span> <span class="toctext">Candidates for the nomination before and during the convention</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Candidates_for_the_vice_presidential_nomination"><span class="tocnumber">3</span> <span class="toctext">Candidates for the vice presidential nomination</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Balloting_results"><span class="tocnumber">4</span> <span class="toctext">Balloting results</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Prayers"><span class="tocnumber">5</span> <span class="toctext">Prayers</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Platform">Platform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit&amp;section=1" title="Edit section: Platform">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Political_platform" class="mw-redirect" title="Political platform">platform</a> praised the Coolidge administration for the prosperity of the mid-1920s, and also promised reduction of the <a href="/wiki/National_debt" class="mw-redirect" title="National debt">national debt</a>, tax reduction, retention of the protective tariff, opposition of cancellation of foreign debts, settlement of claims from <a href="/wiki/World_War_I" title="World War I">World War I</a> from foreign governments, continuation of the Coolidge foreign policy, support of arbitration treaties, civil service protection, a tariff for <a href="/wiki/Agriculture" title="Agriculture">agricultural</a> protection and continued farm exports, aid to the coal-mining industry, continued appropriations for <a href="/wiki/Highway" title="Highway">highway</a> construction, the right to <a href="/wiki/Collective_bargaining" title="Collective bargaining">collective bargaining</a>, regulation of railroads, a continued independent American merchant marine, government supervision of radio facilities, construction of <a href="/wiki/Waterway" title="Waterway">waterways</a> to help transportation of bulk goods, support for <a href="/wiki/War_veteran" class="mw-redirect" title="War veteran">war veterans</a>, federal regulation of <a href="/wiki/Public_utilities" class="mw-redirect" title="Public utilities">public utilities</a>, conservation, vigorous law enforcement, honest government, continued reclamation of <a href="/w/index.php?title=Arid_land&amp;action=edit&amp;redlink=1" class="new" title="Arid land (page does not exist)">arid lands</a> in the <a href="/wiki/Western_United_States" title="Western United States">West</a>, improvement of air-mail service, restricted <a href="/wiki/Immigration" title="Immigration">immigration</a> and <a href="/wiki/Naturalization" title="Naturalization">naturalization</a> of foreign immigrants in America, continued enforcement of the <a href="/wiki/Washington_Naval_Treaty" title="Washington Naval Treaty">Washington Naval Treaty</a>, continued status of territory status for <a href="/wiki/Alaska" title="Alaska">Alaska</a> and <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a> and called for more women in public service, right of the President to draft defense material resources and services, creation of an <a href="/wiki/Indian_Commission" class="mw-redirect" title="Indian Commission">Indian Commission</a>, an <a href="/w/index.php?title=Anti-Lynching_Law&amp;action=edit&amp;redlink=1" class="new" title="Anti-Lynching Law (page does not exist)">Anti-Lynching Law</a> and promised continued Home-Rule for the American Citizen.</p>
+<h2><span class="mw-headline" id="Candidates_for_the_nomination_before_and_during_the_convention">Candidates for the nomination before and during the convention</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit&amp;section=2" title="Edit section: Candidates for the nomination before and during the convention">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After Coolidge announced that he would not run for a second full term in August 1927, Herbert Hoover emerged as the front-runner. Illinois Governor Frank Lowden, Vice President <a href="/wiki/Charles_Dawes" class="mw-redirect" title="Charles Dawes">Charles Dawes</a>, and Senators <a href="/wiki/James_Eli_Watson" title="James Eli Watson">James Eli Watson</a> of Indiana, <a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a> of Kansas, <a href="/wiki/Guy_D._Goff" title="Guy D. Goff">Guy D. Goff</a> of West Virginia, and <a href="/wiki/Frank_B._Willis" title="Frank B. Willis">Frank Willis</a> of Ohio also loomed as potential challengers to Hoover. Hoover had won respect among many for his work in the Wilson, Harding, and Coolidge administrations, but many party regulars distrusted his loyalty to the party on issues of both policy and patronage. Some progressive Republicans, such as California Senator <a href="/wiki/Hiram_Johnson" title="Hiram Johnson">Hiram Johnson</a>, also disliked Hoover, although others such as Senator <a href="/wiki/William_E._Borah" class="mw-redirect" title="William E. Borah">William E. Borah</a> favored Hoover's candidacy. Many party leaders pressured Secretary of the Treasury <a href="/wiki/Andrew_Mellon" title="Andrew Mellon">Andrew Mellon</a> to run, but at 73 years old in 1928, Mellon felt that he was too old to run. Mellon sought to convince former Secretary of State and 1916 Republican nominee <a href="/wiki/Charles_Evan_Hughes" class="mw-redirect" title="Charles Evan Hughes">Charles Evan Hughes</a> to run, but Hughes refused to campaign for the nomination.<sup id="cite_ref-rusnak_3-0" class="reference"><a href="#cite_note-rusnak-3">[3]</a></sup></p>
+<p>With no strong alternative, Hoover appeared to be the likely nominee at the start of the convention, but many in the party still opposed his candidacy. A "draft Coolidge" movement emerged, but the movement collapsed as it became clear that Coolidge would not run again.<sup id="cite_ref-oulahan_4-0" class="reference"><a href="#cite_note-oulahan-4">[4]</a></sup> With Coolidge out of the running, Senate Majority Leader <a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a> tried to rally Hoover's rivals around his own candidacy.<sup id="cite_ref-oulahan_4-1" class="reference"><a href="#cite_note-oulahan-4">[4]</a></sup> However, Hoover won the nomination on the first ballot.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:HerbertHoover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HerbertHoover.jpg/97px-HerbertHoover.jpg" width="97" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HerbertHoover.jpg/145px-HerbertHoover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HerbertHoover.jpg/193px-HerbertHoover.jpg 2x" data-file-width="912" data-file-height="1131" /></a></div>
+</div>
+<div class="gallerytext">
+<center><a href="/wiki/United_States_Secretary_of_Commerce" title="United States Secretary of Commerce">Secretary</a><br />
+<b><a href="/wiki/Herbert_Hoover" title="Herbert Hoover">Herbert Hoover</a></b><br />
+of <a href="/wiki/Iowa" title="Iowa">Iowa</a></center>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Frank_O_Lowden_portrait.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Frank_O_Lowden_portrait.jpg/79px-Frank_O_Lowden_portrait.jpg" width="79" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Frank_O_Lowden_portrait.jpg/118px-Frank_O_Lowden_portrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Frank_O_Lowden_portrait.jpg/158px-Frank_O_Lowden_portrait.jpg 2x" data-file-width="569" data-file-height="864" /></a></div>
+</div>
+<div class="gallerytext">
+<center><a href="/wiki/Governor_of_Illinois" title="Governor of Illinois">Governor</a><br />
+<b><a href="/wiki/Frank_Lowden" class="mw-redirect" title="Frank Lowden">Frank Lowden</a></b><br />
+of <a href="/wiki/Illinois" title="Illinois">Illinois</a></center>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Charles_Curtis.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Charles_Curtis.jpg/95px-Charles_Curtis.jpg" width="95" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Charles_Curtis.jpg/143px-Charles_Curtis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Charles_Curtis.jpg 2x" data-file-width="179" data-file-height="225" /></a></div>
+</div>
+<div class="gallerytext">
+<center><a href="/wiki/United_States_Senate" title="United States Senate">Senator</a><br />
+<b><a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a></b><br />
+from <a href="/wiki/Kansas" title="Kansas">Kansas</a></center>
+</div>
+</div>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/William_E._Borah" class="mw-redirect" title="William E. Borah">William E. Borah</a>, U.S. senator from <a href="/wiki/Idaho" title="Idaho">Idaho</a></li>
+<li><a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">Calvin Coolidge</a>, <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a> from <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></li>
+<li><a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a>, <a href="/wiki/Majority_Leader_of_the_United_States_Senate" class="mw-redirect" title="Majority Leader of the United States Senate">Senate Majority Leader</a> from <a href="/wiki/Kansas" title="Kansas">Kansas</a></li>
+<li><a href="/wiki/Charles_G._Dawes" title="Charles G. Dawes">Charles G. Dawes</a>, <a href="/wiki/VPOTUS" class="mw-redirect" title="VPOTUS">Vice President</a> from <a href="/wiki/Kansas" title="Kansas">Kansas</a></li>
+<li><a href="/wiki/Alvan_T._Fuller" title="Alvan T. Fuller">Alvan T. Fuller</a>, <a href="/wiki/Governor_of_Massachusetts" title="Governor of Massachusetts">Governor of Massachusetts</a></li>
+<li><a href="/wiki/Guy_D._Goff" title="Guy D. Goff">Guy D. Goff</a>, U.S. senator from <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a></li>
+<li><a href="/wiki/Herbert_C._Hoover" class="mw-redirect" title="Herbert C. Hoover">Herbert C. Hoover</a>, <a href="/wiki/United_States_Secretary_of_Commerce" title="United States Secretary of Commerce">Commerce Secretary</a> from <a href="/wiki/California" title="California">California</a></li>
+<li><a href="/wiki/Charles_Evans_Hughes" title="Charles Evans Hughes">Charles Evans Hughes</a>, former <a href="/wiki/United_States_Secretary_of_State" title="United States Secretary of State">Secretary of State</a> from <a href="/wiki/New_York_(state)" class="mw-redirect" title="New York (state)">New York</a></li>
+<li><a href="/wiki/Frank_O._Lowden" class="mw-redirect" title="Frank O. Lowden">Frank O. Lowden</a>, former <a href="/wiki/Governor_of_Illinois" title="Governor of Illinois">Governor of Illinois</a></li>
+<li><a href="/wiki/George_W._Norris" title="George W. Norris">George W. Norris</a>, U.S. senator from <a href="/wiki/Nebraska" title="Nebraska">Nebraska</a></li>
+<li><a href="/w/index.php?title=Olin_J._Ross&amp;action=edit&amp;redlink=1" class="new" title="Olin J. Ross (page does not exist)">Olin J. Ross</a>, candidate from <a href="/wiki/Ohio" title="Ohio">Ohio</a></li>
+<li><a href="/wiki/Frederick_Steiwer" title="Frederick Steiwer">Frederick Steiwer</a>, U.S. senator from <a href="/wiki/Oregon" title="Oregon">Oregon</a></li>
+<li><a href="/wiki/James_E._Watson" class="mw-redirect" title="James E. Watson">James E. Watson</a>, U.S. senator from <a href="/wiki/Indiana" title="Indiana">Indiana</a></li>
+<li><a href="/wiki/Frank_B._Willis" title="Frank B. Willis">Frank B. Willis</a>, U.S. senator from <a href="/wiki/Ohio" title="Ohio">Ohio</a></li>
+</ul>
+<h2><span class="mw-headline" id="Candidates_for_the_vice_presidential_nomination">Candidates for the vice presidential nomination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit&amp;section=3" title="Edit section: Candidates for the vice presidential nomination">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At the start of the convention, Vice President <a href="/wiki/Charles_G._Dawes" title="Charles G. Dawes">Charles G. Dawes</a>, former Kansas Governor <a href="/wiki/Henry_Justin_Allen" title="Henry Justin Allen">Henry Justin Allen</a>, New Jersey Senator <a href="/wiki/Walter_Edge" class="mw-redirect" title="Walter Edge">Walter Edge</a>, New Hampshire Senator <a href="/wiki/George_H._Moses" title="George H. Moses">George H. Moses</a>, Connecticut Congressman <a href="/wiki/John_Q._Tilson" title="John Q. Tilson">John Q. Tilson</a>, and Ambassador <a href="/wiki/Alanson_B._Houghton" title="Alanson B. Houghton">Alanson B. Houghton</a> were mentioned as potential running mates for Hoover.<sup id="cite_ref-oulahan_4-2" class="reference"><a href="#cite_note-oulahan-4">[4]</a></sup> Kansas Senator <a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a> was also mentioned as a possibility, but Curtis was not yet ready to concede the presidential nomination to Hoover.<sup id="cite_ref-oulahan_4-3" class="reference"><a href="#cite_note-oulahan-4">[4]</a></sup> After Hoover won the presidential nomination, Moses, Illinois Senator <a href="/wiki/Charles_S._Deneen" title="Charles S. Deneen">Charles S. Deneen</a>, and Massachusetts Governor <a href="/wiki/Channing_Cox" class="mw-redirect" title="Channing Cox">Channing Cox</a> were named as the most likely vice presidential nominees, with a re-nomination for Dawes also a possibility.<sup id="cite_ref-oulahan2_5-0" class="reference"><a href="#cite_note-oulahan2-5">[5]</a></sup> Party leaders considered nominating Cox or Dawes, but the former was vetoed by Utah Senator <a href="/wiki/Reed_Smoot" title="Reed Smoot">Reed Smoot</a>, and the latter's support of <a href="/wiki/McNary-Haugen" class="mw-redirect" title="McNary-Haugen">McNary-Haugen</a> made him unacceptable to Hoover and Coolidge.<sup id="cite_ref-clements_6-0" class="reference"><a href="#cite_note-clements-6">[6]</a></sup> Curtis, possibly with the support of Coolidge, was nominated by the party leaders, and the convention ratified the choice.<sup id="cite_ref-clements_6-1" class="reference"><a href="#cite_note-clements-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Balloting_results">Balloting results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit&amp;section=4" title="Edit section: Balloting results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:left">
+<caption>The Balloting<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></caption>
+<tr>
+<th>Presidential Ballot</th>
+<th></th>
+<th>Vice Presidential Ballot</th>
+<th></th>
+</tr>
+<tr>
+<th><a href="/wiki/Herbert_Hoover" title="Herbert Hoover">Herbert Hoover</a></th>
+<th>837</th>
+<th><a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a></th>
+<th>1,052</th>
+</tr>
+<tr>
+<th><a href="/wiki/Frank_O._Lowden" class="mw-redirect" title="Frank O. Lowden">Frank O. Lowden</a></th>
+<th>74</th>
+<th><a href="/wiki/Herman_L._Ekern" class="mw-redirect" title="Herman L. Ekern">Herman L. Ekern</a></th>
+<th>19</th>
+</tr>
+<tr>
+<th><a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a></th>
+<th>64</th>
+<th><a href="/wiki/Charles_G._Dawes" title="Charles G. Dawes">Charles G. Dawes</a></th>
+<th>13</th>
+</tr>
+<tr>
+<th><a href="/wiki/James_E._Watson" class="mw-redirect" title="James E. Watson">James E. Watson</a></th>
+<th>45</th>
+<th><a href="/wiki/Hanford_MacNider" title="Hanford MacNider">Hanford MacNider</a></th>
+<th>2</th>
+</tr>
+<tr>
+<th><a href="/wiki/George_W._Norris" title="George W. Norris">George W. Norris</a></th>
+<th>24</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th><a href="/wiki/Guy_D._Goff" title="Guy D. Goff">Guy D. Goff</a></th>
+<th>18</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th><a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">President Coolidge</a></th>
+<th>17</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th><a href="/wiki/Charles_G._Dawes" title="Charles G. Dawes">Charles G. Dawes</a></th>
+<th>4</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th><a href="/wiki/Charles_Evans_Hughes" title="Charles Evans Hughes">Charles E. Hughes</a></th>
+<th>1</th>
+<th></th>
+<th></th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Prayers">Prayers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit&amp;section=5" title="Edit section: Prayers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Each of the four days of the convention opened with a lengthy <a href="/wiki/Invocation" title="Invocation">invocation</a> by a different clergymen—one <a href="/wiki/Judaism" title="Judaism">Jewish</a>, one <a href="/wiki/Roman_Catholic_Church" class="mw-redirect" title="Roman Catholic Church">Catholic</a>, one <a href="/wiki/Episcopal_Church_(United_States)" title="Episcopal Church (United States)">Episcopalian</a>, one <a href="/wiki/Methodist" class="mw-redirect" title="Methodist">Methodist</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Together, these four religious groups formed a majority of Americans at the time.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>All of the clergy were based in Missouri, where the convention was held. Each was listed among the convention officers as an official <a href="/wiki/Chaplain" title="Chaplain">chaplain</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>On June 12, the opening prayer was given by Bishop <a href="/wiki/Sidney_Catlin_Partridge" title="Sidney Catlin Partridge">S. C. Partridge</a> of the Episcopal Diocese of West Missouri.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Speakers on the second through fourth days were Catholic Bishop <a href="/wiki/Thomas_Francis_Lillis" title="Thomas Francis Lillis">Thomas F. Lillis</a> of the Diocese of Kansas City,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Rabbi <a href="/w/index.php?title=Herman_M._Cohen&amp;action=edit&amp;redlink=1" class="new" title="Herman M. Cohen (page does not exist)">Herman M. Cohen</a> of Congregation Keneseth Israel-Beth Sholom, Kansas City,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> and Bishop <a href="/wiki/Ernest_Lynn_Waldorf" title="Ernest Lynn Waldorf">E. L. Waldorf</a> of the Methodist Episcopal Diocese of Kansas City.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/1928_Democratic_National_Convention" title="1928 Democratic National Convention">1928 Democratic National Convention</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1928" title="United States presidential election, 1928">United States presidential election, 1928</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Newill, Cody (June 11, 2014). <a rel="nofollow" class="external text" href="http://kcur.org/post/look-back-3-times-kansas-city-hosted-national-political-conventions">"A Look Back At The 3 Times Kansas City Hosted National Political Conventions"</a>. <i>KCUR</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-12-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1928+Republican+National+Convention&amp;rft.atitle=A+Look+Back+At+The+3+Times+Kansas+City+Hosted+National+Political+Conventions&amp;rft.aufirst=Cody&amp;rft.aulast=Newill&amp;rft.date=2014-06-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fkcur.org%2Fpost%2Flook-back-3-times-kansas-city-hosted-national-political-conventions&amp;rft.jtitle=KCUR&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,882358,00.html">"Thompson v. McCormicks"</a>. <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i>. <a href="/wiki/Time,_Inc." class="mw-redirect" title="Time, Inc.">Time, Inc.</a> 1930-11-03. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080605233217/http://www.time.com/time/magazine/article/0,9171,882358,00.html">Archived</a> from the original on 5 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1928+Republican+National+Convention&amp;rft.atitle=Thompson+v.+McCormicks&amp;rft.date=1930-11-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Fmagazine%2Farticle%2F0%2C9171%2C882358%2C00.html&amp;rft.jtitle=Time&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rusnak-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-rusnak_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rusnak, Robert J. (Spring 1983). <a rel="nofollow" class="external text" href="http://www.jstor.org/stable/27547924">"Andrew W. Mellon: Reluctant Kingmaker"</a>. <i>Presidential Studies Quarterly</i>. <b>13</b> (2): 269–278.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1928+Republican+National+Convention&amp;rft.atitle=Andrew+W.+Mellon%3A+Reluctant+Kingmaker&amp;rft.aufirst=Robert+J.&amp;rft.aulast=Rusnak&amp;rft.date=1983&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jstor.org%2Fstable%2F27547924&amp;rft.issue=2&amp;rft.jtitle=Presidential+Studies+Quarterly&amp;rft.pages=269-278&amp;rft.ssn=spring&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-oulahan-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-oulahan_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-oulahan_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-oulahan_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-oulahan_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Oulahan, Richard V. (13 June 1928). <a rel="nofollow" class="external text" href="https://partners.nytimes.com/library/politics/camp/280613convention-gop-ra.html">"Hoover Certain on First Ballot as Convention Opens; His Rivals May Unite on Curtis in Final Fight on Him; Wets in Force Urge Dry Law Repeal Plank in Platform"</a>. New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1928+Republican+National+Convention&amp;rft.atitle=Hoover+Certain+on+First+Ballot+as+Convention+Opens%3B+His+Rivals+May+Unite+on+Curtis+in+Final+Fight+on+Him%3B+Wets+in+Force+Urge+Dry+Law+Repeal+Plank+in+Platform&amp;rft.aufirst=Richard+V.&amp;rft.aulast=Oulahan&amp;rft.date=1928-06-13&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fpartners.nytimes.com%2Flibrary%2Fpolitics%2Fcamp%2F280613convention-gop-ra.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-oulahan2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-oulahan2_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Oulahan, Richard V. (15 June 1928). <a rel="nofollow" class="external text" href="https://partners.nytimes.com/library/politics/camp/280615convention-gop-ra.html">"Hoover Named on First Ballot by 837; Lowden Second With 74; Curtis Gets 64; Farmers Squelched on Floor, 807 to 277"</a>. New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1928+Republican+National+Convention&amp;rft.atitle=Hoover+Named+on+First+Ballot+by+837%3B+Lowden+Second+With+74%3B+Curtis+Gets+64%3B+Farmers+Squelched+on+Floor%2C+807+to+277&amp;rft.aufirst=Richard+V.&amp;rft.aulast=Oulahan&amp;rft.date=1928-06-15&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fpartners.nytimes.com%2Flibrary%2Fpolitics%2Fcamp%2F280615convention-gop-ra.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-clements-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-clements_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-clements_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Clements, Kendrick A. (2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=NZHGAAAAQBAJ&amp;dq=republican+vice+presidential+nomination+1928+curtis&amp;source=gbs_navlinks_s"><i>The Life of Herbert Hoover: Imperfect Visionary, 1918-1928</i></a>. Palgrave Macmillan. p.&#160;410<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1928+Republican+National+Convention&amp;rft.aufirst=Kendrick+A.&amp;rft.aulast=Clements&amp;rft.btitle=The+Life+of+Herbert+Hoover%3A+Imperfect+Visionary%2C+1918-1928&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DNZHGAAAAQBAJ%26dq%3Drepublican%2Bvice%2Bpresidential%2Bnomination%2B1928%2Bcurtis%26source%3Dgbs_navlinks_s&amp;rft.pages=410&amp;rft.pub=Palgrave+Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ourcampaigns.com/RaceDetail.html?RaceID=57978">"Our Campaigns - US President - R Convention Race - Jun 12, 1928"</a>. <a rel="nofollow" class="external text" href="http://www.webcitation.org/5hYdjScXc">Archived</a> from the original on 2009-06-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1928+Republican+National+Convention&amp;rft.btitle=Our+Campaigns+-+US+President+-+R+Convention+Race+-+Jun+12%2C+1928&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ourcampaigns.com%2FRaceDetail.html%3FRaceID%3D57978&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ourcampaigns.com/RaceDetail.html?RaceID=60095">http://www.ourcampaigns.com/RaceDetail.html?RaceID=60095</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">"Hoover Partisans Confident of his Early Nomination" [Associated Press story], Deadwood (S.D.) <i>Daily Pioneer-Times</i>, June 10, 1928: <sub>"Ministers of four denominations have been selected to deliver opening prayers during the first four days of the convention."</sub></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">U.S. Census of Religious Bodies, 1936, Washington: U.S. Government Printing Office, 1941</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Official Report of the Proceedings of the Nineteenth Republican National Convention (1928), pp. 37</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">"Temporary Officers of Convention Announced," <i>Harrisburg Evening News</i>, June 12, 1928</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Official Report of the Proceedings of the Nineteenth Republican National Convention (1928), pp. 7-8</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">"Hoover to be Chosen on First Ballot" [Associated Press story], Roseburg (Ore.) <i>News-Review</i>, June 12, 1928: <sub>"While delegates and spectators stood, Bishop S. C. Partridge of the Episcopal Church pronounced the opening prayer petitioning for 'peaceful and harmonious' party consultations."</sub></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Official Report of the Proceedings of the Nineteenth Republican National Convention (1928), pp. 48-49</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">"Convention Waits for Committees" [Associated Press story], Emporia (Kans.) <i>Gazette</i>, June 13, 1928</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Official Report of the Proceedings of the Nineteenth Republican National Convention (1928), pp. 111-12</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Damon Runyon, "Runyon Likens Hoover Victory to Hand Gallop" [Universal News Service story], Charleston (W.Va.) <i>Gazette</i>, June 15, 1928: <sub>"Rabbi Herman M. Cohen of Kansas City, swarthy and well groomed, and looking like a young Prince of Israel, prayed for the Republicans."</sub></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Official Report of the Proceedings of the Nineteenth Republican National Convention (1928), pp. 223-24</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">"Convention Speeds Curtis Nomination", <i>New York Times</i>, June 16, 1928</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">"It Looks Like Curtis Running as Vice Pres," Olean (N.Y.) <i>Evening Times</i>, June 15, 1928: <sub>"Finally, most of them sat down, then rose again immediately to hear the invocation pronounced by Bishop E. L. Waldorf, of the Methodist Episcopal Church of Kansas City. He prayed 'the blessings of God for the man who had been given the great place' by this convention last night. He also asked for Divine protection for the delegates on their homeward journeys."</sub></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.presidency.ucsb.edu/ws/index.php?pid=29637">Republican Party platform of 1928</a> at <i>The American Presidency Project</i></li>
+</ul>
+<p><br /></p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/1924_Republican_National_Convention" title="1924 Republican National Convention">1924</a><br />
+<a href="/wiki/Cleveland,_Ohio" class="mw-redirect" title="Cleveland, Ohio">Cleveland, Ohio</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Republican_National_Convention" title="Republican National Convention">Republican National Conventions</a></b></td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/1932_Republican_National_Convention" title="1932 Republican National Convention">1932</a><br />
+<a href="/wiki/Chicago,_Illinois" class="mw-redirect" title="Chicago, Illinois">Chicago, Illinois</a></span></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="United_States_Republican_Party" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Republican_Party_(United_States)" title="Template:Republican Party (United States)"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Republican_Party_(United_States)" title="Template talk:Republican Party (United States)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Republican_Party_(United_States)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="United_States_Republican_Party" style="font-size:114%;margin:0 4em"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">United States Republican Party</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Chairpersons<br />
+of the <a href="/wiki/Republican_National_Committee" title="Republican National Committee">RNC</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Edwin_D._Morgan" title="Edwin D. Morgan">Morgan</a></li>
+<li><a href="/wiki/Henry_Jarvis_Raymond" title="Henry Jarvis Raymond">Raymond</a></li>
+<li><a href="/wiki/Marcus_Lawrence_Ward" title="Marcus Lawrence Ward">Ward</a></li>
+<li><a href="/wiki/William_Claflin" title="William Claflin">Claflin</a></li>
+<li><a href="/wiki/Edwin_D._Morgan" title="Edwin D. Morgan">Morgan</a></li>
+<li><a href="/wiki/Zachariah_Chandler" title="Zachariah Chandler">Chandler</a></li>
+<li><a href="/wiki/J._Donald_Cameron" title="J. Donald Cameron">Cameron</a></li>
+<li><a href="/wiki/Marshall_Jewell" title="Marshall Jewell">Jewell</a></li>
+<li><a href="/wiki/Dwight_M._Sabin" title="Dwight M. Sabin">Sabin</a></li>
+<li><a href="/wiki/Benjamin_Franklin_Jones_(industrialist)" title="Benjamin Franklin Jones (industrialist)">Jones</a></li>
+<li><a href="/wiki/Matthew_Quay" title="Matthew Quay">Quay</a></li>
+<li><a href="/wiki/James_S._Clarkson" title="James S. Clarkson">Clarkson</a></li>
+<li><a href="/wiki/Thomas_H._Carter" title="Thomas H. Carter">Carter</a></li>
+<li><a href="/wiki/Mark_Hanna" title="Mark Hanna">Hanna</a></li>
+<li><a href="/wiki/Henry_Clay_Payne" title="Henry Clay Payne">Payne</a></li>
+<li><a href="/wiki/George_B._Cortelyou" title="George B. Cortelyou">Cortelyou</a></li>
+<li><a href="/wiki/Harry_Stewart_New" title="Harry Stewart New">New</a></li>
+<li><a href="/wiki/Frank_Harris_Hitchcock" title="Frank Harris Hitchcock">Hitchcock</a></li>
+<li><a href="/wiki/John_Fremont_Hill" title="John Fremont Hill">Hill</a></li>
+<li><a href="/wiki/Victor_Rosewater" title="Victor Rosewater">Rosewater</a></li>
+<li><a href="/wiki/Charles_D._Hilles" title="Charles D. Hilles">Hilles</a></li>
+<li><a href="/wiki/William_Russell_Willcox" title="William Russell Willcox">Wilcox</a></li>
+<li><a href="/wiki/Will_H._Hays" title="Will H. Hays">Hays</a></li>
+<li><a href="/wiki/John_T._Adams" title="John T. Adams">Adams</a></li>
+<li><a href="/wiki/William_M._Butler" title="William M. Butler">Butler</a></li>
+<li><a href="/wiki/Hubert_Work" title="Hubert Work">Work</a></li>
+<li><a href="/wiki/Claudius_H._Huston" title="Claudius H. Huston">Huston</a></li>
+<li><a href="/wiki/Simeon_D._Fess" title="Simeon D. Fess">Fess</a></li>
+<li><a href="/wiki/Everett_Sanders" title="Everett Sanders">Sanders</a></li>
+<li><a href="/wiki/Henry_P._Fletcher" title="Henry P. Fletcher">Fletcher</a></li>
+<li><a href="/wiki/John_Hamilton_(Kansas)" title="John Hamilton (Kansas)">Hamilton</a></li>
+<li><a href="/wiki/Joseph_William_Martin_Jr." title="Joseph William Martin Jr.">Martin</a></li>
+<li><a href="/wiki/Bailey_Walsh" title="Bailey Walsh">Walsh</a></li>
+<li><a href="/wiki/Harrison_E._Spangler" title="Harrison E. Spangler">Spangler</a></li>
+<li><a href="/wiki/Herbert_Brownell_Jr." title="Herbert Brownell Jr.">Brownell</a></li>
+<li><a href="/wiki/B._Carroll_Reece" title="B. Carroll Reece">Reece</a></li>
+<li><a href="/wiki/Hugh_Scott" title="Hugh Scott">Scott</a></li>
+<li><a href="/wiki/Guy_Gabrielson" title="Guy Gabrielson">Gabrielson</a></li>
+<li><a href="/wiki/Arthur_Summerfield" title="Arthur Summerfield">Summerfield</a></li>
+<li><a href="/wiki/C._Wesley_Roberts" title="C. Wesley Roberts">Roberts</a></li>
+<li><a href="/wiki/Leonard_W._Hall" title="Leonard W. Hall">Hall</a></li>
+<li><a href="/wiki/Meade_Alcorn" title="Meade Alcorn">Alcorn</a></li>
+<li><a href="/wiki/Thruston_Ballard_Morton" title="Thruston Ballard Morton">T. B. Morton</a></li>
+<li><a href="/wiki/William_E._Miller" title="William E. Miller">Miller</a></li>
+<li><a href="/wiki/Dean_Burch" title="Dean Burch">Burch</a></li>
+<li><a href="/wiki/Ray_C._Bliss" title="Ray C. Bliss">Bliss</a></li>
+<li><a href="/wiki/Rogers_Morton" title="Rogers Morton">R. Morton</a></li>
+<li><a href="/wiki/Bob_Dole" title="Bob Dole">Dole</a></li>
+<li><a href="/wiki/George_H._W._Bush" title="George H. W. Bush">Bush</a></li>
+<li><a href="/wiki/Mary_Louise_Smith_(Republican_Party_leader)" title="Mary Louise Smith (Republican Party leader)">Smith</a></li>
+<li><a href="/wiki/Bill_Brock" title="Bill Brock">Brock</a></li>
+<li><a href="/wiki/Richard_Richards_(Utah)" title="Richard Richards (Utah)">Richards</a></li>
+<li><a href="/wiki/Paul_Laxalt" title="Paul Laxalt">Laxalt</a>/<a href="/wiki/Frank_Fahrenkopf" title="Frank Fahrenkopf">Fahrenkopf</a></li>
+<li><a href="/wiki/Maureen_Reagan" title="Maureen Reagan">Reagan</a>/<a href="/wiki/Frank_Fahrenkopf" title="Frank Fahrenkopf">Fahrenkopf</a></li>
+<li><a href="/wiki/Lee_Atwater" title="Lee Atwater">Atwater</a></li>
+<li><a href="/wiki/Clayton_Yeutter" title="Clayton Yeutter">Yeutter</a></li>
+<li><a href="/wiki/Richard_Bond_(RNC)" title="Richard Bond (RNC)">Bond</a></li>
+<li><a href="/wiki/Haley_Barbour" title="Haley Barbour">Barbour</a></li>
+<li><a href="/wiki/Jim_Nicholson_(Secretary_of_Veterans_Affairs)" title="Jim Nicholson (Secretary of Veterans Affairs)">Nicholson</a></li>
+<li><a href="/wiki/Jim_Gilmore" title="Jim Gilmore">Gilmore</a></li>
+<li><a href="/wiki/Marc_Racicot" title="Marc Racicot">Racicot</a></li>
+<li><a href="/wiki/Ed_Gillespie" title="Ed Gillespie">Gillespie</a></li>
+<li><a href="/wiki/Ken_Mehlman" title="Ken Mehlman">Mehlman</a></li>
+<li><a href="/wiki/Mel_Mart%C3%ADnez" title="Mel Martínez">Martínez</a></li>
+<li><a href="/wiki/Mike_Duncan" title="Mike Duncan">Duncan</a></li>
+<li><a href="/wiki/Michael_Steele" title="Michael Steele">Steele</a></li>
+<li><a href="/wiki/Reince_Priebus" title="Reince Priebus">Priebus</a></li>
+<li><a href="/wiki/Ronna_Romney_McDaniel" title="Ronna Romney McDaniel">Romney McDaniel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_United_States_Republican_Party_presidential_tickets" title="List of United States Republican Party presidential tickets">Presidential tickets</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_C._Fr%C3%A9mont" title="John C. Frémont">Frémont</a>/<a href="/wiki/William_L._Dayton" title="William L. Dayton">Dayton</a></li>
+<li><a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Lincoln</a>/<a href="/wiki/Hannibal_Hamlin" title="Hannibal Hamlin">Hamlin</a></li>
+<li><a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Lincoln</a>/<a href="/wiki/Andrew_Johnson" title="Andrew Johnson">Johnson</a></li>
+<li><a href="/wiki/Ulysses_S._Grant" title="Ulysses S. Grant">Grant</a>/<a href="/wiki/Schuyler_Colfax" title="Schuyler Colfax">Colfax</a></li>
+<li><a href="/wiki/Ulysses_S._Grant" title="Ulysses S. Grant">Grant</a>/<a href="/wiki/Henry_Wilson" title="Henry Wilson">Wilson</a></li>
+<li><a href="/wiki/Rutherford_B._Hayes" title="Rutherford B. Hayes">Hayes</a>/<a href="/wiki/William_A._Wheeler" title="William A. Wheeler">Wheeler</a></li>
+<li><a href="/wiki/James_A._Garfield" title="James A. Garfield">Garfield</a>/<a href="/wiki/Chester_A._Arthur" title="Chester A. Arthur">Arthur</a></li>
+<li><a href="/wiki/James_G._Blaine" title="James G. Blaine">Blaine</a>/<a href="/wiki/John_A._Logan" title="John A. Logan">Logan</a></li>
+<li><a href="/wiki/Benjamin_Harrison" title="Benjamin Harrison">Harrison</a>/<a href="/wiki/Levi_P._Morton" title="Levi P. Morton">Morton</a></li>
+<li><a href="/wiki/Benjamin_Harrison" title="Benjamin Harrison">Harrison</a>/<a href="/wiki/Whitelaw_Reid" title="Whitelaw Reid">Reid</a></li>
+<li><a href="/wiki/William_McKinley" title="William McKinley">McKinley</a>/<a href="/wiki/Garret_Hobart" title="Garret Hobart">Hobart</a></li>
+<li><a href="/wiki/William_McKinley" title="William McKinley">McKinley</a>/<a href="/wiki/Theodore_Roosevelt" title="Theodore Roosevelt">Roosevelt</a></li>
+<li><a href="/wiki/Theodore_Roosevelt" title="Theodore Roosevelt">Roosevelt</a>/<a href="/wiki/Charles_W._Fairbanks" title="Charles W. Fairbanks">Fairbanks</a></li>
+<li><a href="/wiki/William_Howard_Taft" title="William Howard Taft">Taft</a>/<a href="/wiki/James_S._Sherman" title="James S. Sherman">Sherman</a></li>
+<li><a href="/wiki/William_Howard_Taft" title="William Howard Taft">Taft</a>/<a href="/wiki/James_S._Sherman" title="James S. Sherman">Sherman</a>/<a href="/wiki/Nicholas_Murray_Butler" title="Nicholas Murray Butler">Butler</a></li>
+<li><a href="/wiki/Charles_Evans_Hughes" title="Charles Evans Hughes">Hughes</a>/<a href="/wiki/Charles_W._Fairbanks" title="Charles W. Fairbanks">Fairbanks</a></li>
+<li><a href="/wiki/Warren_G._Harding" title="Warren G. Harding">Harding</a>/<a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">Coolidge</a></li>
+<li><a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">Coolidge</a>/<a href="/wiki/Charles_G._Dawes" title="Charles G. Dawes">Dawes</a></li>
+<li><a href="/wiki/Herbert_Hoover" title="Herbert Hoover">Hoover</a>/<a href="/wiki/Charles_Curtis" title="Charles Curtis">Curtis</a> (twice)</li>
+<li><a href="/wiki/Alf_Landon" title="Alf Landon">Landon</a>/<a href="/wiki/Frank_Knox" title="Frank Knox">Knox</a></li>
+<li><a href="/wiki/Wendell_Willkie" title="Wendell Willkie">Willkie</a>/<a href="/wiki/Charles_L._McNary" title="Charles L. McNary">McNary</a></li>
+<li><a href="/wiki/Thomas_E._Dewey" title="Thomas E. Dewey">Dewey</a>/<a href="/wiki/John_W._Bricker" title="John W. Bricker">Bricker</a></li>
+<li><a href="/wiki/Thomas_E._Dewey" title="Thomas E. Dewey">Dewey</a>/<a href="/wiki/Earl_Warren" title="Earl Warren">Warren</a></li>
+<li><a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">Eisenhower</a>/<a href="/wiki/Richard_Nixon" title="Richard Nixon">Nixon</a> (twice)</li>
+<li><a href="/wiki/Richard_Nixon" title="Richard Nixon">Nixon</a>/<a href="/wiki/Henry_Cabot_Lodge_Jr." title="Henry Cabot Lodge Jr.">Lodge</a></li>
+<li><a href="/wiki/Barry_Goldwater" title="Barry Goldwater">Goldwater</a>/<a href="/wiki/William_E._Miller" title="William E. Miller">Miller</a></li>
+<li><a href="/wiki/Richard_Nixon" title="Richard Nixon">Nixon</a>/<a href="/wiki/Spiro_Agnew" title="Spiro Agnew">Agnew</a> (twice)</li>
+<li><a href="/wiki/Gerald_Ford" title="Gerald Ford">Ford</a>/<a href="/wiki/Bob_Dole" title="Bob Dole">Dole</a></li>
+<li><a href="/wiki/Ronald_Reagan" title="Ronald Reagan">Reagan</a>/<a href="/wiki/George_H._W._Bush" title="George H. W. Bush">G. H. W. Bush</a> (twice)</li>
+<li><a href="/wiki/George_H._W._Bush" title="George H. W. Bush">G. H. W. Bush</a>/<a href="/wiki/Dan_Quayle" title="Dan Quayle">Quayle</a> (twice)</li>
+<li><a href="/wiki/Bob_Dole" title="Bob Dole">Dole</a>/<a href="/wiki/Jack_Kemp" title="Jack Kemp">Kemp</a></li>
+<li><a href="/wiki/George_W._Bush" title="George W. Bush">G. W. Bush</a>/<a href="/wiki/Dick_Cheney" title="Dick Cheney">Cheney</a> (twice)</li>
+<li><a href="/wiki/John_McCain" title="John McCain">McCain</a>/<a href="/wiki/Sarah_Palin" title="Sarah Palin">Palin</a></li>
+<li><a href="/wiki/Mitt_Romney" title="Mitt Romney">Romney</a>/<a href="/wiki/Paul_Ryan" title="Paul Ryan">Ryan</a></li>
+<li><a href="/wiki/Donald_Trump" title="Donald Trump">Trump</a>/<a href="/wiki/Mike_Pence" title="Mike Pence">Pence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_state_parties_of_the_Republican_Party_(United_States)" title="List of state parties of the Republican Party (United States)">Parties</a> by <a href="/wiki/U.S._state" title="U.S. state">state</a><br />
+and territory</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">State</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alabama_Republican_Party" title="Alabama Republican Party">Alabama</a></li>
+<li><a href="/wiki/Alaska_Republican_Party" title="Alaska Republican Party">Alaska</a></li>
+<li><a href="/wiki/Arizona_Republican_Party" title="Arizona Republican Party">Arizona</a></li>
+<li><a href="/wiki/Republican_Party_of_Arkansas" title="Republican Party of Arkansas">Arkansas</a></li>
+<li><a href="/wiki/California_Republican_Party" title="California Republican Party">California</a></li>
+<li><a href="/wiki/Colorado_Republican_Party" title="Colorado Republican Party">Colorado</a></li>
+<li><a href="/wiki/Connecticut_Republican_Party" title="Connecticut Republican Party">Connecticut</a></li>
+<li><a href="/wiki/Republican_State_Committee_of_Delaware" title="Republican State Committee of Delaware">Delaware</a></li>
+<li><a href="/wiki/Republican_Party_of_Florida" title="Republican Party of Florida">Florida</a></li>
+<li><a href="/wiki/Georgia_Republican_Party" title="Georgia Republican Party">Georgia</a></li>
+<li><a href="/wiki/Hawaii_Republican_Party" title="Hawaii Republican Party">Hawaii</a></li>
+<li><a href="/wiki/Idaho_Republican_Party" title="Idaho Republican Party">Idaho</a></li>
+<li><a href="/wiki/Illinois_Republican_Party" title="Illinois Republican Party">Illinois</a></li>
+<li><a href="/wiki/Indiana_Republican_Party" title="Indiana Republican Party">Indiana</a></li>
+<li><a href="/wiki/Republican_Party_of_Iowa" title="Republican Party of Iowa">Iowa</a></li>
+<li><a href="/wiki/Kansas_Republican_Party" title="Kansas Republican Party">Kansas</a></li>
+<li><a href="/wiki/Republican_Party_of_Kentucky" title="Republican Party of Kentucky">Kentucky</a></li>
+<li><a href="/wiki/Republican_Party_of_Louisiana" title="Republican Party of Louisiana">Louisiana</a></li>
+<li><a href="/wiki/Maine_Republican_Party" title="Maine Republican Party">Maine</a></li>
+<li><a href="/wiki/Maryland_Republican_Party" title="Maryland Republican Party">Maryland</a></li>
+<li><a href="/wiki/Massachusetts_Republican_Party" title="Massachusetts Republican Party">Massachusetts</a></li>
+<li><a href="/wiki/Michigan_Republican_Party" title="Michigan Republican Party">Michigan</a></li>
+<li><a href="/wiki/Republican_Party_of_Minnesota" title="Republican Party of Minnesota">Minnesota</a></li>
+<li><a href="/wiki/Mississippi_Republican_Party" title="Mississippi Republican Party">Mississippi</a></li>
+<li><a href="/wiki/Missouri_Republican_Party" title="Missouri Republican Party">Missouri</a></li>
+<li><a href="/wiki/Montana_Republican_Party" title="Montana Republican Party">Montana</a></li>
+<li><a href="/wiki/Nebraska_Republican_Party" title="Nebraska Republican Party">Nebraska</a></li>
+<li><a href="/wiki/Nevada_Republican_Party" title="Nevada Republican Party">Nevada</a></li>
+<li><a href="/wiki/New_Hampshire_Republican_State_Committee" title="New Hampshire Republican State Committee">New Hampshire</a></li>
+<li><a href="/wiki/New_Jersey_Republican_State_Committee" title="New Jersey Republican State Committee">New Jersey</a></li>
+<li><a href="/wiki/Republican_Party_of_New_Mexico" title="Republican Party of New Mexico">New Mexico</a></li>
+<li><a href="/wiki/New_York_Republican_State_Committee" title="New York Republican State Committee">New York</a></li>
+<li><a href="/wiki/North_Carolina_Republican_Party" title="North Carolina Republican Party">North Carolina</a></li>
+<li><a href="/wiki/North_Dakota_Republican_Party" title="North Dakota Republican Party">North Dakota</a></li>
+<li><a href="/wiki/Ohio_Republican_Party" title="Ohio Republican Party">Ohio</a></li>
+<li><a href="/wiki/Oklahoma_Republican_Party" title="Oklahoma Republican Party">Oklahoma</a></li>
+<li><a href="/wiki/Oregon_Republican_Party" title="Oregon Republican Party">Oregon</a></li>
+<li><a href="/wiki/Republican_State_Committee_of_Pennsylvania" title="Republican State Committee of Pennsylvania">Pennsylvania</a></li>
+<li><a href="/wiki/Rhode_Island_Republican_Party" title="Rhode Island Republican Party">Rhode Island</a></li>
+<li><a href="/wiki/South_Carolina_Republican_Party" title="South Carolina Republican Party">South Carolina</a></li>
+<li><a href="/wiki/South_Dakota_Republican_Party" title="South Dakota Republican Party">South Dakota</a></li>
+<li><a href="/wiki/Tennessee_Republican_Party" title="Tennessee Republican Party">Tennessee</a></li>
+<li><a href="/wiki/Republican_Party_of_Texas" title="Republican Party of Texas">Texas</a></li>
+<li><a href="/wiki/Utah_Republican_Party" title="Utah Republican Party">Utah</a></li>
+<li><a href="/wiki/Vermont_Republican_Party" title="Vermont Republican Party">Vermont</a></li>
+<li><a href="/wiki/Republican_Party_of_Virginia" title="Republican Party of Virginia">Virginia</a></li>
+<li><a href="/wiki/Washington_State_Republican_Party" title="Washington State Republican Party">Washington</a></li>
+<li><a href="/wiki/West_Virginia_Republican_Party" title="West Virginia Republican Party">West Virginia</a></li>
+<li><a href="/wiki/Republican_Party_of_Wisconsin" title="Republican Party of Wisconsin">Wisconsin</a></li>
+<li><a href="/wiki/Wyoming_Republican_Party" title="Wyoming Republican Party">Wyoming</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Territory</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Republican_Party_of_American_Samoa" title="Republican Party of American Samoa">American Samoa</a></li>
+<li><a href="/wiki/District_of_Columbia_Republican_Party" title="District of Columbia Republican Party">District of Columbia</a></li>
+<li><a href="/wiki/Republican_Party_of_Guam" title="Republican Party of Guam">Guam</a></li>
+<li><a href="/wiki/Republican_Party_(Northern_Mariana_Islands)" title="Republican Party (Northern Mariana Islands)">Northern Mariana Islands</a></li>
+<li><a href="/wiki/Puerto_Rico_Republican_Party" title="Puerto Rico Republican Party">Puerto Rico</a></li>
+<li><a href="/wiki/Republican_Party_of_the_Virgin_Islands" title="Republican Party of the Virgin Islands">Virgin Islands</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Republican_National_Convention" title="Republican National Convention">Conventions</a><br />
+<a href="/wiki/List_of_Republican_National_Conventions" title="List of Republican National Conventions">(list)</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1856_Republican_National_Convention" title="1856 Republican National Convention">1856 (Philadelphia)</a></li>
+<li><a href="/wiki/1860_Republican_National_Convention" title="1860 Republican National Convention">1860 (Chicago)</a></li>
+<li><a href="/wiki/1864_National_Union_National_Convention" title="1864 National Union National Convention">1864 (Baltimore)</a></li>
+<li><a href="/wiki/1868_Republican_National_Convention" title="1868 Republican National Convention">1868 (Chicago)</a></li>
+<li><a href="/wiki/1872_Republican_National_Convention" title="1872 Republican National Convention">1872 (Philadelphia)</a></li>
+<li><a href="/wiki/1876_Republican_National_Convention" title="1876 Republican National Convention">1876 (Cincinnati)</a></li>
+<li><a href="/wiki/1880_Republican_National_Convention" title="1880 Republican National Convention">1880 (Chicago)</a></li>
+<li><a href="/wiki/1884_Republican_National_Convention" title="1884 Republican National Convention">1884 (Chicago)</a></li>
+<li><a href="/wiki/1888_Republican_National_Convention" title="1888 Republican National Convention">1888 (Chicago)</a></li>
+<li><a href="/wiki/1892_Republican_National_Convention" title="1892 Republican National Convention">1892 (Minneapolis)</a></li>
+<li><a href="/wiki/1896_Republican_National_Convention" title="1896 Republican National Convention">1896 (Saint Louis)</a></li>
+<li><a href="/wiki/1900_Republican_National_Convention" title="1900 Republican National Convention">1900 (Philadelphia)</a></li>
+<li><a href="/wiki/1904_Republican_National_Convention" title="1904 Republican National Convention">1904 (Chicago)</a></li>
+<li><a href="/wiki/1908_Republican_National_Convention" title="1908 Republican National Convention">1908 (Chicago)</a></li>
+<li><a href="/wiki/1912_Republican_National_Convention" title="1912 Republican National Convention">1912 (Chicago)</a></li>
+<li><a href="/wiki/1916_Republican_National_Convention" title="1916 Republican National Convention">1916 (Chicago)</a></li>
+<li><a href="/wiki/1920_Republican_National_Convention" title="1920 Republican National Convention">1920 (Chicago)</a></li>
+<li><a href="/wiki/1924_Republican_National_Convention" title="1924 Republican National Convention">1924 (Cleveland)</a></li>
+<li><strong class="selflink">1928 (Kansas City)</strong></li>
+<li><a href="/wiki/1932_Republican_National_Convention" title="1932 Republican National Convention">1932 (Chicago)</a></li>
+<li><a href="/wiki/1936_Republican_National_Convention" title="1936 Republican National Convention">1936 (Cleveland)</a></li>
+<li><a href="/wiki/1940_Republican_National_Convention" title="1940 Republican National Convention">1940 (Philadelphia)</a></li>
+<li><a href="/wiki/1944_Republican_National_Convention" title="1944 Republican National Convention">1944 (Chicago)</a></li>
+<li><a href="/wiki/1948_Republican_National_Convention" title="1948 Republican National Convention">1948 (Philadelphia)</a></li>
+<li><a href="/wiki/1952_Republican_National_Convention" title="1952 Republican National Convention">1952 (Chicago)</a></li>
+<li><a href="/wiki/1956_Republican_National_Convention" title="1956 Republican National Convention">1956 (San Francisco)</a></li>
+<li><a href="/wiki/1960_Republican_National_Convention" title="1960 Republican National Convention">1960 (Chicago)</a></li>
+<li><a href="/wiki/1964_Republican_National_Convention" title="1964 Republican National Convention">1964 (San Francisco)</a></li>
+<li><a href="/wiki/1968_Republican_National_Convention" title="1968 Republican National Convention">1968 (Miami Beach)</a></li>
+<li><a href="/wiki/1972_Republican_National_Convention" title="1972 Republican National Convention">1972 (Miami Beach)</a></li>
+<li><a href="/wiki/1976_Republican_National_Convention" title="1976 Republican National Convention">1976 (Kansas City)</a></li>
+<li><a href="/wiki/1980_Republican_National_Convention" title="1980 Republican National Convention">1980 (Detroit)</a></li>
+<li><a href="/wiki/1984_Republican_National_Convention" title="1984 Republican National Convention">1984 (Dallas)</a></li>
+<li><a href="/wiki/1988_Republican_National_Convention" title="1988 Republican National Convention">1988 (New Orleans)</a></li>
+<li><a href="/wiki/1992_Republican_National_Convention" title="1992 Republican National Convention">1992 (Houston)</a></li>
+<li><a href="/wiki/1996_Republican_National_Convention" title="1996 Republican National Convention">1996 (San Diego)</a></li>
+<li><a href="/wiki/2000_Republican_National_Convention" title="2000 Republican National Convention">2000 (Philadelphia)</a></li>
+<li><a href="/wiki/2004_Republican_National_Convention" title="2004 Republican National Convention">2004 (New York)</a></li>
+<li><a href="/wiki/2008_Republican_National_Convention" title="2008 Republican National Convention">2008 (St. Paul)</a></li>
+<li><a href="/wiki/2012_Republican_National_Convention" title="2012 Republican National Convention">2012 (Tampa)</a></li>
+<li><a href="/wiki/2016_Republican_National_Convention" title="2016 Republican National Convention">2016 (Cleveland)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Republican_Party_(United_States)_organizations" title="Republican Party (United States) organizations">Affiliated<br />
+organizations</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Fundraising groups</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Republican_Congressional_Committee" title="National Republican Congressional Committee">National Republican Congressional Committee</a></li>
+<li><a href="/wiki/National_Republican_Senatorial_Committee" title="National Republican Senatorial Committee">National Republican Senatorial Committee</a></li>
+<li><a href="/wiki/Republican_Conference_of_the_United_States_House_of_Representatives" title="Republican Conference of the United States House of Representatives">Republican Conference of the United States House of Representatives</a></li>
+<li><a href="/wiki/Republican_Conference_of_the_United_States_Senate" title="Republican Conference of the United States Senate">Republican Conference of the United States Senate</a></li>
+<li><a href="/wiki/Republican_Governors_Association" title="Republican Governors Association">Republican Governors Association</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Sectional groups</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/College_Republicans" title="College Republicans">College Republicans</a>
+<ul>
+<li><a href="/wiki/List_of_chairpersons_of_the_College_Republicans" title="List of chairpersons of the College Republicans">Chairmen</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Congressional_Hispanic_Conference" title="Congressional Hispanic Conference">Congressional Hispanic Conference</a></li>
+<li><a href="/wiki/International_Democrat_Union" title="International Democrat Union">International Democrat Union</a></li>
+<li><a href="/wiki/Log_Cabin_Republicans" title="Log Cabin Republicans">Log Cabin Republicans</a></li>
+<li><a href="/wiki/Republican_Jewish_Coalition" title="Republican Jewish Coalition">Republican Jewish Coalition</a></li>
+<li><a href="/wiki/Republican_National_Hispanic_Assembly" title="Republican National Hispanic Assembly">Republican National Hispanic Assembly</a></li>
+<li><a href="/wiki/Republicans_Abroad" title="Republicans Abroad">Republicans Abroad</a></li>
+<li><a href="/wiki/Teen_Age_Republicans" title="Teen Age Republicans">Teen Age Republicans</a></li>
+<li><a href="/wiki/Young_Republicans" title="Young Republicans">Young Republicans</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Factional groups</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Republican_Main_Street_Partnership" title="Republican Main Street Partnership">Republican Main Street Partnership</a></li>
+<li><a href="/wiki/Republican_Majority_for_Choice" title="Republican Majority for Choice">Republican Majority for Choice</a></li>
+<li><a href="/wiki/Republican_Liberty_Caucus" title="Republican Liberty Caucus">Republican Liberty Caucus</a></li>
+<li><a href="/wiki/Republican_National_Coalition_for_Life" title="Republican National Coalition for Life">Republican National Coalition for Life</a></li>
+<li><a href="/wiki/Republican_Study_Committee" title="Republican Study Committee">Republican Study Committee</a></li>
+<li><a href="/wiki/ConservAmerica" title="ConservAmerica">ConservAmerica</a></li>
+<li><a href="/wiki/Freedom_Caucus" title="Freedom Caucus">Freedom Caucus</a></li>
+<li><a href="/wiki/Ripon_Society" title="Ripon Society">Ripon Society</a></li>
+<li><a href="/wiki/The_Wish_List_(political_organization)" title="The Wish List (political organization)">The Wish List</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_the_United_States_Republican_Party" title="History of the United States Republican Party">History</a></li>
+<li><a href="/wiki/Republican_Party_presidential_primaries" title="Republican Party presidential primaries">Primaries</a></li>
+<li><a href="/wiki/Republican_Party_presidential_debates" title="Republican Party presidential debates">Debates</a></li>
+<li><a href="/wiki/Republican_National_Committee_chairmanship_election,_2009" title="Republican National Committee chairmanship election, 2009">2009 chairmanship election</a></li>
+<li><a href="/wiki/Republican_National_Committee_chairmanship_election,_2011" title="Republican National Committee chairmanship election, 2011">2011 chairmanship election</a></li>
+<li><a href="/wiki/Republican_National_Committee_chairmanship_election,_2013" title="Republican National Committee chairmanship election, 2013">2013 chairmanship election</a></li>
+<li><a href="/wiki/Republican_National_Committee_chairmanship_election,_2015" title="Republican National Committee chairmanship election, 2015">2015 chairmanship election</a></li>
+<li><a href="/wiki/Republican_National_Committee_chairmanship_election,_2017" title="Republican National Committee chairmanship election, 2017">2017 chairmanship election</a></li>
+<li><a href="/wiki/Bibliography_of_the_Republican_Party" title="Bibliography of the Republican Party">Bibliography</a></li>
+<li><a href="/wiki/Timeline_of_modern_American_conservatism" title="Timeline of modern American conservatism">Timeline of modern American conservatism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><a href="/wiki/File:Republicanlogo.svg" class="image"><img alt="Republicanlogo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Republicanlogo.svg/16px-Republicanlogo.svg.png" width="16" height="14" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Republicanlogo.svg/24px-Republicanlogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Republicanlogo.svg/32px-Republicanlogo.svg.png 2x" data-file-width="600" data-file-height="521" /></a> <a href="/wiki/Portal:Republican_Party" title="Portal:Republican Party">Republican Party portal</a></b></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Herbert_Hoover" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Herbert_Hoover" title="Template:Herbert Hoover"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Herbert_Hoover" title="Template talk:Herbert Hoover"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Herbert_Hoover&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Herbert_Hoover" style="font-size:114%;margin:0 4em"><a href="/wiki/Herbert_Hoover" title="Herbert Hoover">Herbert Hoover</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><span class="nowrap"><a href="/wiki/List_of_Presidents_of_the_United_States" title="List of Presidents of the United States">31st</a> <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a> (1929–1933)</span></li>
+<li><span class="nowrap">3rd <a href="/wiki/United_States_Secretary_of_Commerce" title="United States Secretary of Commerce">United States Secretary of Commerce</a> (1921–1928)</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Presidency_of_Herbert_Hoover" title="Presidency of Herbert Hoover">Presidency</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Inauguration_of_Herbert_Hoover" title="Inauguration of Herbert Hoover">1929 inauguration</a></li>
+<li><a href="/wiki/Hoover_Dam" title="Hoover Dam">Hoover Dam</a></li>
+<li><a href="/wiki/Federal_Farm_Board" title="Federal Farm Board">Federal Farm Board</a></li>
+<li><a href="/wiki/Wall_Street_Crash_of_1929" title="Wall Street Crash of 1929">Wall Street Crash of 1929</a></li>
+<li><a href="/wiki/Hooverville" title="Hooverville">Hooverville</a>
+<ul>
+<li><a href="/wiki/Bonus_Army" title="Bonus Army">Bonus Army</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Banana_Wars" title="Banana Wars">Banana Wars</a>
+<ul>
+<li><a href="/wiki/United_States_occupation_of_Nicaragua" title="United States occupation of Nicaragua">U.S. occupation of Nicaragua</a></li>
+<li><a href="/wiki/United_States_occupation_of_Haiti" title="United States occupation of Haiti">U.S. occupation of Haiti</a></li>
+</ul>
+</li>
+<li><a href="/wiki/London_Naval_Treaty" title="London Naval Treaty">London Naval Treaty</a></li>
+<li><a href="/wiki/Hoover_Moratorium" title="Hoover Moratorium">Hoover Moratorium</a></li>
+<li><a href="/wiki/Stimson_Doctrine" title="Stimson Doctrine">Stimson Doctrine</a></li>
+<li><a href="/wiki/Herbert_Hoover#Administration_and_cabinet" title="Herbert Hoover">Cabinet</a>
+<ul>
+<li><a href="/wiki/Medicine_Ball_Cabinet" title="Medicine Ball Cabinet">Medicine Ball Cabinet</a></li>
+<li><a href="/wiki/Hooverball" title="Hooverball">Hooverball</a></li>
+</ul>
+</li>
+<li><a href="/wiki/1929_State_of_the_Union_Address" title="1929 State of the Union Address">State of the Union Address, 1929</a></li>
+<li><a href="/wiki/1930_State_of_the_Union_Address" title="1930 State of the Union Address">1930</a></li>
+<li><a href="/wiki/List_of_federal_judges_appointed_by_Herbert_Hoover" title="List of federal judges appointed by Herbert Hoover">Judicial appointments</a>
+<ul>
+<li><a href="/wiki/Herbert_Hoover_Supreme_Court_candidates" title="Herbert Hoover Supreme Court candidates">Supreme Court</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="13" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><img alt="Herbert Hoover.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Herbert_Hoover.jpg/100px-Herbert_Hoover.jpg" width="100" height="124" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Herbert_Hoover.jpg/150px-Herbert_Hoover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Herbert_Hoover.jpg/200px-Herbert_Hoover.jpg 2x" data-file-width="912" data-file-height="1131" /></div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other events</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sons_of_Gwalia#History" title="Sons of Gwalia">Sons of Gwalia mine</a></li>
+<li><a href="/wiki/Consolidated_Zinc" title="Consolidated Zinc">Zinc Corporation</a></li>
+<li><a href="/wiki/Commission_for_Relief_in_Belgium" title="Commission for Relief in Belgium">Commission for Relief in Belgium</a>
+<ul>
+<li><a href="/wiki/University_Foundation" title="University Foundation">University Foundation</a></li>
+<li><a href="/wiki/Belgian_American_Educational_Foundation" title="Belgian American Educational Foundation">Belgian American Educational Foundation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/American_Relief_Administration" title="American Relief Administration">American Relief Administration</a>
+<ul>
+<li><a href="/wiki/Russian_Famine_Relief_Act" title="Russian Famine Relief Act">Russian Famine Relief Act</a></li>
+</ul>
+</li>
+<li><a href="/wiki/United_States_Food_Administration" title="United States Food Administration">U.S. Food Administration</a></li>
+<li><a href="/wiki/Commission_for_Polish_Relief" title="Commission for Polish Relief">Commission for Polish Relief</a></li>
+<li><a href="/wiki/Finnish_Relief_Fund" title="Finnish Relief Fund">Finnish Relief Fund</a></li>
+<li><a href="/wiki/Hoover_Commission" title="Hoover Commission">Hoover Commission</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Life</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Herbert_Hoover#Family_background_and_early_life" title="Herbert Hoover">Early life</a></li>
+<li><a href="/wiki/Herbert_Hoover_National_Historic_Site" title="Herbert Hoover National Historic Site">Birthplace and childhood home National Historic Site</a></li>
+<li><a href="/wiki/Hoover%E2%80%93Minthorn_House" title="Hoover–Minthorn House">Hoover–Minthorn House</a></li>
+<li><a href="/wiki/Lou_Henry_Hoover_House" title="Lou Henry Hoover House">Lou Henry Hoover House</a></li>
+<li><a href="/wiki/Rapidan_Camp" title="Rapidan Camp">Rapidan Camp</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Legacy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Herbert_Hoover_Presidential_Library_and_Museum" title="Herbert Hoover Presidential Library and Museum">Presidential Library, Museum, and gravesite</a></li>
+<li><a href="/wiki/Hoover_Institution_Library_and_Archives" title="Hoover Institution Library and Archives">Hoover Institution Library and Archives</a></li>
+<li><a href="/wiki/Hoover_Tower" title="Hoover Tower">Hoover Tower</a></li>
+<li><a href="/wiki/Hoover_Institution" title="Hoover Institution">Hoover Institution</a></li>
+<li><a href="/wiki/Herbert_C._Hoover_Building" title="Herbert C. Hoover Building">Herbert C. Hoover Building</a></li>
+<li><a href="/wiki/Presidents_of_the_United_States_on_U.S._postage_stamps#Herbert_Hoover" title="Presidents of the United States on U.S. postage stamps">U.S. Postage stamp</a></li>
+<li><a href="/wiki/Hoover_Medal" title="Hoover Medal">Hoover Medal</a></li>
+<li><a href="/wiki/Hoover_Chair" title="Hoover Chair">Hoover Chair</a></li>
+<li><a href="/wiki/Hoover_Field" title="Hoover Field">Hoover Field</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Books</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>Freedom Betrayed</i></li>
+<li><a href="/wiki/De_re_metallica" title="De re metallica">English translation of <i>De re metallica</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Electoral_history_of_Herbert_Hoover" title="Electoral history of Herbert Hoover">Elections</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1920_Republican_National_Convention" title="1920 Republican National Convention">Republican National Convention, 1920</a></li>
+<li><strong class="selflink">1928</strong></li>
+<li><a href="/wiki/1932_Republican_National_Convention" title="1932 Republican National Convention">1932</a></li>
+<li><a href="/wiki/1940_Republican_National_Convention" title="1940 Republican National Convention">1940</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1928" title="United States presidential election, 1928">United States presidential election, 1928</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1932" title="United States presidential election, 1932">1932</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Family</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lou_Henry_Hoover" title="Lou Henry Hoover">Lou Henry Hoover</a> <small>(wife)</small></li>
+<li><a href="/wiki/Herbert_Hoover_Jr." title="Herbert Hoover Jr.">Herbert Hoover Jr.</a> <small>(son)</small></li>
+<li><a href="/wiki/Allan_Hoover" title="Allan Hoover">Allan Hoover</a> <small>(son)</small></li>
+<li><a href="/wiki/Margaret_Hoover" title="Margaret Hoover">Margaret Hoover</a> <small>(great-granddaughter)</small></li>
+<li><a href="/w/index.php?title=Jesse_Hoover&amp;action=edit&amp;redlink=1" class="new" title="Jesse Hoover (page does not exist)">Jesse Hoover</a> <small>(father)</small></li>
+<li><a href="/w/index.php?title=Hulda_Randall_(Minthorn)_Hoover&amp;action=edit&amp;redlink=1" class="new" title="Hulda Randall (Minthorn) Hoover (page does not exist)">Hulda Randall (Minthorn) Hoover</a> <small>(mother)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3">
+<div>
+<ul>
+<li><b><a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">← Calvin Coolidge</a></b></li>
+<li><b><a href="/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">Franklin D. Roosevelt →</a></b></li>
+</ul>
+<ul>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Herbert_Hoover" title="Category:Herbert Hoover">Category</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby=".281924_.E2.86.90.29_United_States_presidential_election.2C_1928_.28.E2.86.92_1932.29" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:United_States_presidential_election,_1928" title="Template:United States presidential election, 1928"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:United_States_presidential_election,_1928" title="Template talk:United States presidential election, 1928"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:United_States_presidential_election,_1928&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id=".281924_.E2.86.90.29_United_States_presidential_election.2C_1928_.28.E2.86.92_1932.29" style="font-size:114%;margin:0 4em">(<a href="/wiki/United_States_presidential_election,_1924" title="United States presidential election, 1924">1924 ←</a>) <a href="/wiki/United_States_presidential_election,_1928" title="United States presidential election, 1928">United States presidential election, 1928</a> (<a href="/wiki/United_States_presidential_election,_1932" title="United States presidential election, 1932">→ 1932</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;font-weight:normal;"><u><b><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican Party</a></b></u><br />
+<i><b><strong class="selflink">Convention</strong></b></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Nominee</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Herbert_Hoover" title="Herbert Hoover">Herbert Hoover</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">VP nominee</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Candidates:</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charles_Curtis" title="Charles Curtis">Charles Curtis</a></li>
+<li><a href="/wiki/Guy_D._Goff" title="Guy D. Goff">Guy D. Goff</a></li>
+<li><a href="/wiki/Frank_Orren_Lowden" title="Frank Orren Lowden">Frank O. Lowden</a></li>
+<li><a href="/wiki/George_W._Norris" title="George W. Norris">George W. Norris</a></li>
+<li><a href="/wiki/Frank_B._Willis" title="Frank B. Willis">Frank B. Willis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;font-weight:normal;"><u><b><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic Party</a></b></u><br />
+<i><b><a href="/wiki/1928_Democratic_National_Convention" title="1928 Democratic National Convention">Convention</a></b></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Nominee</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Al_Smith" title="Al Smith">Al Smith</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">VP nominee</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Joseph_Taylor_Robinson" title="Joseph Taylor Robinson">Joseph Taylor Robinson</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Candidates</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cordell_Hull" title="Cordell Hull">Cordell Hull</a></li>
+<li><a href="/wiki/Atlee_Pomerene" title="Atlee Pomerene">Atlee Pomerene</a></li>
+<li><a href="/wiki/James_A._Reed" title="James A. Reed">James A. Reed</a></li>
+<li><a href="/wiki/Evans_Woollen" title="Evans Woollen">Evans Woollen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Third_party_and_independent_candidates" style="font-size:114%;margin:0 4em"><a href="/wiki/Third_party_(United_States)" title="Third party (United States)">Third party</a> and <a href="/wiki/Independent_politician" title="Independent politician">independent</a> candidates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Communist_Party_USA" title="Communist Party USA">Communist Party</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Nominee</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/William_Z._Foster" title="William Z. Foster">William Z. Foster</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">VP nominee</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Benjamin_Gitlow" title="Benjamin Gitlow">Benjamin Gitlow</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Prohibition_Party" title="Prohibition Party">Prohibition Party</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Nominee</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/William_F._Varney" title="William F. Varney">William F. Varney</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Socialist_Party_of_America" title="Socialist Party of America">Socialist Party</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Nominee</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Norman_Thomas" title="Norman Thomas">Norman Thomas</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">VP nominee</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/James_H._Maurer" title="James H. Maurer">James H. Maurer</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Socialist_Labor_Party_of_America" title="Socialist Labor Party of America">Socialist Labor Party</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Nominee</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Frank_T._Johns" title="Frank T. Johns">Frank T. Johns</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">VP nominee</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Verne_L._Reynolds" title="Verne L. Reynolds">Verne L. Reynolds</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Independents and other candidates</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/William_Dudley_Pelley" title="William Dudley Pelley">William Dudley Pelley</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b>Other 1928 elections</b>: <a href="/wiki/United_States_House_of_Representatives_elections,_1928" title="United States House of Representatives elections, 1928">House</a></li>
+<li><a href="/wiki/United_States_Senate_elections,_1928" title="United States Senate elections, 1928">Senate</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20170404211528
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.319 seconds
+Preprocessor visited node count: 4078/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 155825/2097152 bytes
+Template argument size: 2884/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.082/10.000 seconds
+Lua memory usage: 3.06 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  202.878      1 -total
+ 57.22%  116.077     12 Template:Navbox
+ 34.83%   70.655      1 Template:Reflist
+ 18.87%   38.273      3 Template:Cite_web
+ 17.31%   35.124      1 Template:Republican_National_Convention
+ 15.96%   32.379      7 Template:Navbox_subgroup
+ 15.14%   30.723      1 Template:United_States_presidential_election,_1928
+ 12.55%   25.468      1 Template:Infobox_National_Political_Convention
+ 10.67%   21.644      1 Template:Infobox
+  7.13%   14.462      1 Template:Herbert_Hoover
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1845311-0!*!0!!en!4!* and timestamp 20170404211528 and revision id 763771599
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1928_Republican_National_Convention&amp;oldid=763771599">https://en.wikipedia.org/w/index.php?title=1928_Republican_National_Convention&amp;oldid=763771599</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:United_States_presidential_election,_1928" title="Category:United States presidential election, 1928">United States presidential election, 1928</a></li><li><a href="/wiki/Category:Republican_National_Conventions" title="Category:Republican National Conventions">Republican National Conventions</a></li><li><a href="/wiki/Category:History_of_Kansas_City,_Missouri" title="Category:History of Kansas City, Missouri">History of Kansas City, Missouri</a></li><li><a href="/wiki/Category:Political_conventions_in_Missouri" title="Category:Political conventions in Missouri">Political conventions in Missouri</a></li><li><a href="/wiki/Category:1928_in_Missouri" title="Category:1928 in Missouri">1928 in Missouri</a></li><li><a href="/wiki/Category:1928_conferences" title="Category:1928 conferences">1928 conferences</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1928+Republican+National+Convention" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1928+Republican+National+Convention" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1928_Republican_National_Convention"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1928_Republican_National_Convention"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1928_Republican_National_Convention" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1928_Republican_National_Convention" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1928_Republican_National_Convention" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1928_Republican_National_Convention&amp;oldid=763771599" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1928_Republican_National_Convention&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4562283" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1928_Republican_National_Convention&amp;id=763771599" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1928+Republican+National+Convention">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1928+Republican+National+Convention&amp;returnto=1928+Republican+National+Convention&amp;oldid=763771599&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1928_Republican_National_Convention&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4562283#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 February 2017, at 04:20.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1928_Republican_National_Convention&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.319","ppvisitednodes":{"value":4078,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":155825,"limit":2097152},"templateargumentsize":{"value":2884,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  202.878      1 -total"," 57.22%  116.077     12 Template:Navbox"," 34.83%   70.655      1 Template:Reflist"," 18.87%   38.273      3 Template:Cite_web"," 17.31%   35.124      1 Template:Republican_National_Convention"," 15.96%   32.379      7 Template:Navbox_subgroup"," 15.14%   30.723      1 Template:United_States_presidential_election,_1928"," 12.55%   25.468      1 Template:Infobox_National_Political_Convention"," 10.67%   21.644      1 Template:Infobox","  7.13%   14.462      1 Template:Herbert_Hoover"]},"scribunto":{"limitreport-timeusage":{"value":"0.082","limit":"10.000"},"limitreport-memusage":{"value":3207276,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20170404211528","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":126,"wgHostname":"mw2232"});});</script>
+	</body>
+</html>

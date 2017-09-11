@@ -1,0 +1,1134 @@
+https://en.wikipedia.org/wiki/1947_Giro_d%27Italia
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1947 Giro d'Italia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1947_Giro_d'Italia","wgTitle":"1947 Giro d'Italia","wgCurRevisionId":776226129,"wgRevisionId":776226129,"wgArticleId":12590880,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Italian-language sources (it)","Giro d'Italia by year","1947 in road cycling","1947 in Italian sport"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1947_Giro_d'Italia","wgRelevantArticleId":12590880,"wgRequestId":"WPx0KwrAEDYAAiJuFqIAAAAF","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q114153","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1947_Giro_d%27Italia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1947_Giro_d%27Italia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1947_Giro_d_Italia rootpage-1947_Giro_d_Italia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1947 Giro d'Italia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em;min-width: 22em">
+<caption>1947 Giro d'Italia</caption>
+<tr>
+<th colspan="2" style="text-align:center;background:#CCCCFF;">Race details</th>
+</tr>
+<tr>
+<th scope="row">Dates</th>
+<td>24 May - 15 June</td>
+</tr>
+<tr>
+<th scope="row">Stages</th>
+<td>20</td>
+</tr>
+<tr>
+<th scope="row">Distance</th>
+<td>3,843&#160;km (2,388&#160;mi)</td>
+</tr>
+<tr>
+<th scope="row">Winning time</th>
+<td>115h 55' 07"</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#CCCCFF;">Results</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<table class="infobox" style="padding:0;border:none;margin:auto;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent">
+<tr>
+<th scope="row" style="white-space:nowrap; width:20px;"><a href="/wiki/File:Jersey_pink.svg" class="image"><img alt="Jersey awarded to the overall winner" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/20px-Jersey_pink.svg.png" width="20" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/30px-Jersey_pink.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/40px-Jersey_pink.svg.png 2x" data-file-width="250" data-file-height="200" /></a></th>
+<td style="white-space:nowrap; font-weight: bold;">Winner</td>
+<td style="white-space:nowrap;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td style="white-space:nowrap;"><span style="font-size:90%;">(Bianchi)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap; width:20px;">&#160;</th>
+<td style="white-space:nowrap; font-weight: bold;">Second</td>
+<td style="white-space:nowrap;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td style="white-space:nowrap;"><span style="font-size:90%;">(Legnano)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap; width:20px;">&#160;</th>
+<td style="white-space:nowrap; font-weight: bold;">Third</td>
+<td style="white-space:nowrap;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Giulio_Bresci" title="Giulio Bresci">Giulio Bresci</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td style="white-space:nowrap;"><span style="font-size:90%;">(Welter)</span></td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center">
+<hr /></th>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap; width:20px;">&#160;</th>
+<td style="white-space:nowrap; font-weight: bold;">Mountains</td>
+<td style="white-space:nowrap;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td style="white-space:nowrap;"><span style="font-size:90%;">(Legnano)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap; width:20px;">&#160;</th>
+<td style="white-space:nowrap; font-weight: bold;">Team</td>
+<td style="white-space:nowrap;">Welter</td>
+<td style="white-space:nowrap;"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="hlist noprint nowrap" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px;">
+<div style="float: left;">←&#160;<a href="/wiki/1946_Giro_d%27Italia" title="1946 Giro d'Italia">1946</a></div>
+<div style="float: right;"><a href="/wiki/1948_Giro_d%27Italia" title="1948 Giro d'Italia">1948</a>&#160;→</div>
+</td>
+</tr>
+</table>
+<p>The <b>1947 Giro d'Italia</b> was the 30th&#160;edition of the <a href="/wiki/Giro_d%27Italia" title="Giro d'Italia">Giro d'Italia</a>, a cycling race organized and sponsored by the <a href="/wiki/Newspaper" title="Newspaper">newspaper</a> <i><a href="/wiki/La_Gazzetta_dello_Sport" title="La Gazzetta dello Sport">La Gazzetta dello Sport</a></i>. The race began on 24 May in <a href="/wiki/Milan" title="Milan">Milan</a> with a stage that stretched 190&#160;km (118&#160;mi) to <a href="/wiki/Turin" title="Turin">Turin</a>, finishing back in Milan on 15 June after a 278&#160;km (173&#160;mi) stage and a total distance covered of 3,843&#160;km (2,388&#160;mi). The race was won by the Italian rider <a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a> of the Bianchi team, with fellow Italians <a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a> and <a href="/wiki/Giulio_Bresci" title="Giulio Bresci">Giulio Bresci</a> coming in second and third respectively.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Teams"><span class="tocnumber">1</span> <span class="toctext">Teams</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Route_and_stages"><span class="tocnumber">2</span> <span class="toctext">Route and stages</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Classification_leadership"><span class="tocnumber">3</span> <span class="toctext">Classification leadership</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Final_standings"><span class="tocnumber">4</span> <span class="toctext">Final standings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#General_classification"><span class="tocnumber">4.1</span> <span class="toctext">General classification</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Mountains_classification"><span class="tocnumber">4.2</span> <span class="toctext">Mountains classification</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Team_classification"><span class="tocnumber">4.3</span> <span class="toctext">Team classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Teams">Teams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit&amp;section=1" title="Edit section: Teams">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A total of twelve teams entered the 1947 Giro d'Italia.<sup id="cite_ref-CDS_T_1-0" class="reference"><a href="#cite_note-CDS_T-1">[1]</a></sup> Each team sent a squad of seven riders, so the Giro began with a peloton of 84 cyclists.<sup id="cite_ref-CDS_T_1-1" class="reference"><a href="#cite_note-CDS_T-1">[1]</a></sup> Out of the 84 riders that started this edition of the Giro d'Italia, a total of 50 riders made it to the finish in <a href="/wiki/Milan" title="Milan">Milan</a>.<sup id="cite_ref-CDS_T_1-2" class="reference"><a href="#cite_note-CDS_T-1">[1]</a></sup><sup id="cite_ref-BRI_1947_2-0" class="reference"><a href="#cite_note-BRI_1947-2">[2]</a></sup></p>
+<p>The teams entering the race were:<sup id="cite_ref-CDS_T_1-3" class="reference"><a href="#cite_note-CDS_T-1">[1]</a></sup></p>
+<table>
+<tr>
+<td valign="top" width="25%">
+<ul>
+<li>Arbos-Talbot</li>
+<li>Benotto</li>
+<li>Bianchi</li>
+<li>Cozzi-Silger</li>
+</ul>
+</td>
+<td valign="top" width="25%">
+<ul>
+<li>Legnano</li>
+<li>Lygie</li>
+<li>Olmo</li>
+<li>Monterosa</li>
+</ul>
+</td>
+<td valign="top" width="25%">
+<ul>
+<li>Viscontea</li>
+<li>Wally</li>
+<li>Welter</li>
+<li>Wilier-Triestina</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Route_and_stages">Route and stages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit&amp;section=2" title="Edit section: Route and stages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>Stage characteristics and results<sup id="cite_ref-BRI_1947_2-1" class="reference"><a href="#cite_note-BRI_1947-2">[2]</a></sup></caption>
+<tr style="background:#efefef;">
+<th>Stage</th>
+<th>Date</th>
+<th>Course</th>
+<th>Distance</th>
+<th colspan="2">Type</th>
+<th>Winner</th>
+</tr>
+<tr>
+<th style="text-align:center">1</th>
+<td style="text-align:center;">24 May</td>
+<td><a href="/wiki/Milan" title="Milan">Milan</a> to <a href="/wiki/Turin" title="Turin">Turin</a></td>
+<td>190&#160;km (118&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/w/index.php?title=Renzo_Zanazzi&amp;action=edit&amp;redlink=1" class="new" title="Renzo Zanazzi (page does not exist)">Renzo Zanazzi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">2</th>
+<td style="text-align:center;">25 May</td>
+<td><a href="/wiki/Turin" title="Turin">Turin</a> to <a href="/wiki/Genoa" title="Genoa">Genoa</a></td>
+<td>206&#160;km (128&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">3</th>
+<td style="text-align:center;">26 May</td>
+<td><a href="/wiki/Genoa" title="Genoa">Genoa</a> to <a href="/wiki/Reggio_Emilia" title="Reggio Emilia">Reggio Emilia</a></td>
+<td>220&#160;km (137&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/22px-Mountainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/33px-Mountainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/44px-Mountainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Stage with mountain(s)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Luciano_Maggini" title="Luciano Maggini">Luciano Maggini</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">4</th>
+<td style="text-align:center;">27 May</td>
+<td><a href="/wiki/Reggio_Emilia" title="Reggio Emilia">Reggio Emilia</a> to <a href="/wiki/Prato" title="Prato">Prato</a></td>
+<td>190&#160;km (118&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/22px-Mountainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/33px-Mountainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/44px-Mountainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Stage with mountain(s)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th></th>
+<td style="text-align:center;">28 May</td>
+<td colspan="6" style="text-align:center;"><i>Rest day</i></td>
+</tr>
+<tr>
+<th style="text-align:center">5a</th>
+<td style="text-align:center;" rowspan="2">29 May</td>
+<td><a href="/wiki/Prato" title="Prato">Prato</a> to Bagni di <a href="/wiki/Casciana_Terme" title="Casciana Terme">Casciana Terme</a></td>
+<td>84&#160;km (52&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Luciano_Maggini" title="Luciano Maggini">Luciano Maggini</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">5b</th>
+<td>Bagni di <a href="/wiki/Casciana_Terme" title="Casciana Terme">Casciana Terme</a> to <a href="/wiki/Florence" title="Florence">Florence</a></td>
+<td>141&#160;km (88&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/w/index.php?title=Renzo_Zanazzi&amp;action=edit&amp;redlink=1" class="new" title="Renzo Zanazzi (page does not exist)">Renzo Zanazzi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">6</th>
+<td style="text-align:center;">30 May</td>
+<td><a href="/wiki/Florence" title="Florence">Florence</a> to <a href="/wiki/Perugia" title="Perugia">Perugia</a></td>
+<td>161&#160;km (100&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Giordano_Cottur" title="Giordano Cottur">Giordano Cottur</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">7</th>
+<td style="text-align:center;">31 May</td>
+<td><a href="/wiki/Perugia" title="Perugia">Perugia</a> to <a href="/wiki/Rome" title="Rome">Rome</a></td>
+<td>240&#160;km (149&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/22px-Mountainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/33px-Mountainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/44px-Mountainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Stage with mountain(s)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Oreste_Conte" title="Oreste Conte">Oreste Conte</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">8</th>
+<td style="text-align:center;">1 June</td>
+<td><a href="/wiki/Rome" title="Rome">Rome</a> to <a href="/wiki/Naples" title="Naples">Naples</a></td>
+<td>231&#160;km (144&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th></th>
+<td style="text-align:center;">2 June</td>
+<td colspan="6" style="text-align:center;"><i>Rest day</i></td>
+</tr>
+<tr>
+<th style="text-align:center">9</th>
+<td style="text-align:center;">3 June</td>
+<td><a href="/wiki/Naples" title="Naples">Naples</a> to <a href="/wiki/Bari" title="Bari">Bari</a></td>
+<td>288&#160;km (179&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/22px-Mountainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/33px-Mountainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/44px-Mountainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Stage with mountain(s)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Elio_Bertocchi" title="Elio Bertocchi">Elio Bertocchi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">10</th>
+<td style="text-align:center;">4 June</td>
+<td><a href="/wiki/Bari" title="Bari">Bari</a> to <a href="/wiki/Foggia" title="Foggia">Foggia</a></td>
+<td>129&#160;km (80&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Mario_Ricci" title="Mario Ricci">Mario Ricci</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">11</th>
+<td style="text-align:center;">5 June</td>
+<td><a href="/wiki/Foggia" title="Foggia">Foggia</a> to <a href="/wiki/Pescara" title="Pescara">Pescara</a></td>
+<td>223&#160;km (139&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Oreste_Conte" title="Oreste Conte">Oreste Conte</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th></th>
+<td style="text-align:center;">6 June</td>
+<td colspan="6" style="text-align:center;"><i>Rest day</i></td>
+</tr>
+<tr>
+<th style="text-align:center">12</th>
+<td style="text-align:center;">7 June</td>
+<td><a href="/wiki/Pescara" title="Pescara">Pescara</a> to <a href="/wiki/Cesenatico" title="Cesenatico">Cesenatico</a></td>
+<td>267&#160;km (166&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Giovanni_Corrieri" title="Giovanni Corrieri">Giovanni Corrieri</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">13</th>
+<td style="text-align:center;">8 June</td>
+<td><a href="/wiki/Cesenatico" title="Cesenatico">Cesenatico</a> to <a href="/wiki/Padua" title="Padua">Padua</a></td>
+<td>175&#160;km (109&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Antonio_Bevilacqua" title="Antonio Bevilacqua">Antonio Bevilacqua</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">14</th>
+<td style="text-align:center;">9 June</td>
+<td><a href="/wiki/Padua" title="Padua">Padua</a> to <a href="/wiki/Vittorio_Veneto" title="Vittorio Veneto">Vittorio Veneto</a></td>
+<td>132&#160;km (82&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Adolfo_Leoni" title="Adolfo Leoni">Adolfo Leoni</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">15</th>
+<td style="text-align:center;">10 June</td>
+<td><a href="/wiki/Vittorio_Veneto" title="Vittorio Veneto">Vittorio Veneto</a> to <a href="/wiki/Pieve_di_Cadore" title="Pieve di Cadore">Pieve di Cadore</a></td>
+<td>200&#160;km (124&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/22px-Mountainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/33px-Mountainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/44px-Mountainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Stage with mountain(s)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th></th>
+<td style="text-align:center;">11 June</td>
+<td colspan="6" style="text-align:center;"><i>Rest day</i></td>
+</tr>
+<tr>
+<th style="text-align:center">16</th>
+<td style="text-align:center;">12 June</td>
+<td><a href="/wiki/Pieve_di_Cadore" title="Pieve di Cadore">Pieve di Cadore</a> to <a href="/wiki/Trento" title="Trento">Trento</a></td>
+<td>194&#160;km (121&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/22px-Mountainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/33px-Mountainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/44px-Mountainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Stage with mountain(s)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">17</th>
+<td style="text-align:center;">13 June</td>
+<td><a href="/wiki/Trento" title="Trento">Trento</a> to <a href="/wiki/Brescia" title="Brescia">Brescia</a> Sant'Eufemia</td>
+<td>114&#160;km (71&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Adolfo_Leoni" title="Adolfo Leoni">Adolfo Leoni</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">18</th>
+<td style="text-align:center;">14 June</td>
+<td><a href="/wiki/Brescia" title="Brescia">Brescia</a> Sant'Eufemia to <a href="/wiki/Lugano" title="Lugano">Lugano</a> (<a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>)</td>
+<td>180&#160;km (112&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/22px-Plainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/33px-Plainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plainstage.svg/44px-Plainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Plain stage</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Giulio_Bresci" title="Giulio Bresci">Giulio Bresci</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th style="text-align:center">19</th>
+<td style="text-align:center;">15 June</td>
+<td><a href="/wiki/Lugano" title="Lugano">Lugano</a> (<a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>) to <a href="/wiki/Milan" title="Milan">Milan</a></td>
+<td>278&#160;km (173&#160;mi)</td>
+<td style="text-align:center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/22px-Mountainstage.svg.png" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/33px-Mountainstage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mountainstage.svg/44px-Mountainstage.svg.png 2x" data-file-width="22" data-file-height="22" /></td>
+<td>Stage with mountain(s)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Adolfo_Leoni" title="Adolfo Leoni">Adolfo Leoni</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+</tr>
+<tr>
+<th></th>
+<td colspan="2" style="text-align:center;">Total</td>
+<td colspan="5" style="text-align:center;">3,843&#160;km (2,388&#160;mi)</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Classification_leadership">Classification leadership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit&amp;section=3" title="Edit section: Classification leadership">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The leader of the <a href="/wiki/General_classification_in_the_Giro_d%27Italia" title="General classification in the Giro d'Italia">general classification</a> – calculated by adding the stage finish times of each rider – wore a pink jersey. This classification is the most important of the race, and its winner is considered as the winner of the Giro.<sup id="cite_ref-demystified_3-0" class="reference"><a href="#cite_note-demystified-3">[3]</a></sup></p>
+<p>In the mountains classification, the race organizers selected different mountains that the route crossed and awarded points to the riders who crossed them first.<sup id="cite_ref-demystified_3-1" class="reference"><a href="#cite_note-demystified-3">[3]</a></sup></p>
+<p>The winner of the team classification was determined by adding the finish times of the best three cyclists per team together and the team with the lowest total time was the winner.<sup id="cite_ref-BRI_1947_2-2" class="reference"><a href="#cite_note-BRI_1947-2">[2]</a></sup><sup id="cite_ref-IL_Finalsp2_4-0" class="reference"><a href="#cite_note-IL_Finalsp2-4">[4]</a></sup> If a team had fewer than three riders finish, they were not eligible for the classification.<sup id="cite_ref-BRI_1947_2-3" class="reference"><a href="#cite_note-BRI_1947-2">[2]</a></sup><sup id="cite_ref-IL_Finalsp2_4-1" class="reference"><a href="#cite_note-IL_Finalsp2-4">[4]</a></sup></p>
+<p>The rows in the following table correspond to the jerseys awarded after that stage was run.</p>
+<table class="wikitable" style="text-align: center; font-size:smaller;">
+<tr style="background:#efefef;">
+<th style="width:1%;">Stage</th>
+<th style="width:14%;">Winner</th>
+<th style="background:#efefef; width:14%;"><a href="/wiki/General_classification_in_the_Giro_d%27Italia" title="General classification in the Giro d'Italia">General classification</a><br />
+<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/25px-Jersey_pink.svg.png" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/38px-Jersey_pink.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/50px-Jersey_pink.svg.png 2x" data-file-width="250" data-file-height="200" /></th>
+<th style="background:#efefef; width:14%;"><a href="/wiki/Mountains_classification_in_the_Giro_d%27Italia" title="Mountains classification in the Giro d'Italia">Mountains classification</a></th>
+<th style="background:#efefef; width:14%;"><a href="/wiki/Team_classification_in_the_Giro_d%27Italia" title="Team classification in the Giro d'Italia">Team classification</a></th>
+</tr>
+<tr>
+<th>1</th>
+<td><a href="/w/index.php?title=Renzo_Zanazzi&amp;action=edit&amp;redlink=1" class="new" title="Renzo Zanazzi (page does not exist)">Renzo Zanazzi</a></td>
+<td style="background:pink;" rowspan="3"><a href="/w/index.php?title=Renzo_Zanazzi&amp;action=edit&amp;redlink=1" class="new" title="Renzo Zanazzi (page does not exist)">Renzo Zanazzi</a></td>
+<td style="background:#EFEFEF;" rowspan="2"><i>not awarded</i></td>
+<td style="background:lightyellow;" rowspan="3">&#160;?</td>
+</tr>
+<tr>
+<th>2</th>
+<td><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a></td>
+</tr>
+<tr>
+<th>3</th>
+<td><a href="/wiki/Luciano_Maggini" title="Luciano Maggini">Luciano Maggini</a></td>
+<td style="background:lightgreen;" rowspan="1"><a href="/wiki/Giovanni_Corrieri" title="Giovanni Corrieri">Giovanni Corrieri</a></td>
+</tr>
+<tr>
+<th>4</th>
+<td><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a></td>
+<td style="background:pink;" rowspan="13"><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a></td>
+<td style="background:lightgreen;" rowspan="17"><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a></td>
+<td style="background:lightyellow;" rowspan="6">Benotto</td>
+</tr>
+<tr>
+<th>5a</th>
+<td><a href="/wiki/Luciano_Maggini" title="Luciano Maggini">Luciano Maggini</a></td>
+</tr>
+<tr>
+<th>5b</th>
+<td><a href="/w/index.php?title=Renzo_Zanazzi&amp;action=edit&amp;redlink=1" class="new" title="Renzo Zanazzi (page does not exist)">Renzo Zanazzi</a></td>
+</tr>
+<tr>
+<th>6</th>
+<td><a href="/wiki/Giordano_Cottur" title="Giordano Cottur">Giordano Cottur</a></td>
+</tr>
+<tr>
+<th>7</th>
+<td><a href="/wiki/Oreste_Conte" title="Oreste Conte">Oreste Conte</a></td>
+</tr>
+<tr>
+<th>8</th>
+<td><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a></td>
+</tr>
+<tr>
+<th>9</th>
+<td><a href="/wiki/Elio_Bertocchi" title="Elio Bertocchi">Elio Bertocchi</a></td>
+<td style="background:lightyellow;" rowspan="1">Welter</td>
+</tr>
+<tr>
+<th>10</th>
+<td><a href="/wiki/Mario_Ricci" title="Mario Ricci">Mario Ricci</a></td>
+</tr>
+<tr>
+<th>11</th>
+<td><a href="/wiki/Oreste_Conte" title="Oreste Conte">Oreste Conte</a></td>
+</tr>
+<tr>
+<th>12</th>
+<td><a href="/wiki/Giovanni_Corrieri" title="Giovanni Corrieri">Giovanni Corrieri</a></td>
+</tr>
+<tr>
+<th>13</th>
+<td><a href="/wiki/Antonio_Bevilacqua" title="Antonio Bevilacqua">Antonio Bevilacqua</a></td>
+</tr>
+<tr>
+<th>14</th>
+<td><a href="/wiki/Adolfo_Leoni" title="Adolfo Leoni">Adolfo Leoni</a></td>
+</tr>
+<tr>
+<th>15</th>
+<td><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a></td>
+<td style="background:lightyellow;" rowspan="5">Welter</td>
+</tr>
+<tr>
+<th>16</th>
+<td><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a></td>
+<td style="background:pink;" rowspan="4"><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a></td>
+</tr>
+<tr>
+<th>17</th>
+<td><a href="/wiki/Adolfo_Leoni" title="Adolfo Leoni">Adolfo Leoni</a></td>
+</tr>
+<tr>
+<th>18</th>
+<td><a href="/wiki/Giulio_Bresci" title="Giulio Bresci">Giulio Bresci</a></td>
+</tr>
+<tr>
+<th>19</th>
+<td><a href="/wiki/Adolfo_Leoni" title="Adolfo Leoni">Adolfo Leoni</a></td>
+</tr>
+<tr>
+<th colspan="2"><b>Final</b></th>
+<th style="background:#F660AB;"><b><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a></b></th>
+<th style="background:#32CD32;"><b><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a></b></th>
+<th style="background:yellow;"><b>Welter</b></th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Final_standings">Final standings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit&amp;section=4" title="Edit section: Final standings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th colspan="2">Legend</th>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/File:Jersey_pink.svg" class="image"><img alt="A pink jersey" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/20px-Jersey_pink.svg.png" width="20" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/30px-Jersey_pink.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/40px-Jersey_pink.svg.png 2x" data-file-width="250" data-file-height="200" /></a>&#160;&#160;</td>
+<td>Denotes the winner of the <a href="/wiki/General_classification_in_the_Giro_d%27Italia" title="General classification in the Giro d'Italia">General classification</a></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="General_classification">General classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit&amp;section=5" title="Edit section: General classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="width:45em;margin-bottom:0;">
+<caption>Final general classification (1–10)<sup id="cite_ref-BRI_1947_2-4" class="reference"><a href="#cite_note-BRI_1947-2">[2]</a></sup></caption>
+<tr>
+<th>Rank</th>
+<th>Name</th>
+<th>Team</th>
+<th>Time</th>
+</tr>
+<tr>
+<th style="text-align:center">1</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span> <a href="/wiki/General_classification_in_the_Giro_d%27Italia" title="General classification in the Giro d'Italia"><img alt="Pink jersey" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/20px-Jersey_pink.svg.png" width="20" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/30px-Jersey_pink.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/40px-Jersey_pink.svg.png 2x" data-file-width="250" data-file-height="200" /></a></td>
+<td>Bianchi</td>
+<td align="right"><span class="nowrap">115h 55' 07"</span></td>
+</tr>
+<tr>
+<th style="text-align:center">2</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Legnano</td>
+<td align="right">+ 1' 43"</td>
+</tr>
+<tr>
+<th style="text-align:center">3</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Giulio_Bresci" title="Giulio Bresci">Giulio Bresci</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Welter</td>
+<td align="right">+ 5' 54"</td>
+</tr>
+<tr>
+<th style="text-align:center">4</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Ezio_Cecchi" title="Ezio Cecchi">Ezio Cecchi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Welter</td>
+<td align="right">+ 15' 01"</td>
+</tr>
+<tr>
+<th style="text-align:center">5</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Sylv%C3%A8re_Maes" title="Sylvère Maes">Sylvère Maes</a>&#160;<span style="font-size:90%;">(<abbr title="Belgium">BEL</abbr>)</span></td>
+<td>Olmo</td>
+<td align="right">+ 15' 06"</td>
+</tr>
+<tr>
+<th style="text-align:center">6</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Alfredo_Martini" title="Alfredo Martini">Alfredo Martini</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Welter</td>
+<td align="right">+ 19' 00"</td>
+</tr>
+<tr>
+<th style="text-align:center">7</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Mario_Vicini" title="Mario Vicini">Mario Vicini</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Bianchi</td>
+<td align="right">+ 30' 46"</td>
+</tr>
+<tr>
+<th style="text-align:center">8</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Salvatore_Crippa" title="Salvatore Crippa">Salvatore Crippa</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Lygie</td>
+<td align="right">+ 31' 05"</td>
+</tr>
+<tr>
+<th style="text-align:center">9</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Fiorenzo_Magni" title="Fiorenzo Magni">Fiorenzo Magni</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Viscontea</td>
+<td align="right">+ 34' 07"</td>
+</tr>
+<tr>
+<th style="text-align:center">10</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/w/index.php?title=Angelo_Menon&amp;action=edit&amp;redlink=1" class="new" title="Angelo Menon (page does not exist)">Angelo Menon</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Lygie</td>
+<td align="right">+ 35' 49"</td>
+</tr>
+</table>
+<div class="columns-2" style="background-color: transparent; width: 100%">
+<div class="column">
+<h3><span class="mw-headline" id="Mountains_classification">Mountains classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit&amp;section=6" title="Edit section: Mountains classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<caption>Final mountains classification (1–10)<sup id="cite_ref-CDS_GPM_Final_5-0" class="reference"><a href="#cite_note-CDS_GPM_Final-5">[5]</a></sup></caption>
+<tr>
+<th></th>
+<th>Name</th>
+<th>Team</th>
+<th>Points</th>
+</tr>
+<tr>
+<td style="text-align:center">1</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Gino_Bartali" title="Gino Bartali">Gino Bartali</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Legnano</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Fausto_Coppi" title="Fausto Coppi">Fausto Coppi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Bianchi</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Giulio_Bresci" title="Giulio Bresci">Giulio Bresci</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Welter</td>
+<td align="right">13</td>
+</tr>
+<tr>
+<td style="text-align:center" rowspan="2">4</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Giovanni_Corrieri" title="Giovanni Corrieri">Giovanni Corrieri</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Viscontea</td>
+<td align="right" rowspan="2">7</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Sylv%C3%A8re_Maes" title="Sylvère Maes">Sylvère Maes</a>&#160;<span style="font-size:90%;">(<abbr title="Belgium">BEL</abbr>)</span></td>
+<td>Olmo</td>
+</tr>
+<tr>
+<td style="text-align:center" rowspan="4">6</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Oreste_Conte" title="Oreste Conte">Oreste Conte</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Benotto</td>
+<td align="right" rowspan="4">5</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Alfredo_Martini" title="Alfredo Martini">Alfredo Martini</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Welter</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Ezio_Cecchi" title="Ezio Cecchi">Ezio Cecchi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Welter</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/w/index.php?title=Luigi_Casola&amp;action=edit&amp;redlink=1" class="new" title="Luigi Casola (page does not exist)">Luigi Casola</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Bianchi</td>
+</tr>
+<tr>
+<td style="text-align:center" rowspan="3">10</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/w/index.php?title=Sergio_Pagliazzi&amp;action=edit&amp;redlink=1" class="new" title="Sergio Pagliazzi (page does not exist)">Sergio Pagliazzi</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Cozzi-Silger</td>
+<td align="right" rowspan="3">4</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Adolfo_Leoni" title="Adolfo Leoni">Adolfo Leoni</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Bianchi</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Antonio_Bevilacqua" title="Antonio Bevilacqua">Antonio Bevilacqua</a>&#160;<span style="font-size:90%;">(<abbr title="Italy">ITA</abbr>)</span></td>
+<td>Lygie</td>
+</tr>
+</table>
+</div>
+<div class="column">
+<h3><span class="mw-headline" id="Team_classification">Team classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit&amp;section=7" title="Edit section: Team classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<caption>Final team classification (1-9)<sup id="cite_ref-CDS_Team_Final_6-0" class="reference"><a href="#cite_note-CDS_Team_Final-6">[6]</a></sup></caption>
+<tr>
+<th></th>
+<th>Team</th>
+<th>Time</th>
+</tr>
+<tr>
+<td style="text-align:center">1</td>
+<td>Welter</td>
+<td align="right"><span class="nowrap">348h 25' 36"</span></td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td>Bianchi</td>
+<td align="right">+ 1h 10' 35"</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td>Legnano</td>
+<td align="right">+ 1h 15' 14"</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td>Viscontea</td>
+<td align="right">+ 1h 28' 23"</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td>Lygie</td>
+<td align="right">+ 2h 15' 17"</td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td>Wally</td>
+<td align="right">+ 3h 38' 13"</td>
+</tr>
+<tr>
+<td style="text-align:center">7</td>
+<td>Benotto</td>
+<td align="right">+ 3h 44' 28"</td>
+</tr>
+<tr>
+<td style="text-align:center">8</td>
+<td>Arbos-Talbot</td>
+<td align="right">+ 4h 00' 41"</td>
+</tr>
+<tr>
+<td style="text-align:center">9</td>
+<td>Wilier-Triestina</td>
+<td align="right">+ 5h 14' 43"</td>
+</tr>
+</table>
+</div>
+<div style="clear: both"></div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Citations</dt>
+</dl>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-CDS_T-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-CDS_T_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CDS_T_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CDS_T_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-CDS_T_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dlib.coninet.it/bookreader.php?&amp;c=1&amp;f=6817&amp;p=1#page/1/mode/1up">"Il quadro dei partecipanti" [The framework of the participants]</a>. <i>Corriere dello Sport</i> (in Italian). 24 May 1947. p.&#160;1. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141223194714/http://dlib.coninet.it/bookreader.php?&amp;c=1&amp;f=6817&amp;p=1">Archived</a> from the original on 23 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1947+Giro+d%27Italia&amp;rft.atitle=Il+quadro+dei+partecipanti&amp;rft.date=1947-05-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdlib.coninet.it%2Fbookreader.php%3F%26c%3D1%26f%3D6817%26p%3D1%23page%2F1%2Fmode%2F1up&amp;rft.jtitle=Corriere+dello+Sport&amp;rft.pages=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BRI_1947-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BRI_1947_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BRI_1947_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BRI_1947_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BRI_1947_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BRI_1947_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Bill and Carol McGann. <a rel="nofollow" class="external text" href="http://bikeraceinfo.com/giro/giro1947.html">"1947 Giro d'Italia"</a>. <i>Bike Race Info</i>. Dog Ear Publishing<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-07-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1947+Giro+d%27Italia&amp;rft.atitle=1947+Giro+d%27Italia&amp;rft.au=Bill+and+Carol+McGann&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fbikeraceinfo.com%2Fgiro%2Fgiro1947.html&amp;rft.jtitle=Bike+Race+Info&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-demystified-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-demystified_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-demystified_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Laura Weislo (13 May 2008). <a rel="nofollow" class="external text" href="http://autobus.cyclingnews.com/road/2008/giro08/?id=/features/2008/giro_classifications08">"Giro d'Italia classifications demystified"</a>. <i>Cycling News</i>. Future Publishing Limited. <a rel="nofollow" class="external text" href="http://www.webcitation.org/6QP4eTB2p?url=http%3A%2F%2Fautobus.cyclingnews.com%2Froad%2F2008%2Fgiro08%2F%3Fid%3D%2Ffeatures%2F2008%2Fgiro_classifications08">Archived</a> from the original on 17 June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">13 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1947+Giro+d%27Italia&amp;rft.atitle=Giro+d%27Italia+classifications+demystified&amp;rft.au=Laura+Weislo&amp;rft.date=2008-05-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fautobus.cyclingnews.com%2Froad%2F2008%2Fgiro08%2F%3Fid%3D%2Ffeatures%2F2008%2Fgiro_classifications08&amp;rft.jtitle=Cycling+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IL_Finalsp2-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-IL_Finalsp2_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IL_Finalsp2_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dlib.coninet.it/bookreader.php?&amp;f=4078&amp;p=1&amp;c=1#page/2/mode/1up">"L'ultima tappa in una immensa cornice di folla e la vittoria di Leoni" [The final step in a huge frame of the crowd and the victory of Leoni]</a>. <i>Il Littoriale</i> (in Italian). <a href="/wiki/Milan" title="Milan">Milan</a>, <a href="/wiki/Italy" title="Italy">Italy</a>. 10 June 1940. p.&#160;2. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140514070849/http://dlib.coninet.it/bookreader.php?&amp;f=4077&amp;p=1&amp;c=1#page/1/mode/1up">Archived</a> from the original on 14 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1947+Giro+d%27Italia&amp;rft.atitle=L%27ultima+tappa+in+una+immensa+cornice+di+folla+e+la+vittoria+di+Leoni&amp;rft.date=1940-06-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdlib.coninet.it%2Fbookreader.php%3F%26f%3D4078%26p%3D1%26c%3D1%23page%2F2%2Fmode%2F1up&amp;rft.jtitle=Il+Littoriale&amp;rft.pages=2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CDS_GPM_Final-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-CDS_GPM_Final_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dlib.coninet.it/bookreader.php?&amp;c=1&amp;f=6838&amp;p=2#page/2/mode/2up">"Gino Bartali vince il G.P. della Montagna" [Gino Bartali wins the Mountains Classification]</a>. <i>Corriere dello Sport</i> (in Italian). 16 June 1947. p.&#160;2. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141222194900/http://dlib.coninet.it/bookreader.php?&amp;c=1&amp;f=6838&amp;p=2">Archived</a> from the original on 22 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1947+Giro+d%27Italia&amp;rft.atitle=Gino+Bartali+vince+il+G.P.+della+Montagna&amp;rft.date=1947-06-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdlib.coninet.it%2Fbookreader.php%3F%26c%3D1%26f%3D6838%26p%3D2%23page%2F2%2Fmode%2F2up&amp;rft.jtitle=Corriere+dello+Sport&amp;rft.pages=2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CDS_Team_Final-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-CDS_Team_Final_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dlib.coninet.it/bookreader.php?&amp;c=1&amp;f=6838&amp;p=2#page/2/mode/2up">"Classifica a squadre" [Team classification]</a>. <i>Corriere dello Sport</i> (in Italian). 16 June 1947. p.&#160;2. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141222194900/http://dlib.coninet.it/bookreader.php?&amp;c=1&amp;f=6838&amp;p=2">Archived</a> from the original on 22 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1947+Giro+d%27Italia&amp;rft.atitle=Classifica+a+squadre&amp;rft.date=1947-06-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdlib.coninet.it%2Fbookreader.php%3F%26c%3D1%26f%3D6838%26p%3D2%23page%2F2%2Fmode%2F2up&amp;rft.jtitle=Corriere+dello+Sport&amp;rft.pages=2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<dl>
+<dt>Bibliography</dt>
+</dl>
+<div class="refbegin" style="">
+<ul>
+<li><cite id="CITEREFPratolini1992" class="citation book">Pratolini, Vasco (1992). <i>Cronache dal Giro d'Italia (maggio-giugno 1947)</i> [<i>Reports from the Tour of Italy (May-June 1947)</i>] (in Italian). Milan, Italy: Claudio Lombardi editore. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7627-3901-1" title="Special:BookSources/978-0-7627-3901-1">978-0-7627-3901-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1947+Giro+d%27Italia&amp;rft.aufirst=Vasco&amp;rft.aulast=Pratolini&amp;rft.btitle=Cronache+dal+Giro+d%27Italia+%28maggio-giugno+1947%29&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=978-0-7627-3901-1&amp;rft.place=Milan%2C+Italy&amp;rft.pub=Claudio+Lombardi+editore&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Giro_d.27Italia" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#FFC0CB;background:#FFC0CB">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Giro_d%27Italia" title="Template:Giro d'Italia"><abbr title="View this template" style="background:#FFC0CB;background:#FFC0CB;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Giro_d%27Italia" title="Template talk:Giro d'Italia"><abbr title="Discuss this template" style="background:#FFC0CB;background:#FFC0CB;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Giro_d%27Italia&amp;action=edit"><abbr title="Edit this template" style="background:#FFC0CB;background:#FFC0CB;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Giro_d.27Italia" style="font-size:114%;margin:0 4em"><a href="/wiki/Giro_d%27Italia" title="Giro d'Italia">Giro d'Italia</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#FFC0CB">By year</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1909_Giro_d%27Italia" title="1909 Giro d'Italia">1909</a></li>
+<li><a href="/wiki/1910_Giro_d%27Italia" title="1910 Giro d'Italia">1910</a></li>
+<li><a href="/wiki/1911_Giro_d%27Italia" title="1911 Giro d'Italia">1911</a></li>
+<li><a href="/wiki/1912_Giro_d%27Italia" title="1912 Giro d'Italia">1912</a></li>
+<li><a href="/wiki/1913_Giro_d%27Italia" title="1913 Giro d'Italia">1913</a></li>
+<li><a href="/wiki/1914_Giro_d%27Italia" title="1914 Giro d'Italia">1914</a></li>
+<li><span style="color:grey"><i>1915</i></span></li>
+<li><span style="color:grey"><i>1916</i></span></li>
+<li><span style="color:grey"><i>1917</i></span></li>
+<li><span style="color:grey"><i>1918</i></span></li>
+<li><a href="/wiki/1919_Giro_d%27Italia" title="1919 Giro d'Italia">1919</a></li>
+<li><a href="/wiki/1920_Giro_d%27Italia" title="1920 Giro d'Italia">1920</a></li>
+<li><a href="/wiki/1921_Giro_d%27Italia" title="1921 Giro d'Italia">1921</a></li>
+<li><a href="/wiki/1922_Giro_d%27Italia" title="1922 Giro d'Italia">1922</a></li>
+<li><a href="/wiki/1923_Giro_d%27Italia" title="1923 Giro d'Italia">1923</a></li>
+<li><a href="/wiki/1924_Giro_d%27Italia" title="1924 Giro d'Italia">1924</a></li>
+<li><a href="/wiki/1925_Giro_d%27Italia" title="1925 Giro d'Italia">1925</a></li>
+<li><a href="/wiki/1926_Giro_d%27Italia" title="1926 Giro d'Italia">1926</a></li>
+<li><a href="/wiki/1927_Giro_d%27Italia" title="1927 Giro d'Italia">1927</a></li>
+<li><a href="/wiki/1928_Giro_d%27Italia" title="1928 Giro d'Italia">1928</a></li>
+<li><a href="/wiki/1929_Giro_d%27Italia" title="1929 Giro d'Italia">1929</a></li>
+<li><a href="/wiki/1930_Giro_d%27Italia" title="1930 Giro d'Italia">1930</a></li>
+<li><a href="/wiki/1931_Giro_d%27Italia" title="1931 Giro d'Italia">1931</a></li>
+<li><a href="/wiki/1932_Giro_d%27Italia" title="1932 Giro d'Italia">1932</a></li>
+<li><a href="/wiki/1933_Giro_d%27Italia" title="1933 Giro d'Italia">1933</a></li>
+<li><a href="/wiki/1934_Giro_d%27Italia" title="1934 Giro d'Italia">1934</a></li>
+<li><a href="/wiki/1935_Giro_d%27Italia" title="1935 Giro d'Italia">1935</a></li>
+<li><a href="/wiki/1936_Giro_d%27Italia" title="1936 Giro d'Italia">1936</a></li>
+<li><a href="/wiki/1937_Giro_d%27Italia" title="1937 Giro d'Italia">1937</a></li>
+<li><a href="/wiki/1938_Giro_d%27Italia" title="1938 Giro d'Italia">1938</a></li>
+<li><a href="/wiki/1939_Giro_d%27Italia" title="1939 Giro d'Italia">1939</a></li>
+<li><a href="/wiki/1940_Giro_d%27Italia" title="1940 Giro d'Italia">1940</a></li>
+<li><span style="color:grey"><i>1941</i></span></li>
+<li><span style="color:grey"><i>1942</i></span></li>
+<li><span style="color:grey"><i>1943</i></span></li>
+<li><span style="color:grey"><i>1944</i></span></li>
+<li><span style="color:grey"><i>1945</i></span></li>
+<li><a href="/wiki/1946_Giro_d%27Italia" title="1946 Giro d'Italia">1946</a></li>
+<li><a class="mw-selflink selflink">1947</a></li>
+<li><a href="/wiki/1948_Giro_d%27Italia" title="1948 Giro d'Italia">1948</a></li>
+<li><a href="/wiki/1949_Giro_d%27Italia" title="1949 Giro d'Italia">1949</a></li>
+<li><a href="/wiki/1950_Giro_d%27Italia" title="1950 Giro d'Italia">1950</a></li>
+<li><a href="/wiki/1951_Giro_d%27Italia" title="1951 Giro d'Italia">1951</a></li>
+<li><a href="/wiki/1952_Giro_d%27Italia" title="1952 Giro d'Italia">1952</a></li>
+<li><a href="/wiki/1953_Giro_d%27Italia" title="1953 Giro d'Italia">1953</a></li>
+<li><a href="/wiki/1954_Giro_d%27Italia" title="1954 Giro d'Italia">1954</a></li>
+<li><a href="/wiki/1955_Giro_d%27Italia" title="1955 Giro d'Italia">1955</a></li>
+<li><a href="/wiki/1956_Giro_d%27Italia" title="1956 Giro d'Italia">1956</a></li>
+<li><a href="/wiki/1957_Giro_d%27Italia" title="1957 Giro d'Italia">1957</a></li>
+<li><a href="/wiki/1958_Giro_d%27Italia" title="1958 Giro d'Italia">1958</a></li>
+<li><a href="/wiki/1959_Giro_d%27Italia" title="1959 Giro d'Italia">1959</a></li>
+<li><a href="/wiki/1960_Giro_d%27Italia" title="1960 Giro d'Italia">1960</a></li>
+<li><a href="/wiki/1961_Giro_d%27Italia" title="1961 Giro d'Italia">1961</a></li>
+<li><a href="/wiki/1962_Giro_d%27Italia" title="1962 Giro d'Italia">1962</a></li>
+<li><a href="/wiki/1963_Giro_d%27Italia" title="1963 Giro d'Italia">1963</a></li>
+<li><a href="/wiki/1964_Giro_d%27Italia" title="1964 Giro d'Italia">1964</a></li>
+<li><a href="/wiki/1965_Giro_d%27Italia" title="1965 Giro d'Italia">1965</a></li>
+<li><a href="/wiki/1966_Giro_d%27Italia" title="1966 Giro d'Italia">1966</a></li>
+<li><a href="/wiki/1967_Giro_d%27Italia" title="1967 Giro d'Italia">1967</a></li>
+<li><a href="/wiki/1968_Giro_d%27Italia" title="1968 Giro d'Italia">1968</a></li>
+<li><a href="/wiki/1969_Giro_d%27Italia" title="1969 Giro d'Italia">1969</a></li>
+<li><a href="/wiki/1970_Giro_d%27Italia" title="1970 Giro d'Italia">1970</a></li>
+<li><a href="/wiki/1971_Giro_d%27Italia" title="1971 Giro d'Italia">1971</a></li>
+<li><a href="/wiki/1972_Giro_d%27Italia" title="1972 Giro d'Italia">1972</a></li>
+<li><a href="/wiki/1973_Giro_d%27Italia" title="1973 Giro d'Italia">1973</a></li>
+<li><a href="/wiki/1974_Giro_d%27Italia" title="1974 Giro d'Italia">1974</a></li>
+<li><a href="/wiki/1975_Giro_d%27Italia" title="1975 Giro d'Italia">1975</a></li>
+<li><a href="/wiki/1976_Giro_d%27Italia" title="1976 Giro d'Italia">1976</a></li>
+<li><a href="/wiki/1977_Giro_d%27Italia" title="1977 Giro d'Italia">1977</a></li>
+<li><a href="/wiki/1978_Giro_d%27Italia" title="1978 Giro d'Italia">1978</a></li>
+<li><a href="/wiki/1979_Giro_d%27Italia" title="1979 Giro d'Italia">1979</a></li>
+<li><a href="/wiki/1980_Giro_d%27Italia" title="1980 Giro d'Italia">1980</a></li>
+<li><a href="/wiki/1981_Giro_d%27Italia" title="1981 Giro d'Italia">1981</a></li>
+<li><a href="/wiki/1982_Giro_d%27Italia" title="1982 Giro d'Italia">1982</a></li>
+<li><a href="/wiki/1983_Giro_d%27Italia" title="1983 Giro d'Italia">1983</a></li>
+<li><a href="/wiki/1984_Giro_d%27Italia" title="1984 Giro d'Italia">1984</a></li>
+<li><a href="/wiki/1985_Giro_d%27Italia" title="1985 Giro d'Italia">1985</a></li>
+<li><a href="/wiki/1986_Giro_d%27Italia" title="1986 Giro d'Italia">1986</a></li>
+<li><a href="/wiki/1987_Giro_d%27Italia" title="1987 Giro d'Italia">1987</a></li>
+<li><a href="/wiki/1988_Giro_d%27Italia" title="1988 Giro d'Italia">1988</a></li>
+<li><a href="/wiki/1989_Giro_d%27Italia" title="1989 Giro d'Italia">1989</a></li>
+<li><a href="/wiki/1990_Giro_d%27Italia" title="1990 Giro d'Italia">1990</a></li>
+<li><a href="/wiki/1991_Giro_d%27Italia" title="1991 Giro d'Italia">1991</a></li>
+<li><a href="/wiki/1992_Giro_d%27Italia" title="1992 Giro d'Italia">1992</a></li>
+<li><a href="/wiki/1993_Giro_d%27Italia" title="1993 Giro d'Italia">1993</a></li>
+<li><a href="/wiki/1994_Giro_d%27Italia" title="1994 Giro d'Italia">1994</a></li>
+<li><a href="/wiki/1995_Giro_d%27Italia" title="1995 Giro d'Italia">1995</a></li>
+<li><a href="/wiki/1996_Giro_d%27Italia" title="1996 Giro d'Italia">1996</a></li>
+<li><a href="/wiki/1997_Giro_d%27Italia" title="1997 Giro d'Italia">1997</a></li>
+<li><a href="/wiki/1998_Giro_d%27Italia" title="1998 Giro d'Italia">1998</a></li>
+<li><a href="/wiki/1999_Giro_d%27Italia" title="1999 Giro d'Italia">1999</a></li>
+<li><a href="/wiki/2000_Giro_d%27Italia" title="2000 Giro d'Italia">2000</a></li>
+<li><a href="/wiki/2001_Giro_d%27Italia" title="2001 Giro d'Italia">2001</a></li>
+<li><a href="/wiki/2002_Giro_d%27Italia" title="2002 Giro d'Italia">2002</a></li>
+<li><a href="/wiki/2003_Giro_d%27Italia" title="2003 Giro d'Italia">2003</a></li>
+<li><a href="/wiki/2004_Giro_d%27Italia" title="2004 Giro d'Italia">2004</a></li>
+<li><a href="/wiki/2005_Giro_d%27Italia" title="2005 Giro d'Italia">2005</a></li>
+<li><a href="/wiki/2006_Giro_d%27Italia" title="2006 Giro d'Italia">2006</a></li>
+<li><a href="/wiki/2007_Giro_d%27Italia" title="2007 Giro d'Italia">2007</a></li>
+<li><a href="/wiki/2008_Giro_d%27Italia" title="2008 Giro d'Italia">2008</a></li>
+<li><a href="/wiki/2009_Giro_d%27Italia" title="2009 Giro d'Italia">2009</a></li>
+<li><a href="/wiki/2010_Giro_d%27Italia" title="2010 Giro d'Italia">2010</a></li>
+<li><a href="/wiki/2011_Giro_d%27Italia" title="2011 Giro d'Italia">2011</a></li>
+<li><a href="/wiki/2012_Giro_d%27Italia" title="2012 Giro d'Italia">2012</a></li>
+<li><a href="/wiki/2013_Giro_d%27Italia" title="2013 Giro d'Italia">2013</a></li>
+<li><a href="/wiki/2014_Giro_d%27Italia" title="2014 Giro d'Italia">2014</a></li>
+<li><a href="/wiki/2015_Giro_d%27Italia" title="2015 Giro d'Italia">2015</a></li>
+<li><a href="/wiki/2016_Giro_d%27Italia" title="2016 Giro d'Italia">2016</a></li>
+<li><a href="/wiki/2017_Giro_d%27Italia" title="2017 Giro d'Italia">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#FFC0CB">Classifications<br />
+("jerseys")</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background:#FFC0CB;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Current</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr style="vertical-align:top;">
+<td style="padding:0px;background:#F7F7F7; text-align:center;;;width:10em;">
+<div>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/25px-Jersey_pink.svg.png" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/38px-Jersey_pink.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jersey_pink.svg/50px-Jersey_pink.svg.png 2x" data-file-width="250" data-file-height="200" /><br />
+<a href="/wiki/General_classification_in_the_Giro_d%27Italia" title="General classification in the Giro d'Italia">General&#160;classification</a>&#160;<br />
+<small>(<i>maglia&#160;rosa</i>)&#160;</small></p>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;background:#F7F7F7; text-align:center;;;width:10em;">
+<div>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jersey_red.svg/25px-Jersey_red.svg.png" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jersey_red.svg/38px-Jersey_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jersey_red.svg/50px-Jersey_red.svg.png 2x" data-file-width="250" data-file-height="200" /><br />
+<a href="/wiki/Points_classification_in_the_Giro_d%27Italia" title="Points classification in the Giro d'Italia">Points&#160;classification</a>&#160;<br />
+<small>(<i>maglia&#160;rosso passione</i>)&#160;</small></p>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;background:#F7F7F7; text-align:center;;;width:10em;">
+<div>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_blue.svg/25px-Jersey_blue.svg.png" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_blue.svg/38px-Jersey_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_blue.svg/50px-Jersey_blue.svg.png 2x" data-file-width="250" data-file-height="200" /><br />
+<a href="/wiki/Mountains_classification_in_the_Giro_d%27Italia" title="Mountains classification in the Giro d'Italia">Mountains&#160;classification</a>&#160;<br />
+<small>(<i>maglia&#160;azzurra</i>)&#160;</small></p>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;background:#F7F7F7; text-align:center;;;width:10em;">
+<div>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jersey_white.svg/25px-Jersey_white.svg.png" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jersey_white.svg/38px-Jersey_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jersey_white.svg/50px-Jersey_white.svg.png 2x" data-file-width="250" data-file-height="200" /><br />
+<a href="/wiki/Young_rider_classification_in_the_Giro_d%27Italia" title="Young rider classification in the Giro d'Italia">Young&#160;rider&#160;classification</a><br />
+<small>(<i>maglia&#160;bianca</i>)</small></p>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;background:#F7F7F7; text-align:center;;;width:10em;">
+<div>
+<p><br />
+<a href="/wiki/Team_classification_in_the_Giro_d%27Italia" title="Team classification in the Giro d'Italia">Team classification</a><br />
+<small>(<i>classifica a squadre</i>)</small></p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#FFC0CB;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Former</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div style="text-align:center">
+<dl>
+<dd><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jersey_black.svg/25px-Jersey_black.svg.png" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jersey_black.svg/38px-Jersey_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jersey_black.svg/50px-Jersey_black.svg.png 2x" data-file-width="250" data-file-height="200" /> <a href="/wiki/Maglia_nera" title="Maglia nera">Last rider</a> <small>(<i>maglia nera</i>)</small></dd>
+<dd><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_blue.svg/25px-Jersey_blue.svg.png" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_blue.svg/38px-Jersey_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_blue.svg/50px-Jersey_blue.svg.png 2x" data-file-width="250" data-file-height="200" /> <a href="/wiki/Intergiro_classification_in_the_Giro_d%27Italia" title="Intergiro classification in the Giro d'Italia">Intergiro classification</a> <small>(<i>maglia azzurra</i>)</small></dd>
+<dd><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_blue.svg/25px-Jersey_blue.svg.png" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_blue.svg/38px-Jersey_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_blue.svg/50px-Jersey_blue.svg.png 2x" data-file-width="250" data-file-height="200" /> <a href="/wiki/Combination_classification_in_the_Giro_d%27Italia" title="Combination classification in the Giro d'Italia">Combination classification</a> <small>(<i>maglia azzurra</i>)</small></dd>
+</dl>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#FFC0CB">Lists and topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_the_Giro_d%27Italia" title="History of the Giro d'Italia">History</a></li>
+<li><a href="/wiki/List_of_Giro_d%27Italia_general_classification_winners" title="List of Giro d'Italia general classification winners">General classification winners</a></li>
+<li><a href="/wiki/List_of_Giro_d%27Italia_classification_winners" title="List of Giro d'Italia classification winners">Secondary classification winners</a></li>
+<li><a href="/wiki/Giro_d%27Italia_records_and_statistics" title="Giro d'Italia records and statistics">Records and statistics</a></li>
+<li><a href="/wiki/Cima_Coppi" title="Cima Coppi">Cima Coppi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2255
+Cached time: 20170423093019
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.448 seconds
+Preprocessor visited node count: 6947/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 103548/2097152 bytes
+Template argument size: 11384/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.169/10.000 seconds
+Lua memory usage: 5.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  348.024      1 -total
+ 39.75%  138.355      1 Template:Infobox_cycling_race_report
+ 37.72%  131.281      1 Template:Infobox
+ 28.88%  100.514     46 Template:Flagathlete
+ 21.23%   73.900     46 Template:Country_alias
+ 17.76%   61.824     25 Template:Convert
+ 17.47%   60.801      1 Template:Reflist
+ 17.17%   59.760      1 Template:Infobox3cols
+ 14.49%   50.416      6 Template:Cite_web
+ 11.81%   41.104      3 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12590880-0!*!0!!en!4!* and timestamp 20170423093019 and revision id 776226129
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1947_Giro_d%27Italia&amp;oldid=776226129">https://en.wikipedia.org/w/index.php?title=1947_Giro_d%27Italia&amp;oldid=776226129</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Giro_d%27Italia_by_year" title="Category:Giro d'Italia by year">Giro d'Italia by year</a></li><li><a href="/wiki/Category:1947_in_road_cycling" title="Category:1947 in road cycling">1947 in road cycling</a></li><li><a href="/wiki/Category:1947_in_Italian_sport" title="Category:1947 in Italian sport">1947 in Italian sport</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1947+Giro+d%27Italia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1947+Giro+d%27Italia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1947_Giro_d%27Italia"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1947_Giro_d%27Italia"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1947_Giro_d%27Italia" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1947_Giro_d%27Italia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1947_Giro_d%27Italia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;oldid=776226129" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q114153" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1947_Giro_d%27Italia&amp;id=776226129" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1947+Giro+d%27Italia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1947+Giro+d%27Italia&amp;returnto=1947+Giro+d%27Italia&amp;oldid=776226129&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1947_Giro_d%27Italia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B7%D9%88%D8%A7%D9%81_%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7_1947" title="طواف إيطاليا 1947 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Giro_d%27It%C3%A0lia_de_1947" title="Giro d'Itàlia de 1947 – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Giro_d%E2%80%99Italia_1947" title="Giro d’Italia 1947 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Giro_de_Italia_1947" title="Giro de Italia 1947 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/1947ko_Italiako_Giroa" title="1947ko Italiako Giroa – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tour_d%27Italie_1947" title="Tour d'Italie 1947 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Giro_d%27Italia_1947" title="Giro d'Italia 1947 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/1947-es_Giro_d%E2%80%99Italia" title="1947-es Giro d’Italia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ronde_van_Itali%C3%AB_1947" title="Ronde van Italië 1947 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AD%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2_1947" title="ジロ・デ・イタリア 1947 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Giro_d%27Italia_de_1947" title="Giro d'Italia de 1947 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/1947_%C4%B0talya_Bisiklet_Turu" title="1947 İtalya Bisiklet Turu – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q114153#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 April 2017, at 18:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1947_Giro_d%27Italia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.448","ppvisitednodes":{"value":6947,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":103548,"limit":2097152},"templateargumentsize":{"value":11384,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  348.024      1 -total"," 39.75%  138.355      1 Template:Infobox_cycling_race_report"," 37.72%  131.281      1 Template:Infobox"," 28.88%  100.514     46 Template:Flagathlete"," 21.23%   73.900     46 Template:Country_alias"," 17.76%   61.824     25 Template:Convert"," 17.47%   60.801      1 Template:Reflist"," 17.17%   59.760      1 Template:Infobox3cols"," 14.49%   50.416      6 Template:Cite_web"," 11.81%   41.104      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.169","limit":"10.000"},"limitreport-memusage":{"value":5359437,"limit":52428800}},"cachereport":{"origin":"mw2255","timestamp":"20170423093019","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":524,"wgHostname":"mw2255"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1580 @@
+https://en.wikipedia.org/wiki/1925_Philadelphia_Phillies_season
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1925 Philadelphia Phillies season - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1925_Philadelphia_Phillies_season","wgTitle":"1925 Philadelphia Phillies season","wgCurRevisionId":770286668,"wgRevisionId":770286668,"wgArticleId":14090232,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from November 2013","Articles with hCards","All stub articles","Philadelphia Phillies seasons","1925 Major League Baseball season","Philadelphia Phillies season stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1925_Philadelphia_Phillies_season","wgRelevantArticleId":14090232,"wgRequestId":"WPpU@wrAAD4AAiXA-D4AAABU","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4561754","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1925_Philadelphia_Phillies_season"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1925_Philadelphia_Phillies_season"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1925_Philadelphia_Phillies_season rootpage-1925_Philadelphia_Phillies_season skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1925 Philadelphia Phillies season</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;width:280px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background:lightyellow;"><a href="/wiki/1925_Major_League_Baseball_season" title="1925 Major League Baseball season">1925</a> Philadelphia Phillies</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lightyellow;">Major League affiliations</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;text-align:left;">
+<ul>
+<li><b><a href="/wiki/National_League" title="National League">National League</a> (since <a href="/wiki/1883_Major_League_Baseball_season" class="mw-redirect" title="1883 Major League Baseball season">1883</a>)</b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lightyellow;">Location</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;text-align:left;">
+<ul>
+<li><b><a href="/wiki/Baker_Bowl" title="Baker Bowl">Baker Bowl</a> (since <a href="/wiki/1887_Major_League_Baseball_season" title="1887 Major League Baseball season">1887</a>)</b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;text-align:left;">
+<ul>
+<li><b><a href="/wiki/Philadelphia,_Pennsylvania" class="mw-redirect" title="Philadelphia, Pennsylvania">Philadelphia, Pennsylvania</a> (since <a href="/wiki/1883_Major_League_Baseball_season" class="mw-redirect" title="1883 Major League Baseball season">1883</a>)</b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lightyellow;">Other information</th>
+</tr>
+<tr>
+<th scope="row">Owner(s)</th>
+<td style="text-align:left;"><a href="/wiki/William_Baker_(baseball)" title="William Baker (baseball)">William F. Baker</a></td>
+</tr>
+<tr>
+<th scope="row">Manager(s)</th>
+<td style="text-align:left;"><a href="/wiki/Art_Fletcher" title="Art Fletcher">Art Fletcher</a></td>
+</tr>
+<tr>
+<th scope="row">Local television</th>
+<td style="text-align:left;">none</td>
+</tr>
+<tr>
+<th scope="row">Local radio</th>
+<td style="text-align:left;">none</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background:lightyellow;"><b><a href="/wiki/1924_Philadelphia_Phillies_season" title="1924 Philadelphia Phillies season">&lt;&#160;Previous season</a>&#160;&#160;&#160;&#160;&#160;<a href="/wiki/1926_Philadelphia_Phillies_season" title="1926 Philadelphia Phillies season">Next season&#160;&gt;</a></b></td>
+</tr>
+</table>
+<p>The <b>1925 <a href="/wiki/Philadelphia_Phillies" title="Philadelphia Phillies">Philadelphia Phillies</a> season</b> was a season in <a href="/wiki/Major_League_Baseball" title="Major League Baseball">Major League Baseball</a>. The Phillies finished seventh in the <a href="/wiki/National_League" title="National League">National League</a> with a record of 68 wins and 85 losses.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Offseason"><span class="tocnumber">1</span> <span class="toctext">Offseason</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Regular_season"><span class="tocnumber">2</span> <span class="toctext">Regular season</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Season_standings"><span class="tocnumber">2.1</span> <span class="toctext">Season standings</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Record_vs._opponents"><span class="tocnumber">2.2</span> <span class="toctext">Record vs. opponents</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Roster"><span class="tocnumber">2.3</span> <span class="toctext">Roster</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Player_stats"><span class="tocnumber">3</span> <span class="toctext">Player stats</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Batting"><span class="tocnumber">3.1</span> <span class="toctext">Batting</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Starters_by_position"><span class="tocnumber">3.1.1</span> <span class="toctext">Starters by position</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Other_batters"><span class="tocnumber">3.1.2</span> <span class="toctext">Other batters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Pitching"><span class="tocnumber">3.2</span> <span class="toctext">Pitching</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Starting_pitchers"><span class="tocnumber">3.2.1</span> <span class="toctext">Starting pitchers</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Other_pitchers"><span class="tocnumber">3.2.2</span> <span class="toctext">Other pitchers</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Relief_pitchers"><span class="tocnumber">3.2.3</span> <span class="toctext">Relief pitchers</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Offseason">Offseason</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=1" title="Edit section: Offseason">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Phillies <a href="/wiki/Spring_training" title="Spring training">trained</a> in <a href="/wiki/McKechnie_Field" class="mw-redirect" title="McKechnie Field">Bradenton, Florida</a> in 1925. Shortly after beginning camp, catcher <a href="/wiki/Butch_Henline" title="Butch Henline">Butch Henline</a> was named team captain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Regular_season">Regular season</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=2" title="Edit section: Regular season">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Season_standings">Season standings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=3" title="Edit section: Season standings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" width="515em" style="text-align:center;">
+<tr>
+<th width="50%">
+<div class="plainlinks hlist navbar mini" style="float:left;width:0;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:1925_National_League_standings" title="Template:1925 National League standings"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:1925_National_League_standings" title="Template talk:1925 National League standings"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1925_National_League_standings&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<a href="/wiki/National_League" title="National League">National League</a></th>
+<th width="7%"><a href="/wiki/Win_(baseball)" class="mw-redirect" title="Win (baseball)">W</a></th>
+<th width="7%"><a href="/wiki/Loss_(baseball)" class="mw-redirect" title="Loss (baseball)">L</a></th>
+<th width="9%"><a href="/wiki/Winning_percentage" title="Winning percentage">Pct.</a></th>
+<th width="7%"><a href="/wiki/Games_behind" title="Games behind">GB</a></th>
+<th width="10%"><a href="/wiki/Home_(sports)" title="Home (sports)">Home</a></th>
+<th width="10%"><a href="/wiki/Road_(sports)" title="Road (sports)">Road</a></th>
+</tr>
+<tr>
+<td><a href="/wiki/1925_Pittsburgh_Pirates_season" title="1925 Pittsburgh Pirates season">Pittsburgh Pirates</a></td>
+<td>95</td>
+<td>58</td>
+<td>0.621</td>
+<td>—</td>
+<td>52–25</td>
+<td>43–33</td>
+</tr>
+<tr>
+<td><a href="/wiki/1925_New_York_Giants_(MLB)_season" title="1925 New York Giants (MLB) season">New York Giants</a></td>
+<td>86</td>
+<td>66</td>
+<td>0.566</td>
+<td>8½</td>
+<td>47–29</td>
+<td>39–37</td>
+</tr>
+<tr>
+<td><a href="/wiki/1925_Cincinnati_Reds_season" title="1925 Cincinnati Reds season">Cincinnati Reds</a></td>
+<td>80</td>
+<td>73</td>
+<td>0.523</td>
+<td>15</td>
+<td>44–32</td>
+<td>36–41</td>
+</tr>
+<tr>
+<td><a href="/wiki/1925_St._Louis_Cardinals_season" title="1925 St. Louis Cardinals season">St. Louis Cardinals</a></td>
+<td>77</td>
+<td>76</td>
+<td>0.503</td>
+<td>18</td>
+<td>48–28</td>
+<td>29–48</td>
+</tr>
+<tr>
+<td><a href="/wiki/1925_Boston_Braves_season" title="1925 Boston Braves season">Boston Braves</a></td>
+<td>70</td>
+<td>83</td>
+<td>0.458</td>
+<td>25</td>
+<td>37–39</td>
+<td>33–44</td>
+</tr>
+<tr>
+<td><a href="/wiki/1925_Brooklyn_Robins_season" title="1925 Brooklyn Robins season">Brooklyn Robins</a></td>
+<td>68</td>
+<td>85</td>
+<td>0.444</td>
+<td>27</td>
+<td>38–39</td>
+<td>30–46</td>
+</tr>
+<tr style="background:#CCFFCC">
+<td><a class="mw-selflink selflink">Philadelphia Phillies</a></td>
+<td>68</td>
+<td>85</td>
+<td>0.444</td>
+<td>27</td>
+<td>40–37</td>
+<td>28–48</td>
+</tr>
+<tr>
+<td><a href="/wiki/1925_Chicago_Cubs_season" title="1925 Chicago Cubs season">Chicago Cubs</a></td>
+<td>68</td>
+<td>86</td>
+<td>0.442</td>
+<td>27½</td>
+<td>37–40</td>
+<td>31–46</td>
+</tr>
+</table>
+<p><br /></p>
+<h3><span class="mw-headline" id="Record_vs._opponents">Record vs. opponents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=4" title="Edit section: Record vs. opponents">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size:95%; text-align:center;">
+<tr>
+<th colspan="14">
+<div style="text-align:center; position:relative; white-space:nowrap;">1925 National League Records
+<div class="plainlinks hlist navbar mini" style="position:absolute; right:0; top:0; margin:0 5px;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:1925_NL_Record_vs._opponents" title="Template:1925 NL Record vs. opponents"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:1925_NL_Record_vs._opponents" title="Template talk:1925 NL Record vs. opponents"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1925_NL_Record_vs._opponents&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</div>
+<br />
+<small>Sources:</small>
+<p><small><a rel="nofollow" class="external autonumber" href="http://www.baseball-reference.com/games/head2head.cgi?teams=ATL&amp;from=1925&amp;to=1925&amp;submit=Submit">[1]</a> <a rel="nofollow" class="external autonumber" href="http://www.baseball-reference.com/games/head2head.cgi?teams=LAD&amp;from=1925&amp;to=1925&amp;submit=Submit">[2]</a> <a rel="nofollow" class="external autonumber" href="http://www.baseball-reference.com/games/head2head.cgi?teams=CHC&amp;from=1925&amp;to=1925&amp;submit=Submit">[3]</a> <a rel="nofollow" class="external autonumber" href="http://www.baseball-reference.com/games/head2head.cgi?teams=CIN&amp;from=1925&amp;to=1925&amp;submit=Submit">[4]</a> <a rel="nofollow" class="external autonumber" href="http://www.baseball-reference.com/games/head2head.cgi?teams=SFG&amp;from=1925&amp;to=1925&amp;submit=Submit">[5]</a> <a rel="nofollow" class="external autonumber" href="http://www.baseball-reference.com/games/head2head.cgi?teams=PHI&amp;from=1925&amp;to=1925&amp;submit=Submit">[6]</a> <a rel="nofollow" class="external autonumber" href="http://www.baseball-reference.com/games/head2head.cgi?teams=PIT&amp;from=1925&amp;to=1925&amp;submit=Submit">[7]</a> <a rel="nofollow" class="external autonumber" href="http://www.baseball-reference.com/games/head2head.cgi?teams=STL&amp;from=1925&amp;to=1925&amp;submit=Submit">[8]</a></small></p>
+</th>
+</tr>
+<tr>
+<th width="100">Team</th>
+<th style="background:#0f437c;color:#af0039;width=35">BOS</th>
+<th style="background:#083c6b;color:#ffffff;width=35">BR</th>
+<th style="background:#0E3386;color:#EE1422;width=35">CHC</th>
+<th style="background:#c6011f;color:#ffffff;width=35">CIN</th>
+<th style="background:#000000;color:#fd5a1e;width=35">NYG</th>
+<th style="background:#A50024;color:#263473;width=35">PHI</th>
+<th style="background:#023465;color:#ba313c;width=35">PIT</th>
+<th style="background:#C41E3A;color:#FFFFFF;width=35">STL</th>
+</tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/1925_Boston_Braves_season" title="1925 Boston Braves season">Boston</a></td>
+<td>—</td>
+<td>13–8</td>
+<td>12–10</td>
+<td>9–13</td>
+<td>11–11</td>
+<td>6–16</td>
+<td>7–15</td>
+<td>12–10</td>
+</tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/1925_Brooklyn_Robins_season" title="1925 Brooklyn Robins season">Brooklyn</a></td>
+<td>8–13</td>
+<td>—</td>
+<td>11–11</td>
+<td>12–10</td>
+<td>10–12</td>
+<td>11–11</td>
+<td>5–17</td>
+<td>11–11</td>
+</tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/1925_Chicago_Cubs_season" title="1925 Chicago Cubs season">Chicago</a></td>
+<td>10–12</td>
+<td>11–11</td>
+<td>—</td>
+<td>10–12</td>
+<td>7–15</td>
+<td>10–12</td>
+<td>12–10</td>
+<td>8–14</td>
+</tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/1925_Cincinnati_Reds_season" title="1925 Cincinnati Reds season">Cincinnati</a></td>
+<td>13–9</td>
+<td>10–12</td>
+<td>12–10</td>
+<td>—</td>
+<td>9–13</td>
+<td>16–6</td>
+<td>8–13</td>
+<td>12–10</td>
+</tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/1925_New_York_Giants_(MLB)_season" title="1925 New York Giants (MLB) season">New York</a></td>
+<td>11–11</td>
+<td>12–10</td>
+<td>15–7</td>
+<td>13–9</td>
+<td>—</td>
+<td>13–8</td>
+<td>10–12</td>
+<td>12–9</td>
+</tr>
+<tr style="background-color:#CCFFCC">
+<td style="text-align:left;"><a class="mw-selflink selflink">Philadelphia</a></td>
+<td>16–6</td>
+<td>11–11</td>
+<td>12–10</td>
+<td>6–16</td>
+<td>8–13</td>
+<td>—</td>
+<td>8–14</td>
+<td>7–15</td>
+</tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/1925_Pittsburgh_Pirates_season" title="1925 Pittsburgh Pirates season">Pittsburgh</a></td>
+<td>15–7</td>
+<td>17–5</td>
+<td>10–12</td>
+<td>13–8</td>
+<td>12–10</td>
+<td>14–8</td>
+<td>—</td>
+<td>14–8</td>
+</tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/1925_St._Louis_Cardinals_season" title="1925 St. Louis Cardinals season">St. Louis</a></td>
+<td>10–12</td>
+<td>11–11</td>
+<td>14–8</td>
+<td>10–12</td>
+<td>9–12</td>
+<td>15–7</td>
+<td>8–14</td>
+<td>—</td>
+</tr>
+</table>
+<p><br /></p>
+<h3><span class="mw-headline" id="Roster">Roster</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=5" title="Edit section: Roster">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="toccolours" style="font-size: 95%;">
+<tr>
+<th colspan="10" style="background-color: #0f437c; color: white; text-align: center;">1925 Philadelphia Phillies</th>
+</tr>
+<tr>
+<td colspan="10" style="background-color: #af0039; color: white; text-align: center;"><b>Roster</b></td>
+</tr>
+<tr>
+<td valign="top"><b>Pitchers</b>
+<ul>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Huck_Betts" title="Huck Betts">Huck Betts</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Hal_Carlson" title="Hal Carlson">Hal Carlson</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Johnny_Couch" title="Johnny Couch">Johnny Couch</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Roy_Crumpler" title="Roy Crumpler">Roy Crumpler</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Art_Decatur" title="Art Decatur">Art Decatur</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Dana_Fillingim" title="Dana Fillingim">Dana Fillingim</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Bill_Hubbell" title="Bill Hubbell">Bill Hubbell</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Jack_Knight_(baseball)" title="Jack Knight (baseball)">Jack Knight</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Clarence_Mitchell_(baseball)" title="Clarence Mitchell (baseball)">Clarence Mitchell</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Skinny_O%27Neal" title="Skinny O'Neal">Skinny O'Neal</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Ray_Pierce_(baseball)" title="Ray Pierce (baseball)">Ray Pierce</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Jimmy_Ring" title="Jimmy Ring">Jimmy Ring</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Dutch_Ulrich" title="Dutch Ulrich">Dutch Ulrich</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Bob_Vines" title="Bob Vines">Bob Vines</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Claude_Willoughby" title="Claude Willoughby">Claude Willoughby</a></li>
+</ul>
+</td>
+<td width="25px"></td>
+<td valign="top"><b>Catchers</b>
+<ul>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Butch_Henline" title="Butch Henline">Butch Henline</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Lew_Wendell" title="Lew Wendell">Lew Wendell</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Jimmie_Wilson_(baseball)" title="Jimmie Wilson (baseball)">Jimmie Wilson</a></li>
+</ul>
+<p><b>Infielders</b></p>
+<ul>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Lew_Fonseca" title="Lew Fonseca">Lew Fonseca</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Bernie_Friberg" title="Bernie Friberg">Bernie Friberg</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Chicken_Hawks" title="Chicken Hawks">Chicken Hawks</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Walter_Holke" title="Walter Holke">Walter Holke</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Clarence_Huber" title="Clarence Huber">Clarence Huber</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Wally_Kimmick" title="Wally Kimmick">Wally Kimmick</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Lenny_Metz" title="Lenny Metz">Lenny Metz</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Benny_Meyer" title="Benny Meyer">Benny Meyer</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Heinie_Sand" title="Heinie Sand">Heinie Sand</a></li>
+</ul>
+</td>
+<td width="25px"></td>
+<td valign="top"><b>Outfielders</b>
+<ul>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/George_Burns_(outfielder)" title="George Burns (outfielder)">George Burns</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/George_Durning" title="George Durning">George Durning</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/George_Harper_(outfielder)" title="George Harper (outfielder)">George Harper</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Freddy_Leach" title="Freddy Leach">Freddy Leach</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Johnny_Mokan" title="Johnny Mokan">Johnny Mokan</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Joe_Schultz_(outfielder)" title="Joe Schultz (outfielder)">Joe Schultz</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Cy_Williams" title="Cy Williams">Cy Williams</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Russ_Wrightstone" title="Russ Wrightstone">Russ Wrightstone</a></li>
+</ul>
+</td>
+<td width="25px"></td>
+<td valign="top"><b>Manager</b>
+<ul>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Art_Fletcher" title="Art Fletcher">Art Fletcher</a></li>
+</ul>
+<p><b>Coaches</b></p>
+<ul>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Benny_Meyer" title="Benny Meyer">Benny Meyer</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Player_stats">Player stats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=6" title="Edit section: Player stats">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Batting">Batting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=7" title="Edit section: Batting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Starters_by_position">Starters by position</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=8" title="Edit section: Starters by position">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Note: Pos = Position; G = Games played; AB = At bats; H = Hits; Avg. = Batting average; HR = Home runs; RBI = Runs batted in</i></p>
+<table border="1" cellpadding="2" cellspacing="0" class="wikitable sortable">
+<tr>
+<th bgcolor="#DDDDFF" width="5%">Pos</th>
+<th bgcolor="#DDDDFF" width="16%">Player</th>
+<th bgcolor="#DDDDFF" width="9%">G</th>
+<th bgcolor="#DDDDFF" width="9%">AB</th>
+<th bgcolor="#DDDDFF" width="9%">H</th>
+<th bgcolor="#DDDDFF" width="9%">Avg.</th>
+<th bgcolor="#DDDDFF" width="9%">HR</th>
+<th bgcolor="#DDDDFF" width="9%">RBI</th>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Other_batters">Other batters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=9" title="Edit section: Other batters">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Note: G = Games played; AB = At bats; H = Hits; Avg. = Batting average; HR = Home runs; RBI = Runs batted in</i></p>
+<table border="1" cellpadding="2" cellspacing="0" class="wikitable sortable">
+<tr>
+<th bgcolor="#DDDDFF" width="16%">Player</th>
+<th bgcolor="#DDDDFF" width="9%">G</th>
+<th bgcolor="#DDDDFF" width="9%">AB</th>
+<th bgcolor="#DDDDFF" width="9%">H</th>
+<th bgcolor="#DDDDFF" width="9%">Avg.</th>
+<th bgcolor="#DDDDFF" width="9%">HR</th>
+<th bgcolor="#DDDDFF" width="9%">RBI</th>
+</tr>
+<tr align="center">
+<td><span class="sortkey">Henline, Butch</span><span class="vcard"><span class="fn"><a href="/wiki/Butch_Henline" title="Butch Henline">Butch Henline</a></span></span></td>
+<td>93</td>
+<td>263</td>
+<td>80</td>
+<td>.304</td>
+<td>8</td>
+<td>48</td>
+</tr>
+<tr align="center">
+<td><span class="sortkey">Meyer, Benny</span><span class="vcard"><span class="fn"><a href="/wiki/Benny_Meyer" title="Benny Meyer">Benny Meyer</a></span></span></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1.000</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Pitching">Pitching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=10" title="Edit section: Pitching">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Starting_pitchers">Starting pitchers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=11" title="Edit section: Starting pitchers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Note: G = Games pitched; IP = Innings pitched; W = Wins; L = Losses; ERA = Earned run average; SO = Strikeouts</i></p>
+<table border="1" cellpadding="2" cellspacing="0" class="wikitable sortable">
+<tr>
+<th bgcolor="#DDDDFF" width="16%">Player</th>
+<th bgcolor="#DDDDFF" width="9%">G</th>
+<th bgcolor="#DDDDFF" width="9%">IP</th>
+<th bgcolor="#DDDDFF" width="9%">W</th>
+<th bgcolor="#DDDDFF" width="9%">L</th>
+<th bgcolor="#DDDDFF" width="9%">ERA</th>
+<th bgcolor="#DDDDFF" width="9%">SO</th>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Other_pitchers">Other pitchers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=12" title="Edit section: Other pitchers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Note: G = Games pitched; IP = Innings pitched; W = Wins; L = Losses; ERA = Earned run average; SO = Strikeouts</i></p>
+<table border="1" cellpadding="2" cellspacing="0" class="wikitable sortable">
+<tr>
+<th bgcolor="#DDDDFF" width="16%">Player</th>
+<th bgcolor="#DDDDFF" width="9%">G</th>
+<th bgcolor="#DDDDFF" width="9%">IP</th>
+<th bgcolor="#DDDDFF" width="9%">W</th>
+<th bgcolor="#DDDDFF" width="9%">L</th>
+<th bgcolor="#DDDDFF" width="9%">ERA</th>
+<th bgcolor="#DDDDFF" width="9%">SO</th>
+</tr>
+<tr align="center">
+<td><span class="sortkey">Betts, Huck</span><span class="vcard"><span class="fn"><a href="/wiki/Huck_Betts" title="Huck Betts">Huck Betts</a></span></span></td>
+<td>35</td>
+<td>97.1</td>
+<td>4</td>
+<td>5</td>
+<td>4.55</td>
+<td>28</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Relief_pitchers">Relief pitchers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=13" title="Edit section: Relief pitchers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Note: G = Games pitched; W = Wins; L = Losses; SV = Saves; ERA = Earned run average; SO = Strikeouts</i></p>
+<table border="1" cellpadding="2" cellspacing="0" class="wikitable sortable">
+<tr>
+<th bgcolor="#DDDDFF" width="16%">Player</th>
+<th bgcolor="#DDDDFF" width="9%">G</th>
+<th bgcolor="#DDDDFF" width="9%">W</th>
+<th bgcolor="#DDDDFF" width="9%">L</th>
+<th bgcolor="#DDDDFF" width="9%">SV</th>
+<th bgcolor="#DDDDFF" width="9%">ERA</th>
+<th bgcolor="#DDDDFF" width="9%">SO</th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=14" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://news.google.com/newspapers?id=LqohAAAAIBAJ&amp;sjid=GJoFAAAAIBAJ&amp;pg=3342,2044633&amp;dq=phillies&amp;hl=en%201925">"Sports Briefs"</a>. <i>Reading Eagle</i>. March 10, 1925. p.&#160;21.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1925+Philadelphia+Phillies+season&amp;rft.atitle=Sports+Briefs&amp;rft.date=1925-03-10&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DLqohAAAAIBAJ%26sjid%3DGJoFAAAAIBAJ%26pg%3D3342%2C2044633%26dq%3Dphillies%26hl%3Den%25201925&amp;rft.jtitle=Reading+Eagle&amp;rft.pages=21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.baseball-reference.com/teams/PHI/1925.shtml">1925 Philadelphia Phillies season at Baseball Reference</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="1925_MLB_season_by_team" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:1925_MLB_season_by_team" title="Template:1925 MLB season by team"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:1925_MLB_season_by_team" title="Template talk:1925 MLB season by team"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1925_MLB_season_by_team&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="1925_MLB_season_by_team" style="font-size:114%;margin:0 4em"><a href="/wiki/1925_Major_League_Baseball_season" title="1925 Major League Baseball season">1925 MLB season</a> by team</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">American League</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1925_Boston_Red_Sox_season" title="1925 Boston Red Sox season">Boston</a></li>
+<li><a href="/wiki/1925_Chicago_White_Sox_season" title="1925 Chicago White Sox season">Chicago</a></li>
+<li><a href="/wiki/1925_Cleveland_Indians_season" title="1925 Cleveland Indians season">Cleveland</a></li>
+<li><a href="/wiki/1925_Detroit_Tigers_season" title="1925 Detroit Tigers season">Detroit</a></li>
+<li><a href="/wiki/1925_New_York_Yankees_season" title="1925 New York Yankees season">New York</a></li>
+<li><a href="/wiki/1925_Philadelphia_Athletics_season" title="1925 Philadelphia Athletics season">Philadelphia</a></li>
+<li><a href="/wiki/1925_St._Louis_Browns_season" title="1925 St. Louis Browns season">St. Louis</a></li>
+<li><a href="/wiki/1925_Washington_Senators_season" title="1925 Washington Senators season">Washington</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">National League</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1925_Boston_Braves_season" title="1925 Boston Braves season">Boston</a></li>
+<li><a href="/wiki/1925_Brooklyn_Robins_season" title="1925 Brooklyn Robins season">Brooklyn</a></li>
+<li><a href="/wiki/1925_Chicago_Cubs_season" title="1925 Chicago Cubs season">Chicago</a></li>
+<li><a href="/wiki/1925_Cincinnati_Reds_season" title="1925 Cincinnati Reds season">Cincinnati</a></li>
+<li><a href="/wiki/1925_New_York_Giants_(MLB)_season" title="1925 New York Giants (MLB) season">New York</a></li>
+<li><a class="mw-selflink selflink">Philadelphia</a></li>
+<li><a href="/wiki/1925_Pittsburgh_Pirates_season" title="1925 Pittsburgh Pirates season">Pittsburgh</a></li>
+<li><a href="/wiki/1925_St._Louis_Cardinals_season" title="1925 St. Louis Cardinals season">St. Louis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/1925_World_Series" title="1925 World Series">1925 World Series</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Philadelphia_Phillies" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#284898;color:#FFFFFF;;background-color:#E81828;color:#FFFFFF;border:2px solid #284898;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Philadelphia_Phillies" title="Template:Philadelphia Phillies"><abbr title="View this template" style="background-color:#284898;color:#FFFFFF;;background-color:#E81828;color:#FFFFFF;border:2px solid #284898;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Philadelphia_Phillies" title="Template talk:Philadelphia Phillies"><abbr title="Discuss this template" style="background-color:#284898;color:#FFFFFF;;background-color:#E81828;color:#FFFFFF;border:2px solid #284898;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Philadelphia_Phillies&amp;action=edit"><abbr title="Edit this template" style="background-color:#284898;color:#FFFFFF;;background-color:#E81828;color:#FFFFFF;border:2px solid #284898;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Philadelphia_Phillies" style="font-size:114%;margin:0 4em"><a href="/wiki/Philadelphia_Phillies" title="Philadelphia Phillies"><span style="color:white">Philadelphia Phillies</span></a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background-color:#284898;color:#FFFFFF;">
+<div>
+<ul>
+<li>Formerly the Philadelphia Quakers</li>
+<li>Based in <a href="/wiki/Philadelphia" title="Philadelphia"><span style="color:#FFFFFF">Philadelphia</span></a>, <a href="/wiki/Pennsylvania" title="Pennsylvania"><span style="color:#FFFFFF">Pennsylvania</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;"><a href="/wiki/Philadelphia_Phillies" title="Philadelphia Phillies"><span style="color:#FFFFFF">Franchise</span></a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_the_Philadelphia_Phillies" title="History of the Philadelphia Phillies">History</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_seasons" title="List of Philadelphia Phillies seasons">Seasons</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_team_records" title="List of Philadelphia Phillies team records">Records</a></li>
+<li><a href="/wiki/Philadelphia_Phillies_all-time_roster" title="Philadelphia Phillies all-time roster">Players</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_owners_and_executives" title="List of Philadelphia Phillies owners and executives">Owners and executives</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_managers" title="List of Philadelphia Phillies managers">Managers</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_broadcasters" title="List of Philadelphia Phillies broadcasters">Broadcasters</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_Opening_Day_starting_pitchers" title="List of Philadelphia Phillies Opening Day starting pitchers">Opening Day starting pitchers</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_first-round_draft_picks" title="List of Philadelphia Phillies first-round draft picks">First-round picks</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_no-hitters" title="List of Philadelphia Phillies no-hitters">No-hitters</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_award_winners_and_league_leaders" title="List of Philadelphia Phillies award winners and league leaders">Award winners and league leaders</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">Ballparks</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Recreation_Park_(Philadelphia)" title="Recreation Park (Philadelphia)">Recreation Park</a></li>
+<li><a href="/wiki/Baker_Bowl" title="Baker Bowl">Baker Bowl</a></li>
+<li><a href="/wiki/Shibe_Park" title="Shibe Park">Shibe Park</a></li>
+<li><a href="/wiki/Veterans_Stadium" title="Veterans Stadium">Veterans Stadium</a></li>
+<li><a href="/wiki/Citizens_Bank_Park" title="Citizens Bank Park">Citizens Bank Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Spring training</dt>
+<dd><a href="/wiki/Fogel_Field" title="Fogel Field">Fogel Field</a></dd>
+<dd><a href="/wiki/Coffee_Pot_Park" title="Coffee Pot Park">Coffee Pot Park</a></dd>
+<dd><a href="/wiki/Rickwood_Field" title="Rickwood Field">Rickwood Field</a></dd>
+<dd><a href="/wiki/Cooke_Field" title="Cooke Field">Cooke Field</a></dd>
+<dd><a href="/wiki/LECOM_Park" title="LECOM Park">City Park / Ninth Street Park</a></dd>
+<dd><a href="/wiki/Wilmington_Park" title="Wilmington Park">Wilmington Park</a></dd>
+<dd><a href="/wiki/Flamingo_Field" title="Flamingo Field">Flamingo Field</a></dd>
+<dd><a href="/wiki/Clearwater_Athletic_Field" title="Clearwater Athletic Field">Clearwater Athletic Field</a></dd>
+<dd><a href="/wiki/Jack_Russell_Memorial_Stadium" title="Jack Russell Memorial Stadium">Jack Russell Memorial Stadium</a></dd>
+<dd><a href="/wiki/Carpenter_Complex" title="Carpenter Complex">Carpenter Complex</a> / <a href="/wiki/Spectrum_Field" title="Spectrum Field">Spectrum Field</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">Culture and lore</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Phillie_Phanatic" title="Phillie Phanatic">Phillie Phanatic</a></li>
+<li><a href="/wiki/By_Saam" title="By Saam">The Man of a Zillion Words</a></li>
+<li><a href="/wiki/Harry_Kalas" title="Harry Kalas">"Outta Here!"</a></li>
+<li><a href="/wiki/Richie_Ashburn" title="Richie Ashburn">Whitey</a></li>
+<li><a href="/wiki/Curse_of_Billy_Penn" title="Curse of Billy Penn">Curse of Billy Penn</a></li>
+<li><a href="/wiki/Hot_Pants_Patrol" title="Hot Pants Patrol">Hot Pants Patrol</a></li>
+<li><a href="/wiki/Ashburn_Alley" title="Ashburn Alley">Ashburn Alley</a></li>
+<li><a href="/wiki/Whiz_Kids_(baseball)" title="Whiz Kids (baseball)">Whiz Kids</a></li>
+<li><a href="/wiki/1980_Philadelphia_Phillies_season" title="1980 Philadelphia Phillies season">The Cardiac Kids</a></li>
+<li><a href="/wiki/1983_Philadelphia_Phillies_season" title="1983 Philadelphia Phillies season">Wheeze Kids</a></li>
+<li><a href="/wiki/1993_Philadelphia_Phillies_season" title="1993 Philadelphia Phillies season">Macho Row</a></li>
+<li><a href="/wiki/List_of_Philadelphia_Phillies_turn_back_the_clock_games" title="List of Philadelphia Phillies turn back the clock games">Phillies Turn Back the Clock</a></li>
+<li><a href="/wiki/Philadelphia_Baseball_Wall_of_Fame" title="Philadelphia Baseball Wall of Fame">Baseball Wall of Fame</a></li>
+<li><a href="/wiki/Philadelphia_Sports_Hall_of_Fame" title="Philadelphia Sports Hall of Fame">Sports Hall of Fame</a></li>
+<li><a href="/wiki/Philadelphia_Phillies_(NFL)" title="Philadelphia Phillies (NFL)">Philadelphia Phillies (NFL)</a></li>
+<li>"<a href="/wiki/High_Hopes_(Frank_Sinatra_song)" title="High Hopes (Frank Sinatra song)">High Hopes</a>"</li>
+<li>"<a href="/wiki/TSOP_(The_Sound_of_Philadelphia)" title="TSOP (The Sound of Philadelphia)">The Sound of Philadelphia</a>"</li>
+<li>"<a href="/wiki/Whoomp!_(There_It_Is)" title="Whoomp! (There It Is)">Whoomp! (There It Is)</a>"</li>
+<li><a href="/wiki/Jim_Bunning%27s_perfect_game" title="Jim Bunning's perfect game">Jim Bunning's perfect game</a></li>
+<li><a href="/wiki/1964_Philadelphia_Phillies_season" title="1964 Philadelphia Phillies season">The Phold</a></li>
+<li><a href="/wiki/1977_National_League_Championship_Series#Game_3" title="1977 National League Championship Series">Black Friday</a></li>
+<li><a href="/wiki/1993_World_Series#Game_6" title="1993 World Series">"I didn't get the job done"</a></li>
+<li><a href="/wiki/Philadelphia_Phillies_annual_franchise_awards" title="Philadelphia Phillies annual franchise awards">Franchise awards</a></li>
+<li>"<a href="/wiki/Team_to_Beat" title="Team to Beat">Team to Beat</a>"</li>
+<li><a href="/wiki/Brad_Lidge#Philadelphia_Phillies_.282008.E2.80.932011.29" title="Brad Lidge">Lidge's Perfect Season</a></li>
+<li>"<a href="/wiki/Matt_Stairs#Philadelphia_Phillies" title="Matt Stairs">"In Case of Emergency, Use Stairs"</a></li>
+<li><a href="/wiki/It%27s_Always_Sunny_in_Philadelphia_(season_5)#ep51" title="It's Always Sunny in Philadelphia (season 5)">"The World Series Defense" (It's Always Sunny in Philadelphia episode)</a></li>
+<li><a href="/wiki/Roy_Halladay%27s_perfect_game" title="Roy Halladay's perfect game">Roy Halladay's perfect game</a></li>
+<li><a href="/wiki/2011_Philadelphia_Phillies_season" title="2011 Philadelphia Phillies season">The Four Aces</a></li>
+<li><a href="/wiki/Maje_McDonnell" title="Maje McDonnell">Maje McDonnell</a></li>
+<li><a href="/wiki/Tony_Lucadello" title="Tony Lucadello">Tony Lucadello</a></li>
+<li><a href="/wiki/Paul_Richardson_(organist)" title="Paul Richardson (organist)">Paul Richardson</a></li>
+<li><a href="/wiki/Dan_Baker_(PA_announcer)" title="Dan Baker (PA announcer)">Dan Baker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">Rivalries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mets%E2%80%93Phillies_rivalry" title="Mets–Phillies rivalry">New York Mets</a></li>
+<li><a href="/wiki/Phillies%E2%80%93Pirates_rivalry" title="Phillies–Pirates rivalry">Pittsburgh Pirates</a></li>
+<li><a href="/wiki/City_Series_(Philadelphia)" title="City Series (Philadelphia)">Philadelphia Athletics (City Series)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">Important figures</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background-color:#284898;color:#FFFFFF;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Philadelphia_Baseball_Wall_of_Fame" title="Philadelphia Baseball Wall of Fame"><span style="color:#FFFFFF">Wall of Fame</span></a><br />
+members</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grover_Cleveland_Alexander" title="Grover Cleveland Alexander">Grover Cleveland Alexander</a></li>
+<li><a href="/wiki/Dick_Allen" title="Dick Allen">Dick Allen</a></li>
+<li><a href="/wiki/Richie_Ashburn" title="Richie Ashburn">Richie Ashburn</a></li>
+<li><a href="/wiki/Bob_Boone" title="Bob Boone">Bob Boone</a></li>
+<li><a href="/wiki/Larry_Bowa" title="Larry Bowa">Larry Bowa</a></li>
+<li><a href="/wiki/Jim_Bunning" title="Jim Bunning">Jim Bunning</a></li>
+<li><a href="/wiki/Pat_Burrell" title="Pat Burrell">Pat Burrell</a></li>
+<li><a href="/wiki/Johnny_Callison" title="Johnny Callison">Johnny Callison</a></li>
+<li><a href="/wiki/Steve_Carlton" title="Steve Carlton">Steve Carlton</a></li>
+<li><a href="/wiki/Gavvy_Cravath" title="Gavvy Cravath">Gavvy Cravath</a></li>
+<li><a href="/wiki/Darren_Daulton" title="Darren Daulton">Darren Daulton</a></li>
+<li><a href="/wiki/Ed_Delahanty" title="Ed Delahanty">Ed Delahanty</a></li>
+<li><a href="/wiki/Del_Ennis" title="Del Ennis">Del Ennis</a></li>
+<li><a href="/wiki/Dallas_Green_(baseball)" title="Dallas Green (baseball)">Dallas Green</a></li>
+<li><a href="/wiki/Billy_Hamilton_(baseball,_born_1866)" title="Billy Hamilton (baseball, born 1866)">Billy Hamilton</a></li>
+<li><a href="/wiki/Granny_Hamner" title="Granny Hamner">Granny Hamner</a></li>
+<li><a href="/wiki/Willie_Jones_(baseball)" title="Willie Jones (baseball)">Willie Jones</a></li>
+<li><a href="/wiki/Harry_Kalas" title="Harry Kalas">Harry Kalas</a></li>
+<li><a href="/wiki/Chuck_Klein" title="Chuck Klein">Chuck Klein</a></li>
+<li><a href="/wiki/John_Kruk" title="John Kruk">John Kruk</a></li>
+<li><a href="/wiki/Mike_Lieberthal" title="Mike Lieberthal">Mike Lieberthal</a></li>
+<li><a href="/wiki/Greg_Luzinski" title="Greg Luzinski">Greg Luzinski</a></li>
+<li><a href="/wiki/Garry_Maddox" title="Garry Maddox">Garry Maddox</a></li>
+<li><a href="/wiki/Sherry_Magee" title="Sherry Magee">Sherry Magee</a></li>
+<li><a href="/wiki/Charlie_Manuel" title="Charlie Manuel">Charlie Manuel</a></li>
+<li><a href="/wiki/Tug_McGraw" title="Tug McGraw">Tug McGraw</a></li>
+<li><a href="/wiki/Paul_Owens_(baseball)" title="Paul Owens (baseball)">Paul Owens</a></li>
+<li><a href="/wiki/Robin_Roberts_(baseball)" title="Robin Roberts (baseball)">Robin Roberts</a></li>
+<li><a href="/wiki/Pete_Rose" title="Pete Rose">Pete Rose</a></li>
+<li><a href="/wiki/Juan_Samuel" title="Juan Samuel">Juan Samuel</a></li>
+<li><a href="/wiki/Curt_Schilling" title="Curt Schilling">Curt Schilling</a></li>
+<li><a href="/wiki/Mike_Schmidt" title="Mike Schmidt">Mike Schmidt</a></li>
+<li><a href="/wiki/Chris_Short" title="Chris Short">Chris Short</a></li>
+<li><a href="/wiki/Curt_Simmons" title="Curt Simmons">Curt Simmons</a></li>
+<li><a href="/wiki/Tony_Taylor_(baseball)" title="Tony Taylor (baseball)">Tony Taylor</a></li>
+<li><a href="/wiki/Jim_Thome" title="Jim Thome">Jim Thome</a></li>
+<li><a href="/wiki/Sam_Thompson" title="Sam Thompson">Sam Thompson</a></li>
+<li><a href="/wiki/John_Vukovich" title="John Vukovich">John Vukovich</a></li>
+<li><a href="/wiki/Cy_Williams" title="Cy Williams">Cy Williams</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background-color:#284898;color:#FFFFFF;">
+<div style="padding:0em 0.75em;">Franchise<br />
+<a href="/wiki/List_of_Philadelphia_Phillies_team_records" title="List of Philadelphia Phillies team records"><span style="color:#FFFFFF">record holders</span></a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Coleman_(outfielder/pitcher)" title="John Coleman (outfielder/pitcher)">John Coleman</a></li>
+<li><a href="/wiki/Bill_Duggleby" title="Bill Duggleby">Bill Duggleby</a></li>
+<li><a href="/wiki/Lenny_Dykstra" title="Lenny Dykstra">Lenny Dykstra</a></li>
+<li><a href="/wiki/Kid_Gleason" title="Kid Gleason">Kid Gleason</a></li>
+<li><a href="/wiki/Ryan_Howard" title="Ryan Howard">Ryan Howard</a></li>
+<li><a href="/wiki/George_McQuillan" title="George McQuillan">George McQuillan</a></li>
+<li><a href="/wiki/Jos%C3%A9_Mesa" title="José Mesa">José Mesa</a></li>
+<li><a href="/wiki/Lefty_O%27Doul" title="Lefty O'Doul">Lefty O'Doul</a></li>
+<li><a href="/wiki/Jimmy_Rollins" title="Jimmy Rollins">Jimmy Rollins</a></li>
+<li><a href="/wiki/Curt_Schilling" title="Curt Schilling">Curt Schilling</a></li>
+<li><a href="/wiki/Kent_Tekulve" title="Kent Tekulve">Kent Tekulve</a></li>
+<li><a href="/wiki/Chase_Utley" title="Chase Utley">Chase Utley</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">Retired numbers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Richie_Ashburn" title="Richie Ashburn">1</a></li>
+<li><a href="/wiki/Jim_Bunning" title="Jim Bunning">14</a></li>
+<li><a href="/wiki/Mike_Schmidt" title="Mike Schmidt">20</a></li>
+<li><a href="/wiki/Steve_Carlton" title="Steve Carlton">32</a></li>
+<li><a href="/wiki/Robin_Roberts_(baseball)" title="Robin Roberts (baseball)">36</a></li>
+<li><a href="/wiki/Jackie_Robinson" title="Jackie Robinson">42</a></li>
+<li><a href="/wiki/Grover_Cleveland_Alexander" title="Grover Cleveland Alexander">P</a></li>
+<li><a href="/wiki/Chuck_Klein" title="Chuck Klein">P</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">Key personnel</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Owner: Limited partnership (<a href="/wiki/John_S._Middleton" title="John S. Middleton">John S. Middleton</a>, Jim &amp; Pete Buck, <a href="/wiki/David_Montgomery_(baseball)" title="David Montgomery (baseball)">David Montgomery</a>, &amp; <a href="/wiki/Pat_Gillick" title="Pat Gillick">Pat Gillick</a>)</li>
+<li>President: <a href="/wiki/Andy_MacPhail" title="Andy MacPhail">Andy MacPhail</a></li>
+<li>General Manager: <a href="/wiki/Matt_Klentak" title="Matt Klentak">Matt Klentak</a></li>
+<li>Manager: <a href="/wiki/Pete_Mackanin" title="Pete Mackanin">Pete Mackanin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;"><a href="/wiki/List_of_World_Series_champions" title="List of World Series champions"><span style="color:#FFFFFF">World Series<br />
+championships</span></a> (2)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1980_World_Series" title="1980 World Series">1980</a></li>
+<li><a href="/wiki/2008_World_Series" title="2008 World Series">2008</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;"><a href="/wiki/List_of_National_League_pennant_winners" title="List of National League pennant winners"><span style="color:#FFFFFF">NL pennants</span></a> (7)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1915_Philadelphia_Phillies_season" title="1915 Philadelphia Phillies season">1915</a></li>
+<li><a href="/wiki/1950_Philadelphia_Phillies_season" title="1950 Philadelphia Phillies season">1950</a></li>
+<li><a href="/wiki/1980_National_League_Championship_Series" title="1980 National League Championship Series">1980</a></li>
+<li><a href="/wiki/1983_National_League_Championship_Series" title="1983 National League Championship Series">1983</a></li>
+<li><a href="/wiki/1993_National_League_Championship_Series" title="1993 National League Championship Series">1993</a></li>
+<li><a href="/wiki/2008_National_League_Championship_Series" title="2008 National League Championship Series">2008</a></li>
+<li><a href="/wiki/2009_National_League_Championship_Series" title="2009 National League Championship Series">2009</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;"><a href="/w/index.php?title=List_of_National_League_division_winners&amp;action=edit&amp;redlink=1" class="new" title="List of National League division winners (page does not exist)"><span style="color:#FFFFFF">Division<br />
+championships</span></a> (11)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1976_Philadelphia_Phillies_season" title="1976 Philadelphia Phillies season">1976</a></li>
+<li><a href="/wiki/1977_Philadelphia_Phillies_season" title="1977 Philadelphia Phillies season">1977</a></li>
+<li><a href="/wiki/1978_Philadelphia_Phillies_season" title="1978 Philadelphia Phillies season">1978</a></li>
+<li><a href="/wiki/1980_Philadelphia_Phillies_season" title="1980 Philadelphia Phillies season">1980</a></li>
+<li><a href="/wiki/1983_Philadelphia_Phillies_season" title="1983 Philadelphia Phillies season">1983</a></li>
+<li><a href="/wiki/1993_Philadelphia_Phillies_season" title="1993 Philadelphia Phillies season">1993</a></li>
+<li><a href="/wiki/2007_Philadelphia_Phillies_season" title="2007 Philadelphia Phillies season">2007</a></li>
+<li><a href="/wiki/2008_Philadelphia_Phillies_season" title="2008 Philadelphia Phillies season">2008</a></li>
+<li><a href="/wiki/2009_Philadelphia_Phillies_season" title="2009 Philadelphia Phillies season">2009</a></li>
+<li><a href="/wiki/2010_Philadelphia_Phillies_season" title="2010 Philadelphia Phillies season">2010</a></li>
+<li><a href="/wiki/2011_Philadelphia_Phillies_season" title="2011 Philadelphia Phillies season">2011</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;"><a href="/wiki/List_of_Philadelphia_Phillies_minor_league_affiliates" title="List of Philadelphia Phillies minor league affiliates"><span style="color:#FFFFFF">Minor league<br />
+affiliates</span></a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>AAA</dt>
+<dd><a href="/wiki/Lehigh_Valley_IronPigs" title="Lehigh Valley IronPigs">Lehigh Valley IronPigs</a></dd>
+<dt>AA</dt>
+<dd><a href="/wiki/Reading_Fightin_Phils" title="Reading Fightin Phils">Reading Fightin Phils</a></dd>
+<dt>A Adv.</dt>
+<dd><a href="/wiki/Clearwater_Threshers" title="Clearwater Threshers">Clearwater Threshers</a></dd>
+<dt>A</dt>
+<dd><a href="/wiki/Lakewood_BlueClaws" title="Lakewood BlueClaws">Lakewood BlueClaws</a></dd>
+<dt>Short A</dt>
+<dd><a href="/wiki/Williamsport_Crosscutters" title="Williamsport Crosscutters">Williamsport Crosscutters</a></dd>
+<dt>Rookie</dt>
+<dd><a href="/wiki/Gulf_Coast_League_Phillies" title="Gulf Coast League Phillies">GCL Phillies</a></dd>
+<dd><a href="/wiki/Dominican_Summer_League_Phillies" title="Dominican Summer League Phillies">DSL Phillies 1</a></dd>
+<dd><a href="/wiki/Dominican_Summer_League_Phillies" title="Dominican Summer League Phillies">DSL Phillies 2</a></dd>
+<dt>Rosters</dt>
+<dd><a href="/wiki/Philadelphia_Phillies_minor_league_players" title="Philadelphia Phillies minor league players">Minor league rosters</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">Broadcasting</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background-color:#284898;color:#FFFFFF;">
+<div style="padding:0em 0.75em;">Television</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comcast_SportsNet_Philadelphia" title="Comcast SportsNet Philadelphia">Comcast SportsNet Philadelphia</a></li>
+<li><a href="/wiki/WCAU" title="WCAU">NBC 10</a></li>
+<li><a href="/wiki/The_Comcast_Network" title="The Comcast Network">The Comcast Network</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background-color:#284898;color:#FFFFFF;">
+<div style="padding:0em 0.75em;">Radio</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/WIP-FM" title="WIP-FM">94 WIP</a> (Flagship Station)</li>
+<li><a href="/wiki/WTTM" title="WTTM">El Pasaporte</a> (Spanish Flagship Station)</li>
+<li><a href="/wiki/Philadelphia_Phillies_Radio_Network" title="Philadelphia Phillies Radio Network">Phillies radio network affiliates</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background-color:#284898;color:#FFFFFF;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_Philadelphia_Phillies_broadcasters" title="List of Philadelphia Phillies broadcasters"><span style="color:#FFFFFF">Broadcasters</span></a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>TV</dt>
+<dd><a href="/wiki/Tom_McCarthy_(broadcaster)" class="mw-redirect" title="Tom McCarthy (broadcaster)">Tom McCarthy</a></dd>
+<dd><a href="/wiki/John_Kruk" title="John Kruk">John Kruk</a></dd>
+<dd><a href="/wiki/Ben_Davis_(baseball)" title="Ben Davis (baseball)">Ben Davis</a></dd>
+<dd><a href="/wiki/Mike_Schmidt" title="Mike Schmidt">Mike Schmidt</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Radio</dt>
+<dd><a href="/wiki/Scott_Franzke" title="Scott Franzke">Scott Franzke</a></dd>
+<dd><a href="/wiki/Larry_Andersen" title="Larry Andersen">Larry Andersen</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#284898;color:#FFFFFF;;background-color:#E81828;color:#FFFFFF;border:2px solid #284898;">
+<div id="Seasons_.28134.29" style="font-size:114%;margin:0 4em">Seasons (134)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1880s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1883_Philadelphia_Quakers_season" title="1883 Philadelphia Quakers season">1883</a></li>
+<li><a href="/wiki/1884_Philadelphia_Quakers_season" title="1884 Philadelphia Quakers season">1884</a></li>
+<li><a href="/wiki/1885_Philadelphia_Quakers_season" title="1885 Philadelphia Quakers season">1885</a></li>
+<li><a href="/wiki/1886_Philadelphia_Quakers_season" title="1886 Philadelphia Quakers season">1886</a></li>
+<li><a href="/wiki/1887_Philadelphia_Quakers_season" title="1887 Philadelphia Quakers season">1887</a></li>
+<li><a href="/wiki/1888_Philadelphia_Quakers_season" title="1888 Philadelphia Quakers season">1888</a></li>
+<li><a href="/wiki/1889_Philadelphia_Quakers_season" title="1889 Philadelphia Quakers season">1889</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1890s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1890_Philadelphia_Phillies_season" title="1890 Philadelphia Phillies season">1890</a></li>
+<li><a href="/wiki/1891_Philadelphia_Phillies_season" title="1891 Philadelphia Phillies season">1891</a></li>
+<li><a href="/wiki/1892_Philadelphia_Phillies_season" title="1892 Philadelphia Phillies season">1892</a></li>
+<li><a href="/wiki/1893_Philadelphia_Phillies_season" title="1893 Philadelphia Phillies season">1893</a></li>
+<li><a href="/wiki/1894_Philadelphia_Phillies_season" title="1894 Philadelphia Phillies season">1894</a></li>
+<li><a href="/wiki/1895_Philadelphia_Phillies_season" title="1895 Philadelphia Phillies season">1895</a></li>
+<li><a href="/wiki/1896_Philadelphia_Phillies_season" title="1896 Philadelphia Phillies season">1896</a></li>
+<li><a href="/wiki/1897_Philadelphia_Phillies_season" title="1897 Philadelphia Phillies season">1897</a></li>
+<li><a href="/wiki/1898_Philadelphia_Phillies_season" title="1898 Philadelphia Phillies season">1898</a></li>
+<li><a href="/wiki/1899_Philadelphia_Phillies_season" title="1899 Philadelphia Phillies season">1899</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1900s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1900_Philadelphia_Phillies_season" title="1900 Philadelphia Phillies season">1900</a></li>
+<li><a href="/wiki/1901_Philadelphia_Phillies_season" title="1901 Philadelphia Phillies season">1901</a></li>
+<li><a href="/wiki/1902_Philadelphia_Phillies_season" title="1902 Philadelphia Phillies season">1902</a></li>
+<li><a href="/wiki/1903_Philadelphia_Phillies_season" title="1903 Philadelphia Phillies season">1903</a></li>
+<li><a href="/wiki/1904_Philadelphia_Phillies_season" title="1904 Philadelphia Phillies season">1904</a></li>
+<li><a href="/wiki/1905_Philadelphia_Phillies_season" title="1905 Philadelphia Phillies season">1905</a></li>
+<li><a href="/wiki/1906_Philadelphia_Phillies_season" title="1906 Philadelphia Phillies season">1906</a></li>
+<li><a href="/wiki/1907_Philadelphia_Phillies_season" title="1907 Philadelphia Phillies season">1907</a></li>
+<li><a href="/wiki/1908_Philadelphia_Phillies_season" title="1908 Philadelphia Phillies season">1908</a></li>
+<li><a href="/wiki/1909_Philadelphia_Phillies_season" title="1909 Philadelphia Phillies season">1909</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1910s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1910_Philadelphia_Phillies_season" title="1910 Philadelphia Phillies season">1910</a></li>
+<li><a href="/wiki/1911_Philadelphia_Phillies_season" title="1911 Philadelphia Phillies season">1911</a></li>
+<li><a href="/wiki/1912_Philadelphia_Phillies_season" title="1912 Philadelphia Phillies season">1912</a></li>
+<li><a href="/wiki/1913_Philadelphia_Phillies_season" title="1913 Philadelphia Phillies season">1913</a></li>
+<li><a href="/wiki/1914_Philadelphia_Phillies_season" title="1914 Philadelphia Phillies season">1914</a></li>
+<li><a href="/wiki/1915_Philadelphia_Phillies_season" title="1915 Philadelphia Phillies season">1915</a></li>
+<li><a href="/wiki/1916_Philadelphia_Phillies_season" title="1916 Philadelphia Phillies season">1916</a></li>
+<li><a href="/wiki/1917_Philadelphia_Phillies_season" title="1917 Philadelphia Phillies season">1917</a></li>
+<li><a href="/wiki/1918_Philadelphia_Phillies_season" title="1918 Philadelphia Phillies season">1918</a></li>
+<li><a href="/wiki/1919_Philadelphia_Phillies_season" title="1919 Philadelphia Phillies season">1919</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1920s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1920_Philadelphia_Phillies_season" title="1920 Philadelphia Phillies season">1920</a></li>
+<li><a href="/wiki/1921_Philadelphia_Phillies_season" title="1921 Philadelphia Phillies season">1921</a></li>
+<li><a href="/wiki/1922_Philadelphia_Phillies_season" title="1922 Philadelphia Phillies season">1922</a></li>
+<li><a href="/wiki/1923_Philadelphia_Phillies_season" title="1923 Philadelphia Phillies season">1923</a></li>
+<li><a href="/wiki/1924_Philadelphia_Phillies_season" title="1924 Philadelphia Phillies season">1924</a></li>
+<li><a class="mw-selflink selflink">1925</a></li>
+<li><a href="/wiki/1926_Philadelphia_Phillies_season" title="1926 Philadelphia Phillies season">1926</a></li>
+<li><a href="/wiki/1927_Philadelphia_Phillies_season" title="1927 Philadelphia Phillies season">1927</a></li>
+<li><a href="/wiki/1928_Philadelphia_Phillies_season" title="1928 Philadelphia Phillies season">1928</a></li>
+<li><a href="/wiki/1929_Philadelphia_Phillies_season" title="1929 Philadelphia Phillies season">1929</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1930s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1930_Philadelphia_Phillies_season" title="1930 Philadelphia Phillies season">1930</a></li>
+<li><a href="/wiki/1931_Philadelphia_Phillies_season" title="1931 Philadelphia Phillies season">1931</a></li>
+<li><a href="/wiki/1932_Philadelphia_Phillies_season" title="1932 Philadelphia Phillies season">1932</a></li>
+<li><a href="/wiki/1933_Philadelphia_Phillies_season" title="1933 Philadelphia Phillies season">1933</a></li>
+<li><a href="/wiki/1934_Philadelphia_Phillies_season" title="1934 Philadelphia Phillies season">1934</a></li>
+<li><a href="/wiki/1935_Philadelphia_Phillies_season" title="1935 Philadelphia Phillies season">1935</a></li>
+<li><a href="/wiki/1936_Philadelphia_Phillies_season" title="1936 Philadelphia Phillies season">1936</a></li>
+<li><a href="/wiki/1937_Philadelphia_Phillies_season" title="1937 Philadelphia Phillies season">1937</a></li>
+<li><a href="/wiki/1938_Philadelphia_Phillies_season" title="1938 Philadelphia Phillies season">1938</a></li>
+<li><a href="/wiki/1939_Philadelphia_Phillies_season" title="1939 Philadelphia Phillies season">1939</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1940s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1940_Philadelphia_Phillies_season" title="1940 Philadelphia Phillies season">1940</a></li>
+<li><a href="/wiki/1941_Philadelphia_Phillies_season" title="1941 Philadelphia Phillies season">1941</a></li>
+<li><a href="/wiki/1942_Philadelphia_Phillies_season" title="1942 Philadelphia Phillies season">1942</a></li>
+<li><a href="/wiki/1943_Philadelphia_Phillies_season" title="1943 Philadelphia Phillies season">1943</a></li>
+<li><a href="/wiki/1944_Philadelphia_Phillies_season" title="1944 Philadelphia Phillies season">1944</a></li>
+<li><a href="/wiki/1945_Philadelphia_Phillies_season" title="1945 Philadelphia Phillies season">1945</a></li>
+<li><a href="/wiki/1946_Philadelphia_Phillies_season" title="1946 Philadelphia Phillies season">1946</a></li>
+<li><a href="/wiki/1947_Philadelphia_Phillies_season" title="1947 Philadelphia Phillies season">1947</a></li>
+<li><a href="/wiki/1948_Philadelphia_Phillies_season" title="1948 Philadelphia Phillies season">1948</a></li>
+<li><a href="/wiki/1949_Philadelphia_Phillies_season" title="1949 Philadelphia Phillies season">1949</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1950s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1950_Philadelphia_Phillies_season" title="1950 Philadelphia Phillies season">1950</a></li>
+<li><a href="/wiki/1951_Philadelphia_Phillies_season" title="1951 Philadelphia Phillies season">1951</a></li>
+<li><a href="/wiki/1952_Philadelphia_Phillies_season" title="1952 Philadelphia Phillies season">1952</a></li>
+<li><a href="/wiki/1953_Philadelphia_Phillies_season" title="1953 Philadelphia Phillies season">1953</a></li>
+<li><a href="/wiki/1954_Philadelphia_Phillies_season" title="1954 Philadelphia Phillies season">1954</a></li>
+<li><a href="/wiki/1955_Philadelphia_Phillies_season" title="1955 Philadelphia Phillies season">1955</a></li>
+<li><a href="/wiki/1956_Philadelphia_Phillies_season" title="1956 Philadelphia Phillies season">1956</a></li>
+<li><a href="/wiki/1957_Philadelphia_Phillies_season" title="1957 Philadelphia Phillies season">1957</a></li>
+<li><a href="/wiki/1958_Philadelphia_Phillies_season" title="1958 Philadelphia Phillies season">1958</a></li>
+<li><a href="/wiki/1959_Philadelphia_Phillies_season" title="1959 Philadelphia Phillies season">1959</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1960s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1960_Philadelphia_Phillies_season" title="1960 Philadelphia Phillies season">1960</a></li>
+<li><a href="/wiki/1961_Philadelphia_Phillies_season" title="1961 Philadelphia Phillies season">1961</a></li>
+<li><a href="/wiki/1962_Philadelphia_Phillies_season" title="1962 Philadelphia Phillies season">1962</a></li>
+<li><a href="/wiki/1963_Philadelphia_Phillies_season" title="1963 Philadelphia Phillies season">1963</a></li>
+<li><a href="/wiki/1964_Philadelphia_Phillies_season" title="1964 Philadelphia Phillies season">1964</a></li>
+<li><a href="/wiki/1965_Philadelphia_Phillies_season" title="1965 Philadelphia Phillies season">1965</a></li>
+<li><a href="/wiki/1966_Philadelphia_Phillies_season" title="1966 Philadelphia Phillies season">1966</a></li>
+<li><a href="/wiki/1967_Philadelphia_Phillies_season" title="1967 Philadelphia Phillies season">1967</a></li>
+<li><a href="/wiki/1968_Philadelphia_Phillies_season" title="1968 Philadelphia Phillies season">1968</a></li>
+<li><a href="/wiki/1969_Philadelphia_Phillies_season" title="1969 Philadelphia Phillies season">1969</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1970s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1970_Philadelphia_Phillies_season" title="1970 Philadelphia Phillies season">1970</a></li>
+<li><a href="/wiki/1971_Philadelphia_Phillies_season" title="1971 Philadelphia Phillies season">1971</a></li>
+<li><a href="/wiki/1972_Philadelphia_Phillies_season" title="1972 Philadelphia Phillies season">1972</a></li>
+<li><a href="/wiki/1973_Philadelphia_Phillies_season" title="1973 Philadelphia Phillies season">1973</a></li>
+<li><a href="/wiki/1974_Philadelphia_Phillies_season" title="1974 Philadelphia Phillies season">1974</a></li>
+<li><a href="/wiki/1975_Philadelphia_Phillies_season" title="1975 Philadelphia Phillies season">1975</a></li>
+<li><a href="/wiki/1976_Philadelphia_Phillies_season" title="1976 Philadelphia Phillies season">1976</a></li>
+<li><a href="/wiki/1977_Philadelphia_Phillies_season" title="1977 Philadelphia Phillies season">1977</a></li>
+<li><a href="/wiki/1978_Philadelphia_Phillies_season" title="1978 Philadelphia Phillies season">1978</a></li>
+<li><a href="/wiki/1979_Philadelphia_Phillies_season" title="1979 Philadelphia Phillies season">1979</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1980s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1980_Philadelphia_Phillies_season" title="1980 Philadelphia Phillies season">1980</a></li>
+<li><a href="/wiki/1981_Philadelphia_Phillies_season" title="1981 Philadelphia Phillies season">1981</a></li>
+<li><a href="/wiki/1982_Philadelphia_Phillies_season" title="1982 Philadelphia Phillies season">1982</a></li>
+<li><a href="/wiki/1983_Philadelphia_Phillies_season" title="1983 Philadelphia Phillies season">1983</a></li>
+<li><a href="/wiki/1984_Philadelphia_Phillies_season" title="1984 Philadelphia Phillies season">1984</a></li>
+<li><a href="/wiki/1985_Philadelphia_Phillies_season" title="1985 Philadelphia Phillies season">1985</a></li>
+<li><a href="/wiki/1986_Philadelphia_Phillies_season" title="1986 Philadelphia Phillies season">1986</a></li>
+<li><a href="/wiki/1987_Philadelphia_Phillies_season" title="1987 Philadelphia Phillies season">1987</a></li>
+<li><a href="/wiki/1988_Philadelphia_Phillies_season" title="1988 Philadelphia Phillies season">1988</a></li>
+<li><a href="/wiki/1989_Philadelphia_Phillies_season" title="1989 Philadelphia Phillies season">1989</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">1990s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1990_Philadelphia_Phillies_season" title="1990 Philadelphia Phillies season">1990</a></li>
+<li><a href="/wiki/1991_Philadelphia_Phillies_season" title="1991 Philadelphia Phillies season">1991</a></li>
+<li><a href="/wiki/1992_Philadelphia_Phillies_season" title="1992 Philadelphia Phillies season">1992</a></li>
+<li><a href="/wiki/1993_Philadelphia_Phillies_season" title="1993 Philadelphia Phillies season">1993</a></li>
+<li><a href="/wiki/1994_Philadelphia_Phillies_season" title="1994 Philadelphia Phillies season">1994</a></li>
+<li><a href="/wiki/1995_Philadelphia_Phillies_season" title="1995 Philadelphia Phillies season">1995</a></li>
+<li><a href="/wiki/1996_Philadelphia_Phillies_season" title="1996 Philadelphia Phillies season">1996</a></li>
+<li><a href="/wiki/1997_Philadelphia_Phillies_season" title="1997 Philadelphia Phillies season">1997</a></li>
+<li><a href="/wiki/1998_Philadelphia_Phillies_season" title="1998 Philadelphia Phillies season">1998</a></li>
+<li><a href="/wiki/1999_Philadelphia_Phillies_season" title="1999 Philadelphia Phillies season">1999</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">2000s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2000_Philadelphia_Phillies_season" title="2000 Philadelphia Phillies season">2000</a></li>
+<li><a href="/wiki/2001_Philadelphia_Phillies_season" title="2001 Philadelphia Phillies season">2001</a></li>
+<li><a href="/wiki/2002_Philadelphia_Phillies_season" title="2002 Philadelphia Phillies season">2002</a></li>
+<li><a href="/wiki/2003_Philadelphia_Phillies_season" title="2003 Philadelphia Phillies season">2003</a></li>
+<li><a href="/wiki/2004_Philadelphia_Phillies_season" title="2004 Philadelphia Phillies season">2004</a></li>
+<li><a href="/wiki/2005_Philadelphia_Phillies_season" title="2005 Philadelphia Phillies season">2005</a></li>
+<li><a href="/wiki/2006_Philadelphia_Phillies_season" title="2006 Philadelphia Phillies season">2006</a></li>
+<li><a href="/wiki/2007_Philadelphia_Phillies_season" title="2007 Philadelphia Phillies season">2007</a></li>
+<li><a href="/wiki/2008_Philadelphia_Phillies_season" title="2008 Philadelphia Phillies season">2008</a></li>
+<li><a href="/wiki/2009_Philadelphia_Phillies_season" title="2009 Philadelphia Phillies season">2009</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#284898;color:#FFFFFF;">2010s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto; text-align: center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2010_Philadelphia_Phillies_season" title="2010 Philadelphia Phillies season">2010</a></li>
+<li><a href="/wiki/2011_Philadelphia_Phillies_season" title="2011 Philadelphia Phillies season">2011</a></li>
+<li><a href="/wiki/2012_Philadelphia_Phillies_season" title="2012 Philadelphia Phillies season">2012</a></li>
+<li><a href="/wiki/2013_Philadelphia_Phillies_season" title="2013 Philadelphia Phillies season">2013</a></li>
+<li><a href="/wiki/2014_Philadelphia_Phillies_season" title="2014 Philadelphia Phillies season">2014</a></li>
+<li><a href="/wiki/2015_Philadelphia_Phillies_season" title="2015 Philadelphia Phillies season">2015</a></li>
+<li><a href="/wiki/2016_Philadelphia_Phillies_season" title="2016 Philadelphia Phillies season">2016</a></li>
+<li><a href="/wiki/2017_Philadelphia_Phillies_season" title="2017 Philadelphia Phillies season">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><i>This article relating to a <a href="/wiki/Philadelphia_Phillies" title="Philadelphia Phillies">Philadelphia Phillies</a> <a href="/wiki/Baseball" title="Baseball">baseball</a> <a href="/wiki/Season_(sport)" class="mw-redirect" title="Season (sport)">season</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:PhiladelphiaPhillies-season-stub" title="Template:PhiladelphiaPhillies-season-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:PhiladelphiaPhillies-season-stub" title="Template talk:PhiladelphiaPhillies-season-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:PhiladelphiaPhillies-season-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20170415201609
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.257 seconds
+Preprocessor visited node count: 3205/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 157515/2097152 bytes
+Template argument size: 5800/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 3.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  170.179      1 -total
+ 53.55%   91.134      7 Template:Navbox
+ 33.51%   57.027      1 Template:Philadelphia_Phillies
+ 18.00%   30.638      4 Template:Navbox_subgroup
+ 17.51%   29.790      1 Template:Reflist
+ 15.80%   26.893      1 Template:Cite_news
+ 12.52%   21.305      1 Template:MLB_yearly_infobox-pre1969
+ 11.89%   20.235      1 Template:Use_mdy_dates
+ 10.60%   18.033      1 Template:Infobox
+  7.13%   12.136      1 Template:1925_National_League_standings
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14090232-0!*!0!!en!*!* and timestamp 20170415201608 and revision id 770286668
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1925_Philadelphia_Phillies_season&amp;oldid=770286668">https://en.wikipedia.org/w/index.php?title=1925_Philadelphia_Phillies_season&amp;oldid=770286668</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Philadelphia_Phillies_seasons" title="Category:Philadelphia Phillies seasons">Philadelphia Phillies seasons</a></li><li><a href="/wiki/Category:1925_Major_League_Baseball_season" title="Category:1925 Major League Baseball season">1925 Major League Baseball season</a></li><li><a href="/wiki/Category:Philadelphia_Phillies_season_stubs" title="Category:Philadelphia Phillies season stubs">Philadelphia Phillies season stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_November_2013" title="Category:Use mdy dates from November 2013">Use mdy dates from November 2013</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1925+Philadelphia+Phillies+season" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1925+Philadelphia+Phillies+season" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1925_Philadelphia_Phillies_season"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1925_Philadelphia_Phillies_season"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1925_Philadelphia_Phillies_season" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1925_Philadelphia_Phillies_season" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1925_Philadelphia_Phillies_season" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;oldid=770286668" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4561754" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1925_Philadelphia_Phillies_season&amp;id=770286668" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1925+Philadelphia+Phillies+season">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1925+Philadelphia+Phillies+season&amp;returnto=1925+Philadelphia+Phillies+season&amp;oldid=770286668&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1925_Philadelphia_Phillies_season&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4561754#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 March 2017, at 14:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1925_Philadelphia_Phillies_season&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.257","ppvisitednodes":{"value":3205,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":157515,"limit":2097152},"templateargumentsize":{"value":5800,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  170.179      1 -total"," 53.55%   91.134      7 Template:Navbox"," 33.51%   57.027      1 Template:Philadelphia_Phillies"," 18.00%   30.638      4 Template:Navbox_subgroup"," 17.51%   29.790      1 Template:Reflist"," 15.80%   26.893      1 Template:Cite_news"," 12.52%   21.305      1 Template:MLB_yearly_infobox-pre1969"," 11.89%   20.235      1 Template:Use_mdy_dates"," 10.60%   18.033      1 Template:Infobox","  7.13%   12.136      1 Template:1925_National_League_standings"]},"scribunto":{"limitreport-timeusage":{"value":"0.065","limit":"10.000"},"limitreport-memusage":{"value":3718646,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20170415201609","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw2236"});});</script>
+	</body>
+</html>

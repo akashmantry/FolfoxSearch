@@ -1,0 +1,1085 @@
+https://en.wikipedia.org/wiki/20th_Primetime_Emmy_Awards
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>20th Primetime Emmy Awards - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"20th_Primetime_Emmy_Awards","wgTitle":"20th Primetime Emmy Awards","wgCurRevisionId":722225906,"wgRevisionId":722225906,"wgArticleId":24249576,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Primetime Emmy Award ceremonies","1968 television awards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"20th_Primetime_Emmy_Awards","wgRelevantArticleId":24249576,"wgRequestId":"WPTN@QpAMFAAAJtOI4sAAAAO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1647480","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/20th_Primetime_Emmy_Awards"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/20th_Primetime_Emmy_Awards"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-20th_Primetime_Emmy_Awards rootpage-20th_Primetime_Emmy_Awards skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">20th Primetime Emmy Awards</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;background-color: #eedd82;">20th Primetime Emmy Awards</th>
+</tr>
+<tr>
+<th scope="row" style="width: 33%;">Date</th>
+<td>May 19, 1968</td>
+</tr>
+<tr>
+<th scope="row" style="width: 33%;">Location</th>
+<td class="location"><a href="/wiki/Hollywood_Palladium" title="Hollywood Palladium">Hollywood Palladium</a>,<br />
+<a href="/wiki/Los_Angeles,_California" class="mw-redirect" title="Los Angeles, California">Los Angeles, California</a></td>
+</tr>
+<tr>
+<th scope="row" style="width: 33%;">Hosted by</th>
+<td class="attendee"><a href="/wiki/Frank_Sinatra" title="Frank Sinatra">Frank Sinatra</a><br />
+<a href="/wiki/Dick_Van_Dyke" title="Dick Van Dyke">Dick Van Dyke</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #eedd82;">Television/Radio coverage</th>
+</tr>
+<tr>
+<th scope="row" style="width: 33%;">Network</th>
+<td><a href="/wiki/NBC" title="NBC">NBC</a></td>
+</tr>
+<tr>
+<td colspan="2" class="hlist noprint nowraplinks" style="text-align:center;border-top: 1px solid #000; padding-top: 5px; font-weight: bold;">
+<ul>
+<li>←&#160;<a href="/wiki/19th_Primetime_Emmy_Awards" title="19th Primetime Emmy Awards">19th</a></li>
+<li><span class="nowrap"><a href="/wiki/Primetime_Emmy_Award" title="Primetime Emmy Award">Primetime Emmy Awards</a></span></li>
+<li><a href="/wiki/21st_Primetime_Emmy_Awards" title="21st Primetime Emmy Awards">21st</a>&#160;→</li>
+</ul>
+</td>
+</tr>
+</table>
+<p>The <b>20th Emmy Awards</b>, later known as the <b>20th Primetime Emmy Awards</b>, were handed out in May 19, 1968. The ceremony was hosted by <a href="/wiki/Frank_Sinatra" title="Frank Sinatra">Frank Sinatra</a> and <a href="/wiki/Dick_Van_Dyke" title="Dick Van Dyke">Dick Van Dyke</a>. Winners are listed in bold and series' networks are in parentheses.</p>
+<p>The top shows of the night were, <i><a href="/wiki/Get_Smart" title="Get Smart">Get Smart</a></i> and <i><a href="/wiki/Mission:_Impossible_(TV_series)" class="mw-redirect" title="Mission: Impossible (TV series)">Mission: Impossible</a></i>. Get Smart won three major awards, while the most nominated show was the <a href="/wiki/Anthology_drama" class="mw-redirect" title="Anthology drama">anthology drama</a> <i><a href="/wiki/CBS_Playhouse" title="CBS Playhouse">CBS Playhouse</a></i> with nine, it also won three major awards.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Winners_and_Nominees"><span class="tocnumber">1</span> <span class="toctext">Winners and Nominees</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Programs"><span class="tocnumber">1.1</span> <span class="toctext">Programs</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Acting"><span class="tocnumber">1.2</span> <span class="toctext">Acting</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Lead_performances"><span class="tocnumber">1.2.1</span> <span class="toctext">Lead performances</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Supporting_performances"><span class="tocnumber">1.2.2</span> <span class="toctext">Supporting performances</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Single_performances"><span class="tocnumber">1.2.3</span> <span class="toctext">Single performances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Directing"><span class="tocnumber">1.3</span> <span class="toctext">Directing</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Writing"><span class="tocnumber">1.4</span> <span class="toctext">Writing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Most_major_nominations"><span class="tocnumber">2</span> <span class="toctext">Most major nominations</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Most_major_awards"><span class="tocnumber">3</span> <span class="toctext">Most major awards</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Winners_and_Nominees">Winners and Nominees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=1" title="Edit section: Winners and Nominees">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><sup id="cite_ref-Winners.2FNominees_1-0" class="reference"><a href="#cite_note-Winners.2FNominees-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Programs">Programs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=2" title="Edit section: Programs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Comedy_Series" title="Primetime Emmy Award for Outstanding Comedy Series">Outstanding Comedy Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Drama_Series" title="Primetime Emmy Award for Outstanding Drama Series">Outstanding Dramatic Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/Get_Smart" title="Get Smart">Get Smart</a>,</i> (<a href="/wiki/NBC" title="NBC">NBC</a>)</b>
+<ul>
+<li><i><a href="/wiki/Bewitched" title="Bewitched">Bewitched</a></i>, (<a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a>)</li>
+<li><i><a href="/wiki/Family_Affair" title="Family Affair">Family Affair</a></i>, (<a href="/wiki/CBS" title="CBS">CBS</a>)</li>
+<li><i><a href="/wiki/Hogan%27s_Heroes" title="Hogan's Heroes">Hogan's Heroes</a>, (CBS)</i></li>
+<li><i><a href="/wiki/The_Lucy_Show" title="The Lucy Show">The Lucy Show</a></i>, (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/Mission:_Impossible_(TV_series)" class="mw-redirect" title="Mission: Impossible (TV series)">Mission: Impossible</a>,</i> (CBS)</b>
+<ul>
+<li><i><a href="/wiki/The_Avengers_(TV_series)" title="The Avengers (TV series)">The Avengers</a></i>, (ABC)</li>
+<li><i><a href="/wiki/I_Spy_(1965_TV_series)" title="I Spy (1965 TV series)">I Spy</a></i>, (NBC)</li>
+<li><i><a href="/wiki/NET_Playhouse" title="NET Playhouse">NET Playhouse</a>,</i> (<a href="/wiki/National_Educational_Television" title="National Educational Television">NET</a>)</li>
+<li><i><a href="/wiki/Star_Trek:_The_Original_Series" title="Star Trek: The Original Series">Star Trek</a></i>, (NBC)</li>
+<li><i><a href="/wiki/Run_for_Your_Life_(TV_series)" title="Run for Your Life (TV series)">Run for Your Life</a></i>, (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Variety,_Music_or_Comedy_Series" class="mw-redirect" title="Primetime Emmy Award for Outstanding Variety, Music or Comedy Series">Outstanding Musical or Variety Program</a></th>
+<th width="50%">Outstanding Achievement in Daytime Programming - Programs</th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/Rowan_and_Martin%27s_Laugh-In" class="mw-redirect" title="Rowan and Martin's Laugh-In">Rowan and Martin's Laugh-In</a></i>, (NBC)</b>
+<ul>
+<li><i><a href="/wiki/The_Bell_Telephone_Hour" title="The Bell Telephone Hour">The Bell Telephone Hour</a></i>, (NBC)</li>
+<li><i><a href="/wiki/The_Carol_Burnett_Show" title="The Carol Burnett Show">The Carol Burnett Show</a></i>, (CBS)</li>
+<li><i><a href="/wiki/The_Dean_Martin_Show" title="The Dean Martin Show">The Dean Martin Comedy Hour</a></i>, (NBC)</li>
+<li><i><a href="/wiki/The_Smothers_Brothers_Comedy_Hour" title="The Smothers Brothers Comedy Hour">The Smothers Brothers Comedy Hour</a>,</i> (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/The_Today_Show" class="mw-redirect" title="The Today Show">Today</a>,</i> (NBC)</b>
+<ul>
+<li><i><a href="/wiki/Camera_Three" title="Camera Three">Camera Three</a></i>, (CBS)</li>
+<li><i><a href="/wiki/The_Mike_Douglas_Show" title="The Mike Douglas Show">The Mike Douglas Show</a></i>, (<a href="/wiki/Broadcast_syndication" title="Broadcast syndication">Syndicated</a>)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%">Outstanding Achievement in Sports Programming - Programs</th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Program_of_the_Year" title="Primetime Emmy Award for Program of the Year">Outstanding Dramatic Program</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/ABC%27s_Wide_World_of_Sports" class="mw-redirect" title="ABC's Wide World of Sports">ABC's Wide World of Sports</a></i>, (ABC)</b>
+<ul>
+<li><i><a href="/wiki/The_American_Sportsman" title="The American Sportsman">The American Sportsman</a></i>, (ABC)</li>
+<li><i>The Flying Fisherman</i>, (Syndicated)</li>
+<li><i><a href="/wiki/1968_Winter_Olympics" title="1968 Winter Olympics">X Olympic Winter Games</a></i> (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/Hallmark_Hall_of_Fame" title="Hallmark Hall of Fame">Hallmark Hall of Fame</a></i>, (Episode: "Elizabeth the Queen"), (NBC)</b>
+<ul>
+<li><i><a href="/wiki/CBS_Playhouse" title="CBS Playhouse">CBS Playhouse</a></i>, (Episode: "Dear Friends"), (CBS)</li>
+<li><i>CBS Playhouse</i>, (Episode: "Do Not Go Gentle into that Good Night"), (CBS)</li>
+<li><i>NET Playhouse,</i> (Episode: "Uncle Vanya"), (NET)</li>
+<li><i>The Strange Case of Dr. Jekyll and Mr. Hyde</i>, (ABC)</li>
+<li><i>Xerox Special,</i> (Episode: "Luther"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Acting">Acting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=3" title="Edit section: Acting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Lead_performances">Lead performances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=4" title="Edit section: Lead performances">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series">Outstanding Continued Performance<br />
+by an Actor in a Leading Role in a Comedy Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series">Outstanding Continued Performance<br />
+by an Actress in a Leading Role in a Comedy Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Don_Adams" title="Don Adams">Don Adams</a> as Maxwell Smart on <i>Get Smart</i>, (NBC)</b>
+<ul>
+<li><a href="/wiki/Richard_Benjamin" title="Richard Benjamin">Richard Benjamin</a> as Dick Hollister on <i><a href="/wiki/He_%26_She" title="He &amp; She">He &amp; She</a></i>, (CBS)</li>
+<li><a href="/wiki/Sebastian_Cabot_(actor)" title="Sebastian Cabot (actor)">Sebastian Cabot</a> as Mr. Giles French on <i>Family Affair</i>, (CBS)</li>
+<li><a href="/wiki/Brian_Keith" title="Brian Keith">Brian Keith</a> as Uncle Bill Davis on <i>Family Affair</i>, (CBS)</li>
+<li><a href="/wiki/Dick_York" title="Dick York">Dick York</a> as Darrin Stephens on <i>Bewitched</i>, (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Lucille_Ball" title="Lucille Ball">Lucille Ball</a> as Lucy Carmichael on <i>The Lucy Show</i>, (CBS)</b>
+<ul>
+<li><a href="/wiki/Barbara_Feldon" title="Barbara Feldon">Barbara Feldon</a> as Agent 99 on <i>Get Smart,</i> (NBC)</li>
+<li><a href="/wiki/Elizabeth_Montgomery" title="Elizabeth Montgomery">Elizabeth Montgomery</a> as Samantha Stephens on <i>Bewitched</i>, (ABC)</li>
+<li><a href="/wiki/Paula_Prentiss" title="Paula Prentiss">Paula Prentiss</a> as Paula Hollister on <i>He &amp; She</i>, (CBS)</li>
+<li><a href="/wiki/Marlo_Thomas" title="Marlo Thomas">Marlo Thomas</a> as Ann Marie on <i><a href="/wiki/That_Girl" title="That Girl">That Girl</a></i>, (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Lead Actor in a Drama Series">Outstanding Continued Performance<br />
+by an Actor in a Leading Role in a Dramatic Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Lead Actress in a Drama Series">Outstanding Continued Performance<br />
+by an Actress in a Leading Role in a Dramatic Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Bill_Cosby" title="Bill Cosby">Bill Cosby</a> as Alexander Scott on <i>I Spy</i>, (NBC)</b>
+<ul>
+<li><a href="/wiki/Raymond_Burr" title="Raymond Burr">Raymond Burr</a> as Robert T. Ironside on <i><a href="/wiki/Ironside_(TV_series)" class="mw-redirect" title="Ironside (TV series)">Ironside</a></i>, (NBC)</li>
+<li><a href="/wiki/Robert_Culp" title="Robert Culp">Robert Culp</a> as Kelly Robinson on <i>I Spy</i>, (NBC)</li>
+<li><a href="/wiki/Ben_Gazzara" title="Ben Gazzara">Ben Gazzara</a> as Paul Bryan on <i>Run for Your Life</i>, (NBC)</li>
+<li><a href="/wiki/Martin_Landau" title="Martin Landau">Martin Landau</a> as Rollin Hand on <i>Mission: Impossible</i>, (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Barbara_Bain" title="Barbara Bain">Barbara Bain</a> as Cinnamon Carter on <i>Mission: Impossible</i>, (CBS)</b>
+<ul>
+<li><a href="/wiki/Diana_Rigg" title="Diana Rigg">Diana Rigg</a> as Emma Peel on <i>The Avengers</i>, (ABC)</li>
+<li><a href="/wiki/Barbara_Stanwyck" title="Barbara Stanwyck">Barbara Stanwyck</a> as Victoria Barkley on <i><a href="/wiki/The_Big_Valley" title="The Big Valley">The Big Valley</a></i>, (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Supporting_performances">Supporting performances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=5" title="Edit section: Supporting performances">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series">Outstanding Performance by an Actor in a Supporting Role in a Comedy</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series">Outstanding Performance by an Actress in a Supporting Role in a Comedy</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Werner_Klemperer" title="Werner Klemperer">Werner Klemperer</a> as Col. Wilhelm Klink on <i>Hogan's Heroes</i>, (CBS)</b>
+<ul>
+<li><a href="/wiki/Gale_Gordon" title="Gale Gordon">Gale Gordon</a> as Mr. Theodore J. Mooney on <i>The Lucy Show</i>, (CBS)</li>
+<li><a href="/wiki/Jack_Cassidy" title="Jack Cassidy">Jack Cassidy</a> as Oscar North on <i>He &amp; She</i>, (CBS)</li>
+<li><a href="/wiki/William_Demarest" title="William Demarest">William Demarest</a> as Uncle Charley O'Casey on <i><a href="/wiki/My_Three_Sons" title="My Three Sons">My Three Sons</a></i>, (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Marion_Lorne" title="Marion Lorne">Marion Lorne</a> as Aunt Clara on <i>Bewitched</i>, (ABC)</b>
+<ul>
+<li><a href="/wiki/Agnes_Moorehead" title="Agnes Moorehead">Agnes Moorehead</a> as Endora on <i>Bewitched</i>, (ABC)</li>
+<li><a href="/wiki/Marge_Redmond" title="Marge Redmond">Marge Redmond</a> as Sister Jacqueline on <i><a href="/wiki/The_Flying_Nun" title="The Flying Nun">The Flying Nun</a></i>, (ABC)</li>
+<li><a href="/wiki/Nita_Talbot" title="Nita Talbot">Nita Talbot</a> as Marya on <i>Hogan's Heroes,</i> (Episode: "The Hostage"), (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series">Outstanding Performance by an Actor in a Supporting Role in a Drama</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series">Outstanding Performance by an Actress in a Supporting Role in a Drama</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Milburn_Stone" title="Milburn Stone">Milburn Stone</a> as Doc on <i><a href="/wiki/Gunsmoke" title="Gunsmoke">Gunsmoke</a></i>, (Episode: "Baker's Dozen"), (CBS)</b>
+<ul>
+<li><a href="/wiki/Joseph_Campanella" title="Joseph Campanella">Joseph Campanella</a> as Lew Wickersham on <i><a href="/wiki/Mannix" title="Mannix">Mannix</a></i>, (CBS)</li>
+<li><a href="/wiki/Lawrence_Dobkin" title="Lawrence Dobkin">Lawrence Dobkin</a> as Dr. Gettlinger on <i>CBS Playhouse,</i> (Episode: "Do Not Go Gentle Into That Good Night"), (CBS)</li>
+<li><a href="/wiki/Leonard_Nimoy" title="Leonard Nimoy">Leonard Nimoy</a> as <a href="/wiki/Mr._Spock" class="mw-redirect" title="Mr. Spock">Mr. Spock</a> on <i>Star Trek</i>, (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Barbara_Anderson_(actress)" title="Barbara Anderson (actress)">Barbara Anderson</a> as Officer Eve Whitfield on <i>Ironside</i>, (NBC)</b>
+<ul>
+<li><a href="/wiki/Linda_Cristal" title="Linda Cristal">Linda Cristal</a> as Victoria Cannon on <i><a href="/wiki/The_High_Chaparral" title="The High Chaparral">The High Chaparral</a></i>, (NBC)</li>
+<li><a href="/wiki/Tessie_O%27Shea" title="Tessie O'Shea">Tessie O'Shea</a> as Tessie O'Toole on <i>The Strange Case of Dr. Jekyll and Mr. Hyde</i>, (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Single_performances">Single performances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=6" title="Edit section: Single performances">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%">Outstanding Single Performance by an Actor in a Leading Role in a Drama</th>
+<th width="50%">Outstanding Single Performance by an Actress in a Leading Role in a Drama</th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Melvyn_Douglas" title="Melvyn Douglas">Melvyn Douglas</a> as Peter Schermann on <i>CBS Playhouse,</i> (Episode: "Do Not Go Gentle Into That Good Night"), (CBS)</b>
+<ul>
+<li>Raymond Burr as Robert T. Ironside on <i>Ironside</i>, (Episode: "<a href="/wiki/List_of_Ironside_episodes#Pilot_movie" title="List of Ironside episodes">World Premiere</a>"), (NBC)</li>
+<li><a href="/wiki/Van_Heflin" title="Van Heflin">Van Heflin</a> as Robert Sloane on <i>A Case of Libel</i>, (ABC)</li>
+<li><a href="/wiki/George_C._Scott" title="George C. Scott">George C. Scott</a> as John Proctor on <i>The Crucible</i>, (CBS)</li>
+<li><a href="/wiki/Eli_Wallach" title="Eli Wallach">Eli Wallach</a> as Douglas Lambert on <i>CBS Playhouse</i>, (Episode: "Dear Friends"), (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Maureen_Stapleton" title="Maureen Stapleton">Maureen Stapleton</a> as Mary O'Meaghan on <i>Among the Paths to Eden</i>, (ABC)</b>
+<ul>
+<li><a href="/wiki/Judith_Anderson" title="Judith Anderson">Judith Anderson</a> as <a href="/wiki/Queen_Elizabeth_I" class="mw-redirect" title="Queen Elizabeth I">Queen Elizabeth I</a> on <i>Hallmark Hall of Fame</i>, (Episode: "Elizabeth the Queen"), (NBC)</li>
+<li><a href="/wiki/Genevi%C3%A8ve_Bujold" title="Geneviève Bujold">Geneviève Bujold</a> as <a href="/wiki/Joan_of_Arc" title="Joan of Arc">Joan of Arc</a> on <i>Hallmark Hall of Fame</i>, (Episode: "Saint Joan"), (NBC)</li>
+<li><a href="/wiki/Colleen_Dewhurst" title="Colleen Dewhurst">Colleen Dewhurst</a> as Elizabeth Proctor on <i>The Crucible</i>, (CBS)</li>
+<li><a href="/wiki/Anne_Jackson" title="Anne Jackson">Anne Jackson</a> as Vivian Spears on <i>CBS Playhouse</i>, (Episode: "Dear Friends"), (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Directing">Directing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=7" title="Edit section: Directing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Directing for a Comedy Series">Outstanding Directorial Achievement in Comedy</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series" title="Primetime Emmy Award for Outstanding Directing for a Drama Series">Outstanding Directorial Achievement in Drama</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Bruce_Bilson" title="Bruce Bilson">Bruce Bilson</a> for <i>Get Smart,</i> (Episode: "Maxwell Smart, Private Eye"), (NBC)</b>
+<ul>
+<li><a href="/wiki/Danny_Arnold" title="Danny Arnold">Danny Arnold</a> for <i>That Girl,</i> (Episode: "That Girl"), (ABC)</li>
+<li><a href="/wiki/James_Frawley" title="James Frawley">James Frawley</a> for <i><a href="/wiki/The_Monkees_(TV_series)" title="The Monkees (TV series)">The Monkees</a>,</i> (Episode: "The Devil And Peter Tork"), (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Paul_Bogart" title="Paul Bogart">Paul Bogart</a> for <i>CBS Playhouse,</i> (Episode: "Dear Friends"), (CBS)</b>
+<ul>
+<li><a href="/wiki/Lee_H._Katzin" title="Lee H. Katzin">Lee H. Katzin</a> for <i>Mission: Impossible,</i> (Episode: "The Killing"), (CBS)</li>
+<li><a href="/wiki/Alex_Segal" title="Alex Segal">Alex Segal</a> for <i>The Crucible,</i> (CBS)</li>
+<li><a href="/wiki/George_Schaefer_(director)" title="George Schaefer (director)">George Schaefer</a> for <i>CBS Playhouse,</i> (Episode: "Do Not Go Gentle Into That Good Night"), (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%">Outstanding Directorial Achievement in Music or Variety</th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Jack_Haley_Jr." title="Jack Haley Jr.">Jack Haley Jr.</a> for <i><a href="/wiki/Movin%27_with_Nancy" title="Movin' with Nancy">Movin' with Nancy</a>,</i> (NBC)</b>
+<ul>
+<li><a href="/wiki/Bill_Foster_(director)" title="Bill Foster (director)">Bill Foster</a> for <i>Rowan &amp; Martin's Laugh-In,</i> (Episode: "Pilot"), (NBC)</li>
+<li><a href="/wiki/Greg_Garrison" title="Greg Garrison">Greg Garrison</a> for <i>The Dean Martin Comedy Hour,</i> (NBC)</li>
+<li><a href="/wiki/Dwight_Hemion" title="Dwight Hemion">Dwight Hemion</a> for <i><a href="/wiki/Herb_Alpert_and_the_Tijuana_Brass" class="mw-redirect" title="Herb Alpert and the Tijuana Brass">Herb Alpert and the Tijuana Brass</a></i>, (CBS)</li>
+<li><a href="/wiki/Gordon_Wiles" title="Gordon Wiles">Gordon Wiles</a> for <i>Rowan &amp; Martin's Laugh-In,</i> (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Writing">Writing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=8" title="Edit section: Writing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Writing for a Comedy Series">Outstanding Writing Achievement in Comedy</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series" title="Primetime Emmy Award for Outstanding Writing for a Drama Series">Outstanding Writing Achievement in Drama</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Allan_Burns" title="Allan Burns">Allan Burns</a>, <a href="/wiki/Chris_Hayward" title="Chris Hayward">Chris Hayward</a> for <i>He &amp; She</i>, (Episode: "The Coming Out Party"), (CBS)</b>
+<ul>
+<li><a href="/wiki/Danny_Arnold" title="Danny Arnold">Danny Arnold</a>, <a href="/wiki/Ruth_Brooks_Flippen" title="Ruth Brooks Flippen">Ruth Brooks Flippen</a> for <i>That Girl</i>, (Episode: "The Mailman Cometh"), (ABC)</li>
+<li><a href="/wiki/Milt_Josefsberg" title="Milt Josefsberg">Milt Josefsberg</a>, <a href="/wiki/Ray_Singer" title="Ray Singer">Ray Singer</a> for <i>The Lucy Show</i>, (Episode: "Lucy Gets Jack Benny's Account"), (CBS)</li>
+<li><a href="/wiki/Leonard_B._Stern" title="Leonard B. Stern">Leonard Stern</a>, Arne Sultan for <i>He &amp; She</i>, (Episode: "The Old Man and the She"), (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Loring_Mandel" title="Loring Mandel">Loring Mandel</a> for <i>CBS Playhouse</i>, (Episode: "Do Not Go Gentle Into That Good Night"), (CBS)</b>
+<ul>
+<li>Allan Balter, <a href="/wiki/William_Read_Woodfield" class="mw-redirect" title="William Read Woodfield">William Read Woodfield</a>, for <i>Mission: Impossible</i>, (Episode: "The Seal"), (CBS)</li>
+<li><a href="/wiki/Don_Mankiewicz" title="Don Mankiewicz">Don Mankiewicz</a> for <i>Ironside</i>, (Episode: "World Premiere"), (NBC)</li>
+<li><a href="/wiki/Reginald_Rose" title="Reginald Rose">Reginald Rose</a> for <i>CBS Playhouse</i>, (Episode: "Dear Friends"), (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Variety,_Music_or_Comedy_Program" class="mw-redirect" title="Primetime Emmy Award for Outstanding Writing for a Variety, Music or Comedy Program">Outstanding Writing Achievement in Music or Variety</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><i>Rowan &amp; Martin's Laugh-In</i>, (NBC)</b>
+<ul>
+<li><i>The Carol Burnett Show</i>, (CBS)</li>
+<li><i>The Smothers Brothers Comedy Hour</i>, (CBS)</li>
+<li><i>Rowan &amp; Martin's Laugh-In,</i> (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Most_major_nominations">Most major nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=9" title="Edit section: Most major nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>By network <sup id="cite_ref-MW_Note_2-0" class="reference"><a href="#cite_note-MW_Note-2">[note 1]</a></sup></dt>
+</dl>
+<ul>
+<li>CBS – 43</li>
+<li>NBC – 30</li>
+<li>ABC – 20</li>
+</ul>
+<dl>
+<dt>By program</dt>
+</dl>
+<ul>
+<li><i>CBS Playhouse</i> (CBS) – 9</li>
+<li><i>Bewitched</i> (ABC) / <i>He &amp; She</i> (CBS) / <i>Mission: Impossible</i> (CBS) / <i>Rowan &amp; Martin's Laugh-In</i> (NBC) – 5</li>
+<li><i>Get Smart</i> (NBC) / <i>Ironside</i> (NBC) / <i>The Lucy Show</i> (CBS) – 4</li>
+</ul>
+<h2><span class="mw-headline" id="Most_major_awards">Most major awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=10" title="Edit section: Most major awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>By network <sup id="cite_ref-MW_Note_2-1" class="reference"><a href="#cite_note-MW_Note-2">[note 1]</a></sup></dt>
+</dl>
+<ul>
+<li>NBC – 10</li>
+<li>CBS – 9</li>
+<li>ABC – 3</li>
+</ul>
+<dl>
+<dt>By program</dt>
+</dl>
+<ul>
+<li><i>CBS Playhouse</i> (CBS) / <i>Get Smart</i> (NBC) – 3</li>
+<li><i>Mission: Impossible</i> (CBS) / <i>Rowan &amp; Martin's Laugh-In</i> (NBC) – 2</li>
+</ul>
+<dl>
+<dt>Notes</dt>
+</dl>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-MW_Note-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-MW_Note_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MW_Note_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"Major" constitutes the categories listed above: Program, Acting, Directing, and Writing. Does not include the <a href="/wiki/Creative_Arts_Emmy" class="mw-redirect" title="Creative Arts Emmy">technical categories.</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Winners.2FNominees-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Winners.2FNominees_1-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.imdb.com/event/ev0000223/1968">"1968 Primetime Emmy Awards"</a>. <i><a href="/wiki/IMDb" title="IMDb">IMDb</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A20th+Primetime+Emmy+Awards&amp;rft.atitle=1968+Primetime+Emmy+Awards&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Fevent%2Fev0000223%2F1968&amp;rft.jtitle=IMDb&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.emmys.com/awards/nominees-winners/1968">Emmys.com list of 1968 Nominees &amp; Winners</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/Sections/Awards/Emmy_Awards/1968/">1968 Emmy Awards</a> at the <a href="/wiki/IMDb" title="IMDb">Internet Movie Database</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Emmy_Awards" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #EEDD82">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Emmy_Awards" title="Template:Emmy Awards"><abbr title="View this template" style="background: #EEDD82;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Emmy_Awards" title="Template talk:Emmy Awards"><abbr title="Discuss this template" style="background: #EEDD82;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Emmy_Awards&amp;action=edit"><abbr title="Edit this template" style="background: #EEDD82;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Emmy_Awards" style="font-size:114%;margin:0 4em"><a href="/wiki/Emmy_Award" title="Emmy Award">Emmy Awards</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEDD82">
+<div>
+<ul>
+<li><a href="/wiki/Academy_of_Television_Arts_%26_Sciences" title="Academy of Television Arts &amp; Sciences">ATAS</a></li>
+<li><a href="/wiki/National_Academy_of_Television_Arts_and_Sciences" title="National Academy of Television Arts and Sciences">NATAS</a></li>
+<li><a href="/wiki/International_Academy_of_Television_Arts_and_Sciences" title="International Academy of Television Arts and Sciences">International TV Academy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/Primetime_Emmy_Award" title="Primetime Emmy Award">Primetime Emmy Award</a>
+<div class="hlist" style="font-weight:normal">
+<ul>
+<li>(<a href="/wiki/Template:Primetime_Emmy_Award_categories" title="Template:Primetime Emmy Award categories">categories</a></li>
+<li><a href="/wiki/List_of_Primetime_Emmy_Award_winners" title="List of Primetime Emmy Award winners">winners</a></li>
+<li><br />
+<a href="/wiki/List_of_television_programs_with_the_most_Primetime_Emmys_per_ceremony" title="List of television programs with the most Primetime Emmys per ceremony">most awards per ceremony</a>)</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_Primetime_Emmy_Awards_ceremonies" title="List of Primetime Emmy Awards ceremonies">Main ceremonies</a></div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1st_Primetime_Emmy_Awards" title="1st Primetime Emmy Awards">1949</a></li>
+<li><a href="/wiki/2nd_Primetime_Emmy_Awards" title="2nd Primetime Emmy Awards">1950</a></li>
+<li><a href="/wiki/3rd_Primetime_Emmy_Awards" title="3rd Primetime Emmy Awards">1951</a></li>
+<li><a href="/wiki/4th_Primetime_Emmy_Awards" title="4th Primetime Emmy Awards">1952</a></li>
+<li><a href="/wiki/5th_Primetime_Emmy_Awards" title="5th Primetime Emmy Awards">1953</a></li>
+<li><a href="/wiki/6th_Primetime_Emmy_Awards" title="6th Primetime Emmy Awards">1954</a></li>
+<li><a href="/wiki/7th_Primetime_Emmy_Awards" title="7th Primetime Emmy Awards">1955</a></li>
+<li><a href="/wiki/8th_Primetime_Emmy_Awards" title="8th Primetime Emmy Awards">1956</a></li>
+<li><a href="/wiki/9th_Primetime_Emmy_Awards" title="9th Primetime Emmy Awards">1957</a></li>
+<li><a href="/wiki/10th_Primetime_Emmy_Awards" title="10th Primetime Emmy Awards">1958</a></li>
+<li><a href="/wiki/11th_Primetime_Emmy_Awards" title="11th Primetime Emmy Awards">1959</a></li>
+<li><a href="/wiki/12th_Primetime_Emmy_Awards" title="12th Primetime Emmy Awards">1960</a></li>
+<li><a href="/wiki/13th_Primetime_Emmy_Awards" title="13th Primetime Emmy Awards">1961</a></li>
+<li><a href="/wiki/14th_Primetime_Emmy_Awards" title="14th Primetime Emmy Awards">1962</a></li>
+<li><a href="/wiki/15th_Primetime_Emmy_Awards" title="15th Primetime Emmy Awards">1963</a></li>
+<li><a href="/wiki/16th_Primetime_Emmy_Awards" title="16th Primetime Emmy Awards">1964</a></li>
+<li><a href="/wiki/17th_Primetime_Emmy_Awards" title="17th Primetime Emmy Awards">1965</a></li>
+<li><a href="/wiki/18th_Primetime_Emmy_Awards" title="18th Primetime Emmy Awards">1966</a></li>
+<li><a href="/wiki/19th_Primetime_Emmy_Awards" title="19th Primetime Emmy Awards">1967</a></li>
+<li><a class="mw-selflink selflink">1968</a></li>
+<li><a href="/wiki/21st_Primetime_Emmy_Awards" title="21st Primetime Emmy Awards">1969</a></li>
+<li><a href="/wiki/22nd_Primetime_Emmy_Awards" title="22nd Primetime Emmy Awards">1970</a></li>
+<li><a href="/wiki/23rd_Primetime_Emmy_Awards" title="23rd Primetime Emmy Awards">1971</a></li>
+<li><a href="/wiki/24th_Primetime_Emmy_Awards" title="24th Primetime Emmy Awards">1972</a></li>
+<li><a href="/wiki/25th_Primetime_Emmy_Awards" title="25th Primetime Emmy Awards">1973</a></li>
+<li><a href="/wiki/26th_Primetime_Emmy_Awards" title="26th Primetime Emmy Awards">1974</a></li>
+<li><a href="/wiki/27th_Primetime_Emmy_Awards" title="27th Primetime Emmy Awards">1975</a></li>
+<li><a href="/wiki/28th_Primetime_Emmy_Awards" title="28th Primetime Emmy Awards">1976</a></li>
+<li><a href="/wiki/29th_Primetime_Emmy_Awards" title="29th Primetime Emmy Awards">1977</a></li>
+<li><a href="/wiki/30th_Primetime_Emmy_Awards" title="30th Primetime Emmy Awards">1978</a></li>
+<li><a href="/wiki/31st_Primetime_Emmy_Awards" title="31st Primetime Emmy Awards">1979</a></li>
+<li><a href="/wiki/32nd_Primetime_Emmy_Awards" title="32nd Primetime Emmy Awards">1980</a></li>
+<li><a href="/wiki/33rd_Primetime_Emmy_Awards" title="33rd Primetime Emmy Awards">1981</a></li>
+<li><a href="/wiki/34th_Primetime_Emmy_Awards" title="34th Primetime Emmy Awards">1982</a></li>
+<li><a href="/wiki/35th_Primetime_Emmy_Awards" title="35th Primetime Emmy Awards">1983</a></li>
+<li><a href="/wiki/36th_Primetime_Emmy_Awards" title="36th Primetime Emmy Awards">1984</a></li>
+<li><a href="/wiki/37th_Primetime_Emmy_Awards" title="37th Primetime Emmy Awards">1985</a></li>
+<li><a href="/wiki/38th_Primetime_Emmy_Awards" title="38th Primetime Emmy Awards">1986</a></li>
+<li><a href="/wiki/39th_Primetime_Emmy_Awards" title="39th Primetime Emmy Awards">1987</a></li>
+<li><a href="/wiki/40th_Primetime_Emmy_Awards" title="40th Primetime Emmy Awards">1988</a></li>
+<li><a href="/wiki/41st_Primetime_Emmy_Awards" title="41st Primetime Emmy Awards">1989</a></li>
+<li><a href="/wiki/42nd_Primetime_Emmy_Awards" title="42nd Primetime Emmy Awards">1990</a></li>
+<li><a href="/wiki/43rd_Primetime_Emmy_Awards" title="43rd Primetime Emmy Awards">1991</a></li>
+<li><a href="/wiki/44th_Primetime_Emmy_Awards" title="44th Primetime Emmy Awards">1992</a></li>
+<li><a href="/wiki/45th_Primetime_Emmy_Awards" title="45th Primetime Emmy Awards">1993</a></li>
+<li><a href="/wiki/46th_Primetime_Emmy_Awards" title="46th Primetime Emmy Awards">1994</a></li>
+<li><a href="/wiki/47th_Primetime_Emmy_Awards" title="47th Primetime Emmy Awards">1995</a></li>
+<li><a href="/wiki/48th_Primetime_Emmy_Awards" title="48th Primetime Emmy Awards">1996</a></li>
+<li><a href="/wiki/49th_Primetime_Emmy_Awards" title="49th Primetime Emmy Awards">1997</a></li>
+<li><a href="/wiki/50th_Primetime_Emmy_Awards" title="50th Primetime Emmy Awards">1998</a></li>
+<li><a href="/wiki/51st_Primetime_Emmy_Awards" title="51st Primetime Emmy Awards">1999</a></li>
+<li><a href="/wiki/52nd_Primetime_Emmy_Awards" title="52nd Primetime Emmy Awards">2000</a></li>
+<li><a href="/wiki/53rd_Primetime_Emmy_Awards" title="53rd Primetime Emmy Awards">2001</a></li>
+<li><a href="/wiki/54th_Primetime_Emmy_Awards" title="54th Primetime Emmy Awards">2002</a></li>
+<li><a href="/wiki/55th_Primetime_Emmy_Awards" title="55th Primetime Emmy Awards">2003</a></li>
+<li><a href="/wiki/56th_Primetime_Emmy_Awards" title="56th Primetime Emmy Awards">2004</a></li>
+<li><a href="/wiki/57th_Primetime_Emmy_Awards" title="57th Primetime Emmy Awards">2005</a></li>
+<li><a href="/wiki/58th_Primetime_Emmy_Awards" title="58th Primetime Emmy Awards">2006</a></li>
+<li><a href="/wiki/59th_Primetime_Emmy_Awards" title="59th Primetime Emmy Awards">2007</a></li>
+<li><a href="/wiki/60th_Primetime_Emmy_Awards" title="60th Primetime Emmy Awards">2008</a></li>
+<li><a href="/wiki/61st_Primetime_Emmy_Awards" title="61st Primetime Emmy Awards">2009</a></li>
+<li><a href="/wiki/62nd_Primetime_Emmy_Awards" title="62nd Primetime Emmy Awards">2010</a></li>
+<li><a href="/wiki/63rd_Primetime_Emmy_Awards" title="63rd Primetime Emmy Awards">2011</a></li>
+<li><a href="/wiki/64th_Primetime_Emmy_Awards" title="64th Primetime Emmy Awards">2012</a></li>
+<li><a href="/wiki/65th_Primetime_Emmy_Awards" title="65th Primetime Emmy Awards">2013</a></li>
+<li><a href="/wiki/66th_Primetime_Emmy_Awards" title="66th Primetime Emmy Awards">2014</a></li>
+<li><a href="/wiki/67th_Primetime_Emmy_Awards" title="67th Primetime Emmy Awards">2015</a></li>
+<li><a href="/wiki/68th_Primetime_Emmy_Awards" title="68th Primetime Emmy Awards">2016</a></li>
+<li><a href="/wiki/69th_Primetime_Emmy_Awards" title="69th Primetime Emmy Awards">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Creative_Arts_Emmy_Award" title="Creative Arts Emmy Award">Creative Arts</a></div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/59th_Primetime_Creative_Arts_Emmy_Awards" title="59th Primetime Creative Arts Emmy Awards">2007</a></li>
+<li><a href="/wiki/63rd_Primetime_Creative_Arts_Emmy_Awards" title="63rd Primetime Creative Arts Emmy Awards">2011</a></li>
+<li><a href="/wiki/64th_Primetime_Creative_Arts_Emmy_Awards" title="64th Primetime Creative Arts Emmy Awards">2012</a></li>
+<li><a href="/wiki/65th_Primetime_Creative_Arts_Emmy_Awards" title="65th Primetime Creative Arts Emmy Awards">2013</a></li>
+<li><a href="/wiki/66th_Primetime_Creative_Arts_Emmy_Awards" title="66th Primetime Creative Arts Emmy Awards">2014</a></li>
+<li><a href="/wiki/67th_Primetime_Creative_Arts_Emmy_Awards" title="67th Primetime Creative Arts Emmy Awards">2015</a></li>
+<li><a href="/wiki/68th_Primetime_Creative_Arts_Emmy_Awards" title="68th Primetime Creative Arts Emmy Awards">2016</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/Daytime_Emmy_Award" title="Daytime Emmy Award">Daytime Emmy Award</a>
+<div class="hlist" style="font-weight:normal">
+<ul>
+<li>(<a href="/wiki/Template:Daytime_Emmy_Award_categories" title="Template:Daytime Emmy Award categories">categories</a></li>
+<li><a href="/wiki/List_of_Daytime_Emmy_Award_winners" title="List of Daytime Emmy Award winners">winners</a>)</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Main ceremonies</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1st_Daytime_Emmy_Awards" title="1st Daytime Emmy Awards">1974</a></li>
+<li><a href="/wiki/2nd_Daytime_Emmy_Awards" title="2nd Daytime Emmy Awards">1975</a></li>
+<li><a href="/wiki/3rd_Daytime_Emmy_Awards" title="3rd Daytime Emmy Awards">1976</a></li>
+<li><a href="/wiki/4th_Daytime_Emmy_Awards" title="4th Daytime Emmy Awards">1977</a></li>
+<li><a href="/wiki/5th_Daytime_Emmy_Awards" title="5th Daytime Emmy Awards">1978</a></li>
+<li><a href="/wiki/6th_Daytime_Emmy_Awards" title="6th Daytime Emmy Awards">1979</a></li>
+<li><a href="/wiki/7th_Daytime_Emmy_Awards" title="7th Daytime Emmy Awards">1980</a></li>
+<li><a href="/wiki/8th_Daytime_Emmy_Awards" title="8th Daytime Emmy Awards">1981</a></li>
+<li><a href="/wiki/9th_Daytime_Emmy_Awards" title="9th Daytime Emmy Awards">1982</a></li>
+<li><a href="/wiki/10th_Daytime_Emmy_Awards" title="10th Daytime Emmy Awards">1983</a></li>
+<li><a href="/wiki/11th_Daytime_Emmy_Awards" title="11th Daytime Emmy Awards">1984</a></li>
+<li><a href="/wiki/12th_Daytime_Emmy_Awards" title="12th Daytime Emmy Awards">1985</a></li>
+<li><a href="/wiki/13th_Daytime_Emmy_Awards" title="13th Daytime Emmy Awards">1986</a></li>
+<li><a href="/wiki/14th_Daytime_Emmy_Awards" title="14th Daytime Emmy Awards">1987</a></li>
+<li><a href="/wiki/15th_Daytime_Emmy_Awards" title="15th Daytime Emmy Awards">1988</a></li>
+<li><a href="/wiki/16th_Daytime_Emmy_Awards" title="16th Daytime Emmy Awards">1989</a></li>
+<li><a href="/wiki/17th_Daytime_Emmy_Awards" title="17th Daytime Emmy Awards">1990</a></li>
+<li><a href="/wiki/18th_Daytime_Emmy_Awards" title="18th Daytime Emmy Awards">1991</a></li>
+<li><a href="/wiki/19th_Daytime_Emmy_Awards" title="19th Daytime Emmy Awards">1992</a></li>
+<li><a href="/wiki/20th_Daytime_Emmy_Awards" title="20th Daytime Emmy Awards">1993</a></li>
+<li><a href="/wiki/21st_Daytime_Emmy_Awards" title="21st Daytime Emmy Awards">1994</a></li>
+<li><a href="/wiki/22nd_Daytime_Emmy_Awards" title="22nd Daytime Emmy Awards">1995</a></li>
+<li><a href="/wiki/23rd_Daytime_Emmy_Awards" title="23rd Daytime Emmy Awards">1996</a></li>
+<li><a href="/wiki/24th_Daytime_Emmy_Awards" title="24th Daytime Emmy Awards">1997</a></li>
+<li><a href="/wiki/25th_Daytime_Emmy_Awards" title="25th Daytime Emmy Awards">1998</a></li>
+<li><a href="/wiki/26th_Daytime_Emmy_Awards" title="26th Daytime Emmy Awards">1999</a></li>
+<li><a href="/wiki/27th_Daytime_Emmy_Awards" title="27th Daytime Emmy Awards">2000</a></li>
+<li><a href="/wiki/28th_Daytime_Emmy_Awards" title="28th Daytime Emmy Awards">2001</a></li>
+<li><a href="/wiki/29th_Daytime_Emmy_Awards" title="29th Daytime Emmy Awards">2002</a></li>
+<li><a href="/wiki/30th_Daytime_Emmy_Awards" title="30th Daytime Emmy Awards">2003</a></li>
+<li><a href="/wiki/31st_Daytime_Emmy_Awards" title="31st Daytime Emmy Awards">2004</a></li>
+<li><a href="/wiki/32nd_Daytime_Emmy_Awards" title="32nd Daytime Emmy Awards">2005</a></li>
+<li><a href="/wiki/33rd_Daytime_Emmy_Awards" title="33rd Daytime Emmy Awards">2006</a></li>
+<li><a href="/wiki/34th_Daytime_Emmy_Awards" title="34th Daytime Emmy Awards">2007</a></li>
+<li><a href="/wiki/35th_Daytime_Emmy_Awards" title="35th Daytime Emmy Awards">2008</a></li>
+<li><a href="/wiki/36th_Daytime_Emmy_Awards" title="36th Daytime Emmy Awards">2009</a></li>
+<li><a href="/wiki/37th_Daytime_Emmy_Awards" title="37th Daytime Emmy Awards">2010</a></li>
+<li><a href="/wiki/38th_Daytime_Emmy_Awards" title="38th Daytime Emmy Awards">2011</a></li>
+<li><a href="/wiki/39th_Daytime_Emmy_Awards" title="39th Daytime Emmy Awards">2012</a></li>
+<li><a href="/wiki/40th_Daytime_Emmy_Awards" title="40th Daytime Emmy Awards">2013</a></li>
+<li><a href="/wiki/41st_Daytime_Emmy_Awards" title="41st Daytime Emmy Awards">2014</a></li>
+<li><a href="/wiki/42nd_Daytime_Emmy_Awards" title="42nd Daytime Emmy Awards">2015</a></li>
+<li><a href="/wiki/43rd_Daytime_Emmy_Awards" title="43rd Daytime Emmy Awards">2016</a></li>
+<li><a href="/wiki/44th_Daytime_Emmy_Awards" title="44th Daytime Emmy Awards">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Creative Arts</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/39th_Daytime_Creative_Arts_Emmy_Awards" title="39th Daytime Creative Arts Emmy Awards">2012</a></li>
+<li><a href="/wiki/40th_Daytime_Creative_Arts_Emmy_Awards" title="40th Daytime Creative Arts Emmy Awards">2013</a></li>
+<li><a href="/wiki/41st_Daytime_Creative_Arts_Emmy_Awards" title="41st Daytime Creative Arts Emmy Awards">2014</a></li>
+<li><a href="/wiki/42nd_Daytime_Creative_Arts_Emmy_Awards" title="42nd Daytime Creative Arts Emmy Awards">2015</a></li>
+<li><a href="/wiki/43rd_Daytime_Creative_Arts_Emmy_Awards" title="43rd Daytime Creative Arts Emmy Awards">2016</a></li>
+<li><a href="/wiki/44th_Daytime_Creative_Arts_Emmy_Awards" title="44th Daytime Creative Arts Emmy Awards">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/International_Emmy_Award" title="International Emmy Award">International</a>
+<div class="hlist" style="font-weight:normal">
+<ul>
+<li>(<a href="/wiki/Template:International_Emmy_Award_categories" title="Template:International Emmy Award categories">categories</a></li>
+<li><a href="/wiki/List_of_International_Emmy_Award_winners" title="List of International Emmy Award winners">winners</a>)</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1st_International_Emmy_Awards" title="1st International Emmy Awards">1973</a></li>
+<li><a href="/wiki/2nd_International_Emmy_Awards" title="2nd International Emmy Awards">1974</a></li>
+<li><a href="/wiki/3rd_International_Emmy_Awards" title="3rd International Emmy Awards">1975</a></li>
+<li><a href="/wiki/4th_International_Emmy_Awards" title="4th International Emmy Awards">1976</a></li>
+<li><a href="/wiki/5th_International_Emmy_Awards" title="5th International Emmy Awards">1977</a></li>
+<li><a href="/wiki/7th_International_Emmy_Awards" title="7th International Emmy Awards">1979</a></li>
+<li><a href="/wiki/8th_International_Emmy_Awards" title="8th International Emmy Awards">1980</a></li>
+<li><a href="/wiki/9th_International_Emmy_Awards" title="9th International Emmy Awards">1981</a></li>
+<li><a href="/wiki/10th_International_Emmy_Awards" title="10th International Emmy Awards">1982</a></li>
+<li><a href="/wiki/11th_International_Emmy_Awards" title="11th International Emmy Awards">1983</a></li>
+<li><a href="/wiki/12th_International_Emmy_Awards" title="12th International Emmy Awards">1984</a></li>
+<li><a href="/wiki/13th_International_Emmy_Awards" title="13th International Emmy Awards">1985</a></li>
+<li><a href="/wiki/14th_International_Emmy_Awards" title="14th International Emmy Awards">1986</a></li>
+<li><a href="/wiki/15th_International_Emmy_Awards" title="15th International Emmy Awards">1987</a></li>
+<li><a href="/wiki/16th_International_Emmy_Awards" title="16th International Emmy Awards">1988</a></li>
+<li><a href="/wiki/17th_International_Emmy_Awards" title="17th International Emmy Awards">1989</a></li>
+<li><a href="/wiki/18th_International_Emmy_Awards" title="18th International Emmy Awards">1990</a></li>
+<li><a href="/wiki/19th_International_Emmy_Awards" title="19th International Emmy Awards">1991</a></li>
+<li><a href="/wiki/20th_International_Emmy_Awards" title="20th International Emmy Awards">1992</a></li>
+<li><a href="/wiki/21st_International_Emmy_Awards" title="21st International Emmy Awards">1993</a></li>
+<li><a href="/wiki/22nd_International_Emmy_Awards" title="22nd International Emmy Awards">1994</a></li>
+<li><a href="/wiki/23rd_International_Emmy_Awards" title="23rd International Emmy Awards">1995</a></li>
+<li><a href="/wiki/24th_International_Emmy_Awards" title="24th International Emmy Awards">1996</a></li>
+<li><a href="/wiki/25th_International_Emmy_Awards" title="25th International Emmy Awards">1997</a></li>
+<li><a href="/wiki/26th_International_Emmy_Awards" title="26th International Emmy Awards">1998</a></li>
+<li><a href="/wiki/27th_International_Emmy_Awards" title="27th International Emmy Awards">1999</a></li>
+<li><a href="/wiki/28th_International_Emmy_Awards" title="28th International Emmy Awards">2000</a></li>
+<li><a href="/wiki/29th_International_Emmy_Awards" title="29th International Emmy Awards">2001</a></li>
+<li><a href="/wiki/30th_International_Emmy_Awards" title="30th International Emmy Awards">2002</a></li>
+<li><a href="/wiki/31st_International_Emmy_Awards" title="31st International Emmy Awards">2003</a></li>
+<li><a href="/wiki/32nd_International_Emmy_Awards" title="32nd International Emmy Awards">2004</a></li>
+<li><a href="/wiki/33rd_International_Emmy_Awards" title="33rd International Emmy Awards">2005</a></li>
+<li><a href="/wiki/34th_International_Emmy_Awards" title="34th International Emmy Awards">2006</a></li>
+<li><a href="/wiki/35th_International_Emmy_Awards" title="35th International Emmy Awards">2007</a></li>
+<li><a href="/wiki/36th_International_Emmy_Awards" title="36th International Emmy Awards">2008</a></li>
+<li><a href="/wiki/37th_International_Emmy_Awards" title="37th International Emmy Awards">2009</a></li>
+<li><a href="/wiki/38th_International_Emmy_Awards" title="38th International Emmy Awards">2010</a></li>
+<li><a href="/wiki/39th_International_Emmy_Awards" title="39th International Emmy Awards">2011</a></li>
+<li><a href="/wiki/40th_International_Emmy_Awards" title="40th International Emmy Awards">2012</a></li>
+<li><a href="/wiki/41st_International_Emmy_Awards" title="41st International Emmy Awards">2013</a></li>
+<li><a href="/wiki/42nd_International_Emmy_Awards" title="42nd International Emmy Awards">2014</a></li>
+<li><a href="/wiki/43rd_International_Emmy_Awards" title="43rd International Emmy Awards">2015</a></li>
+<li><a href="/wiki/44th_International_Emmy_Awards" title="44th International Emmy Awards">2016</a></li>
+<li><a href="/wiki/45th_International_Emmy_Awards" title="45th International Emmy Awards">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/Sports_Emmy_Award" title="Sports Emmy Award">Sports</a>
+<div class="hlist" style="font-weight:normal">
+<ul>
+<li>(<a href="/wiki/Template:Sports_Emmy_Award_categories" title="Template:Sports Emmy Award categories">categories</a>)</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/26th_Sports_Emmy_Awards" title="26th Sports Emmy Awards">2005</a></li>
+<li><a href="/wiki/27th_Sports_Emmy_Awards" title="27th Sports Emmy Awards">2006</a></li>
+<li><a href="/wiki/28th_Sports_Emmy_Awards" title="28th Sports Emmy Awards">2007</a></li>
+<li><a href="/wiki/29th_Sports_Emmy_Awards" title="29th Sports Emmy Awards">2008</a></li>
+<li><a href="/wiki/30th_Sports_Emmy_Awards" title="30th Sports Emmy Awards">2009</a></li>
+<li><a href="/wiki/31st_Sports_Emmy_Awards" title="31st Sports Emmy Awards">2010</a></li>
+<li><a href="/wiki/32nd_Sports_Emmy_Awards" title="32nd Sports Emmy Awards">2011</a></li>
+<li><a href="/wiki/33rd_Sports_Emmy_Awards" title="33rd Sports Emmy Awards">2012</a></li>
+<li><a href="/wiki/34th_Sports_Emmy_Awards" title="34th Sports Emmy Awards">2013</a></li>
+<li><a href="/wiki/35th_Sports_Emmy_Awards" title="35th Sports Emmy Awards">2014</a></li>
+<li><a href="/wiki/36th_Sports_Emmy_Awards" title="36th Sports Emmy Awards">2015</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/Technology_%26_Engineering_Emmy_Award" title="Technology &amp; Engineering Emmy Award">Technology &amp; Engineering</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/57th_Technology_%26_Engineering_Emmy_Awards" title="57th Technology &amp; Engineering Emmy Awards">2006</a></li>
+<li><a href="/wiki/58th_Technology_%26_Engineering_Emmy_Awards" title="58th Technology &amp; Engineering Emmy Awards">2007</a></li>
+<li><a href="/wiki/59th_Technology_%26_Engineering_Emmy_Awards" title="59th Technology &amp; Engineering Emmy Awards">2008</a></li>
+<li><a href="/wiki/60th_Technology_%26_Engineering_Emmy_Awards" title="60th Technology &amp; Engineering Emmy Awards">2009</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/News_%26_Documentary_Emmy_Award" title="News &amp; Documentary Emmy Award">News &amp; Documentary</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/31st_News_%26_Documentary_Emmy_Awards" title="31st News &amp; Documentary Emmy Awards">2010</a></li>
+<li><a href="/wiki/32nd_News_%26_Documentary_Emmy_Awards" title="32nd News &amp; Documentary Emmy Awards">2011</a></li>
+<li><a href="/wiki/33rd_News_%26_Documentary_Emmy_Awards" title="33rd News &amp; Documentary Emmy Awards">2012</a></li>
+<li><a href="/wiki/34th_News_%26_Documentary_Emmy_Awards" title="34th News &amp; Documentary Emmy Awards">2013</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left">Regional</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chicago_/_Midwest_Emmy_Awards" title="Chicago / Midwest Emmy Awards">Chicago&#160;/ Midwest</a></li>
+<li><a href="/wiki/Heartland_Emmy_Awards" title="Heartland Emmy Awards">Heartlands</a></li>
+<li><a href="/wiki/Lone_Star_Emmy_Awards" title="Lone Star Emmy Awards">Lone Star</a></li>
+<li><a href="/wiki/Los_Angeles_Emmy_Award" title="Los Angeles Emmy Award">Los Angeles</a></li>
+<li><a href="/wiki/Lower_Great_Lakes_Emmy_Awards" title="Lower Great Lakes Emmy Awards">Lower Great Lakes</a></li>
+<li><a href="/wiki/Michigan_Emmy_Awards" title="Michigan Emmy Awards">Michigan</a></li>
+<li><a href="/wiki/Mid-America_Emmy_Awards" title="Mid-America Emmy Awards">Mid-America</a></li>
+<li><a href="/wiki/Mid-Atlantic_Emmy_Awards" title="Mid-Atlantic Emmy Awards">Mid-Atlantic</a></li>
+<li><a href="/wiki/Midsouth_Emmy_Awards" title="Midsouth Emmy Awards">Midsouth</a></li>
+<li><a href="/wiki/National_Capital_/_Chesapeake_Bay_Emmy_Awards" title="National Capital / Chesapeake Bay Emmy Awards">National Capital&#160;/ Chesapeake Bay</a></li>
+<li><a href="/wiki/New_England_Emmy_Awards" title="New England Emmy Awards">New England</a></li>
+<li><a href="/wiki/New_York_Emmy_Awards" title="New York Emmy Awards">New York</a></li>
+<li><a href="/wiki/Northwest_Emmy_Awards" title="Northwest Emmy Awards">Northwest</a></li>
+<li><a href="/wiki/Ohio_Valley_Emmy_Awards" title="Ohio Valley Emmy Awards">Ohio Valley</a></li>
+<li><a href="/wiki/Pacific_Southwest_Chapter_of_the_National_Television_Academy" title="Pacific Southwest Chapter of the National Television Academy">Pacific Southwest</a></li>
+<li><a href="/wiki/Rocky_Mountain_Emmy_Awards" title="Rocky Mountain Emmy Awards">Rocky Mountain&#160;/ Southwest</a></li>
+<li><a href="/wiki/San_Francisco_/_Northern_California_Emmy_Awards" title="San Francisco / Northern California Emmy Awards">San Francisco&#160;/ Northern California</a></li>
+<li><a href="/wiki/Southeast_Emmy_Awards" title="Southeast Emmy Awards">Atlanta&#160;/ Southeast</a></li>
+<li><a href="/wiki/Suncoast_Chapter" title="Suncoast Chapter">Suncoast</a></li>
+<li><a href="/wiki/Upper_Midwest_Emmy_Awards" title="Upper Midwest Emmy Awards">Upper Midwest</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEDD82">
+<div>
+<ul>
+<li><b><a href="/wiki/Bob_Hope_Humanitarian_Award" title="Bob Hope Humanitarian Award">Bob Hope Humanitarian Award</a></b></li>
+<li><b><a href="/wiki/List_of_people_who_have_won_Academy,_Emmy,_Grammy,_and_Tony_Awards" title="List of people who have won Academy, Emmy, Grammy, and Tony Awards">EGOT winners</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20170411082404
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.217 seconds
+Preprocessor visited node count: 1602/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74587/2097152 bytes
+Template argument size: 5911/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 2.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  148.562      1 -total
+ 54.31%   80.688      1 Template:Infobox_award
+ 48.65%   72.278      1 Template:Infobox
+ 26.86%   39.905      3 Template:Navbox
+ 22.71%   33.732      1 Template:EmmyAwardsbyYear
+ 20.66%   30.690      2 Template:Reflist
+ 17.45%   25.919      1 Template:Cite_news
+ 10.51%   15.617      1 Template:Ifempty
+  9.17%   13.620      2 Template:Navbox_subgroup
+  5.80%    8.623      4 Template:Hlist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24249576-0!*!0!!en!*!* and timestamp 20170411082403 and revision id 722225906
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=20th_Primetime_Emmy_Awards&amp;oldid=722225906">https://en.wikipedia.org/w/index.php?title=20th_Primetime_Emmy_Awards&amp;oldid=722225906</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Primetime_Emmy_Award_ceremonies" title="Category:Primetime Emmy Award ceremonies">Primetime Emmy Award ceremonies</a></li><li><a href="/wiki/Category:1968_television_awards" title="Category:1968 television awards">1968 television awards</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=20th+Primetime+Emmy+Awards" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=20th+Primetime+Emmy+Awards" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/20th_Primetime_Emmy_Awards"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:20th_Primetime_Emmy_Awards"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/20th_Primetime_Emmy_Awards" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/20th_Primetime_Emmy_Awards" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/20th_Primetime_Emmy_Awards" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;oldid=722225906" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1647480" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=20th_Primetime_Emmy_Awards&amp;id=722225906" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=20th+Primetime+Emmy+Awards">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=20th+Primetime+Emmy+Awards&amp;returnto=20th+Primetime+Emmy+Awards&amp;oldid=722225906&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=20th_Primetime_Emmy_Awards&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/T%C4%93-20_H%C3%B4e_N%CC%82g-kim-s%C3%AE-t%C5%8Da%E2%81%BF_Emmy_Chi%C3%B3ng" title="Tē-20 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Primetime-Emmy-Verleihung_1968" title="Primetime-Emmy-Verleihung 1968 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:Premios_Primetime_Emmy_de_1968" title="Anexo:Premios Primetime Emmy de 1968 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Premi_Emmy_1968" title="Premi Emmy 1968 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/20e_Primetime_Emmy_Awards" title="20e Primetime Emmy Awards – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1647480#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 May 2016, at 18:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=20th_Primetime_Emmy_Awards&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.217","ppvisitednodes":{"value":1602,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74587,"limit":2097152},"templateargumentsize":{"value":5911,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  148.562      1 -total"," 54.31%   80.688      1 Template:Infobox_award"," 48.65%   72.278      1 Template:Infobox"," 26.86%   39.905      3 Template:Navbox"," 22.71%   33.732      1 Template:EmmyAwardsbyYear"," 20.66%   30.690      2 Template:Reflist"," 17.45%   25.919      1 Template:Cite_news"," 10.51%   15.617      1 Template:Ifempty","  9.17%   13.620      2 Template:Navbox_subgroup","  5.80%    8.623      4 Template:Hlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":2754947,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20170411082404","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1245"});});</script>
+	</body>
+</html>

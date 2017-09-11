@@ -1,0 +1,2419 @@
+https://en.wikipedia.org/wiki/Archduke_Joseph_August_of_Austria
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Archduke Joseph August of Austria - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Archduke_Joseph_August_of_Austria","wgTitle":"Archduke Joseph August of Austria","wgCurRevisionId":775540208,"wgRevisionId":775540208,"wgArticleId":547863,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles to be expanded from November 2012","All articles to be expanded","Articles needing translation from Hungarian Wikipedia","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","19th-century Austrian people","20th-century Austrian people","19th-century Hungarian people","20th-century Hungarian people","House of Habsburg-Lorraine","Field marshals of Austria","Austro-Hungarian Army officers","Austro-Hungarian military personnel of World War I","Hungarian-German people","Austrian expatriates in Hungary","Austrian people of Hungarian descent","People from Fejér County","Recipients of the Order of the Black Eagle","Recipients of the Order of the Red Eagle","Recipients of the Pour le Mérite (military class)","Knights of the Golden Fleece","1872 births","1962 deaths","Regents","Austrian princes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Archduke_Joseph_August_of_Austria","wgRelevantArticleId":547863,"wgRequestId":"WPI4bgpAEKoAAGDdzLUAAAAG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q78535","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c7/Joseph_August_Austria_1872_1962_in1916.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Archduke_Joseph_August_of_Austria"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Archduke_Joseph_August_of_Austria"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Archduke_Joseph_August_of_Austria rootpage-Archduke_Joseph_August_of_Austria skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Archduke Joseph August of Austria</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="plainlinks metadata ambox ambox-notice" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/75px-Translation_to_english_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/100px-Translation_to_english_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></div>
+</td>
+<td class="mbox-text">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:center;padding-right: 3em; font-weight: normal; text-align: left"><span class="mbox-text-span">This article <b>may be expanded with text translated from the <a href="https://hu.wikipedia.org/wiki/Habsburg_J%C3%B3zsef_magyar_korm%C3%A1nyz%C3%B3" class="extiw" title="hu:Habsburg József magyar kormányzó">corresponding article</a> in Hungarian</b>.  <i><small>(November 2012)</small></i> <small>Click [show] for important translation instructions.</small>&#160;</span></div>
+<div class="NavContent" style="background:transparent;text-align:left;">
+<ul>
+<li><span class="mbox-text-span"><a rel="nofollow" class="external text" href="https://translate.google.com/translate?&amp;u=https%3A%2F%2Fhu.wikipedia.org%2Fwiki%2FHabsburg+J%C3%B3zsef+magyar+korm%C3%A1nyz%C3%B3&amp;sl=hu&amp;tl=en&amp;prev=_t&amp;hl=en">View</a> a machine-translated version of the Hungarian article.</span></li>
+<li><span class="mbox-text-span">Google's machine translation is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</span></li>
+<li><span class="mbox-text-span">Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</span></li>
+<li><span class="mbox-text-span">After translating, <code>{{Translated|hu|Habsburg József magyar kormányzó}}</code> must be added to the <a href="/wiki/Talk:Archduke_Joseph_August_of_Austria" title="Talk:Archduke Joseph August of Austria">talk page</a> to ensure <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright compliance</a>.</span></li>
+<li><span class="mbox-text-span">For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 130%;"><span class="fn">Archduke Joseph August of Austria</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Joseph_August_Austria_1872_1962_in1916.jpg" class="image"><img alt="Joseph August Austria 1872 1962 in1916.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Joseph_August_Austria_1872_1962_in1916.jpg/220px-Joseph_August_Austria_1872_1962_in1916.jpg" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/c/c7/Joseph_August_Austria_1872_1962_in1916.jpg 1.5x" data-file-width="300" data-file-height="399" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender">Regent of Hungary</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />
+7 August 1919&#160;– 23 August 1919</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+<td><a href="/wiki/Gyula_Peidl" title="Gyula Peidl">Gyula Peidl</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+<td><a href="/wiki/Istv%C3%A1n_Friedrich" title="István Friedrich">István Friedrich</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender">Personal details</th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1872-08-09</span>)</span>9 August 1872<br />
+<a href="/wiki/Alcs%C3%BAtdoboz" title="Alcsútdoboz">Alcsút</a>, <a href="/wiki/Kingdom_of_Hungary" title="Kingdom of Hungary">Kingdom of Hungary</a>, <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>6 July 1962<span style="display:none">(<span class="dday deathdate">1962-07-06</span>)</span> (aged&#160;89)<br />
+<a href="/wiki/Rain,_Lower_Bavaria" title="Rain, Lower Bavaria">Rain</a>, <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/West_Germany" title="West Germany">West Germany</a></td>
+</tr>
+<tr>
+<th scope="row">Spouse(s)</th>
+<td><a href="/wiki/Princess_Auguste_of_Bavaria_(1875%E2%80%931964)" title="Princess Auguste of Bavaria (1875–1964)">Princess Auguste of Bavaria</a></td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td><a href="/wiki/Archduke_Joseph_Francis_of_Austria" title="Archduke Joseph Francis of Austria">Archduke Joseph Francis</a><br />
+Archduchess Gisela Auguste<br />
+Archduchess Sophie Klementine<br />
+Archduke Ladislaus Luitpold<br />
+Archduke Matthias Joseph<br />
+Archduchess Magdalena Maria</td>
+</tr>
+</table>
+<p><b>Archduke Joseph August Viktor Klemens Maria of Austria, Prince of Hungary and Bohemia</b> (9 August 1872 – 6 July 1962) was for a short period <a href="/wiki/List_of_heads_of_state_of_Hungary" title="List of heads of state of Hungary">head of state</a> of <a href="/wiki/Hungary" title="Hungary">Hungary</a>. He was a member of the <a href="/wiki/House_of_Habsburg-Lorraine" class="mw-redirect" title="House of Habsburg-Lorraine">House of Habsburg-Lorraine</a>, the eldest son of <a href="/wiki/Archduke_Joseph_Karl_of_Austria" title="Archduke Joseph Karl of Austria">Archduke Joseph Karl of Austria</a> (1833–1905) and his wife Princess Clotilde of <a href="/wiki/Saxe-Coburg-Gotha" class="mw-redirect" title="Saxe-Coburg-Gotha">Saxe-Coburg-Gotha</a> (1846–1927). Joseph August's grandfather had been <a href="/wiki/Palatine_Joseph_of_Hungary" class="mw-redirect" title="Palatine Joseph of Hungary">Palatine Joseph of Hungary</a> (1776–1847), Palatine and Viceroy of Hungary, a younger son of <a href="/wiki/Emperor_Leopold_II" class="mw-redirect" title="Emperor Leopold II">Emperor Leopold II</a>.</p>
+<p>The <a href="/wiki/Archduke_Joseph_(diamond)" title="Archduke Joseph (diamond)">Archduke Joseph Diamond</a>, a 76.02 carat colourless diamond with internal flawless clarity, is named after the Archduke and officially recorded as his property.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#World_War_I"><span class="tocnumber">2</span> <span class="toctext">World War I</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Post_war"><span class="tocnumber">3</span> <span class="toctext">Post war</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ancestry"><span class="tocnumber">4</span> <span class="toctext">Ancestry</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was born at <a href="/wiki/Alcs%C3%BAtdoboz" title="Alcsútdoboz">Alcsút</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a>. On 15 November 1893, in <a href="/wiki/Munich" title="Munich">Munich</a>, he married <a href="/wiki/Princess_Auguste_Maria_of_Bavaria" class="mw-redirect" title="Princess Auguste Maria of Bavaria">Princess Augusta Maria Louise of Bavaria</a> (1875–1964), daughter of <a href="/wiki/Prince_Leopold_of_Bavaria" title="Prince Leopold of Bavaria">Prince Leopold of Bavaria</a> (1846–1930) and his wife <a href="/wiki/Archduchess_Gisela_of_Austria" title="Archduchess Gisela of Austria">Archduchess Gisela of Austria</a> (1856–1932).</p>
+<p>Archduke Joseph August became thus from 1893 "grandson-in-law" to <a href="/wiki/Emperor_Francis_Joseph" class="mw-redirect" title="Emperor Francis Joseph">Emperor Francis Joseph</a>. His wife's mother Archduchess Gisela was the eldest surviving daughter of Austrian Emperor <a href="/wiki/Franz_Joseph_I_of_Austria" title="Franz Joseph I of Austria">Francis Joseph</a> and <a href="/wiki/Elisabeth_of_Bavaria" class="mw-redirect" title="Elisabeth of Bavaria">Empress Elisabeth ("Sisi")</a>. The young couple's children, were born in their great-grandfather's lifetime. They have six children:</p>
+<ul>
+<li><a href="/wiki/Archduke_Joseph_Francis_of_Austria" title="Archduke Joseph Francis of Austria">Archduke Joseph Francis</a> (1895–1957)</li>
+<li>Archduchess Gisela Auguste (1897–1901)</li>
+<li>Archduchess Sophie Klementine (1899–1978)</li>
+<li>Archduke Ladislaus Luitpold (1901–1946)</li>
+<li>Archduke Matthias Joseph (1904–1905)</li>
+<li>Archduchess Magdalena Maria (1909–2000)</li>
+</ul>
+<p>Joseph August began his military career in 1890 when he was commissioned into the 1st Infantry Regiment as a <a href="/wiki/Leutnant" title="Leutnant">Leutnant</a>. He was soon promoted to <a href="/wiki/Oberleutnant" title="Oberleutnant">Oberleutnant</a> and was transferred to 72nd Infantry Regiment in 1893. He was transferred to <a href="/wiki/Dragoon" title="Dragoon">Dragoon</a> Regiment #6 in 1894 and then transferred to the 1st <a href="/wiki/Royal_Hungarian_Landwehr" class="mw-redirect" title="Royal Hungarian Landwehr">Honvéd</a> <a href="/wiki/Hussar" title="Hussar">Hussars</a> by the <a href="/wiki/Kaiser" title="Kaiser">Kaiser</a> and promoted to the rank of <a href="/wiki/Major" title="Major">Major</a>. He took command of this regiment in 1904 and then went on to command 79th Honvéd infantry brigade in 1908 then finally the 31st infantry division at <a href="/wiki/Budapest" title="Budapest">Budapest</a> in 1911.</p>
+<h2><span class="mw-headline" id="World_War_I">World War I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=edit&amp;section=2" title="Edit section: World War I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:BorojevicevPrestol1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BorojevicevPrestol1.JPG/220px-BorojevicevPrestol1.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BorojevicevPrestol1.JPG/330px-BorojevicevPrestol1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BorojevicevPrestol1.JPG/440px-BorojevicevPrestol1.JPG 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BorojevicevPrestol1.JPG" class="internal" title="Enlarge"></a></div>
+In the front, the <i>Boroevic Throne</i>, named after <a href="/wiki/Svetozar_Boroevi%C4%87" title="Svetozar Boroević">Svetozar Boroević</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In the back, a fingerpost and a monument built by the 43rd Infantry Regiment in honour of Archduke Joseph.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></div>
+</div>
+</div>
+<p>August was highly decorated before <a href="/wiki/World_War_I" title="World War I">World War I</a> broke out. Some of his awards include The Bronze <a href="/wiki/Military_Merit_Medal_(Austria-Hungary)" title="Military Merit Medal (Austria-Hungary)">Military Merit Medal</a>, Grand Cross of the <a href="/wiki/Order_of_Saint_Joseph" title="Order of Saint Joseph">Order of Saint Joseph</a>, The <a href="/wiki/Marianer_Cross_of_the_Deutscher_Ritterorden" class="mw-redirect" title="Marianer Cross of the Deutscher Ritterorden">Marianer Cross of the Deutscher Ritterorden</a>, The <a href="/wiki/Order_of_the_Black_Eagle" title="Order of the Black Eagle">Order of the Black Eagle</a>, The 1st Class of the <a href="/wiki/Order_of_the_Red_Eagle" title="Order of the Red Eagle">Order of the Red Eagle</a>, The Grand Cross of the <a href="/wiki/Royal_Victorian_Order" title="Royal Victorian Order">Royal Victorian Order</a>, the Grand Cross of the <a href="/wiki/Order_of_Charles_III" title="Order of Charles III">Order of Charles III</a>, and the Grand Cross of the <a href="/wiki/Order_of_Saints_Cyril_and_Methodius" title="Order of Saints Cyril and Methodius">Order of Saints Cyril and Methodius</a>.</p>
+<p>In 1914 he was involved in combat in the <a href="/wiki/Galicia_(Central_Europe)" class="mw-redirect" title="Galicia (Central Europe)">Galician</a> theatre and took command of the VII Corps and was involved in fighting in the <a href="/wiki/Carpathian_Mountains" title="Carpathian Mountains">Carpathian Mountains</a>. After <a href="/wiki/Italy" title="Italy">Italy</a> became involved in the war he was transferred to the <a href="/wiki/Duchy_of_Carinthia" title="Duchy of Carinthia">Carinthian</a> border and involved in fighting the <a href="/wiki/Isonzo" class="mw-redirect" title="Isonzo">Isonzo</a> army. August remained on this front until the 9th battle of the Isonzo in 1916 a period in which once again he was highly decorated. August was highly liked by his troops, especially those of <a href="/wiki/Magyars" class="mw-redirect" title="Magyars">Hungarian</a> nationality.</p>
+<p>In November 1916, August was put in command of the Heeresfront fighting against <a href="/wiki/Russia" title="Russia">Russian</a> and <a href="/wiki/Romania" title="Romania">Romanian</a> forces. In January 1918 he was put in command of the <a href="/wiki/Sixth_Army_(Austria-Hungary)" class="mw-redirect" title="Sixth Army (Austria-Hungary)">6th Army</a> in the Southern theatre and that July took over the <a href="/wiki/South_Tyrolean_Army_Group" title="South Tyrolean Army Group">South Tyrolean Army Group</a>, which was the 10th and 11th Armies. Finally, on 26 October 1918, he was sent to the Balkan theatre to take command of the Heeresgruppe Kövess, which had lost Serbia, Albania and Montenegro by then. He was the last person to be appointed a <i><a href="/wiki/List_of_Austrian_field_marshals" title="List of Austrian field marshals">Feldmarschall</a></i> (<a href="/wiki/Field_Marshal" class="mw-redirect" title="Field Marshal">Field Marshal</a>) of the <a href="/wiki/Austro-Hungarian_Army" title="Austro-Hungarian Army">Austro-Hungarian Army</a> on 24 October 1918, as an attempt by <a href="/wiki/Kaiser" title="Kaiser">Kaiser</a> <a href="/wiki/Karl_I_of_Austria" class="mw-redirect" title="Karl I of Austria">Karl</a> to calm Hungarian nationalists.</p>
+<h2><span class="mw-headline" id="Post_war">Post war</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=edit&amp;section=3" title="Edit section: Post war">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 27 October 1918 Emperor Karl made August the "Homo Regius" of <a href="/wiki/Hungary" title="Hungary">Hungary</a>, but August asked to be released from his oath of allegiance from the Kaiser. He then began negotiations and appointed Graf <a href="/wiki/J%C3%A1nos_Hadik" title="János Hadik">János Hadik</a> to build a new national government. However the <a href="/wiki/Aster_Revolution" title="Aster Revolution">Aster Revolution</a> broke out on 31 October 1918, deterring his plans. In November, the <a href="/wiki/Socialist" class="mw-redirect" title="Socialist">socialist</a> <a href="/wiki/Hungarian_Democratic_Republic" class="mw-redirect" title="Hungarian Democratic Republic">Hungarian Democratic Republic</a> was proclaimed, only to be replaced a few months later by the <a href="/wiki/Communist" class="mw-redirect" title="Communist">communist</a> <a href="/wiki/Hungarian_Soviet_Republic" title="Hungarian Soviet Republic">Hungarian Soviet Republic</a>. This revolution was to fail: the popular August survived unharmed and once again became the head of state as "Reichsverweser" (regent) and appointed a Prime Minister. Since the Allied forces declined to accept Archduke Joseph, a Habsburg, as Hungary's head of state, he was forced to resign on 23 August 1919.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In 1920 the Archduke became the first knight of the Hungarian <a href="/wiki/Vit%C3%A9z" class="mw-redirect" title="Vitéz">Order of Vitéz</a>, in 1927 he became a member of the newly established House of Lords. He later became an honorary member of the Hungarian Academy of Sciences and was its president from 1936-1944. He fled Hungary for the <a href="/wiki/United_States" title="United States">United States</a> in 1944 but later returned to <a href="/wiki/Germany" title="Germany">Germany</a>. He died in 1962 at <a href="/wiki/Rain,_Lower_Bavaria" title="Rain, Lower Bavaria">Rain</a> near <a href="/wiki/Straubing" title="Straubing">Straubing</a>.</p>
+<p>His eldest son <a href="/wiki/Archduke_Joseph_Francis_of_Austria" title="Archduke Joseph Francis of Austria">Archduke Joseph Francis of Austria</a> had predeceased him, dying in 1957.</p>
+<p>Thus Joseph August's main heir was his eldest grandson <a href="/wiki/Archduke_Joseph_Arpad_of_Austria" class="mw-redirect" title="Archduke Joseph Arpad of Austria">Archduke Joseph Arpad of Austria</a> (born 1933), the eldest son of Joseph Francis and his wife <a href="/wiki/Princess_Anna_of_Saxony_(1903%E2%80%931976)" title="Princess Anna of Saxony (1903–1976)">Princess Anna of Saxony</a>. Joseph Arpad is married to <a href="/wiki/Princess_Maria_of_L%C3%B6wenstein-Wertheim-Rosenberg" class="mw-redirect" title="Princess Maria of Löwenstein-Wertheim-Rosenberg">Princess Maria of Löwenstein-Wertheim-Rosenberg</a>, and had children in Joseph August's lifetime. His eldest son is <a href="/wiki/Archduke_Joseph_Karl_of_Austria" title="Archduke Joseph Karl of Austria">Archduke Joseph Karl of Austria</a> (born 1960).</p>
+<p>Joseph August's granddaughter <a href="/wiki/Archduchess_Ilona_of_Austria" title="Archduchess Ilona of Austria">Archduchess Ilona of Austria</a> (b. 1927) married <a href="/wiki/Duke_Georg_Alexander_of_Mecklenburg" class="mw-redirect" title="Duke Georg Alexander of Mecklenburg">George Alexander, Duke of Mecklenburg</a>. Her son <a href="/wiki/George_Borwin,_Duke_of_Mecklenburg" class="mw-redirect" title="George Borwin, Duke of Mecklenburg">George Borwin, Duke of Mecklenburg</a> is the current head of the <a href="/wiki/House_of_Mecklenburg-Strelitz" class="mw-redirect" title="House of Mecklenburg-Strelitz">House of Mecklenburg-Strelitz</a>.</p>
+<h2><span class="mw-headline" id="Ancestry">Ancestry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=edit&amp;section=4" title="Edit section: Ancestry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="collapsible collapsed" style="margin: 0.3em auto auto; clear:none; min-width:100%; width:100%; font-size:88%; border:1px solid #aaa;">
+<tr>
+<th style="padding:0.2em 0.3em 0.2em 4.3em;background:none; width:100%">Ancestors of Archduke Joseph August of Austria</th>
+</tr>
+<tr>
+<td style="text-align:center">
+<table style="border-spacing: 0px; font-size: 90%; line-height: 110%;">
+<tr style="text-align: center;">
+<td rowspan="62" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="62">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="62">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">16. <a href="/wiki/Francis_I,_Holy_Roman_Emperor" title="Francis I, Holy Roman Emperor">Francis I, Holy Roman Emperor</a></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #bfc;">8. <a href="/wiki/Leopold_II,_Holy_Roman_Emperor" title="Leopold II, Holy Roman Emperor">Leopold II, Holy Roman Emperor</a></td>
+<td rowspan="2" colspan="3">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="6" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">17. <a href="/wiki/Maria_Theresa_of_Austria" class="mw-redirect" title="Maria Theresa of Austria">Maria Theresa of Austria</a></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #ffc;">4. <a href="/wiki/Archduke_Joseph,_Palatine_of_Hungary" title="Archduke Joseph, Palatine of Hungary">Archduke Joseph, Palatine of Hungary</a></td>
+<td rowspan="2" colspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="14" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">18. <a href="/wiki/Charles_III_of_Spain" title="Charles III of Spain">Charles III of Spain</a></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #bfc;">9. <a href="/wiki/Maria_Luisa_of_Spain" title="Maria Luisa of Spain">Maria Luisa of Spain</a></td>
+<td rowspan="2" colspan="3">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="6" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">19. <a href="/wiki/Maria_Amalia_of_Saxony" title="Maria Amalia of Saxony">Maria Amalia of Saxony</a></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #fb9;">2. <a href="/wiki/Archduke_Joseph_Karl_of_Austria" title="Archduke Joseph Karl of Austria">Archduke Joseph Karl of Austria</a></td>
+<td rowspan="2" colspan="9">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="30" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">20. <a href="/wiki/Frederick_II_Eugene,_Duke_of_W%C3%BCrttemberg" title="Frederick II Eugene, Duke of Württemberg">Frederick II Eugene, Duke of Württemberg</a></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #bfc;">10. <a href="/wiki/Duke_Louis_of_W%C3%BCrttemberg" class="mw-redirect" title="Duke Louis of Württemberg">Duke Louis of Württemberg</a></td>
+<td rowspan="2" colspan="3">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="6" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">21. <a href="/wiki/Friederike_Dorothea_of_Brandenburg-Schwedt" class="mw-redirect" title="Friederike Dorothea of Brandenburg-Schwedt">Friederike Dorothea of Brandenburg-Schwedt</a></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #ffc;">5. <a href="/wiki/Duchess_Maria_Dorothea_of_W%C3%BCrttemberg" title="Duchess Maria Dorothea of Württemberg">Duchess Maria Dorothea of Württemberg</a></td>
+<td rowspan="2" colspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="14" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">22. <a href="/wiki/Charles_Christian,_Prince_of_Nassau-Weilburg" title="Charles Christian, Prince of Nassau-Weilburg">Charles Christian, Prince of Nassau-Weilburg</a></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #bfc;">11. <a href="/wiki/Princess_Henriette_of_Nassau-Weilburg_(1780-1857)" class="mw-redirect" title="Princess Henriette of Nassau-Weilburg (1780-1857)">Princess Henriette of Nassau-Weilburg</a></td>
+<td rowspan="2" colspan="3">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="6" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">23. <a href="/wiki/Princess_Carolina_of_Orange-Nassau" title="Princess Carolina of Orange-Nassau">Princess Carolina of Orange-Nassau</a></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #fcc;">1. <b>Archduke Joseph August of Austria</b></td>
+<td rowspan="2" colspan="12">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="62" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="62">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="62">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">24. <a href="/wiki/Francis,_Duke_of_Saxe-Coburg-Saalfeld" title="Francis, Duke of Saxe-Coburg-Saalfeld">Francis, Duke of Saxe-Coburg-Saalfeld</a></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #bfc;">12. <a href="/wiki/Prince_Ferdinand_of_Saxe-Coburg_and_Gotha" title="Prince Ferdinand of Saxe-Coburg and Gotha">Prince Ferdinand of Saxe-Coburg and Gotha</a></td>
+<td rowspan="2" colspan="3">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="6" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">25. <a href="/wiki/Countess_Augusta_of_Reuss-Ebersdorf" class="mw-redirect" title="Countess Augusta of Reuss-Ebersdorf">Countess Augusta of Reuss-Ebersdorf</a></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #ffc;">6. <a href="/wiki/Prince_August_of_Saxe-Coburg_and_Gotha" title="Prince August of Saxe-Coburg and Gotha">Prince August of Saxe-Coburg and Gotha</a></td>
+<td rowspan="2" colspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="14" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">26. <a href="/wiki/Ferencz_J%C3%B3zsef_Koh%C3%A1ry_de_Cs%C3%A1br%C3%A1g" title="Ferencz József Koháry de Csábrág">Ferencz József Koháry de Csábrág</a></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #bfc;">13. <a href="/wiki/Maria_Antonia_Koh%C3%A1ry_de_Cs%C3%A1br%C3%A1g" title="Maria Antonia Koháry de Csábrág">Maria Antonia Koháry de Csábrág</a></td>
+<td rowspan="2" colspan="3">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="6" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">27. <a href="/wiki/Maria_Antoinetta_Josefa_von_Waldstein-Wartenburg" class="mw-redirect" title="Maria Antoinetta Josefa von Waldstein-Wartenburg">Maria Antoinetta Josefa von Waldstein-Wartenburg</a></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #fb9;">3. <a href="/wiki/Princess_Clotilde_of_Saxe-Coburg_and_Gotha" title="Princess Clotilde of Saxe-Coburg and Gotha">Princess Clotilde of Saxe-Coburg and Gotha</a></td>
+<td rowspan="2" colspan="9">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="30" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="30">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">28. <a href="/wiki/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans" title="Louis Philippe II, Duke of Orléans">Louis Philippe II, Duke of Orléans</a></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #bfc;">14. <a href="/wiki/Louis-Philippe_d%27Orl%C3%A9ans,_King_of_the_French" class="mw-redirect" title="Louis-Philippe d'Orléans, King of the French">Louis-Philippe d'Orléans, King of the French</a></td>
+<td rowspan="2" colspan="3">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="6" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">29. <a href="/wiki/Louise_Marie_Ad%C3%A9la%C3%AFde_de_Bourbon-Penthi%C3%A8vre" class="mw-redirect" title="Louise Marie Adélaïde de Bourbon-Penthièvre">Louise Marie Adélaïde de Bourbon-Penthièvre</a></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #ffc;">7. <a href="/wiki/Princess_Cl%C3%A9mentine_of_Orl%C3%A9ans" title="Princess Clémentine of Orléans">Princess Clémentine of Orléans</a></td>
+<td rowspan="2" colspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="14" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="14">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">30. <a href="/wiki/Ferdinand_I_of_the_Two_Sicilies" title="Ferdinand I of the Two Sicilies">Ferdinand I of the Two Sicilies</a></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-top: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #bfc;">15. <a href="/wiki/Maria_Amalia_of_the_Two_Sicilies" class="mw-redirect" title="Maria Amalia of the Two Sicilies">Maria Amalia of the Two Sicilies</a></td>
+<td rowspan="2" colspan="3">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="6" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="6">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-left: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-left: 1px solid black; border-bottom: 1px solid black;">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="4" style="border:1px solid black;padding:0 0.2em;padding-top: 0; padding-bottom: 0;;background-color: #9fe;">31. <a href="/wiki/Maria_Carolina_of_Austria" title="Maria Carolina of Austria">Maria Carolina of Austria</a></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" style="">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width: 0.5em; height: 0.5em;"><span style="font: 1px/1px serif;">&#160;</span></div>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-europe-20315424">"<span style="padding-left:0.2em;">'</span>Perfect' Archduke Joseph diamond sells for $21m"</a>. <i>BBC News</i>. 13 November 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">17 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArchduke+Joseph+August+of+Austria&amp;rft.atitle=%27Perfect%27+Archduke+Joseph+diamond+sells+for+%2421m&amp;rft.date=2012-11-13&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-europe-20315424&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://register.prohereditate.com/en/object/A0002">"A0002 - Kostanjevica - The Boroevic's throne"</a>. <i>Pro Hereditate</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArchduke+Joseph+August+of+Austria&amp;rft.atitle=A0002+-+Kostanjevica+-+The+Boroevic%27s+throne&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fregister.prohereditate.com%2Fen%2Fobject%2FA0002&amp;rft.jtitle=Pro+Hereditate&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://register.prohereditate.com/en/object/A0003">"A0003 - Kostanjevica - The monument-signpost near Lokvica"</a>. <i>Pro Hereditate</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArchduke+Joseph+August+of+Austria&amp;rft.atitle=A0003+-+Kostanjevica+-+The+monument-signpost+near+Lokvica&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fregister.prohereditate.com%2Fen%2Fobject%2FA0003&amp;rft.jtitle=Pro+Hereditate&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=nfp&amp;datum=19190824&amp;seite=2&amp;zoom=2">"Die amtliche Meldung über den Rücktritt"</a> (in German). <a href="/wiki/Neue_Freie_Presse" title="Neue Freie Presse">Neue Freie Presse</a>, Morgenblatt. 1919-08-24. p.&#160;2.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArchduke+Joseph+August+of+Austria&amp;rft.btitle=Die+amtliche+Meldung+%C3%BCber+den+R%C3%BCcktritt&amp;rft.date=1919-08-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fanno.onb.ac.at%2Fcgi-content%2Fanno%3Fapm%3D0%26aid%3Dnfp%26datum%3D19190824%26seite%3D2%26zoom%3D2&amp;rft.pages=2&amp;rft.pub=Neue+Freie+Presse%2C+Morgenblatt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><a href="/w/index.php?title=Cunliffe-Owen,_Marguerite&amp;action=edit&amp;redlink=1" class="new" title="Cunliffe-Owen, Marguerite (page does not exist)">Cunliffe-Owen, Marguerite</a>. <a rel="nofollow" class="external text" href="https://archive.org/details/keystoneofempire00cunliala"><i>Keystone of Empire: Francis Joseph of Austria</i>.</a> New York: <a href="/wiki/Harper_(publisher)" title="Harper (publisher)">Harper</a>, 1903.</li>
+<li><a href="/w/index.php?title=Andr%C3%A1s_Ger%C5%91&amp;action=edit&amp;redlink=1" class="new" title="András Gerő (page does not exist)">Gerő, András</a>. <i>Emperor Francis Joseph: King of the Hungarians</i>. Boulder, Colo.: Social Science Monographs, 2001.</li>
+<li><a href="/wiki/Alan_Palmer" title="Alan Palmer">Palmer, Alan</a>. <i>Twilight of the Habsburgs: The Life and Times of Emperor Francis Joseph</i>. New York: <a href="/wiki/Weidenfeld_%26_Nicolson" title="Weidenfeld &amp; Nicolson">Weidenfeld &amp; Nicolson</a>, 1995.</li>
+<li><a href="/wiki/John_Van_der_Kiste" title="John Van der Kiste">Van der Kiste, John</a>. <i>Emperor Francis Joseph: Life, Death and the Fall of the Habsburg Empire</i>. Stroud, England: <a href="/wiki/Sutton,_London" title="Sutton, London">Sutton</a>, 2005.</li>
+<li><a href="/w/index.php?title=Martha_Schad&amp;action=edit&amp;redlink=1" class="new" title="Martha Schad (page does not exist)">Schad, Martha</a>,<i>Kaiserin Elisabeth und ihre Töchter.</i> München, <a href="/w/index.php?title=Langen_M%C3%BCller&amp;action=edit&amp;redlink=1" class="new" title="Langen Müller (page does not exist)">Langen Müller</a>, 1998</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Archduke_Joseph_August_of_Austria" class="extiw" title="commons:Category:Archduke Joseph August of Austria">Archduke Joseph August of Austria</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.filmportal.de/en/node/1223407/video/1223403">Historical footage of Archduke Joseph August of Austria visiting troops in World War I</a>, <a href="/wiki/Filmportal" class="mw-redirect" title="Filmportal">filmportal.de</a></li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr>
+<th colspan="3" style="border-top: 5px solid #ccccff;">Political offices</th>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Gyula_Peidl" title="Gyula Peidl">Gyula Peidl</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/List_of_heads_of_state_of_Hungary" title="List of heads of state of Hungary">Acting Head of State of Hungary</a></b><br />
+1919</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Istv%C3%A1n_Friedrich" title="István Friedrich">István Friedrich</a></span></td>
+</tr>
+<tr>
+<th colspan="3" style="border-top: 5px solid #99CCFF;">Cultural offices</th>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Albert_Berzeviczy" title="Albert Berzeviczy">Albert Berzeviczy</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Hungarian_Academy_of_Sciences" title="Hungarian Academy of Sciences">President of the Hungarian Academy of Sciences</a></b><br />
+1936–1944</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Gyula_Kornis" title="Gyula Kornis">Gyula Kornis</a></span></td>
+</tr>
+<tr>
+<th colspan="3" style="border-top: 5px solid #FFF157;">Honorary titles</th>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Mikl%C3%B3s_Horthy" title="Miklós Horthy">Miklós Horthy</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Vit%C3%A9z" class="mw-redirect" title="Vitéz">Captain General of the Order of Vitéz</a></b><br />
+1957–1962</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Ferenc_Farkas_de_Kisbarnak" title="Ferenc Farkas de Kisbarnak">Ferenc Farkas</a></span></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="Austrian_archdukes" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Austrian_archdukes" title="Template:Austrian archdukes"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Austrian_archdukes" title="Template talk:Austrian archdukes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Austrian_archdukes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Austrian_archdukes" style="font-size:114%;margin:0 4em"><a href="/wiki/Archduke#Other_dynastic_Habsburg_use" title="Archduke">Austrian archdukes</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1st generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Frederick_III,_Holy_Roman_Emperor" title="Frederick III, Holy Roman Emperor">Frederick V</a></b></li>
+<li><a href="/wiki/Albert_VI,_Archduke_of_Austria" title="Albert VI, Archduke of Austria">Albert VI</a></li>
+<li><a href="/wiki/Sigismund,_Archduke_of_Austria" title="Sigismund, Archduke of Austria">Sigismund</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2nd generation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Cristopher</li>
+<li><b><a href="/wiki/Maximilian_I,_Holy_Roman_Emperor" title="Maximilian I, Holy Roman Emperor">Maximilian I</a></b></li>
+<li>John</li>
+<li>Wolfgang</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">3rd generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Philip_I_of_Castile" title="Philip I of Castile">Philip I of Castile</a></li>
+<li>Archduke Francis</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">4th generation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles I</a></b></li>
+<li><b><a href="/wiki/Ferdinand_I,_Holy_Roman_Emperor" title="Ferdinand I, Holy Roman Emperor">Ferdinand I</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">5th generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Philip_II_of_Spain" title="Philip II of Spain">Philip II of Spain</a>*</li>
+<li><b><a href="/wiki/Maximilian_II,_Holy_Roman_Emperor" title="Maximilian II, Holy Roman Emperor">Maximilian II</a></b></li>
+<li><a href="/wiki/Ferdinand_II,_Archduke_of_Austria" title="Ferdinand II, Archduke of Austria">Ferdinand II</a></li>
+<li>Ferdinand*</li>
+<li>John*</li>
+<li>John</li>
+<li>Ferdinand*</li>
+<li><a href="/wiki/Charles_II,_Archduke_of_Austria" title="Charles II, Archduke of Austria">Charles II</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">6th generation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carlos,_Prince_of_Asturias" title="Carlos, Prince of Asturias">Charles, Prince of Asturias</a>*</li>
+<li>Ferdinand</li>
+<li><b><a href="/wiki/Rudolf_II,_Holy_Roman_Emperor" title="Rudolf II, Holy Roman Emperor">Rudolf V</a></b></li>
+<li><a href="/wiki/Archduke_Ernest_of_Austria" title="Archduke Ernest of Austria">Ernest</a></li>
+<li><b><a href="/wiki/Matthias,_Holy_Roman_Emperor" title="Matthias, Holy Roman Emperor">Matthias</a></b></li>
+<li><a href="/wiki/Maximilian_III,_Archduke_of_Austria" title="Maximilian III, Archduke of Austria">Maximilian III</a></li>
+<li><a href="/wiki/Albert_VII,_Archduke_of_Austria" title="Albert VII, Archduke of Austria">Albert VII</a></li>
+<li>Wenzel</li>
+<li>Frederick</li>
+<li>Charles</li>
+<li><a href="/wiki/Ferdinand,_Prince_of_Asturias" title="Ferdinand, Prince of Asturias">Ferdinand, Prince of Asturias</a>*</li>
+<li>Ferdinand</li>
+<li>Carlos Lorenzo*</li>
+<li><a href="/wiki/Diego,_Prince_of_Asturias" title="Diego, Prince of Asturias">Diego, Prince of Asturias</a>*</li>
+<li><a href="/wiki/Philip_III_of_Spain" title="Philip III of Spain">Philip III of Spain</a>*</li>
+<li><b><a href="/wiki/Ferdinand_II,_Holy_Roman_Emperor" title="Ferdinand II, Holy Roman Emperor">Ferdinand III</a></b></li>
+<li>Charles</li>
+<li><a href="/wiki/Archduke_Maximilian_Ernest_of_Austria" title="Archduke Maximilian Ernest of Austria">Maximilian Ernest</a></li>
+<li><a href="/wiki/Leopold_V,_Archduke_of_Austria" title="Leopold V, Archduke of Austria">Leopold V</a></li>
+<li><a href="/wiki/Charles_of_Austria,_Bishop_of_Wroclaw" title="Charles of Austria, Bishop of Wroclaw">Archduke Charles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">7th generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Charles</li>
+<li><a href="/wiki/Philip_IV_of_Spain" title="Philip IV of Spain">Philip IV of Spain</a>*</li>
+<li>Philipp</li>
+<li>John-Charles</li>
+<li>Albert</li>
+<li><a href="/wiki/Archduke_Charles_of_Austria_(1607%E2%80%931632)" class="mw-redirect" title="Archduke Charles of Austria (1607–1632)">Charles</a>*</li>
+<li><b><a href="/wiki/Ferdinand_III,_Holy_Roman_Emperor" title="Ferdinand III, Holy Roman Emperor">Ferdinand IV</a></b></li>
+<li><a href="/wiki/Cardinal-Infante_Ferdinand_of_Austria" title="Cardinal-Infante Ferdinand of Austria">Ferdinand</a>*</li>
+<li>Alfonso Mauricio</li>
+<li><a href="/wiki/Archduke_Leopold_Wilhelm_of_Austria" title="Archduke Leopold Wilhelm of Austria">Leopold Wilhelm</a></li>
+<li><a href="/wiki/Ferdinand_Charles,_Archduke_of_Austria" title="Ferdinand Charles, Archduke of Austria">Ferdinand Charles</a></li>
+<li><a href="/wiki/Sigismund_Francis,_Archduke_of_Austria" title="Sigismund Francis, Archduke of Austria">Sigismund Francis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">8th generation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Balthasar_Charles,_Prince_of_Asturias" title="Balthasar Charles, Prince of Asturias">Balthasar Charles, Prince of Asturias</a>*</li>
+<li><a href="/wiki/Ferdinand_IV,_King_of_the_Romans" title="Ferdinand IV, King of the Romans">Ferdinand IV of Hungary</a></li>
+<li>Francisco Fernando*</li>
+<li>Philip August</li>
+<li>Maximilian Thomas</li>
+<li><b><a href="/wiki/Leopold_I,_Holy_Roman_Emperor" title="Leopold I, Holy Roman Emperor">Leopold VI</a></b></li>
+<li><a href="/wiki/Archduke_Charles_Joseph_of_Austria" title="Archduke Charles Joseph of Austria">Charles Joseph</a></li>
+<li>Ferdinand Joseph Alois</li>
+<li><a href="/wiki/Philip_Prospero,_Prince_of_Asturias" title="Philip Prospero, Prince of Asturias">Philip Prospero, Prince of Asturias</a>*</li>
+<li>Ferdinand Thomas*</li>
+<li><a href="/wiki/Charles_II_of_Spain" title="Charles II of Spain">Charles II of Spain</a>*</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">9th generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Ferdinand Wenzel</li>
+<li>John Leopold</li>
+<li><b><a href="/wiki/Joseph_I,_Holy_Roman_Emperor" title="Joseph I, Holy Roman Emperor">Joseph I</a></b></li>
+<li><a href="/wiki/Archduke_Leopold_Joseph_of_Austria_(1682%E2%80%931684)" title="Archduke Leopold Joseph of Austria (1682–1684)">Leopold Joseph</a></li>
+<li><b><a href="/wiki/Charles_VI,_Holy_Roman_Emperor" title="Charles VI, Holy Roman Emperor">Charles III</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">10th generation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Archduke_Leopold_Joseph_of_Austria_(1700%E2%80%931701)" title="Archduke Leopold Joseph of Austria (1700–1701)">Leopold Joseph</a></li>
+<li>Leopold John</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">11th generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Joseph_II,_Holy_Roman_Emperor" title="Joseph II, Holy Roman Emperor">Joseph II</a></b>**</li>
+<li>Charles Louis**</li>
+<li><b><a href="/wiki/Leopold_II,_Holy_Roman_Emperor" title="Leopold II, Holy Roman Emperor">Leopold VII</a></b>**</li>
+<li><a href="/wiki/Ferdinand,_Duke_of_Breisgau" title="Ferdinand, Duke of Breisgau">Ferdinand</a>**</li>
+<li><a href="/wiki/Archduke_Maximilian_Francis_of_Austria" title="Archduke Maximilian Francis of Austria">Maximilian Franz, Archbishop-Elector of Cologne</a>**</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">12th generation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Francis_II,_Holy_Roman_Emperor" title="Francis II, Holy Roman Emperor">Emperor Francis I</a></b>**</li>
+<li><a href="/wiki/Ferdinand_III,_Grand_Duke_of_Tuscany" title="Ferdinand III, Grand Duke of Tuscany">Ferdinand III, Grand Duke of Tuscany</a>**</li>
+<li><a href="/wiki/Archduke_Charles,_Duke_of_Teschen" title="Archduke Charles, Duke of Teschen">Charles, Duke of Teschen</a>**</li>
+<li><a href="/wiki/Archduke_Alexander_Leopold_of_Austria" title="Archduke Alexander Leopold of Austria">Alexander Leopold, Palatine of Hungary</a>**</li>
+<li><a href="/wiki/Archduke_Joseph,_Palatine_of_Hungary" title="Archduke Joseph, Palatine of Hungary">Joseph, Palatine of Hungary</a>**</li>
+<li><a href="/wiki/Archduke_Anton_Victor_of_Austria" title="Archduke Anton Victor of Austria">Anton Victor</a>**</li>
+<li><a href="/wiki/Archduke_John_of_Austria" title="Archduke John of Austria">John</a>**</li>
+<li><a href="/wiki/Archduke_Rainer_Joseph_of_Austria" title="Archduke Rainer Joseph of Austria">Rainer Joseph</a>**</li>
+<li><a href="/wiki/Archduke_Louis_of_Austria" title="Archduke Louis of Austria">Archduke Louis</a>**</li>
+<li><a href="/wiki/Archduke_Rudolf_of_Austria_(1788%E2%80%931831)" title="Archduke Rudolf of Austria (1788–1831)">Cardinal-Archduke Rudolf</a>**</li>
+<li><a href="/wiki/Archduke_Joseph_Franz_of_Austria" title="Archduke Joseph Franz of Austria">Josef Franz</a>***</li>
+<li><a href="/wiki/Francis_IV,_Duke_of_Modena" title="Francis IV, Duke of Modena">Francis IV, Duke of Modena</a>***</li>
+<li><a href="/wiki/Archduke_Ferdinand_Karl_Joseph_of_Austria-Este" title="Archduke Ferdinand Karl Joseph of Austria-Este">Ferdinand Karl Joseph</a>***</li>
+<li><a href="/wiki/Archduke_Maximilian_of_Austria-Este" title="Archduke Maximilian of Austria-Este">Maximilian</a>***</li>
+<li><a href="/wiki/Archduke_Karl_of_Austria-Este" title="Archduke Karl of Austria-Este">Karl, Primate of Hungary</a>***</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">13th generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ferdinand_I_of_Austria" title="Ferdinand I of Austria">Emperor Ferdinand I</a></li>
+<li>Francis Leopold, Grand Prince of Tuscany**</li>
+<li><a href="/wiki/Leopold_II,_Grand_Duke_of_Tuscany" title="Leopold II, Grand Duke of Tuscany">Leopold II, Grand Duke of Tuscany</a>**</li>
+<li>Joseph Franz</li>
+<li><a href="/wiki/Archduke_Franz_Karl_of_Austria" title="Archduke Franz Karl of Austria">Franz Karl</a></li>
+<li><a href="/wiki/Archduke_Johann_Nepomuk_of_Austria" title="Archduke Johann Nepomuk of Austria">Johann Nepomuk</a></li>
+<li><a href="/wiki/Archduke_Albrecht,_Duke_of_Teschen" title="Archduke Albrecht, Duke of Teschen">Albert, Duke of Teschen</a></li>
+<li><a href="/wiki/Archduke_Stephen,_Palatine_of_Hungary" title="Archduke Stephen, Palatine of Hungary">Stephen, Palatine of Hungary</a></li>
+<li><a href="/wiki/Archduke_Karl_Ferdinand_of_Austria" title="Archduke Karl Ferdinand of Austria">Karl Ferdinand</a></li>
+<li><a href="/wiki/Francis_V,_Duke_of_Modena" title="Francis V, Duke of Modena">Francis V, Duke of Modena</a>***</li>
+<li><a href="/wiki/Archduke_Friedrich_of_Austria_(1821%E2%80%931847)" title="Archduke Friedrich of Austria (1821–1847)">Frederick Ferdinand</a></li>
+<li><a href="/wiki/Archduke_Ferdinand_Karl_Viktor_of_Austria-Este" title="Archduke Ferdinand Karl Viktor of Austria-Este">Ferdinand Karl Viktor</a>***</li>
+<li>Archduke Rudolf</li>
+<li><a href="/wiki/Archduke_Leopold_Ludwig_of_Austria" title="Archduke Leopold Ludwig of Austria">Leopold Ludwig</a></li>
+<li><a href="/wiki/Archduke_Ernest_of_Austria_(1824%E2%80%9399)" class="mw-redirect" title="Archduke Ernest of Austria (1824–99)">Ernest</a></li>
+<li>Alexander</li>
+<li>Sigismund Leopold</li>
+<li><a href="/wiki/Archduke_Rainer_Ferdinand_of_Austria" title="Archduke Rainer Ferdinand of Austria">Rainer Ferdinand</a></li>
+<li><a href="/wiki/Archduke_Wilhelm_Franz_of_Austria" title="Archduke Wilhelm Franz of Austria">Wilhelm Franz</a></li>
+<li>Heinrich Anton</li>
+<li>Maximilian Karl</li>
+<li><a href="/wiki/Archduke_Joseph_Karl_of_Austria" title="Archduke Joseph Karl of Austria">Joseph Karl</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">14th generation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Franz_Joseph_I_of_Austria" title="Franz Joseph I of Austria">Emperor Franz Joseph I</a></li>
+<li><a href="/wiki/Maximilian_I_of_Mexico" title="Maximilian I of Mexico">Maximilian I of Mexico</a></li>
+<li><a href="/wiki/Archduke_Karl_Ludwig_of_Austria" title="Archduke Karl Ludwig of Austria">Karl Ludwig</a></li>
+<li><a href="/wiki/Archduke_Ludwig_Viktor_of_Austria" title="Archduke Ludwig Viktor of Austria">Ludwig Viktor</a></li>
+<li><a href="/wiki/Ferdinand_IV,_Grand_Duke_of_Tuscany" title="Ferdinand IV, Grand Duke of Tuscany">Ferdinand IV, Grand Duke of Tuscany</a>**</li>
+<li><a href="/wiki/Archduke_Karl_Salvator_of_Austria" title="Archduke Karl Salvator of Austria">Karl Salvator</a>**</li>
+<li>Rainier**</li>
+<li><a href="/wiki/Archduke_Ludwig_Salvator_of_Austria" title="Archduke Ludwig Salvator of Austria">Ludwig Salvator</a>**</li>
+<li><a href="/wiki/Archduke_Johann_Salvator_of_Austria" title="Archduke Johann Salvator of Austria">John Salvator</a>**</li>
+<li>Karl</li>
+<li>Franz Joseph</li>
+<li><a href="/wiki/Archduke_Friedrich,_Duke_of_Teschen" title="Archduke Friedrich, Duke of Teschen">Friedrich, Duke of Teschen</a></li>
+<li><a href="/wiki/Archduke_Charles_Stephen_of_Austria" title="Archduke Charles Stephen of Austria">Charles Stephen</a></li>
+<li><a href="/wiki/Archduke_Eugen_of_Austria" title="Archduke Eugen of Austria">Eugen</a></li>
+<li><a class="mw-selflink selflink">Joseph August</a></li>
+<li>Archduke Ladislaus</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">15th generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rudolf,_Crown_Prince_of_Austria" title="Rudolf, Crown Prince of Austria">Crown Prince Rudolf</a></li>
+<li><a href="/wiki/Archduke_Franz_Ferdinand_of_Austria" title="Archduke Franz Ferdinand of Austria">Franz Ferdinand</a>***</li>
+<li><a href="/wiki/Archduke_Otto_of_Austria_(1865%E2%80%931906)" title="Archduke Otto of Austria (1865–1906)">Otto Francis</a></li>
+<li><a href="/wiki/Archduke_Ferdinand_Karl_of_Austria" title="Archduke Ferdinand Karl of Austria">Ferdinand Karl</a></li>
+<li><a href="/wiki/Archduke_Leopold_Ferdinand_of_Austria" title="Archduke Leopold Ferdinand of Austria">Leopold Ferdinand</a>**</li>
+<li><a href="/wiki/Archduke_Joseph_Ferdinand_of_Austria" title="Archduke Joseph Ferdinand of Austria">Josef Ferdinand</a>**</li>
+<li><a href="/wiki/Archduke_Peter_Ferdinand_of_Austria" title="Archduke Peter Ferdinand of Austria">Peter Ferdinand</a>**</li>
+<li>Heinrich Ferdinand**</li>
+<li>Robert Ferdinand**</li>
+<li><a href="/wiki/Archduke_Leopold_Salvator_of_Austria" title="Archduke Leopold Salvator of Austria">Leopold Salvator</a>**</li>
+<li><a href="/wiki/Archduke_Franz_Salvator_of_Austria" title="Archduke Franz Salvator of Austria">Franz Salvator</a>**</li>
+<li>Archduke Albrecht Salvator**</li>
+<li>Archduke Rainier Salvator**</li>
+<li>Archduke Ferdinand Salvator**</li>
+<li><a href="/wiki/Archduke_Albrecht_Franz,_Duke_of_Teschen" title="Archduke Albrecht Franz, Duke of Teschen">Albrecht Franz, Duke of Teschen</a></li>
+<li><a href="/wiki/Archduke_Karl_Albrecht_of_Austria" title="Archduke Karl Albrecht of Austria">Karl Albrecht</a></li>
+<li><a href="/wiki/Archduke_Leo_Karl_of_Austria" title="Archduke Leo Karl of Austria">Leo Karl</a></li>
+<li><a href="/wiki/Archduke_Wilhelm_of_Austria" title="Archduke Wilhelm of Austria">Wilhelm</a></li>
+<li><a href="/wiki/Archduke_Joseph_Francis_of_Austria" title="Archduke Joseph Francis of Austria">Joseph Francis</a></li>
+<li>Archduke Ladislaus Joseph</li>
+<li>Archduke Matthias</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">16th generation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charles_I_of_Austria" title="Charles I of Austria">Emperor Charles I</a></li>
+<li><a href="/wiki/Archduke_Maximilian_Eugen_of_Austria" title="Archduke Maximilian Eugen of Austria">Maximilian Eugen</a><br />
+<b>Habsburg - Tuscany</b>&#160;:</li>
+<li><a href="/wiki/Archduke_Gottfried_of_Austria" title="Archduke Gottfried of Austria">Archduke Gottfried</a>**</li>
+<li>Georg**</li>
+<li><a href="/wiki/Archduke_Rainer_of_Austria_(1895%E2%80%931930)" title="Archduke Rainer of Austria (1895–1930)">Rainer</a>**</li>
+<li>Leopold Maria**</li>
+<li><a href="/wiki/Archduke_Anton_of_Austria" title="Archduke Anton of Austria">Anton</a>**</li>
+<li>Franz Joseph**</li>
+<li><a href="/wiki/Archduke_Karl_Pius_of_Austria,_Prince_of_Tuscany" title="Archduke Karl Pius of Austria, Prince of Tuscany">Karl Pius</a>**</li>
+<li>Franz Karl**</li>
+<li><a href="/wiki/Archduke_Hubert_Salvator_of_Austria" title="Archduke Hubert Salvator of Austria">Hubert Salvator</a>**</li>
+<li>Theodor Salvator**</li>
+<li>Clemens Salvator**<br />
+<b>Palatines of Hungary</b>&#160;:</li>
+<li><a href="/wiki/Archduke_Josef_Arp%C3%A1d_of_Austria" title="Archduke Josef Arpád of Austria">József Arpád</a></li>
+<li>Archduke Itsván</li>
+<li><a href="/wiki/Archduke_G%C3%A9za_of_Austria" title="Archduke Géza of Austria">Géza</a></li>
+<li>Michael Koloman</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">17th generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b>Descent of Charles I</b>&#160;:</li>
+<li><a href="/wiki/Otto_von_Habsburg" title="Otto von Habsburg">Crown Prince Otto</a></li>
+<li><a href="/wiki/Robert,_Archduke_of_Austria-Este" title="Robert, Archduke of Austria-Este">Robert</a>***</li>
+<li><a href="/wiki/Archduke_Felix_of_Austria" title="Archduke Felix of Austria">Felix</a></li>
+<li><a href="/wiki/Archduke_Carl_Ludwig_of_Austria_(1918%E2%80%932007)" title="Archduke Carl Ludwig of Austria (1918–2007)">Carl Ludwig</a></li>
+<li><a href="/wiki/Archduke_Rudolf_of_Austria_(1919%E2%80%932010)" title="Archduke Rudolf of Austria (1919–2010)">Rudolf</a><br />
+<b>Descent of Maximilian</b>&#160;:</li>
+<li>Ferdinand Karl</li>
+<li>Heinrich Maria<br />
+<b>Tuscany</b>&#160;:</li>
+<li><a href="/wiki/Archduke_Leopold_Franz_of_Austria" title="Archduke Leopold Franz of Austria">Leopold Franz</a>**</li>
+<li>Guntram**</li>
+<li>Radbot**</li>
+<li>Johann**</li>
+<li>Georg**</li>
+<li><a href="/wiki/Archduke_Stefan_of_Austria" title="Archduke Stefan of Austria">Stephan</a>**</li>
+<li><a href="/wiki/Dominic_von_Habsburg" title="Dominic von Habsburg">Dominic</a>**</li>
+<li>Friederich Salvator**</li>
+<li>Andreas Salvator**</li>
+<li>Markus**</li>
+<li>Johann**</li>
+<li>Michael**</li>
+<li>Franz Salvator**</li>
+<li>Karl Salvator**<br />
+<b>Palatines of Hungary</b>&#160;:</li>
+<li>Joseph Karl</li>
+<li>Andreas Agustinus</li>
+<li>Nicholas Franz</li>
+<li>Johann Jacob</li>
+<li>Edward Karl</li>
+<li>Paul Rudolf</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">18th generation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b>Descent of Charles I</b>&#160;:</li>
+<li><a href="/wiki/Karl_von_Habsburg" title="Karl von Habsburg">Karl</a></li>
+<li><a href="/wiki/Georg_von_Habsburg" title="Georg von Habsburg">Georg</a></li>
+<li><a href="/wiki/Prince_Lorenz_of_Belgium,_Archduke_of_Austria-Este" title="Prince Lorenz of Belgium, Archduke of Austria-Este">Lorenz</a>***</li>
+<li><a href="/wiki/Robert,_Archduke_of_Austria-Este#Family" title="Robert, Archduke of Austria-Este">Gerhard</a>***</li>
+<li><a href="/wiki/Robert,_Archduke_of_Austria-Este#Family" title="Robert, Archduke of Austria-Este">Martin</a>***</li>
+<li><a href="/wiki/Archduke_Felix_of_Austria#Marriage_and_children" title="Archduke Felix of Austria">Karl Philipp</a></li>
+<li><a href="/wiki/Archduke_Felix_of_Austria#Marriage_and_children" title="Archduke Felix of Austria">Raimund Joseph</a></li>
+<li><a href="/wiki/Archduke_Felix_of_Austria#Marriage_and_children" title="Archduke Felix of Austria">Itsván</a></li>
+<li><a href="/wiki/Archduke_Carl_Ludwig_of_Austria_(1918%E2%80%932007)#Family" title="Archduke Carl Ludwig of Austria (1918–2007)">Rudolf</a></li>
+<li><a href="/wiki/Archduke_Carl_Christian_of_Austria" title="Archduke Carl Christian of Austria">Carl Christian</a></li>
+<li><a href="/wiki/Archduke_Rudolf_of_Austria_(1919%E2%80%932010)#Marriage_and_issue" title="Archduke Rudolf of Austria (1919–2010)">Karl Peter</a></li>
+<li><a href="/wiki/Archduke_Simeon_of_Austria" title="Archduke Simeon of Austria">Simeon</a></li>
+<li><a href="/wiki/Archduke_Rudolf_of_Austria_(1919%E2%80%932010)#Marriage_and_issue" title="Archduke Rudolf of Austria (1919–2010)">Johannes</a><br />
+<b>Descent of Maximilian</b>&#160;:</li>
+<li>Maximilian Heinrich</li>
+<li>Philipp Joachim</li>
+<li>Ferdinand Karl</li>
+<li>Konrad<br />
+<b>Tuscany</b>&#160;:</li>
+<li><a href="/wiki/Archduke_Sigismund,_Grand_Duke_of_Tuscany" title="Archduke Sigismund, Grand Duke of Tuscany">Sigismund</a>**</li>
+<li>Georg**</li>
+<li>Guntram**</li>
+<li>Leopold**</li>
+<li>Alexander Salvator**</li>
+<li>Thaddäus Salvator**</li>
+<li>Casimir Salvator**</li>
+<li>Matthias**</li>
+<li>Johannes**</li>
+<li>Bernhard**</li>
+<li>Benedikt**<br />
+<b>Palatines</b>&#160;:</li>
+<li>Joseph Albrecht (1994–)</li>
+<li>Paul Leo (1996–)</li>
+<li>Friedrich Cyprian (1995–)</li>
+<li>Pierre (1997–)</li>
+<li>Benedikt Alexander (2005–)</li>
+<li>Nicolás (2003–)</li>
+<li>Santiago (2006–)</li>
+<li>Johannes (2010–)</li>
+<li>Paul Benedikt (2000–)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">19th generation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b>Descent of Charles I</b>&#160;:</li>
+<li><a href="/wiki/Ferdinand_Zvonimir_von_Habsburg" title="Ferdinand Zvonimir von Habsburg">Ferdinand Zvonimir</a></li>
+<li><a href="/wiki/Karl-Konstantin_von_Habsburg" title="Karl-Konstantin von Habsburg">Karl Konstantin</a></li>
+<li><a href="/wiki/Prince_Amedeo_of_Belgium,_Archduke_of_Austria-Este" title="Prince Amedeo of Belgium, Archduke of Austria-Este">Amedeo</a>***</li>
+<li><a href="/wiki/Prince_Joachim_of_Belgium,_Archduke_of_Austria-Este" title="Prince Joachim of Belgium, Archduke of Austria-Este">Joachim</a>***</li>
+<li><a href="/wiki/Robert,_Archduke_of_Austria-Este#Family" title="Robert, Archduke of Austria-Este">Bartholomaeus</a>***</li>
+<li><a href="/wiki/Robert,_Archduke_of_Austria-Este#Family" title="Robert, Archduke of Austria-Este">Emmanuel</a>***</li>
+<li><a href="/wiki/Robert,_Archduke_of_Austria-Este#Family" title="Robert, Archduke of Austria-Este">Luigi</a>***</li>
+<li><a href="/wiki/Archduke_Felix_of_Austria#Marriage_and_children" title="Archduke Felix of Austria">Felix Carl</a></li>
+<li><a href="/wiki/Archduke_Felix_of_Austria#Marriage_and_children" title="Archduke Felix of Austria">Andreas Franz</a></li>
+<li><a href="/wiki/Archduke_Felix_of_Austria#Marriage_and_children" title="Archduke Felix of Austria">Paul Johannes</a></li>
+<li><a href="/wiki/Archduke_Carl_Ludwig_of_Austria_(1918%E2%80%932007)#Family" title="Archduke Carl Ludwig of Austria (1918–2007)">Carl Christian</a></li>
+<li><a href="/wiki/Archduke_Carl_Ludwig_of_Austria_(1918%E2%80%932007)#Family" title="Archduke Carl Ludwig of Austria (1918–2007)">Johannes</a></li>
+<li><a href="/wiki/Archduke_Carl_Ludwig_of_Austria_(1918%E2%80%932007)#Family" title="Archduke Carl Ludwig of Austria (1918–2007)">Thomas</a></li>
+<li><a href="/wiki/Archduke_Carl_Ludwig_of_Austria_(1918%E2%80%932007)#Family" title="Archduke Carl Ludwig of Austria (1918–2007)">Franz Ludwig</a></li>
+<li><a href="/wiki/Archduke_Carl_Ludwig_of_Austria_(1918%E2%80%932007)#Family" title="Archduke Carl Ludwig of Austria (1918–2007)">Michael</a></li>
+<li><a href="/wiki/Archduke_Carl_Ludwig_of_Austria_(1918%E2%80%932007)#Family" title="Archduke Carl Ludwig of Austria (1918–2007)">Joseph</a></li>
+<li><a href="/wiki/Archduke_Carl_Christian_of_Austria#Marriage_and_issue" title="Archduke Carl Christian of Austria">Imre</a></li>
+<li><a href="/wiki/Archduke_Carl_Christian_of_Austria#Marriage_and_issue" title="Archduke Carl Christian of Austria">Christoph</a></li>
+<li><a href="/wiki/Archduke_Carl_Christian_of_Austria#Marriage_and_issue" title="Archduke Carl Christian of Austria">Alexander</a></li>
+<li><a href="/wiki/Archduke_Rudolf_of_Austria_(1919%E2%80%932010)#Marriage_and_issue" title="Archduke Rudolf of Austria (1919–2010)">Lorenz Carl</a></li>
+<li><a href="/wiki/Archduke_Simeon_of_Austria#Marriage_and_issue" title="Archduke Simeon of Austria">Johannes</a></li>
+<li><a href="/wiki/Archduke_Simeon_of_Austria#Marriage_and_issue" title="Archduke Simeon of Austria">Ludwig</a></li>
+<li><a href="/wiki/Archduke_Simeon_of_Austria#Marriage_and_issue" title="Archduke Simeon of Austria">Philipp</a><br />
+<b>Descent of Maximilian</b>&#160;:</li>
+<li>Nicholas</li>
+<li>Constantin</li>
+<li>Jacob Maximilian<br />
+<b>Tuscany</b>&#160;:</li>
+<li><a href="/wiki/Archduke_Sigismund,_Grand_Duke_of_Tuscany#Family" title="Archduke Sigismund, Grand Duke of Tuscany">Leopold Amedeo</a>**</li>
+<li><a href="/wiki/Archduke_Sigismund,_Grand_Duke_of_Tuscany#Family" title="Archduke Sigismund, Grand Duke of Tuscany">Maximilian</a>**</li>
+<li>Leopold**</li>
+<li>Constantin Salvator**</li>
+<li>Paul Salvator**</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><span style="font-size:90%;">(<b>bold</b>) <i>Holy Roman Emperor</i></span></li>
+<li><span style="font-size:90%;">*<i>also an infante of Spain</i></span></li>
+<li><span style="font-size:90%;">** <i>also a prince of Tuscany</i></span></li>
+<li><span style="font-size:90%;">*** <i>also a prince of Modena</i></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Heads_of_state_of_Hungary" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Heads_of_State_of_Hungary" title="Template:Heads of State of Hungary"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Heads_of_State_of_Hungary" title="Template talk:Heads of State of Hungary"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Heads_of_State_of_Hungary&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Heads_of_state_of_Hungary" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_heads_of_state_of_Hungary" title="List of heads of state of Hungary">Heads of state of Hungary</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:120px;"><a href="/wiki/Hungarian_Revolution_of_1848" title="Hungarian Revolution of 1848">Revolution of 1848</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lajos_Kossuth" title="Lajos Kossuth">Kossuth</a></li>
+<li><i><a href="/wiki/Art%C3%BAr_G%C3%B6rgey" class="mw-redirect" title="Artúr Görgey">Görgey</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:120px;"><a href="/wiki/Austria-Hungary" title="Austria-Hungary">Kingdom (1867–1918)</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Franz_Joseph_I_of_Austria" title="Franz Joseph I of Austria">Francis Joseph</a></li>
+<li><a href="/wiki/Charles_I_of_Austria" title="Charles I of Austria">Charles IV</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:120px;"><a href="/wiki/First_Hungarian_Republic" title="First Hungarian Republic">First Republic</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mih%C3%A1ly_K%C3%A1rolyi" title="Mihály Károlyi">Károlyi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:120px;"><a href="/wiki/Hungarian_Soviet_Republic" title="Hungarian Soviet Republic">Soviet Republic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/S%C3%A1ndor_Garbai" title="Sándor Garbai">Garbai</a></li>
+<li><i><a href="/wiki/Gyula_Peidl" title="Gyula Peidl">Peidl</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:120px;"><a href="/wiki/Hungarian_Republic_(1919%E2%80%9320)" title="Hungarian Republic (1919–20)">Republic (1919–20)</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Joseph August</a></li>
+<li><i><a href="/wiki/Istv%C3%A1n_Friedrich" title="István Friedrich">Friedrich</a></i></li>
+<li><i><a href="/wiki/K%C3%A1roly_Husz%C3%A1r" title="Károly Huszár">Huszár</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:120px;"><a href="/wiki/Kingdom_of_Hungary_(1920%E2%80%9346)" title="Kingdom of Hungary (1920–46)">Kingdom (1920–46)</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mikl%C3%B3s_Horthy" title="Miklós Horthy">Horthy</a></li>
+<li><a href="/wiki/Ferenc_Sz%C3%A1lasi" title="Ferenc Szálasi">Szálasi</a></li>
+<li><i><a href="/wiki/B%C3%A9la_Mikl%C3%B3s" title="Béla Miklós">Miklós</a></i></li>
+<li><i><a href="/wiki/High_National_Council" title="High National Council">High National Council</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:120px;"><a href="/wiki/Second_Hungarian_Republic" title="Second Hungarian Republic">Second Republic</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zolt%C3%A1n_Tildy" title="Zoltán Tildy">Tildy</a></li>
+<li><a href="/wiki/%C3%81rp%C3%A1d_Szakasits" title="Árpád Szakasits">Szakasits</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:120px;"><a href="/wiki/Hungarian_People%27s_Republic" title="Hungarian People's Republic">People's Republic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%C3%81rp%C3%A1d_Szakasits" title="Árpád Szakasits">Szakasits</a></li>
+<li><a href="/wiki/S%C3%A1ndor_R%C3%B3nai" title="Sándor Rónai">Rónai</a></li>
+<li><a href="/wiki/Istv%C3%A1n_Dobi" title="István Dobi">Dobi</a></li>
+<li><a href="/wiki/P%C3%A1l_Losonczi" title="Pál Losonczi">Losonczi</a></li>
+<li><a href="/wiki/K%C3%A1roly_N%C3%A9meth" title="Károly Németh">Németh</a></li>
+<li><a href="/wiki/Brun%C3%B3_Ferenc_Straub" title="Brunó Ferenc Straub">Straub</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:120px;"><a href="/wiki/Hungary" title="Hungary">Third Republic</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/M%C3%A1ty%C3%A1s_Sz%C5%B1r%C3%B6s" title="Mátyás Szűrös">Szűrös</a></i></li>
+<li><a href="/wiki/%C3%81rp%C3%A1d_G%C3%B6ncz" title="Árpád Göncz">Göncz</a></li>
+<li><a href="/wiki/Ferenc_M%C3%A1dl" title="Ferenc Mádl">Mádl</a></li>
+<li><a href="/wiki/L%C3%A1szl%C3%B3_S%C3%B3lyom" title="László Sólyom">Sólyom</a></li>
+<li><a href="/wiki/P%C3%A1l_Schmitt" title="Pál Schmitt">Schmitt</a></li>
+<li><i><a href="/wiki/L%C3%A1szl%C3%B3_K%C3%B6v%C3%A9r" title="László Kövér">Kövér</a></i></li>
+<li><a href="/wiki/J%C3%A1nos_%C3%81der" title="János Áder">Áder</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>Italics</i> indicates acting holder</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/88887090">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/88887090">88887090</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/no2014011192">no2014011192</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/130249823">130249823</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/136823092">136823092</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb16661847c">cb16661847c</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb16661847c">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1282
+Cached time: 20170415151221
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.452 seconds
+Real time usage: 0.537 seconds
+Preprocessor visited node count: 11559/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 204205/2097152 bytes
+Template argument size: 19056/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.097/10.000 seconds
+Lua memory usage: 3.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  371.269      1 -total
+ 41.53%  154.176      1 Template:Infobox_officeholder
+ 27.22%  101.070      3 Template:Infobox
+ 14.87%   55.219      1 Template:Expand_Hungarian
+ 12.12%   45.005     17 Template:Infobox_officeholder/office
+ 11.71%   43.476      1 Template:Expand_language
+ 11.70%   43.440      1 Template:Reflist
+  8.26%   30.677      1 Template:Ambox
+  7.50%   27.829      1 Template:Cite_news
+  7.19%   26.702      1 Template:Commonscat
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:547863-0!*!0!!en!4!* and timestamp 20170415151221 and revision id 775540208
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;oldid=775540208">https://en.wikipedia.org/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;oldid=775540208</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:19th-century_Austrian_people" title="Category:19th-century Austrian people">19th-century Austrian people</a></li><li><a href="/wiki/Category:20th-century_Austrian_people" title="Category:20th-century Austrian people">20th-century Austrian people</a></li><li><a href="/wiki/Category:19th-century_Hungarian_people" title="Category:19th-century Hungarian people">19th-century Hungarian people</a></li><li><a href="/wiki/Category:20th-century_Hungarian_people" title="Category:20th-century Hungarian people">20th-century Hungarian people</a></li><li><a href="/wiki/Category:House_of_Habsburg-Lorraine" title="Category:House of Habsburg-Lorraine">House of Habsburg-Lorraine</a></li><li><a href="/wiki/Category:Field_marshals_of_Austria" title="Category:Field marshals of Austria">Field marshals of Austria</a></li><li><a href="/wiki/Category:Austro-Hungarian_Army_officers" title="Category:Austro-Hungarian Army officers">Austro-Hungarian Army officers</a></li><li><a href="/wiki/Category:Austro-Hungarian_military_personnel_of_World_War_I" title="Category:Austro-Hungarian military personnel of World War I">Austro-Hungarian military personnel of World War I</a></li><li><a href="/wiki/Category:Hungarian-German_people" title="Category:Hungarian-German people">Hungarian-German people</a></li><li><a href="/wiki/Category:Austrian_expatriates_in_Hungary" title="Category:Austrian expatriates in Hungary">Austrian expatriates in Hungary</a></li><li><a href="/wiki/Category:Austrian_people_of_Hungarian_descent" title="Category:Austrian people of Hungarian descent">Austrian people of Hungarian descent</a></li><li><a href="/wiki/Category:People_from_Fej%C3%A9r_County" title="Category:People from Fejér County">People from Fejér County</a></li><li><a href="/wiki/Category:Recipients_of_the_Order_of_the_Black_Eagle" title="Category:Recipients of the Order of the Black Eagle">Recipients of the Order of the Black Eagle</a></li><li><a href="/wiki/Category:Recipients_of_the_Order_of_the_Red_Eagle" title="Category:Recipients of the Order of the Red Eagle">Recipients of the Order of the Red Eagle</a></li><li><a href="/wiki/Category:Recipients_of_the_Pour_le_M%C3%A9rite_(military_class)" title="Category:Recipients of the Pour le Mérite (military class)">Recipients of the Pour le Mérite (military class)</a></li><li><a href="/wiki/Category:Knights_of_the_Golden_Fleece" title="Category:Knights of the Golden Fleece">Knights of the Golden Fleece</a></li><li><a href="/wiki/Category:1872_births" title="Category:1872 births">1872 births</a></li><li><a href="/wiki/Category:1962_deaths" title="Category:1962 deaths">1962 deaths</a></li><li><a href="/wiki/Category:Regents" title="Category:Regents">Regents</a></li><li><a href="/wiki/Category:Austrian_princes" title="Category:Austrian princes">Austrian princes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_November_2012" title="Category:Articles to be expanded from November 2012">Articles to be expanded from November 2012</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_needing_translation_from_Hungarian_Wikipedia" title="Category:Articles needing translation from Hungarian Wikipedia">Articles needing translation from Hungarian Wikipedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Archduke+Joseph+August+of+Austria" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Archduke+Joseph+August+of+Austria" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Archduke_Joseph_August_of_Austria"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Archduke_Joseph_August_of_Austria"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Archduke_Joseph_August_of_Austria" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Archduke_Joseph_August_of_Austria" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Archduke_Joseph_August_of_Austria" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;oldid=775540208" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q78535" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Archduke_Joseph_August_of_Austria&amp;id=775540208" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Archduke+Joseph+August+of+Austria">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Archduke+Joseph+August+of+Austria&amp;returnto=Archduke+Joseph+August+of+Austria&amp;oldid=775540208&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Archduke_Joseph_August_of_Austria" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Josep_August_d%27%C3%80ustria" title="Josep August d'Àustria – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Josef_August_Rakousk%C3%BD" title="Josef August Rakouský – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Joseph_August_von_%C3%96sterreich" title="Joseph August von Österreich – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Augusto_de_Austria" title="José Augusto de Austria – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Jozefo_A%C5%ADgusto_de_Habsburgo-Loreno" title="Jozefo Aŭgusto de Habsburgo-Loreno – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Joseph-Auguste_de_Habsbourg-Lorraine" title="Joseph-Auguste de Habsbourg-Lorraine – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Josef_Augustin" title="Josef Augustin – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Giuseppe_Augusto_d%27Asburgo-Lorena" title="Giuseppe Augusto d'Asburgo-Lorena – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%96%D7%A3_%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98,_%D7%90%D7%A8%D7%9B%D7%99%D7%93%D7%95%D7%9B%D7%A1_%D7%90%D7%95%D7%A1%D7%98%D7%A8%D7%99%D7%94" title="יוזף אוגוסט, ארכידוכס אוסטריה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Josifas_Augustas" title="Josifas Augustas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Habsburg_J%C3%B3zsef_magyar_korm%C3%A1nyz%C3%B3" title="Habsburg József magyar kormányzó – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Jozef_August_van_Oostenrijk" title="Jozef August van Oostenrijk – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%82%BC%E3%83%95%E3%83%BB%E3%82%A2%E3%82%A6%E3%82%B0%E3%82%B9%E3%83%88%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%92" title="ヨーゼフ・アウグスト・フォン・エスターライヒ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/J%C3%B3zef_August_Habsburg" title="Józef August Habsburg – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Jos%C3%A9_Augusto_da_%C3%81ustria" title="José Augusto da Áustria – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Arhiducele_Joseph_August_de_Austria" title="Arhiducele Joseph August de Austria – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9" title="Иосиф Август Австрийский – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Joosef_August_(It%C3%A4vallan_arkkiherttua)" title="Joosef August (Itävallan arkkiherttua) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Joseph_av_%C3%96sterrike" title="Joseph av Österrike – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q78535#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 April 2017, at 15:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Archduke_Joseph_August_of_Austria&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.537","ppvisitednodes":{"value":11559,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":204205,"limit":2097152},"templateargumentsize":{"value":19056,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  371.269      1 -total"," 41.53%  154.176      1 Template:Infobox_officeholder"," 27.22%  101.070      3 Template:Infobox"," 14.87%   55.219      1 Template:Expand_Hungarian"," 12.12%   45.005     17 Template:Infobox_officeholder/office"," 11.71%   43.476      1 Template:Expand_language"," 11.70%   43.440      1 Template:Reflist","  8.26%   30.677      1 Template:Ambox","  7.50%   27.829      1 Template:Cite_news","  7.19%   26.702      1 Template:Commonscat"]},"scribunto":{"limitreport-timeusage":{"value":"0.097","limit":"10.000"},"limitreport-memusage":{"value":4090166,"limit":52428800}},"cachereport":{"origin":"mw1282","timestamp":"20170415151221","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1215"});});</script>
+	</body>
+</html>

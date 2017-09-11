@@ -1,0 +1,1085 @@
+https://en.wikipedia.org/wiki/%C3%87anakkale
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Çanakkale - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Çanakkale","wgTitle":"Çanakkale","wgCurRevisionId":775661933,"wgRevisionId":775661933,"wgArticleId":1871641,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Articles containing Ottoman Turkish-language text","All articles with unsourced statements","Articles with unsourced statements from February 2016","Articles containing Turkish-language text","Populated coastal places in Turkey","Aegean Sea port cities and towns in Turkey","Çanakkale","Fishing communities in Turkey","Jewish communities in Turkey","Districts of Çanakkale Province"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Çanakkale","wgRelevantArticleId":1871641,"wgRequestId":"WPo4mwrAEE0AAAdsnaMAAABN","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":40.155833333333,"lon":26.413611111111},"wgWikibaseItemId":"Q199712","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/%C3%87anakkale"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=%C3%87anakkale&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=%C3%87anakkale&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/%C3%87anakkale"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Çanakkale rootpage-Çanakkale skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Çanakkale</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For the Çanakkale meteorite of 1964, see <a href="/wiki/Meteorite_falls" class="mw-redirect" title="Meteorite falls">Meteorite falls</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Çanakkale</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category"><a href="/wiki/Municipality" title="Municipality">Municipality</a></span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding:0.7em 0.8em"><a href="/wiki/File:Havadan_cnk.jpg" class="image" title="A view of city center"><img alt="A view of city center" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Havadan_cnk.jpg/250px-Havadan_cnk.jpg" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Havadan_cnk.jpg/375px-Havadan_cnk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Havadan_cnk.jpg/500px-Havadan_cnk.jpg 2x" data-file-width="900" data-file-height="602" /></a>
+<div>A view of city center</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:Turkey_adm_location_map.svg" class="image" title="Çanakkale is located in Turkey"><img alt="Çanakkale is located in Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/250px-Turkey_adm_location_map.svg.png" width="250" height="114" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/375px-Turkey_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/500px-Turkey_adm_location_map.svg.png 2x" data-file-width="1578" data-file-height="721" /></a>
+<div style="position:absolute;top:33.488%;left:5.171%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Çanakkale" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Çanakkale" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left">Çanakkale</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=%C3%87anakkale&amp;params=40_09_21_N_26_24_49_E_type:city_region:TR-17"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°09′21″N</span> <span class="longitude">26°24′49″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.15583°N 26.41361°E</span><span style="display:none">﻿ / <span class="geo">40.15583; 26.41361</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=%C3%87anakkale&amp;params=40_09_21_N_26_24_49_E_type:city_region:TR-17"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°09′21″N</span> <span class="longitude">26°24′49″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.15583°N 26.41361°E</span><span style="display:none">﻿ / <span class="geo">40.15583; 26.41361</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Provinces_of_Turkey" title="Provinces of Turkey">Province</a></th>
+<td><a href="/wiki/%C3%87anakkale_Province" title="Çanakkale Province">Çanakkale</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Mayor</th>
+<td>Ülgür Gökhan (<a href="/wiki/Republican_People%27s_Party_(Turkey)" title="Republican People's Party (Turkey)">CHP</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area<span style="font-weight:normal"><sup id="cite_ref-distr-area_1-0" class="reference"><a href="#cite_note-distr-area-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;District</th>
+<td>937.82&#160;km<sup>2</sup> (362.09&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2012)<sup id="cite_ref-population_2-0" class="reference"><a href="#cite_note-population-2">[2]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Urban_area" title="Urban area">Urban</a></th>
+<td>111,137</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;District</th>
+<td>143,041</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;District density</th>
+<td>150/km<sup>2</sup> (400/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>17</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.canakkale.bel.tr">www<wbr />.canakkale<wbr />.bel<wbr />.tr</a></span></td>
+</tr>
+</table>
+<p><b>Çanakkale</b> (pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Turkic_dialects" title="Help:IPA for Turkic dialects">[tʃaˈnakkaˌle]</a></span>; from <a href="/wiki/Ottoman_Turkish_language" title="Ottoman Turkish language">Ottoman Turkish</a> <span lang="ota" dir="rtl">چینک قلعه</span>‎, literally "pot fortress") is a city and seaport in <a href="/wiki/Turkey" title="Turkey">Turkey</a>, in <a href="/wiki/%C3%87anakkale_Province" title="Çanakkale Province">Çanakkale Province</a>, on the southern (Asian) coast of the <a href="/wiki/Dardanelles" title="Dardanelles">Dardanelles</a> at their narrowest point. The population of the town is 186,116 (2014 estimate).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The current mayor is Ülgür Gökhan (<a href="/wiki/Republican_People%27s_Party_(Turkey)" title="Republican People's Party (Turkey)">CHP</a>).</p>
+<p>Çanakkale Province, like <a href="/wiki/Istanbul_Province" title="Istanbul Province">Istanbul Province</a>, has territory in both <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Asia" title="Asia">Asia</a>. Ferries cross there to the northern (European) side of the strait.</p>
+<p>Çanakkale is the finishing point every year for an organised swim across the Hellespont from <a href="/wiki/Eceabat" title="Eceabat">Eceabat</a>. This event emulates the swim in 1810 by <a href="/wiki/Lord_Byron" title="Lord Byron">Lord Byron</a>, who was himself emulating the legendary swim by Leander in the story of <a href="/wiki/Hero_and_Leander" title="Hero and Leander">Hero and Leander</a>.</p>
+<p>The city is the nearest major town to the site of ancient <a href="/wiki/Troy" title="Troy">Troy</a>. The "wooden horse" from the 2004 movie <i><a href="/wiki/Troy_(movie)" class="mw-redirect" title="Troy (movie)">Troy</a></i> is exhibited on the seafront. Çanakkale is the second city to be <a href="/w/index.php?title=Transcontinental_city&amp;action=edit&amp;redlink=1" class="new" title="Transcontinental city (page does not exist)">situated on two continents</a> after <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>, but Çanakkale is closer to mid-division than Istanbul.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2016)">citation needed</span></a></i>]</sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name"><span class="tocnumber">1</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Legends"><span class="tocnumber">2</span> <span class="toctext">Legends</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notable_people_from_.C3.87anakkale"><span class="tocnumber">4</span> <span class="toctext">Notable people from Çanakkale</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Education"><span class="tocnumber">5</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Transportation"><span class="tocnumber">6</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Communication"><span class="tocnumber">7</span> <span class="toctext">Communication</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Climate"><span class="tocnumber">8</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Gallery"><span class="tocnumber">9</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Twinships"><span class="tocnumber">10</span> <span class="toctext">Twinships</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=1" title="Edit section: Name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Çanakkale is the name for a site earlier known as Kale-I-Sultaniye, which was adopted as the official term for the town in 1890, though current a century earlier.<sup id="cite_ref-Cook_4-0" class="reference"><a href="#cite_note-Cook-4">[4]</a></sup> Çanakkale was an <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> fortress called <i>Kale-i Sultaniye</i> (<a href="/wiki/Ottoman_Turkish_language" title="Ottoman Turkish language">Ottoman Turkish</a>: <span lang="ota-Arab" dir="rtl">قلعة سلطانيه</span>‎) or <i>Sultaniye kalesi</i> (Fortress of the Sultan). From the late 17th century it also became known for its fine-glazed pottery, <a href="/wiki/%C3%87anakkale_ceramics" title="Çanakkale ceramics">Çanakkale ceramics</a>, compared by one traveler to <a href="/wiki/Delftware" title="Delftware">Delftware</a> hence the later name <i>Çanak kalesi</i> 'pot fortress'. The <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Greek Byzantine</a> name for Çanakkale چینک قله was Δαρδανέλλια, <i>Dardanellia</i>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> from which the <a href="/wiki/English_language" title="English language">English</a> name <a href="/wiki/Dardanelles" title="Dardanelles">Dardanelles</a> is derived.</p>
+<p>As of 1920, the <a href="/wiki/British_people" title="British people">British</a> began to call Çanakkale, <b>Chanak</b> and <b>Kale Sultanie</b> in their reporting.<sup id="cite_ref-Prothero76_6-0" class="reference"><a href="#cite_note-Prothero76-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Legends">Legends</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=2" title="Edit section: Legends">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ancient <a href="/wiki/Abydos,_Hellespont" class="mw-redirect" title="Abydos, Hellespont">Abydos</a>, where the story of <a href="/wiki/Hero_and_Leander" title="Hero and Leander">Hero and Leander</a> takes place, is to the north of Çanakkale.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:227px;"><a href="/wiki/File:612CanakkaleCavalloTroia.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/612CanakkaleCavalloTroia.JPG/225px-612CanakkaleCavalloTroia.JPG" width="225" height="169" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/612CanakkaleCavalloTroia.JPG/338px-612CanakkaleCavalloTroia.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/612CanakkaleCavalloTroia.JPG/450px-612CanakkaleCavalloTroia.JPG 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:612CanakkaleCavalloTroia.JPG" class="internal" title="Enlarge"></a></div>
+This is the <a href="/wiki/Trojan_horse" class="mw-redirect" title="Trojan horse">Trojan horse</a> that appeared in the <a href="/wiki/Troy_(film)" title="Troy (film)">Brad Pitt movie</a>, now in the town of Çanakkale near <a href="/wiki/Troy" title="Troy">Troy</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:227px;"><a href="/wiki/File:Canakkale_harbour.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Canakkale_harbour.jpg/225px-Canakkale_harbour.jpg" width="225" height="155" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Canakkale_harbour.jpg/338px-Canakkale_harbour.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Canakkale_harbour.jpg/450px-Canakkale_harbour.jpg 2x" data-file-width="784" data-file-height="541" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Canakkale_harbour.jpg" class="internal" title="Enlarge"></a></div>
+View of the harbour in Çanakkale</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:227px;"><a href="/wiki/File:ChanakkaleFerry.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ChanakkaleFerry.jpg/225px-ChanakkaleFerry.jpg" width="225" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ChanakkaleFerry.jpg/338px-ChanakkaleFerry.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ChanakkaleFerry.jpg/450px-ChanakkaleFerry.jpg 2x" data-file-width="800" data-file-height="582" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ChanakkaleFerry.jpg" class="internal" title="Enlarge"></a></div>
+Çanakkale <a href="/wiki/Ferry" title="Ferry">ferry</a> line across the <a href="/wiki/Dardanelles" title="Dardanelles">Dardanelles</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:227px;"><a href="/wiki/File:Canakkale_fortress.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canakkale_fortress.jpg/225px-Canakkale_fortress.jpg" width="225" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canakkale_fortress.jpg/338px-Canakkale_fortress.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canakkale_fortress.jpg/450px-Canakkale_fortress.jpg 2x" data-file-width="1840" data-file-height="1232" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Canakkale_fortress.jpg" class="internal" title="Enlarge"></a></div>
+Çanakkale fortress</div>
+</div>
+</div>
+<p>The first inhabitants of the area, which hosted many civilizations, lived on the <a href="/wiki/Biga,_%C3%87anakkale" title="Biga, Çanakkale">Biga</a> Peninsula in the Last <a href="/wiki/Chalcolithic" title="Chalcolithic">Chalcolithic</a> Age c. 6000 years ago. However, very little is known about the identity and lifestyle of these early settlers. According to some excavations and research, the earliest settlements in the region were established at <a href="/wiki/Kumtepe" title="Kumtepe">Kumtepe</a>. It is supposed that <a href="/w/index.php?title=Kumkale&amp;action=edit&amp;redlink=1" class="new" title="Kumkale (page does not exist)">Kumkale</a> was established in 4000 BC and <a href="/wiki/Troy" title="Troy">Troy</a> between 3500–3000 BC.</p>
+<p><a href="/wiki/Aeolians" title="Aeolians">Aeolian Greeks</a> settled on the land in the 8th century BC and established trade colonies in the region called <a href="/wiki/Aeolis" title="Aeolis">Aeolis</a>. The region came under the control of the <a href="/wiki/Lydia" title="Lydia">Lydians</a> in the 7th century BC and under the control of the <a href="/wiki/Persia" class="mw-redirect" title="Persia">Persians</a> in the 6th century BC. Aeolis went under the control of the <a href="/wiki/Ancient_Macedonian_army" title="Ancient Macedonian army">Ancient Macedonian army</a> as <a href="/wiki/Alexander_the_Great" title="Alexander the Great">Alexander the Great</a> defeated the Persians by the <a href="/wiki/Biga_%C3%87ay%C4%B1" title="Biga Çayı">Granicus River</a> of the region in the <a href="/wiki/Battle_of_the_Granicus" title="Battle of the Granicus">Battle of the Granicus</a> on his way to <a href="/wiki/Asia_Minor" class="mw-redirect" title="Asia Minor">Asia</a>. The region came under the reign of the Kingdom of <a href="/wiki/Pergamon" title="Pergamon">Pergamon</a> in the 2nd century BC.</p>
+<p>Çanakkale itself was built as a fortress in 1462 by <a href="/wiki/Mehmed_the_Conqueror" title="Mehmed the Conqueror">Mehmed 11 Fatih</a>, who gave it the name Kale-I Sultaniye, since one of the Sultan's sons had collaborated in its construction.<sup id="cite_ref-Cook_4-1" class="reference"><a href="#cite_note-Cook-4">[4]</a></sup> Sited on a bay at the narrowest point of the strait, it, together with another nearby fort, Kilid Bahr, provided an excellent position for controlling traffic through the Dardanelles. The two forts were quickly called in the travel literature "The Castles", and a town developed to the north-east, settled by Armenian refugees and Spanish Jews.</p>
+<p>From the Renaissance period onwards, after their <a href="/wiki/Alhambra_Decree" title="Alhambra Decree">expulsion from Spain</a>, Jewish refugees settled in Çanakkale and formed a sizeable community which thrived by supplying Mediterranean shipping in the region with provisions and acting as consular agents for many European nations. Down to the late 19th century they retained Spanish as a mother-tongue. Some 1,805 Jews were registered there in 1890, out of a population of 10,862, the rest being Muslims (3,551), Orthodox Greeks (2,577), Armenians (956) and assorted foreigners (2,173).,<sup id="cite_ref-Cook_4-2" class="reference"><a href="#cite_note-Cook-4">[4]</a></sup></p>
+<p>The western part of the Biga Peninsula where ancient Troy is situated was called <a href="/wiki/Troad" title="Troad">Troas</a>. <a href="/wiki/Alexandria_Troas" title="Alexandria Troas">Alexandria Troas</a>, an important settlement of the region, was a free trade port and a rich trade center during <a href="/wiki/Roman_Empire" title="Roman Empire">Roman</a> times. Later in the 2nd century AD, the region was attacked by <a href="/wiki/Goths" title="Goths">Goths</a> from <a href="/wiki/Thrace" title="Thrace">Thrace</a>. During the 7th and 8th centuries, in order to attack <a href="/wiki/Constantinople" title="Constantinople">Constantinople</a> the <a href="/wiki/Arab" class="mw-redirect" title="Arab">Arabs</a> passed the strait a few times and came up to <a href="/wiki/Sestos" title="Sestos">Sestos</a>. At the beginning of the 14th century the <a href="/wiki/Karasids" title="Karasids">Karasids</a> dominated the Anatolian part of the strait. During the first half of that century <a href="/w/index.php?title=Demirhan_Bey&amp;action=edit&amp;redlink=1" class="new" title="Demirhan Bey (page does not exist)">Demirhan Bey</a> from Karasids attempted to dominate the region. The <a href="/wiki/Ottomans" class="mw-redirect" title="Ottomans">Ottomans</a> gained control of <a href="/wiki/Gallipoli" title="Gallipoli">Gallipoli</a> in 1367.</p>
+<p>In 1915, during the <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a>, <a href="/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">British Empire</a> and <a href="/wiki/French_Third_Republic" title="French Third Republic">France</a> attempted to secure the waterway through the Straits and ultimately capture Constantinople. Known as The <a href="/wiki/Gallipoli_Campaign" title="Gallipoli Campaign">Gallipoli Campaign</a>, or the Dardanelles Campaign, in Turkey it is referred to as the Battle of Çanakkale (<a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>: <span lang="tr"><i>Çanakkale Savaşı</i></span>), during March 1915 when the <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> failed to force the Dardanelles and suffered severe losses. During a series of operations, <a href="/wiki/HMS_Triumph_(1903)" title="HMS Triumph (1903)"><i>HMS Triumph</i></a>, <a href="/wiki/HMS_Ocean_(1898)" title="HMS Ocean (1898)"><i>HMS Ocean</i></a>, <a href="/wiki/HMS_Goliath_(1898)" title="HMS Goliath (1898)"><i>HMS Goliath</i></a>, <a href="/wiki/HMS_Irresistible_(1898)" title="HMS Irresistible (1898)"><i>HMS Irresistible</i></a> and the French battleship <i><a href="/wiki/French_battleship_Bouvet" title="French battleship Bouvet">Bouvet</a></i> were all sunk. The French submarine Q84 <i><a href="/wiki/French_submarine_Joule_(Q84)" class="mw-redirect" title="French submarine Joule (Q84)">Joule</a></i> and the Australian submarine <i><a href="/wiki/HMAS_AE2" title="HMAS AE2">AE2</a></i> were also destroyed and several other important ships were crippled too. Most of the damage was inflicted by mines, though a German U-Boat and Turkish small craft contributed too.</p>
+<p>As of 1920, the city was estimated to have a population of approximately 22,000. An active <a href="/wiki/Port_city" class="mw-redirect" title="Port city">port city</a>, it was a stopping point for vessels traveling through the strait, as it had been in the ancient past. It was described as lacking quality accommodations and resources for those passing through by the British who visited the region. Exported goods from the city included <a href="/wiki/Wine" title="Wine">wine</a>, hides, <a href="/wiki/Pottery" title="Pottery">pottery</a>, <a href="/wiki/Ceramic_tile" class="mw-redirect" title="Ceramic tile">ceramic tiles</a> and grain.<sup id="cite_ref-Prothero76_6-1" class="reference"><a href="#cite_note-Prothero76-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Notable_people_from_.C3.87anakkale">Notable people from Çanakkale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=4" title="Edit section: Notable people from Çanakkale">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Nuri_Bilge_Ceylan" title="Nuri Bilge Ceylan">Nuri Bilge Ceylan</a> (film director)</li>
+<li><a href="/wiki/Metin_Erksan" title="Metin Erksan">Metin Erksan</a> (film director)</li>
+<li>Ali Teoman Alpay (composer)</li>
+<li><a href="/wiki/Tevfik_R%C3%BC%C5%9Ft%C3%BC_Aras" title="Tevfik Rüştü Aras">Tevfik Rüştü Aras</a> (Turkish foreign minister)</li>
+<li>İbrahim Bodur (entrepreneur)</li>
+<li><a href="/wiki/Mustafa_Tutkun" title="Mustafa Tutkun">Mustafa Tutkun</a> (humanitarian activist)</li>
+<li><a href="/wiki/G%C3%BCney_Dal" title="Güney Dal">Güney Dal</a> (writer)</li>
+<li>Tahir Musa Ceylan (novelist/philosopher)</li>
+<li><a href="/w/index.php?title=Aslihan_Gurbuz&amp;action=edit&amp;redlink=1" class="new" title="Aslihan Gurbuz (page does not exist)">Aslihan Gurbuz</a> (actress)</li>
+</ul>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=5" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The service of <a href="/wiki/Education" title="Education">education</a> throughout the city is above the country average. There are 13 high schools and a college within the boundaries of the city. <a href="/wiki/%C3%87anakkale_Onsekiz_Mart_University" title="Çanakkale Onsekiz Mart University">Çanakkale Onsekiz Mart University</a> has 12 faculties, 4 institutes, 9 4-year colleges, 14 vocational schools and serves more than 37,500 students. 30 percent of the city population are college graduates.</p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=6" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Çanakkale has one airport, which is 3&#160;km from the city centre, serving since 1995. <a href="/wiki/Anadolu_Jet" class="mw-redirect" title="Anadolu Jet">Anadolu Jet</a>, a trademark of <a href="/wiki/Turkish_Airlines" title="Turkish Airlines">Turkish Airlines</a>, and <a href="/wiki/Borajet" title="Borajet">Borajet</a> has flights from Istanbul and <a href="/wiki/Ankara" title="Ankara">Ankara</a> seven days a week.</p>
+<p>Sea transportation is vital for the city since it is located on both sides, on Asian and European continents just like Istanbul.</p>
+<p>Çanakkale is linked to north, east, and south by well-paved highways numbered E87/E90/<a href="/wiki/State_road_D550_(Turkey)" title="State road D550 (Turkey)"><img alt="D-550" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D_550.png/49px-D_550.png" width="49" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D_550.png/75px-D_550.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D_550.png/97px-D_550.png 2x" data-file-width="1099" data-file-height="296" /></a> , E90/D200, and E87/D550 respectively. There are buses from Istanbul and <a href="/wiki/Izmir" class="mw-redirect" title="Izmir">Izmir</a> at any time, day or night. It takes five and a half to six hours to get from Istanbul to Çanakkale, and about the same time from Izmir.</p>
+<h2><span class="mw-headline" id="Communication">Communication</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=7" title="Edit section: Communication">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>North of Çanakkale at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=%C3%87anakkale&amp;params=40_10_17.66_N_26_24_34.34_E_type:landmark&amp;title=TBG+transmitter"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°10′17.66″N</span> <span class="longitude">26°24′34.34″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.1715722°N 26.4095389°E</span><span style="display:none">﻿ / <span class="geo">40.1715722; 26.4095389</span></span><span style="display:none">﻿ (<span class="fn org">TBG transmitter</span>)</span></span></span></a></span>, there is a guyed mast used for the maritime LF-transmitter TBG, working on 53.4&#160;kHz.</p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=8" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Çanakkale has a <a href="/wiki/Mediterranean_climate" title="Mediterranean climate">mediterranean climate</a> with hot and dry summers and cool and rainy winters. Snow falls ordinarily every winter.</p>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Çanakkale</th>
+</tr>
+<tr>
+<th>Month</th>
+<th>Jan</th>
+<th>Feb</th>
+<th>Mar</th>
+<th>Apr</th>
+<th>May</th>
+<th>Jun</th>
+<th>Jul</th>
+<th>Aug</th>
+<th>Sep</th>
+<th>Oct</th>
+<th>Nov</th>
+<th>Dec</th>
+<th style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Record high °C (°F)</th>
+<td style="background: #FF942A; color:#000000;">19.9<br />
+(67.8)</td>
+<td style="background: #FF8B18; color:#000000;">21.2<br />
+(70.2)</td>
+<td style="background: #FF7700; color:#000000;">24.2<br />
+(75.6)</td>
+<td style="background: #FF6A00; color:#000000;">26.1<br />
+(79)</td>
+<td style="background: #FF4000; color:#000000;">32.1<br />
+(89.8)</td>
+<td style="background: #FF2000; color:#000000;">36.8<br />
+(98.2)</td>
+<td style="background: #FF1100; color:#FFFFFF;">39.0<br />
+(102.2)</td>
+<td style="background: #FF1300; color:#FFFFFF;">38.6<br />
+(101.5)</td>
+<td style="background: #FF2A00; color:#000000;">35.4<br />
+(95.7)</td>
+<td style="background: #FF4300; color:#000000;">31.7<br />
+(89.1)</td>
+<td style="background: #FF7000; color:#000000;">25.2<br />
+(77.4)</td>
+<td style="background: #FF8206; color:#000000;">22.5<br />
+(72.5)</td>
+<td style="background: #FF1100; color:#FFFFFF; border-left-width:medium">39<br />
+(102.2)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #FFDBB8; color:#000000;">9.6<br />
+(49.3)</td>
+<td style="background: #FFDAB5; color:#000000;">9.8<br />
+(49.6)</td>
+<td style="background: #FFC993; color:#000000;">12.3<br />
+(54.1)</td>
+<td style="background: #FFA954; color:#000000;">16.9<br />
+(62.4)</td>
+<td style="background: #FF8308; color:#000000;">22.4<br />
+(72.3)</td>
+<td style="background: #FF5F00; color:#000000;">27.7<br />
+(81.9)</td>
+<td style="background: #FF4B00; color:#000000;">30.6<br />
+(87.1)</td>
+<td style="background: #FF4D00; color:#000000;">30.3<br />
+(86.5)</td>
+<td style="background: #FF6A00; color:#000000;">26.0<br />
+(78.8)</td>
+<td style="background: #FF9022; color:#000000;">20.5<br />
+(68.9)</td>
+<td style="background: #FFB368; color:#000000;">15.4<br />
+(59.7)</td>
+<td style="background: #FFD0A1; color:#000000;">11.3<br />
+(52.3)</td>
+<td style="background: #FF9831; color:#000000; border-left-width:medium">19.4<br />
+(66.91)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Daily mean °C (°F)</th>
+<td style="background: #FFF3E7; color:#000000;">6.2<br />
+(43.2)</td>
+<td style="background: #FFF1E3; color:#000000;">6.5<br />
+(43.7)</td>
+<td style="background: #FFE4CA; color:#000000;">8.3<br />
+(46.9)</td>
+<td style="background: #FFC790; color:#000000;">12.5<br />
+(54.5)</td>
+<td style="background: #FFA54B; color:#000000;">17.5<br />
+(63.5)</td>
+<td style="background: #FF8308; color:#000000;">22.4<br />
+(72.3)</td>
+<td style="background: #FF7100; color:#000000;">25.0<br />
+(77)</td>
+<td style="background: #FF7300; color:#000000;">24.8<br />
+(76.6)</td>
+<td style="background: #FF8E1E; color:#000000;">20.8<br />
+(69.4)</td>
+<td style="background: #FFAF60; color:#000000;">16.0<br />
+(60.8)</td>
+<td style="background: #FFCC99; color:#000000;">11.9<br />
+(53.4)</td>
+<td style="background: #FFE4C9; color:#000000;">8.4<br />
+(47.1)</td>
+<td style="background: #FFB66D; color:#000000; border-left-width:medium">15.03<br />
+(59.03)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #F8F8FF; color:#000000;">3.3<br />
+(37.9)</td>
+<td style="background: #F9F9FF; color:#000000;">3.4<br />
+(38.1)</td>
+<td style="background: #FFFBF8; color:#000000;">5.0<br />
+(41)</td>
+<td style="background: #FFE2C5; color:#000000;">8.7<br />
+(47.7)</td>
+<td style="background: #FFC58B; color:#000000;">12.9<br />
+(55.2)</td>
+<td style="background: #FFA851; color:#000000;">17.1<br />
+(62.8)</td>
+<td style="background: #FF952C; color:#000000;">19.8<br />
+(67.6)</td>
+<td style="background: #FF942A; color:#000000;">19.9<br />
+(67.8)</td>
+<td style="background: #FFAF5F; color:#000000;">16.1<br />
+(61)</td>
+<td style="background: #FFC993; color:#000000;">12.3<br />
+(54.1)</td>
+<td style="background: #FFE5CC; color:#000000;">8.2<br />
+(46.8)</td>
+<td style="background: #FFF9F3; color:#000000;">5.3<br />
+(41.5)</td>
+<td style="background: #FFD2A5; color:#000000; border-left-width:medium">11<br />
+(51.79)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Record low °C (°F)</th>
+<td style="background: #B8B8FF; color:#000000;">−8.6<br />
+(16.5)</td>
+<td style="background: #AAAAFF; color:#000000;">−11.2<br />
+(11.8)</td>
+<td style="background: #B9B9FF; color:#000000;">−8.4<br />
+(16.9)</td>
+<td style="background: #DFDFFF; color:#000000;">−1.3<br />
+(29.7)</td>
+<td style="background: #F9F9FF; color:#000000;">3.4<br />
+(38.1)</td>
+<td style="background: #FFE4C9; color:#000000;">8.4<br />
+(47.1)</td>
+<td style="background: #FFCE9D; color:#000000;">11.6<br />
+(52.9)</td>
+<td style="background: #FFCE9D; color:#000000;">11.6<br />
+(52.9)</td>
+<td style="background: #FFE5CC; color:#000000;">8.2<br />
+(46.8)</td>
+<td style="background: #E8E8FF; color:#000000;">0.4<br />
+(32.7)</td>
+<td style="background: #D7D7FF; color:#000000;">−2.8<br />
+(27)</td>
+<td style="background: #BFBFFF; color:#000000;">−7.2<br />
+(19)</td>
+<td style="background: #AAAAFF; color:#000000; border-left-width:medium">−11.2<br />
+(11.8)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)</th>
+<td style="background: #7F7FFF; color:#000000;">85.3<br />
+(3.358)</td>
+<td style="background: #9191FF; color:#000000;">66.2<br />
+(2.606)</td>
+<td style="background: #9C9CFF; color:#000000;">65.8<br />
+(2.591)</td>
+<td style="background: #B6B6FF; color:#000000;">47.3<br />
+(1.862)</td>
+<td style="background: #CFCFFF; color:#000000;">32.1<br />
+(1.264)</td>
+<td style="background: #DBDBFF; color:#000000;">23.1<br />
+(0.909)</td>
+<td style="background: #E9E9FF; color:#000000;">14.6<br />
+(0.575)</td>
+<td style="background: #F4F4FF; color:#000000;">6.9<br />
+(0.272)</td>
+<td style="background: #DDDDFF; color:#000000;">21.9<br />
+(0.862)</td>
+<td style="background: #A8A8FF; color:#000000;">58.0<br />
+(2.283)</td>
+<td style="background: #7575FF; color:#000000;">89.1<br />
+(3.508)</td>
+<td style="background: #6666FF; color:#FFFFFF;">102.4<br />
+(4.031)</td>
+<td style="background: #B1B1FF; color:#000000; border-left-width:medium">612.7<br />
+(24.121)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average rainy days</th>
+<td style="background: #7878FF; color:#000000;">10.9</td>
+<td style="background: #7272FF; color:#000000;">10.3</td>
+<td style="background: #8F8FFF; color:#000000;">9.0</td>
+<td style="background: #9393FF; color:#000000;">8.4</td>
+<td style="background: #B9B9FF; color:#000000;">5.6</td>
+<td style="background: #C8C8FF; color:#000000;">4.3</td>
+<td style="background: #D2D2FF; color:#000000;">3.6</td>
+<td style="background: #E5E5FF; color:#000000;">2.1</td>
+<td style="background: #D1D1FF; color:#000000;">3.6</td>
+<td style="background: #ADADFF; color:#000000;">6.6</td>
+<td style="background: #8A8AFF; color:#000000;">9.1</td>
+<td style="background: #6969FF; color:#000000;">12.1</td>
+<td style="background: #A5A5FF; color:#000000; border-left-width:medium">85.6</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Mean monthly <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a></th>
+<td style="background: #AFAF88; color:#000000;">105.4</td>
+<td style="background: #BDBD33; color:#000000;">123.2</td>
+<td style="background: #CDCD00; color:#000000;">170.5</td>
+<td style="background: #DDDD00; color:#000000;">219.0</td>
+<td style="background: #EDED08; color:#000000;">294.5</td>
+<td style="background: #F8F823; color:#000000;">333.0</td>
+<td style="background: #FDFD2F; color:#000000;">365.8</td>
+<td style="background: #FAFA27; color:#000000;">350.3</td>
+<td style="background: #E9E900; color:#000000;">267.0</td>
+<td style="background: #D6D600; color:#000000;">195.3</td>
+<td style="background: #BDBD33; color:#000000;">132.0</td>
+<td style="background: #A9A9A9; color:#000000;">93.0</td>
+<td style="background: #DDDD00; color:#000000; border-left-width:medium">2,649</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: Devlet Meteoroloji İşleri Genel Müdürlüğü <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=9" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:32.5px auto;"><a href="/wiki/File:Anzac_Beach_1915.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anzac_Beach_1915.jpg/120px-Anzac_Beach_1915.jpg" width="120" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anzac_Beach_1915.jpg/180px-Anzac_Beach_1915.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anzac_Beach_1915.jpg/240px-Anzac_Beach_1915.jpg 2x" data-file-width="1024" data-file-height="722" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Çanakkale in 1915</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Dardanelles_and_Gulf_of_Saros_by_Piri_Reis.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dardanelles_and_Gulf_of_Saros_by_Piri_Reis.jpg/87px-Dardanelles_and_Gulf_of_Saros_by_Piri_Reis.jpg" width="87" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dardanelles_and_Gulf_of_Saros_by_Piri_Reis.jpg/131px-Dardanelles_and_Gulf_of_Saros_by_Piri_Reis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dardanelles_and_Gulf_of_Saros_by_Piri_Reis.jpg/174px-Dardanelles_and_Gulf_of_Saros_by_Piri_Reis.jpg 2x" data-file-width="600" data-file-height="826" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Dardanelles" title="Dardanelles">Dardanelles</a> on the Kitab-ı Bahriye</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Walls_of_Troy_(1).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Walls_of_Troy_%281%29.jpg/120px-Walls_of_Troy_%281%29.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Walls_of_Troy_%281%29.jpg/180px-Walls_of_Troy_%281%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Walls_of_Troy_%281%29.jpg/240px-Walls_of_Troy_%281%29.jpg 2x" data-file-width="1454" data-file-height="1090" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Portion of the legendary walls of <a href="/wiki/Troy" title="Troy">Troy</a> (VII)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:British_monument.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/British_monument.jpg/90px-British_monument.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/British_monument.jpg/135px-British_monument.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/British_monument.jpg/180px-British_monument.jpg 2x" data-file-width="1536" data-file-height="2048" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A British war monument for the Battle of Gallipoli, 1915</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Canakkale_clock_tower.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Canakkale_clock_tower.jpg/80px-Canakkale_clock_tower.jpg" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Canakkale_clock_tower.jpg/120px-Canakkale_clock_tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Canakkale_clock_tower.jpg/161px-Canakkale_clock_tower.jpg 2x" data-file-width="1232" data-file-height="1840" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Çanakkale Clock Tower</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Aynal%C4%B1_%C3%87ar%C5%9F%C4%B1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aynal%C4%B1_%C3%87ar%C5%9F%C4%B1.JPG/120px-Aynal%C4%B1_%C3%87ar%C5%9F%C4%B1.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aynal%C4%B1_%C3%87ar%C5%9F%C4%B1.JPG/180px-Aynal%C4%B1_%C3%87ar%C5%9F%C4%B1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aynal%C4%B1_%C3%87ar%C5%9F%C4%B1.JPG/240px-Aynal%C4%B1_%C3%87ar%C5%9F%C4%B1.JPG 2x" data-file-width="2816" data-file-height="2112" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Aynalı Çarşı</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Chanakkale_Turkey.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chanakkale_Turkey.jpg/120px-Chanakkale_Turkey.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chanakkale_Turkey.jpg/180px-Chanakkale_Turkey.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chanakkale_Turkey.jpg/240px-Chanakkale_Turkey.jpg 2x" data-file-width="3264" data-file-height="2448" /></a></div>
+</div>
+<div class="gallerytext">
+<p>View from Dardanelles strait</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Hadrian_Statue_from_Troia_IX_(BC_85_AD_450),_found_in_the_Odeon,_Troy_(Ilium),_Canakkale_Museum_Turkey_(7446259522).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hadrian_Statue_from_Troia_IX_%28BC_85_AD_450%29%2C_found_in_the_Odeon%2C_Troy_%28Ilium%29%2C_Canakkale_Museum_Turkey_%287446259522%29.jpg/90px-Hadrian_Statue_from_Troia_IX_%28BC_85_AD_450%29%2C_found_in_the_Odeon%2C_Troy_%28Ilium%29%2C_Canakkale_Museum_Turkey_%287446259522%29.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hadrian_Statue_from_Troia_IX_%28BC_85_AD_450%29%2C_found_in_the_Odeon%2C_Troy_%28Ilium%29%2C_Canakkale_Museum_Turkey_%287446259522%29.jpg/135px-Hadrian_Statue_from_Troia_IX_%28BC_85_AD_450%29%2C_found_in_the_Odeon%2C_Troy_%28Ilium%29%2C_Canakkale_Museum_Turkey_%287446259522%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hadrian_Statue_from_Troia_IX_%28BC_85_AD_450%29%2C_found_in_the_Odeon%2C_Troy_%28Ilium%29%2C_Canakkale_Museum_Turkey_%287446259522%29.jpg/180px-Hadrian_Statue_from_Troia_IX_%28BC_85_AD_450%29%2C_found_in_the_Odeon%2C_Troy_%28Ilium%29%2C_Canakkale_Museum_Turkey_%287446259522%29.jpg 2x" data-file-width="3068" data-file-height="4093" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Hadrian Statue from Troia IX (BC 85 AD 450), found in the Odeon, Troy (Ilium), Çanakkale Museum</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:%C3%87anakkale_4830.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%C3%87anakkale_4830.jpg/90px-%C3%87anakkale_4830.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%C3%87anakkale_4830.jpg/135px-%C3%87anakkale_4830.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%C3%87anakkale_4830.jpg/180px-%C3%87anakkale_4830.jpg 2x" data-file-width="1932" data-file-height="2576" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/%C3%87anakkale_Martyrs%27_Memorial" title="Çanakkale Martyrs' Memorial">Çanakkale Martyrs' Memorial</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Troy_(Ilion),_Turkey_(7446455084).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Troy_%28Ilion%29%2C_Turkey_%287446455084%29.jpg/90px-Troy_%28Ilion%29%2C_Turkey_%287446455084%29.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Troy_%28Ilion%29%2C_Turkey_%287446455084%29.jpg/135px-Troy_%28Ilion%29%2C_Turkey_%287446455084%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Troy_%28Ilion%29%2C_Turkey_%287446455084%29.jpg/180px-Troy_%28Ilion%29%2C_Turkey_%287446455084%29.jpg 2x" data-file-width="3216" data-file-height="4288" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Troian horse</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33.5px auto;"><a href="/wiki/File:Canakkale_Friedhof.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canakkale_Friedhof.JPG/120px-Canakkale_Friedhof.JPG" width="120" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canakkale_Friedhof.JPG/180px-Canakkale_Friedhof.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canakkale_Friedhof.JPG/240px-Canakkale_Friedhof.JPG 2x" data-file-width="1943" data-file-height="1346" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Çanakkale First World War Cemetery</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Canakkal_Strateji_Merkezi.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Canakkal_Strateji_Merkezi.JPG/120px-Canakkal_Strateji_Merkezi.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Canakkal_Strateji_Merkezi.JPG/180px-Canakkal_Strateji_Merkezi.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Canakkal_Strateji_Merkezi.JPG/240px-Canakkal_Strateji_Merkezi.JPG 2x" data-file-width="461" data-file-height="346" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/%C3%87anakkale_Onsekiz_Mart_University" title="Çanakkale Onsekiz Mart University">Çanakkale University</a> Strategic Research Centre</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Twinships">Twinships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=10" title="Edit section: Twinships">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Pomezia" title="Pomezia">Pomezia</a>, <a href="/wiki/Italy" title="Italy">Italy</a></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a>, <a href="/wiki/Germany" title="Germany">Germany</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Battle_of_Gallipoli" class="mw-redirect" title="Battle of Gallipoli">Battle of Gallipoli</a></li>
+<li><a href="/wiki/G%C3%BCzelyal%C4%B1,_%C3%87anakkale" title="Güzelyalı, Çanakkale">Güzelyalı</a>, a nearby town</li>
+<li><a href="/wiki/Chanak_Crisis" title="Chanak Crisis">Chanak Crisis</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-distr-area-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-distr-area_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tuikapp.tuik.gov.tr/Bolgesel/menuAction.do?dil=en">"Area of regions (including lakes), km²"</a>. <i>Regional Statistics Database</i>. Turkish Statistical Institute. 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C3%87anakkale&amp;rft.atitle=Area+of+regions+%28including+lakes%29%2C+km%B2&amp;rft.date=2002&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftuikapp.tuik.gov.tr%2FBolgesel%2FmenuAction.do%3Fdil%3Den&amp;rft.jtitle=Regional+Statistics+Database&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-population-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-population_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rapor.tuik.gov.tr/reports/rwservlet?adnksdb2&amp;ENVID=adnksdb2Env&amp;report=wa_turkiye_ilce_koy_sehir.RDF&amp;p_il1=17&amp;p_kod=1&amp;p_yil=2012&amp;p_dil=2&amp;desformat=html">"Population of province/district centers and towns/villages by districts - 2012"</a>. <i>Address Based Population Registration System (ABPRS) Database</i>. Turkish Statistical Institute<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C3%87anakkale&amp;rft.atitle=Population+of+province%2Fdistrict+centers+and+towns%2Fvillages+by+districts+-+2012&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Frapor.tuik.gov.tr%2Freports%2Frwservlet%3Fadnksdb2%26ENVID%3Dadnksdb2Env%26report%3Dwa_turkiye_ilce_koy_sehir.RDF%26p_il1%3D17%26p_kod%3D1%26p_yil%3D2012%26p_dil%3D2%26desformat%3Dhtml&amp;rft.jtitle=Address+Based+Population+Registration+System+%28ABPRS%29+Database&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://report.tuik.gov.tr/reports/rwservlet?adnksdb2=&amp;ENVID=adnksdb2Env&amp;report=idari_yapi_09sonrasi.RDF&amp;p_il1=17&amp;p_yil=2010&amp;p_dil=2&amp;desformat=html">Statistical Institute</a></span></li>
+<li id="cite_note-Cook-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cook_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cook_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Cook_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/John_Manuel_Cook" title="John Manuel Cook">J.M.Cook</a>, <i>The Troad:An Archaeological and Topological Survey,</i> Clarendon Press Oxford 1973 p.53, and n.3.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Régis Darques, <i>Salonique au XXe siècle: De la cité ottomane à la métropole grecque,</i> editions CNRS 2000 p.299.</span></li>
+<li id="cite_note-Prothero76-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Prothero76_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Prothero76_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Prothero, G.W. (1920). <a rel="nofollow" class="external text" href="http://www.wdl.org/en/item/11766/view/1/76/"><i>Anatolia</i></a>. London: H.M. Stationery Office.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A%C3%87anakkale&amp;rft.aufirst=G.W.&amp;rft.aulast=Prothero&amp;rft.btitle=Anatolia&amp;rft.date=1920&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wdl.org%2Fen%2Fitem%2F11766%2Fview%2F1%2F76%2F&amp;rft.place=London&amp;rft.pub=H.M.+Stationery+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dmi.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?m=CANAKKALE">İl ve İlçelerimize Ait İstatistiki Veriler- Meteoroloji Genel Müdürlüğü</a></span></li>
+</ol>
+</div>
+<ul>
+<li><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica Eleventh Edition</a> <i>s.v.</i> Dardanelles (town).</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/%C3%87anakkale" class="extiw" title="commons:Çanakkale">Çanakkale</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/%C3%87anakkale#Q199712" class="extiw" title="wikivoyage:Çanakkale">Çanakkale</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.canakkaleicinde.com/">Çanakkale (in Turkish)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.canakkaleili.com/">Çanakkale Özel website (in Turkish)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.pbase.com/dosseman/canakkale_turkey">Pictures of the town and sub-galleries to major sights</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gallipoli.com.tr/battlefields_gallipoli_campaign.htm">An overview of memorials, cemeteries and relics of the Gallipoli campaign</a>, in Turkish known as the Çanakkale wars.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby=".C3.87anakkale_in_.C3.87anakkale_Province_of_Turkey" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Districts_of_Turkey" title="Template:Districts of Turkey"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Districts_of_Turkey" title="Template talk:Districts of Turkey"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Districts_of_Turkey&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id=".C3.87anakkale_in_.C3.87anakkale_Province_of_Turkey" style="font-size:114%;margin:0 4em">Çanakkale in <a href="/wiki/%C3%87anakkale_Province" title="Çanakkale Province">Çanakkale Province</a> of <a href="/wiki/Turkey" title="Turkey">Turkey</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Districts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ayvac%C4%B1k,_%C3%87anakkale" title="Ayvacık, Çanakkale">Ayvacık</a></li>
+<li><a href="/wiki/Bayrami%C3%A7" title="Bayramiç">Bayramiç</a></li>
+<li><a href="/wiki/Biga,_%C3%87anakkale" title="Biga, Çanakkale">Biga</a></li>
+<li><a href="/wiki/Bozcaada_(district)" class="mw-redirect" title="Bozcaada (district)">Bozcaada</a></li>
+<li><a href="/wiki/%C3%87an" title="Çan">Çan</a></li>
+<li><b><a class="mw-selflink selflink">Çanakkale</a></b></li>
+<li><a href="/wiki/Eceabat" title="Eceabat">Eceabat</a></li>
+<li><a href="/wiki/Ezine,_%C3%87anakkale" title="Ezine, Çanakkale">Ezine</a></li>
+<li><a href="/wiki/Gelibolu" title="Gelibolu">Gelibolu</a></li>
+<li><a href="/wiki/G%C3%B6k%C3%A7eada_(district)" title="Gökçeada (district)">Gökçeada</a></li>
+<li><a href="/wiki/Lapseki" title="Lapseki">Lapseki</a></li>
+<li><a href="/wiki/Yenice,_%C3%87anakkale" title="Yenice, Çanakkale">Yenice</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:NUTS_Map_of_Turkey.png" class="image"><img alt="NUTS Map of Turkey.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NUTS_Map_of_Turkey.png/100px-NUTS_Map_of_Turkey.png" width="100" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NUTS_Map_of_Turkey.png/150px-NUTS_Map_of_Turkey.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NUTS_Map_of_Turkey.png/200px-NUTS_Map_of_Turkey.png 2x" data-file-width="1024" data-file-height="500" /></a></div>
+</div>
+<br />
+<br />
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:%C3%87anakkale_districts.png" class="image" title="Districts of Çanakkale"><img alt="Districts of Çanakkale" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/%C3%87anakkale_districts.png/100px-%C3%87anakkale_districts.png" width="100" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/%C3%87anakkale_districts.png/150px-%C3%87anakkale_districts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/%C3%87anakkale_districts.png/200px-%C3%87anakkale_districts.png 2x" data-file-width="1056" data-file-height="816" /></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b>List of <a href="/wiki/Provinces_of_Turkey" title="Provinces of Turkey">Provinces</a> by <a href="/wiki/NUTS_statistical_regions_of_Turkey" title="NUTS statistical regions of Turkey">Region</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Istanbul_Region_(statistical)" title="Istanbul Region (statistical)">Istanbul</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Istanbul_Province" title="Istanbul Province">Istanbul</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/West_Marmara_Region_(statistical)" title="West Marmara Region (statistical)">West Marmara</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Bal%C4%B1kesir_Province" title="Balıkesir Province">Balıkesir</a></b></li>
+<li><a href="/wiki/%C3%87anakkale_Province" title="Çanakkale Province">Çanakkale</a></li>
+<li><a href="/wiki/Edirne_Province" title="Edirne Province">Edirne</a></li>
+<li><a href="/wiki/K%C4%B1rklareli_Province" title="Kırklareli Province">Kırklareli</a></li>
+<li><b><a href="/wiki/Tekirda%C4%9F_Province" title="Tekirdağ Province">Tekirdağ</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Aegean_Region_(statistical)" title="Aegean Region (statistical)">Aegean</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Afyonkarahisar_Province" title="Afyonkarahisar Province">Afyonkarahisar</a></li>
+<li><b><a href="/wiki/Ayd%C4%B1n_Province" title="Aydın Province">Aydın</a></b></li>
+<li><b><a href="/wiki/Denizli_Province" title="Denizli Province">Denizli</a></b></li>
+<li><b><a href="/wiki/%C4%B0zmir_Province" title="İzmir Province">İzmir</a></b></li>
+<li><a href="/wiki/K%C3%BCtahya_Province" title="Kütahya Province">Kütahya</a></li>
+<li><b><a href="/wiki/Manisa_Province" title="Manisa Province">Manisa</a></b></li>
+<li><b><a href="/wiki/Mu%C4%9Fla_Province" title="Muğla Province">Muğla</a></b></li>
+<li><a href="/wiki/U%C5%9Fak_Province" title="Uşak Province">Uşak</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/East_Marmara_Region_(statistical)" title="East Marmara Region (statistical)">East Marmara</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bilecik_Province" title="Bilecik Province">Bilecik</a></li>
+<li><a href="/wiki/Bolu_Province" title="Bolu Province">Bolu</a></li>
+<li><b><a href="/wiki/Bursa_Province" title="Bursa Province">Bursa</a></b></li>
+<li><a href="/wiki/D%C3%BCzce_Province" title="Düzce Province">Düzce</a></li>
+<li><b><a href="/wiki/Eski%C5%9Fehir_Province" title="Eskişehir Province">Eskişehir</a></b></li>
+<li><b><a href="/wiki/Kocaeli_Province" title="Kocaeli Province">Kocaeli</a></b></li>
+<li><b><a href="/wiki/Sakarya_Province" title="Sakarya Province">Sakarya</a></b></li>
+<li><a href="/wiki/Yalova_Province" title="Yalova Province">Yalova</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/West_Anatolia_Region_(statistical)" title="West Anatolia Region (statistical)">West Anatolia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Ankara_Province" title="Ankara Province">Ankara</a></b></li>
+<li><a href="/wiki/Karaman_Province" title="Karaman Province">Karaman</a></li>
+<li><b><a href="/wiki/Konya_Province" title="Konya Province">Konya</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mediterranean_Region_(statistical)" title="Mediterranean Region (statistical)">Mediterranean</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Adana_Province" title="Adana Province">Adana</a></b></li>
+<li><b><a href="/wiki/Antalya_Province" title="Antalya Province">Antalya</a></b></li>
+<li><a href="/wiki/Burdur_Province" title="Burdur Province">Burdur</a></li>
+<li><b><a href="/wiki/Hatay_Province" title="Hatay Province">Hatay</a></b></li>
+<li><a href="/wiki/Isparta_Province" title="Isparta Province">Isparta</a></li>
+<li><b><a href="/wiki/Kahramanmara%C5%9F_Province" title="Kahramanmaraş Province">Kahramanmaraş</a></b></li>
+<li><b><a href="/wiki/Mersin_Province" title="Mersin Province">Mersin</a></b></li>
+<li><a href="/wiki/Osmaniye_Province" title="Osmaniye Province">Osmaniye</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Central_Anatolia_Region_(statistical)" title="Central Anatolia Region (statistical)">Central Anatolia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aksaray_Province" title="Aksaray Province">Aksaray</a></li>
+<li><b><a href="/wiki/Kayseri_Province" title="Kayseri Province">Kayseri</a></b></li>
+<li><a href="/wiki/K%C4%B1r%C4%B1kkale_Province" title="Kırıkkale Province">Kırıkkale</a></li>
+<li><a href="/wiki/K%C4%B1r%C5%9Fehir_Province" title="Kırşehir Province">Kırşehir</a></li>
+<li><a href="/wiki/Nev%C5%9Fehir_Province" title="Nevşehir Province">Nevşehir</a></li>
+<li><a href="/wiki/Ni%C4%9Fde_Province" title="Niğde Province">Niğde</a></li>
+<li><a href="/wiki/Sivas_Province" title="Sivas Province">Sivas</a></li>
+<li><a href="/wiki/Yozgat_Province" title="Yozgat Province">Yozgat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/West_Black_Sea_Region_(statistical)" title="West Black Sea Region (statistical)">West Black Sea</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amasya_Province" title="Amasya Province">Amasya</a></li>
+<li><a href="/wiki/Bart%C4%B1n_Province" title="Bartın Province">Bartın</a></li>
+<li><a href="/wiki/%C3%87ank%C4%B1r%C4%B1_Province" title="Çankırı Province">Çankırı</a></li>
+<li><a href="/wiki/%C3%87orum_Province" title="Çorum Province">Çorum</a></li>
+<li><a href="/wiki/Karab%C3%BCk_Province" title="Karabük Province">Karabük</a></li>
+<li><a href="/wiki/Kastamonu_Province" title="Kastamonu Province">Kastamonu</a></li>
+<li><b><a href="/wiki/Samsun_Province" title="Samsun Province">Samsun</a></b></li>
+<li><a href="/wiki/Sinop_Province" title="Sinop Province">Sinop</a></li>
+<li><a href="/wiki/Tokat_Province" title="Tokat Province">Tokat</a></li>
+<li><a href="/wiki/Zonguldak_Province" title="Zonguldak Province">Zonguldak</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/East_Black_Sea_Region_(statistical)" title="East Black Sea Region (statistical)">East Black Sea</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artvin_Province" title="Artvin Province">Artvin</a></li>
+<li><a href="/wiki/Giresun_Province" title="Giresun Province">Giresun</a></li>
+<li><a href="/wiki/G%C3%BCm%C3%BC%C5%9Fhane_Province" title="Gümüşhane Province">Gümüşhane</a></li>
+<li><b><a href="/wiki/Ordu_Province" title="Ordu Province">Ordu</a></b></li>
+<li><a href="/wiki/Rize_Province" title="Rize Province">Rize</a></li>
+<li><b><a href="/wiki/Trabzon_Province" title="Trabzon Province">Trabzon</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Northeast_Anatolia_Region_(statistical)" title="Northeast Anatolia Region (statistical)">Northeast Anatolia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/A%C4%9Fr%C4%B1_Province" title="Ağrı Province">Ağrı</a></li>
+<li><a href="/wiki/Ardahan_Province" title="Ardahan Province">Ardahan</a></li>
+<li><a href="/wiki/Bayburt_Province" title="Bayburt Province">Bayburt</a></li>
+<li><a href="/wiki/Erzincan_Province" title="Erzincan Province">Erzincan</a></li>
+<li><b><a href="/wiki/Erzurum_Province" title="Erzurum Province">Erzurum</a></b></li>
+<li><a href="/wiki/I%C4%9Fd%C4%B1r_Province" title="Iğdır Province">Iğdır</a></li>
+<li><a href="/wiki/Kars_Province" title="Kars Province">Kars</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Central_East_Anatolia_Region_(statistical)" title="Central East Anatolia Region (statistical)">Central East Anatolia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bing%C3%B6l_Province" title="Bingöl Province">Bingöl</a></li>
+<li><a href="/wiki/Bitlis_Province" title="Bitlis Province">Bitlis</a></li>
+<li><a href="/wiki/Elaz%C4%B1%C4%9F_Province" title="Elazığ Province">Elazığ</a></li>
+<li><a href="/wiki/Hakk%C3%A2ri_Province" title="Hakkâri Province">Hakkâri</a></li>
+<li><b><a href="/wiki/Malatya_Province" title="Malatya Province">Malatya</a></b></li>
+<li><a href="/wiki/Mu%C5%9F_Province" title="Muş Province">Muş</a></li>
+<li><a href="/wiki/Tunceli_Province" title="Tunceli Province">Tunceli</a></li>
+<li><b><a href="/wiki/Van_Province" title="Van Province">Van</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Southeast_Anatolia_Region_(statistical)" title="Southeast Anatolia Region (statistical)">Southeast Anatolia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ad%C4%B1yaman_Province" title="Adıyaman Province">Adıyaman</a></li>
+<li><a href="/wiki/Batman_Province" title="Batman Province">Batman</a></li>
+<li><b><a href="/wiki/Diyarbak%C4%B1r_Province" title="Diyarbakır Province">Diyarbakır</a></b></li>
+<li><b><a href="/wiki/Gaziantep_Province" title="Gaziantep Province">Gaziantep</a></b></li>
+<li><a href="/wiki/Kilis_Province" title="Kilis Province">Kilis</a></li>
+<li><b><a href="/wiki/Mardin_Province" title="Mardin Province">Mardin</a></b></li>
+<li><a href="/wiki/Siirt_Province" title="Siirt Province">Siirt</a></li>
+<li><b><a href="/wiki/%C5%9Eanl%C4%B1urfa_Province" title="Şanlıurfa Province">Şanlıurfa</a></b></li>
+<li><a href="/wiki/%C5%9E%C4%B1rnak_Province" title="Şırnak Province">Şırnak</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><small><a href="/wiki/Metropolitan_municipalities_in_Turkey" title="Metropolitan municipalities in Turkey">Metropolitan municipalities</a> are bolded.</small></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2228
+Cached time: 20170421164857
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.460 seconds
+Real time usage: 0.588 seconds
+Preprocessor visited node count: 5758/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 112516/2097152 bytes
+Template argument size: 11529/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 10/500
+Lua time usage: 0.121/10.000 seconds
+Lua memory usage: 5.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  511.203      1 -total
+ 57.83%  295.604      1 Template:Infobox_settlement
+ 51.33%  262.412      2 Template:Infobox
+ 15.42%   78.812      4 Template:Turkey_district_populations
+ 11.36%   58.050      1 Template:Weather_box
+  8.30%   42.412      2 Template:Turkey_district_areas
+  7.19%   36.780      8 Template:Both
+  7.02%   35.884      2 Template:Coord
+  6.01%   30.723      2 Template:Cite_web
+  4.59%   23.471      5 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1871641-0!*!0!!en!4!* and timestamp 20170421164857 and revision id 775661933
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Çanakkale&amp;oldid=775661933">https://en.wikipedia.org/w/index.php?title=Çanakkale&amp;oldid=775661933</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Populated_coastal_places_in_Turkey" title="Category:Populated coastal places in Turkey">Populated coastal places in Turkey</a></li><li><a href="/wiki/Category:Aegean_Sea_port_cities_and_towns_in_Turkey" title="Category:Aegean Sea port cities and towns in Turkey">Aegean Sea port cities and towns in Turkey</a></li><li><a href="/wiki/Category:%C3%87anakkale" title="Category:Çanakkale">Çanakkale</a></li><li><a href="/wiki/Category:Fishing_communities_in_Turkey" title="Category:Fishing communities in Turkey">Fishing communities in Turkey</a></li><li><a href="/wiki/Category:Jewish_communities_in_Turkey" title="Category:Jewish communities in Turkey">Jewish communities in Turkey</a></li><li><a href="/wiki/Category:Districts_of_%C3%87anakkale_Province" title="Category:Districts of Çanakkale Province">Districts of Çanakkale Province</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Ottoman_Turkish-language_text" title="Category:Articles containing Ottoman Turkish-language text">Articles containing Ottoman Turkish-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2016" title="Category:Articles with unsourced statements from February 2016">Articles with unsourced statements from February 2016</a></li><li><a href="/wiki/Category:Articles_containing_Turkish-language_text" title="Category:Articles containing Turkish-language text">Articles containing Turkish-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=%C3%87anakkale" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=%C3%87anakkale" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%C3%87anakkale"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:%C3%87anakkale"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%C3%87anakkale" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%C3%87anakkale&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%C3%87anakkale&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/%C3%87anakkale" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/%C3%87anakkale" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=%C3%87anakkale&amp;oldid=775661933" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=%C3%87anakkale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q199712" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=%C3%87anakkale&amp;id=775661933" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=%C3%87anakkale">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=%C3%87anakkale&amp;returnto=%C3%87anakkale&amp;oldid=775661933&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=%C3%87anakkale&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:%C3%87anakkale" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/%C3%87anakkale" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D1%8D" title="Чанаккалэ – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86%D8%A7%D9%83%D8%A7%D9%84%D9%8A" title="جاناكالي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C3%87anaqqala" title="Çanaqqala – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D0%B5" title="Чанаккале – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/%C3%87anakkale_(kapital_sa_lalawigan)" title="Çanakkale (kapital sa lalawigan) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/%C3%87anakkale_(Stadt)" title="Çanakkale (Stadt) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A4%CF%83%CE%B1%CE%BD%CE%AC%CE%BA%CE%BA%CE%B1%CE%BB%CE%B5" title="Τσανάκκαλε – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%D9%86%D8%A7%D9%82%E2%80%8C%D9%82%D9%84%D8%B9%D9%87" title="چناق‌قلعه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B0%A8%EB%82%98%EC%B9%BC%EB%A0%88" title="차나칼레 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%89%D5%A1%D5%B6%D5%A1%D6%84%D5%AF%D5%A1%D5%AC%D5%A5" title="Չանաքկալե – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A6%27%D7%A0%D7%A7%D7%9C%D7%94" title="צ'נקלה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A9%E1%83%90%E1%83%9C%E1%83%90%E1%83%A5%E1%83%99%E1%83%90%E1%83%9A%E1%83%94" title="ჩანაქკალე – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D0%B5" title="Чанаккале – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li><li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%DA%86%D8%A7%D9%86%D8%A7%D9%82%E2%80%8C%D9%82%D9%84%D8%B9%D9%87" title="چاناق‌قلعه – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C4%8Canakal%C4%97" title="Čanakalė – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%87anakkale_(telep%C3%BCl%C3%A9s)" title="Çanakkale (település) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D0%B5" title="Чанаккале – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Baso Minangkabau</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/%C3%87anakkale_(stad)" title="Çanakkale (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%8A%E3%83%83%E3%82%AB%E3%83%AC" title="チャナッカレ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Chanoqqal%CA%BCa" title="Chanoqqalʼa – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%9A%E0%A8%BE%E0%A8%A8%E0%A8%95%E0%A8%B2%E0%A9%87" title="ਚਾਨਕਲੇ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%AA%D8%A7%D9%86%D8%A7%DA%A9%DA%A9%D8%A7%D9%84%DB%92" title="تاناککالے – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D0%B5" title="Чанаккале – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/%C3%87anakkale_(mesto)" title="Çanakkale (mesto) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B0%D0%BA%D0%B0%D0%BB%D0%B5" title="Чанакале – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B9%80%E0%B8%A5" title="ชานักกาเล – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D0%B5" title="Чанаккале – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D0%B5_(%D0%BC%D1%96%D1%81%D1%82%D0%BE)" title="Чанаккале (місто) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%86%D9%86%D8%A7%D9%82_%D9%82%D9%84%D8%B9%DB%92" title="چناق قلعے – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/%C3%87anakkale" title="Çanakkale – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/%C3%87anaxqele" title="Çanaxqele – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%81%B0%E7%B4%8D%E5%8D%A1%E8%90%8A" title="恰納卡萊 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q199712#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 April 2017, at 09:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=%C3%87anakkale&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.460","walltime":"0.588","ppvisitednodes":{"value":5758,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":112516,"limit":2097152},"templateargumentsize":{"value":11529,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  511.203      1 -total"," 57.83%  295.604      1 Template:Infobox_settlement"," 51.33%  262.412      2 Template:Infobox"," 15.42%   78.812      4 Template:Turkey_district_populations"," 11.36%   58.050      1 Template:Weather_box","  8.30%   42.412      2 Template:Turkey_district_areas","  7.19%   36.780      8 Template:Both","  7.02%   35.884      2 Template:Coord","  6.01%   30.723      2 Template:Cite_web","  4.59%   23.471      5 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.121","limit":"10.000"},"limitreport-memusage":{"value":5724817,"limit":52428800}},"cachereport":{"origin":"mw2228","timestamp":"20170421164857","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw2104"});});</script>
+	</body>
+</html>

@@ -1,0 +1,605 @@
+https://en.wikipedia.org/wiki/Antoine-Jean_Gros
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Antoine-Jean Gros - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Antoine-Jean_Gros","wgTitle":"Antoine-Jean Gros","wgCurRevisionId":774144234,"wgRevisionId":774144234,"wgArticleId":854593,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Use dmy dates from July 2013","Articles with hCards","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with ULAN identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with RKDartists identifiers","French neoclassical painters","18th-century French painters","French male painters","19th-century French painters","Artists from Paris","Members of the Académie des beaux-arts","Pupils of Jacques-Louis David","University of Paris alumni","1771 births","1835 deaths","Artists who committed suicide","Suicides in France","Barons of France","Knights of the Order of Saint Michael","Pupils of Antoine-Jean Gros","19th-century painters of historical subjects","Burials at Père Lachaise Cemetery"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Antoine-Jean_Gros","wgRelevantArticleId":854593,"wgRequestId":"WPlpxArAIFUAAE@TD5IAAABU","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q216999","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/cf/Antoine_Jean_Gros_par_Gerard.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Antoine-Jean_Gros"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Antoine-Jean_Gros"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Antoine-Jean_Gros rootpage-Antoine-Jean_Gros skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Antoine-Jean Gros</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For the 19th century diplomat, see <a href="/wiki/Jean-Baptiste_Louis_Gros" title="Jean-Baptiste Louis Gros">Jean-Baptiste Louis Gros</a>.</div>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Antoine-Jean Gros</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Antoine_Jean_Gros_par_Gerard.jpg" class="image"><img alt="Antoine Jean Gros par Gerard.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Antoine_Jean_Gros_par_Gerard.jpg/200px-Antoine_Jean_Gros_par_Gerard.jpg" width="200" height="265" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Antoine_Jean_Gros_par_Gerard.jpg/300px-Antoine_Jean_Gros_par_Gerard.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/cf/Antoine_Jean_Gros_par_Gerard.jpg 2x" data-file-width="394" data-file-height="522" /></a>
+<div>Antoine-Jean Gros,<br />
+by <a href="/wiki/Fran%C3%A7ois_G%C3%A9rard" title="François Gérard">François Gérard</a> (1791)</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span class="mw-formatted-date" title="1771-03-16">16 March 1771</span><span style="display:none">&#160;(<span class="dtstart bday">1771-03-16</span>)</span><br />
+<span class="birthplace"><a href="/wiki/Paris" title="Paris">Paris</a></span></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td><span class="mw-formatted-date" title="1835-06-25">25 June 1835</span><span style="display:none">&#160;(<span class="dtend dday deathdate">1835-06-26</span>)</span> (aged&#160;64)<br />
+<span class="deathplace">near <a href="/wiki/Meudon" title="Meudon">Meudon</a></span></td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td><a href="/wiki/College_Mazarin" class="mw-redirect" title="College Mazarin">College Mazarin</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Painting" title="Painting">Painting</a></td>
+</tr>
+</table>
+<p><b>Antoine-Jean Gros</b> (16 March 1771 – 25 June 1835), <a href="/wiki/Baron_of_the_Empire" class="mw-redirect" title="Baron of the Empire">Baron of the Empire</a>, was a French <a href="/wiki/Painting" title="Painting">painter</a>. His work was in the genres of <a href="/wiki/History_painting" title="History painting">history</a> and <a href="/wiki/Neoclassicism" title="Neoclassicism">neoclassical</a> artwork.</p>
+<p>Gros studied under <a href="/wiki/Jacques-Louis_David" title="Jacques-Louis David">Jacques-Louis David</a> in Paris and began an independent artistic career during the <a href="/wiki/French_Revolution" title="French Revolution">French Revolution</a>. Forced to leave France, he moved to <a href="/wiki/Genoa" title="Genoa">Genoa</a> and witnessed the nearby <a href="/wiki/Battle_of_Arcole" title="Battle of Arcole">Battle of Arcole</a> (1796). Inspired by an event during the battle, he produced <a href="/wiki/Bonaparte_at_the_pont_d%27Arcole" class="mw-redirect" title="Bonaparte at the pont d'Arcole">a portrait of the French commander</a>, <a href="/wiki/Napoleon_Bonaparte" class="mw-redirect" title="Napoleon Bonaparte">Napoleon Bonaparte</a>, then a newly-promoted general. The portrait brought Gros to public attention and gained the patronage of Napoleon.</p>
+<p>After travelling with Napoleon's army for several years, he returned to Paris in 1799. Gros produced several large paintings of battles and other events in Napoleon's life. These were mostly in a neoclassical style, but <i><a href="/wiki/Napol%C3%A9on_on_the_Battlefield_of_Eylau" title="Napoléon on the Battlefield of Eylau">Napoléon on the Battlefield of Eylau</a></i> adopted a more realistic portrayal of the horrors of war. Gros also painted portraits of officers in the French army and members of French high society. After the fall of Napoleon, he shifted his artistic focus and produced more history paintings, which art historians regard as less impressive than his earlier work.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life_and_training"><span class="tocnumber">1</span> <span class="toctext">Early life and training</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Genoa_and_Bonaparte"><span class="tocnumber">1.1</span> <span class="toctext">Genoa and Bonaparte</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Paris"><span class="tocnumber">1.2</span> <span class="toctext">Paris</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Salon"><span class="tocnumber">1.3</span> <span class="toctext">Salon</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Death"><span class="tocnumber">2</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Renown"><span class="tocnumber">3</span> <span class="toctext">Renown</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Iconography"><span class="tocnumber">4</span> <span class="toctext">Iconography</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life_and_training">Early life and training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=1" title="Edit section: Early life and training">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg/240px-Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg" width="240" height="289" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg/360px-Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg/480px-Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg 2x" data-file-width="3327" data-file-height="4001" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg" class="internal" title="Enlarge"></a></div>
+Equestrian portrait of prince <a href="/wiki/Boris_Yusupov" class="mw-redirect" title="Boris Yusupov">Boris Yusupov</a>, 1809</div>
+</div>
+</div>
+<p>Born in <a href="/wiki/Paris" title="Paris">Paris</a>, Gros began to learn to draw at the age of six from his father, Jean-Antoine Gros,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> who was a miniature painter, and showed himself as a gifted artist. Towards the close of 1785, Gros, by his own choice, entered the studio of <a href="/wiki/Jacques-Louis_David" title="Jacques-Louis David">Jacques-Louis David</a>, which he frequented assiduously, continuing at the same time to follow the classes of the <a href="/wiki/Coll%C3%A8ge_Mazarin" class="mw-redirect" title="Collège Mazarin">Collège Mazarin</a>.</p>
+<p>The death of his father, whose circumstances had been embarrassed by the <a href="/wiki/French_Revolution" title="French Revolution">French Revolution</a>, threw Gros, in 1791, upon his own resources. He now devoted himself wholly to his profession, and competed (unsuccessfully) in 1792 for the <i>grand prix</i>. About this time, however, on the recommendation of the <a href="/wiki/%C3%89cole_des_Beaux_Arts" class="mw-redirect" title="École des Beaux Arts">École des Beaux Arts</a>, he was employed on the execution of portraits of the members of the <a href="/wiki/National_Convention" title="National Convention">National Convention</a>, and disturbed by the development of the Revolution, Gros left France in 1793 for Italy.</p>
+<h3><span class="mw-headline" id="Genoa_and_Bonaparte">Genoa and Bonaparte</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=2" title="Edit section: Genoa and Bonaparte">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/220px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg" width="220" height="311" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/330px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/440px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg 2x" data-file-width="990" data-file-height="1400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg" class="internal" title="Enlarge"></a></div>
+<i>Bonaparte at the pont d'Arcole</i>, 1796</div>
+</div>
+</div>
+<p>He supported himself at <a href="/wiki/Genoa" title="Genoa">Genoa</a> by the same means, producing a great quantity of miniatures and fixes. He visited <a href="/wiki/Florence" title="Florence">Florence</a>, but returned to Genoa where he made the acquaintance of <a href="/wiki/Jos%C3%A9phine_de_Beauharnais" title="Joséphine de Beauharnais">Joséphine de Beauharnais</a>. He followed her to <a href="/wiki/Milan" title="Milan">Milan</a>, where he was well received by her husband, <a href="/wiki/Napoleon_Bonaparte" class="mw-redirect" title="Napoleon Bonaparte">Napoleon Bonaparte</a>.</p>
+<p>On 15 November 1796, Gros was present with the army near <a href="/wiki/Battle_of_Arcole" title="Battle of Arcole">Arcola</a> when Bonaparte planted the <a href="/wiki/Flag_of_France" title="Flag of France">French tricolor</a> on the bridge. Gros seized on this incident, and showed by his treatment of it (entitled <i><a href="/wiki/Bonaparte_at_the_pont_d%27Arcole" class="mw-redirect" title="Bonaparte at the pont d'Arcole">Bonaparte at the pont d'Arcole</a></i>) that he had found his vocation. Bonaparte at once gave him the post of <i>inspecteur aux revues</i>, which enabled him to follow the army, and in 1797 nominated him on the commission charged to select the spoils which should enrich the <a href="/wiki/Louvre" title="Louvre">Louvre</a>.</p>
+<h3><span class="mw-headline" id="Paris">Paris</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=3" title="Edit section: Paris">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Antoine-Jean_Gros_-_Bataille_d%27Aboukir,_25_juillet_1799_-_Google_Art_Project.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg/220px-Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg/330px-Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg/440px-Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg 2x" data-file-width="6060" data-file-height="3617" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Antoine-Jean_Gros_-_Bataille_d%27Aboukir,_25_juillet_1799_-_Google_Art_Project.jpg" class="internal" title="Enlarge"></a></div>
+<i><a href="/wiki/Battle_of_Abukir_(1799)" title="Battle of Abukir (1799)">Bataille d´Aboukir</a>, 25 juillet 1799</i>, 1806</div>
+</div>
+</div>
+<p>In 1799, having escaped from the besieged city of Genoa, Gros made his way to Paris, and in the beginning of 1801 took up his quarters in the Capucins. His esquisse of the <a href="/wiki/Battle_of_Nazareth" title="Battle of Nazareth">Battle of Nazareth</a> (now in the Musée de Nantes) gained the prize offered in 1802 by the <a href="/wiki/French_Consulate" title="French Consulate">consuls</a>, but was not carried out, owing it is said to the jealousy of <a href="/wiki/Jean-Andoche_Junot" title="Jean-Andoche Junot">Jean-Andoche Junot</a> felt by Napoleon; but he indemnified Gros by commissioning him to paint his own visit to the pest-house of <a href="/wiki/Jaffa" title="Jaffa">Jaffa</a>. <i>Les Pestiférés de Jaffa</i> (Louvre) was followed by <a href="/wiki/Battle_of_Abukir_(1799)" title="Battle of Abukir (1799)"><i>The Battle of Aboukir, 1806</i></a> (Versailles), and <a href="/wiki/Battle_of_Eylau" title="Battle of Eylau"><i>The Battle of Eylau, 1808</i></a> (Louvre).<sup id="cite_ref-PrendergastC-1997_2-0" class="reference"><a href="#cite_note-PrendergastC-1997-2">[2]</a></sup> According to the article about Gros in the <i>Encyclopædia Britannica</i>, Eleventh Edition, 1911, these three subjects – the popular leader facing the pestilence unmoved, challenging the splendid instant of victory, heart-sick with the bitter cost of a hard-won field – gave Gros his chief title to fame.</p>
+<p><i>Britannica</i> further remarks that as long as the military element remained bound up with French national life, Gros received from it a fresh and energetic inspiration which carried him to the very heart of the events which he depicted; but as the army and its general separated from the people, Gros, called on to illustrate episodes representative only of the fulfilment of personal ambition, ceased to find the nourishment necessary to his genius, and the defect of his artistic position became evident. Trained in the sect of the Classicists, he was shackled by their rules, even when by his naturalistic treatment of types, and appeal to picturesque effect in color and tone, he seemed to run counter to them.</p>
+<h3><span class="mw-headline" id="Salon">Salon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=4" title="Edit section: Salon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg/240px-Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg" width="240" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg/360px-Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg/480px-Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg 2x" data-file-width="2763" data-file-height="1972" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Bonaparte_visiting_the_plague-victims_of_Jaffa" class="mw-redirect" title="Bonaparte visiting the plague-victims of Jaffa"><i>Napoleon Visiting the Plague Victims of Jaffa</i></a>, 1804</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg/240px-Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg" width="240" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg/360px-Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg/480px-Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg" class="internal" title="Enlarge"></a></div>
+Napoleon at the Pyramids in 1798, 1810</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Frz-Gardekuerassier.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frz-Gardekuerassier.png/240px-Frz-Gardekuerassier.png" width="240" height="332" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frz-Gardekuerassier.png/360px-Frz-Gardekuerassier.png 1.5x, //upload.wikimedia.org/wikipedia/commons/3/34/Frz-Gardekuerassier.png 2x" data-file-width="400" data-file-height="554" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Frz-Gardekuerassier.png" class="internal" title="Enlarge"></a></div>
+<i>Lieutenant Charles Legrand</i>, c. 1810</div>
+</div>
+</div>
+<p>At the Salon of 1804, Gros debuted his painting <a href="/wiki/Bonaparte_visiting_the_plague-victims_of_Jaffa" class="mw-redirect" title="Bonaparte visiting the plague-victims of Jaffa"><i>Bonaparte Visiting the Plague Victims of Jaffa</i></a>. The painting launched his career as a successful painter. It depicts Bonaparte in Jaffa visiting soldiers infected with the bubonic plague. He is portrayed reaching out to one of the sick, unfazed by the illness. While Bonaparte did actually visit the pesthouse, later, as his army prepared to withdraw from Syria, he ordered the poisoning (with laudanum) of about fifty of his plague-infected men.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The painting was commissioned as damage control when word spread of his actions. The painting is in the Neo-Classical style, though it shows elements such as the lighting and a taste for the exotic that are precursors to the upcoming Romantic ideals.</p>
+<p>In 1810, his <i>Madrid</i> and <i>Napoleon at the Pyramids</i> (Versailles) show that his star had deserted him. His <a href="/wiki/Francis_I_of_France" title="Francis I of France">Francis I</a> and <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles V</a>, 1812 (Louvre), had considerable success; but the decoration of the dome of St. Genevieve (begun in 1811 and completed in 1824) is the only work of Gros's later years which shows his early force and vigour, as well as his skill. The "Departure of <a href="/wiki/Louis_XVIII_of_France" title="Louis XVIII of France">Louis XVIII</a>" (Versailles), the <i>Embarkation of Madame d'Angoulême</i> (Bordeaux), the <i>plafond</i> of the Egyptian room in the Louvre, and finally his <i>Hercules and Diomedes</i>, exhibited in 1835, testify only that Gros's efforts – in accordance with the frequent counsels of his old master David – to stem the rising tide of <a href="/wiki/Romanticism" title="Romanticism">Romanticism</a> only damaged his once brilliant reputation.</p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=5" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Again citing <i>Britannica</i>, "Exasperated by criticism and the consciousness of failure, Gros sought refuge in the gros[ser] pleasures of life." On 25 June 1835, he was found drowned on the shores of the <a href="/wiki/Seine" title="Seine">Seine</a> at <a href="/wiki/Meudon" title="Meudon">Meudon</a>, near <a href="/wiki/S%C3%A8vres" title="Sèvres">Sèvres</a>. From a paper which he had placed in his hat, it became known that "tired of life, and betrayed by last faculties which rendered it bearable, he had resolved to end it."</p>
+<h2><span class="mw-headline" id="Renown">Renown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=6" title="Edit section: Renown">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gros was decorated and named <a href="/wiki/Baron_of_the_Empire" class="mw-redirect" title="Baron of the Empire">Baron of the Empire</a> by Napoleon, after the Salon of 1808, at which he had exhibited the <i>Battle of Eylau</i>.<sup id="cite_ref-PrendergastC-1997_2-1" class="reference"><a href="#cite_note-PrendergastC-1997-2">[2]</a></sup></p>
+<p>The number of Gros's pupils was very great, and was considerably augmented when, in 1815, David quit Paris and gave over his own classes to him. Under the <a href="/wiki/Bourbon_Restoration" title="Bourbon Restoration">Restoration</a>. he became a member of the Institute, professor at the <a href="/wiki/%C3%89cole_des_Beaux_Arts" class="mw-redirect" title="École des Beaux Arts">École des Beaux Arts</a>, and was named chevalier of the <a href="/wiki/Order_of_Saint_Michael" title="Order of Saint Michael">Order of Saint Michael</a>.</p>
+<p>Gros had also been an inspiration to <a href="/wiki/Eugene_Delacroix" class="mw-redirect" title="Eugene Delacroix">Eugene Delacroix</a>, especially with his work in lithography. The two both worked in the same time period, and both did portraits of Napoleon. Though at one point, Gros had referred to Delacroix's <i>Chios and Missolonghi</i> as "a massacre of art".</p>
+<p>G. Dargenty produced a book titled <i>Les Artistes Celebres</i> ("Famous Artists") <i>Le Baron Gros</i> GILBERT WOOD &amp; Co. London</p>
+<p>M. Delcluze gives a brief notice of his life in <i>Louis David et son temps</i> ("Louis David and his Times"), and Julius Meyer's <i>Geschichte der modernen französischen Malerei</i> ("History of Modern French Painting") contains what <i>Britannica</i> cites as an excellent criticism on his works.</p>
+<h2><span class="mw-headline" id="Iconography">Iconography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=7" title="Edit section: Iconography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tr>
+<th scope="col">Image</th>
+<th scope="col">Title</th>
+<th scope="col">Date</th>
+<th scope="col">Dimensions</th>
+<th scope="col">Collection</th>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_-_Madame_Pasteur.jpg" class="image"><img alt="Antoine-Jean Gros - Madame Pasteur.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antoine-Jean_Gros_-_Madame_Pasteur.jpg/170px-Antoine-Jean_Gros_-_Madame_Pasteur.jpg" width="170" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antoine-Jean_Gros_-_Madame_Pasteur.jpg/255px-Antoine-Jean_Gros_-_Madame_Pasteur.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antoine-Jean_Gros_-_Madame_Pasteur.jpg/340px-Antoine-Jean_Gros_-_Madame_Pasteur.jpg 2x" data-file-width="800" data-file-height="1033" /></a></td>
+<td><i>Madame Pasteur</i></td>
+<td>1795–1796</td>
+<td></td>
+<td><a href="/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Bordeaux" title="Musée des Beaux-Arts de Bordeaux">Musée des Beaux-Arts de Bordeaux</a></td>
+</tr>
+<tr>
+<td></td>
+<td><i>Portrait of Madame Bruyere</i></td>
+<td>1796</td>
+<td>79 × 65&#160;cm</td>
+<td><a href="/wiki/Bristol_City_Museum_and_Art_Gallery" title="Bristol City Museum and Art Gallery">Bristol City Museum and Art Gallery</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg" class="image"><img alt="1801 Antoine-Jean Gros - Bonaparte on the Bridge at Arcole.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/170px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg" width="170" height="240" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/255px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/340px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg 2x" data-file-width="990" data-file-height="1400" /></a></td>
+<td><i><a href="/wiki/Bonaparte_at_the_Pont_d%27Arcole" title="Bonaparte at the Pont d'Arcole">Bonaparte at the Pont d'Arcole</a></i></td>
+<td>1796</td>
+<td>130 × 94&#160;cm</td>
+<td><a href="/wiki/Palace_of_Versailles" title="Palace of Versailles">Palace of Versailles</a></td>
+</tr>
+<tr>
+<td></td>
+<td><i>The Death of Timophanes</i></td>
+<td>1798</td>
+<td>44.4 × 57.6&#160;cm</td>
+<td><a rel="nofollow" class="external text" href="http://www.louvre.fr/en/oeuvre-notices/death-timophanes">The Louvre</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_009.jpg" class="image"><img alt="Antoine-Jean Gros 009.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Antoine-Jean_Gros_009.jpg/170px-Antoine-Jean_Gros_009.jpg" width="170" height="283" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Antoine-Jean_Gros_009.jpg/255px-Antoine-Jean_Gros_009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Antoine-Jean_Gros_009.jpg/340px-Antoine-Jean_Gros_009.jpg 2x" data-file-width="1576" data-file-height="2621" /></a></td>
+<td><i>Portrait of Christine Boyer</i></td>
+<td>c. 1800</td>
+<td>214 × 134&#160;cm</td>
+<td><a href="/wiki/The_Louvre" class="mw-redirect" title="The Louvre">The Louvre</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_010.jpg" class="image"><img alt="Antoine-Jean Gros 010.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Antoine-Jean_Gros_010.jpg/170px-Antoine-Jean_Gros_010.jpg" width="170" height="117" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Antoine-Jean_Gros_010.jpg/255px-Antoine-Jean_Gros_010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Antoine-Jean_Gros_010.jpg/340px-Antoine-Jean_Gros_010.jpg 2x" data-file-width="2560" data-file-height="1761" /></a></td>
+<td><i>The Battle of Nazareth</i></td>
+<td>1801</td>
+<td>136.1 x 196.4&#160;cm</td>
+<td><a href="/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Nantes" title="Musée des Beaux-Arts de Nantes">Musée des Beaux-Arts de Nantes</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_-_Sappho_at_Leucate_-_WGA10704.jpg" class="image"><img alt="Antoine-Jean Gros - Sappho at Leucate - WGA10704.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Antoine-Jean_Gros_-_Sappho_at_Leucate_-_WGA10704.jpg/170px-Antoine-Jean_Gros_-_Sappho_at_Leucate_-_WGA10704.jpg" width="170" height="229" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Antoine-Jean_Gros_-_Sappho_at_Leucate_-_WGA10704.jpg/255px-Antoine-Jean_Gros_-_Sappho_at_Leucate_-_WGA10704.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Antoine-Jean_Gros_-_Sappho_at_Leucate_-_WGA10704.jpg/340px-Antoine-Jean_Gros_-_Sappho_at_Leucate_-_WGA10704.jpg 2x" data-file-width="850" data-file-height="1147" /></a></td>
+<td><i>Sappho at Leucate</i></td>
+<td>1801</td>
+<td>122 × 100&#160;cm</td>
+<td>Musée Baron Gérard, Bayeux</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Gros_-_First_Consul_Bonaparte.png" class="image"><img alt="Gros - First Consul Bonaparte.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gros_-_First_Consul_Bonaparte.png/170px-Gros_-_First_Consul_Bonaparte.png" width="170" height="267" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gros_-_First_Consul_Bonaparte.png/255px-Gros_-_First_Consul_Bonaparte.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gros_-_First_Consul_Bonaparte.png/340px-Gros_-_First_Consul_Bonaparte.png 2x" data-file-width="1100" data-file-height="1725" /></a></td>
+<td><i>First Consul Bonaparte</i></td>
+<td>1802</td>
+<td>205 × 127&#160;cm</td>
+<td><a href="/wiki/Mus%C3%A9e_de_la_L%C3%A9gion_d%27honneur" title="Musée de la Légion d'honneur">Musée de la Légion d'honneur</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg" class="image"><img alt="Antoine-Jean Gros - Bonaparte visitant les pestiférés de Jaffa.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg/170px-Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg" width="170" height="121" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg/255px-Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg/340px-Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestif%C3%A9r%C3%A9s_de_Jaffa.jpg 2x" data-file-width="2763" data-file-height="1972" /></a></td>
+<td><i><a href="/wiki/Bonaparte_Visiting_the_Plague_Victims_of_Jaffa" title="Bonaparte Visiting the Plague Victims of Jaffa">Bonaparte Visiting the Plague Victims of Jaffa</a></i></td>
+<td>1804</td>
+<td>715 × 523&#160;cm</td>
+<td><a rel="nofollow" class="external text" href="http://www.louvre.fr/en/oeuvre-notices/napoleon-bonaparte-visiting-plague-stricken-jaffa">The Louvre</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_-_Bataille_d%27Aboukir,_25_juillet_1799_-_Google_Art_Project.jpg" class="image"><img alt="Antoine-Jean Gros - Bataille d'Aboukir, 25 juillet 1799 - Google Art Project.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg/170px-Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg" width="170" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg/255px-Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg/340px-Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg 2x" data-file-width="6060" data-file-height="3617" /></a></td>
+<td><i>Battle of Aboukir, July 25, 1799</i></td>
+<td>1806</td>
+<td>578 × 968&#160;cm</td>
+<td><a href="/wiki/Palace_of_Versailles" title="Palace of Versailles">Palace of Versailles</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg" class="image"><img alt="Antoine-Jean Gros - Napoleon on the Battlefield of Eylau - Google Art Project.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg/170px-Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg" width="170" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg/255px-Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg/340px-Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg 2x" data-file-width="7621" data-file-height="5455" /></a></td>
+<td><i><a href="/wiki/Napol%C3%A9on_on_the_Battlefield_of_Eylau" title="Napoléon on the Battlefield of Eylau">Battle of Eylau, February 9, 1807</a></i></td>
+<td>1807</td>
+<td>104.9 × 145.1&#160;cm</td>
+<td><a rel="nofollow" class="external text" href="http://www.louvre.fr/en/oeuvre-notices/napoleon-battlefield-eylau">The Louvre</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Pierre_Zimmermann.jpg" class="image"><img alt="Pierre Zimmermann.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pierre_Zimmermann.jpg/170px-Pierre_Zimmermann.jpg" width="170" height="224" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pierre_Zimmermann.jpg/255px-Pierre_Zimmermann.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d0/Pierre_Zimmermann.jpg 2x" data-file-width="308" data-file-height="406" /></a></td>
+<td><i>Portrait of the French composer Pierre Zimmermann</i></td>
+<td>1808</td>
+<td>118.5 × 91&#160;cm</td>
+<td><a href="/wiki/Palace_of_Versailles" title="Palace of Versailles">Palace of Versailles</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Equestrian_Portrait_of_Jerome_Bonaparte.jpg" class="image"><img alt="Equestrian Portrait of Jerome Bonaparte.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Equestrian_Portrait_of_Jerome_Bonaparte.jpg/170px-Equestrian_Portrait_of_Jerome_Bonaparte.jpg" width="170" height="209" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Equestrian_Portrait_of_Jerome_Bonaparte.jpg/255px-Equestrian_Portrait_of_Jerome_Bonaparte.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Equestrian_Portrait_of_Jerome_Bonaparte.jpg/340px-Equestrian_Portrait_of_Jerome_Bonaparte.jpg 2x" data-file-width="488" data-file-height="600" /></a></td>
+<td><i>Equestrian portrait of Jérôme Bonaparte</i></td>
+<td>c. 1808</td>
+<td>321 × 265&#160;cm</td>
+<td><a href="/wiki/Palace_of_Versailles" title="Palace of Versailles">Palace of Versailles</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg" class="image"><img alt="Antoine-Jean Gros - Equestrian portrait of prince Boris Yusupov - Google Art Project.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg/170px-Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg" width="170" height="204" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg/255px-Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg/340px-Antoine-Jean_Gros_-_Equestrian_portrait_of_prince_Boris_Yusupov_-_Google_Art_Project.jpg 2x" data-file-width="3327" data-file-height="4001" /></a></td>
+<td><i>Equestrian portrait of Prince Boris Yusupov</i></td>
+<td>1809</td>
+<td>321 × 266&#160;cm</td>
+<td><a href="/wiki/Pushkin_Museum" title="Pushkin Museum">Pushkin Museum</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg" class="image"><img alt="Baron Antoine-Jean Gros-Battle Pyramids 1810.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg/170px-Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg" width="170" height="128" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg/255px-Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg/340px-Baron_Antoine-Jean_Gros-Battle_Pyramids_1810.jpg 2x" data-file-width="1024" data-file-height="768" /></a></td>
+<td><i>Battle of the Pyramids</i></td>
+<td>1810</td>
+<td>389 × 311&#160;cm</td>
+<td><a href="/wiki/Palace_of_Versailles" title="Palace of Versailles">Palace of Versailles</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_-_Capitulation_de_Madrid,_le_4_d%C3%A9cembre_1808.jpg" class="image"><img alt="Antoine-Jean Gros - Capitulation de Madrid, le 4 décembre 1808.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Antoine-Jean_Gros_-_Capitulation_de_Madrid%2C_le_4_d%C3%A9cembre_1808.jpg/170px-Antoine-Jean_Gros_-_Capitulation_de_Madrid%2C_le_4_d%C3%A9cembre_1808.jpg" width="170" height="124" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Antoine-Jean_Gros_-_Capitulation_de_Madrid%2C_le_4_d%C3%A9cembre_1808.jpg/255px-Antoine-Jean_Gros_-_Capitulation_de_Madrid%2C_le_4_d%C3%A9cembre_1808.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Antoine-Jean_Gros_-_Capitulation_de_Madrid%2C_le_4_d%C3%A9cembre_1808.jpg/340px-Antoine-Jean_Gros_-_Capitulation_de_Madrid%2C_le_4_d%C3%A9cembre_1808.jpg 2x" data-file-width="4200" data-file-height="3058" /></a></td>
+<td><i>Napoleon accepts the surrender of Madrid, 4 December 1808</i></td>
+<td>1810</td>
+<td>361 × 500&#160;cm</td>
+<td><a href="/wiki/Museum_of_French_History" class="mw-redirect" title="Museum of French History">Museum of French History</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_003.jpg" class="image"><img alt="Antoine-Jean Gros 003.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Antoine-Jean_Gros_003.jpg/170px-Antoine-Jean_Gros_003.jpg" width="170" height="130" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Antoine-Jean_Gros_003.jpg/255px-Antoine-Jean_Gros_003.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Antoine-Jean_Gros_003.jpg/340px-Antoine-Jean_Gros_003.jpg 2x" data-file-width="2024" data-file-height="1544" /></a></td>
+<td><i>The Horse of Mustapha Pasha</i></td>
+<td>c. 1810</td>
+<td>89 × 175&#160;cm</td>
+<td><a href="/wiki/Mus%C3%A9e_des_Beaux-Arts_et_d%27arch%C3%A9ologie_de_Besan%C3%A7on" title="Musée des Beaux-Arts et d'archéologie de Besançon">Musée des Beaux-Arts et d'archéologie de Besançon</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:G%C3%A9n%C3%A9ral_Claude_Juste_Alexandre_Legrand.jpg" class="image"><img alt="Général Claude Juste Alexandre Legrand.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/G%C3%A9n%C3%A9ral_Claude_Juste_Alexandre_Legrand.jpg/170px-G%C3%A9n%C3%A9ral_Claude_Juste_Alexandre_Legrand.jpg" width="170" height="247" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/G%C3%A9n%C3%A9ral_Claude_Juste_Alexandre_Legrand.jpg/255px-G%C3%A9n%C3%A9ral_Claude_Juste_Alexandre_Legrand.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/G%C3%A9n%C3%A9ral_Claude_Juste_Alexandre_Legrand.jpg/340px-G%C3%A9n%C3%A9ral_Claude_Juste_Alexandre_Legrand.jpg 2x" data-file-width="712" data-file-height="1035" /></a></td>
+<td><i>Portrait of General Claude Legrand</i></td>
+<td>c. 1810</td>
+<td>245 × 172&#160;cm</td>
+<td><a href="/wiki/Palace_of_Versailles" title="Palace of Versailles">Palace of Versailles</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Gros,_Antoine-Jean_-_Portrait_du_second_lieutenant_Charles_Legrand_-_1809-1810.jpg" class="image"><img alt="Gros, Antoine-Jean - Portrait du second lieutenant Charles Legrand - 1809-1810.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gros%2C_Antoine-Jean_-_Portrait_du_second_lieutenant_Charles_Legrand_-_1809-1810.jpg/170px-Gros%2C_Antoine-Jean_-_Portrait_du_second_lieutenant_Charles_Legrand_-_1809-1810.jpg" width="170" height="252" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gros%2C_Antoine-Jean_-_Portrait_du_second_lieutenant_Charles_Legrand_-_1809-1810.jpg/255px-Gros%2C_Antoine-Jean_-_Portrait_du_second_lieutenant_Charles_Legrand_-_1809-1810.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gros%2C_Antoine-Jean_-_Portrait_du_second_lieutenant_Charles_Legrand_-_1809-1810.jpg/340px-Gros%2C_Antoine-Jean_-_Portrait_du_second_lieutenant_Charles_Legrand_-_1809-1810.jpg 2x" data-file-width="3277" data-file-height="4855" /></a></td>
+<td><i>Portrait of Second Lieutenant Charles Legrand</i></td>
+<td>c. 1810</td>
+<td>249 × 162&#160;cm</td>
+<td><a href="/wiki/Los_Angeles_County_Museum_of_Art" title="Los Angeles County Museum of Art">Los Angeles County Museum of Art</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Apoth%C3%A9ose_de_st_Genevi%C3%A8ve_3.jpg" class="image"><img alt="Apothéose de st Geneviève 3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Apoth%C3%A9ose_de_st_Genevi%C3%A8ve_3.jpg/170px-Apoth%C3%A9ose_de_st_Genevi%C3%A8ve_3.jpg" width="170" height="193" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Apoth%C3%A9ose_de_st_Genevi%C3%A8ve_3.jpg/255px-Apoth%C3%A9ose_de_st_Genevi%C3%A8ve_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Apoth%C3%A9ose_de_st_Genevi%C3%A8ve_3.jpg/340px-Apoth%C3%A9ose_de_st_Genevi%C3%A8ve_3.jpg 2x" data-file-width="391" data-file-height="443" /></a></td>
+<td><i>The Apotheosis of Saint Genevieve</i></td>
+<td>1811–1824</td>
+<td></td>
+<td><a href="/wiki/Panth%C3%A9on_de_Paris" class="mw-redirect" title="Panthéon de Paris">Panthéon de Paris</a></td>
+</tr>
+<tr>
+<td></td>
+<td><i>François I and Charles V Visiting the Church of Saint-Denis</i></td>
+<td>1812</td>
+<td></td>
+<td><a href="/wiki/The_Louvre" class="mw-redirect" title="The Louvre">The Louvre</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Murat_by_Gros.jpg" class="image"><img alt="Murat by Gros.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Murat_by_Gros.jpg/170px-Murat_by_Gros.jpg" width="170" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Murat_by_Gros.jpg/255px-Murat_by_Gros.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Murat_by_Gros.jpg/340px-Murat_by_Gros.jpg 2x" data-file-width="486" data-file-height="600" /></a></td>
+<td><i>Equestrian portrait of Joachim Murat</i></td>
+<td>1812</td>
+<td>89 × 175&#160;cm</td>
+<td><a href="/wiki/Mus%C3%A9e_des_Beaux-Arts_et_d%27arch%C3%A9ologie_de_Besan%C3%A7on" title="Musée des Beaux-Arts et d'archéologie de Besançon">Musée des Beaux-Arts et d'archéologie de Besançon</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Gros-General_Lariboisi%C3%A8re_and_his_son.jpg" class="image"><img alt="Gros-General Lariboisière and his son.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gros-General_Lariboisi%C3%A8re_and_his_son.jpg/170px-Gros-General_Lariboisi%C3%A8re_and_his_son.jpg" width="170" height="230" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gros-General_Lariboisi%C3%A8re_and_his_son.jpg/255px-Gros-General_Lariboisi%C3%A8re_and_his_son.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gros-General_Lariboisi%C3%A8re_and_his_son.jpg/340px-Gros-General_Lariboisi%C3%A8re_and_his_son.jpg 2x" data-file-width="481" data-file-height="650" /></a></td>
+<td><i>General Baston de Lariboisière and his son Ferdinand</i></td>
+<td>c. 1815</td>
+<td></td>
+<td><a href="/wiki/Mus%C3%A9e_de_l%27Arm%C3%A9e" title="Musée de l'Armée">Musée de l'Armée</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Gros_-_Portrait_du_comte_Honor%C3%A9_de_La_Riboisi%C3%A8re_(1788-1868).jpg" class="image"><img alt="Gros - Portrait du comte Honoré de La Riboisière (1788-1868).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gros_-_Portrait_du_comte_Honor%C3%A9_de_La_Riboisi%C3%A8re_%281788-1868%29.jpg/170px-Gros_-_Portrait_du_comte_Honor%C3%A9_de_La_Riboisi%C3%A8re_%281788-1868%29.jpg" width="170" height="209" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gros_-_Portrait_du_comte_Honor%C3%A9_de_La_Riboisi%C3%A8re_%281788-1868%29.jpg/255px-Gros_-_Portrait_du_comte_Honor%C3%A9_de_La_Riboisi%C3%A8re_%281788-1868%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gros_-_Portrait_du_comte_Honor%C3%A9_de_La_Riboisi%C3%A8re_%281788-1868%29.jpg/340px-Gros_-_Portrait_du_comte_Honor%C3%A9_de_La_Riboisi%C3%A8re_%281788-1868%29.jpg 2x" data-file-width="1627" data-file-height="2000" /></a></td>
+<td><i>Honoré-Charles Baston de Lariboisière</i></td>
+<td>1815</td>
+<td>73 × 59&#160;cm</td>
+<td>Private collection</td>
+</tr>
+<tr>
+<td></td>
+<td><i>Departure of Louis XVIII from the Palace of the Tuileries on the Night of 20 March 1815</i></td>
+<td>1817</td>
+<td>405 × 525&#160;cm</td>
+<td><a href="/wiki/Palace_of_Versailles" title="Palace of Versailles">Palace of Versailles</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean_Gros_004.jpg" class="image"><img alt="Antoine-Jean Gros 004.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Antoine-Jean_Gros_004.jpg/170px-Antoine-Jean_Gros_004.jpg" width="170" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Antoine-Jean_Gros_004.jpg/255px-Antoine-Jean_Gros_004.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Antoine-Jean_Gros_004.jpg/340px-Antoine-Jean_Gros_004.jpg 2x" data-file-width="2048" data-file-height="1313" /></a></td>
+<td><i>Embarkation of Madame d'Angoulême</i></td>
+<td>1819</td>
+<td>326 × 504&#160;cm</td>
+<td><a href="/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Bordeaux" title="Musée des Beaux-Arts de Bordeaux">Musée des Beaux-Arts de Bordeaux</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Gros_-_Jean-Antoine_Chaptal.png" class="image"><img alt="Gros - Jean-Antoine Chaptal.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gros_-_Jean-Antoine_Chaptal.png/170px-Gros_-_Jean-Antoine_Chaptal.png" width="170" height="218" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gros_-_Jean-Antoine_Chaptal.png/255px-Gros_-_Jean-Antoine_Chaptal.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gros_-_Jean-Antoine_Chaptal.png/340px-Gros_-_Jean-Antoine_Chaptal.png 2x" data-file-width="1800" data-file-height="2305" /></a></td>
+<td><i>Count Jean-Antoine Chaptal</i></td>
+<td>1824</td>
+<td></td>
+<td><a href="/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Bordeaux" title="Musée des Beaux-Arts de Bordeaux">Musée des Beaux-Arts de Bordeaux</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Antoine-Jean-Gros_Hercule_et_Diom%C3%A8de.jpg" class="image"><img alt="Antoine-Jean-Gros Hercule et Diomède.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antoine-Jean-Gros_Hercule_et_Diom%C3%A8de.jpg/170px-Antoine-Jean-Gros_Hercule_et_Diom%C3%A8de.jpg" width="170" height="228" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antoine-Jean-Gros_Hercule_et_Diom%C3%A8de.jpg/255px-Antoine-Jean-Gros_Hercule_et_Diom%C3%A8de.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antoine-Jean-Gros_Hercule_et_Diom%C3%A8de.jpg/340px-Antoine-Jean-Gros_Hercule_et_Diom%C3%A8de.jpg 2x" data-file-width="2784" data-file-height="3741" /></a></td>
+<td><i>Hercules and Diomedes</i></td>
+<td>1835</td>
+<td>426 × 324&#160;cm</td>
+<td><a href="/wiki/Mus%C3%A9e_des_Augustins" title="Musée des Augustins">Musée des Augustins</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Pierre_Daru.jpg" class="image"><img alt="Pierre Daru.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pierre_Daru.jpg/170px-Pierre_Daru.jpg" width="170" height="204" srcset="//upload.wikimedia.org/wikipedia/commons/a/ac/Pierre_Daru.jpg 1.5x" data-file-width="250" data-file-height="300" /></a></td>
+<td><i>Portrait of Pierre Daru</i></td>
+<td>19th century</td>
+<td>216 × 142&#160;cm</td>
+<td><a href="/wiki/Palace_of_Versailles" title="Palace of Versailles">Palace of Versailles</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/F%C3%A9lix_Louis_Leullier" title="Félix Louis Leullier">Félix Louis Leullier</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.napoleon-series.org/research/miscellaneous/c_gros.htm">The Napoleon Series</a></span></li>
+<li id="cite_note-PrendergastC-1997-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-PrendergastC-1997_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PrendergastC-1997_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Prendergast, Christopher. (1997). <i>Napoleon and History Painting: Antoine-Jean Gros's La Bataille d'Eylau</i>. Oxford: Clarendon Press. <a href="/wiki/Special:BookSources/0198174020" class="internal mw-magiclink-isbn">ISBN 0-19-817402-0</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Peterson, Robert K. D.; "Insects, Disease, and Military History: The Napoleonic Campaigns and Historical Perception"; <i>American Entomologist</i> 41:147-160. (1995) <cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303182459/http://entomology.montana.edu/historybug/napoleon/plague_syria.htm">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://entomology.montana.edu/historybug/napoleon/plague_syria.htm">the original</a> on 3 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAntoine-Jean+Gros&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fentomology.montana.edu%2Fhistorybug%2Fnapoleon%2Fplague_syria.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> retvd 3 26 15</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a>&#160;This article&#160;incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>:&#160;<cite id="CITEREFChisholm1911" class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gros,_Antoine_Jean,_Baron" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Gros, Antoine Jean, Baron">Gros, Antoine Jean, Baron</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAntoine-Jean+Gros&amp;rft.atitle=Gros%2C+Antoine+Jean%2C+Baron&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Chu, Petra ten-Doesschate. (2006). <i>Nineteenth-Century European Art</i>. Upper Saddle River, New Jersey: <a href="/wiki/Prentice_Hall" title="Prentice Hall">Prentice Hall</a>. pp.&#160;126–127. <a href="/wiki/Special:BookSources/0131886436" class="internal mw-magiclink-isbn">ISBN 0-13-188643-6</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Antoine-Jean_Gros" class="extiw" title="commons:Category:Antoine-Jean Gros">Antoine-Jean Gros</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.getty.edu/art/gettyguide/artMakerDetails?maker=723">Antoine-Jean Gros</a> – The J. Paul Getty Museum website</li>
+<li><a rel="nofollow" class="external text" href="http://www.paintingstar.com/artist-antoine-jean-gros-1.html">Paintings by Antoine-Jean Gros</a></li>
+</ul>
+<p><br /></p>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/14987055">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/14987055">14987055</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n85381436">n85381436</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000121217901">0000 0001 2121 7901</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/118718975">118718975</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/086698494">086698494</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb14409824s">cb14409824s</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb14409824s">(data)</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Union_List_of_Artist_Names" title="Union List of Artist Names">ULAN</a>: <span class="uid"><a rel="nofollow" class="external text" href="//www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500009139">500009139</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="//nla.gov.au/anbd.aut-an35057198">35057198</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Base_L%C3%A9onore" title="Base Léonore">Léonore</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.culture.gouv.fr/public/mistral/leonore_fr?ACTION=CHERCHER&amp;FIELD_1=COTE&amp;VALUE_1=LH/1206/51">LH/1206/51</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/KulturNav" title="KulturNav">KulturNav</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://kulturnav.org/language/en/4674c079-01df-47de-a97d-337fcb726330">id</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Netherlands_Institute_for_Art_History#Online_artist_pages" title="Netherlands Institute for Art History">RKD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://rkd.nl/en/explore/artists/34217">34217</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20170412122220
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.322 seconds
+Preprocessor visited node count: 2379/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25068/2097152 bytes
+Template argument size: 3929/2097152 bytes
+Highest expansion depth: 27/40
+Expensive parser function count: 1/500
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  219.694      1 -total
+ 34.47%   75.719      1 Template:Infobox_artist
+ 32.64%   71.718      1 Template:Infobox_person
+ 19.57%   42.991      1 Template:Infobox
+ 15.12%   33.225      1 Template:Reflist
+ 14.41%   31.656      1 Template:EB1911
+ 12.65%   27.801      1 Template:Authority_control
+ 11.59%   25.455      1 Template:Cite_web
+ 10.20%   22.408      5 Template:Br_separated_entries
+  9.82%   21.578      1 Template:For
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:854593-0!*!0!default!!en!4!* and timestamp 20170412122220 and revision id 774144234
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Antoine-Jean_Gros&amp;oldid=774144234">https://en.wikipedia.org/w/index.php?title=Antoine-Jean_Gros&amp;oldid=774144234</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:French_neoclassical_painters" title="Category:French neoclassical painters">French neoclassical painters</a></li><li><a href="/wiki/Category:18th-century_French_painters" title="Category:18th-century French painters">18th-century French painters</a></li><li><a href="/wiki/Category:French_male_painters" title="Category:French male painters">French male painters</a></li><li><a href="/wiki/Category:19th-century_French_painters" title="Category:19th-century French painters">19th-century French painters</a></li><li><a href="/wiki/Category:Artists_from_Paris" title="Category:Artists from Paris">Artists from Paris</a></li><li><a href="/wiki/Category:Members_of_the_Acad%C3%A9mie_des_beaux-arts" title="Category:Members of the Académie des beaux-arts">Members of the Académie des beaux-arts</a></li><li><a href="/wiki/Category:Pupils_of_Jacques-Louis_David" title="Category:Pupils of Jacques-Louis David">Pupils of Jacques-Louis David</a></li><li><a href="/wiki/Category:University_of_Paris_alumni" title="Category:University of Paris alumni">University of Paris alumni</a></li><li><a href="/wiki/Category:1771_births" title="Category:1771 births">1771 births</a></li><li><a href="/wiki/Category:1835_deaths" title="Category:1835 deaths">1835 deaths</a></li><li><a href="/wiki/Category:Artists_who_committed_suicide" title="Category:Artists who committed suicide">Artists who committed suicide</a></li><li><a href="/wiki/Category:Suicides_in_France" title="Category:Suicides in France">Suicides in France</a></li><li><a href="/wiki/Category:Barons_of_France" title="Category:Barons of France">Barons of France</a></li><li><a href="/wiki/Category:Knights_of_the_Order_of_Saint_Michael" title="Category:Knights of the Order of Saint Michael">Knights of the Order of Saint Michael</a></li><li><a href="/wiki/Category:Pupils_of_Antoine-Jean_Gros" title="Category:Pupils of Antoine-Jean Gros">Pupils of Antoine-Jean Gros</a></li><li><a href="/wiki/Category:19th-century_painters_of_historical_subjects" title="Category:19th-century painters of historical subjects">19th-century painters of historical subjects</a></li><li><a href="/wiki/Category:Burials_at_P%C3%A8re_Lachaise_Cemetery" title="Category:Burials at Père Lachaise Cemetery">Burials at Père Lachaise Cemetery</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_1911_Encyclop%C3%A6dia_Britannica" title="Category:Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica">Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ULAN_identifiers" title="Category:Wikipedia articles with ULAN identifiers">Wikipedia articles with ULAN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_RKDartists_identifiers" title="Category:Wikipedia articles with RKDartists identifiers">Wikipedia articles with RKDartists identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Antoine-Jean+Gros" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Antoine-Jean+Gros" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Antoine-Jean_Gros"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Antoine-Jean_Gros"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Antoine-Jean_Gros" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Antoine-Jean_Gros" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Antoine-Jean_Gros" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Antoine-Jean_Gros&amp;oldid=774144234" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Antoine-Jean_Gros&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q216999" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Antoine-Jean_Gros&amp;id=774144234" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Antoine-Jean+Gros">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Antoine-Jean+Gros&amp;returnto=Antoine-Jean+Gros&amp;oldid=774144234&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Antoine-Jean_Gros&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Antoine-Jean_Gros" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D9%88%D8%A7%D9%86_%DA%98%D8%A7%D9%86_%DA%AF%D8%B1%D9%88%D8%B3" title="آنتوان ژان گروس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%99%ED%88%AC%EC%95%88_%EC%9E%A5_%EA%B7%B8%EB%A1%9C" title="앙투안 장 그로 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%96%27%D7%90%D7%9F_%D7%90%D7%A0%D7%98%D7%95%D7%90%D7%9F_%D7%92%D7%A8%D7%95" title="ז'אן אנטואן גרו – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%EF%BC%9D%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%AD" title="アントワーヌ＝ジャン・グロ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE,_%D0%90%D0%BD%D1%82%D1%83%D0%B0%D0%BD_%D0%96%D0%B0%D0%BD" title="Гро, Антуан Жан – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Antoine-Jean_Gros" title="Antoine-Jean Gros – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D1%83%D0%B0%D0%BD_%D0%96%D0%B0%D0%BD_%D0%93%D1%80%D0%BE" title="Антуан Жан Гро – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E6%89%98%E4%B8%87-%E8%AE%A9%C2%B7%E6%A0%BC%E7%BD%97" title="安托万-让·格罗 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q216999#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 6 April 2017, at 15:18.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Antoine-Jean_Gros&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.322","ppvisitednodes":{"value":2379,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25068,"limit":2097152},"templateargumentsize":{"value":3929,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  219.694      1 -total"," 34.47%   75.719      1 Template:Infobox_artist"," 32.64%   71.718      1 Template:Infobox_person"," 19.57%   42.991      1 Template:Infobox"," 15.12%   33.225      1 Template:Reflist"," 14.41%   31.656      1 Template:EB1911"," 12.65%   27.801      1 Template:Authority_control"," 11.59%   25.455      1 Template:Cite_web"," 10.20%   22.408      5 Template:Br_separated_entries","  9.82%   21.578      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":2781097,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20170412122220","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw2197"});});</script>
+	</body>
+</html>

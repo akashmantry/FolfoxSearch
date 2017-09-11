@@ -1,0 +1,409 @@
+https://en.wikipedia.org/wiki/Association_Park
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Kansas City Cowboys (National League) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kansas_City_Cowboys_(National_League)","wgTitle":"Kansas City Cowboys (National League)","wgCurRevisionId":707886903,"wgRevisionId":707886903,"wgArticleId":23389227,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Defunct Major League Baseball teams","Kansas City Cowboys","Missouri sport stubs","Midwestern United States baseball team stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kansas_City_Cowboys_(National_League)","wgRelevantArticleId":23389227,"wgRequestId":"WPOQnQpAAEMAAIMsascAAABR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Association_Park","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Kansas_City_Cowboys_(National_League)","wgWikibaseItemId":"Q1568254","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Kansas_City_Cowboys_(National_League)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Kansas_City_Cowboys_(National_League)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Kansas_City_Cowboys_National_League rootpage-Kansas_City_Cowboys_National_League skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Kansas City Cowboys (National League)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Association_Park&amp;redirect=no" class="mw-redirect" title="Association Park">Association Park</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width: 27em; font-size: 88%; text-align: left; line-height: 1.5em">
+<tr>
+<th colspan="2" class="fn org" style="font-size: 125%; text-align: center; background-color: #dcdcdc;margin-bottom:3px;">Kansas City Cowboys</th>
+</tr>
+<tr>
+<th style="text-align: center" colspan="2">Years <a href="/wiki/1886_in_baseball" title="1886 in baseball">1886</a></th>
+</tr>
+<tr>
+<th style="text-align: center" colspan="2">Based in <a href="/wiki/Kansas_City,_Missouri" title="Kansas City, Missouri">Kansas City, Missouri</a></th>
+</tr>
+<tr>
+<th colspan="2" style="background-color: #dcdcdc; text-align: center">Major league affiliations</th>
+</tr>
+<tr>
+<th colspan="2">
+<ul>
+<li><a href="/wiki/National_League" title="National League">National League</a></li>
+</ul>
+</th>
+</tr>
+<tr>
+<th colspan="2" style="background-color: #dcdcdc; text-align: center">Ballpark</th>
+</tr>
+<tr>
+<td colspan="2">
+<ul>
+<li><a href="/wiki/Association_Park" class="mw-redirect" title="Association Park">Association Park</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="background-color: #dcdcdc; text-align: center">Colors</th>
+</tr>
+<tr>
+<td colspan="2">
+<p>Brown, white<br />
+<span style="background-color:#654321; color:; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span> <span style="background-color:white; color:; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span></p>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="background-color: #dcdcdc; text-align: center">Managers</th>
+</tr>
+<tr>
+<td colspan="2">
+<ul>
+<li><a href="/wiki/Dave_Rowe_(baseball)" title="Dave Rowe (baseball)">Dave Rowe</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="background-color: #dcdcdc; text-align: center">Major league titles</th>
+</tr>
+<tr>
+<td colspan="2">
+<ul>
+<li><b>National League pennants:</b> <b>0</b></li>
+</ul>
+</td>
+</tr>
+</table>
+<p>The <b>Kansas City Cowboys</b> were a <a href="/wiki/National_League" title="National League">National League</a> baseball team that played one season in <a href="/wiki/1886_in_baseball" title="1886 in baseball">1886</a>. They played at Association Park and finished with a 30-91 record. They finished in seventh place, ahead of another new team, the <a href="/wiki/Washington_Nationals_(1886-89)" class="mw-redirect" title="Washington Nationals (1886-89)">Washington Nationals</a>. They were not connected to the <a href="/wiki/Kansas_City_Cowboys_(Union_Association)" title="Kansas City Cowboys (Union Association)">Union Association Cowboys</a>.</p>
+<p>The Cowboys were admitted to the National League on a trial basis for the 1886 season.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The team went out of business in February, 1887, having been forced to sell its players back to the league for $6,000. They were replaced in the league by the <a href="/wiki/Pittsburg_Alleghenys" class="mw-redirect" title="Pittsburg Alleghenys">Pittsburg Alleghenys</a>, which moved to the league from the <a href="/wiki/American_Association_(19th_century)" title="American Association (19th century)">American Association</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/1886_Kansas_City_Cowboys_season" title="1886 Kansas City Cowboys season">1886 Kansas City Cowboys season</a></li>
+</ul>
+<h2><span class="mw-headline" id="References_and_external_links">References and external links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;action=edit&amp;section=2" title="Edit section: References and external links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.baseballlibrary.com/chronology/byyear.php?year=1886">Baseball Chronology: 1886</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.baseballlibrary.com/chronology/byyear.php?year=1887">Baseball Chronology: 1887</a></span></li>
+</ol>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.baseball-reference.com/teams/KCN/1886.shtml">1886 Cowboys</a> at Baseball Reference</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Histories_of_teams_in_Major_League_Baseball" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:MLBHistory" title="Template:MLBHistory"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:MLBHistory" title="Template talk:MLBHistory"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MLBHistory&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Histories_of_teams_in_Major_League_Baseball" style="font-size:114%;margin:0 4em">Histories of teams in <a href="/wiki/Major_League_Baseball" title="Major League Baseball">Major League Baseball</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #FFA7A7;"><a href="/wiki/American_League" title="American League">American<br />
+League</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #FFA7A7;"><a href="/wiki/American_League_East" title="American League East">East</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/History_of_the_Baltimore_Orioles" title="History of the Baltimore Orioles">Baltimore Orioles</a> • <a href="/wiki/History_of_the_Boston_Red_Sox" title="History of the Boston Red Sox">Boston Red Sox</a> • <a href="/wiki/History_of_the_New_York_Yankees" title="History of the New York Yankees">New York Yankees</a> • <a href="/wiki/History_of_the_Tampa_Bay_Rays" title="History of the Tampa Bay Rays">Tampa Bay Rays</a> • <a href="/wiki/History_of_the_Toronto_Blue_Jays" title="History of the Toronto Blue Jays">Toronto Blue Jays</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #FFA7A7;"><a href="/wiki/American_League_Central" title="American League Central">Central</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/History_of_the_Chicago_White_Sox" title="History of the Chicago White Sox">Chicago White Sox</a> • <a href="/wiki/History_of_the_Cleveland_Indians" title="History of the Cleveland Indians">Cleveland Indians</a> • <a href="/wiki/History_of_the_Detroit_Tigers" title="History of the Detroit Tigers">Detroit Tigers</a> • <a href="/wiki/History_of_the_Kansas_City_Royals" title="History of the Kansas City Royals">Kansas City Royals</a> • <a href="/wiki/History_of_the_Minnesota_Twins" title="History of the Minnesota Twins">Minnesota Twins</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #FFA7A7;"><a href="/wiki/American_League_West" title="American League West">West</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/History_of_the_Houston_Astros" title="History of the Houston Astros">Houston Astros</a> • <a href="/wiki/History_of_the_Los_Angeles_Angels_of_Anaheim" title="History of the Los Angeles Angels of Anaheim">Los Angeles Angels of Anaheim</a> • <a href="/wiki/History_of_the_Oakland_Athletics" title="History of the Oakland Athletics">Oakland Athletics</a> • <a href="/wiki/History_of_the_Seattle_Mariners" title="History of the Seattle Mariners">Seattle Mariners</a> • <a href="/wiki/History_of_the_Texas_Rangers_(baseball)" title="History of the Texas Rangers (baseball)">Texas Rangers</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #B7D0FF;"><a href="/wiki/National_League" title="National League">National<br />
+League</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #B7D0FF;"><a href="/wiki/National_League_East" title="National League East">East</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/History_of_the_Atlanta_Braves" title="History of the Atlanta Braves">Atlanta Braves</a> • <a href="/wiki/History_of_the_Miami_Marlins" title="History of the Miami Marlins">Miami Marlins</a> • <a href="/wiki/History_of_the_New_York_Mets" title="History of the New York Mets">New York Mets</a> • <a href="/wiki/History_of_the_Philadelphia_Phillies" title="History of the Philadelphia Phillies">Philadelphia Phillies</a> • <a href="/wiki/History_of_the_Washington_Nationals" title="History of the Washington Nationals">Washington Nationals</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #B7D0FF;"><a href="/wiki/National_League_Central" title="National League Central">Central</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/History_of_the_Chicago_Cubs" title="History of the Chicago Cubs">Chicago Cubs</a> • <a href="/wiki/History_of_the_Cincinnati_Reds" title="History of the Cincinnati Reds">Cincinnati Reds</a> • <a href="/wiki/History_of_the_Milwaukee_Brewers" title="History of the Milwaukee Brewers">Milwaukee Brewers</a> • <a href="/wiki/History_of_the_Pittsburgh_Pirates" title="History of the Pittsburgh Pirates">Pittsburgh Pirates</a> • <a href="/wiki/History_of_the_St._Louis_Cardinals_(1875%E2%80%931919)" title="History of the St. Louis Cardinals (1875–1919)">St. Louis Cardinals <i>I</i></a>&#160;<b>·</b> <a href="/wiki/History_of_the_St._Louis_Cardinals_(1920%E2%80%9352)" title="History of the St. Louis Cardinals (1920–52)"><i>II</i></a>&#160;<b>·</b> <a href="/wiki/History_of_the_St._Louis_Cardinals_(1953%E2%80%9389)" title="History of the St. Louis Cardinals (1953–89)"><i>III</i></a>&#160;<b>·</b> <a href="/wiki/History_of_the_St._Louis_Cardinals_(1990%E2%80%93present)" title="History of the St. Louis Cardinals (1990–present)"><i>IV</i></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #B7D0FF;"><a href="/wiki/National_League_West" title="National League West">West</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/History_of_the_Arizona_Diamondbacks" title="History of the Arizona Diamondbacks">Arizona Diamondbacks</a> • <a href="/wiki/History_of_the_Colorado_Rockies" title="History of the Colorado Rockies">Colorado Rockies</a> • <a href="/wiki/History_of_the_Los_Angeles_Dodgers" title="History of the Los Angeles Dodgers">Los Angeles Dodgers</a> • <a href="/wiki/History_of_the_San_Diego_Padres" title="History of the San Diego Padres">San Diego Padres</a> • <a href="/wiki/History_of_the_San_Francisco_Giants" title="History of the San Francisco Giants">San Francisco Giants</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Relocated<br />
+teams</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/History_of_the_Baltimore_Orioles#Milwaukee_Brewers" title="History of the Baltimore Orioles">Milwaukee Brewers</a> (1901) • <a href="/wiki/History_of_the_New_York_Yankees#.281901.E2.80.9302.29_Origins:_the_Baltimore_era" title="History of the New York Yankees">Baltimore Orioles</a> (1901–02) • <a href="/wiki/History_of_the_Boston_Braves" title="History of the Boston Braves">Boston Braves</a> (1870–1953) • <a href="/wiki/History_of_the_St._Louis_Browns" title="History of the St. Louis Browns">St. Louis Browns</a> (1902–53) • <a href="/wiki/History_of_the_Philadelphia_Athletics" title="History of the Philadelphia Athletics">Philadelphia Athletics</a> (1901–54) • <a href="/wiki/History_of_the_New_York_Giants_(baseball)" title="History of the New York Giants (baseball)">New York Giants</a> (1883–1957) • <a href="/wiki/History_of_the_Brooklyn_Dodgers" title="History of the Brooklyn Dodgers">Brooklyn Dodgers</a> (1883–1957) • <a href="/wiki/History_of_the_Washington_Senators_(1901%E2%80%9360)" title="History of the Washington Senators (1901–60)">Washington Senators</a> (1901–60) • <a href="/wiki/History_of_the_Atlanta_Braves#Milwaukee" title="History of the Atlanta Braves">Milwaukee Braves</a> (1953–65) • <a href="/wiki/History_of_the_Oakland_Athletics#Kansas_City_.281955.E2.80.9367.29" title="History of the Oakland Athletics">Kansas City Athletics</a> (1955–67) • <a href="/wiki/Seattle_Pilots" title="Seattle Pilots">Seattle Pilots</a> (1969) • <a href="/wiki/History_of_the_Texas_Rangers_(baseball)" title="History of the Texas Rangers (baseball)">Washington Senators</a> (1961–71) • <a href="/wiki/Montreal_Expos" title="Montreal Expos">Montreal Expos</a> (1969–2004)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Defunct<br />
+teams</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/New_York_Mutuals" title="New York Mutuals">New York Mutuals</a> (1876) • <a href="/wiki/Philadelphia_Athletics_(1860%E2%80%9376)" title="Philadelphia Athletics (1860–76)">Athletic of Philadelphia</a> (1876) • <a href="/wiki/Hartford_Dark_Blues" title="Hartford Dark Blues">Hartford Dark Blues</a> (1875–76) • <a href="/wiki/St._Louis_Brown_Stockings" title="St. Louis Brown Stockings">St. Louis Brown Stockings</a> (1876–77) • <a href="/wiki/Louisville_Grays" title="Louisville Grays">Louisville Grays</a> (1876–77) • <a href="/wiki/Indianapolis_Blues" title="Indianapolis Blues">Indianapolis Blues</a> (1878) • <a href="/wiki/Milwaukee_Grays" title="Milwaukee Grays">Milwaukee Grays</a> (1878) • <a href="/wiki/Syracuse_Stars_(National_League)" title="Syracuse Stars (National League)">Syracuse Stars</a> (1878) • <a href="/wiki/Cincinnati_Reds_(1876%E2%80%9380)" title="Cincinnati Reds (1876–80)">Cincinnati Red Stockings</a> (1876–80) • <a href="/wiki/Worcester_Worcesters" title="Worcester Worcesters">Worcester Worcesters</a> (1880–82) • <a href="/wiki/Providence_Grays" title="Providence Grays">Providence Grays</a> (1878–85) • <a href="/wiki/Buffalo_Bisons_(NL)" title="Buffalo Bisons (NL)">Buffalo Bisons</a> (1879–85) • <a href="/wiki/Cleveland_Blues_(NL)" title="Cleveland Blues (NL)">Cleveland Blues</a> (1879–84) • <a href="/wiki/Troy_Trojans_(MLB_team)" title="Troy Trojans (MLB team)">Troy Trojans</a> (1879–82) • <a href="/wiki/St._Louis_Maroons_/_Indianapolis_Hoosiers" class="mw-redirect" title="St. Louis Maroons / Indianapolis Hoosiers">St. Louis Maroons</a> (1885–86) • <a class="mw-selflink selflink">Kansas City Cowboys</a> (1886) • <a href="/wiki/Detroit_Wolverines" title="Detroit Wolverines">Detroit Wolverines</a> (1881–88) • <a href="/wiki/St._Louis_Maroons_/_Indianapolis_Hoosiers" class="mw-redirect" title="St. Louis Maroons / Indianapolis Hoosiers">Indianapolis Hoosiers</a> (1887–89) • <a href="/wiki/Washington_Nationals_(1886%E2%80%9389)" title="Washington Nationals (1886–89)">Washington Nationals</a> (1886–89) • <a href="/wiki/Cleveland_Spiders" title="Cleveland Spiders">Cleveland Spiders</a> (1887–99) • <a href="/wiki/Baltimore_Orioles_(19th_century)" title="Baltimore Orioles (19th century)">Baltimore Orioles</a> (1892–99) • <a href="/wiki/Louisville_Colonels" title="Louisville Colonels">Louisville Colonels</a> (1892–99) • <a href="/wiki/Washington_Senators_(1891%E2%80%9399)" title="Washington Senators (1891–99)">Washington Senators</a> (1891–99)</div>
+</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a href="/wiki/File:Baseball_(crop).jpg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Baseball_%28crop%29.jpg/25px-Baseball_%28crop%29.jpg" width="25" height="24" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Baseball_%28crop%29.jpg/38px-Baseball_%28crop%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1e/Baseball_%28crop%29.jpg/50px-Baseball_%28crop%29.jpg 2x" data-file-width="1697" data-file-height="1644" /></a></td>
+<td><i>This article about a baseball team in <a href="/wiki/Missouri" title="Missouri">Missouri</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Missouri-baseball-team-stub" title="Template:Missouri-baseball-team-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Missouri-baseball-team-stub" title="Template talk:Missouri-baseball-team-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Missouri-baseball-team-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1219
+Cached time: 20170410144755
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.056 seconds
+Real time usage: 0.075 seconds
+Preprocessor visited node count: 272/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37775/2097152 bytes
+Template argument size: 20/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/500
+Lua time usage: 0.015/10.000 seconds
+Lua memory usage: 1.02 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   46.764      1 -total
+ 65.54%   30.649      3 Template:Navbox
+ 58.87%   27.531      1 Template:MLBHistory
+ 23.24%   10.869      1 Template:Missouri-baseball-team-stub
+ 20.79%    9.721      1 Template:Asbox
+  7.09%    3.315      1 Template:Reflist
+  3.33%    1.556      2 Template:Color_box
+  3.00%    1.404      1 Template:Baseball_year
+  2.12%    0.994      3 Template:·
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23389227-0!*!0!!*!4!* and timestamp 20170410144755 and revision id 707886903
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;oldid=707886903">https://en.wikipedia.org/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;oldid=707886903</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Defunct_Major_League_Baseball_teams" title="Category:Defunct Major League Baseball teams">Defunct Major League Baseball teams</a></li><li><a href="/wiki/Category:Kansas_City_Cowboys" title="Category:Kansas City Cowboys">Kansas City Cowboys</a></li><li><a href="/wiki/Category:Missouri_sport_stubs" title="Category:Missouri sport stubs">Missouri sport stubs</a></li><li><a href="/wiki/Category:Midwestern_United_States_baseball_team_stubs" title="Category:Midwestern United States baseball team stubs">Midwestern United States baseball team stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Kansas+City+Cowboys+%28National+League%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kansas+City+Cowboys+%28National+League%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Kansas_City_Cowboys_(National_League)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Kansas_City_Cowboys_(National_League)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Kansas_City_Cowboys_(National_League)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kansas_City_Cowboys_(National_League)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kansas_City_Cowboys_(National_League)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;oldid=707886903" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1568254" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kansas_City_Cowboys_%28National_League%29&amp;id=707886903" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kansas+City+Cowboys+%28National+League%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Kansas+City+Cowboys+%28National+League%29&amp;returnto=Kansas+City+Cowboys+%28National+League%29&amp;oldid=707886903&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%82%B6%E3%82%B9%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BB%E3%82%AB%E3%82%A6%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%BA_(1886%E5%B9%B4)" title="カンザスシティ・カウボーイズ (1886年) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kansas_City_Cowboys_(NL)" title="Kansas City Cowboys (NL) – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1568254#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 March 2016, at 10:51.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Kansas_City_Cowboys_(National_League)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.056","walltime":"0.075","ppvisitednodes":{"value":272,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37775,"limit":2097152},"templateargumentsize":{"value":20,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   46.764      1 -total"," 65.54%   30.649      3 Template:Navbox"," 58.87%   27.531      1 Template:MLBHistory"," 23.24%   10.869      1 Template:Missouri-baseball-team-stub"," 20.79%    9.721      1 Template:Asbox","  7.09%    3.315      1 Template:Reflist","  3.33%    1.556      2 Template:Color_box","  3.00%    1.404      1 Template:Baseball_year","  2.12%    0.994      3 Template:·"]},"scribunto":{"limitreport-timeusage":{"value":"0.015","limit":"10.000"},"limitreport-memusage":{"value":1069315,"limit":52428800}},"cachereport":{"origin":"mw1219","timestamp":"20170410144755","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

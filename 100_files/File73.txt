@@ -1,0 +1,984 @@
+https://en.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Andrés de Urdaneta - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Andrés_de_Urdaneta","wgTitle":"Andrés de Urdaneta","wgCurRevisionId":755756410,"wgRevisionId":755756410,"wgArticleId":1697072,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from December 2016","Articles with hCards","Commons category with local link different than on Wikidata","All articles with dead external links","Articles with dead external links from October 2016","Articles with permanently dead external links","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with BNF identifiers","Spanish explorers of the Pacific","Circumnavigators of the globe","Explorers of Asia","People of Spanish colonial Philippines","People of New Spain","1498 births","1568 deaths","People from Gipuzkoa","Augustinians","Augustinian friars","Basque explorers","Colonial Mexico","Catholic Church in the Philippines","Spanish Roman Catholic priests","16th-century Roman Catholic priests","16th-century Spanish people","16th century in the Spanish East Indies","Spanish East Indies","16th-century explorers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Andrés_de_Urdaneta","wgRelevantArticleId":1697072,"wgRequestId":"WPlWoArAADMAAguxW60AAABM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q316780","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/24/Urdaneta_marinela_txikia.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Andrés_de_Urdaneta rootpage-Andrés_de_Urdaneta skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Andrés de Urdaneta</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Andrés de Urdaneta y Cerain</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Urdaneta_marinela_txikia.jpg" class="image"><img alt="Urdaneta marinela txikia.jpg" src="//upload.wikimedia.org/wikipedia/commons/2/24/Urdaneta_marinela_txikia.jpg" width="218" height="297" data-file-width="218" data-file-height="297" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span class="nickname">Andrés de Urdaneta y Cerain</span><br />
+November 30, 1498<br />
+<span class="birthplace"><a href="/wiki/Ordizia" title="Ordizia">Ordizia</a>, <a href="/wiki/Gipuzkoa" title="Gipuzkoa">Gipuzkoa</a>, <a href="/wiki/Crown_of_Castile" title="Crown of Castile">Crown of Castile</a></span></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>June 3, 1568<span style="display:none">(<span class="dday deathdate">1568-06-03</span>)</span> (aged&#160;69)<br />
+<span class="deathplace">Mexico City, <a href="/wiki/New_Spain" title="New Spain">New Spain</a></span></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category"><a href="/wiki/Basques" title="Basques">Basque</a>, Castilian (state)</td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Explorer, friar.</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Andres_de_Urdaneta.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/6/63/Andres_de_Urdaneta.jpg" width="170" height="256" class="thumbimage" data-file-width="170" data-file-height="256" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Andres_de_Urdaneta.jpg" class="internal" title="Enlarge"></a></div>
+Andrés de Urdaneta</div>
+</div>
+</div>
+<p><a href="/wiki/Friar" title="Friar">Friar</a> <b>Andrés de Urdaneta, <a href="/wiki/Order_of_St._Augustine" class="mw-redirect" title="Order of St. Augustine">OSA</a></b>, (November 30, 1498 &#160;– June 3, 1568) was a <a href="/wiki/Spaniards" title="Spaniards">Spanish</a> <a href="/wiki/Basques" title="Basques">Basque</a> <a href="/wiki/Circumnavigator" class="mw-redirect" title="Circumnavigator">circumnavigator</a>, explorer and <a href="/wiki/Augustinian_Order" class="mw-redirect" title="Augustinian Order">Augustinian</a> friar. As a navigator he achieved in 1536 the "second" world circumnavigation (after the first one led by <a href="/wiki/Ferdinand_Magellan" title="Ferdinand Magellan">Ferdinand Magellan</a> and <a href="/wiki/Juan_Sebasti%C3%A1n_Elcano" title="Juan Sebastián Elcano">Juan Sebastián Elcano</a> and their crew in 1522). Urdaneta discovered and plotted a path across <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">the Pacific</a> from the <a href="/wiki/Philippines" title="Philippines">Philippines</a> to <a href="/wiki/Acapulco" title="Acapulco">Acapulco</a> in the <a href="/wiki/Viceroyalty" title="Viceroyalty">Viceroyalty</a> of <a href="/wiki/New_Spain" title="New Spain">New Spain</a> (present day <a href="/wiki/Mexico" title="Mexico">Mexico</a>) used by the <a href="/wiki/Manila_galleons" class="mw-redirect" title="Manila galleons">Manila galleons</a>, which came to be known as "Urdaneta's route." He was considered as "protector of the Indians" for his treatment of the <a href="/wiki/Filipino_peoples" class="mw-redirect" title="Filipino peoples">Filipino</a> natives; also <a href="/wiki/Roman_Catholic_Archdiocese_of_Cebu" title="Roman Catholic Archdiocese of Cebu">Cebu</a> and the <a href="/wiki/Philippines" title="Philippines">Philippines'</a> first <a href="/wiki/Prelate" title="Prelate">prelate</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_years"><span class="tocnumber">1</span> <span class="toctext">Early years</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Exploration"><span class="tocnumber">2</span> <span class="toctext">Exploration</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Legacy"><span class="tocnumber">3</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_years">Early years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=edit&amp;section=1" title="Edit section: Early years">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Urdaneta was born in the town of <a href="/wiki/Ordizia" title="Ordizia">Ordizia</a>, <a href="/wiki/Spain" title="Spain">Spain</a>.</p>
+<h2><span class="mw-headline" id="Exploration">Exploration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=edit&amp;section=2" title="Edit section: Exploration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/File:Andres_Urdaneta_Tornaviaje.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Andres_Urdaneta_Tornaviaje.jpg/500px-Andres_Urdaneta_Tornaviaje.jpg" width="500" height="410" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Andres_Urdaneta_Tornaviaje.jpg/750px-Andres_Urdaneta_Tornaviaje.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Andres_Urdaneta_Tornaviaje.jpg/1000px-Andres_Urdaneta_Tornaviaje.jpg 2x" data-file-width="1593" data-file-height="1306" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Andres_Urdaneta_Tornaviaje.jpg" class="internal" title="Enlarge"></a></div>
+Route from Philippines to Acapulco, México</div>
+</div>
+</div>
+<p>Urdaneta was one of the few survivors of the <a href="/wiki/Loa%C3%ADsa_Expedition" class="mw-redirect" title="Loaísa Expedition">Loaísa Expedition</a> to reach the <a href="/wiki/Maluku_Islands" title="Maluku Islands">Spice Islands</a> late in the year 1526, only to be taken prisoner by the Portuguese. Urdaneta spent the next eight and a half years in and around the Spice Islands, but eventually he managed to return to Europe in the <a href="/wiki/Portuguese_India_Armadas" class="mw-redirect" title="Portuguese India Armadas">Portuguese India Armada</a> and under <a href="/wiki/Portugal" title="Portugal">Portuguese</a> guard. Upon his arrival in <a href="/wiki/Lisbon" title="Lisbon">Lisbon</a> on June 26, 1536, he achieved the second world <a href="/wiki/Circumnavigation" title="Circumnavigation">circumnavigation</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Urdaneta accomplished his trip around the world through a journey which lasted just shy of eleven years.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>In Lisbon the Portuguese authorities confiscated his charts and letters. Urdaneta then escaped to Spain, where he recreated much of the confiscated material, and presented it to the Spanish Court. King <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles I of Spain</a> did not give him a very favourable reception either, and, wearied by his many adventures, he returned to New Spain and there entered the <a href="/wiki/Order_of_Hermits_of_St._Augustine" class="mw-redirect" title="Order of Hermits of St. Augustine">Order of Hermits of St. Augustine</a>.</p>
+<p>At the death of the viceroy, <a href="/wiki/Don_(honorific)" title="Don (honorific)">Don</a> <a href="/wiki/Lu%C3%ADs_de_Velasco" title="Luís de Velasco">Luís de Velasco</a>, in 1564, New Spain had passed under the government of the <a href="/wiki/Audiencia_Real" class="mw-redirect" title="Audiencia Real">Audiencia</a>, one of whose first cares was to equip an expedition for the conquest and colonization of the Philippines. This had been ordered by <a href="/wiki/Philip_II_of_Spain" title="Philip II of Spain">Philip II</a> in 1559. Friar Andrés de Urdaneta having been designated as the Commander, the Viceroy had the matter under consideration at the time of his death. Urdaneta was considered a great navigator and especially fitted for cruising in Indian waters. Philip II wrote urging him to join the expedition and offering him the command. Urdaneta agreed to accompany the expedition but refused to take command; the <i>adelantado</i>, Don <a href="/wiki/Miguel_L%C3%B3pez_de_Legazpi" title="Miguel López de Legazpi">Miguel López de Legazpi</a>, was appointed as Commander. The expedition, composed of the <i>Capitana</i>, which carried on board Legazpi and Urdaneta, the <a href="/wiki/Galleon" title="Galleon">galleons</a> <i>San Pablo</i> and <i>San Pedro</i>, and the <a href="/wiki/Ship%27s_tender" title="Ship's tender">tenders</a> <i>San Juan</i> and <i>San Lucas</i>, set sail on November 21, 1564.</p>
+<p>Urdaneta founded the first churches in the Philippines, the <a href="/wiki/Cebu_Metropolitan_Cathedral" title="Cebu Metropolitan Cathedral">St. Vitales Church</a> and the <a href="/wiki/Basilica_del_Santo_Ni%C3%B1o" title="Basilica del Santo Niño">Basilica del Santo Niño</a>; he served as the <a href="/wiki/Roman_Catholic_Archdiocese_of_Cebu#Ordinaries" title="Roman Catholic Archdiocese of Cebu">first</a> <a href="/wiki/Prelate" title="Prelate">prelate</a> of the <a href="/wiki/Archdiocese_of_Cebu" class="mw-redirect" title="Archdiocese of Cebu">Church in Cebu</a>. After spending some time in the islands, Legazpi determined to remain and sent Urdaneta back for the purpose of finding a better return route and to obtain help from New Spain for the Philippine colony. (For the problem of sailing east across the Pacific, which Urdaneta solved, see <a href="/wiki/Manila_Galleon" class="mw-redirect" title="Manila Galleon">Manila Galleon</a> and <a href="/wiki/Volta_do_Mar" class="mw-redirect" title="Volta do Mar">Volta do Mar</a>.) Urdaneta set sail from San Miguel (the island of <a href="/wiki/Cebu_Island" class="mw-redirect" title="Cebu Island">Cebu</a>), on June 1, 1565 and was obliged to sail as far as <a href="/wiki/38th_parallel_north" title="38th parallel north">38 degrees North</a> latitude to obtain favourable winds. With the voyage in trouble, Urdaneta had to assume command himself. The ship reached the port of <a href="/wiki/Acapulco" title="Acapulco">Acapulco</a>, on October 8, 1565, having traveled 12,000 miles (20,000&#160;km) in 130 days. Fourteen of the crew had died; only Urdaneta and <a href="/wiki/Felipe_de_Salcedo" title="Felipe de Salcedo">Felipe de Salcedo</a>, nephew of López de Legazpi, had strength enough to cast the anchors.</p>
+<p>Upon arriving, Urdaneta discovered that a member of the crew of his expedition, <a href="/wiki/Alonso_de_Arellano" title="Alonso de Arellano">Alonso de Arellano</a>—who had abandoned them just after leaving the port—had actually beaten them across the ocean, arriving at <a href="/wiki/Barra_de_Navidad,_Jalisco" class="mw-redirect" title="Barra de Navidad, Jalisco">Barra de Navidad</a> in <a href="/wiki/Jalisco" title="Jalisco">Jalisco</a> in August of the same year. However, Arellano was in disgrace for his rebellion against the authority of Legazpi, and his notes were far less precise and professional than Urdaneta's, and so the latter's route became the famous and trusted one.</p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=edit&amp;section=3" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:77px;"><a href="/wiki/File:Urdanetajf154.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Urdanetajf154.JPG/75px-Urdanetajf154.JPG" width="75" height="56" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Urdanetajf154.JPG/113px-Urdanetajf154.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Urdanetajf154.JPG/150px-Urdanetajf154.JPG 2x" data-file-width="4608" data-file-height="3456" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Urdanetajf154.JPG" class="internal" title="Enlarge"></a></div>
+Fray Andrés de Urdaneta Monument</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:77px;"><a href="/wiki/File:Urdanetajf155.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Urdanetajf155.JPG/75px-Urdanetajf155.JPG" width="75" height="56" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Urdanetajf155.JPG/113px-Urdanetajf155.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Urdanetajf155.JPG/150px-Urdanetajf155.JPG 2x" data-file-width="4608" data-file-height="3456" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Urdanetajf155.JPG" class="internal" title="Enlarge"></a></div>
+The Memorial stands in <a href="/wiki/Urdaneta,_Pangasinan" title="Urdaneta, Pangasinan">Urdaneta, Pangasinan</a> ( a town named in his honor).</div>
+</div>
+</div>
+<p>From Mexico, Urdaneta went to Europe to make a report on the expedition and then returned to New Spain, intending to continue on to the Philippines, but he was dissuaded by his friends. He wrote two accounts of his voyages: one giving the account of the Loaiza expedition was published; the other, which gives the account of his return voyage, is preserved in manuscript in the archives of the <a href="/wiki/Council_of_the_Indies" title="Council of the Indies">Council of the Indies</a>.</p>
+<p>For the remainder of the 16th and 17th centuries, Spanish ships, particularly the annual <a href="/wiki/Manila_Galleon" class="mw-redirect" title="Manila Galleon">Manila-Acapulco trading Galleon</a>, used "Urdaneta's route."</p>
+<p>Urdaneta died in Mexico City in 1568.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Exploration_of_the_Pacific" title="Exploration of the Pacific">Exploration of the Pacific</a></li>
+</ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Andr%C3%A9s_de_Urdaneta" class="extiw" title="commons:Category:Andrés de Urdaneta">Andrés de Urdaneta</a></b></i>.</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>McDougall, Walter (1993). <i>Let the Sea Make a Noise: Four Hundred Years of Cataclysm, Conquest, War and Folly in the North Pacific.</i> New York: Avon Books.</li>
+<li><a rel="nofollow" class="external text" href="http://www.filipiniana.net/ArtifactView.do?artifactID=P20000000001&amp;query=null&amp;page=33">"Expedition of García de Loaisa 1525-26."</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2016">permanent dead link</span></a></i>]</span></sup> In <i>The Philippine Islands, 1493-1898</i>. Cleveland, Ohio: A.H. Clark Company, 1903-9. Vol. 2, 1529-1561. Pp.&#160;33.</li>
+</ul>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">The Philippine Islands, 1493-1803, vol. 2, eds. Emma Helen Blair, James Alexander Robertson (Cleveland: The Arthur H. Clark Company, 1903), 33, note 5.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Bartholomé de Letona, OSF, <i>The Philippine Islands, 1493-1803</i>, vol. 36, eds. Emma Helen Blair, James Alexander Robertson (Cleveland: The Arthur H. Clark Company, 1906), 210.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">or rather the third or even the fourth circumnavigation in history, considering that <a href="/wiki/Ferdinand_Magellan" title="Ferdinand Magellan">Magellan</a> and some of his men had been in the regions of <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a> and <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> a decade before reaching the <a href="/wiki/Philippines" title="Philippines">Philippines</a>, or the route taken by other crew members of Magellan's expedition and later returned to Europe after <a href="/wiki/Elcano" class="mw-redirect" title="Elcano">Elcano</a>`s ship, who were also brought by the Portuguese from <a href="/wiki/Moluccas" class="mw-redirect" title="Moluccas">Moluccas</a> and then released in Lisbon<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Mitchell, Mairin. 1964. <i>Friar Andrés de Urdaneta, O.S.A.</i> Macdonald and Evans, London, p. 101</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Spanish_Empire" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Spanish_Empire" title="Template:Spanish Empire"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Spanish_Empire" title="Template talk:Spanish Empire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Spanish_Empire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Spanish_Empire" style="font-size:114%;margin:0 4em"><a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish Empire</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";text-align: center;">
+<div id="Timeline" style="font-size:114%;margin:0 4em">Timeline</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catholic_Monarchs" title="Catholic Monarchs">Catholic Monarchs</a></li>
+<li><a href="/wiki/Habsburg_Spain" title="Habsburg Spain">Habsburgs</a></li>
+<li><a href="/wiki/Spanish_Golden_Age" title="Spanish Golden Age">Golden Age</a></li>
+<li><a href="/wiki/Encomienda" title="Encomienda">Encomiendas</a></li>
+<li><a href="/wiki/New_Laws" title="New Laws">New Laws in favour of the indigenous</a></li>
+<li><a href="/wiki/Expulsion_of_the_Moriscos" title="Expulsion of the Moriscos">Expulsion of the Moriscos</a></li>
+<li><a href="/wiki/Eighty_Years%27_War" title="Eighty Years' War">Eighty Years' War</a></li>
+<li><a href="/wiki/Portuguese_Restoration_War" title="Portuguese Restoration War">Portuguese Restoration War</a></li>
+<li><a href="/wiki/Enlightenment_in_Spain" title="Enlightenment in Spain">Bourbons</a></li>
+<li><a href="/wiki/Peninsular_War" title="Peninsular War">Napoleonic invasion</a></li>
+<li><a href="/wiki/Spanish_American_wars_of_independence" title="Spanish American wars of independence">Independence of Spanish continental Americas</a></li>
+<li><a href="/wiki/Spanish_Constitution_of_1812" title="Spanish Constitution of 1812">Liberal constitution</a></li>
+<li><a href="/wiki/Carlist_Wars" title="Carlist Wars">Carlist Wars</a></li>
+<li><a href="/wiki/Spanish%E2%80%93American_War" title="Spanish–American War">Spanish–American War</a></li>
+<li><a href="/wiki/German%E2%80%93Spanish_Treaty_(1899)" title="German–Spanish Treaty (1899)">German–Spanish Treaty (1899)</a></li>
+<li><a href="/wiki/Spanish_Civil_War" title="Spanish Civil War">Spanish Civil War</a></li>
+<li><a href="/wiki/Moroccan_Army_of_Liberation" title="Moroccan Army of Liberation">Independence of Morocco</a> <small>(<a href="/wiki/Western_Sahara_conflict" title="Western Sahara conflict">Western Sahara conflict</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";text-align: center;">
+<div id="Territories" style="font-size:114%;margin:0 4em">Territories</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kingdom_of_Sicily#The_insular_kingdom_of_Sicily_under_the_Crown_of_Aragon_and_Spain" title="Kingdom of Sicily">Southern Italy, Sicily</a> <a href="/wiki/Sardinia#Aragonese_period" title="Sardinia">and Sardinia</a></li>
+<li><a href="/wiki/List_of_rulers_of_Milan" title="List of rulers of Milan">Milan</a></li>
+<li><a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Union with Holy Roman Empire</a></li>
+<li><a href="/wiki/Spanish_Netherlands" title="Spanish Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Franche-Comt%C3%A9" title="Franche-Comté">Franche-Comté</a></li>
+<li><a href="/wiki/Iberian_Union" title="Iberian Union">Portugal</a></li>
+<li><a href="/wiki/History_of_the_Philippines_(1521%E2%80%931898)" title="History of the Philippines (1521–1898)">Philippines</a></li>
+<li><a href="/wiki/Spanish_East_Indies" title="Spanish East Indies">East Pacific</a> <small>(Guam, Mariana, Caroline, Palau, Marshall, Micronesia, Moluccas)</small></li>
+<li><a href="/wiki/Spanish_Formosa" title="Spanish Formosa">Northern Taiwan</a></li>
+<li><a href="/wiki/Tidore" title="Tidore">Tidore</a></li>
+<li><a href="/wiki/Spanish_Florida" title="Spanish Florida">Florida</a></li>
+<li><a href="/wiki/New_Spain" title="New Spain">New Spain</a> <small>(Western United States, Mexico, Central America, Spanish Caribbean)</small></li>
+<li><a href="/wiki/Louisiana_(New_Spain)" title="Louisiana (New Spain)">Spanish Louisiana</a></li>
+<li><a href="/wiki/Spanish_expeditions_to_the_Pacific_Northwest" title="Spanish expeditions to the Pacific Northwest">Coastal Alaska</a></li>
+<li><a href="/wiki/History_of_Haiti#Spanish_history_.281492.E2.80.931625.29" title="History of Haiti">Haiti</a></li>
+<li><a href="/wiki/History_of_Belize_(1506%E2%80%931862)" title="History of Belize (1506–1862)">Belize</a></li>
+<li><a href="/wiki/Colony_of_Santiago" title="Colony of Santiago">Jamaica</a></li>
+<li><a href="/wiki/History_of_Trinidad_and_Tobago#Spanish_period" title="History of Trinidad and Tobago">Trinidad and Tobago</a></li>
+<li><a href="/wiki/Captaincy_General_of_Venezuela" title="Captaincy General of Venezuela">Venezuela, Northern and Western Guyana</a></li>
+<li><a href="/wiki/Viceroyalty_of_New_Granada" title="Viceroyalty of New Granada">New Granada</a> <small>(Panama, Colombia, Ecuador, a northernmost portion of Brazilian Amazon)</small></li>
+<li><a href="/wiki/Viceroyalty_of_Peru" title="Viceroyalty of Peru">Peru</a> <small>(Peru, Acre)</small></li>
+<li><a href="/wiki/Viceroyalty_of_the_R%C3%ADo_de_la_Plata" title="Viceroyalty of the Río de la Plata">Río de la Plata</a> <small>(Argentina, Paraguay, <a href="/wiki/Real_Audiencia_of_Charcas" title="Real Audiencia of Charcas">Charcas</a> (Bolivia), <a href="/wiki/Banda_Oriental" title="Banda Oriental">Banda Oriental</a> (Uruguay), <a href="/wiki/History_of_the_Falkland_Islands" title="History of the Falkland Islands">Falkland Islands</a>)</small></li>
+<li><a href="/wiki/Captaincy_General_of_Chile" title="Captaincy General of Chile">Chile</a></li>
+<li><a href="/wiki/Spanish_Guinea" title="Spanish Guinea">Equatorial Guinea</a></li>
+<li>Spanish North Africa <small>(<a href="/wiki/Ifni" title="Ifni">Ifni</a>, <a href="/wiki/Cape_Juby" title="Cape Juby">Cape Juby</a>, <a href="/wiki/Spanish_protectorate_in_Morocco" title="Spanish protectorate in Morocco">Spanish Morocco</a> and <a href="/wiki/Spanish_Sahara" title="Spanish Sahara">Western Sahara</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";text-align: center;">
+<div id="Administration" style="font-size:114%;margin:0 4em">Administration</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Council_of_the_Indies" title="Council of the Indies">Council of the Indies</a></li>
+<li><a href="/wiki/Cabildo_(council)" title="Cabildo (council)">Cabildo</a></li>
+<li><a href="/wiki/Trial_of_residence" title="Trial of residence">Trial of residence</a></li>
+<li><a href="/wiki/Laws_of_the_Indies" title="Laws of the Indies">Laws of the Indies</a></li>
+<li><a href="/wiki/Royal_Decree_of_Graces_of_1815" title="Royal Decree of Graces of 1815">Royal Decree of Graces</a></li>
+<li><a href="/wiki/Exequatur" title="Exequatur">Exequatur</a></li>
+<li><a href="/wiki/Papal_bull" title="Papal bull">Papal bull</a></li>
+<li><a href="/wiki/School_of_Salamanca" title="School of Salamanca">School of Salamanca</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";text-align: center;">
+<div id="Administrative_subdivisions" style="font-size:114%;margin:0 4em">Administrative subdivisions</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="white-space: nowrap; text-align: right;"><a href="/wiki/Viceroy" title="Viceroy">Viceroyalties</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background: white; text-align: left; width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Viceroyalty_of_New_Spain" class="mw-redirect" title="Viceroyalty of New Spain">New Spain</a></li>
+<li><a href="/wiki/Viceroyalty_of_New_Granada" title="Viceroyalty of New Granada">New Granada</a></li>
+<li><a href="/wiki/Viceroyalty_of_Peru" title="Viceroyalty of Peru">Perú</a></li>
+<li><a href="/wiki/Viceroyalty_of_the_R%C3%ADo_de_la_Plata" title="Viceroyalty of the Río de la Plata">Río de la Plata</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="white-space: nowrap; text-align: right;"><a href="/wiki/Real_Audiencia" title="Real Audiencia">Audiencias</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background: white; text-align: left; width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/New_Kingdom_of_Granada" title="New Kingdom of Granada">Bogotá</a></li>
+<li><a href="/wiki/Royal_Audiencia_of_Buenos_Aires" title="Royal Audiencia of Buenos Aires">Buenos Aires</a></li>
+<li><a href="/wiki/Captaincy_General_of_Venezuela" title="Captaincy General of Venezuela">Caracas</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Charcas" title="Real Audiencia of Charcas">Charcas</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Concepci%C3%B3n" title="Real Audiencia of Concepción">Concepción</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Cusco" class="mw-redirect" title="Real Audiencia of Cusco">Cusco</a></li>
+<li><a href="/wiki/Royal_Audiencia_of_Guadalajara" title="Royal Audiencia of Guadalajara">Guadalajara</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Guatemala" title="Real Audiencia of Guatemala">Guatemala</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Lima" title="Real Audiencia of Lima">Lima</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Manila" title="Real Audiencia of Manila">Manila</a></li>
+<li><a href="/wiki/Royal_Audiencia_of_Mexico" title="Royal Audiencia of Mexico">Mexico</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Panama" title="Real Audiencia of Panama">Panamá</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Quito" title="Real Audiencia of Quito">Quito</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Santiago" title="Real Audiencia of Santiago">Santiago</a></li>
+<li><a href="/wiki/Real_Audiencia_of_Santo_Domingo" title="Real Audiencia of Santo Domingo">Santo Domingo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="white-space: nowrap; text-align: right;"><a href="/wiki/Captaincies_of_the_Spanish_Empire" title="Captaincies of the Spanish Empire">Captaincies General</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background: white; text-align: left; width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Captaincy_General_of_Chile" title="Captaincy General of Chile">Chile</a></li>
+<li><a href="/wiki/Captaincy_General_of_Cuba" title="Captaincy General of Cuba">Cuba</a></li>
+<li><a href="/wiki/Captaincy_General_of_Guatemala" title="Captaincy General of Guatemala">Guatemala</a></li>
+<li><a href="/wiki/Captaincy_General_of_the_Philippines" title="Captaincy General of the Philippines">Philippines</a></li>
+<li><a href="/wiki/Captaincy_General_of_Puerto_Rico" title="Captaincy General of Puerto Rico">Puerto Rico</a></li>
+<li><a href="/wiki/Captaincy_General_of_Santo_Domingo" title="Captaincy General of Santo Domingo">Santo Domingo</a></li>
+<li><a href="/wiki/Captaincy_General_of_Venezuela" title="Captaincy General of Venezuela">Venezuela</a></li>
+<li><a href="/wiki/Captaincy_General_of_Yucat%C3%A1n" title="Captaincy General of Yucatán">Yucatán</a></li>
+<li><a href="/wiki/Provincias_Internas" title="Provincias Internas">Provincias Internas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="white-space: nowrap; text-align: right;"><a href="/wiki/Governorates_of_the_Spanish_Empire" title="Governorates of the Spanish Empire">Governorates</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background: white; text-align: left; width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Castilla_de_Oro" title="Castilla de Oro">Castilla de Oro</a></li>
+<li><a href="/wiki/Governorate_of_Cuba" title="Governorate of Cuba">Cuba</a></li>
+<li><a href="/wiki/Governorate_of_New_Andalusia_(1501%E2%80%9313)" title="Governorate of New Andalusia (1501–13)">New Andalusia <small>(1501–1513)</small></a></li>
+<li><a href="/wiki/Governorate_of_New_Andalusia" title="Governorate of New Andalusia">New Andalusia</a></li>
+<li><a href="/wiki/Governorate_of_New_Castile" title="Governorate of New Castile">New Castile</a></li>
+<li><a href="/wiki/Governorate_of_New_Toledo" title="Governorate of New Toledo">New Toledo</a></li>
+<li><a href="/wiki/Governorate_of_Paraguay" title="Governorate of Paraguay">Paraguay</a></li>
+<li><a href="/wiki/Governorate_of_the_R%C3%ADo_de_la_Plata" title="Governorate of the Río de la Plata">Río de la Plata</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";text-align: center;">
+<div id="Economy" style="font-size:114%;margin:0 4em">Economy</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Currency_of_Spanish_America" title="Currency of Spanish America">Currencies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spanish_dollar" title="Spanish dollar">Dollar</a></li>
+<li><a href="/wiki/Spanish_colonial_real" title="Spanish colonial real">Real</a></li>
+<li><a href="/wiki/Maraved%C3%AD" title="Maravedí">Maravedí</a></li>
+<li><a href="/wiki/Spanish_escudo" title="Spanish escudo">Escudo</a></li>
+<li><a href="/wiki/Columnarios" title="Columnarios">Columnario</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Trade</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Manila_galleon" title="Manila galleon">Manila galleon</a></li>
+<li><a href="/wiki/Spanish_treasure_fleet" title="Spanish treasure fleet">Spanish treasure fleet</a></li>
+<li><a href="/wiki/Casa_de_Contrataci%C3%B3n" title="Casa de Contratación">Casa de Contratación</a></li>
+<li><a href="/wiki/Guipuzcoan_Company_of_Caracas" title="Guipuzcoan Company of Caracas">Guipuzcoan Company of Caracas</a></li>
+<li><a href="/wiki/El_Camino_Real_de_Tierra_Adentro" class="mw-redirect" title="El Camino Real de Tierra Adentro">Camino Real de Tierra Adentro</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";text-align: center;">
+<div id="Military" style="font-size:114%;margin:0 4em">Military</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="white-space: nowrap; text-align: right;">Armies</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background: white; text-align: left; width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tercio" title="Tercio">Tercio</a></li>
+<li><a href="/wiki/Army_of_Flanders" title="Army of Flanders">Army of Flanders</a></li>
+<li><a href="/wiki/Spanish_Armada" title="Spanish Armada">Spanish Armada</a></li>
+<li><a href="/wiki/Indian_auxiliaries" title="Indian auxiliaries">Indian auxiliaries</a></li>
+<li><a href="/wiki/Spanish_Legion" title="Spanish Legion">Legión</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="white-space: nowrap; text-align: right;">Warriors</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background: white; text-align: left; width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fernando_%C3%81lvarez_de_Toledo,_3rd_Duke_of_Alba" title="Fernando Álvarez de Toledo, 3rd Duke of Alba">Duke of Alba</a></li>
+<li><a href="/wiki/Antonio_de_Leyva,_Duke_of_Terranova" title="Antonio de Leyva, Duke of Terranova">Antonio de Leyva</a></li>
+<li><a href="/wiki/Mart%C3%ADn_de_Goiti" title="Martín de Goiti">Martín de Goiti</a></li>
+<li><a href="/wiki/Alfonso_d%27Avalos" title="Alfonso d'Avalos">Alfonso d'Avalos</a></li>
+<li><a href="/wiki/Garc%C3%ADa_de_Toledo_Osorio,_4th_Marquis_of_Villafranca" title="García de Toledo Osorio, 4th Marquis of Villafranca">García de Toledo Osorio</a></li>
+<li><a href="/wiki/Emmanuel_Philibert,_Duke_of_Savoy" title="Emmanuel Philibert, Duke of Savoy">Duke of Savoy</a></li>
+<li><a href="/wiki/%C3%81lvaro_de_Baz%C3%A1n_the_Elder" title="Álvaro de Bazán the Elder">Álvaro de Bazán the Elder</a></li>
+<li><a href="/wiki/John_of_Austria" title="John of Austria">John of Austria</a></li>
+<li><a href="/wiki/Charles_Bonaventure_de_Longueval,_Count_of_Bucquoy" title="Charles Bonaventure de Longueval, Count of Bucquoy">Charles Bonaventure de Longueval</a></li>
+<li><a href="/wiki/Pedro_de_Zubiaur" title="Pedro de Zubiaur">Pedro de Zubiaur</a></li>
+<li><a href="/wiki/Ambrogio_Spinola,_1st_Marquis_of_the_Balbases" title="Ambrogio Spinola, 1st Marquis of the Balbases">Ambrosio Spinola</a></li>
+<li><a href="/wiki/Bernardo_de_G%C3%A1lvez" title="Bernardo de Gálvez">Bernardo de Gálvez</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="white-space: nowrap; text-align: right;">Sailors</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background: white; text-align: left; width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a></li>
+<li><a href="/wiki/Pinz%C3%B3n_brothers" title="Pinzón brothers">Pinzón brothers</a></li>
+<li><a href="/wiki/Ferdinand_Magellan" title="Ferdinand Magellan">Ferdinand Magellan</a></li>
+<li><a href="/wiki/Juan_Sebasti%C3%A1n_Elcano" title="Juan Sebastián Elcano">Juan Sebastián Elcano</a></li>
+<li><a href="/wiki/Juan_de_la_Cosa" title="Juan de la Cosa">Juan de la Cosa</a></li>
+<li><a href="/wiki/Juan_Ponce_de_Le%C3%B3n" title="Juan Ponce de León">Juan Ponce de León</a></li>
+<li><a href="/wiki/Miguel_L%C3%B3pez_de_Legazpi" title="Miguel López de Legazpi">Miguel López de Legazpi</a></li>
+<li><a href="/wiki/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s" title="Pedro Menéndez de Avilés">Pedro Menéndez de Avilés</a></li>
+<li><a href="/wiki/Sebasti%C3%A1n_de_Ocampo" title="Sebastián de Ocampo">Sebastián de Ocampo</a></li>
+<li><a href="/wiki/%C3%81lvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca" title="Álvar Núñez Cabeza de Vaca">Álvar Núñez Cabeza de Vaca</a></li>
+<li><a href="/wiki/Alonso_de_Ojeda" title="Alonso de Ojeda">Alonso de Ojeda</a></li>
+<li><a href="/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa" title="Vasco Núñez de Balboa">Vasco Núñez de Balboa</a></li>
+<li><a href="/wiki/Alonso_de_Salazar" title="Alonso de Salazar">Alonso de Salazar</a></li>
+<li><a class="mw-selflink selflink">Andrés de Urdaneta</a></li>
+<li><a href="/wiki/Antonio_de_Ulloa" title="Antonio de Ulloa">Antonio de Ulloa</a></li>
+<li><a href="/wiki/Ruy_L%C3%B3pez_de_Villalobos" title="Ruy López de Villalobos">Ruy López de Villalobos</a></li>
+<li><a href="/wiki/Diego_Columbus" title="Diego Columbus">Diego Columbus</a></li>
+<li><a href="/wiki/Alonso_de_Ercilla" title="Alonso de Ercilla">Alonso de Ercilla</a></li>
+<li><a href="/wiki/Nicol%C3%A1s_de_Ovando" class="mw-redirect" title="Nicolás de Ovando">Nicolás de Ovando</a></li>
+<li><a href="/wiki/Juan_de_Ayala" title="Juan de Ayala">Juan de Ayala</a></li>
+<li><a href="/wiki/Sebasti%C3%A1n_Vizca%C3%ADno" title="Sebastián Vizcaíno">Sebastián Vizcaíno</a></li>
+<li><a href="/wiki/Juan_Fern%C3%A1ndez_(explorer)" title="Juan Fernández (explorer)">Juan Fernández</a></li>
+<li><a href="/wiki/Felipe_Gonz%C3%A1lez_de_Ahedo" title="Felipe González de Ahedo">Felipe González de Ahedo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="white-space: nowrap; text-align: right;"><a href="/wiki/Conquistador" title="Conquistador">Conquistadors</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background: white; text-align: left; width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hern%C3%A1n_Cort%C3%A9s" title="Hernán Cortés">Hernán Cortés</a></li>
+<li><a href="/wiki/Francisco_Pizarro" title="Francisco Pizarro">Francisco Pizarro</a></li>
+<li><a href="/wiki/Gonzalo_Jim%C3%A9nez_de_Quesada" title="Gonzalo Jiménez de Quesada">Gonzalo Jiménez de Quesada</a></li>
+<li><a href="/wiki/Hern%C3%A1n_P%C3%A9rez_de_Quesada" title="Hernán Pérez de Quesada">Hernán Pérez de Quesada</a></li>
+<li><a href="/wiki/Francisco_V%C3%A1zquez_de_Coronado" title="Francisco Vázquez de Coronado">Francisco Vázquez de Coronado</a></li>
+<li><a href="/wiki/Diego_Vel%C3%A1zquez_de_Cu%C3%A9llar" title="Diego Velázquez de Cuéllar">Diego Velázquez de Cuéllar</a></li>
+<li><a href="/wiki/Pedro_de_Valdivia" title="Pedro de Valdivia">Pedro de Valdivia</a></li>
+<li><a href="/wiki/Pedro_de_Alvarado" title="Pedro de Alvarado">Pedro de Alvarado</a></li>
+<li><a href="/wiki/Mart%C3%ADn_de_Urs%C3%BAa" title="Martín de Ursúa">Martín de Ursúa</a></li>
+<li><a href="/wiki/Diego_de_Almagro" title="Diego de Almagro">Diego de Almagro</a></li>
+<li><a href="/wiki/P%C3%A1nfilo_de_Narv%C3%A1ez" title="Pánfilo de Narváez">Pánfilo de Narváez</a></li>
+<li><a href="/wiki/Diego_de_Mazariegos" title="Diego de Mazariegos">Diego de Mazariegos</a></li>
+<li><a href="/wiki/Jer%C3%B3nimo_Luis_de_Cabrera" title="Jerónimo Luis de Cabrera">Jerónimo Luis de Cabrera</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="white-space: nowrap; text-align: right;">Battles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background: white; text-align: left; width: auto;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Old World</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Won</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_Bicocca" title="Battle of Bicocca">Bicocca</a></li>
+<li><a href="/wiki/Battle_of_Landriano" title="Battle of Landriano">Landriano</a></li>
+<li><a href="/wiki/Battle_of_Pavia" title="Battle of Pavia">Pavia</a></li>
+<li><a href="/wiki/Conquest_of_Tunis_(1535)" title="Conquest of Tunis (1535)">Tunis</a></li>
+<li><a href="/wiki/Battle_of_M%C3%BChlberg" title="Battle of Mühlberg">Mühlberg</a></li>
+<li><a href="/wiki/Battle_of_St._Quentin_(1557)" title="Battle of St. Quentin (1557)">St. Quentin</a></li>
+<li><a href="/wiki/Battle_of_Gravelines_(1558)" title="Battle of Gravelines (1558)">Gravelines</a></li>
+<li><a href="/wiki/Great_Siege_of_Malta" title="Great Siege of Malta">Malta</a></li>
+<li><a href="/wiki/Battle_of_Lepanto" title="Battle of Lepanto">Lepanto</a></li>
+<li><a href="/wiki/Fall_of_Antwerp" title="Fall of Antwerp">Antwerp</a></li>
+<li><a href="/wiki/Battle_of_Ponta_Delgada" title="Battle of Ponta Delgada">Azores</a></li>
+<li><a href="/wiki/Siege_of_Mons_(1572)" title="Siege of Mons (1572)">Siege of Mons</a></li>
+<li><a href="/wiki/Battle_of_Gembloux_(1578)" title="Battle of Gembloux (1578)">Gembloux</a></li>
+<li><a href="/wiki/Siege_of_Ostend" title="Siege of Ostend">Siege of Ostend</a></li>
+<li><a href="/wiki/English_Armada" title="English Armada">English Armada</a></li>
+<li><a href="/wiki/Battle_of_Cape_Celidonia" title="Battle of Cape Celidonia">Cape Celidonia</a></li>
+<li><a href="/wiki/Battle_of_White_Mountain" title="Battle of White Mountain">White Mountain</a></li>
+<li><a href="/wiki/Siege_of_Breda_(1624)" title="Siege of Breda (1624)">Siege of Breda</a></li>
+<li><a href="/wiki/Battle_of_N%C3%B6rdlingen_(1634)" title="Battle of Nördlingen (1634)">Nördlingen</a></li>
+<li><a href="/wiki/Battle_of_Valenciennes_(1656)" title="Battle of Valenciennes (1656)">Valenciennes</a></li>
+<li><a href="/wiki/Sieges_of_Ceuta_(1694%E2%80%931727)" title="Sieges of Ceuta (1694–1727)">Siege of Ceuta</a></li>
+<li><a href="/wiki/Battle_of_Bitonto" title="Battle of Bitonto">Bitonto</a></li>
+<li><a href="/wiki/Battle_of_Bail%C3%A9n" title="Battle of Bailén">Bailén</a></li>
+<li><a href="/wiki/Battle_of_Vitoria" title="Battle of Vitoria">Vitoria</a></li>
+<li><a href="/wiki/Battle_of_T%C3%A9touan" title="Battle of Tétouan">Tetouan</a></li>
+<li><a href="/wiki/Alhucemas_landing" title="Alhucemas landing">Alhucemas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Lost</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_Preveza" title="Battle of Preveza">Preveza</a></li>
+<li><a href="/wiki/Siege_of_Castelnuovo" title="Siege of Castelnuovo">Siege of Castelnuovo</a></li>
+<li><a href="/wiki/Algiers_expedition_(1541)" title="Algiers expedition (1541)">Algiers</a></li>
+<li><a href="/wiki/Battle_of_Ceresole" title="Battle of Ceresole">Ceresole</a></li>
+<li><a href="/wiki/Battle_of_Djerba" title="Battle of Djerba">Djerba</a></li>
+<li><a href="/wiki/Conquest_of_Tunis_(1574)" title="Conquest of Tunis (1574)">Tunis</a></li>
+<li><a href="/wiki/Spanish_Armada" title="Spanish Armada">Spanish Armada</a></li>
+<li><a href="/wiki/Siege_of_Leiden" title="Siege of Leiden">Leiden</a></li>
+<li><a href="/wiki/Battle_of_Rocroi" title="Battle of Rocroi">Rocroi</a></li>
+<li><a href="/wiki/Battle_of_the_Downs" title="Battle of the Downs">Downs</a></li>
+<li><a href="/wiki/Battle_of_Cape_Passaro" title="Battle of Cape Passaro">Passaro</a></li>
+<li><a href="/wiki/Battle_of_Trafalgar" title="Battle of Trafalgar">Trafalgar</a></li>
+<li><a href="/wiki/Battle_of_Somosierra" title="Battle of Somosierra">Somosierra</a></li>
+<li><a href="/wiki/Battle_of_Annual" title="Battle of Annual">Annual</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">New World</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Won</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fall_of_Tenochtitlan" title="Fall of Tenochtitlan">Siege of Tenochtitlan</a></li>
+<li><a href="/wiki/Battle_of_Cajamarca" title="Battle of Cajamarca">Cajamarca</a></li>
+<li><a href="/wiki/Siege_of_Cuzco" title="Siege of Cuzco">Cuzco</a></li>
+<li><a href="/wiki/Spanish_conquest_of_the_Muisca" title="Spanish conquest of the Muisca">Bogotá savanna</a></li>
+<li><a href="/wiki/Battle_of_Reynog%C3%BCel%C3%A9n" title="Battle of Reynogüelén">Reynogüelén</a></li>
+<li><a href="/wiki/Battle_of_Penco" title="Battle of Penco">Penco</a></li>
+<li><a href="/wiki/Battle_of_Guadalupe_Island_(1595)" title="Battle of Guadalupe Island (1595)">Guadalupe Island</a></li>
+<li><a href="/wiki/Battle_of_San_Juan_(1595)" title="Battle of San Juan (1595)">San Juan</a></li>
+<li><a href="/wiki/Battle_of_Cartagena_de_Indias" title="Battle of Cartagena de Indias">Cartagena de Indias</a></li>
+<li><a href="/wiki/Cuerno_Verde" title="Cuerno Verde">Cuerno Verde</a></li>
+<li><a href="/wiki/Siege_of_Pensacola" title="Siege of Pensacola">Pensacola</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Lost</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/La_Noche_Triste" title="La Noche Triste">La Noche Triste</a></li>
+<li><a href="/wiki/Battle_of_Tucapel" title="Battle of Tucapel">Tucapel</a></li>
+<li><a href="/wiki/Battle_of_Chacabuco" title="Battle of Chacabuco">Chacabuco</a></li>
+<li><a href="/wiki/Battle_of_Carabobo" title="Battle of Carabobo">Carabobo</a></li>
+<li><a href="/wiki/Battle_of_Ayacucho" title="Battle of Ayacucho">Ayacucho</a></li>
+<li><a href="/wiki/Capture_of_Guam" title="Capture of Guam">Guam</a></li>
+<li><a href="/wiki/Battle_of_Santiago_de_Cuba" title="Battle of Santiago de Cuba">Santiago de Cuba</a></li>
+<li><a href="/wiki/Battle_of_Manila_Bay" title="Battle of Manila Bay">Manila Bay</a></li>
+<li><a href="/wiki/Puerto_Rican_Campaign#Battle_of_Asomante" title="Puerto Rican Campaign">Asomante</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";text-align: center;">
+<div id="Spanish_colonizations" style="font-size:114%;margin:0 4em">Spanish colonizations</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Conquest_of_the_Canary_Islands" title="Conquest of the Canary Islands">Canary Islands</a></li>
+<li><a href="/wiki/Spanish_conquest_of_the_Aztec_Empire" title="Spanish conquest of the Aztec Empire">Aztec</a></li>
+<li><a href="/wiki/Spanish_conquest_of_the_Maya" title="Spanish conquest of the Maya">Maya</a>
+<ul>
+<li><a href="/wiki/Spanish_conquest_of_Chiapas" title="Spanish conquest of Chiapas">Chiapas</a></li>
+<li><a href="/wiki/Spanish_conquest_of_Yucat%C3%A1n" title="Spanish conquest of Yucatán">Yucatán</a></li>
+<li><a href="/wiki/Spanish_conquest_of_Guatemala" title="Spanish conquest of Guatemala">Guatemala</a></li>
+<li><a href="/wiki/Spanish_conquest_of_Pet%C3%A9n" title="Spanish conquest of Petén">Petén</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Spanish_conquest_of_Honduras" title="Spanish conquest of Honduras">Honduras</a></li>
+<li><a href="/wiki/Spanish_conquest_of_the_Chibchan_Nations" title="Spanish conquest of the Chibchan Nations">Chibchan Nations</a></li>
+<li><a href="/wiki/Spanish_conquest_of_the_Muisca" title="Spanish conquest of the Muisca">Colombia</a></li>
+<li><a href="/wiki/Spanish_conquest_of_the_Inca_Empire" title="Spanish conquest of the Inca Empire">Peru</a></li>
+<li><a href="/wiki/Conquest_of_Chile" title="Conquest of Chile">Chile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";text-align: center;">
+<div id="Other_civil_topics" style="font-size:114%;margin:0 4em">Other civil topics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Spanish_missions_in_the_Americas" title="Template:Spanish missions in the Americas">Spanish missions in the Americas</a></li>
+<li><a href="/wiki/Spanish_Colonial_architecture" title="Spanish Colonial architecture">Architecture</a></li>
+<li><a href="/wiki/Mesoamerican_literature" title="Mesoamerican literature">Mesoamerican codices</a></li>
+<li><a href="/wiki/Cuzco_School" title="Cuzco School">Cusco painting tradition</a></li>
+<li><a href="/wiki/Indochristian_art" title="Indochristian art">Indochristian painting in New Spain</a></li>
+<li><a href="/wiki/Quito_School" title="Quito School">Quito painting tradition</a></li>
+<li><a href="/wiki/List_of_colonial_universities_in_Hispanic_America" title="List of colonial universities in Hispanic America">Colonial universities in Latin America</a></li>
+<li><a href="/wiki/List_of_the_oldest_schools_in_the_Philippines" title="List of the oldest schools in the Philippines">Colonial universities in the Philippines</a></li>
+<li><a href="/wiki/General_Archive_of_the_Indies" title="General Archive of the Indies">General Archive of the Indies</a></li>
+<li><a href="/wiki/Colonial_Spanish_Horse" title="Colonial Spanish Horse">Colonial Spanish Horse</a></li>
+<li><a href="/wiki/Casta" title="Casta">Castas</a></li>
+<li><a href="/wiki/Spanish_Inquisition" title="Spanish Inquisition">Old inquisition</a></li>
+<li><a href="/wiki/Slavery_in_the_Spanish_New_World_colonies" title="Slavery in the Spanish New World colonies">Slavery in Spanish Empire</a></li>
+<li><a href="/wiki/Fort_Mose_Historic_State_Park#Historical_background" title="Fort Mose Historic State Park">British and American slaves granted their freedom by Spain</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/58319237">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/58319237">58319237</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n95002673">n95002673</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb16243108x">cb16243108x</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb16243108x">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2183
+Cached time: 20170420210005
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.216 seconds
+Real time usage: 0.446 seconds
+Preprocessor visited node count: 2394/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 158977/2097152 bytes
+Template argument size: 18981/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.073/10.000 seconds
+Lua memory usage: 2.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  340.130      1 -total
+ 36.33%  123.586      1 Template:Infobox_person
+ 25.10%   85.359      1 Template:Infobox
+ 25.07%   85.276      2 Template:Fix
+ 20.84%   70.879      1 Template:Dead_link
+ 18.66%   63.484      4 Template:Category_handler
+ 14.89%   50.645      1 Template:Spanish_Empire
+ 14.13%   48.052      1 Template:Navbox_with_collapsible_groups
+ 11.92%   40.531      1 Template:Commons_category
+ 10.29%   34.986      5 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1697072-0!*!0!!en!4!* and timestamp 20170420210004 and revision id 755756410
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andrés_de_Urdaneta&amp;oldid=755756410">https://en.wikipedia.org/w/index.php?title=Andrés_de_Urdaneta&amp;oldid=755756410</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Spanish_explorers_of_the_Pacific" title="Category:Spanish explorers of the Pacific">Spanish explorers of the Pacific</a></li><li><a href="/wiki/Category:Circumnavigators_of_the_globe" title="Category:Circumnavigators of the globe">Circumnavigators of the globe</a></li><li><a href="/wiki/Category:Explorers_of_Asia" title="Category:Explorers of Asia">Explorers of Asia</a></li><li><a href="/wiki/Category:People_of_Spanish_colonial_Philippines" title="Category:People of Spanish colonial Philippines">People of Spanish colonial Philippines</a></li><li><a href="/wiki/Category:People_of_New_Spain" title="Category:People of New Spain">People of New Spain</a></li><li><a href="/wiki/Category:1498_births" title="Category:1498 births">1498 births</a></li><li><a href="/wiki/Category:1568_deaths" title="Category:1568 deaths">1568 deaths</a></li><li><a href="/wiki/Category:People_from_Gipuzkoa" title="Category:People from Gipuzkoa">People from Gipuzkoa</a></li><li><a href="/wiki/Category:Augustinians" title="Category:Augustinians">Augustinians</a></li><li><a href="/wiki/Category:Augustinian_friars" title="Category:Augustinian friars">Augustinian friars</a></li><li><a href="/wiki/Category:Basque_explorers" title="Category:Basque explorers">Basque explorers</a></li><li><a href="/wiki/Category:Colonial_Mexico" title="Category:Colonial Mexico">Colonial Mexico</a></li><li><a href="/wiki/Category:Catholic_Church_in_the_Philippines" title="Category:Catholic Church in the Philippines">Catholic Church in the Philippines</a></li><li><a href="/wiki/Category:Spanish_Roman_Catholic_priests" title="Category:Spanish Roman Catholic priests">Spanish Roman Catholic priests</a></li><li><a href="/wiki/Category:16th-century_Roman_Catholic_priests" title="Category:16th-century Roman Catholic priests">16th-century Roman Catholic priests</a></li><li><a href="/wiki/Category:16th-century_Spanish_people" title="Category:16th-century Spanish people">16th-century Spanish people</a></li><li><a href="/wiki/Category:16th_century_in_the_Spanish_East_Indies" title="Category:16th century in the Spanish East Indies">16th century in the Spanish East Indies</a></li><li><a href="/wiki/Category:Spanish_East_Indies" title="Category:Spanish East Indies">Spanish East Indies</a></li><li><a href="/wiki/Category:16th-century_explorers" title="Category:16th-century explorers">16th-century explorers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2016" title="Category:Articles with unsourced statements from December 2016">Articles with unsourced statements from December 2016</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2016" title="Category:Articles with dead external links from October 2016">Articles with dead external links from October 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Andr%C3%A9s+de+Urdaneta" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andr%C3%A9s+de+Urdaneta" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Andr%C3%A9s_de_Urdaneta"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Andr%C3%A9s_de_Urdaneta"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Andr%C3%A9s_de_Urdaneta" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Andr%C3%A9s_de_Urdaneta" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Andr%C3%A9s_de_Urdaneta" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;oldid=755756410" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q316780" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andr%C3%A9s_de_Urdaneta&amp;id=755756410" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Andr%C3%A9s+de+Urdaneta">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Andr%C3%A9s+de+Urdaneta&amp;returnto=Andr%C3%A9s+de+Urdaneta&amp;oldid=755756410&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Andres_de_Urdaneta" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%AF%D8%B1%D9%8A%D8%B3_%D8%AF%D9%8A_%D8%A3%D9%88%D8%B1%D8%AF%D8%A7%D9%86%D9%8A%D8%AA%D8%A7" title="أندريس دي أوردانيتا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://eu.wikipedia.org/wiki/Andres_Urdaneta" title="Andres Urdaneta – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A0%88%EC%8A%A4_%EB%8D%B0_%EC%9A%B0%EB%A5%B4%EB%8B%A4%EB%84%A4%ED%83%80" title="안드레스 데 우르다네타 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%93%D7%A8%D7%A1_%D7%93%D7%94_%D7%90%D7%95%D7%A8%D7%93%D7%90%D7%A0%D7%98%D7%94" title="אנדרס דה אורדאנטה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Andreas_de_Urdaneta" title="Andreas de Urdaneta – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A6%E3%83%AB%E3%83%80%E3%83%8D%E3%83%BC%E3%82%BF" title="アンドレス・デ・ウルダネータ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B4%D0%B0%D0%BD%D0%B5%D1%82%D0%B0,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%81" title="Урданета, Андрес – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta" title="Andrés de Urdaneta – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%81_%D0%B4%D0%B5_%D0%A3%D1%80%D0%B4%D0%B0%D0%BD%D0%B5%D1%82%D0%B0" title="Андрес де Урданета – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q316780#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 December 2016, at 00:29.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Andr%C3%A9s_de_Urdaneta&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.446","ppvisitednodes":{"value":2394,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":158977,"limit":2097152},"templateargumentsize":{"value":18981,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  340.130      1 -total"," 36.33%  123.586      1 Template:Infobox_person"," 25.10%   85.359      1 Template:Infobox"," 25.07%   85.276      2 Template:Fix"," 20.84%   70.879      1 Template:Dead_link"," 18.66%   63.484      4 Template:Category_handler"," 14.89%   50.645      1 Template:Spanish_Empire"," 14.13%   48.052      1 Template:Navbox_with_collapsible_groups"," 11.92%   40.531      1 Template:Commons_category"," 10.29%   34.986      5 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.073","limit":"10.000"},"limitreport-memusage":{"value":3010848,"limit":52428800}},"cachereport":{"origin":"mw2183","timestamp":"20170420210005","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw2226"});});</script>
+	</body>
+</html>

@@ -1,0 +1,902 @@
+https://en.wikipedia.org/wiki/April_23
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>April 23 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"April_23","wgTitle":"April 23","wgCurRevisionId":776885999,"wgRevisionId":776885999,"wgArticleId":1827,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pending changes protected pages (level 1)","Wikipedia indefinitely move-protected pages","Days of the year","April"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"April_23","wgRelevantArticleId":1827,"wgRequestId":"WP0rtgrAEFgAADrpuaAAAAAD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":776885999,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2527","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/April_23"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=April_23&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=April_23&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/April_23"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-April_23 rootpage-April_23 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-autoreview" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#pc1" title="All edits by unregistered and new users are subject to review prior to becoming visible to unregistered users"><img alt="Page protected with pending changes level 1" src="//upload.wikimedia.org/wikipedia/en/thumb/2/28/Padlock-silver-light.svg/20px-Padlock-silver-light.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/28/Padlock-silver-light.svg/30px-Padlock-silver-light.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/28/Padlock-silver-light.svg/40px-Padlock-silver-light.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">April 23</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint nomobile"><div class="flaggedrevs_short_basic"><img class="flaggedrevs-icon" src="/w/extensions/FlaggedRevs/frontend/modules/img/doc-magnify.png" alt="Changes must be reviewed before being displayed on this page." title="Changes must be reviewed before being displayed on this page." /><img id="mw-fr-revisiontoggle" class="fr-toggle-arrow" src="/w/extensions/FlaggedRevs/frontend/modules/img/arrow-down.png" style="display:none;" alt="show/hide details" /></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">This is the <a href="/wiki/Wikipedia:Pending_changes" title="Wikipedia:Pending changes">latest accepted revision</a>, <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Log&amp;type=review&amp;page=April_23">reviewed</a> on <i>23 April 2017</i>.</div>
+</div>
+</div>
+</div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="toccolours floatright" style="text-align:center;" cellpadding="2" cellspacing="0">
+<tr class="navbox-title" style="">
+<td><a href="/wiki/March" title="March">&lt;&lt;</a></td>
+<th colspan="5" style="text-align: center;"><b><a href="/wiki/April" title="April">April</a></b></th>
+<td><a href="/wiki/May" title="May">&gt;&gt;</a></td>
+</tr>
+<tr class="header navbox-title" style="border: none;">
+<th scope="col" width="*" title="Sunday">Su</th>
+<th scope="col" width="*" title="Monday">Mo</th>
+<th scope="col" width="*" title="Tuesday">Tu</th>
+<th scope="col" width="*" title="Wednesday">We</th>
+<th scope="col" width="*" title="Thursday">Th</th>
+<th scope="col" width="*" title="Friday">Fr</th>
+<th scope="col" width="*" title="Saturday">Sa</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="/wiki/April_1" title="April 1"><span style="visibility:hidden;color:transparent;">0</span>1</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/April_2" title="April 2"><span style="visibility:hidden;color:transparent;">0</span>2</a></td>
+<td><a href="/wiki/April_3" title="April 3"><span style="visibility:hidden;color:transparent;">0</span>3</a></td>
+<td><a href="/wiki/April_4" title="April 4"><span style="visibility:hidden;color:transparent;">0</span>4</a></td>
+<td><a href="/wiki/April_5" title="April 5"><span style="visibility:hidden;color:transparent;">0</span>5</a></td>
+<td><a href="/wiki/April_6" title="April 6"><span style="visibility:hidden;color:transparent;">0</span>6</a></td>
+<td><a href="/wiki/April_7" title="April 7"><span style="visibility:hidden;color:transparent;">0</span>7</a></td>
+<td><a href="/wiki/April_8" title="April 8"><span style="visibility:hidden;color:transparent;">0</span>8</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/April_9" title="April 9"><span style="visibility:hidden;color:transparent;">0</span>9</a></td>
+<td><a href="/wiki/April_10" title="April 10">10</a></td>
+<td><a href="/wiki/April_11" title="April 11">11</a></td>
+<td><a href="/wiki/April_12" title="April 12">12</a></td>
+<td><a href="/wiki/April_13" title="April 13">13</a></td>
+<td><a href="/wiki/April_14" title="April 14">14</a></td>
+<td><a href="/wiki/April_15" title="April 15">15</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/April_16" title="April 16">16</a></td>
+<td><a href="/wiki/April_17" title="April 17">17</a></td>
+<td><a href="/wiki/April_18" title="April 18">18</a></td>
+<td><a href="/wiki/April_19" title="April 19">19</a></td>
+<td><a href="/wiki/April_20" title="April 20">20</a></td>
+<td><a href="/wiki/April_21" title="April 21">21</a></td>
+<td><a href="/wiki/April_22" title="April 22">22</a></td>
+</tr>
+<tr>
+<td><a class="mw-selflink selflink">23</a></td>
+<td><a href="/wiki/April_24" title="April 24">24</a></td>
+<td><a href="/wiki/April_25" title="April 25">25</a></td>
+<td><a href="/wiki/April_26" title="April 26">26</a></td>
+<td><a href="/wiki/April_27" title="April 27">27</a></td>
+<td><a href="/wiki/April_28" title="April 28">28</a></td>
+<td><a href="/wiki/April_29" title="April 29">29</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/April_30" title="April 30">30</a></td>
+<td></td>
+<td colspan="5">&#160;</td>
+</tr>
+<tr class="navbox-title" style="">
+<td colspan="7"><b><a href="/wiki/2017" title="2017">2017</a></b></td>
+</tr>
+</table>
+<table class="toccolours" cellpadding="4" cellspacing="0" style="float:right; clear:right; margin-left:1em; text-align:left;">
+<tr class="navbox-title">
+<td>April 23 in recent years</td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2017_April_23" title="Portal:Current events/2017 April 23">2017 (Sunday)</a></td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2016_April_23" title="Portal:Current events/2016 April 23">2016 (Saturday)</a></td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2015_April_23" title="Portal:Current events/2015 April 23">2015 (Thursday)</a></td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2014_April_23" title="Portal:Current events/2014 April 23">2014 (Wednesday)</a></td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2013_April_23" title="Portal:Current events/2013 April 23">2013 (Tuesday)</a></td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2012_April_23" title="Portal:Current events/2012 April 23">2012 (Monday)</a></td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2011_April_23" title="Portal:Current events/2011 April 23">2011 (Saturday)</a></td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2010_April_23" title="Portal:Current events/2010 April 23">2010 (Friday)</a></td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2009_April_23" title="Portal:Current events/2009 April 23">2009 (Thursday)</a></td>
+</tr>
+<tr>
+<td>&#160;&#160;<a href="/wiki/Portal:Current_events/2008_April_23" title="Portal:Current events/2008 April 23">2008 (Wednesday)</a></td>
+</tr>
+</table>
+<p><b>April 23</b> is the 113th day of the year (114th in <a href="/wiki/Leap_year" title="Leap year">leap years</a>) in the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>. There are 252 days remaining until the end of the year. This date is slightly more likely to fall on a Monday, Thursday or Saturday (58 in 400 years each) than on Tuesday or Wednesday (57), and slightly less likely to occur on a Friday or Sunday (56).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Events"><span class="tocnumber">1</span> <span class="toctext">Events</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Births"><span class="tocnumber">2</span> <span class="toctext">Births</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Deaths"><span class="tocnumber">3</span> <span class="toctext">Deaths</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Holidays_and_observances"><span class="tocnumber">4</span> <span class="toctext">Holidays and observances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=April_23&amp;action=edit&amp;section=1" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/215_BC" title="215 BC">215 BC</a> – <a href="/wiki/Temple_of_Venus_Erycina" title="Temple of Venus Erycina">A temple</a> is built on the <a href="/wiki/Capitoline_Hill" title="Capitoline Hill">Capitoline Hill</a> dedicated to <a href="/wiki/Venus_Erycina" class="mw-redirect" title="Venus Erycina">Venus Erycina</a> to commemorate the <a href="/wiki/Roman_Republic" title="Roman Republic">Roman</a> defeat at <a href="/wiki/Battle_of_Lake_Trasimene" title="Battle of Lake Trasimene">Lake Trasimene</a>.</li>
+<li><a href="/wiki/599" title="599">599</a> – Maya king <a href="/wiki/Scroll_Serpent" title="Scroll Serpent">Uneh Chan</a> of <a href="/wiki/Calakmul" title="Calakmul">Calakmul</a> attacks rival city-state <a href="/wiki/Palenque" title="Palenque">Palenque</a> in southern Mexico, defeating queen <a href="/wiki/Yohl_Ik%27nal" title="Yohl Ik'nal">Yohl Ik'nal</a> and sacking the city.</li>
+<li><a href="/wiki/711" title="711">711</a> – <a href="/wiki/Dagobert_III" title="Dagobert III">Dagobert III</a> is crowned <a href="/wiki/King_of_the_Franks" class="mw-redirect" title="King of the Franks">King of the Franks</a>.</li>
+<li><a href="/wiki/1014" title="1014">1014</a> – <a href="/wiki/Battle_of_Clontarf" title="Battle of Clontarf">Battle of Clontarf</a>: High King of Ireland <a href="/wiki/Brian_Boru" title="Brian Boru">Brian Boru</a> defeats <a href="/wiki/Viking" class="mw-redirect" title="Viking">Viking</a> invaders, but is killed in battle.</li>
+<li><a href="/wiki/1016" title="1016">1016</a> – <a href="/wiki/Edmund_Ironside" title="Edmund Ironside">Edmund Ironside</a> succeeds his father <a href="/wiki/%C3%86thelred_the_Unready" title="Æthelred the Unready">Æthelred the Unready</a> as king of England.</li>
+<li><a href="/wiki/1343" title="1343">1343</a> – <a href="/wiki/St._George%27s_Night_Uprising" class="mw-redirect" title="St. George's Night Uprising">St. George's Night Uprising</a> commences in the <a href="/wiki/Danish_Estonia#Duchy_of_Estonia" title="Danish Estonia">Duchy of Estonia</a>.</li>
+<li><a href="/wiki/1348" title="1348">1348</a> – The founding of the <a href="/wiki/Order_of_the_Garter" title="Order of the Garter">Order of the Garter</a> by King <a href="/wiki/Edward_III_of_England" title="Edward III of England">Edward III</a> is announced on <a href="/wiki/Saint_George" title="Saint George">St. George's Day</a>.</li>
+<li><a href="/wiki/1516" title="1516">1516</a> – The Bayerische <a href="/wiki/Reinheitsgebot" title="Reinheitsgebot">Reinheitsgebot</a> (regarding the ingredients of beer) is signed in <a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a>.</li>
+<li><a href="/wiki/1521" title="1521">1521</a> – <a href="/wiki/Battle_of_Villalar" title="Battle of Villalar">Battle of Villalar</a>: <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">King Charles I of Spain</a> defeats the <a href="/wiki/Revolt_of_the_Comuneros" title="Revolt of the Comuneros">Comuneros</a>.</li>
+<li><a href="/wiki/1635" title="1635">1635</a> – The first public school in the United States, <a href="/wiki/Boston_Latin_School" title="Boston Latin School">Boston Latin School</a>, is founded in <a href="/wiki/Boston" title="Boston">Boston</a>.</li>
+<li><a href="/wiki/1655" title="1655">1655</a> – The <a href="/wiki/Siege_of_Santo_Domingo_(1655)" title="Siege of Santo Domingo (1655)">Siege of Santo Domingo</a> begins during the <a href="/wiki/Anglo-Spanish_War_(1654%E2%80%9360)" class="mw-redirect" title="Anglo-Spanish War (1654–60)">Anglo-Spanish War</a>, and fails seven days later.</li>
+<li><a href="/wiki/1660" title="1660">1660</a> – <a href="/wiki/Treaty_of_Oliva" title="Treaty of Oliva">Treaty of Oliva</a> is established between Sweden and Poland.</li>
+<li><a href="/wiki/1661" title="1661">1661</a> – King <a href="/wiki/Charles_II_of_England" title="Charles II of England">Charles II of England</a>, Scotland and Ireland is crowned in <a href="/wiki/Westminster_Abbey" title="Westminster Abbey">Westminster Abbey</a>.</li>
+<li><a href="/wiki/1815" title="1815">1815</a> – <a href="/wiki/Second_Serbian_Uprising" title="Second Serbian Uprising">The Second Serbian Uprising</a>: A second phase of the national revolution of the Serbs against the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a>, erupts shortly after the annexation of the country to the Ottoman Empire.</li>
+<li><a href="/wiki/1879" title="1879">1879</a> – Fire burns down the second main building and dome of the <a href="/wiki/University_of_Notre_Dame" title="University of Notre Dame">University of Notre Dame</a>, which prompts the construction of the third, and current, <a href="/wiki/Main_Building_(University_of_Notre_Dame)" title="Main Building (University of Notre Dame)">Main Building</a> with its golden dome.</li>
+<li><a href="/wiki/1914" title="1914">1914</a> – First <a href="/wiki/Baseball" title="Baseball">baseball</a> game at <a href="/wiki/History_of_Wrigley_Field" title="History of Wrigley Field">Wrigley Field</a>, then known as Weeghman Park, in Chicago.</li>
+<li><a href="/wiki/1918" title="1918">1918</a> – World War I: The <a href="/wiki/Royal_Navy" title="Royal Navy">British Royal Navy</a> makes a <a href="/wiki/Zeebrugge_Raid" title="Zeebrugge Raid">raid</a> in an attempt to neutralise the Belgian <a href="/wiki/Port_of_Bruges-Zeebrugge" class="mw-redirect" title="Port of Bruges-Zeebrugge">port of Bruges-Zeebrugge</a>.</li>
+<li><a href="/wiki/1920" title="1920">1920</a> – The <a href="/wiki/Grand_National_Assembly_of_Turkey" title="Grand National Assembly of Turkey">Grand National Assembly of Turkey</a> (TBMM) is founded in <a href="/wiki/Ankara" title="Ankara">Ankara</a>. The assembly denounces the government of <a href="/wiki/Sultan" title="Sultan">Sultan</a> <a href="/wiki/Mehmed_VI" title="Mehmed VI">Mehmed VI</a> and announces the preparation of a <a href="/wiki/Turkish_Constitution_of_1921" title="Turkish Constitution of 1921">temporary constitution</a>.</li>
+<li><a href="/wiki/1927" title="1927">1927</a> – <a href="/wiki/Cardiff_City_F.C." title="Cardiff City F.C.">Cardiff City</a> defeat <a href="/wiki/Arsenal_F.C." title="Arsenal F.C.">Arsenal</a> in the <a href="/wiki/1927_FA_Cup_Final" title="1927 FA Cup Final">FA Cup Final</a>, the only time it has been won by a team not based in England.</li>
+<li><a href="/wiki/1935" title="1935">1935</a> – The <a href="/wiki/Polish_Constitution_of_1935" class="mw-redirect" title="Polish Constitution of 1935">Polish Constitution of 1935</a> is adopted.</li>
+<li><a href="/wiki/1940" title="1940">1940</a> – The <a href="/wiki/Rhythm_Club_fire" title="Rhythm Club fire">Rhythm Club fire</a> at a dance hall in <a href="/wiki/Natchez,_Mississippi" title="Natchez, Mississippi">Natchez, Mississippi</a>, kills 198 people.</li>
+<li><a href="/wiki/1941" title="1941">1941</a> – <a href="/wiki/World_War_II" title="World War II">World War II</a>: The Greek government and <a href="/wiki/George_II_of_Greece" title="George II of Greece">King George II</a> evacuate <a href="/wiki/Athens" title="Athens">Athens</a> before the invading <a href="/wiki/Wehrmacht" title="Wehrmacht">Wehrmacht</a>.</li>
+<li><a href="/wiki/1942" title="1942">1942</a> – World War II: <a href="/wiki/Baedeker_Blitz" title="Baedeker Blitz">Baedeker Blitz</a> – German bombers hit <a href="/wiki/Exeter" title="Exeter">Exeter</a>, <a href="/wiki/Bath,_Somerset" title="Bath, Somerset">Bath</a> and <a href="/wiki/York" title="York">York</a> in retaliation for the British raid on <a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a>.</li>
+<li><a href="/wiki/1945" title="1945">1945</a> – World War II: <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a>'s designated successor <a href="/wiki/Hermann_G%C3%B6ring" title="Hermann Göring">Hermann Göring</a> sends him <a href="/wiki/G%C3%B6ring_Telegram" title="Göring Telegram">a telegram</a> asking permission to take leadership of the <a href="/wiki/Third_Reich" class="mw-redirect" title="Third Reich">Third Reich</a>, which causes Hitler to replace him with <a href="/wiki/Joseph_Goebbels" title="Joseph Goebbels">Joseph Goebbels</a> and <a href="/wiki/Karl_D%C3%B6nitz" title="Karl Dönitz">Karl Dönitz</a>.</li>
+<li><a href="/wiki/1946" title="1946">1946</a> – <a href="/wiki/Manuel_Roxas" title="Manuel Roxas">Manuel Roxas</a> is elected the last President of the <a href="/wiki/Commonwealth_of_the_Philippines" title="Commonwealth of the Philippines">Commonwealth of the Philippines</a>.</li>
+<li><a href="/wiki/1949" title="1949">1949</a> – <a href="/wiki/Chinese_Civil_War" title="Chinese Civil War">Chinese Civil War</a>: Establishment of the <a href="/wiki/People%27s_Liberation_Army_Navy" title="People's Liberation Army Navy">People's Liberation Army Navy</a>.</li>
+<li><a href="/wiki/1951" title="1951">1951</a> – American journalist <a href="/wiki/William_N._Oatis" title="William N. Oatis">William N. Oatis</a> is arrested for espionage by the <a href="/wiki/Communist" class="mw-redirect" title="Communist">Communist</a> government of <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a>.</li>
+<li><a href="/wiki/1955" title="1955">1955</a> – The <a href="/wiki/Canadian_Labour_Congress" title="Canadian Labour Congress">Canadian Labour Congress</a> is formed by the merger of the <a href="/wiki/Trades_and_Labour_Congress_of_Canada" title="Trades and Labour Congress of Canada">Trades and Labour Congress of Canada</a> and the <a href="/wiki/Canadian_Congress_of_Labour" title="Canadian Congress of Labour">Canadian Congress of Labour</a>.</li>
+<li><a href="/wiki/1961" title="1961">1961</a> – <a href="/wiki/Algiers_putsch_of_1961" title="Algiers putsch of 1961">Algiers putsch</a> by French generals.</li>
+<li><a href="/wiki/1967" title="1967">1967</a> – <a href="/wiki/Soviet_space_program" title="Soviet space program">Soviet space program</a>: <a href="/wiki/Soyuz_1" title="Soyuz 1">Soyuz 1</a> (Russian: Союз 1, Union 1) a manned spaceflight carrying <a href="/wiki/Cosmonaut" class="mw-redirect" title="Cosmonaut">cosmonaut</a> Colonel <a href="/wiki/Vladimir_Komarov" title="Vladimir Komarov">Vladimir Komarov</a> is launched into orbit.</li>
+<li><a href="/wiki/1968" title="1968">1968</a> – <a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a>: Student protesters at <a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a> in New York City <a href="/wiki/Columbia_University_protests_of_1968" title="Columbia University protests of 1968">take over administration buildings and shut down the university</a>.</li>
+<li><a href="/wiki/1971" title="1971">1971</a> – <a href="/wiki/Bangladesh_Liberation_War" title="Bangladesh Liberation War">Bangladesh Liberation War</a>: The Pakistan Army and <a href="/wiki/Razakar_(Pakistan)" title="Razakar (Pakistan)">Razakars</a> <a href="/wiki/Jathibhanga_massacre" title="Jathibhanga massacre">massacre</a> approximately 3,000 Hindu emigrants in the Jathibhanga area of <a href="/wiki/East_Pakistan" title="East Pakistan">East Pakistan</a> (now <a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a>).</li>
+<li><a href="/wiki/1985" title="1985">1985</a> – <a href="/wiki/Coca-Cola" title="Coca-Cola">Coca-Cola</a> changes its formula and releases <a href="/wiki/New_Coke" title="New Coke">New Coke</a>. The response is overwhelmingly negative, and the original formula is back on the market in less than three months.</li>
+<li><a href="/wiki/1990" title="1990">1990</a> – <a href="/wiki/Namibia" title="Namibia">Namibia</a> becomes the 160th member of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> and the 50th member of the <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>.</li>
+<li><a href="/wiki/1993" title="1993">1993</a> – <a href="/wiki/Eritrea" title="Eritrea">Eritreans</a> vote overwhelmingly for independence from <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> in a <a href="/wiki/United_Nations" title="United Nations">United Nations</a>-monitored referendum.</li>
+<li>1993 – <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lankan</a> politician <a href="/wiki/Lalith_Athulathmudali" title="Lalith Athulathmudali">Lalith Athulathmudali</a> is <a href="/wiki/Assassination_of_Lalith_Athulathmudali" title="Assassination of Lalith Athulathmudali">assassinated</a> while addressing a gathering, approximately four weeks ahead of the Provincial Council elections for the <a href="/wiki/Western_Province,_Sri_Lanka" title="Western Province, Sri Lanka">Western Province</a>.</li>
+<li><a href="/wiki/2005" title="2005">2005</a> – The first ever <a href="/wiki/YouTube" title="YouTube">YouTube</a>&#160;video, titled "<a href="/wiki/Me_at_the_zoo" title="Me at the zoo">Me at the zoo</a>", was published by user "jawed".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/2013" title="2013">2013</a> – At least 28 people are killed and more than 70 are injured as <a href="/wiki/2013_Hawija_clashes" title="2013 Hawija clashes">violence breaks out</a> in <a href="/wiki/Hawija" title="Hawija">Hawija</a>, <a href="/wiki/Iraq" title="Iraq">Iraq</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Births">Births</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=April_23&amp;action=edit&amp;section=2" title="Edit section: Births">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/1141" title="1141">1141</a> – <a href="/wiki/Malcolm_IV_of_Scotland" title="Malcolm IV of Scotland">Malcolm IV of Scotland</a> (d. 1165)</li>
+<li><a href="/wiki/1185" title="1185">1185</a> – <a href="/wiki/Afonso_II_of_Portugal" title="Afonso II of Portugal">Afonso II of Portugal</a> (d. 1223)</li>
+<li><a href="/wiki/1408" title="1408">1408</a> – <a href="/wiki/John_de_Vere,_12th_Earl_of_Oxford" title="John de Vere, 12th Earl of Oxford">John de Vere, 12th Earl of Oxford</a> (d. 1462)</li>
+<li><a href="/wiki/1420" title="1420">1420</a> – <a href="/wiki/George_of_Pod%C4%9Bbrady" title="George of Poděbrady">George of Poděbrady</a>, King of Bohemia (d. 1471)</li>
+<li><a href="/wiki/1464" title="1464">1464</a> – <a href="/wiki/Joan_of_France,_Duchess_of_Berry" title="Joan of France, Duchess of Berry">Joan of France, Duchess of Berry</a> (d. 1505)</li>
+<li>1464 – <a href="/wiki/Robert_Fayrfax" title="Robert Fayrfax">Robert Fayrfax</a>, English Renaissance composer (d. 1521)</li>
+<li><a href="/wiki/1484" title="1484">1484</a> – <a href="/wiki/Julius_Caesar_Scaliger" title="Julius Caesar Scaliger">Julius Caesar Scaliger</a>, Italian physician and scholar (d. 1558)</li>
+<li><a href="/wiki/1500" title="1500">1500</a> – <a href="/wiki/Alexander_Ales" title="Alexander Ales">Alexander Ales</a>, Scottish theologian and academic (d. 1565)</li>
+<li>1500 – <a href="/wiki/Johann_Stumpf_(writer)" title="Johann Stumpf (writer)">Johann Stumpf</a>, Swiss writer (d. 1576)</li>
+<li><a href="/wiki/1516" title="1516">1516</a> – <a href="/wiki/Georg_Fabricius" title="Georg Fabricius">Georg Fabricius</a>, German poet, historian, and archaeologist (d. 1571)</li>
+<li><a href="/wiki/1564" title="1564">1564</a> – <a href="/wiki/William_Shakespeare" title="William Shakespeare">William Shakespeare</a>, English poet, playwright, and actor (d.1616)</li>
+<li><a href="/wiki/1598" title="1598">1598</a> – <a href="/wiki/Maarten_Tromp" title="Maarten Tromp">Maarten Tromp</a>, Dutch admiral (d. 1653)</li>
+<li><a href="/wiki/1621" title="1621">1621</a> – <a href="/wiki/William_Penn_(Royal_Navy_officer)" title="William Penn (Royal Navy officer)">William Penn</a>, English admiral and politician (d. 1670)</li>
+<li><a href="/wiki/1628" title="1628">1628</a> – <a href="/wiki/Johannes_Hudde" title="Johannes Hudde">Johannes Hudde</a>, Dutch mathematician and politician (d. 1704)</li>
+<li><a href="/wiki/1715" title="1715">1715</a> – <a href="/wiki/Johann_Friedrich_Doles" title="Johann Friedrich Doles">Johann Friedrich Doles</a>, German composer and conductor (d. 1797)</li>
+<li><a href="/wiki/1720" title="1720">1720</a> – <a href="/wiki/Vilna_Gaon" title="Vilna Gaon">Vilna Gaon</a>, Lithuanian rabbi and author (d. 1797)</li>
+<li><a href="/wiki/1744" title="1744">1744</a> – <a href="/wiki/Princess_Charlotte_Amalie_Wilhelmine_of_Schleswig-Holstein-Sonderburg-Pl%C3%B6n" title="Princess Charlotte Amalie Wilhelmine of Schleswig-Holstein-Sonderburg-Plön">Princess Charlotte Amalie Wilhelmine of Schleswig-Holstein-Sonderburg-Plön</a> (d. 1770)</li>
+<li><a href="/wiki/1748" title="1748">1748</a> – <a href="/wiki/F%C3%A9lix_Vicq-d%27Azyr" title="Félix Vicq-d'Azyr">Félix Vicq-d'Azyr</a>, French physician and anatomist (d. 1794)</li>
+<li><a href="/wiki/1791" title="1791">1791</a> – <a href="/wiki/James_Buchanan" title="James Buchanan">James Buchanan</a>, American soldier, lawyer, and politician, 15th <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a> (d. 1868)</li>
+<li><a href="/wiki/1792" title="1792">1792</a> – <a href="/wiki/Thomas_Romney_Robinson" title="Thomas Romney Robinson">Thomas Romney Robinson</a>, Irish astronomer and physicist (d. 1882)</li>
+<li><a href="/wiki/1794" title="1794">1794</a> – <a href="/wiki/Wei_Yuan" title="Wei Yuan">Wei Yuan</a>, Chinese scholar and author (d. 1856)</li>
+<li><a href="/wiki/1805" title="1805">1805</a> – <a href="/wiki/Johann_Karl_Friedrich_Rosenkranz" class="mw-redirect" title="Johann Karl Friedrich Rosenkranz">Johann Karl Friedrich Rosenkranz</a>, German philosopher and academic (d. 1879)</li>
+<li><a href="/wiki/1812" title="1812">1812</a> – <a href="/wiki/Frederick_Whitaker" title="Frederick Whitaker">Frederick Whitaker</a>, English-New Zealand lawyer and politician, 5th <a href="/wiki/Prime_Minister_of_New_Zealand" title="Prime Minister of New Zealand">Prime Minister of New Zealand</a> (d. 1891)</li>
+<li><a href="/wiki/1813" title="1813">1813</a> – <a href="/wiki/Stephen_A._Douglas" title="Stephen A. Douglas">Stephen A. Douglas</a>, American educator and politician, 7th <a href="/wiki/Illinois_Secretary_of_State" title="Illinois Secretary of State">Illinois Secretary of State</a> (d. 1861)</li>
+<li>1813 – <a href="/wiki/Fr%C3%A9d%C3%A9ric_Ozanam" title="Frédéric Ozanam">Frédéric Ozanam</a>, Italian-French historian and scholar (d. 1853)</li>
+<li><a href="/wiki/1819" title="1819">1819</a> – <a href="/wiki/Edward_Stafford_(politician)" title="Edward Stafford (politician)">Edward Stafford</a>, Scottish-New Zealand educator and politician, 3rd <a href="/wiki/Prime_Minister_of_New_Zealand" title="Prime Minister of New Zealand">Prime Minister of New Zealand</a> (d. 1901)</li>
+<li><a href="/wiki/1823" title="1823">1823</a> – <a href="/wiki/Abd%C3%BClmecid_I" class="mw-redirect" title="Abdülmecid I">Abdülmecid I</a>, Ottoman sultan (d. 1861)</li>
+<li><a href="/wiki/1853" title="1853">1853</a> – <a href="/wiki/Winthrop_M._Crane" title="Winthrop M. Crane">Winthrop M. Crane</a>, American businessman and politician, 40th <a href="/wiki/Governor_of_Massachusetts" title="Governor of Massachusetts">Governor of Massachusetts</a> (d. 1920)</li>
+<li><a href="/wiki/1857" title="1857">1857</a> – <a href="/wiki/Ruggero_Leoncavallo" title="Ruggero Leoncavallo">Ruggero Leoncavallo</a>, Italian composer (d. 1919)</li>
+<li><a href="/wiki/1858" title="1858">1858</a> – <a href="/wiki/Max_Planck" title="Max Planck">Max Planck</a>, German physicist and academic, <a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize</a> laureate (d. 1947)</li>
+<li>1858 – <a href="/wiki/Ethel_Smyth" title="Ethel Smyth">Ethel Smyth</a>, English composer (d. 1944)</li>
+<li><a href="/wiki/1860" title="1860">1860</a> – <a href="/wiki/Justinian_Oxenham" title="Justinian Oxenham">Justinian Oxenham</a>, Australian public servant (d. 1932)</li>
+<li><a href="/wiki/1861" title="1861">1861</a> – <a href="/wiki/Edmund_Allenby,_1st_Viscount_Allenby" title="Edmund Allenby, 1st Viscount Allenby">Edmund Allenby, 1st Viscount Allenby</a>, English field marshal and diplomat, <a href="/wiki/List_of_diplomats_of_the_United_Kingdom_to_Egypt" title="List of diplomats of the United Kingdom to Egypt">British High Commissioner in Egypt</a> (d. 1936)</li>
+<li>1861 – <a href="/wiki/John_Peltz" title="John Peltz">John Peltz</a>, American baseball player and manager (d. 1906)</li>
+<li><a href="/wiki/1865" title="1865">1865</a> – <a href="/wiki/Ali-Agha_Shikhlinski" title="Ali-Agha Shikhlinski">Ali-Agha Shikhlinski</a>, Russian-Azerbaijani general (d. 1943)</li>
+<li><a href="/wiki/1867" title="1867">1867</a> – <a href="/wiki/Johannes_Fibiger" title="Johannes Fibiger">Johannes Fibiger</a>, Danish physician and pathologist, <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize</a> laureate (d. 1928)</li>
+<li><a href="/wiki/1876" title="1876">1876</a> – <a href="/wiki/Arthur_Moeller_van_den_Bruck" title="Arthur Moeller van den Bruck">Arthur Moeller van den Bruck</a>, German historian and author (d. 1925)</li>
+<li><a href="/wiki/1880" title="1880">1880</a> – <a href="/wiki/Michel_Fokine" title="Michel Fokine">Michel Fokine</a>, Russian dancer and choreographer (d. 1942)</li>
+<li><a href="/wiki/1882" title="1882">1882</a> – <a href="/wiki/Albert_Coates_(musician)" title="Albert Coates (musician)">Albert Coates</a>, English composer and conductor (d. 1953)</li>
+<li><a href="/wiki/1888" title="1888">1888</a> – <a href="/wiki/Georges_Vanier" title="Georges Vanier">Georges Vanier</a>, Canadian general and politician, 19th <a href="/wiki/Governor_General_of_Canada" title="Governor General of Canada">Governor General of Canada</a> (d. 1967)</li>
+<li><a href="/wiki/1889" title="1889">1889</a> – <a href="/wiki/Karel_Doorman" title="Karel Doorman">Karel Doorman</a>, Dutch admiral (d. 1942)</li>
+<li><a href="/wiki/1893" title="1893">1893</a> – <a href="/wiki/Frank_Borzage" title="Frank Borzage">Frank Borzage</a>, American actor and director (d. 1952)</li>
+<li><a href="/wiki/1895" title="1895">1895</a> – <a href="/wiki/Ngaio_Marsh" title="Ngaio Marsh">Ngaio Marsh</a>, New Zealand author and director (d. 1982)</li>
+<li><a href="/wiki/1898" title="1898">1898</a> – <a href="/wiki/Lucius_D._Clay" title="Lucius D. Clay">Lucius D. Clay</a>, American general (d. 1978)</li>
+<li>1897 – <a href="/wiki/Folke_Jansson" title="Folke Jansson">Folke Jansson</a>, Swedish triple jumper (d. 1965)</li>
+<li>1897 – <a href="/wiki/Lester_B._Pearson" title="Lester B. Pearson">Lester B. Pearson</a>, Canadian historian and politician, 14th <a href="/wiki/Prime_Minister_of_Canada" title="Prime Minister of Canada">Prime Minister of Canada</a>, <a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Prize</a> laureate (d. 1972)</li>
+<li><a href="/wiki/1899" title="1899">1899</a> – <a href="/wiki/Bertil_Ohlin" title="Bertil Ohlin">Bertil Ohlin</a>, Swedish economist and politician, <a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">Nobel Prize</a> laureate (d. 1979)</li>
+<li>1899 – <a href="/wiki/Minoru_Shirota" title="Minoru Shirota">Minoru Shirota</a>, Japanese physician and microbiologist, invented <a href="/wiki/Yakult" title="Yakult">Yakult</a> (d. 1982)</li>
+<li><a href="/wiki/1900" title="1900">1900</a> – <a href="/wiki/Jim_Bottomley" title="Jim Bottomley">Jim Bottomley</a>, American baseball player and sportscaster (d. 1959)</li>
+<li>1900 – <a href="/wiki/Joseph_Green_(actor)" title="Joseph Green (actor)">Joseph Green</a>, Polish-American actor and director (d. 1996)</li>
+<li><a href="/wiki/1901" title="1901">1901</a> – <a href="/wiki/E._B._Ford" title="E. B. Ford">E. B. Ford</a>, English biologist and geneticist (d. 1988)</li>
+<li><a href="/wiki/1902" title="1902">1902</a> – <a href="/wiki/Halld%C3%B3r_Laxness" title="Halldór Laxness">Halldór Laxness</a>, Icelandic author and poet, <a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize</a> laureate (d. 1998)</li>
+<li><a href="/wiki/1903" title="1903">1903</a> – <a href="/wiki/Guy_Simonds" title="Guy Simonds">Guy Simonds</a>, English-Canadian general (d. 1974)</li>
+<li><a href="/wiki/1904" title="1904">1904</a> – <a href="/wiki/Cliff_Bricker" title="Cliff Bricker">Cliff Bricker</a>, Canadian runner (d. 1980)</li>
+<li>1904 – <a href="/wiki/Louis_Muhlstock" title="Louis Muhlstock">Louis Muhlstock</a>, Polish-Canadian painter (d. 2001)</li>
+<li>1904 – <a href="/wiki/Duncan_Renaldo" title="Duncan Renaldo">Duncan Renaldo</a>, American actor (d. 1985)</li>
+<li><a href="/wiki/1907" title="1907">1907</a> – <a href="/wiki/Lee_Miller" title="Lee Miller">Lee Miller</a>, American model and photographer (d. 1977)</li>
+<li>1907 – <a href="/wiki/Fritz_Wotruba" title="Fritz Wotruba">Fritz Wotruba</a>, Austrian sculptor, designed the <a href="/wiki/Wotruba_Church" title="Wotruba Church">Wotruba Church</a> (d. 1975)</li>
+<li><a href="/wiki/1908" title="1908">1908</a> – <a href="/wiki/Myron_Waldman" title="Myron Waldman">Myron Waldman</a>, American animator and director (d. 2006)</li>
+<li><a href="/wiki/1910" title="1910">1910</a> – <a href="/wiki/Simone_Simon" title="Simone Simon">Simone Simon</a>, French actress (d. 2005)</li>
+<li><a href="/wiki/1911" title="1911">1911</a> – <a href="/wiki/Ronald_Neame" title="Ronald Neame">Ronald Neame</a>, English-American director, cinematographer, producer, and screenwriter (d. 2010)</li>
+<li><a href="/wiki/1913" title="1913">1913</a> – <a href="/wiki/Diosa_Costello" title="Diosa Costello">Diosa Costello</a>, Puerto Rican-American entertainer, producer and club owner (d. 2013)</li>
+<li><a href="/wiki/1915" title="1915">1915</a> – <a href="/wiki/Arnold_Alexander_Hall" title="Arnold Alexander Hall">Arnold Alexander Hall</a>, English engineer, academic, and businessman (d. 2000)</li>
+<li><a href="/wiki/1916" title="1916">1916</a> – <a href="/wiki/Yiannis_Moralis" title="Yiannis Moralis">Yiannis Moralis</a>, Greek painter and educator (d. 2009)</li>
+<li>1916 – <a href="/wiki/Sinah_Estelle_Kelley" title="Sinah Estelle Kelley">Sinah Estelle Kelley</a>, African-American chemist (d. 1982)</li>
+<li><a href="/wiki/1917" title="1917">1917</a> – <a href="/wiki/Dorian_Leigh" title="Dorian Leigh">Dorian Leigh</a>, American model (d. 2008)</li>
+<li>1917 – <a href="/wiki/Tony_Lupien" title="Tony Lupien">Tony Lupien</a>, American baseball player and coach (d. 2004)</li>
+<li><a href="/wiki/1918" title="1918">1918</a> – <a href="/wiki/Maurice_Druon" title="Maurice Druon">Maurice Druon</a>, French author and screenwriter (d. 2009)</li>
+<li><a href="/wiki/1919" title="1919">1919</a> – <a href="/wiki/Oleg_Penkovsky" title="Oleg Penkovsky">Oleg Penkovsky</a>, Russian colonel (d. 1963)</li>
+<li><a href="/wiki/1920" title="1920">1920</a> – <a href="/wiki/Eric_Grant_Yarrow,_3rd_Baronet" class="mw-redirect" title="Eric Grant Yarrow, 3rd Baronet">Eric Grant Yarrow, 3rd Baronet</a>, English businessman</li>
+<li><a href="/wiki/1921" title="1921">1921</a> – <a href="/wiki/Cleto_Bellucci" title="Cleto Bellucci">Cleto Bellucci</a>, Italian archbishop (d. 2013)</li>
+<li>1921 – <a href="/wiki/Janet_Blair" title="Janet Blair">Janet Blair</a>, American actress and singer (d. 2007)</li>
+<li>1921 – <a href="/wiki/Warren_Spahn" title="Warren Spahn">Warren Spahn</a>, American baseball player and coach (d. 2003)</li>
+<li><a href="/wiki/1923" title="1923">1923</a> – <a href="/wiki/Dolph_Briscoe" title="Dolph Briscoe">Dolph Briscoe</a>, American lieutenant and politician, 41st <a href="/wiki/Governor_of_Texas" title="Governor of Texas">Governor of Texas</a> (d. 2010)</li>
+<li>1923 – <a href="/wiki/Avram_Davidson" title="Avram Davidson">Avram Davidson</a>, American soldier and author (d. 1993)</li>
+<li><a href="/wiki/1924" title="1924">1924</a> – <a href="/wiki/Chuck_Harmon" title="Chuck Harmon">Chuck Harmon</a>, American baseball player and scout</li>
+<li>1924 – <a href="/wiki/Bobby_Rosengarden" title="Bobby Rosengarden">Bobby Rosengarden</a>, American drummer and bandleader (d. 2007)</li>
+<li><a href="/wiki/1926" title="1926">1926</a> – <a href="/wiki/J.P._Donleavy" class="mw-redirect" title="J.P. Donleavy">J.P. Donleavy</a>, American-Irish novelist and playwright</li>
+<li>1926 – <a href="/wiki/Rifaat_el-Mahgoub" title="Rifaat el-Mahgoub">Rifaat el-Mahgoub</a>, Egyptian politician (d. 1990)</li>
+<li><a href="/wiki/1928" title="1928">1928</a> – <a href="/wiki/Shirley_Temple" title="Shirley Temple">Shirley Temple</a>, American actress, singer, dancer, and diplomat (d. 2014)</li>
+<li><a href="/wiki/1929" title="1929">1929</a> – <a href="/wiki/George_Steiner" title="George Steiner">George Steiner</a>, French-American philosopher, author, and critic</li>
+<li><a href="/wiki/1930" title="1930">1930</a> – <a href="/wiki/Michael_Bowen_(bishop)" title="Michael Bowen (bishop)">Michael Bowen</a>, Gibraltarian-English archbishop</li>
+<li><a href="/wiki/1932" title="1932">1932</a> – <a href="/wiki/Halston" title="Halston">Halston</a>, American fashion designer (d. 1990)</li>
+<li>1932 – <a href="/wiki/Jim_Fixx" title="Jim Fixx">Jim Fixx</a>, American runner and author (d. 1984)</li>
+<li><a href="/wiki/1933" title="1933">1933</a> – <a href="/wiki/Annie_Easley" title="Annie Easley">Annie Easley</a>, African-American computer scientist, mathematician, and engineer (d. 2011)</li>
+<li><a href="/wiki/1934" title="1934">1934</a> – <a href="/wiki/George_Canseco" title="George Canseco">George Canseco</a>, Filipino composer and producer (d. 2004)</li>
+<li><a href="/wiki/1936" title="1936">1936</a> – <a href="/wiki/Roy_Orbison" title="Roy Orbison">Roy Orbison</a>, American singer-songwriter (d. 1988)</li>
+<li><a href="/wiki/1937" title="1937">1937</a> – <a href="/wiki/Victoria_Glendinning" title="Victoria Glendinning">Victoria Glendinning</a>, English author and critic</li>
+<li>1937 – <a href="/wiki/David_Mills_(cricketer)" title="David Mills (cricketer)">David Mills</a>, English cricketer (d. 2013)</li>
+<li>1937 – <a href="/wiki/Barry_Shepherd" title="Barry Shepherd">Barry Shepherd</a>, Australian cricketer (d. 2001)</li>
+<li><a href="/wiki/1939" title="1939">1939</a> – <a href="/wiki/Jorge_Fons" title="Jorge Fons">Jorge Fons</a>, Mexican director and screenwriter</li>
+<li>1939 – <a href="/wiki/Bill_Hagerty" title="Bill Hagerty">Bill Hagerty</a>, English journalist</li>
+<li>1939 – <a href="/wiki/Lee_Majors" title="Lee Majors">Lee Majors</a>, American actor</li>
+<li>1939 – <a href="/wiki/Ray_Peterson" title="Ray Peterson">Ray Peterson</a>, American pop singer (d. 2005)</li>
+<li><a href="/wiki/1940" title="1940">1940</a> – <a href="/wiki/Michael_Copps" title="Michael Copps">Michael Copps</a>, American academic and politician</li>
+<li>1940 – <a href="/wiki/Dale_Houston" title="Dale Houston">Dale Houston</a>, American singer-songwriter (d. 2007)</li>
+<li>1940 – <a href="/wiki/Michael_Kadosh" title="Michael Kadosh">Michael Kadosh</a>, Israeli footballer and manager (d. 2014)</li>
+<li><a href="/wiki/1941" title="1941">1941</a> – <a href="/wiki/Jacqueline_Boyer" title="Jacqueline Boyer">Jacqueline Boyer</a>, French singer and actress</li>
+<li>1941 – <a href="/wiki/Arie_den_Hartog" title="Arie den Hartog">Arie den Hartog</a>, Dutch road bicycle racer</li>
+<li>1941 – <a href="/wiki/Paavo_Lipponen" title="Paavo Lipponen">Paavo Lipponen</a>, Finnish journalist and politician, 38th <a href="/wiki/Prime_Minister_of_Finland" title="Prime Minister of Finland">Prime Minister of Finland</a></li>
+<li>1941 – <a href="/wiki/Michael_Lynne" title="Michael Lynne">Michael Lynne</a>, American film producer, co-founded <a href="/wiki/New_Line_Cinema" title="New Line Cinema">New Line Cinema</a></li>
+<li>1941 – <a href="/wiki/Ed_Stewart" title="Ed Stewart">Ed Stewart</a>, English radio and television host (d. 2016)</li>
+<li>1941 – <a href="/wiki/Ray_Tomlinson" title="Ray Tomlinson">Ray Tomlinson</a>, American computer programmer and engineer (d. 2016)</li>
+<li><a href="/wiki/1942" title="1942">1942</a> – <a href="/wiki/Sandra_Dee" title="Sandra Dee">Sandra Dee</a>, American model and actress (d. 2005)</li>
+<li><a href="/wiki/1943" title="1943">1943</a> – <a href="/wiki/Gail_Goodrich" title="Gail Goodrich">Gail Goodrich</a>, American basketball player and coach</li>
+<li>1943 – <a href="/wiki/Tony_Esposito" title="Tony Esposito">Tony Esposito</a>, Canadian-American ice hockey player, coach, and manager</li>
+<li>1943 – <a href="/wiki/Frans_Koppelaar" title="Frans Koppelaar">Frans Koppelaar</a>, Dutch painter</li>
+<li>1943 – <a href="/wiki/Herve_Villechaize" class="mw-redirect" title="Herve Villechaize">Herve Villechaize</a>, French actor (d. 1993)</li>
+<li><a href="/wiki/1944" title="1944">1944</a> – <a href="/wiki/Jean-Fran%C3%A7ois_St%C3%A9venin" title="Jean-François Stévenin">Jean-François Stévenin</a>, French actor and director</li>
+<li><a href="/wiki/1946" title="1946">1946</a> – <a href="/wiki/Blair_Brown" title="Blair Brown">Blair Brown</a>, American actress</li>
+<li>1946 – <a href="/wiki/Richard_Mottram" title="Richard Mottram">Richard Mottram</a>, English civil servant</li>
+<li>1946 – <a href="/wiki/Carlton_Sherwood" title="Carlton Sherwood">Carlton Sherwood</a>, American soldier and journalist (d. 2014)</li>
+<li><a href="/wiki/1947" title="1947">1947</a> – <a href="/wiki/Robert_Burgess_(sociologist)" title="Robert Burgess (sociologist)">Robert Burgess</a>, English sociologist and academic</li>
+<li>1947 – <a href="/wiki/Glenn_Cornick" title="Glenn Cornick">Glenn Cornick</a>, English bass player (<a href="/wiki/Jethro_Tull_(band)" title="Jethro Tull (band)">Jethro Tull</a>) (d. 2014)</li>
+<li>1947 – <a href="/wiki/Bernadette_Devlin_McAliskey" title="Bernadette Devlin McAliskey">Bernadette Devlin McAliskey</a>, Irish republican activist; co-founder, <a href="/wiki/Irish_Republican_Socialist_Party" title="Irish Republican Socialist Party">Irish Republican Socialist Party</a> (1974); British MP <a href="/wiki/Mid_Ulster_(UK_Parliament_constituency)" title="Mid Ulster (UK Parliament constituency)">Mid Ulster</a> (1969–74)</li>
+<li><a href="/wiki/1948" title="1948">1948</a> – <a href="/wiki/Pascal_Quignard" title="Pascal Quignard">Pascal Quignard</a>, French author and screenwriter</li>
+<li>1948 – <a href="/wiki/Serge_Th%C3%A9riault" title="Serge Thériault">Serge Thériault</a>, Canadian actor</li>
+<li><a href="/wiki/1949" title="1949">1949</a> – <a href="/wiki/Paul_Collier" title="Paul Collier">Paul Collier</a>, English economist and academic</li>
+<li>1949 – <a href="/wiki/David_Cross_(musician)" title="David Cross (musician)">David Cross</a>, English violinist</li>
+<li>1949 – <a href="/wiki/John_Miles_(musician)" title="John Miles (musician)">John Miles</a>, British rock singer, songwriter, and guitarist</li>
+<li><a href="/wiki/1950" title="1950">1950</a> – <a href="/wiki/Rowley_Leigh" title="Rowley Leigh">Rowley Leigh</a>, English chef and journalist</li>
+<li>1950 – <a href="/wiki/Barbara_McIlvaine_Smith" title="Barbara McIlvaine Smith">Barbara McIlvaine Smith</a>, <a href="/wiki/Sac_and_Fox_Nation" title="Sac and Fox Nation">Sac and Fox Nation</a> Native American politician</li>
+<li><a href="/wiki/1951" title="1951">1951</a> – <a href="/wiki/Martin_Bayerle" title="Martin Bayerle">Martin Bayerle</a>, American treasure hunter</li>
+<li><a href="/wiki/1952" title="1952">1952</a> – <a href="/wiki/Narada_Michael_Walden" title="Narada Michael Walden">Narada Michael Walden</a>, African-American singer-songwriter, drummer, and producer</li>
+<li><a href="/wiki/1953" title="1953">1953</a> – <a href="/wiki/James_Russo" title="James Russo">James Russo</a>, American actor, director, producer, and screenwriter</li>
+<li><a href="/wiki/1954" title="1954">1954</a> – <a href="/wiki/Stephen_Dalton" title="Stephen Dalton">Stephen Dalton</a>, English air marshal</li>
+<li>1954 – <a href="/wiki/Michael_Moore" title="Michael Moore">Michael Moore</a>, American director, producer, and activist</li>
+<li><a href="/wiki/1955" title="1955">1955</a> – <a href="/wiki/Judy_Davis" title="Judy Davis">Judy Davis</a>, Australian actress</li>
+<li>1955 – <a href="/wiki/Tony_Miles" title="Tony Miles">Tony Miles</a>, English chess player (d. 2001)</li>
+<li>1955 – <a href="/wiki/Urmas_Ott" title="Urmas Ott">Urmas Ott</a>, Estonian journalist and author (d. 2008)</li>
+<li><a href="/wiki/1957" title="1957">1957</a> – <a href="/wiki/Neville_Brody" title="Neville Brody">Neville Brody</a>, English graphic designer, typographer, and art director</li>
+<li>1957 – <a href="/wiki/Jan_Hooks" title="Jan Hooks">Jan Hooks</a>, American actress and comedian (d. 2014)</li>
+<li><a href="/wiki/1958" title="1958">1958</a> – <a href="/wiki/Hilmar_%C3%96rn_Hilmarsson" title="Hilmar Örn Hilmarsson">Hilmar Örn Hilmarsson</a>, Icelandic composer and producer</li>
+<li>1958 – <a href="/wiki/Ryan_Walter" title="Ryan Walter">Ryan Walter</a>, Canadian ice hockey player and coach</li>
+<li><a href="/wiki/1960" title="1960">1960</a> – <a href="/wiki/Valerie_Bertinelli" title="Valerie Bertinelli">Valerie Bertinelli</a>, American actress</li>
+<li>1960 – <a href="/wiki/Steve_Clark" title="Steve Clark">Steve Clark</a>, English guitarist and songwriter (d. 1991)</li>
+<li>1960 – <a href="/wiki/Barry_Douglas_(musician)" title="Barry Douglas (musician)">Barry Douglas</a>, Irish pianist and conductor</li>
+<li>1960 – <a href="/wiki/L%C3%A9o_Jaime" title="Léo Jaime">Léo Jaime</a>, Brazilian singer-songwriter, guitarist, and actor</li>
+<li>1960 – <a href="/wiki/Claude_Julien_(ice_hockey)" title="Claude Julien (ice hockey)">Claude Julien</a>, Canadian ice hockey player and coach</li>
+<li><a href="/wiki/1961" title="1961">1961</a> – <a href="/wiki/Terry_Gordy" title="Terry Gordy">Terry Gordy</a>, American wrestler (d. 2001)</li>
+<li>1961 – <a href="/wiki/George_Lopez" title="George Lopez">George Lopez</a>, American comedian, actor, and talk show host</li>
+<li>1961 – <a href="/wiki/Pierluigi_Martini" title="Pierluigi Martini">Pierluigi Martini</a>, Italian race car driver</li>
+<li><a href="/wiki/1962" title="1962">1962</a> – <a href="/wiki/John_Hannah_(actor)" title="John Hannah (actor)">John Hannah</a>, Scottish actor and producer</li>
+<li>1962 – <a href="/wiki/Shaun_Spiers" title="Shaun Spiers">Shaun Spiers</a>, English businessman and politician</li>
+<li><a href="/wiki/1963" title="1963">1963</a> – <a href="/wiki/Paul_Belmondo" title="Paul Belmondo">Paul Belmondo</a>, French race car driver</li>
+<li>1963 – <a href="/wiki/Robby_Naish" title="Robby Naish">Robby Naish</a>, American windsurfer</li>
+<li><a href="/wiki/1964" title="1964">1964</a> – <a href="/wiki/Gianandrea_Noseda" title="Gianandrea Noseda">Gianandrea Noseda</a>, Italian pianist and conductor</li>
+<li><a href="/wiki/1965" title="1965">1965</a> – <a href="/wiki/Tommy_DeCarlo" title="Tommy DeCarlo">Tommy DeCarlo</a>, American singer-songwriter</li>
+<li>1965 – <a href="/wiki/Leni_Robredo" title="Leni Robredo">Leni Robredo</a>, Filipina activist, 14th <a href="/wiki/Vice_President_of_the_Philippines" title="Vice President of the Philippines">Vice President of the Philippines</a></li>
+<li><a href="/wiki/1966" title="1966">1966</a> – <a href="/wiki/Joerg_Deisinger" title="Joerg Deisinger">Jörg Deisinger</a>, German bass player</li>
+<li>1966 – <a href="/wiki/Jim_Stynes" title="Jim Stynes">Jim Stynes</a>, Irish-Australian footballer (d. 2012)</li>
+<li><a href="/wiki/1967" title="1967">1967</a> – <a href="/wiki/Rheal_Cormier" title="Rheal Cormier">Rheal Cormier</a>, Canadian baseball player</li>
+<li>1967 – <a href="/wiki/Melina_Kanakaredes" title="Melina Kanakaredes">Melina Kanakaredes</a>, American actress</li>
+<li><a href="/wiki/1968" title="1968">1968</a> – <a href="/wiki/Bas_Haring" title="Bas Haring">Bas Haring</a>, Dutch philosopher, writer, television presenter and professor.</li>
+<li>1968 – <a href="/wiki/Ken_McRae" title="Ken McRae">Ken McRae</a>, Canadian ice hockey player and coach</li>
+<li>1968 – <a href="/wiki/Timothy_McVeigh" title="Timothy McVeigh">Timothy McVeigh</a>, American terrorist, <a href="/wiki/Oklahoma_City_bombing" title="Oklahoma City bombing">Oklahoma City bombing</a> co-perpetrator (d. 2001)</li>
+<li><a href="/wiki/1969" title="1969">1969</a> – <a href="/wiki/Mart%C3%ADn_L%C3%B3pez-Zubero" title="Martín López-Zubero">Martín López-Zubero</a>, American-Spanish swimmer and coach</li>
+<li>1969 – <a href="/wiki/Arthur_Phillips" title="Arthur Phillips">Arthur Phillips</a>, American author</li>
+<li>1969 – <a href="/wiki/Yelena_Shushunova" title="Yelena Shushunova">Yelena Shushunova</a>, Russian gymnast</li>
+<li>1969 – <a href="/wiki/Richard_Wolstencroft" title="Richard Wolstencroft">Richard Wolstencroft</a>, Australian director and producer</li>
+<li><a href="/wiki/1970" title="1970">1970</a> – <a href="/wiki/Egemen_Ba%C4%9F%C4%B1%C5%9F" title="Egemen Bağış">Egemen Bağış</a>, Turkish politician, 1st <a href="/wiki/Ministry_of_European_Union_Affairs" title="Ministry of European Union Affairs">Minister of European Union Affairs</a></li>
+<li>1970 – <a href="/wiki/Dennis_Culp" title="Dennis Culp">Dennis Culp</a>, American singer-songwriter and trombonist</li>
+<li>1970 – <a href="/wiki/Andrew_Gee" title="Andrew Gee">Andrew Gee</a>, Australian rugby league player and manager</li>
+<li>1970 – <a href="/wiki/Hans_V%C3%A4lim%C3%A4ki" title="Hans Välimäki">Hans Välimäki</a>, Finnish chef and author</li>
+<li>1970 – <a href="/wiki/Tayfur_Havut%C3%A7u" title="Tayfur Havutçu">Tayfur Havutçu</a>, Turkish international footballer and manager</li>
+<li><a href="/wiki/1971" title="1971">1971</a> – <a href="/wiki/Uli_Herzner" title="Uli Herzner">Uli Herzner</a>, German-American fashion designer</li>
+<li><a href="/wiki/1972" title="1972">1972</a> – <a href="/wiki/Pierre_Labrie" title="Pierre Labrie">Pierre Labrie</a>, Canadian poet and playwright</li>
+<li>1972 – <a href="/wiki/Peter_Dench" title="Peter Dench">Peter Dench</a>, English photographer and journalist</li>
+<li><a href="/wiki/1973" title="1973">1973</a> – <a href="/wiki/Patrick_Poulin" title="Patrick Poulin">Patrick Poulin</a>, Canadian ice hockey player</li>
+<li><a href="/wiki/1974" title="1974">1974</a> – <a href="/wiki/Carlos_Dengler" title="Carlos Dengler">Carlos Dengler</a>, American bass player</li>
+<li>1974 – <a href="/wiki/Michael_Kerr_(rugby)" title="Michael Kerr (rugby)">Michael Kerr</a>, New Zealand-German rugby player</li>
+<li><a href="/wiki/1975" title="1975">1975</a> – <a href="/wiki/Bobby_Shaw" title="Bobby Shaw">Bobby Shaw</a>, American football player</li>
+<li><a href="/wiki/1976" title="1976">1976</a> – <a href="/wiki/Aaron_Dessner" title="Aaron Dessner">Aaron Dessner</a>, American guitarist, songwriter, and producer</li>
+<li>1976 – <a href="/wiki/Bryce_Dessner" title="Bryce Dessner">Bryce Dessner</a>, American guitarist and songwriter</li>
+<li>1976 – <a href="/wiki/Tesfaye_Jifar" title="Tesfaye Jifar">Tesfaye Jifar</a>, Ethiopian runner</li>
+<li><a href="/wiki/1977" title="1977">1977</a> – <a href="/wiki/John_Cena" title="John Cena">John Cena</a>, American wrestler</li>
+<li>1977 – <a href="/wiki/Andruw_Jones" title="Andruw Jones">Andruw Jones</a>, Curaçaoan baseball player</li>
+<li>1977 – <a href="/wiki/David_Kidwell" title="David Kidwell">David Kidwell</a>, New Zealand rugby league player and coach</li>
+<li>1977 – <a href="/wiki/Willie_Mitchell_(ice_hockey)" title="Willie Mitchell (ice hockey)">Willie Mitchell</a>, Canadian ice hockey player</li>
+<li>1977 – <a href="/wiki/John_Oliver" title="John Oliver">John Oliver</a>, English comedian, actor, producer, and screenwriter</li>
+<li>1977 – <a href="/wiki/Kal_Penn" title="Kal Penn">Kal Penn</a>, Indian-American actor</li>
+<li>1977 – <a href="/wiki/Bram_Schmitz" title="Bram Schmitz">Bram Schmitz</a>, Dutch cyclist</li>
+<li>1977 – <a href="/wiki/Lee_Young-pyo" title="Lee Young-pyo">Lee Young-pyo</a>, South Korean footballer</li>
+<li><a href="/wiki/1978" title="1978">1978</a> – <a href="/wiki/Gezahegne_Abera" title="Gezahegne Abera">Gezahegne Abera</a>, Ethiopian runner</li>
+<li><a href="/wiki/1979" title="1979">1979</a> – <a href="/wiki/Barry_Hawkins" title="Barry Hawkins">Barry Hawkins</a>, English snooker player</li>
+<li>1979 – <a href="/wiki/Jaime_King" title="Jaime King">Jaime King</a>, American actress and model</li>
+<li>1979 – <a href="/wiki/Joanna_Krupa" title="Joanna Krupa">Joanna Krupa</a>, Polish-American model and television personality</li>
+<li>1979 – <a href="/wiki/Samppa_Lajunen" title="Samppa Lajunen">Samppa Lajunen</a>, Finnish skier</li>
+<li><a href="/wiki/1982" title="1982">1982</a> – <a href="/wiki/Tony_Sunshine" title="Tony Sunshine">Tony Sunshine</a>, American singer-songwriter</li>
+<li><a href="/wiki/1983" title="1983">1983</a> – <a href="/wiki/Daniela_Hantuchov%C3%A1" title="Daniela Hantuchová">Daniela Hantuchová</a>, Slovak tennis player</li>
+<li>1983 – <a href="/wiki/Ian_Henderson_(rugby_league)" title="Ian Henderson (rugby league)">Ian Henderson</a>, English rugby league player</li>
+<li><a href="/wiki/1984" title="1984">1984</a> – <a href="/wiki/Alexandra_Kosteniuk" title="Alexandra Kosteniuk">Alexandra Kosteniuk</a>, Russian chess player</li>
+<li><a href="/wiki/1985" title="1985">1985</a> – <a href="/wiki/Taio_Cruz" title="Taio Cruz">Taio Cruz</a>, English singer-songwriter and producer</li>
+<li>1985 – <a href="/wiki/Angel_Locsin" title="Angel Locsin">Angel Locsin</a>, Filipino actress, producer, and fashion designer</li>
+<li><a href="/wiki/1986" title="1986">1986</a> – <a href="/wiki/Sven_Kramer" title="Sven Kramer">Sven Kramer</a>, Dutch speed skater</li>
+<li>1986 – <a href="/wiki/Alysia_Monta%C3%B1o" title="Alysia Montaño">Alysia Montaño</a>, American runner</li>
+<li>1986 – <a href="/wiki/Rafael_Fernandes_(baseball)" title="Rafael Fernandes (baseball)">Rafael Fernandes</a>, Brazilian baseball player</li>
+<li><a href="/wiki/1987" title="1987">1987</a> – <a href="/wiki/Michael_Arroyo" title="Michael Arroyo">Michael Arroyo</a>, Ecuadorian footballer</li>
+<li>1987 – <a href="/wiki/John_Boye" title="John Boye">John Boye</a>, Ghanaian footballer</li>
+<li>1987 – <a href="/wiki/Emily_Fox" title="Emily Fox">Emily Fox</a>, American basketball player</li>
+<li><a href="/wiki/1988" title="1988">1988</a> – <a href="/wiki/Victor_Anichebe" title="Victor Anichebe">Victor Anichebe</a>, Nigerian footballer</li>
+<li>1988 – <a href="/wiki/Alistair_Brownlee" title="Alistair Brownlee">Alistair Brownlee</a>, English triathlete</li>
+<li>1988 – <a href="/wiki/Prince_Buaben" title="Prince Buaben">Prince Buaben</a>, Ghanaian footballer</li>
+<li>1988 – <a href="/wiki/Steph_Houghton" title="Steph Houghton">Steph Houghton</a>, English footballer</li>
+<li>1988 – <a href="/wiki/Carla_Quevedo" title="Carla Quevedo">Carla Quevedo</a>, Argentine actress</li>
+<li>1988 – <a href="/wiki/Signe_Ronka" title="Signe Ronka">Signe Ronka</a>, Canadian figure skater</li>
+<li>1988 – <a href="/wiki/Lenka_Wienerov%C3%A1" title="Lenka Wienerová">Lenka Wienerová</a>, Slovak tennis player</li>
+<li><a href="/wiki/1989" title="1989">1989</a> – <a href="/wiki/Nicole_Vaidi%C5%A1ov%C3%A1" title="Nicole Vaidišová">Nicole Vaidišová</a>, Czech tennis player</li>
+<li><a href="/wiki/1990" title="1990">1990</a> – <a href="/wiki/Dev_Patel" title="Dev Patel">Dev Patel</a>, English actor</li>
+<li><a href="/wiki/1991" title="1991">1991</a> – <a href="/wiki/Nathan_Baker_(footballer)" class="mw-redirect" title="Nathan Baker (footballer)">Nathan Baker</a>, English footballer</li>
+<li>1991 – <a href="/wiki/Caleb_Johnson_(singer)" class="mw-redirect" title="Caleb Johnson (singer)">Caleb Johnson</a>, American singer-songwriter</li>
+<li>1991 – <a href="/wiki/Paul_Vaughan_(rugby_league)" title="Paul Vaughan (rugby league)">Paul Vaughan</a>, Australian-Italian rugby league player</li>
+<li><a href="/wiki/1994" title="1994">1994</a> – <a href="/wiki/Patrick_Olsen" title="Patrick Olsen">Patrick Olsen</a>, Danish footballer</li>
+<li><a href="/wiki/1995" title="1995">1995</a> – <a href="/wiki/Gigi_Hadid" title="Gigi Hadid">Gigi Hadid</a>, American fashion model and television personality</li>
+</ul>
+<h2><span class="mw-headline" id="Deaths">Deaths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=April_23&amp;action=edit&amp;section=3" title="Edit section: Deaths">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/303" title="303">303</a> – <a href="/wiki/Saint_George" title="Saint George">Saint George</a>, Roman soldier and martyr (b. 275)</li>
+<li><a href="/wiki/711" title="711">711</a> – <a href="/wiki/Childebert_III" title="Childebert III">Childebert III</a>, Frankish king (b. 670)</li>
+<li><a href="/wiki/725" title="725">725</a> – <a href="/wiki/Wihtred_of_Kent" title="Wihtred of Kent">Wihtred of Kent</a> (b. 670)</li>
+<li><a href="/wiki/871" title="871">871</a> – <a href="/wiki/%C3%86thelred_of_Wessex" title="Æthelred of Wessex">Æthelred of Wessex</a> (b. 837)</li>
+<li><a href="/wiki/997" title="997">997</a> – <a href="/wiki/Adalbert_of_Prague" title="Adalbert of Prague">Adalbert of Prague</a>, Czech bishop, missionary, and saint (b. 956)</li>
+<li><a href="/wiki/1014" title="1014">1014</a> – <a href="/wiki/Brian_Boru" title="Brian Boru">Brian Boru</a>, Irish king (b. 941)</li>
+<li><a href="/wiki/1016" title="1016">1016</a> – <a href="/wiki/%C3%86thelred_the_Unready" title="Æthelred the Unready">Æthelred the Unready</a>, English son of <a href="/wiki/Edgar_the_Peaceful" title="Edgar the Peaceful">Edgar the Peaceful</a> (b. 968)</li>
+<li><a href="/wiki/1124" title="1124">1124</a> – <a href="/wiki/Alexander_I_of_Scotland" title="Alexander I of Scotland">Alexander I of Scotland</a> (b. 1078)</li>
+<li><a href="/wiki/1151" title="1151">1151</a> – <a href="/wiki/Adeliza_of_Louvain" title="Adeliza of Louvain">Adeliza of Louvain</a> (b. 1103)</li>
+<li><a href="/wiki/1170" title="1170">1170</a> – <a href="/wiki/Minamoto_no_Tametomo" title="Minamoto no Tametomo">Minamoto no Tametomo</a>, Japanese samurai (b. 1139)</li>
+<li><a href="/wiki/1196" title="1196">1196</a> – <a href="/wiki/B%C3%A9la_III_of_Hungary" title="Béla III of Hungary">Béla III of Hungary</a> (b. c.1148)</li>
+<li><a href="/wiki/1200" title="1200">1200</a> – <a href="/wiki/Zhu_Xi" title="Zhu Xi">Zhu Xi</a>, Chinese philosopher (b. 1130)</li>
+<li><a href="/wiki/1217" title="1217">1217</a> – <a href="/wiki/Inge_II_of_Norway" title="Inge II of Norway">Inge II of Norway</a> (b. 1185)</li>
+<li><a href="/wiki/1307" title="1307">1307</a> – <a href="/wiki/Joan_of_Acre" title="Joan of Acre">Joan of Acre</a> (b. 1272)</li>
+<li><a href="/wiki/1400" title="1400">1400</a> – <a href="/wiki/Aubrey_de_Vere,_10th_Earl_of_Oxford" title="Aubrey de Vere, 10th Earl of Oxford">Aubrey de Vere, 10th Earl of Oxford</a>, English politician and nobleman (b. c. 1338)</li>
+<li><a href="/wiki/1407" title="1407">1407</a> – <a href="/wiki/Olivier_de_Clisson" title="Olivier de Clisson">Olivier de Clisson</a>, French soldier (b. 1326)</li>
+<li><a href="/wiki/1501" title="1501">1501</a> – <a href="/wiki/Domenico_della_Rovere" title="Domenico della Rovere">Domenico della Rovere</a>, Catholic cardinal (b. 1442)</li>
+<li><a href="/wiki/1605" title="1605">1605</a> – <a href="/wiki/Boris_Godunov" title="Boris Godunov">Boris Godunov</a>, Russian ruler (b. 1551)</li>
+<li><a href="/wiki/1616" title="1616">1616</a> – <a href="/wiki/Inca_Garcilaso_de_la_Vega" title="Inca Garcilaso de la Vega">Inca Garcilaso de la Vega</a>, Peruvian historian and author (b. 1539)</li>
+<li>1616 – <a href="/wiki/William_Shakespeare" title="William Shakespeare">William Shakespeare</a>, English actor, playwright, and poet (b. 1564)</li>
+<li><a href="/wiki/1625" title="1625">1625</a> – <a href="/wiki/Maurice,_Prince_of_Orange" title="Maurice, Prince of Orange">Maurice, Prince of Orange</a> (b. 1567)</li>
+<li><a href="/wiki/1695" title="1695">1695</a> – <a href="/wiki/Henry_Vaughan" title="Henry Vaughan">Henry Vaughan</a>, Welsh poet and author (b. 1621)</li>
+<li><a href="/wiki/1702" title="1702">1702</a> – <a href="/wiki/Margaret_Fell" title="Margaret Fell">Margaret Fell</a>, English religious leader, founded the <a href="/wiki/Religious_Society_of_Friends" class="mw-redirect" title="Religious Society of Friends">Religious Society of Friends</a> (b. 1614)</li>
+<li><a href="/wiki/1781" title="1781">1781</a> – <a href="/wiki/James_Abercrombie_(British_Army_officer,_born_1706)" title="James Abercrombie (British Army officer, born 1706)">James Abercrombie</a>, Scottish general and politician (b. 1706)</li>
+<li><a href="/wiki/1784" title="1784">1784</a> – <a href="/wiki/Solomon_I_of_Imereti" title="Solomon I of Imereti">Solomon I of Imereti</a> (b. 1735)</li>
+<li><a href="/wiki/1792" title="1792">1792</a> – <a href="/wiki/Karl_Friedrich_Bahrdt" title="Karl Friedrich Bahrdt">Karl Friedrich Bahrdt</a>, German theologian and author (b. 1741)</li>
+<li><a href="/wiki/1794" title="1794">1794</a> – <a href="/wiki/Guillaume-Chr%C3%A9tien_de_Lamoignon_de_Malesherbes" title="Guillaume-Chrétien de Lamoignon de Malesherbes">Guillaume-Chrétien de Lamoignon de Malesherbes</a>, French lawyer and politician (b. 1721)</li>
+<li><a href="/wiki/1827" title="1827">1827</a> – <a href="/wiki/Georgios_Karaiskakis" title="Georgios Karaiskakis">Georgios Karaiskakis</a>, Greek general (b. 1780)</li>
+<li><a href="/wiki/1839" title="1839">1839</a> – <a href="/wiki/Jacques_F%C3%A9lix_Emmanuel_Hamelin" title="Jacques Félix Emmanuel Hamelin">Jacques Félix Emmanuel Hamelin</a>, French admiral and explorer (b. 1768)</li>
+<li><a href="/wiki/1850" title="1850">1850</a> – <a href="/wiki/William_Wordsworth" title="William Wordsworth">William Wordsworth</a>, English poet and author (b. 1770)</li>
+<li><a href="/wiki/1889" title="1889">1889</a> – <a href="/wiki/Jules_Am%C3%A9d%C3%A9e_Barbey_d%27Aurevilly" class="mw-redirect" title="Jules Amédée Barbey d'Aurevilly">Jules Amédée Barbey d'Aurevilly</a>, French author and critic (b. 1808)</li>
+<li><a href="/wiki/1895" title="1895">1895</a> – <a href="/wiki/Carl_Ludwig" title="Carl Ludwig">Carl Ludwig</a>, German physician and physiologist (b. 1815)</li>
+<li><a href="/wiki/1905" title="1905">1905</a> – <a href="/wiki/G%C3%A9d%C3%A9on_Ouimet" title="Gédéon Ouimet">Gédéon Ouimet</a>, Canadian politician, 2nd <a href="/wiki/Premier_of_Quebec" title="Premier of Quebec">Premier of Quebec</a> (b. 1823)</li>
+<li><a href="/wiki/1907" title="1907">1907</a> – <a href="/wiki/Alferd_Packer" title="Alferd Packer">Alferd Packer</a>, American prospector (b. 1842)</li>
+<li><a href="/wiki/1915" title="1915">1915</a> – <a href="/wiki/Rupert_Brooke" title="Rupert Brooke">Rupert Brooke</a>, English poet (b. 1887)</li>
+<li><a href="/wiki/1936" title="1936">1936</a> – <a href="/wiki/Teresa_de_la_Parra" title="Teresa de la Parra">Teresa de la Parra</a>, French-Venezuelan author (b. 1889)</li>
+<li><a href="/wiki/1951" title="1951">1951</a> – <a href="/wiki/Jules_Berry" title="Jules Berry">Jules Berry</a>, French actor and director (b. 1883)</li>
+<li>1951 – <a href="/wiki/Charles_G._Dawes" title="Charles G. Dawes">Charles G. Dawes</a>, American banker and politician, 30th <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">Vice President of the United States</a>, <a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Peace Prize</a> laureate (b. 1865)</li>
+<li><a href="/wiki/1965" title="1965">1965</a> – <a href="/wiki/George_Adamski" title="George Adamski">George Adamski</a>, Polish-American ufologist and author (b. 1891)</li>
+<li><a href="/wiki/1966" title="1966">1966</a> – <a href="/wiki/George_Ohsawa" title="George Ohsawa">George Ohsawa</a>, Japanese founder of the <a href="/wiki/Macrobiotic_diet" title="Macrobiotic diet">Macrobiotic diet</a> (b. 1893)</li>
+<li><a href="/wiki/1981" title="1981">1981</a> – <a href="/wiki/Josep_Pla" title="Josep Pla">Josep Pla</a>, Catalan journalist and author (b. 1897)</li>
+<li><a href="/wiki/1983" title="1983">1983</a> – <a href="/wiki/Buster_Crabbe" title="Buster Crabbe">Buster Crabbe</a>, American swimmer and actor (b. 1908)</li>
+<li><a href="/wiki/1984" title="1984">1984</a> – <a href="/wiki/Red_Garland" title="Red Garland">Red Garland</a>, American pianist (b. 1923)</li>
+<li><a href="/wiki/1985" title="1985">1985</a> – <a href="/wiki/Sam_Ervin" title="Sam Ervin">Sam Ervin</a>, American lawyer and politician (b. 1896)</li>
+<li><a href="/wiki/1986" title="1986">1986</a> – <a href="/wiki/Harold_Arlen" title="Harold Arlen">Harold Arlen</a>, American composer (b. 1905)</li>
+<li>1986 – <a href="/wiki/Jim_Laker" title="Jim Laker">Jim Laker</a>, English cricketer and sportscaster (b. 1922)</li>
+<li>1986 – <a href="/wiki/Otto_Preminger" title="Otto Preminger">Otto Preminger</a>, Ukrainian-American actor, director, and producer (b. 1906)</li>
+<li><a href="/wiki/1990" title="1990">1990</a> – <a href="/wiki/Paulette_Goddard" title="Paulette Goddard">Paulette Goddard</a>, American actress (b. 1910)</li>
+<li><a href="/wiki/1991" title="1991">1991</a> – <a href="/wiki/Johnny_Thunders" title="Johnny Thunders">Johnny Thunders</a>, American singer-songwriter and guitarist (b. 1952)</li>
+<li><a href="/wiki/1992" title="1992">1992</a> – <a href="/wiki/Satyajit_Ray" title="Satyajit Ray">Satyajit Ray</a>, Indian director, producer, and screenwriter (b. 1921)</li>
+<li>1992 – <a href="/wiki/Tanka_Prasad_Acharya" title="Tanka Prasad Acharya">Tanka Prasad Acharya</a>, Nepalese politician, 27th <a href="/wiki/Prime_Minister_of_Nepal" class="mw-redirect" title="Prime Minister of Nepal">Prime Minister of Nepal</a> (b. 1912)</li>
+<li><a href="/wiki/1993" title="1993">1993</a> – <a href="/wiki/Cesar_Chavez" title="Cesar Chavez">Cesar Chavez</a>, American activist, co-founded the <a href="/wiki/United_Farm_Workers" title="United Farm Workers">United Farm Workers</a> (b. 1927)</li>
+<li><a href="/wiki/1995" title="1995">1995</a> – <a href="/wiki/Douglas_Lloyd_Campbell" title="Douglas Lloyd Campbell">Douglas Lloyd Campbell</a>, Canadian farmer and politician, 13th <a href="/wiki/Premier_of_Manitoba" title="Premier of Manitoba">Premier of Manitoba</a> (b. 1895)</li>
+<li>1995 – <a href="/wiki/Howard_Cosell" title="Howard Cosell">Howard Cosell</a>, American lawyer and journalist (b. 1918)</li>
+<li>1995 – <a href="/wiki/Riho_Lahi" title="Riho Lahi">Riho Lahi</a>, Estonian journalist (b. 1904)</li>
+<li>1995 – <a href="/wiki/John_C._Stennis" title="John C. Stennis">John C. Stennis</a>, American lawyer and politician (b. 1904)</li>
+<li><a href="/wiki/1996" title="1996">1996</a> – <a href="/wiki/Jean_Victor_Allard" title="Jean Victor Allard">Jean Victor Allard</a>, Canadian general (b. 1913)</li>
+<li>1996 – <a href="/wiki/P._L._Travers" title="P. L. Travers">P. L. Travers</a>, Australian-English author and actress (b. 1899)</li>
+<li><a href="/wiki/1997" title="1997">1997</a> – <a href="/wiki/Denis_Compton" title="Denis Compton">Denis Compton</a>, English cricketer and footballer (b. 1918)</li>
+<li><a href="/wiki/1998" title="1998">1998</a> – <a href="/wiki/Konstantinos_Karamanlis" title="Konstantinos Karamanlis">Konstantinos Karamanlis</a>, Greek lawyer and politician, 172nd <a href="/wiki/Prime_Minister_of_Greece" title="Prime Minister of Greece">Prime Minister of Greece</a> (b. 1907)</li>
+<li>1998 – <a href="/wiki/James_Earl_Ray" title="James Earl Ray">James Earl Ray</a>, American assassin of <a href="/wiki/Martin_Luther_King,_Jr." class="mw-redirect" title="Martin Luther King, Jr.">Martin Luther King, Jr.</a> (b. 1928)</li>
+<li>1998 – <a href="/wiki/Thanassis_Skordalos" title="Thanassis Skordalos">Thanassis Skordalos</a>, Greek singer-songwriter and <a href="/wiki/Cretan_lyra" title="Cretan lyra">lyra</a> player (b. 1920)</li>
+<li><a href="/wiki/2003" title="2003">2003</a> – <a href="/wiki/Fernand_Fonssagrives" title="Fernand Fonssagrives">Fernand Fonssagrives</a>, French-American photographer (b. 1910)</li>
+<li><a href="/wiki/2004" title="2004">2004</a> – <a href="/wiki/Herman_Veenstra" title="Herman Veenstra">Herman Veenstra</a>, Dutch water polo player (b. 1911)</li>
+<li><a href="/wiki/2005" title="2005">2005</a> – <a href="/wiki/Joh_Bjelke-Petersen" title="Joh Bjelke-Petersen">Joh Bjelke-Petersen</a>, New Zealand-Australian politician, 31st <a href="/wiki/Premier_of_Queensland" title="Premier of Queensland">Premier of Queensland</a> (b. 1911)</li>
+<li>2005 – <a href="/wiki/Robert_Farnon" title="Robert Farnon">Robert Farnon</a>, Canadian-English trumpet player, composer and conductor (b. 1917)</li>
+<li>2005 – <a href="/wiki/Al_Grassby" title="Al Grassby">Al Grassby</a>, Australian journalist and politician (b. 1928)</li>
+<li>2005 – <a href="/wiki/John_Mills" title="John Mills">John Mills</a>, English actor (b. 1908)</li>
+<li>2005 – <a href="/wiki/Romano_Scarpa" title="Romano Scarpa">Romano Scarpa</a>, Italian author and illustrator (b. 1927)</li>
+<li>2005 – <a href="/wiki/Earl_Wilson_(baseball)" title="Earl Wilson (baseball)">Earl Wilson</a>, American baseball player, coach and educator (b. 1934)</li>
+<li>2006 – <a href="/wiki/Phil_Walden" title="Phil Walden">Phil Walden</a>, American record producer and manager, co-founder of <a href="/wiki/Capricorn_Records" title="Capricorn Records">Capricorn Records</a> (b. 1940)</li>
+<li><a href="/wiki/2007" title="2007">2007</a> – <a href="/wiki/Paul_Erdman" title="Paul Erdman">Paul Erdman</a>, Canadian-American economist and author (b. 1932)</li>
+<li>2007 – <a href="/wiki/David_Halberstam" title="David Halberstam">David Halberstam</a>, American journalist, historian and author (b. 1934)</li>
+<li>2007 – <a href="/wiki/Peter_Randall_(GM)" class="mw-redirect" title="Peter Randall (GM)">Peter Randall</a>, English sergeant (b. 1930)</li>
+<li>2007 – <a href="/wiki/Boris_Yeltsin" title="Boris Yeltsin">Boris Yeltsin</a>, Russian politician, 1st <a href="/wiki/President_of_Russia" title="President of Russia">President of Russia</a> (b. 1931)</li>
+<li><a href="/wiki/2010" title="2010">2010</a> – <a href="/wiki/Peter_Porter_(poet)" title="Peter Porter (poet)">Peter Porter</a>, Australian-born British poet (b. 1929)</li>
+<li><a href="/wiki/2011" title="2011">2011</a> – <a href="/wiki/James_Casey_(variety_artist)" title="James Casey (variety artist)">James Casey</a>, English comedian, radio scriptwriter and producer (b. 1922)</li>
+<li>2011 – <a href="/wiki/Tom_King_(musician)" title="Tom King (musician)">Tom King</a>, American guitarist and songwriter (b. 1943)</li>
+<li>2011 – <a href="/wiki/Geoffrey_Russell,_4th_Baron_Ampthill" title="Geoffrey Russell, 4th Baron Ampthill">Geoffrey Russell, 4th Baron Ampthill</a>, English businessman and politician (b. 1921)</li>
+<li>2011 – <a href="/wiki/Max_van_der_Stoel" title="Max van der Stoel">Max van der Stoel</a>, Dutch politician and Minister of State (b. 1924)</li>
+<li>2011 – <a href="/wiki/John_Sullivan_(writer)" title="John Sullivan (writer)">John Sullivan</a>, English screenwriter and producer (b. 1946)</li>
+<li><a href="/wiki/2012" title="2012">2012</a> – <a href="/wiki/Lillemor_Arvidsson" title="Lillemor Arvidsson">Lillemor Arvidsson</a>, Swedish trade union leader and politician, 34th <a href="/wiki/List_of_governors_of_Gotland_County" title="List of governors of Gotland County">Governor of Gotland</a> (b. 1943)</li>
+<li>2012 – <a href="/wiki/Billy_Bryans" title="Billy Bryans">Billy Bryans</a>, Canadian drummer, songwriter and producer (b. 1947)</li>
+<li>2012 – <a href="/wiki/Chris_Ethridge" title="Chris Ethridge">Chris Ethridge</a>, American bass player and songwriter (b. 1947)</li>
+<li>2012 – <a href="/wiki/Raymond_Thorsteinsson" title="Raymond Thorsteinsson">Raymond Thorsteinsson</a>, Canadian geologist and paleontologist (b. 1921)</li>
+<li>2012 – <a href="/wiki/LeRoy_T._Walker" title="LeRoy T. Walker">LeRoy T. Walker</a>, American football player and coach (b. 1918)</li>
+<li><a href="/wiki/2013" title="2013">2013</a> – <a href="/wiki/Bob_Brozman" title="Bob Brozman">Bob Brozman</a>, American guitarist (b. 1954)</li>
+<li>2013 – <a href="/wiki/Robert_W._Edgar" title="Robert W. Edgar">Robert W. Edgar</a>, American educator and politician (b. 1943)</li>
+<li>2013 – <a href="/wiki/Tony_Grealish" title="Tony Grealish">Tony Grealish</a>, English footballer (b. 1956)</li>
+<li>2013 – <a href="/wiki/Antonio_Maccanico" title="Antonio Maccanico">Antonio Maccanico</a>, Italian banker and politician (b. 1924)</li>
+<li>2013 – <a href="/wiki/Frank_W._J._Olver" title="Frank W. J. Olver">Frank W. J. Olver</a>, English-American mathematician and academic (b. 1924)</li>
+<li>2013 – <a href="/wiki/Kathryn_Wasserman_Davis" title="Kathryn Wasserman Davis">Kathryn Wasserman Davis</a>, American philanthropist and scholar (b. 1907)</li>
+<li><a href="/wiki/2014" title="2014">2014</a> – <a href="/wiki/Benjam%C3%ADn_Brea" title="Benjamín Brea">Benjamín Brea</a>, Spanish-Venezuelan saxophonist, clarinet player, and conductor (b. 1946)</li>
+<li>2014 – <a href="/wiki/Michael_Glawogger" title="Michael Glawogger">Michael Glawogger</a>, Austrian director, screenwriter, and cinematographer (b. 1959)</li>
+<li>2014 – <a href="/wiki/Jaap_Havekotte" title="Jaap Havekotte">Jaap Havekotte</a>, Dutch speed skater and producer of ice skates (b. 1912)</li>
+<li>2014 – <a href="/wiki/Connie_Marrero" title="Connie Marrero">Connie Marrero</a>, Cuban baseball player and coach (b. 1911)</li>
+<li>2014 – <a href="/wiki/F._Michael_Rogers" title="F. Michael Rogers">F. Michael Rogers</a>, American general (b. 1921)</li>
+<li>2014 – <a href="/wiki/Mark_Shand" title="Mark Shand">Mark Shand</a>, English conservationist and author (b. 1951)</li>
+<li>2014 – <a href="/wiki/Patric_Standford" title="Patric Standford">Patric Standford</a>, English composer and educator (b. 1939)</li>
+<li><a href="/wiki/2015" title="2015">2015</a> – <a href="/wiki/Richard_Corliss" title="Richard Corliss">Richard Corliss</a>, American journalist and critic (b. 1944)</li>
+<li>2015 – <a href="/wiki/Ray_Jackson_(Aboriginal_activist)" title="Ray Jackson (Aboriginal activist)">Ray Jackson</a>, Australian activist (b. 1941)</li>
+<li>2015 – <a href="/wiki/Pierre_Claude_Nolin" title="Pierre Claude Nolin">Pierre Claude Nolin</a>, Canadian lawyer and politician, <a href="/wiki/Speaker_of_the_Senate_(Canada)" class="mw-redirect" title="Speaker of the Senate (Canada)">Speaker of the Canadian Senate</a> (b. 1950)</li>
+<li>2015 – <a href="/wiki/Jim_Steffen" title="Jim Steffen">Jim Steffen</a>, American football player (b. 1936)</li>
+<li>2015 – <a href="/wiki/Francis_Tsai" title="Francis Tsai">Francis Tsai</a>, American author and illustrator (b. 1967)</li>
+<li><a href="/wiki/2016" title="2016">2016</a> – <a href="/wiki/Inge_King" title="Inge King">Inge King</a>, German-born Australian sculptor (b. 1915)</li>
+<li>2016 – <a href="/wiki/Banharn_Silpa-archa" title="Banharn Silpa-archa">Banharn Silpa-archa</a>, Thai politician, <a href="/wiki/Prime_Minister_of_Thailand" title="Prime Minister of Thailand">Prime Minister</a> (1995–1996) (b. 1932)</li>
+</ul>
+<h2><span class="mw-headline" id="Holidays_and_observances">Holidays and observances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=April_23&amp;action=edit&amp;section=4" title="Edit section: Holidays and observances">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Christian <a href="/wiki/Feast_day" class="mw-redirect" title="Feast day">feast day</a>:
+<ul>
+<li><a href="/wiki/Adalbert_of_Prague" title="Adalbert of Prague">Adalbert of Prague</a></li>
+<li><a href="/wiki/Saint_George" title="Saint George">George</a></li>
+<li><a href="/wiki/Gerard_of_Toul" title="Gerard of Toul">Gerard of Toul</a></li>
+<li><a href="/wiki/Toyohiko_Kagawa" title="Toyohiko Kagawa">Toyohiko Kagawa</a> (<a href="/wiki/Calendar_of_saints_(Episcopal_Church)" title="Calendar of saints (Episcopal Church)">Episcopal</a> and <a href="/wiki/Evangelical_Lutheran_Church_in_America" title="Evangelical Lutheran Church in America">Lutheran Church</a>)</li>
+<li><a href="/wiki/April_23_(Eastern_Orthodox_liturgics)" title="April 23 (Eastern Orthodox liturgics)">April 23 (Eastern Orthodox liturgics)</a></li>
+</ul>
+</li>
+<li>Earliest day on which the first day of <a href="/wiki/Children%27s_Day" title="Children's Day">Children's Day</a> can fall, while April 29 is the latest; celebrated on the last Saturday of April. (<a href="/wiki/Colombia" title="Colombia">Colombia</a>)</li>
+<li><a href="/wiki/Castile_and_Le%C3%B3n_Day" title="Castile and León Day">Castile and León Day</a> (<a href="/wiki/Castile_and_Le%C3%B3n" title="Castile and León">Castile and León</a>, <a href="/wiki/Spain" title="Spain">Spain</a>)</li>
+<li><a href="/wiki/Independence_Day" class="mw-redirect" title="Independence Day">Independence Day</a> (<a href="/wiki/Conch_Republic" title="Conch Republic">Conch Republic</a>, <a href="/wiki/Key_West,_Florida" title="Key West, Florida">Key West, Florida</a>)</li>
+<li><a href="/wiki/International_Pixel-Stained_Technopeasant_Day" title="International Pixel-Stained Technopeasant Day">International Pixel-Stained Technopeasant Day</a></li>
+<li><a href="/wiki/Khongjom_Day" class="mw-redirect" title="Khongjom Day">Khongjom Day</a> (<a href="/wiki/Manipur" title="Manipur">Manipur</a>, <a href="/wiki/India" title="India">India</a>)</li>
+<li><a href="/wiki/National_Sovereignty_and_Children%27s_Day" title="National Sovereignty and Children's Day">National Sovereignty and Children's Day</a> (<a href="/wiki/Turkey" title="Turkey">Turkey</a> and <a href="/wiki/Northern_Cyprus" title="Northern Cyprus">Northern Cyprus</a>)</li>
+<li><a href="/wiki/Navy_Day_(China)" class="mw-redirect" title="Navy Day (China)">Navy Day (China)</a></li>
+<li><a href="/wiki/St_George%27s_Day" class="mw-redirect" title="St George's Day">St George's Day</a> (<a href="/wiki/England" title="England">England</a>) and its related observances:
+<ul>
+<li><a href="/wiki/Canada_Book_Day" title="Canada Book Day">Canada Book Day</a> (<a href="/wiki/Canada" title="Canada">Canada</a>)</li>
+<li><a href="/wiki/St_George%27s_Day#Catalonia" class="mw-redirect" title="St George's Day">La Diada de Sant Jordi</a> (<a href="/wiki/Catalonia" title="Catalonia">Catalonia</a>, <a href="/wiki/Spain" title="Spain">Spain</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/World_Book_Day" title="World Book Day">World Book Day</a></li>
+<li><a href="/wiki/UN_English_Language_Day" title="UN English Language Day">UN English Language Day</a> (<a href="/wiki/United_Nations" title="United Nations">United Nations</a>)</li>
+<li><a href="/wiki/Yom_HaShoah" title="Yom HaShoah">Yom HaShoah</a> (2017) - begins at sundown</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=April_23&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/April_23" class="extiw" title="commons:Special:Search/April 23">April 23</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/onthisday/hi/dates/stories/april/23">BBC: On This Day</a></li>
+<li class="mw-empty-elt"></li>
+<li><a rel="nofollow" class="external text" href="https://learning.blogs.nytimes.com/on-this-day/April-23"><i>The New York Times</i>: On This Day</a></li>
+<li><a rel="nofollow" class="external text" href="http://canadachannel.ca/todayincanadianhistory/index.php/April_23">Today in Canadian History</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Months_and_days_of_the_year" style="width:auto;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Months" title="Template:Months"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Months" title="Template talk:Months"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Months&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Months_and_days_of_the_year" style="font-size:114%;margin:0 4em">Months and days of the year</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b>Today:</b> <a class="mw-selflink selflink">April 23</a>, <a href="/wiki/2017" title="2017">2017</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/January" title="January">January</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/January_1" title="January 1">1</a> <a href="/wiki/January_2" title="January 2">2</a> <a href="/wiki/January_3" title="January 3">3</a> <a href="/wiki/January_4" title="January 4">4</a> <a href="/wiki/January_5" title="January 5">5</a> <a href="/wiki/January_6" title="January 6">6</a> <a href="/wiki/January_7" title="January 7">7</a> <a href="/wiki/January_8" title="January 8">8</a> <a href="/wiki/January_9" title="January 9">9</a> <a href="/wiki/January_10" title="January 10">10</a> <a href="/wiki/January_11" title="January 11">11</a> <a href="/wiki/January_12" title="January 12">12</a> <a href="/wiki/January_13" title="January 13">13</a> <a href="/wiki/January_14" title="January 14">14</a> <a href="/wiki/January_15" title="January 15">15</a> <a href="/wiki/January_16" title="January 16">16</a> <a href="/wiki/January_17" title="January 17">17</a> <a href="/wiki/January_18" title="January 18">18</a> <a href="/wiki/January_19" title="January 19">19</a> <a href="/wiki/January_20" title="January 20">20</a> <a href="/wiki/January_21" title="January 21">21</a> <a href="/wiki/January_22" title="January 22">22</a> <a href="/wiki/January_23" title="January 23">23</a> <a href="/wiki/January_24" title="January 24">24</a> <a href="/wiki/January_25" title="January 25">25</a> <a href="/wiki/January_26" title="January 26">26</a> <a href="/wiki/January_27" title="January 27">27</a> <a href="/wiki/January_28" title="January 28">28</a> <a href="/wiki/January_29" title="January 29">29</a> <a href="/wiki/January_30" title="January 30">30</a> <a href="/wiki/January_31" title="January 31">31</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/February" title="February">February</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/February_1" title="February 1">1</a> <a href="/wiki/February_2" title="February 2">2</a> <a href="/wiki/February_3" title="February 3">3</a> <a href="/wiki/February_4" title="February 4">4</a> <a href="/wiki/February_5" title="February 5">5</a> <a href="/wiki/February_6" title="February 6">6</a> <a href="/wiki/February_7" title="February 7">7</a> <a href="/wiki/February_8" title="February 8">8</a> <a href="/wiki/February_9" title="February 9">9</a> <a href="/wiki/February_10" title="February 10">10</a> <a href="/wiki/February_11" title="February 11">11</a> <a href="/wiki/February_12" title="February 12">12</a> <a href="/wiki/February_13" title="February 13">13</a> <a href="/wiki/February_14" title="February 14">14</a> <a href="/wiki/February_15" title="February 15">15</a> <a href="/wiki/February_16" title="February 16">16</a> <a href="/wiki/February_17" title="February 17">17</a> <a href="/wiki/February_18" title="February 18">18</a> <a href="/wiki/February_19" title="February 19">19</a> <a href="/wiki/February_20" title="February 20">20</a> <a href="/wiki/February_21" title="February 21">21</a> <a href="/wiki/February_22" title="February 22">22</a> <a href="/wiki/February_23" title="February 23">23</a> <a href="/wiki/February_24" title="February 24">24</a> <a href="/wiki/February_25" title="February 25">25</a> <a href="/wiki/February_26" title="February 26">26</a> <a href="/wiki/February_27" title="February 27">27</a> <a href="/wiki/February_28" title="February 28">28</a> <a href="/wiki/February_29" title="February 29">29</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/March" title="March">March</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/March_1" title="March 1">1</a> <a href="/wiki/March_2" title="March 2">2</a> <a href="/wiki/March_3" title="March 3">3</a> <a href="/wiki/March_4" title="March 4">4</a> <a href="/wiki/March_5" title="March 5">5</a> <a href="/wiki/March_6" title="March 6">6</a> <a href="/wiki/March_7" title="March 7">7</a> <a href="/wiki/March_8" title="March 8">8</a> <a href="/wiki/March_9" title="March 9">9</a> <a href="/wiki/March_10" title="March 10">10</a> <a href="/wiki/March_11" title="March 11">11</a> <a href="/wiki/March_12" title="March 12">12</a> <a href="/wiki/March_13" title="March 13">13</a> <a href="/wiki/March_14" title="March 14">14</a> <a href="/wiki/March_15" title="March 15">15</a> <a href="/wiki/March_16" title="March 16">16</a> <a href="/wiki/March_17" title="March 17">17</a> <a href="/wiki/March_18" title="March 18">18</a> <a href="/wiki/March_19" title="March 19">19</a> <a href="/wiki/March_20" title="March 20">20</a> <a href="/wiki/March_21" title="March 21">21</a> <a href="/wiki/March_22" title="March 22">22</a> <a href="/wiki/March_23" title="March 23">23</a> <a href="/wiki/March_24" title="March 24">24</a> <a href="/wiki/March_25" title="March 25">25</a> <a href="/wiki/March_26" title="March 26">26</a> <a href="/wiki/March_27" title="March 27">27</a> <a href="/wiki/March_28" title="March 28">28</a> <a href="/wiki/March_29" title="March 29">29</a> <a href="/wiki/March_30" title="March 30">30</a> <a href="/wiki/March_31" title="March 31">31</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/April" title="April">April</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/April_1" title="April 1">1</a> <a href="/wiki/April_2" title="April 2">2</a> <a href="/wiki/April_3" title="April 3">3</a> <a href="/wiki/April_4" title="April 4">4</a> <a href="/wiki/April_5" title="April 5">5</a> <a href="/wiki/April_6" title="April 6">6</a> <a href="/wiki/April_7" title="April 7">7</a> <a href="/wiki/April_8" title="April 8">8</a> <a href="/wiki/April_9" title="April 9">9</a> <a href="/wiki/April_10" title="April 10">10</a> <a href="/wiki/April_11" title="April 11">11</a> <a href="/wiki/April_12" title="April 12">12</a> <a href="/wiki/April_13" title="April 13">13</a> <a href="/wiki/April_14" title="April 14">14</a> <a href="/wiki/April_15" title="April 15">15</a> <a href="/wiki/April_16" title="April 16">16</a> <a href="/wiki/April_17" title="April 17">17</a> <a href="/wiki/April_18" title="April 18">18</a> <a href="/wiki/April_19" title="April 19">19</a> <a href="/wiki/April_20" title="April 20">20</a> <a href="/wiki/April_21" title="April 21">21</a> <a href="/wiki/April_22" title="April 22">22</a> <a class="mw-selflink selflink">23</a> <a href="/wiki/April_24" title="April 24">24</a> <a href="/wiki/April_25" title="April 25">25</a> <a href="/wiki/April_26" title="April 26">26</a> <a href="/wiki/April_27" title="April 27">27</a> <a href="/wiki/April_28" title="April 28">28</a> <a href="/wiki/April_29" title="April 29">29</a> <a href="/wiki/April_30" title="April 30">30</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/May" title="May">May</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/May_1" title="May 1">1</a> <a href="/wiki/May_2" title="May 2">2</a> <a href="/wiki/May_3" title="May 3">3</a> <a href="/wiki/May_4" title="May 4">4</a> <a href="/wiki/May_5" title="May 5">5</a> <a href="/wiki/May_6" title="May 6">6</a> <a href="/wiki/May_7" title="May 7">7</a> <a href="/wiki/May_8" title="May 8">8</a> <a href="/wiki/May_9" title="May 9">9</a> <a href="/wiki/May_10" title="May 10">10</a> <a href="/wiki/May_11" title="May 11">11</a> <a href="/wiki/May_12" title="May 12">12</a> <a href="/wiki/May_13" title="May 13">13</a> <a href="/wiki/May_14" title="May 14">14</a> <a href="/wiki/May_15" title="May 15">15</a> <a href="/wiki/May_16" title="May 16">16</a> <a href="/wiki/May_17" title="May 17">17</a> <a href="/wiki/May_18" title="May 18">18</a> <a href="/wiki/May_19" title="May 19">19</a> <a href="/wiki/May_20" title="May 20">20</a> <a href="/wiki/May_21" title="May 21">21</a> <a href="/wiki/May_22" title="May 22">22</a> <a href="/wiki/May_23" title="May 23">23</a> <a href="/wiki/May_24" title="May 24">24</a> <a href="/wiki/May_25" title="May 25">25</a> <a href="/wiki/May_26" title="May 26">26</a> <a href="/wiki/May_27" title="May 27">27</a> <a href="/wiki/May_28" title="May 28">28</a> <a href="/wiki/May_29" title="May 29">29</a> <a href="/wiki/May_30" title="May 30">30</a> <a href="/wiki/May_31" title="May 31">31</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/June" title="June">June</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/June_1" title="June 1">1</a> <a href="/wiki/June_2" title="June 2">2</a> <a href="/wiki/June_3" title="June 3">3</a> <a href="/wiki/June_4" title="June 4">4</a> <a href="/wiki/June_5" title="June 5">5</a> <a href="/wiki/June_6" title="June 6">6</a> <a href="/wiki/June_7" title="June 7">7</a> <a href="/wiki/June_8" title="June 8">8</a> <a href="/wiki/June_9" title="June 9">9</a> <a href="/wiki/June_10" title="June 10">10</a> <a href="/wiki/June_11" title="June 11">11</a> <a href="/wiki/June_12" title="June 12">12</a> <a href="/wiki/June_13" title="June 13">13</a> <a href="/wiki/June_14" title="June 14">14</a> <a href="/wiki/June_15" title="June 15">15</a> <a href="/wiki/June_16" title="June 16">16</a> <a href="/wiki/June_17" title="June 17">17</a> <a href="/wiki/June_18" title="June 18">18</a> <a href="/wiki/June_19" title="June 19">19</a> <a href="/wiki/June_20" title="June 20">20</a> <a href="/wiki/June_21" title="June 21">21</a> <a href="/wiki/June_22" title="June 22">22</a> <a href="/wiki/June_23" title="June 23">23</a> <a href="/wiki/June_24" title="June 24">24</a> <a href="/wiki/June_25" title="June 25">25</a> <a href="/wiki/June_26" title="June 26">26</a> <a href="/wiki/June_27" title="June 27">27</a> <a href="/wiki/June_28" title="June 28">28</a> <a href="/wiki/June_29" title="June 29">29</a> <a href="/wiki/June_30" title="June 30">30</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/July" title="July">July</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/July_1" title="July 1">1</a> <a href="/wiki/July_2" title="July 2">2</a> <a href="/wiki/July_3" title="July 3">3</a> <a href="/wiki/July_4" title="July 4">4</a> <a href="/wiki/July_5" title="July 5">5</a> <a href="/wiki/July_6" title="July 6">6</a> <a href="/wiki/July_7" title="July 7">7</a> <a href="/wiki/July_8" title="July 8">8</a> <a href="/wiki/July_9" title="July 9">9</a> <a href="/wiki/July_10" title="July 10">10</a> <a href="/wiki/July_11" title="July 11">11</a> <a href="/wiki/July_12" title="July 12">12</a> <a href="/wiki/July_13" title="July 13">13</a> <a href="/wiki/July_14" title="July 14">14</a> <a href="/wiki/July_15" title="July 15">15</a> <a href="/wiki/July_16" title="July 16">16</a> <a href="/wiki/July_17" title="July 17">17</a> <a href="/wiki/July_18" title="July 18">18</a> <a href="/wiki/July_19" title="July 19">19</a> <a href="/wiki/July_20" title="July 20">20</a> <a href="/wiki/July_21" title="July 21">21</a> <a href="/wiki/July_22" title="July 22">22</a> <a href="/wiki/July_23" title="July 23">23</a> <a href="/wiki/July_24" title="July 24">24</a> <a href="/wiki/July_25" title="July 25">25</a> <a href="/wiki/July_26" title="July 26">26</a> <a href="/wiki/July_27" title="July 27">27</a> <a href="/wiki/July_28" title="July 28">28</a> <a href="/wiki/July_29" title="July 29">29</a> <a href="/wiki/July_30" title="July 30">30</a> <a href="/wiki/July_31" title="July 31">31</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/August" title="August">August</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/August_1" title="August 1">1</a> <a href="/wiki/August_2" title="August 2">2</a> <a href="/wiki/August_3" title="August 3">3</a> <a href="/wiki/August_4" title="August 4">4</a> <a href="/wiki/August_5" title="August 5">5</a> <a href="/wiki/August_6" title="August 6">6</a> <a href="/wiki/August_7" title="August 7">7</a> <a href="/wiki/August_8" title="August 8">8</a> <a href="/wiki/August_9" title="August 9">9</a> <a href="/wiki/August_10" title="August 10">10</a> <a href="/wiki/August_11" title="August 11">11</a> <a href="/wiki/August_12" title="August 12">12</a> <a href="/wiki/August_13" title="August 13">13</a> <a href="/wiki/August_14" title="August 14">14</a> <a href="/wiki/August_15" title="August 15">15</a> <a href="/wiki/August_16" title="August 16">16</a> <a href="/wiki/August_17" title="August 17">17</a> <a href="/wiki/August_18" title="August 18">18</a> <a href="/wiki/August_19" title="August 19">19</a> <a href="/wiki/August_20" title="August 20">20</a> <a href="/wiki/August_21" title="August 21">21</a> <a href="/wiki/August_22" title="August 22">22</a> <a href="/wiki/August_23" title="August 23">23</a> <a href="/wiki/August_24" title="August 24">24</a> <a href="/wiki/August_25" title="August 25">25</a> <a href="/wiki/August_26" title="August 26">26</a> <a href="/wiki/August_27" title="August 27">27</a> <a href="/wiki/August_28" title="August 28">28</a> <a href="/wiki/August_29" title="August 29">29</a> <a href="/wiki/August_30" title="August 30">30</a> <a href="/wiki/August_31" title="August 31">31</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/September" title="September">September</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/September_1" title="September 1">1</a> <a href="/wiki/September_2" title="September 2">2</a> <a href="/wiki/September_3" title="September 3">3</a> <a href="/wiki/September_4" title="September 4">4</a> <a href="/wiki/September_5" title="September 5">5</a> <a href="/wiki/September_6" title="September 6">6</a> <a href="/wiki/September_7" title="September 7">7</a> <a href="/wiki/September_8" title="September 8">8</a> <a href="/wiki/September_9" title="September 9">9</a> <a href="/wiki/September_10" title="September 10">10</a> <a href="/wiki/September_11" title="September 11">11</a> <a href="/wiki/September_12" title="September 12">12</a> <a href="/wiki/September_13" title="September 13">13</a> <a href="/wiki/September_14" title="September 14">14</a> <a href="/wiki/September_15" title="September 15">15</a> <a href="/wiki/September_16" title="September 16">16</a> <a href="/wiki/September_17" title="September 17">17</a> <a href="/wiki/September_18" title="September 18">18</a> <a href="/wiki/September_19" title="September 19">19</a> <a href="/wiki/September_20" title="September 20">20</a> <a href="/wiki/September_21" title="September 21">21</a> <a href="/wiki/September_22" title="September 22">22</a> <a href="/wiki/September_23" title="September 23">23</a> <a href="/wiki/September_24" title="September 24">24</a> <a href="/wiki/September_25" title="September 25">25</a> <a href="/wiki/September_26" title="September 26">26</a> <a href="/wiki/September_27" title="September 27">27</a> <a href="/wiki/September_28" title="September 28">28</a> <a href="/wiki/September_29" title="September 29">29</a> <a href="/wiki/September_30" title="September 30">30</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/October" title="October">October</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/October_1" title="October 1">1</a> <a href="/wiki/October_2" title="October 2">2</a> <a href="/wiki/October_3" title="October 3">3</a> <a href="/wiki/October_4" title="October 4">4</a> <a href="/wiki/October_5" title="October 5">5</a> <a href="/wiki/October_6" title="October 6">6</a> <a href="/wiki/October_7" title="October 7">7</a> <a href="/wiki/October_8" title="October 8">8</a> <a href="/wiki/October_9" title="October 9">9</a> <a href="/wiki/October_10" title="October 10">10</a> <a href="/wiki/October_11" title="October 11">11</a> <a href="/wiki/October_12" title="October 12">12</a> <a href="/wiki/October_13" title="October 13">13</a> <a href="/wiki/October_14" title="October 14">14</a> <a href="/wiki/October_15" title="October 15">15</a> <a href="/wiki/October_16" title="October 16">16</a> <a href="/wiki/October_17" title="October 17">17</a> <a href="/wiki/October_18" title="October 18">18</a> <a href="/wiki/October_19" title="October 19">19</a> <a href="/wiki/October_20" title="October 20">20</a> <a href="/wiki/October_21" title="October 21">21</a> <a href="/wiki/October_22" title="October 22">22</a> <a href="/wiki/October_23" title="October 23">23</a> <a href="/wiki/October_24" title="October 24">24</a> <a href="/wiki/October_25" title="October 25">25</a> <a href="/wiki/October_26" title="October 26">26</a> <a href="/wiki/October_27" title="October 27">27</a> <a href="/wiki/October_28" title="October 28">28</a> <a href="/wiki/October_29" title="October 29">29</a> <a href="/wiki/October_30" title="October 30">30</a> <a href="/wiki/October_31" title="October 31">31</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/November" title="November">November</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/November_1" title="November 1">1</a> <a href="/wiki/November_2" title="November 2">2</a> <a href="/wiki/November_3" title="November 3">3</a> <a href="/wiki/November_4" title="November 4">4</a> <a href="/wiki/November_5" title="November 5">5</a> <a href="/wiki/November_6" title="November 6">6</a> <a href="/wiki/November_7" title="November 7">7</a> <a href="/wiki/November_8" title="November 8">8</a> <a href="/wiki/November_9" title="November 9">9</a> <a href="/wiki/November_10" title="November 10">10</a> <a href="/wiki/November_11" title="November 11">11</a> <a href="/wiki/November_12" title="November 12">12</a> <a href="/wiki/November_13" title="November 13">13</a> <a href="/wiki/November_14" title="November 14">14</a> <a href="/wiki/November_15" title="November 15">15</a> <a href="/wiki/November_16" title="November 16">16</a> <a href="/wiki/November_17" title="November 17">17</a> <a href="/wiki/November_18" title="November 18">18</a> <a href="/wiki/November_19" title="November 19">19</a> <a href="/wiki/November_20" title="November 20">20</a> <a href="/wiki/November_21" title="November 21">21</a> <a href="/wiki/November_22" title="November 22">22</a> <a href="/wiki/November_23" title="November 23">23</a> <a href="/wiki/November_24" title="November 24">24</a> <a href="/wiki/November_25" title="November 25">25</a> <a href="/wiki/November_26" title="November 26">26</a> <a href="/wiki/November_27" title="November 27">27</a> <a href="/wiki/November_28" title="November 28">28</a> <a href="/wiki/November_29" title="November 29">29</a> <a href="/wiki/November_30" title="November 30">30</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/December" title="December">December</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/December_1" title="December 1">1</a> <a href="/wiki/December_2" title="December 2">2</a> <a href="/wiki/December_3" title="December 3">3</a> <a href="/wiki/December_4" title="December 4">4</a> <a href="/wiki/December_5" title="December 5">5</a> <a href="/wiki/December_6" title="December 6">6</a> <a href="/wiki/December_7" title="December 7">7</a> <a href="/wiki/December_8" title="December 8">8</a> <a href="/wiki/December_9" title="December 9">9</a> <a href="/wiki/December_10" title="December 10">10</a> <a href="/wiki/December_11" title="December 11">11</a> <a href="/wiki/December_12" title="December 12">12</a> <a href="/wiki/December_13" title="December 13">13</a> <a href="/wiki/December_14" title="December 14">14</a> <a href="/wiki/December_15" title="December 15">15</a> <a href="/wiki/December_16" title="December 16">16</a> <a href="/wiki/December_17" title="December 17">17</a> <a href="/wiki/December_18" title="December 18">18</a> <a href="/wiki/December_19" title="December 19">19</a> <a href="/wiki/December_20" title="December 20">20</a> <a href="/wiki/December_21" title="December 21">21</a> <a href="/wiki/December_22" title="December 22">22</a> <a href="/wiki/December_23" title="December 23">23</a> <a href="/wiki/December_24" title="December 24">24</a> <a href="/wiki/December_25" title="December 25">25</a> <a href="/wiki/December_26" title="December 26">26</a> <a href="/wiki/December_27" title="December 27">27</a> <a href="/wiki/December_28" title="December 28">28</a> <a href="/wiki/December_29" title="December 29">29</a> <a href="/wiki/December_30" title="December 30">30</a> <a href="/wiki/December_31" title="December 31">31</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>Related:
+<ul>
+<li><a href="/wiki/January_0" title="January 0">January 0</a></li>
+<li><a href="/wiki/February_30" title="February 30">February 30</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://time.com/3833222/first-youtube-video/">"This Is the First Ever YouTube Video"</a>. <i>Time</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApril+23&amp;rft.atitle=This+Is+the+First+Ever+YouTube+Video&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftime.com%2F3833222%2Ffirst-youtube-video%2F&amp;rft.jtitle=Time&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2202
+Cached time: 20170423223306
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.272 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 2299/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 53624/2097152 bytes
+Template argument size: 3356/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 14/500
+Lua time usage: 0.056/10.000 seconds
+Lua memory usage: 1.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  339.205      1 -total
+ 17.38%   58.968      1 Template:Pp-pc1
+ 13.54%   45.922      1 Template:Calendar
+  8.99%   30.510      1 Template:Calendar/month/link_on
+  8.04%   27.258      1 Template:Cite_web
+  7.53%   25.537      1 Template:This_date_in_recent_years
+  7.04%   23.869      1 Template:Calendar/Sun1stMonthStartSat
+  7.04%   23.869      1 Template:This_date_in_recent_years/validate
+  6.70%   22.722      1 Template:ThisDateInRecentYears/title
+  5.68%   19.274      1 Template:ThisDateInRecentYears/table
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1827-0!*!0!!en!4!* and timestamp 20170423223309 and revision id 776885999
+ -->
+
+<!-- Saved in parser cache with key enwiki:stable-pcache:idhash:1827-0!*!0!!en!4!* and timestamp 20170423223310 and revision id 776885999
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=April_23&amp;oldid=776885999">https://en.wikipedia.org/w/index.php?title=April_23&amp;oldid=776885999</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Days_of_the_year" title="Category:Days of the year">Days of the year</a></li><li><a href="/wiki/Category:April" title="Category:April">April</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_pending_changes_protected_pages_(level_1)" title="Category:Wikipedia pending changes protected pages (level 1)">Wikipedia pending changes protected pages (level 1)</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=April+23" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=April+23" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/April_23"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:April_23"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/April_23" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=April_23&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=April_23&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/April_23" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/April_23" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=April_23&amp;oldid=776885999" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=April_23&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2527" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=April_23&amp;id=776885999" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=April+23">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=April+23&amp;returnto=April+23&amp;oldid=776885999&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=April_23&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:23_April" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/April_23" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/23_April" title="23 April – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/23._April" title="23. April – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/23_April" title="23 April – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%9C%D1%88%D0%B0%D2%A7%D1%8B_23" title="Мшаҧы 23 – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/23_%D8%A3%D8%A8%D8%B1%D9%8A%D9%84" title="23 أبريل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/23_d%27abril" title="23 d'abril – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/23_avril" title="23 avril – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/23_d%27abril" title="23 d'abril – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/23_jasyrundy" title="23 jasyrundy – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/23_%D0%90%D0%BF%D1%80%D0%B5%D0%BB" title="23 Апрел – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/23_aprel" title="23 aprel – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A7%A8%E0%A7%A9_%E0%A6%8F%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B2" title="২৩ এপ্রিল – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/4_goe%CC%8Dh_23_ji%CC%8Dt" title="4 goe̍h 23 ji̍t – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/23_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8C" title="23 апрель – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/23_%D0%BA%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D1%96%D0%BA%D0%B0" title="23 красавіка – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/23_%D0%BA%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D1%96%D0%BA%D0%B0" title="23 красавіка – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A9_%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B2" title="२३ अप्रैल – भोजपुरी" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Abril_23" title="Abril 23 – Bikol Central" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/23_%D0%B0%D0%BF%D1%80%D0%B8%D0%BB" title="23 април – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/23._april" title="23. april – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/23_Ebrel" title="23 Ebrel – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/23_d%27abril" title="23 d'abril – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0,_23" title="Ака, 23 – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Abril_23" title="Abril 23 – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/23._duben" title="23. duben – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/23_d%27aprile" title="23 d'aprile – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/23_Ebrill" title="23 Ebrill – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/23._april" title="23. april – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/23._April" title="23. April – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%87%DE%AC%DE%95%DE%B0%DE%83%DE%A9%DE%8D%DE%B0_23" title="އެޕްރީލް 23 – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/23._aprill" title="23. aprill – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/23_%CE%91%CF%80%CF%81%CE%B9%CE%BB%CE%AF%CE%BF%CF%85" title="23 Απριλίου – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/23_d%27avr%C3%ACl" title="23 d'avrìl – Emiliano-Romagnolo" lang="eml" hreflang="eml" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B4%D1%8B%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_23_%D1%87%D0%B8" title="Чадыковонь 23 чи – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/23_de_abril" title="23 de abril – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/23-a_de_aprilo" title="23-a de aprilo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/23_abril" title="23 abril – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Apirilaren_23" title="Apirilaren 23 – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%B2%DB%B3_%D8%A2%D9%88%D8%B1%DB%8C%D9%84" title="۲۳ آوریل – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/23_April" title="23 April – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/23._apr%C3%ADl" title="23. apríl – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/23_avril" title="23 avril – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/23_april" title="23 april – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/23_di_Avr%C3%AEl" title="23 di Avrîl – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/23_Aibre%C3%A1n" title="23 Aibreán – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/23_Averil" title="23 Averil – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/23_an_Giblean" title="23 an Giblean – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/23_de_abril" title="23 de abril – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/4%E6%9C%8823%E8%99%9F" title="4月23號 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%8F%E0%AA%AA%E0%AB%8D%E0%AA%B0%E0%AA%BF%E0%AA%B2_%E0%AB%A8%E0%AB%A9" title="એપ્રિલ ૨૩ – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/4-ngie%CC%8Dt_23-ngit" title="4-ngie̍t 23-ngit – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9C%D3%A9%D1%80%D0%BD_%D1%81%D0%B0%D1%80%D0%B8%D0%BD_23" title="Мөрн сарин 23 – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/4%EC%9B%94_23%EC%9D%BC" title="4월 23일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%BA%D6%80%D5%AB%D5%AC%D5%AB_23" title="Ապրիլի 23 – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A9_%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B2" title="२३ अप्रैल – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/23._apryla" title="23. apryla – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/23._travnja" title="23. travnja – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/23ma_di_aprilo" title="23ma di aprilo – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/23_Eprel" title="23 Eprel – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Abril_23" title="Abril 23 – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%8F%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B2_%E0%A7%A8%E0%A7%A9" title="এপ্রিল ২৩ – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/23_April" title="23 April – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/23_de_april" title="23 de april – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/23_april" title="23 april – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/23_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8B" title="23 апрелы – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/23._apr%C3%ADl" title="23. apríl – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/23_aprile" title="23 aprile – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/23_%D7%91%D7%90%D7%A4%D7%A8%D7%99%D7%9C" title="23 באפריל – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/23_April" title="23 April – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Apriili_23" title="Apriili 23 – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%8F%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BF%E0%B2%B2%E0%B3%8D_%E0%B3%A8%E0%B3%A9" title="ಏಪ್ರಿಲ್ ೨೩ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Abril_23" title="Abril 23 – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/23_%E1%83%90%E1%83%9E%E1%83%A0%E1%83%98%E1%83%9A%E1%83%98" title="23 აპრილი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/23_%C5%82%C5%BC%C3%ABkwiata" title="23 łżëkwiata – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/23_%D1%81%D3%99%D1%83%D1%96%D1%80" title="23 сәуір – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/23_Mata" title="23 Mata – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/23_Aprili" title="23 Aprili – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/23_%D0%BA%D0%BE%D1%81_%D0%BC%D1%83" title="23 кос му – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/23_avril" title="23 avril – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/23%27%C3%AA_avr%C3%AAl%C3%AA" title="23'ê avrêlê – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/23_Aprilis" title="23 Aprilis – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/23._apr%C4%ABlis" title="23. aprīlis – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/23._Abr%C3%ABll" title="23. Abrëll – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Baland%C5%BEio_23" title="Balandžio 23 – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/23_april" title="23 april – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/23._sulakuudu" title="23. sulakuudu – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li><li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/vonma%27i_23moi" title="vonma'i 23moi – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/23_04" title="23 04 – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%81prilis_23." title="Április 23. – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A9_%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B2" title="२३ अप्रैल – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/23_%D0%B0%D0%BF%D1%80%D0%B8%D0%BB" title="23 април – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/23_Aprily" title="23 Aprily – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%8F%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B5%BD_23" title="ഏപ്രിൽ 23 – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B2_%E0%A5%A8%E0%A5%A9" title="एप्रिल २३ – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/23_%E1%83%9E%E1%83%98%E1%83%A0%E1%83%94%E1%83%9A%E1%83%98" title="23 პირელი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/23_%D8%A7%D8%A8%D8%B1%D9%8A%D9%84" title="23 ابريل – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/23_April" title="23 April – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/4_ngu%C5%8Fk_23_h%C3%B4%CC%A4" title="4 nguŏk 23 hô̤ – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/4_%D1%81%D0%B0%D1%80%D1%8B%D0%BD_23" title="4 сарын 23 – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%81%82%E1%81%83_%E1%80%A7%E1%80%95%E1%80%BC%E1%80%AE" title="၂၃ ဧပြီ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Tlan%C4%81uhti_23" title="Tlanāuhti 23 – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/23_april" title="23 april – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/23_april" title="23 april – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A9_%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B2" title="२३ अप्रिल – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B2_%E0%A5%A8%E0%A5%A9" title="अप्रिल २३ – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/4%E6%9C%8823%E6%97%A5" title="4月23日 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/23_%27e_abbrile" title="23 'e abbrile – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/23_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8C" title="23 апрель – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/23._april" title="23. april – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/23._april" title="23. april – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/23_Avri" title="23 Avri – Nouormand" lang="nrm" hreflang="nrm" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/23_d%27abril" title="23 d'abril – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/23_%D0%92%D3%B1%D0%B4%D1%88%D0%BE%D1%80" title="23 Вӱдшор – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AD%A8%E0%AD%A9_%E0%AC%85%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AD%87%E0%AC%B2" title="୨୩ ଅପ୍ରେଲ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/23-aprel" title="23-aprel – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/23_%E0%A8%85%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A9%88%E0%A8%B2" title="23 ਅਪ੍ਰੈਲ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/23_%D8%A7%D9%BE%D8%B1%DB%8C%D9%84" title="23 اپریل – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%90%D0%BF%D1%80%D0%B5%D0%BB%D1%8C_23%E2%80%99_%D0%BB%D1%83%D0%BD" title="Апрель 23’ лун – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем Коми</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/23._April" title="23. April – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/23_kwietnia" title="23 kwietnia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/23_de_abril" title="23 de abril – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/23._Apprill" title="23. Apprill – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/23_aprilie" title="23 aprilie – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/23_%C3%B1iqin_ayriway_killapi" title="23 ñiqin ayriway killapi – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/23._%D0%B0%D0%BF%D1%80%D1%96%D0%BB%D1%8C" title="23. апріль – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/23_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="23 апреля – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9C%D1%83%D1%83%D1%81_%D1%83%D1%81%D1%82%D0%B0%D1%80_23" title="Муус устар 23 – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Cuo%C5%8Bom%C3%A1nu_23." title="Cuoŋománu 23. – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Sámegiella</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A9_%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B2" title="२३ अप्रैल – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/23_Aprile" title="23 Aprile – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Moranang_23" title="Moranang 23 – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/23_Prill" title="23 Prill – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/23_di_aprili" title="23 di aprili – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/April_23" title="April 23 – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/23._apr%C3%ADl" title="23. apríl – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/23._april" title="23. april – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/23_kwjet%C5%84a" title="23 kwjetńa – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%A2%D9%A3%DB%8C_%D9%86%DB%8C%D8%B3%D8%A7%D9%86" title="٢٣ی نیسان – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/23._%D0%B0%D0%BF%D1%80%D0%B8%D0%BB" title="23. април – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/23._4." title="23. 4. – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/23_April" title="23 April – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/23._huhtikuuta" title="23. huhtikuuta – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/23_april" title="23 april – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Abril_23" title="Abril 23 – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%8F%E0%AE%AA%E0%AF%8D%E0%AE%B0%E0%AE%B2%E0%AF%8D_23" title="ஏப்ரல் 23 – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/23_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8C" title="23 апрель – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%8F%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%BF%E0%B0%B2%E0%B1%8D_23" title="ఏప్రిల్ 23 – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/23_%E0%B9%80%E0%B8%A1%E0%B8%A9%E0%B8%B2%E0%B8%A2%E0%B8%99" title="23 เมษายน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/23_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB" title="23 апрел – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/23_Nisan" title="23 Nisan – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/23_aprel" title="23 aprel – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-tyv"><a href="https://tyv.wikipedia.org/wiki/23_%D0%94%D3%A9%D1%80%D1%82_%D0%B0%D0%B9" title="23 Дөрт ай – Tuvinian" lang="tyv" hreflang="tyv" class="interlanguage-link-target">Тыва дыл</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/23_%D0%BA%D0%B2%D1%96%D1%82%D0%BD%D1%8F" title="23 квітня – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/23_%D8%A7%D9%BE%D8%B1%DB%8C%D9%84" title="23 اپریل – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/23-_%D8%A6%DB%88%D9%85%D9%89%D8%AF" title="23- ئۈمىد – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/23_de_apri%C5%82e" title="23 de apriłe – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/23_th%C3%A1ng_4" title="23 tháng 4 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Prilul_23" title="Prilul 23 – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/23._mahlakuu_p%C3%A4iv" title="23. mahlakuu päiv – Võro" lang="fiu-vro" hreflang="fiu-vro" class="interlanguage-link-target">Võro</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/23_d%27_avri" title="23 d' avri – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/23_april" title="23 april – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Abril_23" title="Abril 23 – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/23%D7%A1%D7%98%D7%9F_%D7%90%D7%A4%D7%A8%D7%99%D7%9C" title="23סטן אפריל – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/23_April" title="23 April – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/4%E6%9C%8823%E8%99%9F" title="4月23號 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/23_Nisane" title="23 Nisane – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Balond%C4%97_23" title="Balondė 23 – Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/4%E6%9C%8823%E6%97%A5" title="4月23日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2527#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 April 2017, at 22:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=April_23&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.374","ppvisitednodes":{"value":2299,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":53624,"limit":2097152},"templateargumentsize":{"value":3356,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  339.205      1 -total"," 17.38%   58.968      1 Template:Pp-pc1"," 13.54%   45.922      1 Template:Calendar","  8.99%   30.510      1 Template:Calendar/month/link_on","  8.04%   27.258      1 Template:Cite_web","  7.53%   25.537      1 Template:This_date_in_recent_years","  7.04%   23.869      1 Template:Calendar/Sun1stMonthStartSat","  7.04%   23.869      1 Template:This_date_in_recent_years/validate","  6.70%   22.722      1 Template:ThisDateInRecentYears/title","  5.68%   19.274      1 Template:ThisDateInRecentYears/table"]},"scribunto":{"limitreport-timeusage":{"value":"0.056","limit":"10.000"},"limitreport-memusage":{"value":2072602,"limit":52428800}},"cachereport":{"origin":"mw2202","timestamp":"20170423223306","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw2115"});});</script>
+	</body>
+</html>

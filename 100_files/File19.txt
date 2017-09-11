@@ -1,0 +1,529 @@
+https://en.wikipedia.org/wiki/1933_NCAA_Men%27s_Basketball_All-Americans
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1933 NCAA Men's Basketball All-Americans - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1933_NCAA_Men's_Basketball_All-Americans","wgTitle":"1933 NCAA Men's Basketball All-Americans","wgCurRevisionId":627690467,"wgRevisionId":627690467,"wgArticleId":18828286,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["NCAA Men's Basketball All-Americans","1932–33 NCAA men's basketball season"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1933_NCAA_Men's_Basketball_All-Americans","wgRelevantArticleId":18828286,"wgRequestId":"WPqZkgrAADEAAOC0omYAAABQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4563238","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1933_NCAA_Men%27s_Basketball_All-Americans"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1933_NCAA_Men%27s_Basketball_All-Americans"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1933_NCAA_Men_s_Basketball_All-Americans rootpage-1933_NCAA_Men_s_Basketball_All-Americans skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1933 NCAA Men's Basketball All-Americans</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>The consensus <b>1933 College Basketball All-American</b> team, as determined by aggregating the results of three major All-American teams.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> To earn "consensus" status, a player must win honors from a majority of the following teams: the <a href="/wiki/Helms_Athletic_Foundation" title="Helms Athletic Foundation">Helms Athletic Foundation</a>, <a href="/wiki/Converse_(shoe_company)" title="Converse (shoe company)">Converse</a> and <a href="/wiki/College_Humor_(magazine)" title="College Humor (magazine)">College Humor Magazine</a>.</p>
+<h2><span class="mw-headline" id="1933_Consensus_All-America_team">1933 Consensus All-America team</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;action=edit&amp;section=1" title="Edit section: 1933 Consensus All-America team">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table style="width:600px">
+<caption><b>Consensus Team</b></caption>
+<tr>
+<th bgcolor="#CCCCCC" style="width:40%">Player</th>
+<th bgcolor="#CCCCCC" style="width:16%">Class</th>
+<th bgcolor="#CCCCCC" style="width:40%">Team</th>
+</tr>
+<tr>
+<td><a href="/wiki/Moose_Krause" title="Moose Krause">Moose Krause</a></td>
+<td>Junior</td>
+<td><a href="/wiki/Notre_Dame_Fighting_Irish_men%27s_basketball" title="Notre Dame Fighting Irish men's basketball">Notre Dame</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Elliott_Loughlin" title="Elliott Loughlin">Elliott Loughlin</a></td>
+<td>Senior</td>
+<td><a href="/wiki/Navy_Midshipmen_men%27s_basketball" title="Navy Midshipmen men's basketball">Navy</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Jerry_Nemer" title="Jerry Nemer">Jerry Nemer</a></td>
+<td>Senior</td>
+<td><a href="/wiki/USC_Trojans_men%27s_basketball" title="USC Trojans men's basketball">Southern California</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Joe_Reiff" title="Joe Reiff">Joe Reiff</a></td>
+<td>Senior</td>
+<td><a href="/wiki/Northwestern_Wildcats_men%27s_basketball" title="Northwestern Wildcats men's basketball">Northwestern</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Forest_Sale" title="Forest Sale">Forest Sale</a></td>
+<td>Senior</td>
+<td><a href="/wiki/Kentucky_Wildcats_men%27s_basketball" title="Kentucky Wildcats men's basketball">Kentucky</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Don_Smith_(basketball,_born_1910)" title="Don Smith (basketball, born 1910)">Don Smith</a></td>
+<td>Senior</td>
+<td><a href="/wiki/Pittsburgh_Panthers_men%27s_basketball" title="Pittsburgh Panthers men's basketball">Pittsburgh</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Individual_All-America_teams">Individual All-America teams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;action=edit&amp;section=2" title="Edit section: Individual All-America teams">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="width:98%;">
+<tr>
+<th rowspan="3">All-America Team</th>
+</tr>
+<tr>
+<th colspan="2">First team</th>
+<th colspan="2">Second team</th>
+<th colspan="2">Third team</th>
+</tr>
+<tr>
+<th>Player</th>
+<th>School</th>
+<th>Player</th>
+<th>School</th>
+<th>Player</th>
+<th>School</th>
+</tr>
+<tr>
+<td rowspan="10"><a href="/wiki/Helms_Athletic_Foundation" title="Helms Athletic Foundation">Helms</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+<td><a href="/wiki/Frank_Baird" title="Frank Baird">Frank Baird</a></td>
+<td><a href="/wiki/Butler_Bulldogs_men%27s_basketball" title="Butler Bulldogs men's basketball">Butler</a></td>
+<td rowspan="10" colspan="6" align="center">No second or third teams</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ken_Fairman" class="mw-redirect" title="Ken Fairman">Ken Fairman</a></td>
+<td><a href="/wiki/Princeton_Tigers_men%27s_basketball" title="Princeton Tigers men's basketball">Princeton</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ellis_Johnson_(basketball)" class="mw-redirect" title="Ellis Johnson (basketball)">Ellis Johnson</a></td>
+<td><a href="/wiki/Kentucky_Wildcats_men%27s_basketball" title="Kentucky Wildcats men's basketball">Kentucky</a></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Ed_Lewis_(basketball)&amp;action=edit&amp;redlink=1" class="new" title="Ed Lewis (basketball) (page does not exist)">Ed Lewis</a></td>
+<td><a href="/wiki/Oregon_State_Beavers_men%27s_basketball" title="Oregon State Beavers men's basketball">Oregon State</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Elliott_Loughlin" title="Elliott Loughlin">Elliott Loughlin</a></td>
+<td><a href="/wiki/Navy_Midshipmen_men%27s_basketball" title="Navy Midshipmen men's basketball">Navy</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Jerry_Nemer" title="Jerry Nemer">Jerry Nemer</a></td>
+<td><a href="/wiki/USC_Trojans_men%27s_basketball" title="USC Trojans men's basketball">Southern California</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Joe_Reiff" title="Joe Reiff">Joe Reiff</a></td>
+<td><a href="/wiki/Northwestern_Wildcats_men%27s_basketball" title="Northwestern Wildcats men's basketball">Northwestern</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Forest_Sale" title="Forest Sale">Forest Sale</a></td>
+<td>Kentucky</td>
+</tr>
+<tr>
+<td><a href="/wiki/Don_Smith_(basketball,_born_1910)" title="Don Smith (basketball, born 1910)">Don Smith</a></td>
+<td><a href="/wiki/Pittsburgh_Panthers_men%27s_basketball" title="Pittsburgh Panthers men's basketball">Pittsburgh</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Les_Witte" title="Les Witte">Les Witte</a></td>
+<td><a href="/wiki/Wyoming_Cowboys_basketball" title="Wyoming Cowboys basketball">Wyoming</a></td>
+</tr>
+<tr style="border-top:2px solid black;">
+<td rowspan="5"><a href="/wiki/College_Humor_(magazine)" title="College Humor (magazine)">College Humor</a></td>
+<td><a href="/wiki/Skinny_Johnson" title="Skinny Johnson">Bill Johnson</a></td>
+<td><a href="/wiki/Kansas_Jayhawks_men%27s_basketball" title="Kansas Jayhawks men's basketball">Kansas</a></td>
+<td><a href="/w/index.php?title=Alan_Bracken&amp;action=edit&amp;redlink=1" class="new" title="Alan Bracken (page does not exist)">Alan Bracken</a></td>
+<td><a href="/wiki/Providence_Friars_men%27s_basketball" title="Providence Friars men's basketball">Providence</a></td>
+<td><a href="/w/index.php?title=Richard_Arney&amp;action=edit&amp;redlink=1" class="new" title="Richard Arney (page does not exist)">Richard Arney</a></td>
+<td><a href="/wiki/Carleton_College" title="Carleton College">Carleton</a></td>
+</tr>
+<tr>
+<td>Elliott Loughlin</td>
+<td>Navy</td>
+<td><a href="/w/index.php?title=Conrad_Collin&amp;action=edit&amp;redlink=1" class="new" title="Conrad Collin (page does not exist)">Conrad Collin</a></td>
+<td><a href="/wiki/Creighton_Bluejays_men%27s_basketball" title="Creighton Bluejays men's basketball">Creighton</a></td>
+<td>Ken Fairman</td>
+<td>Princeton</td>
+</tr>
+<tr>
+<td>Joe Reiff</td>
+<td>Northwestern</td>
+<td><a href="/wiki/Moose_Krause" title="Moose Krause">Moose Krause</a></td>
+<td><a href="/wiki/Notre_Dame_Fighting_Irish_men%27s_basketball" title="Notre Dame Fighting Irish men's basketball">Notre Dame</a></td>
+<td><a href="/w/index.php?title=James_Fergus_(basketball)&amp;action=edit&amp;redlink=1" class="new" title="James Fergus (basketball) (page does not exist)">James Fergus</a></td>
+<td><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon</a></td>
+</tr>
+<tr>
+<td>Forest Sale</td>
+<td>Kentucky</td>
+<td><a href="/w/index.php?title=Nathan_Lazar&amp;action=edit&amp;redlink=1" class="new" title="Nathan Lazar (page does not exist)">Nathan Lazar</a></td>
+<td><a href="/wiki/St._John%27s_Red_Storm_men%27s_basketball" title="St. John's Red Storm men's basketball">St. John's</a></td>
+<td><a href="/wiki/Steve_Hokuf" title="Steve Hokuf">Steve Hokuf</a></td>
+<td><a href="/wiki/Nebraska_Cornhuskers_men%27s_basketball" title="Nebraska Cornhuskers men's basketball">Nebraska</a></td>
+</tr>
+<tr>
+<td>Don Smith</td>
+<td>Pittsburgh</td>
+<td>Jerry Nemer</td>
+<td>Southern California</td>
+<td><a href="/w/index.php?title=Freddie_Thompkins&amp;action=edit&amp;redlink=1" class="new" title="Freddie Thompkins (page does not exist)">Freddie Thompkins</a></td>
+<td><a href="/wiki/South_Carolina_Gamecocks_men%27s_basketball" title="South Carolina Gamecocks men's basketball">South Carolina</a></td>
+</tr>
+<tr style="border-top:2px solid black;">
+<td rowspan="5"><a href="/wiki/Converse_(shoe_company)" title="Converse (shoe company)">Converse</a></td>
+<td><a href="/w/index.php?title=Eddie_Finnigan_(American_football)&amp;action=edit&amp;redlink=1" class="new" title="Eddie Finnigan (American football) (page does not exist)">Eddie Finnigan</a></td>
+<td><a href="/wiki/Case_Western_Reserve_University" title="Case Western Reserve University">Case Reserve</a></td>
+<td rowspan="5" colspan="6" align="center">No second or third teams</td>
+</tr>
+<tr>
+<td>Moose Krause</td>
+<td>Notre Dame</td>
+</tr>
+<tr>
+<td>Elliott Loughlin</td>
+<td>Navy</td>
+</tr>
+<tr>
+<td>Forest Sale</td>
+<td>Kentucky</td>
+</tr>
+<tr>
+<td>Don Smith</td>
+<td>Pittsburgh</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web1.ncaa.org/web_files/stats/m_basketball_RB/2009/Award.pdf">NCAA Record Book - Award Winners</a> p.137. Accessed 2010-10-03.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ncaapublications.com/productdownloads/BF05.pdf">2005 NCAA Basketball's Finest - All-Americans (Helms, Converse &amp; College Humor)</a> p.208. Accessed 2010-10-03</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="NCAA_Division_I_Men.27s_Basketball_All-Americans" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:NCAA_Men%27s_Basketball_All-Americans" title="Template:NCAA Men's Basketball All-Americans"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:NCAA_Men%27s_Basketball_All-Americans" title="Template talk:NCAA Men's Basketball All-Americans"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:NCAA_Men%27s_Basketball_All-Americans&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="NCAA_Division_I_Men.27s_Basketball_All-Americans" style="font-size:114%;margin:0 4em"><a href="/wiki/NCAA_Men%27s_Basketball_All-Americans" title="NCAA Men's Basketball All-Americans">NCAA Division I Men's Basketball All-Americans</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Helms Foundation</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1905_NCAA_Men%27s_Basketball_All-Americans" title="1905 NCAA Men's Basketball All-Americans">1905</a></li>
+<li><a href="/wiki/1906_NCAA_Men%27s_Basketball_All-Americans" title="1906 NCAA Men's Basketball All-Americans">1906</a></li>
+<li><a href="/wiki/1907_NCAA_Men%27s_Basketball_All-Americans" title="1907 NCAA Men's Basketball All-Americans">1907</a></li>
+<li><a href="/wiki/1908_NCAA_Men%27s_Basketball_All-Americans" title="1908 NCAA Men's Basketball All-Americans">1908</a></li>
+<li><a href="/wiki/1909_NCAA_Men%27s_Basketball_All-Americans" title="1909 NCAA Men's Basketball All-Americans">1909</a></li>
+<li><a href="/wiki/1910_NCAA_Men%27s_Basketball_All-Americans" title="1910 NCAA Men's Basketball All-Americans">1910</a></li>
+<li><a href="/wiki/1911_NCAA_Men%27s_Basketball_All-Americans" title="1911 NCAA Men's Basketball All-Americans">1911</a></li>
+<li><a href="/wiki/1912_NCAA_Men%27s_Basketball_All-Americans" title="1912 NCAA Men's Basketball All-Americans">1912</a></li>
+<li><a href="/wiki/1913_NCAA_Men%27s_Basketball_All-Americans" title="1913 NCAA Men's Basketball All-Americans">1913</a></li>
+<li><a href="/wiki/1914_NCAA_Men%27s_Basketball_All-Americans" title="1914 NCAA Men's Basketball All-Americans">1914</a></li>
+<li><a href="/wiki/1915_NCAA_Men%27s_Basketball_All-Americans" title="1915 NCAA Men's Basketball All-Americans">1915</a></li>
+<li><a href="/wiki/1916_NCAA_Men%27s_Basketball_All-Americans" title="1916 NCAA Men's Basketball All-Americans">1916</a></li>
+<li><a href="/wiki/1917_NCAA_Men%27s_Basketball_All-Americans" title="1917 NCAA Men's Basketball All-Americans">1917</a></li>
+<li><a href="/wiki/1918_NCAA_Men%27s_Basketball_All-Americans" title="1918 NCAA Men's Basketball All-Americans">1918</a></li>
+<li><a href="/wiki/1919_NCAA_Men%27s_Basketball_All-Americans" title="1919 NCAA Men's Basketball All-Americans">1919</a></li>
+<li><a href="/wiki/1920_NCAA_Men%27s_Basketball_All-Americans" title="1920 NCAA Men's Basketball All-Americans">1920</a></li>
+<li><a href="/wiki/1921_NCAA_Men%27s_Basketball_All-Americans" title="1921 NCAA Men's Basketball All-Americans">1921</a></li>
+<li><a href="/wiki/1922_NCAA_Men%27s_Basketball_All-Americans" title="1922 NCAA Men's Basketball All-Americans">1922</a></li>
+<li><a href="/wiki/1923_NCAA_Men%27s_Basketball_All-Americans" title="1923 NCAA Men's Basketball All-Americans">1923</a></li>
+<li><a href="/wiki/1924_NCAA_Men%27s_Basketball_All-Americans" title="1924 NCAA Men's Basketball All-Americans">1924</a></li>
+<li><a href="/wiki/1925_NCAA_Men%27s_Basketball_All-Americans" title="1925 NCAA Men's Basketball All-Americans">1925</a></li>
+<li><a href="/wiki/1926_NCAA_Men%27s_Basketball_All-Americans" title="1926 NCAA Men's Basketball All-Americans">1926</a></li>
+<li><a href="/wiki/1927_NCAA_Men%27s_Basketball_All-Americans" title="1927 NCAA Men's Basketball All-Americans">1927</a></li>
+<li><a href="/wiki/1928_NCAA_Men%27s_Basketball_All-Americans" title="1928 NCAA Men's Basketball All-Americans">1928</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Consensus</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1929_NCAA_Men%27s_Basketball_All-Americans" title="1929 NCAA Men's Basketball All-Americans">1929</a></li>
+<li><a href="/wiki/1930_NCAA_Men%27s_Basketball_All-Americans" title="1930 NCAA Men's Basketball All-Americans">1930</a></li>
+<li><a href="/wiki/1931_NCAA_Men%27s_Basketball_All-Americans" title="1931 NCAA Men's Basketball All-Americans">1931</a></li>
+<li><a href="/wiki/1932_NCAA_Men%27s_Basketball_All-Americans" title="1932 NCAA Men's Basketball All-Americans">1932</a></li>
+<li><a class="mw-selflink selflink">1933</a></li>
+<li><a href="/wiki/1934_NCAA_Men%27s_Basketball_All-Americans" title="1934 NCAA Men's Basketball All-Americans">1934</a></li>
+<li><a href="/wiki/1935_NCAA_Men%27s_Basketball_All-Americans" title="1935 NCAA Men's Basketball All-Americans">1935</a></li>
+<li><a href="/wiki/1936_NCAA_Men%27s_Basketball_All-Americans" title="1936 NCAA Men's Basketball All-Americans">1936</a></li>
+<li><a href="/wiki/1937_NCAA_Men%27s_Basketball_All-Americans" title="1937 NCAA Men's Basketball All-Americans">1937</a></li>
+<li><a href="/wiki/1938_NCAA_Men%27s_Basketball_All-Americans" title="1938 NCAA Men's Basketball All-Americans">1938</a></li>
+<li><a href="/wiki/1939_NCAA_Men%27s_Basketball_All-Americans" title="1939 NCAA Men's Basketball All-Americans">1939</a></li>
+<li><a href="/wiki/1940_NCAA_Men%27s_Basketball_All-Americans" title="1940 NCAA Men's Basketball All-Americans">1940</a></li>
+<li><a href="/wiki/1941_NCAA_Men%27s_Basketball_All-Americans" title="1941 NCAA Men's Basketball All-Americans">1941</a></li>
+<li><a href="/wiki/1942_NCAA_Men%27s_Basketball_All-Americans" title="1942 NCAA Men's Basketball All-Americans">1942</a></li>
+<li><a href="/wiki/1943_NCAA_Men%27s_Basketball_All-Americans" title="1943 NCAA Men's Basketball All-Americans">1943</a></li>
+<li><a href="/wiki/1944_NCAA_Men%27s_Basketball_All-Americans" title="1944 NCAA Men's Basketball All-Americans">1944</a></li>
+<li><a href="/wiki/1945_NCAA_Men%27s_Basketball_All-Americans" title="1945 NCAA Men's Basketball All-Americans">1945</a></li>
+<li><a href="/wiki/1946_NCAA_Men%27s_Basketball_All-Americans" title="1946 NCAA Men's Basketball All-Americans">1946</a></li>
+<li><a href="/wiki/1947_NCAA_Men%27s_Basketball_All-Americans" title="1947 NCAA Men's Basketball All-Americans">1947</a></li>
+<li><a href="/wiki/1948_NCAA_Men%27s_Basketball_All-Americans" title="1948 NCAA Men's Basketball All-Americans">1948</a></li>
+<li><a href="/wiki/1949_NCAA_Men%27s_Basketball_All-Americans" title="1949 NCAA Men's Basketball All-Americans">1949</a></li>
+<li><a href="/wiki/1950_NCAA_Men%27s_Basketball_All-Americans" title="1950 NCAA Men's Basketball All-Americans">1950</a></li>
+<li><a href="/wiki/1951_NCAA_Men%27s_Basketball_All-Americans" title="1951 NCAA Men's Basketball All-Americans">1951</a></li>
+<li><a href="/wiki/1952_NCAA_Men%27s_Basketball_All-Americans" title="1952 NCAA Men's Basketball All-Americans">1952</a></li>
+<li><a href="/wiki/1953_NCAA_Men%27s_Basketball_All-Americans" title="1953 NCAA Men's Basketball All-Americans">1953</a></li>
+<li><a href="/wiki/1954_NCAA_Men%27s_Basketball_All-Americans" title="1954 NCAA Men's Basketball All-Americans">1954</a></li>
+<li><a href="/wiki/1955_NCAA_Men%27s_Basketball_All-Americans" title="1955 NCAA Men's Basketball All-Americans">1955</a></li>
+<li><a href="/wiki/1956_NCAA_Men%27s_Basketball_All-Americans" title="1956 NCAA Men's Basketball All-Americans">1956</a></li>
+<li><a href="/wiki/1957_NCAA_Men%27s_Basketball_All-Americans" title="1957 NCAA Men's Basketball All-Americans">1957</a></li>
+<li><a href="/wiki/1958_NCAA_Men%27s_Basketball_All-Americans" title="1958 NCAA Men's Basketball All-Americans">1958</a></li>
+<li><a href="/wiki/1959_NCAA_Men%27s_Basketball_All-Americans" title="1959 NCAA Men's Basketball All-Americans">1959</a></li>
+<li><a href="/wiki/1960_NCAA_Men%27s_Basketball_All-Americans" title="1960 NCAA Men's Basketball All-Americans">1960</a></li>
+<li><a href="/wiki/1961_NCAA_Men%27s_Basketball_All-Americans" title="1961 NCAA Men's Basketball All-Americans">1961</a></li>
+<li><a href="/wiki/1962_NCAA_Men%27s_Basketball_All-Americans" title="1962 NCAA Men's Basketball All-Americans">1962</a></li>
+<li><a href="/wiki/1963_NCAA_Men%27s_Basketball_All-Americans" title="1963 NCAA Men's Basketball All-Americans">1963</a></li>
+<li><a href="/wiki/1964_NCAA_Men%27s_Basketball_All-Americans" title="1964 NCAA Men's Basketball All-Americans">1964</a></li>
+<li><a href="/wiki/1965_NCAA_Men%27s_Basketball_All-Americans" title="1965 NCAA Men's Basketball All-Americans">1965</a></li>
+<li><a href="/wiki/1966_NCAA_Men%27s_Basketball_All-Americans" title="1966 NCAA Men's Basketball All-Americans">1966</a></li>
+<li><a href="/wiki/1967_NCAA_Men%27s_Basketball_All-Americans" title="1967 NCAA Men's Basketball All-Americans">1967</a></li>
+<li><a href="/wiki/1968_NCAA_Men%27s_Basketball_All-Americans" title="1968 NCAA Men's Basketball All-Americans">1968</a></li>
+<li><a href="/wiki/1969_NCAA_Men%27s_Basketball_All-Americans" title="1969 NCAA Men's Basketball All-Americans">1969</a></li>
+<li><a href="/wiki/1970_NCAA_Men%27s_Basketball_All-Americans" title="1970 NCAA Men's Basketball All-Americans">1970</a></li>
+<li><a href="/wiki/1971_NCAA_Men%27s_Basketball_All-Americans" title="1971 NCAA Men's Basketball All-Americans">1971</a></li>
+<li><a href="/wiki/1972_NCAA_Men%27s_Basketball_All-Americans" title="1972 NCAA Men's Basketball All-Americans">1972</a></li>
+<li><a href="/wiki/1973_NCAA_Men%27s_Basketball_All-Americans" title="1973 NCAA Men's Basketball All-Americans">1973</a></li>
+<li><a href="/wiki/1974_NCAA_Men%27s_Basketball_All-Americans" title="1974 NCAA Men's Basketball All-Americans">1974</a></li>
+<li><a href="/wiki/1975_NCAA_Men%27s_Basketball_All-Americans" title="1975 NCAA Men's Basketball All-Americans">1975</a></li>
+<li><a href="/wiki/1976_NCAA_Men%27s_Basketball_All-Americans" title="1976 NCAA Men's Basketball All-Americans">1976</a></li>
+<li><a href="/wiki/1977_NCAA_Men%27s_Basketball_All-Americans" title="1977 NCAA Men's Basketball All-Americans">1977</a></li>
+<li><a href="/wiki/1978_NCAA_Men%27s_Basketball_All-Americans" title="1978 NCAA Men's Basketball All-Americans">1978</a></li>
+<li><a href="/wiki/1979_NCAA_Men%27s_Basketball_All-Americans" title="1979 NCAA Men's Basketball All-Americans">1979</a></li>
+<li><a href="/wiki/1980_NCAA_Men%27s_Basketball_All-Americans" title="1980 NCAA Men's Basketball All-Americans">1980</a></li>
+<li><a href="/wiki/1981_NCAA_Men%27s_Basketball_All-Americans" title="1981 NCAA Men's Basketball All-Americans">1981</a></li>
+<li><a href="/wiki/1982_NCAA_Men%27s_Basketball_All-Americans" title="1982 NCAA Men's Basketball All-Americans">1982</a></li>
+<li><a href="/wiki/1983_NCAA_Men%27s_Basketball_All-Americans" title="1983 NCAA Men's Basketball All-Americans">1983</a></li>
+<li><a href="/wiki/1984_NCAA_Men%27s_Basketball_All-Americans" title="1984 NCAA Men's Basketball All-Americans">1984</a></li>
+<li><a href="/wiki/1985_NCAA_Men%27s_Basketball_All-Americans" title="1985 NCAA Men's Basketball All-Americans">1985</a></li>
+<li><a href="/wiki/1986_NCAA_Men%27s_Basketball_All-Americans" title="1986 NCAA Men's Basketball All-Americans">1986</a></li>
+<li><a href="/wiki/1987_NCAA_Men%27s_Basketball_All-Americans" title="1987 NCAA Men's Basketball All-Americans">1987</a></li>
+<li><a href="/wiki/1988_NCAA_Men%27s_Basketball_All-Americans" title="1988 NCAA Men's Basketball All-Americans">1988</a></li>
+<li><a href="/wiki/1989_NCAA_Men%27s_Basketball_All-Americans" title="1989 NCAA Men's Basketball All-Americans">1989</a></li>
+<li><a href="/wiki/1990_NCAA_Men%27s_Basketball_All-Americans" title="1990 NCAA Men's Basketball All-Americans">1990</a></li>
+<li><a href="/wiki/1991_NCAA_Men%27s_Basketball_All-Americans" title="1991 NCAA Men's Basketball All-Americans">1991</a></li>
+<li><a href="/wiki/1992_NCAA_Men%27s_Basketball_All-Americans" title="1992 NCAA Men's Basketball All-Americans">1992</a></li>
+<li><a href="/wiki/1993_NCAA_Men%27s_Basketball_All-Americans" title="1993 NCAA Men's Basketball All-Americans">1993</a></li>
+<li><a href="/wiki/1994_NCAA_Men%27s_Basketball_All-Americans" title="1994 NCAA Men's Basketball All-Americans">1994</a></li>
+<li><a href="/wiki/1995_NCAA_Men%27s_Basketball_All-Americans" title="1995 NCAA Men's Basketball All-Americans">1995</a></li>
+<li><a href="/wiki/1996_NCAA_Men%27s_Basketball_All-Americans" title="1996 NCAA Men's Basketball All-Americans">1996</a></li>
+<li><a href="/wiki/1997_NCAA_Men%27s_Basketball_All-Americans" title="1997 NCAA Men's Basketball All-Americans">1997</a></li>
+<li><a href="/wiki/1998_NCAA_Men%27s_Basketball_All-Americans" title="1998 NCAA Men's Basketball All-Americans">1998</a></li>
+<li><a href="/wiki/1999_NCAA_Men%27s_Basketball_All-Americans" title="1999 NCAA Men's Basketball All-Americans">1999</a></li>
+<li><a href="/wiki/2000_NCAA_Men%27s_Basketball_All-Americans" title="2000 NCAA Men's Basketball All-Americans">2000</a></li>
+<li><a href="/wiki/2001_NCAA_Men%27s_Basketball_All-Americans" title="2001 NCAA Men's Basketball All-Americans">2001</a></li>
+<li><a href="/wiki/2002_NCAA_Men%27s_Basketball_All-Americans" title="2002 NCAA Men's Basketball All-Americans">2002</a></li>
+<li><a href="/wiki/2003_NCAA_Men%27s_Basketball_All-Americans" title="2003 NCAA Men's Basketball All-Americans">2003</a></li>
+<li><a href="/wiki/2004_NCAA_Men%27s_Basketball_All-Americans" title="2004 NCAA Men's Basketball All-Americans">2004</a></li>
+<li><a href="/wiki/2005_NCAA_Men%27s_Basketball_All-Americans" title="2005 NCAA Men's Basketball All-Americans">2005</a></li>
+<li><a href="/wiki/2006_NCAA_Men%27s_Basketball_All-Americans" title="2006 NCAA Men's Basketball All-Americans">2006</a></li>
+<li><a href="/wiki/2007_NCAA_Men%27s_Basketball_All-Americans" title="2007 NCAA Men's Basketball All-Americans">2007</a></li>
+<li><a href="/wiki/2008_NCAA_Men%27s_Basketball_All-Americans" title="2008 NCAA Men's Basketball All-Americans">2008</a></li>
+<li><a href="/wiki/2009_NCAA_Men%27s_Basketball_All-Americans" title="2009 NCAA Men's Basketball All-Americans">2009</a></li>
+<li><a href="/wiki/2010_NCAA_Men%27s_Basketball_All-Americans" title="2010 NCAA Men's Basketball All-Americans">2010</a></li>
+<li><a href="/wiki/2011_NCAA_Men%27s_Basketball_All-Americans" title="2011 NCAA Men's Basketball All-Americans">2011</a></li>
+<li><a href="/wiki/2012_NCAA_Men%27s_Basketball_All-Americans" title="2012 NCAA Men's Basketball All-Americans">2012</a></li>
+<li><a href="/wiki/2013_NCAA_Men%27s_Basketball_All-Americans" title="2013 NCAA Men's Basketball All-Americans">2013</a></li>
+<li><a href="/wiki/2014_NCAA_Men%27s_Basketball_All-Americans" title="2014 NCAA Men's Basketball All-Americans">2014</a></li>
+<li><a href="/wiki/2015_NCAA_Men%27s_Basketball_All-Americans" title="2015 NCAA Men's Basketball All-Americans">2015</a></li>
+<li><a href="/wiki/2016_NCAA_Men%27s_Basketball_All-Americans" title="2016 NCAA Men's Basketball All-Americans">2016</a></li>
+<li><a href="/wiki/2017_NCAA_Men%27s_Basketball_All-Americans" title="2017 NCAA Men's Basketball All-Americans">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20170408025239
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.044 seconds
+Real time usage: 0.059 seconds
+Preprocessor visited node count: 163/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22909/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.007/10.000 seconds
+Lua memory usage: 679 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   24.344      1 -total
+ 86.47%   21.050      1 Template:NCAA_Men's_Basketball_All-Americans
+ 79.34%   19.314      1 Template:Navbox
+ 13.25%    3.225      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18828286-0!*!0!!*!*!* and timestamp 20170408025239 and revision id 627690467
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;oldid=627690467">https://en.wikipedia.org/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;oldid=627690467</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:NCAA_Men%27s_Basketball_All-Americans" title="Category:NCAA Men's Basketball All-Americans">NCAA Men's Basketball All-Americans</a></li><li><a href="/wiki/Category:1932%E2%80%9333_NCAA_men%27s_basketball_season" title="Category:1932–33 NCAA men's basketball season">1932–33 NCAA men's basketball season</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1933+NCAA+Men%27s+Basketball+All-Americans" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1933+NCAA+Men%27s+Basketball+All-Americans" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1933_NCAA_Men%27s_Basketball_All-Americans"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1933_NCAA_Men%27s_Basketball_All-Americans"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1933_NCAA_Men%27s_Basketball_All-Americans" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1933_NCAA_Men%27s_Basketball_All-Americans" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1933_NCAA_Men%27s_Basketball_All-Americans" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;oldid=627690467" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4563238" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1933_NCAA_Men%27s_Basketball_All-Americans&amp;id=627690467" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1933+NCAA+Men%27s+Basketball+All-Americans">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1933+NCAA+Men%27s+Basketball+All-Americans&amp;returnto=1933+NCAA+Men%27s+Basketball+All-Americans&amp;oldid=627690467&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4563238#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 September 2014, at 15:24.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1933_NCAA_Men%27s_Basketball_All-Americans&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.059","ppvisitednodes":{"value":163,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22909,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   24.344      1 -total"," 86.47%   21.050      1 Template:NCAA_Men's_Basketball_All-Americans"," 79.34%   19.314      1 Template:Navbox"," 13.25%    3.225      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.007","limit":"10.000"},"limitreport-memusage":{"value":695703,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20170408025239","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw2224"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1375 @@
+https://en.wikipedia.org/wiki/Anna_of_East_Anglia
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Anna of East Anglia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anna_of_East_Anglia","wgTitle":"Anna of East Anglia","wgCurRevisionId":764529839,"wgRevisionId":764529839,"wgArticleId":544577,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica","EngvarB from April 2014","Use dmy dates from April 2014","Articles containing Old English-language text","CS1 foreign language sources (ISO 639-2)","Featured articles","Year of birth unknown","650s deaths","7th-century English monarchs","Anglo-Saxons killed in battle","East Anglian monarchs","Monarchs killed in action","House of Wuffingas"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anna_of_East_Anglia","wgRelevantArticleId":544577,"wgRequestId":"WPhtHgrAEE8AAG2@DhEAAAAE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q559247","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anna_of_East_Anglia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Anna_of_East_Anglia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Anna_of_East_Anglia rootpage-Anna_of_East_Anglia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-featured-star" class="mw-indicator"><a href="/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Anna of East Anglia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" class="fn" style="text-align:center;font-size:125%;font-weight:bold;background-color: #cbe; font-size: 125%">Anna</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #e4dcf6"><a href="/wiki/List_of_monarchs_of_East_Anglia" title="List of monarchs of East Anglia">King of the East Angles</a></th>
+</tr>
+<tr>
+<th scope="row">Reign</th>
+<td>c. 636&#160;– 654 AD</td>
+</tr>
+<tr>
+<th scope="row">Predecessor</th>
+<td><a href="/wiki/Ecgric_of_East_Anglia" title="Ecgric of East Anglia">Ecgric</a></td>
+</tr>
+<tr>
+<th scope="row">Successor</th>
+<td><a href="/wiki/%C3%86thelhere_of_East_Anglia" title="Æthelhere of East Anglia">Æthelhere</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #e4dcf6">
+<div style="height: 4px; width:100%;"></div>
+</th>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>653 or 654 AD<br />
+<a href="/w/index.php?title=Battle_of_Bulcamp&amp;action=edit&amp;redlink=1" class="new" title="Battle of Bulcamp (page does not exist)">Battle of Bulcamp</a></td>
+</tr>
+<tr>
+<th scope="row">Burial</th>
+<td><span class="label">probably <a href="/wiki/Blythburgh" title="Blythburgh">Blythburgh</a>, Suffolk, now lost</span></td>
+</tr>
+<tr>
+<th scope="row">Consort</th>
+<td>Sæwara</td>
+</tr>
+<tr>
+<th scope="row">Issue</th>
+<td><a href="/wiki/Jurmin" title="Jurmin">Jurmin</a><br />
+<a href="/wiki/Seaxburh_of_Ely" title="Seaxburh of Ely">Seaxburh</a><br />
+<a href="/wiki/%C3%86thelthryth" title="Æthelthryth">Æthelthryth</a><br />
+<a href="/wiki/%C3%86thelburh_of_Faremoutiers" title="Æthelburh of Faremoutiers">Æthelburh</a><br />
+possibly <a href="/wiki/Wihtburh" title="Wihtburh">Wihtburh</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Dynasty" title="Dynasty">House</a></th>
+<td><a href="/wiki/Wuffingas" title="Wuffingas">Wuffingas</a></td>
+</tr>
+<tr>
+<th scope="row">Father</th>
+<td><a href="/wiki/Eni_of_East_Anglia" title="Eni of East Anglia">Eni</a></td>
+</tr>
+<tr>
+<th scope="row">Religion</th>
+<td>Christian</td>
+</tr>
+</table>
+<p><b>Anna</b> (or <b>Onna</b>; killed 653 or 654) was <a href="/wiki/List_of_monarchs_of_East_Anglia" title="List of monarchs of East Anglia">king of East Anglia</a> from the early 640s until his death. He was a member of the <a href="/wiki/Wuffingas" title="Wuffingas">Wuffingas</a> family, the ruling dynasty of the East Angles. He was one of the three sons of <a href="/wiki/Eni_of_East_Anglia" title="Eni of East Anglia">Eni</a> who ruled the <a href="/wiki/Kingdom_of_East_Anglia" title="Kingdom of East Anglia">kingdom of East Anglia</a>, succeeding some time after <a href="/wiki/Ecgric_of_East_Anglia" title="Ecgric of East Anglia">Ecgric</a> was killed in battle by <a href="/wiki/Penda_of_Mercia" title="Penda of Mercia">Penda of Mercia</a>. Anna was praised by <a href="/wiki/Bede" title="Bede">Bede</a> for his devotion to Christianity and was renowned for the saintliness of his family: his son <a href="/wiki/Jurmin" title="Jurmin">Jurmin</a> and all his daughters&#160;– <a href="/wiki/Seaxburh_of_Ely" title="Seaxburh of Ely">Seaxburh</a>, <a href="/wiki/%C3%86thelthryth" title="Æthelthryth">Æthelthryth</a>, <a href="/wiki/%C3%86thelburh_of_Faremoutiers" title="Æthelburh of Faremoutiers">Æthelburh</a> and possibly a fourth, <a href="/wiki/Wihtburh" title="Wihtburh">Wihtburh</a>&#160;– were canonised.</p>
+<p>Little is known of Anna's life or his reign, as few records have survived from this period. In 631 he may have been at <a href="/wiki/Exning" title="Exning">Exning</a>, close to the <a href="/wiki/Devil%27s_Dyke,_Cambridgeshire" title="Devil's Dyke, Cambridgeshire">Devil's Dyke</a>. In 645 <a href="/wiki/Cenwalh_of_Wessex" title="Cenwalh of Wessex">Cenwalh of Wessex</a> was driven from his kingdom by Penda and, due to Anna's influence, he was converted to Christianity while living as an exile at the East Anglian court. Upon his return from exile, Cenwalh re-established Christianity in his own kingdom and the people of Wessex then remained firmly Christian.</p>
+<p>Around 651 the land around <a href="/wiki/Isle_of_Ely" title="Isle of Ely">Ely</a> was absorbed into East Anglia, following the marriage of Anna's daughter Æthelthryth. Anna richly endowed the monastery at <a href="/wiki/Cnobheresburg" title="Cnobheresburg">Cnobheresburg</a>. In 651, in the aftermath of an attack by Penda on Cnobheresburg, Anna was forced to flee into exile, perhaps to the western kingdom of the <a href="/wiki/Magons%C3%A6te" title="Magonsæte">Magonsæte</a>. He returned to East Anglia in about 653, but soon afterwards the kingdom was attacked again by Penda and at the Battle of Bulcamp the East Anglian army, led by Anna, was defeated by the Mercians, and Anna and his son Jurmin were both killed. Anna was succeeded by his brother, <a href="/wiki/%C3%86thelhere_of_East_Anglia" title="Æthelhere of East Anglia">Æthelhere</a>. <a href="/wiki/Botwulf_of_Thorney" title="Botwulf of Thorney">Botolph</a>'s monastery at <a href="/wiki/Iken" title="Iken">Iken</a> may have been built in commemoration of the king. After Anna's reign, East Anglia seems to have been eclipsed by its more powerful neighbour, <a href="/wiki/Mercia" title="Mercia">Mercia</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Sources"><span class="tocnumber">1</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Early_life_and_marriage"><span class="tocnumber">2</span> <span class="toctext">Early life and marriage</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#King_of_the_East_Angles"><span class="tocnumber">3</span> <span class="toctext">King of the East Angles</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Accession_and_rule"><span class="tocnumber">3.1</span> <span class="toctext">Accession and rule</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Exile"><span class="tocnumber">3.2</span> <span class="toctext">Exile</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Death.2C_burial_place_and_successors"><span class="tocnumber">3.3</span> <span class="toctext">Death, burial place and successors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Descendants"><span class="tocnumber">4</span> <span class="toctext">Descendants</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Footnotes"><span class="tocnumber">6</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=1" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The kingdom of East Anglia (<a href="/wiki/Old_English_language" class="mw-redirect" title="Old English language">Old English</a>: <span lang="ang" xml:lang="ang"><i>Ēast Engla Rīce</i></span>) was a small independent <a href="/wiki/Anglo-Saxons" title="Anglo-Saxons">Anglo-Saxon</a> kingdom that comprised what are now the English counties of <a href="/wiki/Norfolk" title="Norfolk">Norfolk</a> and <a href="/wiki/Suffolk" title="Suffolk">Suffolk</a> and perhaps the eastern part of the Cambridgeshire <a href="/wiki/Fens" class="mw-redirect" title="Fens">Fens</a>.<sup id="cite_ref-eb11_1-0" class="reference"><a href="#cite_note-eb11-1">[1]</a></sup></p>
+<p>In contrast to the kingdoms of <a href="/wiki/Northumbria" class="mw-redirect" title="Northumbria">Northumbria</a>, Mercia and <a href="/wiki/Wessex" title="Wessex">Wessex</a>, little reliable evidence about the kingdom of the East Angles has survived, because of the destruction of its monasteries and the disappearance of the two East Anglian <a href="/wiki/Episcopal_see" title="Episcopal see">sees</a> that occurred as the result of <a href="/wiki/Viking" class="mw-redirect" title="Viking">Viking</a> raids and settlement.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The main primary sources for information about Anna's life and reign are the <i><a href="/wiki/Historia_ecclesiastica_gentis_Anglorum" class="mw-redirect" title="Historia ecclesiastica gentis Anglorum">Historia ecclesiastica gentis Anglorum</a></i> (<i>Ecclesiastical History of the English People</i>), completed in Northumbria by Bede in 731, and the <i><a href="/wiki/Anglo-Saxon_Chronicle" title="Anglo-Saxon Chronicle">Anglo-Saxon Chronicle</a></i>, initially written in the ninth century, which mentions Anna's death. The mediaeval work known as the <i><a href="/wiki/Liber_Eliensis" title="Liber Eliensis">Liber Eliensis</a></i>, written in <a href="/wiki/Ely_Cathedral" title="Ely Cathedral">Ely</a> in the twelfth century, is a source of information about Anna's daughters Æthelthryth and Seaxburh, and also describes Anna's death and burial.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Early_life_and_marriage">Early life and marriage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=2" title="Edit section: Early life and marriage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Devil%27s_Dyke_Cambs.jpg" class="image"><img alt="Colour photograph" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Devil%27s_Dyke_Cambs.jpg/170px-Devil%27s_Dyke_Cambs.jpg" width="170" height="197" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Devil%27s_Dyke_Cambs.jpg/255px-Devil%27s_Dyke_Cambs.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Devil%27s_Dyke_Cambs.jpg/340px-Devil%27s_Dyke_Cambs.jpg 2x" data-file-width="575" data-file-height="668" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Devil%27s_Dyke_Cambs.jpg" class="internal" title="Enlarge"></a></div>
+The Devil's Dyke, near Exning. Anna may have been at Exning in 631.</div>
+</div>
+</div>
+<p>Anna was the son of Eni, a member of the ruling Wuffingas family, and nephew of <a href="/wiki/R%C3%A6dwald_of_East_Anglia" title="Rædwald of East Anglia">Rædwald</a>, king of the East Angles from 600 to 625.<sup id="cite_ref-Oxford_DNB_4-0" class="reference"><a href="#cite_note-Oxford_DNB-4">[4]</a></sup> <a href="/wiki/Kingdom_of_East_Anglia" title="Kingdom of East Anglia">East Anglia</a> was an early and long-lived <a href="/wiki/Anglo-Saxon_England" class="mw-redirect" title="Anglo-Saxon England">Anglo-Saxon</a> kingdom in which a duality of a northern and a southern part existed, corresponding with the modern English counties of <a href="/wiki/Norfolk" title="Norfolk">Norfolk</a> and <a href="/wiki/Suffolk" title="Suffolk">Suffolk</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>Anna was married: Bede refers to the saint <a href="/wiki/S%C3%A6thryth" title="Sæthryth">Sæthryth</a> as "daughter of the wife of Anna, king of the East Angles".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> In <a href="/wiki/Folcard" title="Folcard">Abbott Folcard</a>'s <i>Life of St Botolph</i>, written in the 11th century, Botolph is described as having been at one time the chaplain to the sisters of a king, Æthelmund, whose mother was named Sæwara. Folcard names two of Sæwara's kinsmen as Æthelhere and Æthelwold. Since these are the names of two of Anna's brothers, Steven Plunkett suggests that it is "tempting" to consider that Sæwara was married to Anna, and that Æthelmund might either be Anna's full name, or the name of an otherwise unknown East Anglian sub-king.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> The <i>Liber Eliensis</i> names <a href="/wiki/Hereswith" title="Hereswith">Hereswith</a>, the sister of <a href="/wiki/Hilda_of_Whitby" title="Hilda of Whitby">Hild, abbess of Whitby</a>, as Anna's wife and the mother of Sæthryth, Seaxburh of Ely and Æthelthryth.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> However, the <i>Liber Eliensis</i> is regarded with caution by historians: Rosalind Love says that the mediaeval writers who interpreted Bede's information about Hereswith made an "erroneous assumption" regarding her connection with Anna and his family.<sup id="cite_ref-Oxford_DNB_4-1" class="reference"><a href="#cite_note-Oxford_DNB-4">[4]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Historians now believe that Hereswith was Anna's sister-in-law and that around the time that she married into the East Anglian royal family, Anna had already been king for a decade.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>In 631 Anna was probably at the Suffolk village of Exning, an important settlement with royal connections,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> and, according to the <i>Liber Eliensis</i>, the birthplace of his daughter Æthelthryth.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> By tradition, Æthelthryth is said to have been baptised at Exning in a pool known as St Mindred's Well.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Exning was an important place strategically, as it stood just on the East Anglian side of the Devil's Dyke, a major earthwork stretching between the <a href="/wiki/Fen" title="Fen">Fen</a> edge and the headwaters of the <a href="/wiki/River_Stour,_Suffolk" title="River Stour, Suffolk">River Stour</a>, built at an earlier date to defend the East Anglian region from attack. An early Anglo-Saxon cemetery discovered there suggests the existence of an important site nearby, possibly a royal estate or regio.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="King_of_the_East_Angles">King of the East Angles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=3" title="Edit section: King of the East Angles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Accession_and_rule">Accession and rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=4" title="Edit section: Accession and rule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:England_green_top.svg" class="image"><img alt="Map of Anglo-Saxon Britain" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/England_green_top.svg/250px-England_green_top.svg.png" width="250" height="314" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/England_green_top.svg/375px-England_green_top.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/England_green_top.svg/500px-England_green_top.svg.png 2x" data-file-width="963" data-file-height="1210" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:England_green_top.svg" class="internal" title="Enlarge"></a></div>
+The main Anglo-Saxon kingdoms</div>
+</div>
+</div>
+<p>During 632 or 633 <a href="/wiki/Edwin_of_Northumbria" title="Edwin of Northumbria">Edwin of Northumbria</a>, with his centre of Christian power north of the River <a href="/wiki/Humber" title="Humber">Humber</a>, was overthrown. Edwin was slain and Northumbria was ravaged by <a href="/wiki/Cadwallon_ap_Cadfan" title="Cadwallon ap Cadfan">Cadwallon ap Cadfan</a>, supported by the Mercian king, <a href="/wiki/Penda_of_Mercia" title="Penda of Mercia">Penda</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> The Mercians then turned on the kingdom of the East Angles and their king, <a href="/wiki/Ecgric_of_East_Anglia" title="Ecgric of East Anglia">Ecgric</a>. At an unknown date (possibly in the early 640s),<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> they routed the East Anglian army and Ecgric and his predecessor <a href="/wiki/Sigeberht_of_East_Anglia" title="Sigeberht of East Anglia">Sigeberht</a> were both slain.<sup id="cite_ref-W110-13_17-0" class="reference"><a href="#cite_note-W110-13-17">[17]</a></sup> D. P. Kirby has suggested that as Sigeberht was alive when the Irish monk <a href="/wiki/Saint_Fursey" title="Saint Fursey">Fursey</a> left for Gaul and found <a href="/wiki/Erchinoald" title="Erchinoald">Erchinoald</a>, (which happened after Erchinoald became <a href="/wiki/Mayor_of_the_Palace" title="Mayor of the Palace">Mayor of the Neustrian palace</a> in 641), Sigeberht was probably killed around 640 or 641.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Penda's victory marked the end of the line of kings of the East Angles who were directly descended from Rædwald.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Some time after Penda's victory, Anna became king of the East Angles, though the date of his accession is quite uncertain. The <i>Liber Eliensis</i> says that Anna died in the nineteenth year of his reign, and since he died in the mid-650s this would indicate a date around 635.<sup id="cite_ref-K1_108-9_20-0" class="reference"><a href="#cite_note-K1_108-9-20">[20]</a></sup> However, the <i>Liber Eliensis</i> is regarded by some historians as unreliable on this point,<sup id="cite_ref-Oxford_DNB_4-2" class="reference"><a href="#cite_note-Oxford_DNB-4">[4]</a></sup> and <a href="/wiki/Barbara_Yorke" title="Barbara Yorke">Barbara Yorke</a> suggests a possible date in the early 640s for Anna's accession, noting that it could not have been after 645 as Anna is recorded as giving refuge to Cenwalh of Wessex in that year.<sup id="cite_ref-Y63_21-0" class="reference"><a href="#cite_note-Y63-21">[21]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[note 1]</a></sup> It is probable that Anna became king with the assistance of the northern Angles.<sup id="cite_ref-Kirby.2C_p.79_25-0" class="reference"><a href="#cite_note-Kirby.2C_p.79-25">[24]</a></sup> Throughout his reign he was the victim of Mercian aggression under Penda, but he also seems to have challenged the rise of Penda's power.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup> The British medievalist <a href="/wiki/David_Dumville" title="David Dumville">David Dumville</a> has written that due to their rivalry for control over the <a href="/wiki/Middle_Angles" title="Middle Angles">Middle Anglian</a> people, Mercia and East Anglia probably became hereditary enemies and Penda repeatedly attacked the East Angles from the mid-630s to 654.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup></p>
+<p>Anna arranged an important diplomatic marriage between his daughter Seaxburh and <a href="/wiki/Eorcenberht_of_Kent" title="Eorcenberht of Kent">Eorcenberht of Kent</a>, cementing an alliance between the two kingdoms.<sup id="cite_ref-Y65-6_28-0" class="reference"><a href="#cite_note-Y65-6-28">[27]</a></sup> It was by means of marriages such as this that the <a href="/wiki/List_of_monarchs_of_Kent" title="List of monarchs of Kent">kings of Kent</a> could become well-connected to other royal dynasties.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[28]</a></sup> Not all of Anna's daughters were married into other royal families. During the 640s Anna's daughter Æthelburg and his stepdaughter Sæthryth entered <a href="/wiki/Faremoutiers_Abbey" title="Faremoutiers Abbey">Faremoutiers Abbey</a> in <a href="/wiki/Gaul" title="Gaul">Gaul</a> to live religious lives under abbess <a href="/wiki/Saint_Fara" class="mw-redirect" title="Saint Fara">Fara</a>.<sup id="cite_ref-Y65-6_28-1" class="reference"><a href="#cite_note-Y65-6-28">[27]</a></sup> They were the first royal Anglo-Saxons to become nuns, making religious seclusion "an acceptable and desirable vocation for ex-queens and royal princesses", according to Barbara Yorke.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[note 2]</a></sup></p>
+<p>D. P. Kirby uses the presence of East Anglian princesses living under the veil in Gaul as evidence of the Frankish orientation of Anna's kingdom at this time, continued since the reign of his predecessor Rædwald.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[31]</a></sup> The Wuffingas dynasty may have been connected with monastic foundations in the area around Faramoutiers through Anna's predecessor Sigeberht, who had spent several years as an exile in Gaul and had become a devout and learned Christian due to his experiences of monastic life.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[32]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Williamson_p16_3.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Williamson_p16_3.svg/250px-Williamson_p16_3.svg.png" width="250" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Williamson_p16_3.svg/375px-Williamson_p16_3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Williamson_p16_3.svg/500px-Williamson_p16_3.svg.png 2x" data-file-width="691" data-file-height="607" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Williamson_p16_3.svg" class="internal" title="Enlarge"></a></div>
+The kingdom of East Anglia during the reign of Anna</div>
+</div>
+</div>
+<p>In 641 <a href="/wiki/Oswald_of_Northumbria" title="Oswald of Northumbria">Oswald</a> of <a href="/wiki/Northumbria" class="mw-redirect" title="Northumbria">Northumbria</a> was slain in battle by Penda (probably at <a href="/wiki/Oswestry" title="Oswestry">Oswestry</a> in Shropshire). Due to his death, Northumbria was split into two. The northern part, <a href="/wiki/Bernicia" title="Bernicia">Bernicia</a>, accepted Oswald's brother <a href="/wiki/Oswiu_of_Northumbria" class="mw-redirect" title="Oswiu of Northumbria">Oswiu</a> as their new king, but the southern <a href="/wiki/Deira" title="Deira">Deirans</a> refused to accept him and were ruled instead by a king of the original Deiran house, <a href="/wiki/Oswine_of_Deira" title="Oswine of Deira">Oswine</a>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[33]</a></sup> Soon afterwards <a href="/wiki/Cenwalh_of_Wessex" title="Cenwalh of Wessex">Cenwalh of Wessex</a>, the brother of Oswald's widow and himself married to Penda's sister, renounced his wife.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[34]</a></sup> In 645, according to the <i>Anglo-Saxon Chronicle</i>, Penda drove Cenwalh from his kingdom and into exile. During the following year, while a refugee at Anna's court, he was converted to Christianity,<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[35]</a></sup> returning in 648 to rule Wessex as a Christian king.<sup id="cite_ref-Oxford_DNB_4-3" class="reference"><a href="#cite_note-Oxford_DNB-4">[4]</a></sup> Anna probably provided military support for Cenwalh's return to his throne.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[36]</a></sup></p>
+<p>Anna's hold on the western limits of his kingdom, which bordered on the Fen lands that surrounded the Isle of Ely, was strengthened by the marriage in 651 (or slightly later) of his daughter Æthelthryth to Tondberht, a prince of the South <a href="/wiki/Gyrwas" title="Gyrwas">Gyrwe</a>, a people living in the fens who may have been settled in the area around Ely.<sup id="cite_ref-Y63_21-1" class="reference"><a href="#cite_note-Y63-21">[21]</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[note 3]</a></sup> Æthelthryth, accompanied by her minister Owine, travelled from Ely to Northumbria when she married for the second time, to <a href="/wiki/Ecgfrith_of_Northumbria" title="Ecgfrith of Northumbria">Ecgfrith</a>.<sup id="cite_ref-Y70-1_41-0" class="reference"><a href="#cite_note-Y70-1-41">[38]</a></sup></p>
+<h3><span class="mw-headline" id="Exile">Exile</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=5" title="Edit section: Exile">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wall-of-Burgh-Castle-England-UK.jpg" class="image"><img alt="Monochrome drawing" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wall-of-Burgh-Castle-England-UK.jpg/220px-Wall-of-Burgh-Castle-England-UK.jpg" width="220" height="193" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wall-of-Burgh-Castle-England-UK.jpg/330px-Wall-of-Burgh-Castle-England-UK.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wall-of-Burgh-Castle-England-UK.jpg/440px-Wall-of-Burgh-Castle-England-UK.jpg 2x" data-file-width="1600" data-file-height="1400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wall-of-Burgh-Castle-England-UK.jpg" class="internal" title="Enlarge"></a></div>
+The ruins of <a href="/wiki/Burgh_Castle" title="Burgh Castle">Burgh Castle</a>, the possible site of the monastery at Cnobheresburg, as depicted in 1845</div>
+</div>
+</div>
+<p>During his reign Anna endowed the monastery at <a href="/wiki/Burgh_Castle" title="Burgh Castle">Cnobheresburg</a> with rich buildings and objects.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[39]</a></sup> The monastery was built in about 633 by Fursey after he arrived in East Anglia. In time, weary of attacks on the kingdom, Fursey left East Anglia for good, leaving the monastery to his brother <a href="/wiki/Foillan" title="Foillan">Foillan</a>.<sup id="cite_ref-W110-13_17-1" class="reference"><a href="#cite_note-W110-13-17">[17]</a></sup> When in 651 Penda attacked the monastery, Anna and his men arrived and held the Mercians back. This gave Foillan and his monks enough time to escape with their books and valuables, but Penda defeated Anna and drove him into exile, possibly to the kingdom of <a href="/wiki/Merewalh" title="Merewalh">Merewalh</a> of the <a href="/wiki/Magons%C3%A6te" title="Magonsæte">Magonsætan</a>, in western <a href="/wiki/Shropshire" title="Shropshire">Shropshire</a>.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[40]</a></sup> He returned to East Anglia in about 654.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[41]</a></sup></p>
+<h3><span class="mw-headline" id="Death.2C_burial_place_and_successors">Death, burial place and successors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=6" title="Edit section: Death, burial place and successors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Soon after 653, when Penda made his son <a href="/wiki/Peada_of_Mercia" title="Peada of Mercia">Peada</a> the ruler of the Middle Angles (but still continued to rule his own country),<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[42]</a></sup> the Mercian assault on East Anglia was repeated. The opposing armies of Penda and Anna met at Bulcamp, near <a href="/wiki/Blythburgh" title="Blythburgh">Blythburgh</a> in Suffolk. The East Anglians were defeated and many were slain, including King Anna and his son <a href="/wiki/Jurmin" title="Jurmin">Jurmin</a>.<sup id="cite_ref-W110-13_17-2" class="reference"><a href="#cite_note-W110-13-17">[17]</a></sup> Anna's death is mentioned in the <i>Anglo-Saxon Chronicle</i> in the entry for 653 or 654, <i>"Her Anna cining werð ofslagen&#160;..."</i> &#160;– 'Here Anna was killed'&#160;– but no other details of the battle in which he died are given.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[43]</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[note 4]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Marshland_near_Blythburgh_-_geograph.org.uk_-_192171.jpg" class="image"><img alt="Colour photograph" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Marshland_near_Blythburgh_-_geograph.org.uk_-_192171.jpg/220px-Marshland_near_Blythburgh_-_geograph.org.uk_-_192171.jpg" width="220" height="166" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Marshland_near_Blythburgh_-_geograph.org.uk_-_192171.jpg/330px-Marshland_near_Blythburgh_-_geograph.org.uk_-_192171.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Marshland_near_Blythburgh_-_geograph.org.uk_-_192171.jpg/440px-Marshland_near_Blythburgh_-_geograph.org.uk_-_192171.jpg 2x" data-file-width="599" data-file-height="452" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Marshland_near_Blythburgh_-_geograph.org.uk_-_192171.jpg" class="internal" title="Enlarge"></a></div>
+Marshland around Blythburgh, near where Anna met his death</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Blythburgh_writing_tablet.jpg" class="image"><img alt="drawing" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0d/Blythburgh_writing_tablet.jpg/220px-Blythburgh_writing_tablet.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0d/Blythburgh_writing_tablet.jpg/330px-Blythburgh_writing_tablet.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0d/Blythburgh_writing_tablet.jpg/440px-Blythburgh_writing_tablet.jpg 2x" data-file-width="1252" data-file-height="838" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Blythburgh_writing_tablet.jpg" class="internal" title="Enlarge"></a></div>
+A drawing of the writing-tablet found near a possible monastic site at Blythburgh</div>
+</div>
+</div>
+<p>Blythburgh, a mile from Bulcamp and situated near the fordable headwaters of the <a href="/wiki/River_Blyth,_Suffolk" title="River Blyth, Suffolk">Blyth</a> estuary, was afterwards believed to be the location of the tombs of Anna and Jurmin.<sup id="cite_ref-Oxford_DNB_4-4" class="reference"><a href="#cite_note-Oxford_DNB-4">[4]</a></sup><sup id="cite_ref-Y70-1_41-1" class="reference"><a href="#cite_note-Y70-1-41">[38]</a></sup> It is a candidate for a monastic site or a royal regio (estate). According to Peter Warner, the Latin derivation of part of the nearby place-name 'Bulcamp' indicates its ancient origins, and mediaeval sources which claim continuous Christian worship at Blythburgh throughout the Anglo-Saxon period provide circumstantial evidence of its connections with East Anglian royalty and Christianity.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[45]</a></sup> Part of an 8th-century whalebone <a href="/wiki/Diptych" title="Diptych">diptych</a> or writing-tablet, used for liturgical purposes, has been found near the site.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[46]</a></sup></p>
+<p>Saint Botolph began to build his monastery at Icanho, now conclusively identified as <a href="/wiki/Iken" title="Iken">Iken</a>, Suffolk,<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[47]</a></sup> in the year that Anna was killed, possibly to commemorate the king.<sup id="cite_ref-Y70-1_41-2" class="reference"><a href="#cite_note-Y70-1-41">[38]</a></sup> Anna was succeeded in turn by his two brothers Æthelhere and <a href="/wiki/%C3%86thelwold_of_East_Anglia" title="Æthelwold of East Anglia">Æthelwold</a>, who may have ruled jointly.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[48]</a></sup> It is possible that Æthelhere was set up as a puppet ruler by Penda or was his ally, as he was one of the 30 <i>duces</i> that accompanied Penda when he attacked Oswiu of Northumbria at an unidentified location called the <a href="/wiki/Battle_of_the_Winw%C3%A6d" class="mw-redirect" title="Battle of the Winwæd">Winwæd</a> in 655 or 656. Penda himself was killed at the Winwæd, after having steadily increased his power over a period of 13 years.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[49]</a></sup> Æthelhere (who was also slain at the Battle of the Winwæd) and Æthelwold were succeeded by the descendants of Anna's youngest brother, Æthelric.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[50]</a></sup></p>
+<p>Bede praised Anna's piety in his <i>Ecclesiastical History of the English People</i>,<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[51]</a></sup> and modern historians have since regarded Anna as a devout king,<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[52]</a></sup> but his reputation as a devoted Christian is mainly because he produced a son and four daughters who were all made into <a href="/wiki/List_of_Anglo-Saxon_saints" title="List of Anglo-Saxon saints">Anglo-Saxon saints</a>.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[53]</a></sup> Five hundred years after his death, his tomb at Blythburgh was (according to the <i>Liber Eliensis</i>) still "venerated by the pious devotion of faithful people".<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[54]</a></sup></p>
+<h2><span class="mw-headline" id="Descendants">Descendants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=7" title="Edit section: Descendants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Anna's children were all canonised. The eldest, Seaxburh, was the wife of Eorcenberht of Kent. She ruled Kent from 664 until her son <a href="/wiki/Ecgberht_of_Kent" title="Ecgberht of Kent">Ecgberht</a> came of age. <a href="/wiki/%C3%86thelthryth" title="Æthelthryth">Æthelthryth</a>, according to the <i>Anglo-Saxon Chronicle</i>, founded the <a href="/wiki/Ely_Cathedral" title="Ely Cathedral">monastery at Ely</a> in 673. Another daughter, <a href="/wiki/%C3%86thelburh_of_Faremoutiers" title="Æthelburh of Faremoutiers">Æthelburh</a>, spent her life at the nunnery of Faremoutiers. Anna's son, <a href="/wiki/Jurmin" title="Jurmin">Jurmin</a>, was of warrior age in 653 when he was killed in battle.</p>
+<p>By tradition, Anna is said to have had a fourth daughter, <a href="/wiki/Wihtburh" title="Wihtburh">Wihtburh</a>, an abbess at <a href="/wiki/Dereham" title="Dereham">Dereham</a> (or possibly <a href="/wiki/West_Dereham" title="West Dereham">West Dereham</a>), where there was a royal <a href="/wiki/Double_monastery" title="Double monastery">double monastery</a>.<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[55]</a></sup> She may never have existed: Bede fails to mention her and she first appears in a calendar in the late 10th century <i>Bosworth Psalter</i>.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[56]</a></sup> She may have been a character specifically created by the religious community at Ely, where her remains were supposed to have been taken after being stolen from Dereham<sup id="cite_ref-Y70-1_41-3" class="reference"><a href="#cite_note-Y70-1-41">[38]</a></sup><sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[57]</a></sup> and subsequently used as visual proof of the incorruptibility of a saint's body, a substitute for her sister Æthelthryth, whose body had to remain unexamined in her tomb.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[58]</a></sup> Manuscript F of the <i>Anglo-Saxon Chronicle</i>, which dates from about 1100, mentions Wihtburh's death when it records that her body was found uncorrupted in 798, 55 years after she died. The resulting date for her death of 743 is too far too late for her to have been a sister of Æthelthryth, who was born in 636.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[59]</a></sup><sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[60]</a></sup></p>
+<p><br /></p>
+<table style="border-spacing: 0;" title="Tytila's descent">
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;">Tytila of East Anglia</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/Eni_of_East_Anglia" title="Eni of East Anglia">Eni of East Anglia</a></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;; background-color: #afa;">Anna of East Anglia</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;">Sæwara</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/%C3%86thelhere_of_East_Anglia" title="Æthelhere of East Anglia">Æthelhere of East Anglia</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/%C3%86thelwold_of_East_Anglia" title="Æthelwold of East Anglia">Æthelwold of East Anglia</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;">Æthelric</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px dashed black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px dashed black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px dashed black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/Eorcenberht_of_Kent" title="Eorcenberht of Kent">Eorcenberht of Kent</a></td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/Seaxburh_of_Ely" title="Seaxburh of Ely">Seaxburh of Ely</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/%C3%86thelthryth" title="Æthelthryth">Æthelthryth</a></td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;">1. Tondberht</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/%C3%86thelburh_of_Faremoutiers" title="Æthelburh of Faremoutiers">Æthelburh</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/Jurmin" title="Jurmin">Jurmin</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/Wihtburh" title="Wihtburh">Wihtburh</a></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;">2. <a href="/wiki/Ecgfrith_of_Northumbria" title="Ecgfrith of Northumbria">Ecgfrith of Northumbria</a></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" style="border-right:1px solid black">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black;border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-bottom:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2">
+<div style="width:1em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td rowspan="2" colspan="2"></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td>
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td style="border-right:1px solid black">
+<div style="width:1em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/Ermenilda_of_Ely" title="Ermenilda of Ely">Ermenilda</a></td>
+<td colspan="2" style="border-bottom:1px solid black">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/Wulfhere_of_Mercia" title="Wulfhere of Mercia">Wulfhere of Mercia</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;">Ercongota</td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/Ecgberht_of_Kent" title="Ecgberht of Kent">Ecgberht of Kent</a></td>
+<td rowspan="2" colspan="2">
+<div style="width:2em;height:2em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+<td colspan="6" rowspan="2" style="border: 1px solid black; padding: 0.2em;&#160;;"><a href="/wiki/Hlothhere_of_Kent" title="Hlothhere of Kent">Hlothhere of Kent</a></td>
+</tr>
+<tr style="height: 1px; text-align: center;">
+<td colspan="2">
+<div style="width:2em;height:1em"><span style="font:1px/1px serif">&#160;</span></div>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Bede gives the story without dates, but makes it clear that Anna was king when Cenwalh came to East Anglia; the <i>Anglo-Saxon Chronicle</i> gives the date as 645 or 646 but does not specify that Anna was king at the time.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">A Christian king like Anna would have made a priority of demonstrating his commitment to his kingdom's new faith by acting in a way that would mark them out as holy, and the patronage of nunneries would have been of concern to him.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[29]</a></sup> It is not recorded why Anna's daughters took the veil. Yorke comments on the paucity of written documents regarding the princesses of East Anglia, considering the important role they played in the foundation of Anglo-Saxon royal nunneries.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[30]</a></sup></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">A <a rel="nofollow" class="external text" href="http://www.anglo-saxons.net/hwaet/?do=get&amp;type=map&amp;id=map8c">map</a> of southern England in the 8th century (drawn by <a href="/wiki/Reginald_Piggott" title="Reginald Piggott">Reginald Piggott</a>) gives an indication of where the Gyrwe people lived&#160;– between East Anglia and the land of the Middle Angles.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[37]</a></sup></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text">Manuscript A of the <i>Anglo-Saxon Chronicle</i> dates <i>Onna's</i> death at 654; <i>Anna's</i> demise is dated by Manuscript E at 653. See Swanton, <i>Anglo-Saxon Chronicle</i>, pp. xv–xvi for a discussion of some of the discrepancies between the different manuscripts and possible reasons for these.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[44]</a></sup></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=9" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-eb11-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-eb11_1-0">^</a></b></span> <span class="reference-text"><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a>&#160;One or more of the preceding sentences&#160;incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>:&#160;<cite id="CITEREFChisholm1911" class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/East_Anglia" class="extiw" title="wikisource:1911 Encyclopædia Britannica/East Anglia">East Anglia</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.atitle=East+Anglia&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, p. 58.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Fairweather, <i>Liber Eliensis</i>, pp.&#160;8–10.</span></li>
+<li id="cite_note-Oxford_DNB-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Oxford_DNB_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Oxford_DNB_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Oxford_DNB_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Oxford_DNB_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Oxford_DNB_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Kelly, <i>Oxford Dictionary of National Biography: Anna (d. 654?), king of the East Angles</i>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Lapidge, <i>Blackwell Encyclopaedia of Anglo-Saxon England</i>, p. 154.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Bede, (edition by Colgrave and Mynors), <i>Ecclesiastical History of the English People</i>, (Book III, Chapter 8), pp. 238–9, "<i>...&#160;inter quas erat Saethryd, filia uxoris Annae regis Orientalium Anglorum</i>".</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Plunkett, <i>Suffolk in Anglo-Saxon Times</i>, pp. 116–17.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Fairweather, <i>Liber Eliensis: A History of the Isle of Ely from the Seventh Century to the Twelfth, compiled by a Monk of Ely in the Twelfth Century</i>, pp. 14–15.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Love, <i>Goscelin of Saint-Bertin: the Hagiography of the Female Saints of Ely</i>, p. lxxxviii.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Hunter Blair, in <i>Learning and Literature in Anglo-Saxon England</i>, p. 6.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Warner, <i>The Origins of Suffolk</i>, p. 119.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Fairweather, <i>Liber Eliensis: A History of the Isle of Ely from the Seventh Century to the Twelfth, compiled by a Monk of Ely in the Twelfth Century</i>, pp. 15–16.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">James, <i>Suffolk and Norfolk</i>, p. 14.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Warner, <i>The Origins of Suffolk</i>, pp. 119–20.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Stenton, <i>Anglo-Saxon England</i>, pp. 80–81.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, p. 62.</span></li>
+<li id="cite_note-W110-13-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-W110-13_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-W110-13_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-W110-13_17-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Warner, <i>The Origins of Suffolk</i>, pp. 110–13.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Kirby, <i>The Earliest English Kings</i>, pp. 207–8.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Kirby, <i>The Earliest English Kings</i>, p. 75.</span></li>
+<li id="cite_note-K1_108-9-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-K1_108-9_20-0">^</a></b></span> <span class="reference-text">Kirby, <i>The Earliest English Kings</i>, p.&#160;208 (note 26).</span></li>
+<li id="cite_note-Y63-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Y63_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Y63_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, pp. 63, 65.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Bede (ed. Colgrave and Mynors), <i>Ecclesiastical History of the English People</i>, (Book III, Chapter 7), p. 235.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Swanton, <i>Anglo-Saxon Chronicle</i>, pp.&#160;28–29.</span></li>
+<li id="cite_note-Kirby.2C_p.79-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kirby.2C_p.79_25-0">^</a></b></span> <span class="reference-text">Kirby, <i>The Earliest English Kings</i>, p. 79.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of early Anglo-Saxon-England</i>, pp. 62–3.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Dumville, <i>Essex, Middle Anglia, and the Expansion of Mercia in the South-East Midlands</i>, p. 132.</span></li>
+<li id="cite_note-Y65-6-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Y65-6_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Y65-6_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, pp. 65–66.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Kirby, <i>The Earliest English Kings</i>, p. 36.</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Yorke, <i>Nunneries and the Anglo-Saxon Royal Houses</i>, pp. 17, 30.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Yorke, <i>Nunneries and the Anglo-Saxon Royal Houses</i>, pp. 18, 27.</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Kirby, <i>The Earliest English Kings</i>, pp. 55, 74.</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Yorke, <i>Nunneries and the Anglo-Saxon Royal Houses</i>, p. 24.</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, p. 78.</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Stenton, <i>Anglo-Saxon England</i>, p. 67.</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Swanton, <i>The Anglo-Saxon Chronicle</i>, p. 26.</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Plunkett, <i>Suffolk in Anglo-Saxon Times</i>, p. 110.</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">University of Cambridge (Department of ASNC), online map: <i>Southern England in the Eighth Century</i>.</span></li>
+<li id="cite_note-Y70-1-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-Y70-1_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Y70-1_41-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Y70-1_41-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Y70-1_41-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, pp. 70–71.</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, pp. 62–63, 70.</span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, pp. 62–63.</span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text">West, et al., <i>Iken, St Botolph, and the Coming of East Anglian Christianity</i>, p. 45.</span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">According to Bede (Yorke, <i>Kings and Kingdoms</i>, p. 63).</span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">Earle, <i>Two of the Saxon Chronicles Parallel</i>, p.&#160;27.</span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text">Earle, <i>Two of the Saxon Chronicles Parallel</i>, pp. 27–28.</span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text">Warner, <i>The Origins of Suffolk</i>, pp. 115, 120.</span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text">Wessex Archaeology.</span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text">Blair, <i>Oxford Dictionary of Nationary Biography: Botwulf (fl. 654 &#160;– c. 670), abbot of Iken</i>.</span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, p. 69.</span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text">Kirby, <i>The Earliest English Kings</i>, pp. 40, 89.</span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text">Yorke, <i>Kings and Kingdoms of Early Anglo-Saxon England</i>, pp. 68, 69.</span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text">Bede, (edition by Colgrave and Mynors), <i>Ecclesiastical History of the English People</i>, (Book IV, Chapter 19), p. 391.</span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text">See for example Fox and Dickens, <i>The early cultures of north-west Europe: (H. M. Chadwick memorial studies)</i>, p. 111.</span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text">Hollis, <i>Anglo-Saxon Women and the Church</i>, p. 68.</span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text">Fairweather, <i>Liber Eliensis: A History of the Isle of Ely from the Seventh Century to the Twelfth, compiled by a Monk of Ely in the Twelfth Century</i>, p. 21.</span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text">Yorke, <i>Nunneries and the Anglo-Saxon Royal Houses</i>, p. 17.</span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text">Bishop and Gaquet, <i>The Bosworth Psalter</i>, p. 96.</span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text">Fryde, et al., <i>Handbook of British Chronology</i>, p. 8.</span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text">Raguin and Stanbury, <i>Women's Space: Patronage, Place, and Gender in the Medieval Church</i>, p. 49.</span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text">Swanton, <i>The Anglo-Saxon Chronicle</i>, pp. xxvii–xxviii, 56.</span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text">Yorke, <i>Nunneries and the Anglo-Saxon Royal Houses</i>, p. 37 (note 11).</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Primary sources</b></p>
+<ul>
+<li><cite class="citation book"><a href="/wiki/Bede" title="Bede">Bede</a>; Bertram Colgrave; R. A. B. Mynors (1992). <i>Bede: Ecclesiastical History of the English People</i>. Cambridge: Clarendon Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.au=Bede&amp;rft.au=Bertram+Colgrave&amp;rft.au=R.+A.+B.+Mynors&amp;rft.btitle=Bede%3A+Ecclesiastical+History+of+the+English+People&amp;rft.date=1992&amp;rft.genre=book&amp;rft.place=Cambridge&amp;rft.pub=Clarendon+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/John_Earle_(professor)" title="John Earle (professor)">Earle, John</a> (1865). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_FUJAAAAQAAJ"><i>Two of the Saxon Chronicles Parallel</i></a> (in Old English). Oxford: Clarendon Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.au=Earle%2C+John&amp;rft.btitle=Two+of+the+Saxon+Chronicles+Parallel&amp;rft.date=1865&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_FUJAAAAQAAJ&amp;rft.place=Oxford&amp;rft.pub=Clarendon+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Gaskett, G. A.; Bishop, Edmund (1908). <i>The Bosworth Psalter</i>. London: George Bell and Sons.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.au=Bishop%2C+Edmund&amp;rft.au=Gaskett%2C+G.+A.&amp;rft.btitle=The+Bosworth+Psalter&amp;rft.date=1908&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=George+Bell+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Fairweather, Janet (trans.), ed. (2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=fh5OozghywIC"><i>Liber Eliensis: A History of the Isle of Ely from the Seventh Century to the Twelfth, compiled by a Monk of Ely in the Twelfth Century</i></a>. Woodbridge: Boydell. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84383-015-3" title="Special:BookSources/978-1-84383-015-3">978-1-84383-015-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.btitle=Liber+Eliensis%3A+A+History+of+the+Isle+of+Ely+from+the+Seventh+Century+to+the+Twelfth%2C+compiled+by+a+Monk+of+Ely+in+the+Twelfth+Century&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dfh5OozghywIC&amp;rft.isbn=978-1-84383-015-3&amp;rft.place=Woodbridge&amp;rft.pub=Boydell&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Swanton, Michael (1997). <i>The Anglo-Saxon Chronicle</i>. London: Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-415-92129-5" title="Special:BookSources/0-415-92129-5">0-415-92129-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=Michael&amp;rft.aulast=Swanton&amp;rft.btitle=The+Anglo-Saxon+Chronicle&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-415-92129-5&amp;rft.place=London&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<p><b>Secondary sources</b></p>
+<ul>
+<li><cite class="citation book">Bishop, Edmund; Gasquet, F. A. (1908). <a rel="nofollow" class="external text" href="https://archive.org/stream/bosworthpsalter01tokegoog#page/n116/mode/2up"><i>The Bosworth Psalter</i></a>. London: George Bell &amp; Sons.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.au=Bishop%2C+Edmund&amp;rft.au=Gasquet%2C+F.+A.&amp;rft.btitle=The+Bosworth+Psalter&amp;rft.date=1908&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fbosworthpsalter01tokegoog%23page%2Fn116%2Fmode%2F2up&amp;rft.place=London&amp;rft.pub=George+Bell+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">Blair, John (September 2004). "Botwulf (fl. 654&#160;– c. 670), abbot of Iken". In <a href="/wiki/Lawrence_Goldman" title="Lawrence Goldman">Goldman, Lawrence</a>. <i><a href="/wiki/Oxford_Dictionary_of_National_Biography" class="mw-redirect" title="Oxford Dictionary of National Biography">Oxford Dictionary of National Biography</a></i>. <b>10</b>. Oxford: Oxford University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.atitle=Botwulf+%28fl.+654+%93+c.+670%29%2C+abbot+of+Iken&amp;rft.aufirst=John&amp;rft.aulast=Blair&amp;rft.btitle=Oxford+Dictionary+of+National+Biography&amp;rft.date=2004-09&amp;rft.genre=bookitem&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/David_Dumville" title="David Dumville">Dumville, David</a> (1989). "Essex, Middle Anglia, and the Expansion of Mercia in the South-East Midlands". In Basset, Steven. <i>The Origins of Anglo-Saxon Kingdoms</i>. London: Leicester University Press. pp.&#160;123–140. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7185-1317-7" title="Special:BookSources/0-7185-1317-7">0-7185-1317-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.atitle=Essex%2C+Middle+Anglia%2C+and+the+Expansion+of+Mercia+in+the+South-East+Midlands&amp;rft.aufirst=David&amp;rft.aulast=Dumville&amp;rft.btitle=The+Origins+of+Anglo-Saxon+Kingdoms&amp;rft.date=1989&amp;rft.genre=bookitem&amp;rft.isbn=0-7185-1317-7&amp;rft.pages=123-140&amp;rft.place=London&amp;rft.pub=Leicester+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Cyril_Fox" title="Cyril Fox">Fox, Sir Cyril</a>; Dickens, Bruce (1950). <i>The Early Cultures of North-West Europe: (H. M. Chadwick memorial studies)</i>. Cambridge: Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.au=Dickens%2C+Bruce&amp;rft.au=Fox%2C+Sir+Cyril&amp;rft.btitle=The+Early+Cultures+of+North-West+Europe%3A+%28H.+M.+Chadwick+memorial+studies%29&amp;rft.date=1950&amp;rft.genre=book&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Fryde, E. B.; Greenway, D. E.; Porter, S.; Roy, I. (1986). <i>Handbook of British Chronology</i> (3rd ed.). Cambridge: Cambridge University Press. p.&#160;216. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-56350-X" title="Special:BookSources/0-521-56350-X">0-521-56350-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.au=Fryde%2C+E.+B.&amp;rft.au=Greenway%2C+D.+E.&amp;rft.au=Porter%2C+S.&amp;rft.au=Roy%2C+I.&amp;rft.btitle=Handbook+of+British+Chronology&amp;rft.date=1986&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-521-56350-X&amp;rft.pages=216&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Antonia_Gransden" title="Antonia Gransden">Gransden, Antonia</a> (1974). <i>Historical Writing in England: c. 500 to c. 1307</i>. Ithaca, New York State: Cornell University Press. p.&#160;270. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8014-0770-2" title="Special:BookSources/0-8014-0770-2">0-8014-0770-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.au=Gransden%2C+Antonia&amp;rft.btitle=Historical+Writing+in+England%3A+c.+500+to+c.+1307&amp;rft.date=1974&amp;rft.genre=book&amp;rft.isbn=0-8014-0770-2&amp;rft.pages=270&amp;rft.place=Ithaca%2C+New+York+State&amp;rft.pub=Cornell+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Hollis, Stephanie (1992). <i>Anglo-Saxon Women and the Church</i>. Woodbridge: The Boydell Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85115-317-8" title="Special:BookSources/0-85115-317-8">0-85115-317-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=Stephanie&amp;rft.aulast=Hollis&amp;rft.btitle=Anglo-Saxon+Women+and+the+Church&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=0-85115-317-8&amp;rft.place=Woodbridge&amp;rft.pub=The+Boydell+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Hunter Blair, Peter (2010). "Whitby as a centre of learning in the seventh century". In Lapidge, Michael; Gneuss, Helmut. <i>Learning and Literature in Anglo-Saxon England: Studies Presented to Peter Clemoes on the Occasion of his Sixty-Fifth Birthday</i>. Cambridge: Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-12871-1" title="Special:BookSources/978-0-521-12871-1">978-0-521-12871-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.atitle=Whitby+as+a+centre+of+learning+in+the+seventh+century&amp;rft.aufirst=Peter&amp;rft.aulast=Hunter+Blair&amp;rft.btitle=Learning+and+Literature+in+Anglo-Saxon+England%3A+Studies+Presented+to+Peter+Clemoes+on+the+Occasion+of+his+Sixty-Fifth+Birthday&amp;rft.date=2010&amp;rft.genre=bookitem&amp;rft.isbn=978-0-521-12871-1&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/M._R._James" title="M. R. James">James, M. R.</a> (1987) [1930]. <i>Suffolk and Norfolk: A Perambulation of the Two Counties with Notices of Their History and Their Ancient Buildings</i>. Bury St. Edmunds: Alastair Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-870567-10-2" title="Special:BookSources/1-870567-10-2">1-870567-10-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=M.+R.&amp;rft.aulast=James&amp;rft.btitle=Suffolk+and+Norfolk%3A+A+Perambulation+of+the+Two+Counties+with+Notices+of+Their+History+and+Their+Ancient+Buildings&amp;rft.date=1987&amp;rft.genre=book&amp;rft.isbn=1-870567-10-2&amp;rft.place=Bury+St.+Edmunds&amp;rft.pub=Alastair+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">Kelly, S. E. (September 2004). "Anna (d. 654?), king of the East Angles". In <a href="/wiki/Lawrence_Goldman" title="Lawrence Goldman">Goldman, Lawrence</a>. <i><a href="/wiki/Oxford_Dictionary_of_National_Biography" class="mw-redirect" title="Oxford Dictionary of National Biography">Oxford Dictionary of National Biography</a></i>. <b>1</b>. Oxford: Oxford University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.atitle=Anna+%28d.+654%3F%29%2C+king+of+the+East+Angles&amp;rft.aufirst=S.+E.&amp;rft.aulast=Kelly&amp;rft.btitle=Oxford+Dictionary+of+National+Biography&amp;rft.date=2004-09&amp;rft.genre=bookitem&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Kirby, D. P. (2000). <i>The Earliest English Kings</i>. London and New York: Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-415-24211-8" title="Special:BookSources/0-415-24211-8">0-415-24211-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=D.+P.&amp;rft.aulast=Kirby&amp;rft.btitle=The+Earliest+English+Kings&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-415-24211-8&amp;rft.place=London+and+New+York&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Lapidge, Michael (2001). <i>The Blackwell Encyclopaedia of Anglo-Saxon England</i>. Oxford: Blackwell. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-631-22492-1" title="Special:BookSources/978-0-631-22492-1">978-0-631-22492-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=Michael&amp;rft.aulast=Lapidge&amp;rft.btitle=The+Blackwell+Encyclopaedia+of+Anglo-Saxon+England&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=978-0-631-22492-1&amp;rft.place=Oxford&amp;rft.pub=Blackwell&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Love, Rosalind C. (2004). <i>Goscelin of Saint-Bertin: the Hagiography of the Female Saints of Ely</i>. Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-820815-4" title="Special:BookSources/0-19-820815-4">0-19-820815-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=Rosalind+C.&amp;rft.aulast=Love&amp;rft.btitle=Goscelin+of+Saint-Bertin%3A+the+Hagiography+of+the+Female+Saints+of+Ely&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-19-820815-4&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Colin_Matthew" title="Colin Matthew">Matthew, Colin</a>, ed. (2004). <a rel="nofollow" class="external text" href="http://www.oxforddnb.com/"><i>Oxford Dictionary of National Biography</i></a>. Oxford: Oxford University Press<span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.btitle=Oxford+Dictionary+of+National+Biography&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.oxforddnb.com%2F&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Plunkett, Steven (2005). <i>Suffolk in Anglo-Saxon Times</i>. Stroud: Tempus. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7524-3139-0" title="Special:BookSources/0-7524-3139-0">0-7524-3139-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=Steven&amp;rft.aulast=Plunkett&amp;rft.btitle=Suffolk+in+Anglo-Saxon+Times&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=0-7524-3139-0&amp;rft.place=Stroud&amp;rft.pub=Tempus&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Raguin, Virginia Chieffo; Stanbury, Sarah, eds. (2005). <i>Women's Space: Patronage, Place, and Gender in the Medieval Church</i>. State University of New York. p.&#160;49. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7914-6365-6" title="Special:BookSources/0-7914-6365-6">0-7914-6365-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.btitle=Women%27s+Space%3A+Patronage%2C+Place%2C+and+Gender+in+the+Medieval+Church&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=0-7914-6365-6&amp;rft.pages=49&amp;rft.pub=State+University+of+New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Frank_Stenton" title="Frank Stenton">Stenton, Sir Frank</a> (1988). <i>Anglo-Saxon England</i>. New York: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-821716-1" title="Special:BookSources/0-19-821716-1">0-19-821716-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=Sir+Frank&amp;rft.aulast=Stenton&amp;rft.btitle=Anglo-Saxon+England&amp;rft.date=1988&amp;rft.genre=book&amp;rft.isbn=0-19-821716-1&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Warner, Peter (1996). <i>The Origins of Suffolk</i>. Manchester and New York: Manchester University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7190-3817-0" title="Special:BookSources/0-7190-3817-0">0-7190-3817-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=Peter&amp;rft.aulast=Warner&amp;rft.btitle=The+Origins+of+Suffolk&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=0-7190-3817-0&amp;rft.place=Manchester+and+New+York&amp;rft.pub=Manchester+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Wessex Archaeology. <a rel="nofollow" class="external text" href="http://www.scribd.com/doc/22056818/Blythburgh-Priory">"<i>Blythburgh Priory, Blythburgh, Suffolk, Archaeological Evaluation and Assessment of Results</i>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.au=Wessex+Archaeology&amp;rft.btitle=Blythburgh+Priory%2C+Blythburgh%2C+Suffolk%2C+Archaeological+Evaluation+and+Assessment+of+Results&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scribd.com%2Fdoc%2F22056818%2FBlythburgh-Priory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">West, S. E.; Scarfe, N.; Cramp, R. J. (1984). <a rel="nofollow" class="external text" href="http://www.freightmatters.co.uk/suffolkarch/biblio.html">"Iken, St Botolph, and the Coming of East Anglian Christianity"</a>. <i>Proc. Suffolk Institute of Archaeology</i>. <b>15</b>: 279–301.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.atitle=Iken%2C+St+Botolph%2C+and+the+Coming+of+East+Anglian+Christianity&amp;rft.au=Cramp%2C+R.+J.&amp;rft.aufirst=S.+E.&amp;rft.aulast=West&amp;rft.au=Scarfe%2C+N.&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.freightmatters.co.uk%2Fsuffolkarch%2Fbiblio.html&amp;rft.jtitle=Proc.+Suffolk+Institute+of+Archaeology&amp;rft.pages=279-301&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Barbara_Yorke" title="Barbara Yorke">Yorke, Barbara</a> (2002). <i>Kings and Kingdoms of Early Anglo-Saxon England</i>. London and New York: Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-415-16639-X" title="Special:BookSources/0-415-16639-X">0-415-16639-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=Barbara&amp;rft.aulast=Yorke&amp;rft.btitle=Kings+and+Kingdoms+of+Early+Anglo-Saxon+England&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-415-16639-X&amp;rft.place=London+and+New+York&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Barbara_Yorke" title="Barbara Yorke">Yorke, Barbara</a> (2003). <i>Nunneries and the Anglo-Saxon Royal Houses</i>. London and New York: Continuum. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8264-6040-2" title="Special:BookSources/0-8264-6040-2">0-8264-6040-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.aufirst=Barbara&amp;rft.aulast=Yorke&amp;rft.btitle=Nunneries+and+the+Anglo-Saxon+Royal+Houses&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-8264-6040-2&amp;rft.place=London+and+New+York&amp;rft.pub=Continuum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Peterborough_Chronicle_cropped.jpg/23px-Peterborough_Chronicle_cropped.jpg" width="23" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Peterborough_Chronicle_cropped.jpg/35px-Peterborough_Chronicle_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Peterborough_Chronicle_cropped.jpg/47px-Peterborough_Chronicle_cropped.jpg 2x" data-file-width="297" data-file-height="355" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Anglo-Saxon_England" title="Portal:Anglo-Saxon England">Anglo-Saxon England portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://pase.ac.uk/jsp/DisplayPerson.jsp?personKey=10527">Anna 1</a> at <a href="/wiki/Prosopography_of_Anglo-Saxon_England" title="Prosopography of Anglo-Saxon England">Prosopography of Anglo-Saxon England</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.channel4.com/programmes/time-team/4od#2926753">An episode of <i>Time Team</i> (Series 16, Episode 13&#160;– <i>Skeletons in the Shed: Blythburgh, Suffolk</i>, first broadcast on 29 March 2009)</a>, at <a rel="nofollow" class="external free" href="http://www.channel4.com">http://www.channel4.com</a>, in which the historical association of the village of Blythburgh with Anna is explored.</li>
+<li><cite class="citation map"><a rel="nofollow" class="external text" href="http://www.trin.cam.ac.uk/sdk13/RPMaps/mapOffa.JPG"><i>Southern England in the Eighth Century</i></a> (Map). Maps of Anglo-Saxon England. University of Cambridge (Department of Anglo-Saxon, Norse &amp; Celtic)<span class="reference-accessdate">. Retrieved <span class="nowrap">6 June</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnna+of+East+Anglia&amp;rft.btitle=Southern+England+in+the+Eighth+Century&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.trin.cam.ac.uk%2Fsdk13%2FRPMaps%2FmapOffa.JPG&amp;rft.pub=University+of+Cambridge+%28Department+of+Anglo-Saxon%2C+Norse+%26+Celtic%29&amp;rft.series=Maps+of+Anglo-Saxon+England&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Information about the Blythburgh writing-tablet, now at the British Museum (in London), can be found at the <a rel="nofollow" class="external text" href="https://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=89470&amp;partid=1&amp;output=Places%2f!!%2fOR%2f!!%2f29205%2f!%2f29205-3-2%2f!%2fFound%2fAcquired+Blythburgh%2f!%2f%2f!!%2f%2f!!!%2f&amp;orig=%2fresearch%2fsearch_the_collection_database%2fadvanced_search.aspx&amp;currentPage=1&amp;numpages=10">museum's website</a>.</li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr>
+<th colspan="3" style="border-top: 5px solid #65BCFF"><a href="/wiki/List_of_English_monarchs" title="List of English monarchs">English royalty</a></th>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Ecgric_of_East_Anglia" title="Ecgric of East Anglia">Ecgric</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Kings_of_East_Anglia" class="mw-redirect" title="Kings of East Anglia">King of East Anglia</a></b><br />
+possibly early 640s&#160;– 653 or 654</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/%C3%86thelhere_of_East_Anglia" title="Æthelhere of East Anglia">Æthelhere</a></span></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="Monarchs_of_East_Anglia" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:East_Anglian_monarchs" title="Template:East Anglian monarchs"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:East_Anglian_monarchs" title="Template talk:East Anglian monarchs"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:East_Anglian_monarchs&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Monarchs_of_East_Anglia" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_monarchs_of_East_Anglia" title="List of monarchs of East Anglia">Monarchs of East Anglia</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wehha_of_East_Anglia" title="Wehha of East Anglia">Wehha</a></li>
+<li><a href="/wiki/Wuffa_of_East_Anglia" title="Wuffa of East Anglia">Wuffa</a></li>
+<li><a href="/wiki/Tytila_of_East_Anglia" title="Tytila of East Anglia">Tytila</a></li>
+<li><a href="/wiki/R%C3%A6dwald_of_East_Anglia" title="Rædwald of East Anglia">Rædwald</a></li>
+<li><a href="/wiki/Eorpwald_of_East_Anglia" title="Eorpwald of East Anglia">Eorpwald</a></li>
+<li><a href="/wiki/Ricberht_of_East_Anglia" title="Ricberht of East Anglia">Ricberht</a></li>
+<li><a href="/wiki/Sigeberht_of_East_Anglia" title="Sigeberht of East Anglia">Sigeberht</a> <sup><small>[c]</small></sup></li>
+<li><a href="/wiki/Ecgric_of_East_Anglia" title="Ecgric of East Anglia">Ecgric</a> <sup><small>[c]</small></sup></li>
+<li><a class="mw-selflink selflink">Anna</a></li>
+<li><a href="/wiki/%C3%86thelhere_of_East_Anglia" title="Æthelhere of East Anglia">Æthelhere</a></li>
+<li><a href="/wiki/%C3%86thelwold_of_East_Anglia" title="Æthelwold of East Anglia">Æthelwold</a></li>
+<li><a href="/wiki/Ealdwulf_of_East_Anglia" title="Ealdwulf of East Anglia">Ealdwulf</a></li>
+<li><a href="/wiki/%C3%86lfwald_of_East_Anglia" title="Ælfwald of East Anglia">Ælfwald</a></li>
+<li><a href="/wiki/Beonna_of_East_Anglia" title="Beonna of East Anglia">Beonna</a> <sup><small>[c]</small></sup></li>
+<li><a href="/wiki/Alberht_of_East_Anglia" title="Alberht of East Anglia">Alberht</a> <sup><small>[c]</small></sup></li>
+<li><a href="/wiki/%C3%86thelred_I_of_East_Anglia" title="Æthelred I of East Anglia">Æthelred I</a> <sup><small>[s]</small></sup></li>
+<li><a href="/wiki/%C3%86thelberht_II_of_East_Anglia" title="Æthelberht II of East Anglia">Æthelberht II</a></li>
+<li><a href="/wiki/Offa_of_Mercia" title="Offa of Mercia">Offa</a> <sup><small>[km]</small></sup></li>
+<li><a href="/wiki/Eadwald_of_East_Anglia" title="Eadwald of East Anglia">Eadwald</a></li>
+<li><a href="/wiki/Coenwulf_of_Mercia" title="Coenwulf of Mercia">Cœnwulf</a> <sup><small>[km]</small></sup></li>
+<li><a href="/wiki/Ceolwulf_I_of_Mercia" title="Ceolwulf I of Mercia">Ceolwulf</a> <sup><small>[km]</small></sup></li>
+<li><a href="/wiki/Beornwulf_of_Mercia" title="Beornwulf of Mercia">Beornwulf</a> <sup><small>[m]</small></sup></li>
+<li><a href="/wiki/%C3%86thelstan_of_East_Anglia" title="Æthelstan of East Anglia">Æthelstan</a></li>
+<li><a href="/wiki/%C3%86thelweard_of_East_Anglia" title="Æthelweard of East Anglia">Æthelweard</a></li>
+<li><a href="/wiki/Edmund_the_Martyr" title="Edmund the Martyr">Edmund the Martyr</a></li>
+<li><a href="/wiki/Oswald_of_East_Anglia" title="Oswald of East Anglia">Oswald</a> <sup><small>[s]</small></sup></li>
+<li><a href="/wiki/%C3%86thelred_II_of_East_Anglia" title="Æthelred II of East Anglia">Æthelred II</a> <sup><small>[s]</small></sup></li>
+<li><a href="/wiki/Guthrum" title="Guthrum">Guthrum I</a> <sup><small>[d]</small></sup></li>
+<li><a href="/wiki/Eohric_of_East_Anglia" title="Eohric of East Anglia">Eohric</a> <sup><small>[d]</small></sup></li>
+<li><a href="/wiki/%C3%86thelwold_of_Wessex" class="mw-redirect" title="Æthelwold of Wessex">Æthelwold</a> <sup><small>[s]</small></sup></li>
+<li><a href="/wiki/Guthrum_II" title="Guthrum II">Guthrum II</a> <sup><small>[d]</small></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><sup><small>[c]</small></sup> <span class="wrap">co-kings</span></li>
+<li><sup><small>[km]</small></sup> <span class="wrap">also king of Kent and king of Mercia</span></li>
+<li><sup><small>[m]</small></sup> <span class="wrap">also king of Mercia</span></li>
+<li><sup><small>[s]</small></sup> <span class="wrap">sub-kings</span></li>
+<li><sup><small>[d]</small></sup> <span class="wrap">Danes</span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20170412105916
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.516 seconds
+Real time usage: 0.580 seconds
+Preprocessor visited node count: 18724/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 131578/2097152 bytes
+Template argument size: 44485/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 4.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  443.999      1 -total
+ 19.69%   87.409     13 Template:Familytree
+ 18.32%   81.327     23 Template:Cite_book
+ 15.91%   70.630      2 Template:Reflist
+ 14.44%   64.130     13 Template:Family_tree/step2
+ 10.53%   46.753      1 Template:Infobox_royalty
+  9.61%   42.686      1 Template:EB1911
+  8.32%   36.945      1 Template:Infobox
+  8.18%   36.303      1 Template:Cite_EB1911
+  7.50%   33.312      3 Template:Cite_encyclopedia
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:544577-0!*!0!!en!4!* and timestamp 20170412105916 and revision id 764529839
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Anna_of_East_Anglia&amp;oldid=764529839">https://en.wikipedia.org/w/index.php?title=Anna_of_East_Anglia&amp;oldid=764529839</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:650s_deaths" title="Category:650s deaths">650s deaths</a></li><li><a href="/wiki/Category:7th-century_English_monarchs" title="Category:7th-century English monarchs">7th-century English monarchs</a></li><li><a href="/wiki/Category:Anglo-Saxons_killed_in_battle" title="Category:Anglo-Saxons killed in battle">Anglo-Saxons killed in battle</a></li><li><a href="/wiki/Category:East_Anglian_monarchs" title="Category:East Anglian monarchs">East Anglian monarchs</a></li><li><a href="/wiki/Category:Monarchs_killed_in_action" title="Category:Monarchs killed in action">Monarchs killed in action</a></li><li><a href="/wiki/Category:House_of_Wuffingas" title="Category:House of Wuffingas">House of Wuffingas</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_1911_Encyclop%C3%A6dia_Britannica" title="Category:Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica">Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica</a></li><li><a href="/wiki/Category:EngvarB_from_April_2014" title="Category:EngvarB from April 2014">EngvarB from April 2014</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2014" title="Category:Use dmy dates from April 2014">Use dmy dates from April 2014</a></li><li><a href="/wiki/Category:Articles_containing_Old_English-language_text" title="Category:Articles containing Old English-language text">Articles containing Old English-language text</a></li><li><a href="/wiki/Category:CS1_foreign_language_sources_(ISO_639-2)" title="Category:CS1 foreign language sources (ISO 639-2)">CS1 foreign language sources (ISO 639-2)</a></li><li><a href="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</a></li><li><a href="/wiki/Category:Year_of_birth_unknown" title="Category:Year of birth unknown">Year of birth unknown</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Anna+of+East+Anglia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Anna+of+East+Anglia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Anna_of_East_Anglia"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Anna_of_East_Anglia"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Anna_of_East_Anglia" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Anna_of_East_Anglia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Anna_of_East_Anglia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Anna_of_East_Anglia&amp;oldid=764529839" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Anna_of_East_Anglia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q559247" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anna_of_East_Anglia&amp;id=764529839" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anna+of+East+Anglia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Anna+of+East+Anglia&amp;returnto=Anna+of+East+Anglia&amp;oldid=764529839&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Anna_of_East_Anglia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Anna_%C4%92astengla_Cyning" title="Anna Ēastengla Cyning – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Anna_de_l%27%C3%80nglia_Oriental" title="Anna de l'Ànglia Oriental – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Anna_(East_Anglia)" title="Anna (East Anglia) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anna_de_Estanglia" title="Anna de Estanglia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Anna_(East_Anglia)" title="Anna (East Anglia) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Anna_d%27Est-Anglie" title="Anna d'Est-Anglie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Anna_de_Anglia_Oriental" title="Anna de Anglia Oriental – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Anna_dell%27Anglia_orientale" title="Anna dell'Anglia orientale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Anna_van_East_Anglia" title="Anna van East Anglia – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl badge-Q17437798 badge-goodarticle" title="good article"><a href="https://pl.wikipedia.org/wiki/Anna_(kr%C3%B3l_Wschodnich_Angl%C3%B3w)" title="Anna (król Wschodnich Anglów) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ana_da_%C3%82nglia_Oriental" title="Ana da Ânglia Oriental – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BD%D0%B0_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B9_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8)" title="Анна (король Восточной Англии) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q559247#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 February 2017, at 13:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Anna_of_East_Anglia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.516","walltime":"0.580","ppvisitednodes":{"value":18724,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":131578,"limit":2097152},"templateargumentsize":{"value":44485,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  443.999      1 -total"," 19.69%   87.409     13 Template:Familytree"," 18.32%   81.327     23 Template:Cite_book"," 15.91%   70.630      2 Template:Reflist"," 14.44%   64.130     13 Template:Family_tree/step2"," 10.53%   46.753      1 Template:Infobox_royalty","  9.61%   42.686      1 Template:EB1911","  8.32%   36.945      1 Template:Infobox","  8.18%   36.303      1 Template:Cite_EB1911","  7.50%   33.312      3 Template:Cite_encyclopedia"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":4857768,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20170412105916","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw2106"});});</script>
+	</body>
+</html>

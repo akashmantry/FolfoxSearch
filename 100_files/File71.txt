@@ -1,0 +1,875 @@
+https://en.wikipedia.org/wiki/Ancient_Egyptian_royal_titulary#Throne_name_.28praenomen.29
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ancient Egyptian royal titulary - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ancient_Egyptian_royal_titulary","wgTitle":"Ancient Egyptian royal titulary","wgCurRevisionId":774809985,"wgRevisionId":774809985,"wgArticleId":2430946,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Wikipedia articles needing clarification from March 2015","Ancient Egyptian titles","Ancient Egyptian language","Ancient Egyptian concepts","Egyptian royal titles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ancient_Egyptian_royal_titulary","wgRelevantArticleId":2430946,"wgRequestId":"WPFgIApAADoAAYl75csAAAAU","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q263595","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.wikihiero":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ancient_Egyptian_royal_titulary"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ancient_Egyptian_royal_titulary"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ancient_Egyptian_royal_titulary rootpage-Ancient_Egyptian_royal_titulary skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ancient Egyptian royal titulary</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>The <b>royal titulary</b> or <b>royal protocol</b> of an <a href="/wiki/Egypt" title="Egypt">Egyptian</a> <a href="/wiki/Pharaoh" title="Pharaoh">pharaoh</a> is the standard naming convention taken by the kings of Ancient Egypt. It symbolises worldly power and holy might and also acts as a sort of <a href="/wiki/Mission_statement" title="Mission statement">mission statement</a> for the reign of a monarch (sometimes it even changed during the reign).</p>
+<p>The full titulary, consisting of five names, did not come into standard usage until the <a href="/wiki/Middle_Kingdom_of_Egypt" title="Middle Kingdom of Egypt">Middle Kingdom</a> but remained in use as late as the <a href="/wiki/Aegyptus_(Roman_province)" class="mw-redirect" title="Aegyptus (Roman province)">Roman Empire</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Horus_name"><span class="tocnumber">1</span> <span class="toctext">Horus name</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Nebty_.28.22two_ladies.22.29_name"><span class="tocnumber">2</span> <span class="toctext">Nebty ("two ladies") name</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Horus_of_Gold"><span class="tocnumber">3</span> <span class="toctext">Horus of Gold</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Throne_name_.28prenomen.29"><span class="tocnumber">4</span> <span class="toctext">Throne name (<i>prenomen</i>)</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personal_name_.28nomen.29"><span class="tocnumber">5</span> <span class="toctext">Personal name (<i>nomen</i>)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Examples_of_the_full_titulary"><span class="tocnumber">6</span> <span class="toctext">Examples of the full titulary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Senusret_I"><span class="tocnumber">6.1</span> <span class="toctext">Senusret I</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Hatshepsut"><span class="tocnumber">6.2</span> <span class="toctext">Hatshepsut</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Thutmose_III"><span class="tocnumber">6.3</span> <span class="toctext">Thutmose III</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Bibliography"><span class="tocnumber">7</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Horus_name">Horus name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=1" title="Edit section: Horus name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Horus_name" title="Horus name">Horus name</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Egypte_louvre_290.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Egypte_louvre_290.jpg/220px-Egypte_louvre_290.jpg" width="220" height="363" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Egypte_louvre_290.jpg/330px-Egypte_louvre_290.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Egypte_louvre_290.jpg/440px-Egypte_louvre_290.jpg 2x" data-file-width="477" data-file-height="788" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Egypte_louvre_290.jpg" class="internal" title="Enlarge"></a></div>
+Serekh containing the name of <a href="/wiki/Djet" title="Djet">Djet</a> and an association with <a href="/wiki/Wadjet" title="Wadjet">Wadjet</a>, on display at the <a href="/wiki/Louvre" title="Louvre">Louvre</a></div>
+</div>
+</div>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G5.png?bcb90" height="38" title="G5" alt="G5" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_O33.png?f6991" height="38" title="O33" alt="O33" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <a href="/wiki/Horus_name" title="Horus name">Horus name</a> is the oldest form of the pharaoh's name, originating in the <a href="/wiki/Predynastic_Period_of_Egypt" class="mw-redirect" title="Predynastic Period of Egypt">Predynastic Period</a>. Many of the oldest-known Egyptian pharaohs were known only by this title.<sup id="cite_ref-TAW_1-0" class="reference"><a href="#cite_note-TAW-1">[1]</a></sup></p>
+<p>The Horus name was usually written in a <a href="/wiki/Serekh" title="Serekh">serekh</a>, a representation of a palace façade. The name of the pharaoh was written in <a href="/wiki/Egyptian_hieroglyphs" title="Egyptian hieroglyphs">hieroglyphs</a> inside this representation of a palace. Typically an image of the falcon God <a href="/wiki/Horus" title="Horus">Horus</a> was perched on top of or beside it.<sup id="cite_ref-TAW_1-1" class="reference"><a href="#cite_note-TAW-1">[1]</a></sup></p>
+<p>At least one Egyptian ruler, the <a href="/wiki/Second_Dynasty_of_Egypt" title="Second Dynasty of Egypt">2nd dynasty</a> <a href="/wiki/Seth-Peribsen" title="Seth-Peribsen">Seth-Peribsen</a>, used an image of the god <a href="/wiki/Set_(mythology)" class="mw-redirect" title="Set (mythology)">Seth</a> instead of Horus, perhaps signifying an internal religious division within the country. He was succeeded by <a href="/wiki/Khasekhemwy" title="Khasekhemwy">Khasekhemwy</a>, who placed the symbols of both Seth and Horus above his name. Thereafter, the image of Horus always appeared alongside the name of the pharaoh.<sup id="cite_ref-TAW_1-2" class="reference"><a href="#cite_note-TAW-1">[1]</a></sup></p>
+<p>By the time of the <a href="/wiki/New_Kingdom" class="mw-redirect" title="New Kingdom">New Kingdom</a> the Horus name was often written without the enclosing serekh.</p>
+<h2><span class="mw-headline" id="Nebty_.28.22two_ladies.22.29_name">Nebty ("two ladies") name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=2" title="Edit section: Nebty (&quot;two ladies&quot;) name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Nebty_name" title="Nebty name">Nebty name</a></div>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G16.png?dbf15" height="38" title="G16" alt="G16" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <a href="/wiki/Nebty_name" title="Nebty name">Nebty name</a> (lit. "<a href="/wiki/Two_Ladies" title="Two Ladies">two ladies</a>") was associated with the so-called "heraldic" goddesses of Upper and Lower Egypt:</p>
+<ul>
+<li><a href="/wiki/Nekhbet" title="Nekhbet">Nekhbet</a>, patron deity of <a href="/wiki/Upper_Egypt" title="Upper Egypt">Upper Egypt</a>, represented by a <a href="/wiki/Vulture" title="Vulture">vulture</a>, and</li>
+<li><a href="/wiki/Wadjet" title="Wadjet">Wadjet</a>, patron deity of <a href="/wiki/Lower_Egypt" title="Lower Egypt">Lower Egypt</a>, represented by a <a href="/wiki/Cobra" title="Cobra">cobra</a>.</li>
+</ul>
+<p>The name is first definitively used by the <a href="/wiki/First_Dynasty" class="mw-redirect" title="First Dynasty">First Dynasty</a> pharaoh <a href="/wiki/Semerkhet" title="Semerkhet">Semerkhet</a>, though it only became a fully independent title by the <a href="/wiki/Twelfth_dynasty_of_Egypt" class="mw-redirect" title="Twelfth dynasty of Egypt">Twelfth Dynasty</a>.</p>
+<p>This particular name was not typically framed by a <a href="/wiki/Cartouche" title="Cartouche">cartouche</a> or serekh, but always begins with the hieroglyphs of a vulture and cobra resting upon <a href="/wiki/Basket_(hieroglyph)" title="Basket (hieroglyph)">two baskets</a>, the <a href="/wiki/Dual_(grammatical_number)" title="Dual (grammatical number)">dual</a> noun "nebty".</p>
+<h2><span class="mw-headline" id="Horus_of_Gold">Horus of Gold</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=3" title="Edit section: Horus of Gold">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G8.png?a8843" height="38" title="G8" alt="G8" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>Also known as the <i><a href="/wiki/Gold_(hieroglyph)" title="Gold (hieroglyph)">Golden</a> Horus Name</i>, this form of the pharaoh's name typically featured the image of a Horus falcon perched above or beside the hieroglyph for gold.</p>
+<p>The meaning of this particular title has been disputed. One belief is that it represents the triumph of <a href="/wiki/Horus" title="Horus">Horus</a> over his uncle <a href="/wiki/Set_(mythology)" class="mw-redirect" title="Set (mythology)">Seth</a>, as the symbol for gold can be taken to mean that Horus was "superior to his foes". Gold also was strongly associated in the ancient Egyptian mind with eternity, so this may have been intended to convey the pharaoh's eternal Horus name.</p>
+<p>Similar to the Nebty name, this particular name typically was not framed by a cartouche or serekh.</p>
+<h2><span class="mw-headline" id="Throne_name_.28prenomen.29">Throne name (<i>prenomen</i>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=4" title="Edit section: Throne name (prenomen)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Prenomen_(Ancient_Egypt)" title="Prenomen (Ancient Egypt)">Prenomen (Ancient Egypt)</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Luxor,_hieroglyphs_on_an_obelisk_inside_the_Temple_of_Hatshepsut,_Egypt,_Oct_2004.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Luxor%2C_hieroglyphs_on_an_obelisk_inside_the_Temple_of_Hatshepsut%2C_Egypt%2C_Oct_2004.jpg/220px-Luxor%2C_hieroglyphs_on_an_obelisk_inside_the_Temple_of_Hatshepsut%2C_Egypt%2C_Oct_2004.jpg" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Luxor%2C_hieroglyphs_on_an_obelisk_inside_the_Temple_of_Hatshepsut%2C_Egypt%2C_Oct_2004.jpg/330px-Luxor%2C_hieroglyphs_on_an_obelisk_inside_the_Temple_of_Hatshepsut%2C_Egypt%2C_Oct_2004.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Luxor%2C_hieroglyphs_on_an_obelisk_inside_the_Temple_of_Hatshepsut%2C_Egypt%2C_Oct_2004.jpg/440px-Luxor%2C_hieroglyphs_on_an_obelisk_inside_the_Temple_of_Hatshepsut%2C_Egypt%2C_Oct_2004.jpg 2x" data-file-width="853" data-file-height="1280" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Luxor,_hieroglyphs_on_an_obelisk_inside_the_Temple_of_Hatshepsut,_Egypt,_Oct_2004.jpg" class="internal" title="Enlarge"></a></div>
+Praenomen of the <a href="/wiki/Cartouche" title="Cartouche">Cartouche</a> of <a href="/wiki/Thutmose_II" title="Thutmose II">Thutmose II</a> preceded by Sedge and Bee symbols, Temple of <a href="/wiki/Hatshepsut" title="Hatshepsut">Hatshepsut</a>, <a href="/wiki/Luxor" title="Luxor">Luxor</a></div>
+</div>
+</div>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_M23.png?e2674" height="31" title="M23" alt="M23" /><br />
+<img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="8" title="X1 [t]" alt="t" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_L2.png?ff0ae" height="31" title="L2" alt="L2" /><br />
+<img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="8" title="X1 [t]" alt="t" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The pharaoh's throne name, the first of the two names written inside a <a href="/wiki/Cartouche" title="Cartouche">cartouche</a>, and usually accompanied the title <i>nsw-bity</i> (<i>nesu-bity, nesw-bit, nswt-bjtj</i>). The term literally means "S/He of the <a href="/wiki/Cyperaceae" title="Cyperaceae">Sedge</a> and <a href="/wiki/Bee" title="Bee">Bee</a>", but is often translated for convenience as "King of Upper and of Lower Egypt", the sedge and bee being symbols for Upper and Lower Egypt, respectively.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>The term <i>nsw-bity</i> It has been suggested that the <a href="/wiki/Berber_languages" title="Berber languages">Berber</a> term for "strong man; ruler" might be derived from it (Schneider 1993).<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (March 2015)">clarification needed</span></a></i>]</sup></p>
+<p>The epithet <i>nb t3wy</i>, "Lord of the Two Lands", referring to valley and delta regions of Egypt, often occurs as well.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (March 2015)">clarification needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Personal_name_.28nomen.29">Personal name (<i>nomen</i>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=5" title="Edit section: Personal name (nomen)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Nomen_(Ancient_Egypt)" title="Nomen (Ancient Egypt)">Nomen (Ancient Egypt)</a></div>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G39.png?eb053" height="38" title="G39" alt="G39" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_N5.png?08eb7" height="18" title="N5" alt="N5" /><br /></td>
+<td>
+<table class="mw-hiero-table" style="width: 22px;">
+<tr>
+<td>&#160;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>This was the name given at birth. The name itself was preceded by the title "Son of <a href="/wiki/Ra" title="Ra">Ra</a>", written with the hieroglyph of a duck (<i>za</i>), a <a href="/wiki/Homonym" title="Homonym">homonym</a> for the word meaning "son" (<i>za</i>), adjacent to an image of the sun, a hieroglyph for the chief solar deity Ra. It was first introduced to the set of royal titles in the <a href="/wiki/Fourth_dynasty_of_Egypt" class="mw-redirect" title="Fourth dynasty of Egypt">Fourth Dynasty</a> and emphasizes the king's role as a representative of the solar god Ra. For women who became pharaoh, the preceding title was interpreted as "daughter" also.</p>
+<p>Modern historians typically refer to the ancient kings of Egypt by this name, adding <a href="/wiki/Regnal_number" title="Regnal number">ordinals</a> (e.g. "II", "III") to distinguish between different individuals bearing the same name.</p>
+<h2><span class="mw-headline" id="Examples_of_the_full_titulary">Examples of the full titulary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=6" title="Edit section: Examples of the full titulary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Senusret_I">Senusret I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=7" title="Edit section: Senusret I">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div>
+<p>In the <a href="/wiki/Middle_Kingdom_of_Egypt" title="Middle Kingdom of Egypt">Middle Kingdom</a>, the full titulary was sometimes written in a single cartouche, as in this example from <a href="/wiki/Senusret_I" title="Senusret I">Senusret I</a>, from <a href="/wiki/Beni_Hasan" title="Beni Hasan">Beni Hasan</a>.</p>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Senusret_five_fold_titulary.jpg" class="image"><img alt="Senusret five fold titulary.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Senusret_five_fold_titulary.jpg/825px-Senusret_five_fold_titulary.jpg" width="825" height="54" srcset="//upload.wikimedia.org/wikipedia/commons/5/52/Senusret_five_fold_titulary.jpg 1.5x" data-file-width="1201" data-file-height="78" /></a></div>
+</div>
+</div>
+<div>
+<h3><span class="mw-headline" id="Hatshepsut">Hatshepsut</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=8" title="Edit section: Hatshepsut">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The full titulary of <a href="/wiki/Eighteenth_Dynasty" class="mw-redirect" title="Eighteenth Dynasty">Eighteenth Dynasty</a> pharaoh <a href="/wiki/Hatshepsut" title="Hatshepsut">Hatshepsut</a>, providing a guide to pronunciation and its equivalent meaning and showing the differences since this pharaoh is a woman, is as follows,</p>
+<ul>
+<li>Horus name: <i>Wesretkau</i>, "Mighty of Kas"</li>
+<li>Nebty name: <i>Wadjrenput</i>, "She of the Two Ladies, Flourishing of years"</li>
+<li>Golden Horus: <i>Netjeretkhau</i>, "Divine of appearance" (<i>Netjeret</i> is the feminine form of <i>netery</i> meaning 'godly' or 'divine', and <i>khau</i>, 'appearances')</li>
+<li>Praenomen: <i>Maatkare</i>, "Truth [Ma'at] is the Ka of Re"</li>
+<li>Nomen: <i>Khnumt-Amun Hatshepsut</i>, "Joined with Amun, Foremost of Noble Ladies"</li>
+</ul>
+<h3><span class="mw-headline" id="Thutmose_III">Thutmose III</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=9" title="Edit section: Thutmose III">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table style="font-size: 88%; border-collapse: collapse; border: 1px solid crimson; margin: 0.5em 1em; text-align: center; clear: right; float: right; margin-right: 0;">
+<tr>
+<td style="padding: 1em; background-color: white">
+<table>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:4px 10px 10px 10px;background: white;">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G5.png?bcb90" height="38" title="G5" alt="G5" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td height="48px" width="2px" style="background-color:black"></td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="2px" style="background-color:black"></td>
+</tr>
+<tr>
+<td height="46" style="padding: 0px 5px 0px 5px;">
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_E1.png?4dcff" height="28" title="E1" alt="E1" /><br />
+<img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_D40.png?462ae" height="11" title="D40" alt="D40" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_N28.png?3f65d" height="15" title="N28" alt="N28" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G17.png?3741e" height="38" title="G17 [m]" alt="m" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_S40.png?e82e9" height="38" title="S40" alt="S40" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" title="X1 [t]" alt="t" /><br />
+<img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_O49.png?dd778" height="18" title="O49" alt="O49" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="2px" style="background-color:black"></td>
+</tr>
+</table>
+</td>
+<td style="text-align:center;vertical-align:middle;"><a href="/wiki/File:Srxtail2.svg" class="image"><img alt="Srxtail2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Srxtail2.svg/50px-Srxtail2.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Srxtail2.svg/75px-Srxtail2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Srxtail2.svg/100px-Srxtail2.svg.png 2x" data-file-width="50" data-file-height="50" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:5px;background: white;"><i>serekh</i> or Horus name</td>
+</tr>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:4px 10px;background: white;">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G16.png?dbf15" height="38" title="G16" alt="G16" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="2px" style="background-color:black"></td>
+<td height="45" style="padding: 0px 0px 0px 0px;">
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_V29.png?be6af" height="38" title="V29" alt="V29" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_M23.png?e2674" height="38" title="M23 [sw]" alt="sw" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" title="X1 [t]" alt="t" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_M17.png?2e70b" height="38" title="M17 [i]" alt="i" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_M17.png?2e70b" height="38" title="M17 [i]" alt="i" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_N5.png?08eb7" height="18" title="N5 [ra]" alt="ra" /><br />
+<img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_Z1.png?4dc06" height="16" title="Z1" alt="Z1" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_W19.png?c9d92" height="38" title="W19 [mi]" alt="mi" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G17.png?3741e" height="38" title="G17 [m]" alt="m" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_Q3.png?42130" height="15" title="Q3" alt="Q3" /> <img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" title="X1" alt="X1" /><br />
+<img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_N1.png?b4d26" height="11" title="N1" alt="N1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td height="2px" style="background-color:black"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:5px;background: white;"><i>Nebty</i> name</td>
+</tr>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:4px 10px 10px 10px;background: white;">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G8.png?a8843" height="38" title="G8" alt="G8" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="2px" style="background-color:black"></td>
+<td height="45" style="padding: 0px 0px 0px 0px;">
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_S42.png?5bfe7" height="38" title="S42 [sxm]" alt="sxm" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_F9.png?b7aa9" height="20" title="F9" alt="F9" /><br />
+<img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_F9.png?b7aa9" height="20" title="F9" alt="F9" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_D45.png?b9137" height="24" title="D45" alt="D45" /><br />
+<img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_N28.png?3f65d" height="15" title="N28" alt="N28" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_Z3.png?25d86" height="38" title="Z3" alt="Z3" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td height="2px" style="background-color:black"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:5px;background: white;"><i>Golden Horus</i> name</td>
+</tr>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:4px 10px;background: white;">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_M23.png?e2674" height="38" title="M23" alt="M23" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_L2.png?ff0ae" height="38" title="L2" alt="L2" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td><a href="/wiki/File:Hiero_Ca1.svg" class="image"><img alt="Hiero Ca1.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hiero_Ca1.svg/17px-Hiero_Ca1.svg.png" width="17" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hiero_Ca1.svg/26px-Hiero_Ca1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hiero_Ca1.svg/34px-Hiero_Ca1.svg.png 2x" data-file-width="17" data-file-height="49" /></a></td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="2px" style="background-color:black"></td>
+</tr>
+<tr>
+<td height="45" style="padding: 0px 0px 0px 0px;">
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_N5.png?08eb7" height="18" title="N5 [ra]" alt="ra" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_Y5.png?381eb" height="13" title="Y5 [mn]" alt="mn" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_L1.png?8b41f" height="36" title="L1 [xpr]" alt="xpr" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="2px" style="background-color:black"></td>
+</tr>
+</table>
+</td>
+<td style="text-align:center;vertical-align:middle;"><a href="/wiki/File:Hiero_Ca2.svg" class="image"><img alt="Hiero Ca2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hiero_Ca2.svg/20px-Hiero_Ca2.svg.png" width="20" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hiero_Ca2.svg/30px-Hiero_Ca2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hiero_Ca2.svg/40px-Hiero_Ca2.svg.png 2x" data-file-width="20" data-file-height="49" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:5px;background: white;"><i>praenomen</i> or throne name</td>
+</tr>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:4px 10px 10px 10px;background: white;">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G39.png?eb053" height="38" title="G39" alt="G39" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_N5.png?08eb7" height="18" title="N5" alt="N5" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td><a href="/wiki/File:Hiero_Ca1.svg" class="image"><img alt="Hiero Ca1.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hiero_Ca1.svg/17px-Hiero_Ca1.svg.png" width="17" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hiero_Ca1.svg/26px-Hiero_Ca1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hiero_Ca1.svg/34px-Hiero_Ca1.svg.png 2x" data-file-width="17" data-file-height="49" /></a></td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="2px" style="background-color:black"></td>
+</tr>
+<tr>
+<td height="45" style="padding: 0px 0px 0px 0px;">
+<table class="mw-hiero-table mw-hiero-outer" dir="ltr">
+<tr>
+<td>
+<table class="mw-hiero-table">
+<tr>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_G26.png?45a4c" height="38" title="G26" alt="G26" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_F31.png?4e74e" height="37" title="F31 [ms]" alt="ms" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_F35.png?9f378" height="38" title="F35 [nfr]" alt="nfr" /></td>
+<td><img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_L1.png?8b41f" height="30" title="L1 [xpr]" alt="xpr" /><br />
+<img style="margin: 1px;" src="/w/extensions/wikihiero/img/hiero_Z2.png?805ea" height="9" title="Z2" alt="Z2" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="2px" style="background-color:black"></td>
+</tr>
+</table>
+</td>
+<td style="text-align:center;vertical-align:middle;"><a href="/wiki/File:Hiero_Ca2.svg" class="image"><img alt="Hiero Ca2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hiero_Ca2.svg/20px-Hiero_Ca2.svg.png" width="20" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hiero_Ca2.svg/30px-Hiero_Ca2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hiero_Ca2.svg/40px-Hiero_Ca2.svg.png 2x" data-file-width="20" data-file-height="49" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;text-valign:middle;padding:5px;background: white;"><i>nomen</i> or birth name</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th style="background: palegoldenrod; border-bottom: 1px solid crimson; padding: 0.5em">Thutmose III<br />
+in <a href="/wiki/Egyptian_hieroglyphs" title="Egyptian hieroglyphs">hieroglyphs</a></th>
+</tr>
+</table>
+<p>The full titulary of <a href="/wiki/Eighteenth_Dynasty" class="mw-redirect" title="Eighteenth Dynasty">Eighteenth Dynasty</a> pharaoh <a href="/wiki/Thutmose_III" title="Thutmose III">Thutmose III</a>, providing a guide to pronunciation and its equivalent meaning, is as follows</p>
+<ul>
+<li>Horus name: <i>Kanakht Khaemwaset</i>, "Horus Mighty Bull, Arising in <a href="/wiki/Thebes,_Egypt" title="Thebes, Egypt">Thebes</a>"</li>
+<li>Nebty name: <i>Wahnesytmireempet</i>, "He of the Two Ladies, Enduring in kingship like Re in heaven"</li>
+<li>Golden Horus: <i>Sekhempahtydjeserkhaw</i>, "Horus of Gold Powerful of strength, Sacred of appearance"</li>
+<li>Praenomen: <i>Menkheperre</i>, "He of the <a href="/wiki/Cyperus_papyrus" title="Cyperus papyrus">Sedge</a> and the <a href="/wiki/Bee" title="Bee">Bee</a>, Enduring of form is Re"</li>
+<li>Nomen: <i>Thutmose Neferkheperu</i>, "Son of Ra, Thutmose, beautiful of forms"</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=10" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Allen, James P. (1999). <i>Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs</i>. New York: Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-77483-7" title="Special:BookSources/0-521-77483-7">0-521-77483-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Egyptian+royal+titulary&amp;rft.au=Allen%2C+James+P.&amp;rft.btitle=Middle+Egyptian%3A+An+Introduction+to+the+Language+and+Culture+of+Hieroglyphs&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=0-521-77483-7&amp;rft.place=New+York&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Dodson, Aidan Mark; Dyan Hilton (2004). <i>The Complete Royal Families of Ancient Egypt</i>. Cairo, London, and New York: The American University in Cairo Press and Thames and Hudson. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/977-424-878-3" title="Special:BookSources/977-424-878-3">977-424-878-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Egyptian+royal+titulary&amp;rft.au=Dodson%2C+Aidan+Mark&amp;rft.au=Dyan+Hilton&amp;rft.btitle=The+Complete+Royal+Families+of+Ancient+Egypt&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=977-424-878-3&amp;rft.place=Cairo%2C+London%2C+and+New+York&amp;rft.pub=The+American+University+in+Cairo+Press+and+Thames+and+Hudson&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Ronald J. Leprohon (2013). <i>The Great Name: Ancient Egyptian Royal Titulary</i>. Society of Biblical Literature. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1589837355" title="Special:BookSources/978-1589837355">978-1589837355</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Egyptian+royal+titulary&amp;rft.au=Ronald+J.+Leprohon&amp;rft.btitle=The+Great+Name%3A+Ancient+Egyptian+Royal+Titulary&amp;rft.date=2013&amp;rft.genre=book&amp;rft.isbn=978-1589837355&amp;rft.pub=Society+of+Biblical+Literature&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Gardiner, Alan Henderson (1957). <i>Egyptian Grammar; Being an Introduction to the Study of Hieroglyphs</i> (3rd ed.). Oxford: Griffith Institute.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Egyptian+royal+titulary&amp;rft.au=Gardiner%2C+Alan+Henderson&amp;rft.btitle=Egyptian+Grammar%3B+Being+an+Introduction+to+the+Study+of+Hieroglyphs&amp;rft.date=1957&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.place=Oxford&amp;rft.pub=Griffith+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Quirke, Stephen G. J. (1990). <i>Who Were the Pharaohs? A History of Their Names with a List of Cartouches</i>. London: British Museum Publications Limited.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Egyptian+royal+titulary&amp;rft.au=Quirke%2C+Stephen+G.+J.&amp;rft.btitle=Who+Were+the+Pharaohs%3F+A+History+of+Their+Names+with+a+List+of+Cartouches&amp;rft.date=1990&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=British+Museum+Publications+Limited&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Schneider, Thomas (1993). "Zur Etymologie der Bezeichnung 'König von Ober- und Unterägypten<span style="padding-right:0.2em;">'</span>". <i>Zeitschrift für ägyptische Sprache und Altertumskunde</i>. <b>120</b>: 166–181.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Egyptian+royal+titulary&amp;rft.atitle=Zur+Etymologie+der+Bezeichnung+%98K%C3%B6nig+von+Ober-+und+Unter%C3%A4gypten%99&amp;rft.au=Schneider%2C+Thomas&amp;rft.date=1993&amp;rft.genre=article&amp;rft.jtitle=Zeitschrift+f%C3%BCr+%C3%A4gyptische+Sprache+und+Altertumskunde&amp;rft.pages=166-181&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=120" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Shaw, Garry J. (2012). <i>The Pharaoh, Life at Court and on Campaign</i>. London and New York: Thames and Hudson. pp.&#160;20–21.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Egyptian+royal+titulary&amp;rft.au=Shaw%2C+Garry+J.&amp;rft.btitle=The+Pharaoh%2C+Life+at+Court+and+on+Campaign&amp;rft.date=2012&amp;rft.genre=book&amp;rft.pages=20-21&amp;rft.place=London+and+New+York&amp;rft.pub=Thames+and+Hudson&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/J%C3%BCrgen_von_Beckerath" title="Jürgen von Beckerath">von Beckerath, Jürgen</a> (1999). <i>Handbuch der ägyptischen Königsnamen</i> (2nd ed.). Mainz am Rhein: Verlag Philipp von Zabern.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Egyptian+royal+titulary&amp;rft.au=von+Beckerath%2C+J%C3%BCrgen&amp;rft.btitle=Handbuch+der+%C3%A4gyptischen+K%C3%B6nigsnamen&amp;rft.date=1999&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.place=Mainz+am+Rhein&amp;rft.pub=Verlag+Philipp+von+Zabern&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-TAW-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-TAW_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TAW_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TAW_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Toby A. H. Wilkinson: <i>Early Dynastic Egypt</i>. Routledge, London/New York 1999, <a href="/wiki/Special:BookSources/0415186331" class="internal mw-magiclink-isbn">ISBN 0-415-18633-1</a>, p. 74-75.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Ewa Wasilewska, <i>Creation Stories of the Middle East</i>, 2000, <a rel="nofollow" class="external text" href="https://books.google.ch/books?id=sMj1tyho3CoC&amp;pg=PA130">130f.</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.digitalegypt.ucl.ac.uk/ideology/kingname/gold.html">The Gold name</a>, <a rel="nofollow" class="external text" href="http://www.digitalegypt.ucl.ac.uk/ideology/kingname/horus.html">the Horus name</a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20050715075911/http://www.ancient-egypt.org:80/language/titulary/">the Royal Titulary</a>, <a rel="nofollow" class="external text" href="http://www.digitalegypt.ucl.ac.uk/ideology/kingname/ladies.html">the Two Ladies</a> and <a rel="nofollow" class="external text" href="http://www.digitalegypt.ucl.ac.uk/chronology/thutmosisi.html">Thutmose I</a> on Digital Egypt.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Ancient_Egypt_topics" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#decd87">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ancient_Egypt_topics" title="Template:Ancient Egypt topics"><abbr title="View this template" style="background-color:#decd87;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ancient_Egypt_topics" title="Template talk:Ancient Egypt topics"><abbr title="Discuss this template" style="background-color:#decd87;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ancient_Egypt_topics&amp;action=edit"><abbr title="Edit this template" style="background-color:#decd87;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ancient_Egypt_topics" style="font-size:114%;margin:0 4em"><a href="/wiki/Ancient_Egypt" title="Ancient Egypt">Ancient Egypt</a> topics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color:#decd87">
+<div>
+<ul>
+<li><a href="/wiki/Outline_of_ancient_Egypt" title="Outline of ancient Egypt">Outline</a></li>
+<li><a href="/wiki/Index_of_ancient_Egypt-related_articles" title="Index of ancient Egypt-related articles">Index</a></li>
+<li><a href="/wiki/Portal:Ancient_Egypt/Main_topics" title="Portal:Ancient Egypt/Main topics">Major topics</a></li>
+<li><a href="/wiki/Glossary_of_ancient_Egypt_artifacts" title="Glossary of ancient Egypt artifacts">Glossary of artifacts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;padding-left:81px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ancient_Egyptian_agriculture" title="Ancient Egyptian agriculture">Agriculture</a></li>
+<li><a href="/wiki/Ancient_Egyptian_architecture" title="Ancient Egyptian architecture">Architecture</a> <small>(<a href="/wiki/Egyptian_Revival_architecture" title="Egyptian Revival architecture">Egyptian Revival architecture</a>)</small></li>
+<li><a href="/wiki/Art_of_ancient_Egypt" title="Art of ancient Egypt">Art</a></li>
+<li><a href="/wiki/Egyptian_astronomy" title="Egyptian astronomy">Astronomy</a></li>
+<li><a href="/wiki/Ancient_Egyptian_burial_customs" class="mw-redirect" title="Ancient Egyptian burial customs">Burial customs</a></li>
+<li><a href="/wiki/Egyptian_chronology" title="Egyptian chronology">Chronology</a></li>
+<li><a href="/wiki/Urban_planning_in_ancient_Egypt" title="Urban planning in ancient Egypt">Cities</a> (<a href="/wiki/List_of_ancient_Egyptian_towns_and_cities" title="List of ancient Egyptian towns and cities">list</a>)</li>
+<li><a href="/wiki/Clothing_in_ancient_Egypt" title="Clothing in ancient Egypt">Clothing</a></li>
+<li><a href="/wiki/Ancient_Egyptian_cuisine" title="Ancient Egyptian cuisine">Cuisine</a></li>
+<li><a href="/wiki/List_of_ancient_Egyptian_dynasties" title="List of ancient Egyptian dynasties">Dynasties</a></li>
+<li><a href="/wiki/Category:Geography_of_ancient_Egypt" title="Category:Geography of ancient Egypt">Geography</a></li>
+<li><a href="/wiki/Great_Royal_Wife" title="Great Royal Wife">Great Royal Wives</a></li>
+<li><a href="/wiki/History_of_ancient_Egypt" title="History of ancient Egypt">History</a></li>
+<li><a href="/wiki/Egyptian_language" title="Egyptian language">Language</a></li>
+<li><a href="/wiki/Ancient_Egyptian_literature" title="Ancient Egyptian literature">Literature</a></li>
+<li><a href="/wiki/Ancient_Egyptian_mathematics" title="Ancient Egyptian mathematics">Mathematics</a></li>
+<li><a href="/wiki/Ancient_Egyptian_medicine" title="Ancient Egyptian medicine">Medicine</a></li>
+<li><a href="/wiki/Military_of_ancient_Egypt" title="Military of ancient Egypt">Military</a></li>
+<li><a href="/wiki/Music_of_Egypt" title="Music of Egypt">Music</a></li>
+<li><a href="/wiki/Egyptian_mythology" title="Egyptian mythology">Mythology</a></li>
+<li><a href="/wiki/List_of_ancient_Egyptians" title="List of ancient Egyptians">People</a></li>
+<li><a href="/wiki/Pharaoh" title="Pharaoh">Pharaohs</a>&#160;(<a href="/wiki/List_of_pharaohs" title="List of pharaohs">list</a>)</li>
+<li><a href="/wiki/Ancient_Egyptian_philosophy" title="Ancient Egyptian philosophy">Philosophy</a></li>
+<li><a href="/wiki/Ancient_Egyptian_religion" title="Ancient Egyptian religion">Religion</a></li>
+<li><a href="/wiki/List_of_ancient_Egyptian_sites" title="List of ancient Egyptian sites">Sites</a></li>
+<li><a href="/wiki/Ancient_Egyptian_technology" title="Ancient Egyptian technology">Technology</a></li>
+<li><a href="/wiki/Ancient_Egyptian_trade" title="Ancient Egyptian trade">Trade</a></li>
+<li><a href="/wiki/Writing_in_Ancient_Egypt" class="mw-redirect" title="Writing in Ancient Egypt">Writing</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/Giza_Necropolis" title="Giza Necropolis"><img alt="All Gizah Pyramids.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/100px-All_Gizah_Pyramids.jpg" width="100" height="66" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/150px-All_Gizah_Pyramids.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/200px-All_Gizah_Pyramids.jpg 2x" data-file-width="4372" data-file-height="2906" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px;padding-left:81px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Egyptology" title="Egyptology">Egyptology</a></li>
+<li><a href="/wiki/List_of_Egyptologists" title="List of Egyptologists">Egyptologists</a></li>
+<li><a href="/wiki/List_of_museums_of_Egyptian_antiquities" title="List of museums of Egyptian antiquities">Museums</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color:#decd87">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Ancient_Egypt_Topics" title="Book:Ancient Egypt Topics">Book</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Ancient_Egypt" title="Category:Ancient Egypt">Category</a></li>
+<li><a href="/wiki/File:Pyramidi_aavikolla.png" class="image"><img alt="Pyramidi aavikolla.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramidi_aavikolla.png/28px-Pyramidi_aavikolla.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramidi_aavikolla.png/42px-Pyramidi_aavikolla.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/96/Pyramidi_aavikolla.png 2x" data-file-width="45" data-file-height="45" /></a> <a href="/wiki/Portal:Ancient_Egypt" title="Portal:Ancient Egypt">Ancient Egypt portal</a></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <a href="/wiki/Wikipedia:WikiProject_Ancient_Egypt" title="Wikipedia:WikiProject Ancient Egypt">WikiProject</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Ancient_Egypt" class="extiw" title="commons:Category:Ancient Egypt">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Ancient_Egyptian_titulary" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#decd87">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ancient_Egyptian_titulary" title="Template:Ancient Egyptian titulary"><abbr title="View this template" style="background-color:#decd87;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ancient_Egyptian_titulary" title="Template talk:Ancient Egyptian titulary"><abbr title="Discuss this template" style="background-color:#decd87;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ancient_Egyptian_titulary&amp;action=edit"><abbr title="Edit this template" style="background-color:#decd87;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ancient_Egyptian_titulary" style="font-size:114%;margin:0 4em">Ancient Egyptian titulary</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#decd87"><a class="mw-selflink selflink">Royal titulary</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Great_Royal_Wife" title="Great Royal Wife">Great Royal Wife</a></li>
+<li><a href="/wiki/Khenemetneferhedjet" title="Khenemetneferhedjet">Khenemetneferhedjet</a></li>
+<li><a href="/wiki/Pharaoh" title="Pharaoh">Pharaoh</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Lepsius_tut.JPG" class="image"><img alt="Lepsius tut.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lepsius_tut.JPG/100px-Lepsius_tut.JPG" width="100" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lepsius_tut.JPG/150px-Lepsius_tut.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lepsius_tut.JPG/200px-Lepsius_tut.JPG 2x" data-file-width="999" data-file-height="1228" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#decd87">Religious titulary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Divine_Adoratrice_of_Amun" title="Divine Adoratrice of Amun">Divine Adoratrice of Amun</a></li>
+<li><a href="/wiki/God%27s_Wife" title="God's Wife">God's Wife</a></li>
+<li><a href="/wiki/God%27s_Wife_of_Amun" title="God's Wife of Amun">God's Wife of Amun</a></li>
+<li><a href="/wiki/High_Priests_of_Amun" title="High Priests of Amun">High Priests of Amun</a></li>
+<li><a href="/wiki/High_Priest_of_Osiris" title="High Priest of Osiris">High Priest of Osiris</a></li>
+<li><a href="/wiki/High_Priest_of_Ptah" title="High Priest of Ptah">High Priest of Ptah</a></li>
+<li><a href="/wiki/High_Priest_of_Ra" title="High Priest of Ra">High Priest of Ra</a></li>
+<li><a href="/wiki/Lector_priest" title="Lector priest">Lector priest</a></li>
+<li><a href="/wiki/Servant_in_the_Place_of_Truth" title="Servant in the Place of Truth">Servant in the Place of Truth</a></li>
+<li><a href="/wiki/Two_Ladies" title="Two Ladies">Two Ladies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#decd87">Courtly and administrative titulary</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fan-bearer_on_the_Right_Side_of_the_King" title="Fan-bearer on the Right Side of the King">Fan-bearer on the Right Side of the King</a></li>
+<li><a href="/wiki/Haty-a" title="Haty-a">Haty-a</a></li>
+<li><a href="/wiki/High_steward_(Ancient_Egypt)" title="High steward (Ancient Egypt)">High steward</a></li>
+<li><a href="/wiki/Iry-pat" title="Iry-pat">Iry-pat</a></li>
+<li><a href="/wiki/Khekeret-nisut" title="Khekeret-nisut">Khekeret-nisut</a></li>
+<li><a href="/wiki/Nomarch" title="Nomarch">Nomarch</a></li>
+<li><a href="/wiki/Overseer_of_the_treasuries" title="Overseer of the treasuries">Overseer of the treasuries</a></li>
+<li><a href="/wiki/Overseer_of_Upper_Egypt" title="Overseer of Upper Egypt">Overseer of Upper Egypt</a></li>
+<li><a href="/wiki/Treasurer_(Ancient_Egypt)" title="Treasurer (Ancient Egypt)">Treasurer</a></li>
+<li><a href="/wiki/Viceroy_of_Kush" title="Viceroy of Kush">Viceroy of Kush</a></li>
+<li><a href="/wiki/Vizier_(Ancient_Egypt)" title="Vizier (Ancient Egypt)">Vizier</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color:#decd87">
+<div>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Ancient_Egyptian_Titulary" title="Book:Ancient Egyptian Titulary">Book</a></li>
+<li><a href="/wiki/File:Pyramidi_aavikolla.png" class="image"><img alt="Pyramidi aavikolla.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramidi_aavikolla.png/28px-Pyramidi_aavikolla.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramidi_aavikolla.png/42px-Pyramidi_aavikolla.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/96/Pyramidi_aavikolla.png 2x" data-file-width="45" data-file-height="45" /></a> <a href="/wiki/Portal:Ancient_Egypt" title="Portal:Ancient Egypt">Ancient Egypt portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1192
+Cached time: 20170410201352
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.220 seconds
+Real time usage: 0.299 seconds
+Preprocessor visited node count: 1007/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 47072/2097152 bytes
+Template argument size: 5068/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 4.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  215.137      1 -total
+ 26.75%   57.555      2 Template:Clarify
+ 26.46%   56.934      7 Template:Cite_book
+ 24.33%   52.351      2 Template:Fix-span
+ 14.35%   30.878      2 Template:Navbox
+ 12.74%   27.410      4 Template:Category_handler
+ 12.42%   26.723      1 Template:Ancient_Egypt_topics
+ 12.02%   25.858      4 Template:Main
+ 10.78%   23.197      1 Template:Ancient_Egyptian_titulary
+  9.84%   21.176      2 Template:Replace
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2430946-0!*!0!!en!4!* and timestamp 20170410201358 and revision id 774809985
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;oldid=774809985">https://en.wikipedia.org/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;oldid=774809985</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ancient_Egyptian_titles" title="Category:Ancient Egyptian titles">Ancient Egyptian titles</a></li><li><a href="/wiki/Category:Ancient_Egyptian_language" title="Category:Ancient Egyptian language">Ancient Egyptian language</a></li><li><a href="/wiki/Category:Ancient_Egyptian_concepts" title="Category:Ancient Egyptian concepts">Ancient Egyptian concepts</a></li><li><a href="/wiki/Category:Egyptian_royal_titles" title="Category:Egyptian royal titles">Egyptian royal titles</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_March_2015" title="Category:Wikipedia articles needing clarification from March 2015">Wikipedia articles needing clarification from March 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ancient+Egyptian+royal+titulary" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ancient+Egyptian+royal+titulary" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ancient_Egyptian_royal_titulary"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ancient_Egyptian_royal_titulary"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ancient_Egyptian_royal_titulary" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ancient_Egyptian_royal_titulary" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ancient_Egyptian_royal_titulary" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;oldid=774809985" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q263595" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ancient_Egyptian_royal_titulary&amp;id=774809985" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ancient+Egyptian+royal+titulary">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ancient+Egyptian+royal+titulary&amp;returnto=Ancient+Egyptian+royal+titulary&amp;oldid=774809985&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Vyf_name_van_die_farao%27s" title="Vyf name van die farao's – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%82%D8%A7%D8%A8_%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_%D9%82%D8%AF%D9%8A%D9%85%D8%A9" title="ألقاب ملكية مصرية قديمة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Titulatura_dels_faraons" title="Titulatura dels faraons – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Faraos_fem_navne" title="Faraos fem navne – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%B9%CE%BB%CE%B9%CE%BA%CE%BF%CE%AF_%CF%84%CE%AF%CF%84%CE%BB%CE%BF%CE%B9_%CF%84%CE%B7%CF%82_%CE%B1%CF%81%CF%87%CE%B1%CE%AF%CE%B1%CF%82_%CE%91%CE%B9%CE%B3%CF%8D%CF%80%CF%84%CE%BF%CF%85" title="Βασιλικοί τίτλοι της αρχαίας Αιγύπτου – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Titulatura_real_en_el_Antiguo_Egipto" title="Titulatura real en el Antiguo Egipto – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%85%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B4%D8%A7%D9%87%D8%A7%D9%86%D9%87_%D8%AF%D8%B1_%D9%85%D8%B5%D8%B1_%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86" title="نام‌های شاهانه در مصر باستان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://fr.wikipedia.org/wiki/Titulature_royale_dans_l%27%C3%89gypte_antique" title="Titulature royale dans l'Égypte antique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Titolatura_reale_dell%27antico_Egitto" title="Titolatura reale dell'antico Egitto – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%93kori_egyiptomi_c%C3%ADmek" title="Ókori egyiptomi címek – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Lima_Gelaran" title="Lima Gelaran – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Vijf_namen_van_de_farao" title="Vijf namen van de farao – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Titulatura_deus_faraons" title="Titulatura deus faraons – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kr%C3%B3lewski_Protok%C3%B3%C5%82" title="Królewski Protokół – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Titulatura_real_eg%C3%ADpcia" title="Titulatura real egípcia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%82%D1%83%D0%BB_%D1%84%D0%B0%D1%80%D0%B0%D0%BE%D0%BD%D0%B0" title="Титул фараона – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B6%AD%E0%B6%B1_%E0%B6%8A%E0%B6%A2%E0%B7%92%E0%B6%B4%E0%B7%8A%E0%B6%AD%E0%B7%94_%E0%B6%BB%E0%B7%8F%E0%B6%A2%E0%B6%9A%E0%B7%93%E0%B6%BA_%E0%B6%B4%E0%B6%AF%E0%B7%80%E0%B7%92_%E0%B6%B1%E0%B7%8F%E0%B6%B8%E0%B6%BA" title="පුරාතන ඊජිප්තු රාජකීය පදවි නාමය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Ancient_Egyptian_royal_titles" title="Ancient Egyptian royal titles – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Faraos_fem_namn" title="Faraos fem namn – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D1%96_%D1%96%D0%BC%D0%B5%D0%BD%D0%B0_%D1%84%D0%B0%D1%80%D0%B0%D0%BE%D0%BD%D1%96%D0%B2" title="Титульні імена фараонів – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/T%C3%AAn_hi%E1%BB%87u_ho%C3%A0ng_gia_Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i" title="Tên hiệu hoàng gia Ai Cập cổ đại – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%9F%83%E5%8F%8A%E5%B8%9D%E7%8E%8B%E5%B0%8A%E8%99%9F" title="古埃及帝王尊號 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q263595#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 April 2017, at 20:13.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ancient_Egyptian_royal_titulary&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.299","ppvisitednodes":{"value":1007,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":47072,"limit":2097152},"templateargumentsize":{"value":5068,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  215.137      1 -total"," 26.75%   57.555      2 Template:Clarify"," 26.46%   56.934      7 Template:Cite_book"," 24.33%   52.351      2 Template:Fix-span"," 14.35%   30.878      2 Template:Navbox"," 12.74%   27.410      4 Template:Category_handler"," 12.42%   26.723      1 Template:Ancient_Egypt_topics"," 12.02%   25.858      4 Template:Main"," 10.78%   23.197      1 Template:Ancient_Egyptian_titulary","  9.84%   21.176      2 Template:Replace"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":4564308,"limit":52428800}},"cachereport":{"origin":"mw1192","timestamp":"20170410201352","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1263"});});</script>
+	</body>
+</html>

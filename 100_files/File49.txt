@@ -1,0 +1,570 @@
+https://en.wikipedia.org/wiki/Adiaphora
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Adiaphora - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Adiaphora","wgTitle":"Adiaphora","wgCurRevisionId":757945413,"wgRevisionId":757945413,"wgArticleId":882141,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles that may contain original research from September 2007","All articles that may contain original research","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Christian ethics","Christian terminology","Lutheran theology","Stoicism","Concepts in ancient Greek ethics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Adiaphora","wgRelevantArticleId":882141,"wgRequestId":"WPqpHArAEDYAAg@DzJoAAAAQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q356932","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Adiaphora"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Adiaphora&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Adiaphora&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Adiaphora"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Adiaphora rootpage-Adiaphora skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Adiaphora</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Adiaphoron</b> (plural: <b>adiaphora</b> from the <a href="/wiki/Greek_language" title="Greek language">Greek</a> ἀδιάφορα, the negation of διάφορα - Latin <a href="/wiki/Differentia" title="Differentia">differentia</a> - meaning "not differentiable").</p>
+<p>In <a href="/wiki/Stoicism" title="Stoicism">Stoicism</a> "adiaphora" indicates things outside of <a href="/wiki/Moral_law" class="mw-redirect" title="Moral law">moral law</a> — that is, actions that <a href="/wiki/Morality" title="Morality">morality</a> neither mandates nor forbids. In the context of Stoicism "adiaphora" is usually translated as "indifferents."</p>
+<p>In <a href="/wiki/Pyrrhonism" title="Pyrrhonism">Pyrrhonism</a>, "adiaphora" indicates things which cannot be logically differentiated. Unlike in Stoicism, the term has no specific connection to morality.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>In <a href="/wiki/Christianity" title="Christianity">Christianity</a>, "adiaphora" are matters not regarded as essential to <a href="/wiki/Faith_in_Christianity" title="Faith in Christianity">faith</a>, but nevertheless as permissible for Christians or allowed in church. What is specifically considered adiaphora depends on the specific <a href="/wiki/Christian_theology" title="Christian theology">theology</a> in view.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Stoicism"><span class="tocnumber">1</span> <span class="toctext">Stoicism</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Pyrrhonism"><span class="tocnumber">2</span> <span class="toctext">Pyrrhonism</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Christianity"><span class="tocnumber">3</span> <span class="toctext">Christianity</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Lutheranism"><span class="tocnumber">3.1</span> <span class="toctext">Lutheranism</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Puritanism"><span class="tocnumber">3.2</span> <span class="toctext">Puritanism</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Latitudinarianism_in_Anglicanism"><span class="tocnumber">3.3</span> <span class="toctext">Latitudinarianism in Anglicanism</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Stoicism">Stoicism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=1" title="Edit section: Stoicism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Stoics distinguished all the objects of human pursuit into three classes: good, bad, and adiaphora (indifferent). <a href="/wiki/Virtue" title="Virtue">Virtue</a>, <a href="/wiki/Wisdom" title="Wisdom">wisdom</a>, <a href="/wiki/Justice" title="Justice">justice</a>, <a href="/wiki/Temperance_movement" title="Temperance movement">temperance</a>, and the like, were denominated <a href="/wiki/Good_and_evil" title="Good and evil">good; their opposites were bad</a>. Besides these there were many other objects of pursuit such as <a href="/wiki/Wealth" title="Wealth">wealth</a>, <a href="/wiki/Celebrity" title="Celebrity">fame</a>, etc. of themselves neither good nor bad. These were thought therefore in ethics to occupy neutral territory, and were denominated "adiaphora". This distinction amounted practically to an exclusion of the adiaphora from the field of morals.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Pyrrhonism">Pyrrhonism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=2" title="Edit section: Pyrrhonism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concept of adiaphora holds a central place in <a href="/wiki/Pyrrhonism" title="Pyrrhonism">Pyrrhonism</a>. Pyrrho claimed that all pragmata (matters, affairs, questions, topics) are adiaphora (not differentiable), astathmēta (unstable, unbalanced, unmeasurable), and anepikrita (unjudgeable, undecidable). Therefore, neither our senses nor our beliefs and theories are able to identify truth or falsehood.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Christianity">Christianity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=3" title="Edit section: Christianity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Christian_views_on_the_old_covenant" class="mw-redirect" title="Christian views on the old covenant">Christian views on the old covenant</a> and <a href="/wiki/Paul_the_Apostle_and_Judaism" title="Paul the Apostle and Judaism">Paul the Apostle and Judaism</a></div>
+<div role="note" class="hatnote">"Christian liberty" redirects here. For religious liberty in general, see <a href="/wiki/Freedom_of_religion" title="Freedom of religion">Freedom of religion</a>.</div>
+<p>New Testament examples of adiaphora are often cited from Paul's <a href="/wiki/First_Epistle_to_the_Corinthians" title="First Epistle to the Corinthians">First Epistle to the Corinthians</a>. Some of this epistle was written in response to a question from the <a href="/wiki/Ancient_Corinth#Biblical_Corinth" title="Ancient Corinth">Corinthian Christians</a> regarding whether it was permissible for a Christian to eat food offered to <a href="/wiki/Idolatry" title="Idolatry">idols</a>. In response, Paul replied:</p>
+<dl>
+<dd><i>...food does not bring us near to God; we are no worse if we do not eat, and no better if we do. Be careful, however, that the exercise of your freedom does not become a stumbling block to the weak.</i> (1 Corinthians 8:8–9 <a href="/wiki/New_International_Version" title="New International Version">New International Version</a>)</dd>
+</dl>
+<p>However, upon study of several other Pauline passages ones sees that Paul is not necessarily saying that there are such things as <i>adiaphora</i>. Elsewhere he says:</p>
+<dl>
+<dd><i>And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.</i> (Colossians 3:17 <a href="/wiki/New_International_Version" title="New International Version">NIV</a>)</dd>
+</dl>
+<p>The <i>adiaphora</i> are morally acceptable or unacceptable by God based upon the motive and end of the doer. In this sense there are no <i>indifferent</i> things.</p>
+<h3><span class="mw-headline" id="Lutheranism">Lutheranism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=4" title="Edit section: Lutheranism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">See also: <a href="/wiki/Law_and_Gospel" title="Law and Gospel">Law and Gospel</a> and <a href="/wiki/Antinomianism#Lutheranism" title="Antinomianism">Antinomianism §&#160;Lutheranism</a></div>
+<p>The issue of what constituted <i>adiaphora</i> became a major dispute during the <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Protestant Reformation</a>. In 1548, two years after the death of <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a>, the <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Holy Roman Emperor Charles V</a> tried to unite Catholics and Protestants in his realm with a law called the <a href="/wiki/Augsburg_Interim" title="Augsburg Interim">Augsburg Interim</a>. This law was rejected by <a href="/wiki/Philipp_Melanchthon" class="mw-redirect" title="Philipp Melanchthon">Philipp Melanchthon</a>, on the account that it did not ensure <a href="/wiki/Justification_by_faith" class="mw-redirect" title="Justification by faith">justification by faith</a> as a fundamental doctrine. Later he was persuaded to accept a compromise known as the <a href="/wiki/Leipzig_Interim" title="Leipzig Interim">Leipzig Interim</a>, deciding that doctrinal differences not related to justification by faith were <i>adiaphora</i> or matters of indifference. Melanchthon's compromise was vehemently opposed by <a href="/wiki/Matthias_Flacius" title="Matthias Flacius">Matthias Flacius</a> and his followers in Magdeburg, who went to the opposite extreme by claiming that adiaphora cease to be adiaphora in a case of scandal and confession. By 1576 both extremes were rejected by the majority of <a href="/wiki/Lutheranism" title="Lutheranism">Lutherans</a> led by <a href="/wiki/Martin_Chemnitz" title="Martin Chemnitz">Martin Chemnitz</a> and the formulators of the Formula of Concord.</p>
+<p>In 1577, the <a href="/wiki/Formula_of_Concord" title="Formula of Concord">Formula of Concord</a> was crafted to settle the question of the nature of genuine <i>adiaphora</i>, which it defined as church rites that are "...neither commanded nor forbidden in the <a href="/wiki/Bible" title="Bible">Word of God</a>." However, the Concord added believers should not yield even in matters of <i>adiaphora</i> when these are being forced upon them by the "enemies of God's Word".</p>
+<p>The Lutheran <a href="/wiki/Augsburg_Confession" title="Augsburg Confession">Augsburg Confession</a> states that the true unity of the Church it is enough to agree concerning the doctrine of the Gospel and the administration of the Sacraments. Nor is it necessary that human traditions, that is, rites or ceremonies, instituted by men, should be everywhere alike.</p>
+<h3><span class="mw-headline" id="Puritanism">Puritanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=5" title="Edit section: Puritanism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Adiaphora&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span> <small><i>(September 2007)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The <a href="/wiki/Westminster_Confession_of_Faith" title="Westminster Confession of Faith">Westminster Confession of Faith</a>, a confession of faith written by the <a href="/wiki/Puritan" class="mw-redirect" title="Puritan">Puritans</a>, which after the <a href="/wiki/English_Civil_War" title="English Civil War">English Civil War</a> was rejected by the <a href="/wiki/Anglicans" class="mw-redirect" title="Anglicans">Anglicans</a>, distinguishes between elements or acts of <a href="/wiki/Worship" title="Worship">worship</a> (worship proper) and the circumstances of worship. The elements of worship must be limited to what has positive warrant in Scripture, a doctrine known as the <a href="/wiki/Regulative_principle_of_worship" title="Regulative principle of worship">regulative principle of worship</a>. In this framework, the elements of worship have included praise (the words and manner of music), prayer, preaching and teaching from the Bible, the taking of vows, and the two sacraments of baptism and the Lord's Supper, while the circumstances of worship have included the building and its necessary furniture and the time of day for worship.</p>
+<p>The circumstances of worship are considered adiaphora, although they must be done for edification and to promote peace and order (compare <a rel="nofollow" class="external text" href="http://bible.oremus.org/?passage=1+Corinthians+14:26–33:26&amp;version=nrsv">1 Cor. 14:26–33</a>; <a rel="nofollow" class="external text" href="http://bible.oremus.org/?passage=Romans+14:19–14:19&amp;version=nrsv">Rom. 14:19</a>). According to the Westminster Confession 20.2,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> the conscience is left free in general belief and behavior within the realm of whatever is not "contrary to the Word." However, specifically concerning worship and religious faith, the conscience is free from whatever is "besides" Scripture; that is, it is free to worship and believe only according to whatever has positive warrant in Scripture.</p>
+<p><a href="/wiki/Presbyterian" class="mw-redirect" title="Presbyterian">Presbyterians</a> who have subscribed to the Westminster Confession, for instance, sometimes considered the questions of <a href="/wiki/Musical_instruments" class="mw-redirect" title="Musical instruments">musical instruments</a> and of the singing of <a href="/wiki/Hymn" title="Hymn">hymns</a> (as opposed to <a href="/wiki/Exclusive_psalmody" title="Exclusive psalmody">exclusive psalmody</a>) not drawn directly from the Bible as related to the elements of worship, not optional circumstances, and for this reason they rejected musical instruments and hymns because they believed they were neither commanded by scripture nor deduced by good and necessary consequence from it.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Adherence to such a position is rare among modern Presbyterians, however.</p>
+<p>The Puritan position on worship is thus in line with the common saying regarding adiaphora: "<a href="/wiki/In_necessariis_unitas,_in_dubiis_libertas,_in_omnibus_caritas" title="In necessariis unitas, in dubiis libertas, in omnibus caritas">In necessary things, unity; in doubtful things, liberty; in all things, charity</a>".</p>
+<h3><span class="mw-headline" id="Latitudinarianism_in_Anglicanism">Latitudinarianism in Anglicanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=6" title="Edit section: Latitudinarianism in Anglicanism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Latitudinarianism" class="mw-redirect" title="Latitudinarianism">Latitudinarianism</a> was initially a pejorative term applied to a group of 17th-century English theologians who believed in conforming to official <a href="/wiki/Church_of_England" title="Church of England">Church of England</a> practices but who felt that matters of <a href="/wiki/Doctrine" title="Doctrine">doctrine</a>, <a href="/wiki/Liturgical" class="mw-redirect" title="Liturgical">liturgical</a> practice, and <a href="/wiki/Ecclesiastical" class="mw-redirect" title="Ecclesiastical">ecclesiastical</a> organization were of relatively little importance. Good examples of the latitudinarian philosophy were found among the <a href="/wiki/Cambridge_Platonists" title="Cambridge Platonists">Cambridge Platonists</a>. The latitudinarian Anglicans of the seventeenth century built on <a href="/wiki/Richard_Hooker_(theologian)" class="mw-redirect" title="Richard Hooker (theologian)">Richard Hooker</a>'s position, in <i><a href="/wiki/Of_the_Laws_of_Ecclesiastical_Polity" class="mw-redirect" title="Of the Laws of Ecclesiastical Polity">Of the Laws of Ecclesiastical Polity</a></i>, that God cares about the moral state of the individual soul and that such things as church leadership are "things indifferent". However, they took the position far beyond Hooker's own and extended it to doctrinal matters.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Evangelical_counsels" title="Evangelical counsels">Evangelical counsels</a></li>
+<li><i><a href="/wiki/Lex_orandi,_lex_credendi" title="Lex orandi, lex credendi">Lex orandi, lex credendi</a></i></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 64em; -webkit-column-width: 64em; column-width: 64em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/pyrrho/">"Pyrrho"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.btitle=Pyrrho&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Fpyrrho%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation"><i>The New American Cyclopaedia</i>, 1859, p.&#160;124</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.btitle=The+New+American+Cyclopaedia&amp;rft.date=1859&amp;rft.genre=book&amp;rft.pages=124&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/pyrrho/#AriPas">"Pyrrho"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.btitle=Pyrrho&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Fpyrrho%2F%23AriPas&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation">"XX", <a rel="nofollow" class="external text" href="http://reformed.org/documents/wcf_with_proofs/ch_XX.html"><i>Westminster Confession of Faith with proofs</i></a>, Reformed</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.atitle=XX&amp;rft.btitle=Westminster+Confession+of+Faith+with+proofs&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Freformed.org%2Fdocuments%2Fwcf_with_proofs%2Fch_XX.html&amp;rft.pub=Reformed&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFSchwertley" class="citation">Schwertley, Brian, <a rel="nofollow" class="external text" href="http://reformedonline.com/view/reformedonline/sola.htm">"Sola Scripture and the Regulative Principles of Worship"</a>, <i>Reformed online</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.atitle=Sola+Scripture+and+the+Regulative+Principles+of+Worship&amp;rft.aufirst=Brian&amp;rft.aulast=Schwertley&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Freformedonline.com%2Fview%2Freformedonline%2Fsola.htm&amp;rft.jtitle=Reformed+online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFSchwertley" class="citation">Schwertley, Brian, <a rel="nofollow" class="external text" href="http://reformedonline.com/view/reformedonline/music.htm">"Musical Instruments in the Public Worship of God"</a>, <i>Reformed online</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.atitle=Musical+Instruments+in+the+Public+Worship+of+God&amp;rft.aufirst=Brian&amp;rft.aulast=Schwertley&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Freformedonline.com%2Fview%2Freformedonline%2Fmusic.htm&amp;rft.jtitle=Reformed+online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFSchwertley" class="citation">Schwertley, Brian, <a rel="nofollow" class="external text" href="http://reformedonline.com/view/reformedonline/psalm.htm">"Exclusive Psalmody: A Biblical Defense"</a>, <i>Reformed online</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.atitle=Exclusive+Psalmody%3A+A+Biblical+Defense&amp;rft.aufirst=Brian&amp;rft.aulast=Schwertley&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Freformedonline.com%2Fview%2Freformedonline%2Fpsalm.htm&amp;rft.jtitle=Reformed+online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=9" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFWaddell2005" class="citation">Waddell, James Alan (2005), <a rel="nofollow" class="external text" href="http://www.amazon.com/dp/0773459227"><i>The Struggle to Reclaim the Liturgy in the Lutheran Church: Adiaphora in Historical, Theological and Practical Perspective</i></a>, Lewiston, NY: Mellen</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.aufirst=James+Alan&amp;rft.aulast=Waddell&amp;rft.btitle=The+Struggle+to+Reclaim+the+Liturgy+in+the+Lutheran+Church%3A+Adiaphora+in+Historical%2C+Theological+and+Practical+Perspective&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2Fdp%2F0773459227&amp;rft.place=Lewiston%2C+NY&amp;rft.pub=Mellen&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><cite id="CITEREFWaddell2009" class="citation">——— (2009), <a rel="nofollow" class="external text" href="http://wipfandstock.com/store/A_Simplified_Guide_to_Worshiping_As_Lutherans"><i>A Simplified Guide to Worshiping As Lutherans</i></a>, Eugene, OR: Wipf &amp; Stock</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.aufirst=James+Alan&amp;rft.aulast=Waddell&amp;rft.btitle=A+Simplified+Guide+to+Worshiping+As+Lutherans&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwipfandstock.com%2Fstore%2FA_Simplified_Guide_to_Worshiping_As_Lutherans&amp;rft.place=Eugene%2C+OR&amp;rft.pub=Wipf+%26+Stock&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adiaphora&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation"><a rel="nofollow" class="external text" href="http://www.ctsfw.edu/etext/boc/fc/"><i>The Formula of Concord</i></a>, CTSFW</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.btitle=The+Formula+of+Concord&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ctsfw.edu%2Fetext%2Fboc%2Ffc%2F&amp;rft.pub=CTSFW&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><cite class="citation"><a rel="nofollow" class="external text" href="http://www.ctsfw.edu/etext/boc/ac/"><i>The Augsburg Confession</i></a>, CTSFW</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.btitle=The+Augsburg+Confession&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ctsfw.edu%2Fetext%2Fboc%2Fac%2F&amp;rft.pub=CTSFW&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><cite class="citation"><a rel="nofollow" class="external text" href="http://www.wlsessays.net/subjects/F/fsubind.htm#Freedom,%20Christian"><i>Christian Freedom</i></a> (scholarly articles), The Wisconsin Lutheran Seminary Library</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.btitle=Christian+Freedom&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wlsessays.net%2Fsubjects%2FF%2Ffsubind.htm%23Freedom%2C%2520Christian&amp;rft.pub=The+Wisconsin+Lutheran+Seminary+Library&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><a rel="nofollow" class="external text" href="http://worshipconcord.wordpress.com/">WorshipConcord</a></li>
+<li><a rel="nofollow" class="external text" href="http://lexcredendilexorandi.wordpress.com/">The Lex Orandi Lex Credendi Question in Lutheranism Today</a></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Adiaphorists" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Adiaphorists">Adiaphorists</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>1</b> (11th ed.). Cambridge University Press. p.&#160;192.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdiaphora&amp;rft.atitle=Adiaphorists&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pages=192&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> This specifically describes the Lutheran controversy.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Ancient_Greek_philosophical_concepts" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ancient_Greek_philosophical_concepts" title="Template:Ancient Greek philosophical concepts"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ancient_Greek_philosophical_concepts" title="Template talk:Ancient Greek philosophical concepts"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ancient_Greek_philosophical_concepts&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ancient_Greek_philosophical_concepts" style="font-size:114%;margin:0 4em"><a href="/wiki/Ancient_Greek_philosophy" title="Ancient Greek philosophy">Ancient Greek philosophical concepts</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink"><i>Adiaphora</i> <span style="font-size:90%;">(nonmoral)</span></strong></li>
+<li><a href="/wiki/Anamnesis_(philosophy)" title="Anamnesis (philosophy)"><i>Anamnesis</i> <span style="font-size:90%;">(recollection)</span></a></li>
+<li><a href="/wiki/Apatheia" title="Apatheia"><i>Apatheia</i> <span style="font-size:90%;">(equanimity)</span></a></li>
+<li><a href="/wiki/Apeiron_(cosmology)" title="Apeiron (cosmology)"><i>Apeiron</i> <span style="font-size:90%;">(the unlimited)</span></a></li>
+<li><a href="/wiki/Aponia" title="Aponia"><i>Aponia</i> <span style="font-size:90%;">(pleasure)</span></a></li>
+<li><a href="/wiki/Aporia" title="Aporia"><i>Aporia</i> <span style="font-size:90%;">(impasse)</span></a></li>
+<li><a href="/wiki/Arche" title="Arche"><i>Arche</i> <span style="font-size:90%;">(first principle)</span></a></li>
+<li><a href="/wiki/Arete_(moral_virtue)" title="Arete (moral virtue)"><i>Arete</i> <span style="font-size:90%;">(excellence)</span></a></li>
+<li><a href="/wiki/Ataraxia" title="Ataraxia"><i>Ataraxia</i> <span style="font-size:90%;">(tranquility)</span></a></li>
+<li><a href="/wiki/Becoming_(philosophy)" title="Becoming (philosophy)">Becoming</a></li>
+<li><a href="/wiki/Being" title="Being">Being</a></li>
+<li><a href="/wiki/Cosmos" title="Cosmos"><i>Cosmos</i> <span style="font-size:90%;">(order)</span></a></li>
+<li><a href="/wiki/Demiurge" title="Demiurge"><i>Demiurge</i> <span style="font-size:90%;">(creator)</span></a></li>
+<li><a href="/wiki/Diairesis" title="Diairesis"><i>Diairesis</i> <span style="font-size:90%;">(division)</span></a></li>
+<li><a href="/wiki/Genus%E2%80%93differentia_definition" title="Genus–differentia definition"><i>Differentia</i> / <i>Genus</i></a></li>
+<li><a href="/wiki/Doxa" title="Doxa"><i>Doxa</i> <span style="font-size:90%;">(common opinion)</span></a></li>
+<li><a href="/wiki/Potentiality_and_actuality" title="Potentiality and actuality"><i>Dunamis&#160;/ Energeia</i> <span style="font-size:90%;">(potentiality&#160;/ actuality)</span></a></li>
+<li><a href="/wiki/Episteme" title="Episteme"><i>Episteme</i> <span style="font-size:90%;">(knowledge)</span></a></li>
+<li><a href="/wiki/Epoch%C3%A9" title="Epoché"><i>Epoché</i> <span style="font-size:90%;">(suspension)</span></a></li>
+<li><a href="/wiki/Ethos" title="Ethos"><i>Ethos</i> <span style="font-size:90%;">(character)</span></a></li>
+<li><a href="/wiki/Eudaimonia" title="Eudaimonia"><i>Eudaimonia</i> <span style="font-size:90%;">(flourishing)</span></a></li>
+<li><a href="/wiki/Henosis" title="Henosis"><i>Henosis</i> <span style="font-size:90%;">(oneness)</span></a></li>
+<li><a href="/wiki/Hexis" title="Hexis"><i>Hexis</i> <span style="font-size:90%;">(active condition)</span></a></li>
+<li><a href="/wiki/Hyle" title="Hyle"><i>Hyle</i> <span style="font-size:90%;">(matter)</span></a></li>
+<li><a href="/wiki/Hylomorphism" title="Hylomorphism"><i>Hylomorphism</i> <span style="font-size:90%;">(matter and form)</span></a></li>
+<li><a href="/wiki/Hylozoism" title="Hylozoism"><i>Hylozoism</i> <span style="font-size:90%;">(matter and life)</span></a></li>
+<li><a href="/wiki/Hypokeimenon" title="Hypokeimenon"><i>Hypokeimenon</i> <span style="font-size:90%;">(substratum)</span></a></li>
+<li><a href="/wiki/Hypostasis_(philosophy_and_religion)" title="Hypostasis (philosophy and religion)"><i>Hypostasis</i> <span style="font-size:90%;">(underpinning)</span></a></li>
+<li><a href="/wiki/Theory_of_Forms" title="Theory of Forms"><i>Idee</i> <span style="font-size:90%;">(Idea)</span></a></li>
+<li><a href="/wiki/Katalepsis" title="Katalepsis"><i>Katalepsis</i> <span style="font-size:90%;">(comprehension)</span></a></li>
+<li><a href="/wiki/Kathekon" title="Kathekon"><i>Kathēkon</i> <span style="font-size:90%;">(proper function)</span></a></li>
+<li><a href="/wiki/Logos" title="Logos"><i>Logos</i> <span style="font-size:90%;">(reasoned discourse)</span></a></li>
+<li><a href="/wiki/Metempsychosis" title="Metempsychosis"><i>Metempsychosis</i> <span style="font-size:90%;">(reincarnation)</span></a></li>
+<li><a href="/wiki/Mimesis" title="Mimesis"><i>Mimesis</i> <span style="font-size:90%;">(imitation)</span></a></li>
+<li><a href="/wiki/Monad_(philosophy)" title="Monad (philosophy)"><i>Monad</i> <span style="font-size:90%;">(unit)</span></a></li>
+<li><a href="/wiki/Nous" title="Nous"><i>Nous</i> <span style="font-size:90%;">(intellect)</span></a></li>
+<li><a href="/wiki/Oikei%C3%B4sis" title="Oikeiôsis"><i>Oikeiôsis</i> <span style="font-size:90%;">(affinity)</span></a></li>
+<li><a href="/wiki/Ousia" title="Ousia"><i>Ousia</i> <span style="font-size:90%;">(substance)</span></a></li>
+<li><a href="/wiki/Pathos" title="Pathos"><i>Pathos</i> <span style="font-size:90%;">(emotional)</span></a></li>
+<li><a href="/wiki/Phronesis" title="Phronesis"><i>Phronesis</i> <span style="font-size:90%;">(practical wisdom)</span></a></li>
+<li><a href="/wiki/Physis" title="Physis"><i>Physis</i> <span style="font-size:90%;">(natural law)</span></a></li>
+<li><a href="/wiki/Sophia_(wisdom)" title="Sophia (wisdom)"><i>Sophia</i> <span style="font-size:90%;">(wisdom)</span></a></li>
+<li><a href="/wiki/Telos_(philosophy)" title="Telos (philosophy)"><i>Telos</i> <span style="font-size:90%;">(purpose)</span></a></li>
+<li><a href="/wiki/Tetractys" title="Tetractys"><i>Tetractys</i> <span style="font-size:90%;">(fourth triangular number)</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Early_Lutheran_controversies" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Early_Lutheran_controversies" title="Template:Early Lutheran controversies"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Early_Lutheran_controversies" title="Template talk:Early Lutheran controversies"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Early_Lutheran_controversies&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Early_Lutheran_controversies" style="font-size:114%;margin:0 4em">Early <a href="/wiki/Lutheranism" title="Lutheranism">Lutheran</a> controversies</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0px">
+<table class="navbox-subgroup hlist" style="margin:-2px">
+<tr style="vertical-align:top">
+<td class="navbox-group navbox-group" style="text-align:center;"><i>Date</i></td>
+<td class="navbox-group navbox-group" style="text-align:left;white-space:nowrap;"><i>Controversy</i></td>
+<td class="navbox-group navbox-group" style="text-align:left;"><span class="nowrap"><i>Resolution</i> <sup>a</sup></span></td>
+<td class="navbox-group" style="text-align:left;"><i>Issues&#160;/ people&#160;/ publications involved</i></td>
+</tr>
+<tr style="vertical-align:top">
+<td class="navbox-group" style="text-align:center;">1527–56</td>
+<td class="navbox-group" style="text-align:left;white-space:nowrap;"><a href="/wiki/Antinomianism#Second_Antinomian_controversy" title="Antinomianism">Antinomian</a></td>
+<td class="navbox-group" style="text-align:left;">
+<div class="hlist">
+<ul>
+<li>V</li>
+<li>VI</li>
+</ul>
+</div>
+</td>
+<td style="text-align:left;">
+<ul>
+<li><a href="/wiki/Johannes_Agricola" title="Johannes Agricola">Johannes Agricola</a></li>
+<li><a href="/wiki/Andreas_Poach" title="Andreas Poach">Andreas Poach</a></li>
+<li><a href="/w/index.php?title=Anton_Otto&amp;action=edit&amp;redlink=1" class="new" title="Anton Otto (page does not exist)">Anton Otto</a></li>
+<li><a href="/wiki/Matthias_Flacius" title="Matthias Flacius">Matthias Flacius</a></li>
+<li><a href="/wiki/Philippists" title="Philippists">Philippists</a></li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td class="navbox-group" style="text-align:center;">1533–53</td>
+<td class="navbox-group" style="text-align:left;white-space:nowrap;">Descent into Hell</td>
+<td class="navbox-group" style="text-align:left;">IX</td>
+<td style="text-align:left;">
+<ul>
+<li><a href="/wiki/Harrowing_of_Hell#Lutheran" title="Harrowing of Hell">Descent into Hell</a></li>
+<li><a href="/wiki/Johannes_Aepinus" title="Johannes Aepinus">Johannes Aepinus</a></li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td class="navbox-group" style="text-align:center;">1548–55</td>
+<td class="navbox-group" style="text-align:left;white-space:nowrap;"><strong class="selflink">Adiaphoristic</strong></td>
+<td class="navbox-group" style="text-align:left;">X</td>
+<td style="text-align:left;">
+<ul>
+<li><a href="/wiki/Philip_Melanchthon#Controversies_with_Flacius" title="Philip Melanchthon">Philip Melanchthon</a></li>
+<li><a href="/wiki/Matthias_Flacius" title="Matthias Flacius">Matthias Flacius</a></li>
+<li><a href="/wiki/Philippists#Opposition_to_Melanchthon" title="Philippists">Philippists</a></li>
+<li><a href="/wiki/Gnesio-Lutherans" title="Gnesio-Lutherans">Gnesio-Lutherans</a></li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td class="navbox-group" style="text-align:center;">1549–66</td>
+<td class="navbox-group" style="text-align:left;white-space:nowrap;"><a href="/wiki/Osiandrian_controversy" title="Osiandrian controversy">Osiandrian</a></td>
+<td class="navbox-group" style="text-align:left;">III</td>
+<td style="text-align:left;">
+<ul>
+<li><a href="/wiki/Andreas_Osiander" title="Andreas Osiander">Andreas Osiander</a></li>
+<li><a href="/wiki/Johann_Funck" title="Johann Funck">Johann Funck</a></li>
+<li><a href="/wiki/Francesco_Stancaro" title="Francesco Stancaro">Francesco Stancaro</a></li>
+<li><a href="/wiki/Philip_Melanchthon#Disputes_with_Osiander_and_Flacius" title="Philip Melanchthon">Philip Melanchthon</a></li>
+<li><a href="/wiki/Matthias_Flacius" title="Matthias Flacius">Matthias Flacius</a></li>
+<li><a href="/wiki/Andreas_Musculus" title="Andreas Musculus">Andreas Musculus</a></li>
+<li><a href="/wiki/Victorinus_Strigel" title="Victorinus Strigel">Victorinus Strigel</a></li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td class="navbox-group" style="text-align:center;">1551–62</td>
+<td class="navbox-group" style="text-align:left;white-space:nowrap;">Majoristic</td>
+<td class="navbox-group" style="text-align:left;">VI</td>
+<td style="text-align:left;">
+<ul>
+<li><a href="/wiki/Georg_Major" title="Georg Major">Georg Major</a></li>
+<li><a href="/wiki/Justus_Menius" title="Justus Menius">Justus Menius</a></li>
+<li><a href="/wiki/Nicolaus_von_Amsdorf" title="Nicolaus von Amsdorf">Nicolaus von Amsdorf</a></li>
+<li><a href="/wiki/Nicolaus_Gallus" title="Nicolaus Gallus">Nicolaus Gallus</a></li>
+<li><a href="/wiki/Philippists#Open_conflict" title="Philippists">Philippists</a></li>
+<li><a href="/wiki/Gnesio-Lutherans" title="Gnesio-Lutherans">Gnesio-Lutherans</a></li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td class="navbox-group" style="text-align:center;">1555–60</td>
+<td class="navbox-group" style="text-align:left;white-space:nowrap;">Synergistic</td>
+<td class="navbox-group" style="text-align:left;">II</td>
+<td style="text-align:left;">
+<ul>
+<li><a href="/wiki/Philip_Melanchthon#Controversies_with_Flacius" title="Philip Melanchthon">Philip Melanchthon</a></li>
+<li><a href="/wiki/Johann_Pfeffinger" title="Johann Pfeffinger">Johann Pfeffinger</a></li>
+<li><a href="/wiki/Victorinus_Strigel" title="Victorinus Strigel">Victorinus Strigel</a></li>
+<li><a href="/wiki/Matthias_Flacius" title="Matthias Flacius">Matthias Flacius</a></li>
+<li><a href="/wiki/Philippists#Opposition_to_Melanchthon" title="Philippists">Philippists</a></li>
+<li><a href="/wiki/Gnesio-Lutherans" title="Gnesio-Lutherans">Gnesio-Lutherans</a></li>
+<li><i><a href="/wiki/On_the_Bondage_of_the_Will" title="On the Bondage of the Will">On the Bondage of the Will</a></i></li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td class="navbox-group" style="text-align:center;">1560–75</td>
+<td class="navbox-group" style="text-align:left;white-space:nowrap;">Flacian</td>
+<td class="navbox-group" style="text-align:left;">I</td>
+<td style="text-align:left;">
+<ul>
+<li><a href="/wiki/Matthias_Flacius" title="Matthias Flacius">Matthias Flacius</a></li>
+<li><a href="/w/index.php?title=Simon_Musaeus&amp;action=edit&amp;redlink=1" class="new" title="Simon Musaeus (page does not exist)">Simon Musaeus</a></li>
+<li><a href="/wiki/Victorinus_Strigel" title="Victorinus Strigel">Victorinus Strigel</a></li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td class="navbox-group" style="text-align:center;">1560–75</td>
+<td class="navbox-group" style="text-align:left;white-space:nowrap;"><a href="/wiki/Crypto-Calvinism" title="Crypto-Calvinism">Crypto-Calvinist</a></td>
+<td class="navbox-group" style="text-align:left;">VII</td>
+<td style="text-align:left;">
+<ul>
+<li><a href="/wiki/Philip_Melanchthon#Discussions_on_Lord.27_Supper_and_Justification" title="Philip Melanchthon">Philip Melanchthon</a></li>
+<li><a href="/wiki/Augsburg_Confession_Variata" title="Augsburg Confession Variata">Augsburg Confession Variata</a></li>
+<li><a href="/wiki/Albert_Hardenberg" title="Albert Hardenberg">Albert Hardenberg</a></li>
+<li><a href="/wiki/Joachim_Westphal_(of_Hamburg)" title="Joachim Westphal (of Hamburg)">Joachim Westphal</a></li>
+<li><a href="/wiki/Martin_Chemnitz" title="Martin Chemnitz">Martin Chemnitz</a></li>
+<li><a href="/wiki/Maximilian_M%C3%B6rlin" title="Maximilian Mörlin">Maximilian Mörlin</a></li>
+<li><a href="/wiki/Philippists#Open_conflict" title="Philippists">Philippists</a></li>
+<li><a href="/wiki/Sacramentarians" title="Sacramentarians">Sacramentarians</a></li>
+<li><a href="/wiki/Ubiquitarians" title="Ubiquitarians">Ubiquitarians</a></li>
+<li><a href="/wiki/Gnesio-Lutherans" title="Gnesio-Lutherans">Gnesio-Lutherans</a></li>
+<li><i><a href="/wiki/The_Sacrament_of_the_Body_and_Blood_of_Christ%E2%80%94Against_the_Fanatics" title="The Sacrament of the Body and Blood of Christ—Against the Fanatics">The Sacrament of the Body and Blood of Christ</a></i></li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td class="navbox-group" style="text-align:center;">1561–63</td>
+<td class="navbox-group" style="text-align:left;white-space:nowrap;">Predestination</td>
+<td class="navbox-group" style="text-align:left;">XI</td>
+<td style="text-align:left;">
+<ul>
+<li><a href="/wiki/Predestination" title="Predestination">Predestination</a></li>
+<li><a href="/wiki/Johann_Marbach" title="Johann Marbach">Johann Marbach</a></li>
+<li><a href="/wiki/Girolamo_Zanchi" title="Girolamo Zanchi">Girolamo Zanchi</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="navbox-abovebelow plainlist">
+<ul>
+<li><sup>a</sup> According to the <a href="/wiki/Formula_of_Concord" title="Formula of Concord">Formula of Concord</a> articles identified (I–XII).</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow plainlist" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/Portal:Lutheranism" title="Portal:Lutheranism">Lutheranism portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1176
+Cached time: 20170403024432
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.250 seconds
+Preprocessor visited node count: 1740/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 77471/2097152 bytes
+Template argument size: 2091/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Lua time usage: 0.095/10.000 seconds
+Lua memory usage: 4.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  201.795      1 -total
+ 28.89%   58.296      1 Template:Reflist
+ 19.82%   40.002      2 Template:Navbox
+ 17.20%   34.715     10 Template:Citation
+ 14.45%   29.161      2 Template:Cite_web
+ 12.06%   24.341      1 Template:Original_research
+ 11.46%   23.133      1 Template:Early_Lutheran_Controversies
+ 11.12%   22.437      1 Template:Ancient_Greek_philosophical_concepts
+ 10.16%   20.499      1 Template:Ambox
+  9.10%   18.362      2 Template:See_also
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:882141-0!*!0!!en!4!* and timestamp 20170403024432 and revision id 757945413
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Adiaphora&amp;oldid=757945413">https://en.wikipedia.org/w/index.php?title=Adiaphora&amp;oldid=757945413</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Christian_ethics" title="Category:Christian ethics">Christian ethics</a></li><li><a href="/wiki/Category:Christian_terminology" title="Category:Christian terminology">Christian terminology</a></li><li><a href="/wiki/Category:Lutheran_theology" title="Category:Lutheran theology">Lutheran theology</a></li><li><a href="/wiki/Category:Stoicism" title="Category:Stoicism">Stoicism</a></li><li><a href="/wiki/Category:Concepts_in_ancient_Greek_ethics" title="Category:Concepts in ancient Greek ethics">Concepts in ancient Greek ethics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_September_2007" title="Category:Articles that may contain original research from September 2007">Articles that may contain original research from September 2007</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Adiaphora" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Adiaphora" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Adiaphora"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Adiaphora"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Adiaphora" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Adiaphora&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Adiaphora&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Adiaphora" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Adiaphora" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Adiaphora&amp;oldid=757945413" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Adiaphora&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q356932" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Adiaphora&amp;id=757945413" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Adiaphora">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Adiaphora&amp;returnto=Adiaphora&amp;oldid=757945413&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Adiaphora&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Adi%C3%A0fora" title="Adiàfora – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Adiafora" title="Adiafora – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Adiaphora" title="Adiaphora – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Adiafoorid" title="Adiafoorid – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Adiafor%C3%ADa" title="Adiaforía – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Adiaphora" title="Adiaphora – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Adiaphora" title="Adiaphora – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Adiafora" title="Adiafora – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Adiaphora" title="Adiaphora – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Adiaphora" title="Adiaphora – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Adiaphora" title="Adiaphora – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Adiaphora" title="Adiaphora – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%A2%E3%83%95%E3%82%A9%E3%83%A9" title="アディアフォラ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Adiafora" title="Adiafora – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Adi%C3%A1fora" title="Adiáfora – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B8%D0%B0%D1%84%D0%BE%D1%80%D0%B0" title="Адиафора – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Adiaforon" title="Adiaforon – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Adiafora" title="Adiafora – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Adiafora" title="Adiafora – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Adiaphora" title="Adiaphora – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q356932#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 January 2017, at 16:53.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Adiaphora&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.250","ppvisitednodes":{"value":1740,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":77471,"limit":2097152},"templateargumentsize":{"value":2091,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  201.795      1 -total"," 28.89%   58.296      1 Template:Reflist"," 19.82%   40.002      2 Template:Navbox"," 17.20%   34.715     10 Template:Citation"," 14.45%   29.161      2 Template:Cite_web"," 12.06%   24.341      1 Template:Original_research"," 11.46%   23.133      1 Template:Early_Lutheran_Controversies"," 11.12%   22.437      1 Template:Ancient_Greek_philosophical_concepts"," 10.16%   20.499      1 Template:Ambox","  9.10%   18.362      2 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.095","limit":"10.000"},"limitreport-memusage":{"value":4653656,"limit":52428800}},"cachereport":{"origin":"mw1176","timestamp":"20170403024432","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw2255"});});</script>
+	</body>
+</html>

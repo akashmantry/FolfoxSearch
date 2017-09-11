@@ -1,0 +1,365 @@
+https://en.wikipedia.org/wiki/1991_in_television
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1991 in television - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1991_in_television","wgTitle":"1991 in television","wgCurRevisionId":768555342,"wgRevisionId":768555342,"wgArticleId":28328265,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All set index articles","Set indices","1991 in television"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1991_in_television","wgRelevantArticleId":28328265,"wgRequestId":"WPmLzArAIEUAAGKo1wEAAAEQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2813105","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1991_in_television"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1991_in_television&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1991_in_television&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1991_in_television"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1991_in_television rootpage-1991_in_television skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1991 in television</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>1991 in television</b> may refer to:</p>
+<ul>
+<li><a href="/wiki/1991_in_American_television" title="1991 in American television">1991 in American television</a></li>
+<li><a href="/wiki/1991_in_Australian_television" title="1991 in Australian television">1991 in Australian television</a></li>
+<li><a href="/wiki/1991_in_Belgian_television" title="1991 in Belgian television">1991 in Belgian television</a></li>
+<li><a href="/wiki/1991_in_Brazilian_television" title="1991 in Brazilian television">1991 in Brazilian television</a></li>
+<li><a href="/wiki/1991_in_British_television" title="1991 in British television">1991 in British television</a></li>
+<li><a href="/wiki/1991_in_Canadian_television" title="1991 in Canadian television">1991 in Canadian television</a></li>
+<li><a href="/wiki/1991_in_Danish_television" title="1991 in Danish television">1991 in Danish television</a></li>
+<li><a href="/wiki/1991_in_Dutch_television" title="1991 in Dutch television">1991 in Dutch television</a></li>
+<li><a href="/w/index.php?title=1991_in_French_television&amp;action=edit&amp;redlink=1" class="new" title="1991 in French television (page does not exist)">1991 in French television</a></li>
+<li><a href="/wiki/1991_in_German_television" title="1991 in German television">1991 in German television</a></li>
+<li><a href="/wiki/1991_in_Irish_television" title="1991 in Irish television">1991 in Irish television</a></li>
+<li><a href="/w/index.php?title=1991_in_Israeli_television&amp;action=edit&amp;redlink=1" class="new" title="1991 in Israeli television (page does not exist)">1991 in Israeli television</a></li>
+<li><a href="/wiki/1991_in_Italian_television" title="1991 in Italian television">1991 in Italian television</a></li>
+<li><a href="/wiki/1991_in_Japanese_television" title="1991 in Japanese television">1991 in Japanese television</a></li>
+<li><a href="/wiki/1991_in_New_Zealand_television" title="1991 in New Zealand television">1991 in New Zealand television</a></li>
+<li><a href="/wiki/1991_in_Philippine_television" title="1991 in Philippine television">1991 in Philippine television</a></li>
+<li><a href="/wiki/1991_in_Scottish_television" title="1991 in Scottish television">1991 in Scottish television</a></li>
+<li><a href="/wiki/1991_in_Swedish_television" title="1991 in Swedish television">1991 in Swedish television</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Years_in_television" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Years_in_television" title="Template:Years in television"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Years_in_television" title="Template talk:Years in television"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Years_in_television&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Years_in_television" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_years_in_television" title="List of years in television">Years in television</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Before_1925_in_television" title="Before 1925 in television">Before 1925</a></li>
+<li><a href="/wiki/1925_in_television" title="1925 in television">1925</a></li>
+<li><a href="/wiki/1926_in_television" title="1926 in television">1926</a></li>
+<li><a href="/wiki/1927_in_television" title="1927 in television">1927</a></li>
+<li><a href="/wiki/1928_in_television" title="1928 in television">1928</a></li>
+<li><a href="/wiki/1929_in_television" title="1929 in television">1929</a></li>
+<li><a href="/wiki/1930_in_television" title="1930 in television">1930</a></li>
+<li><a href="/wiki/1931_in_television" title="1931 in television">1931</a></li>
+<li><a href="/wiki/1932_in_television" title="1932 in television">1932</a></li>
+<li><a href="/wiki/1933_in_television" title="1933 in television">1933</a></li>
+<li><a href="/wiki/1934_in_television" title="1934 in television">1934</a></li>
+<li><a href="/wiki/1935_in_television" title="1935 in television">1935</a></li>
+<li><a href="/wiki/1936_in_television" title="1936 in television">1936</a></li>
+<li><a href="/wiki/1937_in_television" title="1937 in television">1937</a></li>
+<li><a href="/wiki/1938_in_television" title="1938 in television">1938</a></li>
+<li><a href="/wiki/1939_in_television" title="1939 in television">1939</a></li>
+<li><a href="/wiki/1940_in_television" title="1940 in television">1940</a></li>
+<li><a href="/wiki/1941_in_television" title="1941 in television">1941</a></li>
+<li><a href="/wiki/1942_in_television" title="1942 in television">1942</a></li>
+<li><a href="/wiki/1943_in_television" title="1943 in television">1943</a></li>
+<li><a href="/wiki/1944_in_television" title="1944 in television">1944</a></li>
+<li><a href="/wiki/1945_in_television" title="1945 in television">1945</a></li>
+<li><a href="/wiki/1946_in_television" title="1946 in television">1946</a></li>
+<li><a href="/wiki/1947_in_television" title="1947 in television">1947</a></li>
+<li><a href="/wiki/1948_in_television" title="1948 in television">1948</a></li>
+<li><a href="/wiki/1949_in_television" title="1949 in television">1949</a></li>
+<li><a href="/wiki/1950_in_television" title="1950 in television">1950</a></li>
+<li><a href="/wiki/1951_in_television" title="1951 in television">1951</a></li>
+<li><a href="/wiki/1952_in_television" title="1952 in television">1952</a></li>
+<li><a href="/wiki/1953_in_television" title="1953 in television">1953</a></li>
+<li><a href="/wiki/1954_in_television" title="1954 in television">1954</a></li>
+<li><a href="/wiki/1955_in_television" title="1955 in television">1955</a></li>
+<li><a href="/wiki/1956_in_television" title="1956 in television">1956</a></li>
+<li><a href="/wiki/1957_in_television" title="1957 in television">1957</a></li>
+<li><a href="/wiki/1958_in_television" title="1958 in television">1958</a></li>
+<li><a href="/wiki/1959_in_television" title="1959 in television">1959</a></li>
+<li><a href="/wiki/1960_in_television" title="1960 in television">1960</a></li>
+<li><a href="/wiki/1961_in_television" title="1961 in television">1961</a></li>
+<li><a href="/wiki/1962_in_television" title="1962 in television">1962</a></li>
+<li><a href="/wiki/1963_in_television" title="1963 in television">1963</a></li>
+<li><a href="/wiki/1964_in_television" title="1964 in television">1964</a></li>
+<li><a href="/wiki/1965_in_television" title="1965 in television">1965</a></li>
+<li><a href="/wiki/1966_in_television" title="1966 in television">1966</a></li>
+<li><a href="/wiki/1967_in_television" title="1967 in television">1967</a></li>
+<li><a href="/wiki/1968_in_television" title="1968 in television">1968</a></li>
+<li><a href="/wiki/1969_in_television" title="1969 in television">1969</a></li>
+<li><a href="/wiki/1970_in_television" title="1970 in television">1970</a></li>
+<li><a href="/wiki/1971_in_television" title="1971 in television">1971</a></li>
+<li><a href="/wiki/1972_in_television" title="1972 in television">1972</a></li>
+<li><a href="/wiki/1973_in_television" title="1973 in television">1973</a></li>
+<li><a href="/wiki/1974_in_television" title="1974 in television">1974</a></li>
+<li><a href="/wiki/1975_in_television" title="1975 in television">1975</a></li>
+<li><a href="/wiki/1976_in_television" title="1976 in television">1976</a></li>
+<li><a href="/wiki/1977_in_television" title="1977 in television">1977</a></li>
+<li><a href="/wiki/1978_in_television" title="1978 in television">1978</a></li>
+<li><a href="/wiki/1979_in_television" title="1979 in television">1979</a></li>
+<li><a href="/wiki/1980_in_television" title="1980 in television">1980</a></li>
+<li><a href="/wiki/1981_in_television" title="1981 in television">1981</a></li>
+<li><a href="/wiki/1982_in_television" title="1982 in television">1982</a></li>
+<li><a href="/wiki/1983_in_television" title="1983 in television">1983</a></li>
+<li><a href="/wiki/1984_in_television" title="1984 in television">1984</a></li>
+<li><a href="/wiki/1985_in_television" title="1985 in television">1985</a></li>
+<li><a href="/wiki/1986_in_television" title="1986 in television">1986</a></li>
+<li><a href="/wiki/1987_in_television" title="1987 in television">1987</a></li>
+<li><a href="/wiki/1988_in_television" title="1988 in television">1988</a></li>
+<li><a href="/wiki/1989_in_television" title="1989 in television">1989</a></li>
+<li><a href="/wiki/1990_in_television" title="1990 in television">1990</a></li>
+<li><a class="mw-selflink selflink">1991</a></li>
+<li><a href="/wiki/1992_in_television" title="1992 in television">1992</a></li>
+<li><a href="/wiki/1993_in_television" title="1993 in television">1993</a></li>
+<li><a href="/wiki/1994_in_television" title="1994 in television">1994</a></li>
+<li><a href="/wiki/1995_in_television" title="1995 in television">1995</a></li>
+<li><a href="/wiki/1996_in_television" title="1996 in television">1996</a></li>
+<li><a href="/wiki/1997_in_television" title="1997 in television">1997</a></li>
+<li><a href="/wiki/1998_in_television" title="1998 in television">1998</a></li>
+<li><a href="/wiki/1999_in_television" title="1999 in television">1999</a></li>
+<li><a href="/wiki/2000_in_television" title="2000 in television">2000</a></li>
+<li><a href="/wiki/2001_in_television" title="2001 in television">2001</a></li>
+<li><a href="/wiki/2002_in_television" title="2002 in television">2002</a></li>
+<li><a href="/wiki/2003_in_television" title="2003 in television">2003</a></li>
+<li><a href="/wiki/2004_in_television" title="2004 in television">2004</a></li>
+<li><a href="/wiki/2005_in_television" title="2005 in television">2005</a></li>
+<li><a href="/wiki/2006_in_television" title="2006 in television">2006</a></li>
+<li><a href="/wiki/2007_in_television" title="2007 in television">2007</a></li>
+<li><a href="/wiki/2008_in_television" title="2008 in television">2008</a></li>
+<li><a href="/wiki/2009_in_television" title="2009 in television">2009</a></li>
+<li><a href="/wiki/2010_in_television" title="2010 in television">2010</a></li>
+<li><a href="/wiki/2011_in_television" title="2011 in television">2011</a></li>
+<li><a href="/wiki/2012_in_television" title="2012 in television">2012</a></li>
+<li><a href="/wiki/2013_in_television" title="2013 in television">2013</a></li>
+<li><a href="/wiki/2014_in_television" title="2014 in television">2014</a></li>
+<li><a href="/wiki/2015_in_television" title="2015 in television">2015</a></li>
+<li><a href="/wiki/2016_in_television" title="2016 in television">2016</a></li>
+<li><a href="/wiki/2017_in_television" title="2017 in television">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"><a href="/wiki/File:DAB_list_gray.svg" class="image"><img alt="Disambiguation icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/DAB_list_gray.svg/30px-DAB_list_gray.svg.png" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/DAB_list_gray.svg/45px-DAB_list_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/DAB_list_gray.svg/60px-DAB_list_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">This <a href="/wiki/Wikipedia:Disambiguation#Set_index_articles" title="Wikipedia:Disambiguation">article</a> includes a list of related items that share the same name (or similar names).<br />
+<span style="font-size: 88%;">If an <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Whatlinkshere/1991_in_television&amp;namespace=0">internal link</a> incorrectly led you here, you may wish to change the link to point directly to the intended article.</span></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20170412093426
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.048 seconds
+Real time usage: 0.072 seconds
+Preprocessor visited node count: 166/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14427/2097152 bytes
+Template argument size: 486/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/500
+Lua time usage: 0.014/10.000 seconds
+Lua memory usage: 824 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   49.634      1 -total
+ 50.65%   25.138      1 Template:SIA
+ 49.16%   24.399      1 Template:Years_in_television
+ 45.79%   22.726      1 Template:Navbox
+ 39.70%   19.707      1 Template:Dmbox
+ 33.72%   16.737      1 Template:Category_handler
+  3.52%    1.746      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28328265-0!*!0!*!*!4!* and timestamp 20170412093426 and revision id 768555342
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1991_in_television&amp;oldid=768555342">https://en.wikipedia.org/w/index.php?title=1991_in_television&amp;oldid=768555342</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Set_indices" title="Category:Set indices">Set indices</a></li><li><a href="/wiki/Category:1991_in_television" title="Category:1991 in television">1991 in television</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1991+in+television" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1991+in+television" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1991_in_television"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1991_in_television"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1991_in_television" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1991_in_television&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1991_in_television&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1991_in_television" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1991_in_television" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1991_in_television&amp;oldid=768555342" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1991_in_television&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2813105" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1991_in_television&amp;id=768555342" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1991+in+television">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1991+in+television&amp;returnto=1991+in+television&amp;oldid=768555342&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1991_in_television&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:1991_in_television" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/1991_n%C3%AE_ti%C4%81n-s%C4%AB" title="1991 nî tiān-sī – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:Televisi%C3%B3n_en_1991" title="Anexo:Televisión en 1991 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/1991_%C3%A0_la_t%C3%A9l%C3%A9vision" title="1991 à la télévision – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/1991_na_televis%C3%A3o" title="1991 na televisão – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/1991_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8" title="1991 год в телевидении – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/1991_n%C3%AB_televizion" title="1991 në televizion – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/TV-%C3%A5ret_1991" title="TV-året 1991 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2813105#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 March 2017, at 14:14.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1991_in_television&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.048","walltime":"0.072","ppvisitednodes":{"value":166,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14427,"limit":2097152},"templateargumentsize":{"value":486,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   49.634      1 -total"," 50.65%   25.138      1 Template:SIA"," 49.16%   24.399      1 Template:Years_in_television"," 45.79%   22.726      1 Template:Navbox"," 39.70%   19.707      1 Template:Dmbox"," 33.72%   16.737      1 Template:Category_handler","  3.52%    1.746      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.014","limit":"10.000"},"limitreport-memusage":{"value":844240,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20170412093426","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw2181"});});</script>
+	</body>
+</html>

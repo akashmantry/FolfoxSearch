@@ -1,0 +1,394 @@
+https://en.wikipedia.org/wiki/Ameristar_Casinos
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ameristar Casinos - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ameristar_Casinos","wgTitle":"Ameristar Casinos","wgCurRevisionId":749211251,"wgRevisionId":749211251,"wgArticleId":1889176,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2016","Articles with permanently dead external links","Pages using deprecated image syntax","Pages using infobox company with unsupported parameters","Ameristar casinos","Companies established in 1954","Gambling companies of the United States","Hospitality companies of the United States","Companies based in Paradise, Nevada","1954 establishments in Nevada","Companies formerly listed on NASDAQ"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ameristar_Casinos","wgRelevantArticleId":1889176,"wgRequestId":"WPpXKwrAIDYAAHH6eJ4AAAAG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4745799","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/2/25/Ameristar-Casinos-logo.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ameristar_Casinos"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ameristar_Casinos&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ameristar_Casinos&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ameristar_Casinos"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ameristar_Casinos rootpage-Ameristar_Casinos skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ameristar Casinos</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Ameristar Casinos, Inc.</caption>
+<tr>
+<td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Ameristar-Casinos-logo.jpg" class="image" title="Ameristar Casinos"><img alt="Ameristar Casinos" src="//upload.wikimedia.org/wikipedia/en/2/25/Ameristar-Casinos-logo.jpg" width="200" height="100" data-file-width="200" data-file-height="100" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Types_of_business_entity" title="Types of business entity">Former type</a></div>
+</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Public_company" title="Public company">Public company</a> (<a href="/wiki/NASDAQ" title="NASDAQ">NASDAQ</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Industry</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Gambling" title="Gambling">Gaming</a> and <a href="/wiki/Hospitality_industry" title="Hospitality industry">hospitality</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Fate</th>
+<td style="line-height:1.35em;">Acquired</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Successor</th>
+<td style="line-height:1.35em;"><a href="/wiki/Pinnacle_Entertainment" title="Pinnacle Entertainment">Pinnacle Entertainment</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founded</th>
+<td style="line-height:1.35em;">1954 in <a href="/wiki/Jackpot,_Nevada" title="Jackpot, Nevada">Jackpot, Nevada</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founder</th>
+<td class="agent" style="line-height:1.35em;"><a href="/wiki/Cactus_Pete_Piersanti" title="Cactus Pete Piersanti">Cactus Pete Piersanti</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Defunct</th>
+<td style="line-height:1.35em;">2013 (acquisition completed)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Headquarters</th>
+<td class="label" style="line-height:1.35em;"><a href="/wiki/Paradise,_Nevada" title="Paradise, Nevada">Paradise, Nevada</a>, United States</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td class="agent" style="line-height:1.35em;">Gordon Kanofsky, CEO<br />
+<br />
+Larry A. Hodges, President &amp; COO</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Revenue</th>
+<td style="line-height:1.35em;">$1.22B <small>(<i>FY 2009</i>)</small><sup id="cite_ref-2009IncomeStatmenent_1-0" class="reference"><a href="#cite_note-2009IncomeStatmenent-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div>
+</th>
+<td style="line-height:1.35em;">$104M <small>(<i>FY 2009</i>)</small><sup id="cite_ref-2009IncomeStatmenent_1-1" class="reference"><a href="#cite_note-2009IncomeStatmenent-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div>
+</th>
+<td style="line-height:1.35em;">$-4.67M <small>(<i>FY 2009</i>)</small><sup id="cite_ref-2009IncomeStatmenent_1-2" class="reference"><a href="#cite_note-2009IncomeStatmenent-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th>
+<td style="line-height:1.35em;">$2.21B <small>(<i>FY 2009</i>)</small><sup id="cite_ref-2009BalanceSheet_2-0" class="reference"><a href="#cite_note-2009BalanceSheet-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th>
+<td style="line-height:1.35em;">$336M <small>(<i>FY 2009</i>)</small><sup id="cite_ref-2009BalanceSheet_2-1" class="reference"><a href="#cite_note-2009BalanceSheet-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div>
+</th>
+<td style="line-height:1.35em;">7,100<sup id="cite_ref-zenobank_3-0" class="reference"><a href="#cite_note-zenobank-3">[3]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Website</th>
+<td style="line-height:1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://ameristar.com">ameristar<wbr />.com</a></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Amerstar-casino1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Amerstar-casino1.jpg/220px-Amerstar-casino1.jpg" width="220" height="120" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Amerstar-casino1.jpg/330px-Amerstar-casino1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Amerstar-casino1.jpg/440px-Amerstar-casino1.jpg 2x" data-file-width="2593" data-file-height="1420" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Amerstar-casino1.jpg" class="internal" title="Enlarge"></a></div>
+Ameristar Casino in Kansas City</div>
+</div>
+</div>
+<p><b>Ameristar Casinos, Inc.</b> was a <a href="/wiki/Casino" title="Casino">casino</a> operator based in <a href="/wiki/Paradise,_Nevada" title="Paradise, Nevada">Paradise, Nevada</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> It was acquired by <a href="/wiki/Pinnacle_Entertainment" title="Pinnacle Entertainment">Pinnacle Entertainment</a> in 2013. The company had eight properties in seven markets.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Expansion"><span class="tocnumber">2</span> <span class="toctext">Expansion</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Philanthropy"><span class="tocnumber">3</span> <span class="toctext">Philanthropy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Financial"><span class="tocnumber">4</span> <span class="toctext">Financial</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Casinos"><span class="tocnumber">5</span> <span class="toctext">Casinos</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ameristar_Casinos&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The roots of Ameristar Casinos date to 1954 when <a href="/wiki/Cactus_Pete_Piersanti" title="Cactus Pete Piersanti">"Cactus Pete" Piersanti</a> opened Cactus Petes Desert Lodge on <a href="/wiki/U.S._Route_93" title="U.S. Route 93">U.S. Route 93</a> just south of the <a href="/wiki/Idaho" title="Idaho">Idaho</a> border in <a href="/wiki/Elko_County,_Nevada" title="Elko County, Nevada">Elko County</a>. The area would later become <a href="/wiki/Jackpot,_Nevada" title="Jackpot, Nevada">Jackpot</a>, Nevada. In 1956, Piersanti and others incorporated the property as <b>Cactus Petes, Inc.</b></p>
+<p>The corporation took over management of the neighboring Horseshu Club in 1964. Cactus Petes came under the partial control of Ray Neilsen of <a href="/wiki/Twin_Falls,_Idaho" title="Twin Falls, Idaho">Twin Falls</a>, <a href="/wiki/Idaho" title="Idaho">Idaho</a>, in 1967. Neilsen's construction company had built many of the structures at <a href="/wiki/Cactus_Pete%27s" title="Cactus Pete's">Cactus Pete's</a>. Neilsen's son, Craig, assumed control of day-to-day operations upon the elder Neilsen's death in 1971. <b>Craig H. Neilsen</b> became sole owner in 1984.</p>
+<p>A November 1985 automobile accident left Craig H. Neilsen a <a href="/wiki/Quadriplegic" class="mw-redirect" title="Quadriplegic">quadriplegic</a>, but he continued to lead the company and expanded it. Neilsen was named “Best Performing CEO” by the <a href="/wiki/American_Gaming_Association" title="American Gaming Association">American Gaming Association</a> in 2002, and was inducted into the organization’s “Hall of Fame” in 2005.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Craig H. Neilsen remained chairman and CEO until his unexpected death on November 19, 2006.</p>
+<p>Ray H. Neilsen succeeded his father, serving as co-chairman with John Boushy, who also was promoted from president to CEO at the time of Craig’s death.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Boushy resigned in June 2008 and was succeeded by Gordon Kanofsky, who previously served as the company's executive vice president, and now holds the dual role of CEO and vice chairman. Ray H. was named chairman at the same time.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>In August 2013, <a href="/wiki/Pinnacle_Entertainment" title="Pinnacle Entertainment">Pinnacle Entertainment</a> bought Ameristar for $869 million plus $1.9 billion in assumed debt.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The company had reportedly been "on the sales block" since Craig Neilsen's death.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="Expansion">Expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ameristar_Casinos&amp;action=edit&amp;section=2" title="Edit section: Expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ameristar_Black_Hawk.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ameristar_Black_Hawk.JPG/220px-Ameristar_Black_Hawk.JPG" width="220" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ameristar_Black_Hawk.JPG/330px-Ameristar_Black_Hawk.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ameristar_Black_Hawk.JPG/440px-Ameristar_Black_Hawk.JPG 2x" data-file-width="2550" data-file-height="2304" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ameristar_Black_Hawk.JPG" class="internal" title="Enlarge"></a></div>
+The Ameristar Resort Casino Spa, opened October 2009, in Black Hawk, Colorado</div>
+</div>
+</div>
+<p>In 1992 the company made its first investment outside of Jackpot by acquiring a <a href="/wiki/Vicksburg,_Mississippi" title="Vicksburg, Mississippi">Vicksburg</a>, <a href="/wiki/Mississippi" title="Mississippi">Mississippi</a>, property known as <a href="/w/index.php?title=Delta_Pointe&amp;action=edit&amp;redlink=1" class="new" title="Delta Pointe (page does not exist)">Delta Pointe</a>. This property was opened in 1994 as <a href="/w/index.php?title=Ameristar_Casino_Vicksburg&amp;action=edit&amp;redlink=1" class="new" title="Ameristar Casino Vicksburg (page does not exist)">Ameristar Casino Vicksburg</a>. The company subsequently constructed an adjoining hotel, and in 2008, completed a $100 million expansion of the facility.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Ameristar opened the first of several riverboat casinos in <a href="/wiki/Council_Bluffs,_Iowa" title="Council Bluffs, Iowa">Council Bluffs, Iowa</a>, in 1996. In 1998, the company opened the Reserve Hotel Casino in <a href="/wiki/Henderson,_Nevada" title="Henderson, Nevada">Henderson</a>, Nevada.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>The company was renamed Ameristar Casinos, Inc. and went public in 1993, on the NASDAQ Stock Exchange under the ticker symbol "ASCA." Company headquarters was moved from Twin Falls to Las Vegas in 1996.</p>
+<p>In 2000, Ameristar purchased properties in Kansas City, Missouri, and St. Charles, Missouri, from <a href="/wiki/Station_Casinos,_Inc." class="mw-redirect" title="Station Casinos, Inc.">Station Casinos, Inc.</a>, and in 2001, sold The Reserve Hotel and Casino to Station Casinos, which renamed it <a href="/wiki/Fiesta_Henderson" title="Fiesta Henderson">Fiesta Henderson</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>In 2004, Ameristar acquired the <a href="/w/index.php?title=Mountain_High_Casino&amp;action=edit&amp;redlink=1" class="new" title="Mountain High Casino (page does not exist)">Mountain High Casino</a> in <a href="/wiki/Black_Hawk,_Colorado" title="Black Hawk, Colorado">Black Hawk, Colorado</a>. In 2006, the Ameristar brand debuted after an $80 million renovation and expansion project that included additional covered parking; and announced details of its planned 33-story hotel and spa. Ameristar officially opened its new Casino Resort Spa complex October 2009 to become the first destination resort casino in Colorado. The property's $230 million expansion included a 33-story luxury hotel and day spa, an enclosed rooftop swimming pool and 15,000 square feet (1,400&#160;m<sup>2</sup>) of meeting and event space. The 33-story hotel featuring 536 rooms and 64 suites became the tallest structure between Salt Lake City, Utah and Denver.</p>
+<p>Ameristar also completed the acquisition of the <a href="/wiki/Resorts_East_Chicago" class="mw-redirect" title="Resorts East Chicago">Resorts East Chicago</a> casino in <a href="/wiki/East_Chicago,_Indiana" title="East Chicago, Indiana">East Chicago, Indiana</a> from <a href="/wiki/Resorts_International_Holdings,_LLC" class="mw-redirect" title="Resorts International Holdings, LLC">Resorts International Holdings</a> in 2007. It was rebranded <a href="/w/index.php?title=Ameristar_Casino_Hotel_East_Chicago&amp;action=edit&amp;redlink=1" class="new" title="Ameristar Casino Hotel East Chicago (page does not exist)">Ameristar Casino Hotel East Chicago</a> in June 2008. An outdoor summer concert series promoted the rebranding, and featured <a href="/wiki/Lionel_Richie" title="Lionel Richie">Lionel Richie</a>, <a href="/wiki/Smokey_Robinson" title="Smokey Robinson">Smokey Robinson</a> and <a href="/wiki/Reba_McEntire" title="Reba McEntire">Reba McEntire</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>In 2010, Ameristar announced plans to renovate all of Ameristar East Chicago's 280 superior guest rooms and 10 luxury suites; and to add 100 rooms and a fitness center to Ameristar Kansas City's existing luxury hotel. The addition will complement the property's existing 184 rooms and hotel lobby, which were extensively renovated in September 2006.</p>
+<p>In Massachusetts, where casinos were legalized in November 2011,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Ameristar applied for the one gaming license allotted to <a href="/wiki/Western_Massachusetts" title="Western Massachusetts">Western Massachusetts</a>, proposing to build a $910-million hotel and casino.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> It acquired a 41-acre site in <a href="/wiki/East_Springfield,_Springfield,_Massachusetts" title="East Springfield, Springfield, Massachusetts">East Springfield</a>, a former <a href="/wiki/Westinghouse_Electric_(1886)" class="mw-redirect" title="Westinghouse Electric (1886)">Westinghouse</a> plant, for $16 million.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In November 2012, however, Ameristar withdrew its proposal in the face of competing bids from <a href="/wiki/MGM_Resorts_International" title="MGM Resorts International">MGM Resorts International</a> and <a href="/wiki/Penn_National_Gaming" title="Penn National Gaming">Penn National Gaming</a>,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> saying that city officials were more likely to endorse a downtown casino.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<p>In March 2012, Ameristar agreed to acquire Creative Casinos, developer of the proposed <a href="/wiki/Mojito_Pointe" class="mw-redirect" title="Mojito Pointe">Mojito Pointe</a> casino resort in <a href="/wiki/Lake_Charles,_Louisiana" title="Lake Charles, Louisiana">Lake Charles, Louisiana</a>, for $32.5 million.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Ameristar planned to spend at least $500 million on the resort, and to open it in mid-2014.</p>
+<h2><span class="mw-headline" id="Philanthropy">Philanthropy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ameristar_Casinos&amp;action=edit&amp;section=3" title="Edit section: Philanthropy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Following the death of Craig H. Neilsen, his estate endowed the foundation in his name. Ameristar regularly partners with the Craig H. Neilsen Foundation to support the rehabilitation of individuals suffering from spinal cord injuries and disease. Ray H. Neilsen serves as Chairman, and Co-Trustee with Kanofsky.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> In addition, Ameristar was one of the first companies to help fund <a href="/wiki/Research" title="Research">research</a> at the <a href="/wiki/Nevada_Cancer_Institute" title="Nevada Cancer Institute">Nevada Cancer Institute</a> by making a $500,000 donation in 2004.</p>
+<p>Ameristar also sponsors an active workplace giving campaign known as <b>Ameristar Cares.</b> In 2012, the company and its employees raised almost $7 million for charitable organizations.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h2><span class="mw-headline" id="Financial">Financial</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ameristar_Casinos&amp;action=edit&amp;section=4" title="Edit section: Financial">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although the current economic recession has hurt the financial performance of casinos on the Las Vegas Strip, Ameristar and other regional casino operators have fared better, as customers opt for gaming and entertainment destinations closer to home.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-tradingmarkets.com_24-0" class="reference"><a href="#cite_note-tradingmarkets.com-24">[24]</a></sup></p>
+<p>Ameristar's properties in Kansas City and <a href="/wiki/St._Charles,_Missouri" title="St. Charles, Missouri">St. Charles, Missouri</a>, and <a href="/wiki/Black_Hawk,_Colorado" title="Black Hawk, Colorado">Black Hawk, Colorado</a>, benefitted from casino-related regulatory reform approved by voters in 2008-09. In Missouri, voters repealed the state’s loss limit, which had capped players’ purchases of table game chips and slot machine credits at $500 every two hours. In Black Hawk, voters approved a measure that increased betting limits and operating hours, and added the games of craps and roulette.<sup id="cite_ref-tradingmarkets.com_24-1" class="reference"><a href="#cite_note-tradingmarkets.com-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<h2><span class="mw-headline" id="Casinos">Casinos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ameristar_Casinos&amp;action=edit&amp;section=5" title="Edit section: Casinos">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ameristar’s properties at the time it was acquired were:<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<ul>
+<li><a href="/w/index.php?title=Ameristar_Casino_Hotel_Council_Bluffs&amp;action=edit&amp;redlink=1" class="new" title="Ameristar Casino Hotel Council Bluffs (page does not exist)">Ameristar Casino Hotel Council Bluffs</a> — <a href="/wiki/Council_Bluffs,_Iowa" title="Council Bluffs, Iowa">Council Bluffs, Iowa</a></li>
+<li><a href="/wiki/Ameristar_Casino_East_Chicago" title="Ameristar Casino East Chicago">Ameristar Casino Hotel East Chicago</a> — <a href="/wiki/East_Chicago,_Indiana" title="East Chicago, Indiana">East Chicago, Indiana</a></li>
+<li><a href="/w/index.php?title=Ameristar_Casino_Hotel_Vicksburg&amp;action=edit&amp;redlink=1" class="new" title="Ameristar Casino Hotel Vicksburg (page does not exist)">Ameristar Casino Hotel Vicksburg</a> — <a href="/wiki/Vicksburg,_Mississippi" title="Vicksburg, Mississippi">Vicksburg, Mississippi</a></li>
+<li><a href="/wiki/Ameristar_Casino_Kansas_City" title="Ameristar Casino Kansas City">Ameristar Casino Hotel Kansas City</a> — <a href="/wiki/Kansas_City,_Missouri" title="Kansas City, Missouri">Kansas City, Missouri</a></li>
+<li><a href="/w/index.php?title=Ameristar_Casino_Resort_Spa_Black_Hawk&amp;action=edit&amp;redlink=1" class="new" title="Ameristar Casino Resort Spa Black Hawk (page does not exist)">Ameristar Casino Resort Spa Black Hawk</a> — <a href="/wiki/Black_Hawk,_Colorado" title="Black Hawk, Colorado">Black Hawk, Colorado</a></li>
+<li><a href="/w/index.php?title=Ameristar_Casino_Resort_Spa_Lake_Charles&amp;action=edit&amp;redlink=1" class="new" title="Ameristar Casino Resort Spa Lake Charles (page does not exist)">Ameristar Casino Resort Spa Lake Charles</a> — <a href="/wiki/Lake_Charles,_Louisiana" title="Lake Charles, Louisiana">Lake Charles, Louisiana</a> (under construction)</li>
+<li><a href="/w/index.php?title=Ameristar_Casino_Resort_Spa_St._Charles&amp;action=edit&amp;redlink=1" class="new" title="Ameristar Casino Resort Spa St. Charles (page does not exist)">Ameristar Casino Resort Spa St. Charles</a> — <a href="/wiki/St._Charles,_Missouri" title="St. Charles, Missouri">St. Charles, Missouri</a></li>
+<li><a href="/wiki/Cactus_Pete%27s" title="Cactus Pete's">Cactus Petes Resort Casino</a> — <a href="/wiki/Jackpot,_Nevada" title="Jackpot, Nevada">Jackpot, Nevada</a></li>
+<li><a href="/w/index.php?title=Horseshu_Hotel_and_Casino&amp;action=edit&amp;redlink=1" class="new" title="Horseshu Hotel and Casino (page does not exist)">Horseshu Hotel and Casino</a> — <a href="/wiki/Jackpot,_Nevada" title="Jackpot, Nevada">Jackpot, Nevada</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ameristar_Casinos&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-2009IncomeStatmenent-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-2009IncomeStatmenent_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2009IncomeStatmenent_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-2009IncomeStatmenent_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="http://www.wikinvest.com/stock/Ameristar_Casinos_(ASCA)/Data/Income_Statement" class="extiw" title="wikinvest:stock/Ameristar Casinos (ASCA)/Data/Income Statement">Ameristar Casinos (ASCA) annual SEC income statement filing via Wikinvest.</a></span></li>
+<li id="cite_note-2009BalanceSheet-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-2009BalanceSheet_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2009BalanceSheet_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="http://www.wikinvest.com/stock/Ameristar_Casinos_(ASCA)/Data/Balance_Sheet" class="extiw" title="wikinvest:stock/Ameristar Casinos (ASCA)/Data/Balance Sheet">Ameristar Casinos (ASCA) annual SEC balance sheet filing via Wikinvest.</a></span></li>
+<li id="cite_note-zenobank-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-zenobank_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.zenobank.com/index.php?symbol=ASCA&amp;page=quotesearch">"Company Profile for Ameristar Casinos Inc (ASCA)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.btitle=Company+Profile+for+Ameristar+Casinos+Inc+%28ASCA%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.zenobank.com%2Findex.php%3Fsymbol%3DASCA%26page%3Dquotesearch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090626231835/http://redrock.co.clark.nv.us/assrrealprop/site.aspx">"Assessor Parcel number inquiry - search by location address results"</a>. <a href="/wiki/Clark_County,_Nevada" title="Clark County, Nevada">Clark County, Nevada</a>. Archived from <a rel="nofollow" class="external text" href="http://redrock.co.clark.nv.us/assrrealprop/site.aspx">the original</a> on 26 June 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.btitle=Assessor+Parcel+number+inquiry+-+search+by+location+address+results&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fredrock.co.clark.nv.us%2Fassrrealprop%2Fsite.aspx&amp;rft.pub=Clark+County%2C+Nevada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.fool.com/investing/small-cap/2006/11/20/ameristar-ceo-craig-neilsen-passes-away.aspx">[1]</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.casinocitytimes.com/news/article.cfm?contentID=163134">[2]</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.portfolio.com/resources/executive-profiles/Ray-H-Neilsen-48502">porfolio.com profile</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ameristar.com/corp/c_aa_history.asp">[3]</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Howard Stutz (August 14, 2013). <a rel="nofollow" class="external text" href="http://www.reviewjournal.com/business/casinos-gaming/pinnacle-entertainment-completes-28-billion-buyout-ameristar-casinos">"Pinnacle Entertainment completes $2.8 billion buyout of Ameristar Casinos"</a>. <i>Las Vegas Review-Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=Pinnacle+Entertainment+completes+%242.8+billion+buyout+of+Ameristar+Casinos&amp;rft.au=Howard+Stutz&amp;rft.date=2013-08-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reviewjournal.com%2Fbusiness%2Fcasinos-gaming%2Fpinnacle-entertainment-completes-28-billion-buyout-ameristar-casinos&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Howard Stutz (December 21, 2012). <a rel="nofollow" class="external text" href="http://www.lvrj.com/business/las-vegas-based-pinnacle-entertainment-to-acquire-rival-ameristar-casinos-for-869-million-184419871.html">"Las Vegas-based Pinnacle Entertainment to acquire rival Ameristar Casinos for $869 million"</a>. <i>Las Vegas Review-Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=Las+Vegas-based+Pinnacle+Entertainment+to+acquire+rival+Ameristar+Casinos+for+%24869+million&amp;rft.au=Howard+Stutz&amp;rft.date=2012-12-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.lvrj.com%2Fbusiness%2Flas-vegas-based-pinnacle-entertainment-to-acquire-rival-ameristar-casinos-for-869-million-184419871.html&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.vicksburgpost.com/articles/2008/05/25/news/newsbus01.txt">http://www.vicksburgpost.com/articles/2008/05/25/news/newsbus01.txt</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ameristar.com/History.aspx">[4]</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.lvrj.com/business/15474531.html">[5]</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.nwi.com/articles/2009/05/18/columnists/offbeat/doca2beaf18b5418277862575b700641283.txt">[6]</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Dan Ring (November 22, 2011). <a rel="nofollow" class="external text" href="http://www.masslive.com/news/index.ssf/2011/11/massachusetts_gov_deval_patric_75.html">"Massachusetts Gov. Deval Patrick signs bill to establish up to 3 casinos, 1 slot parlor"</a>. <i>The Republican</i>. Springfield, MA<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=Massachusetts+Gov.+Deval+Patrick+signs+bill+to+establish+up+to+3+casinos%2C+1+slot+parlor&amp;rft.au=Dan+Ring&amp;rft.date=2011-11-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.masslive.com%2Fnews%2Findex.ssf%2F2011%2F11%2Fmassachusetts_gov_deval_patric_75.html&amp;rft.jtitle=The+Republican&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Thomas Grillo (October 23, 2012). <a rel="nofollow" class="external text" href="http://www.bizjournals.com/boston/real_estate/2012/10/ameristar-places-bet-on-springfield.html">"Ameristar places bet on Springfield casino"</a>. <i>Boston Business Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=Ameristar+places+bet+on+Springfield+casino&amp;rft.au=Thomas+Grillo&amp;rft.date=2012-10-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fboston%2Freal_estate%2F2012%2F10%2Fameristar-places-bet-on-springfield.html&amp;rft.jtitle=Boston+Business+Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Anthony Fay (January 25, 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120208122416/http://www.wwlp.com:80/dpp/news/local/hampden/casino-co-closing-on-purchase-of-spfld-site">"Casino co. closes on purchase of Spfld site"</a>. <i>WWLP-TV</i>. Archived from <a rel="nofollow" class="external text" href="http://www.wwlp.com/dpp/news/local/hampden/casino-co-closing-on-purchase-of-spfld-site">the original</a> on 2012-02-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=Casino+co.+closes+on+purchase+of+Spfld+site&amp;rft.au=Anthony+Fay&amp;rft.date=2012-01-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.wwlp.com%2Fdpp%2Fnews%2Flocal%2Fhampden%2Fcasino-co-closing-on-purchase-of-spfld-site&amp;rft.jtitle=WWLP-TV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Mark Arsenault (November 30, 2012). <a rel="nofollow" class="external text" href="http://www.boston.com/metrodesk/2012/11/30/ameristar-drops-springifled-casino-effort/gh5Blc2SJLRJS9vy7Hl4VM/story.html">"Ameristar drops Springfield casino effort"</a>. <i>Boston Globe</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=Ameristar+drops+Springfield+casino+effort&amp;rft.au=Mark+Arsenault&amp;rft.date=2012-11-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.boston.com%2Fmetrodesk%2F2012%2F11%2F30%2Fameristar-drops-springifled-casino-effort%2Fgh5Blc2SJLRJS9vy7Hl4VM%2Fstory.html&amp;rft.jtitle=Boston+Globe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news">Dan Ring (December 4, 2012). <a rel="nofollow" class="external text" href="http://www.masslive.com/politics/index.ssf/2012/12/ameristar_casinos_says_springf.html">"Ameristar Casinos says Springfield Mayor Domenic Sarno made false accusation about company"</a>. <i>The Republican</i>. Springfield, MA<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=Ameristar+Casinos+says+Springfield+Mayor+Domenic+Sarno+made+false+accusation+about+company&amp;rft.au=Dan+Ring&amp;rft.date=2012-12-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.masslive.com%2Fpolitics%2Findex.ssf%2F2012%2F12%2Fameristar_casinos_says_springf.html&amp;rft.jtitle=The+Republican&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Howard Stutz (14 March 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120316232352/http://www.lvrj.com:80/business/ameristar-casinos-acquires-hotel-casino-project-in-lake-charles-la-142615986.html">"Ameristar Casinos acquires hotel-casino project in Lake Charles, La."</a>. <i>Las Vegas Review-Journal</i>. Archived from <a rel="nofollow" class="external text" href="http://www.lvrj.com/business/ameristar-casinos-acquires-hotel-casino-project-in-lake-charles-la-142615986.html">the original</a> on 16 March 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">14 March</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=Ameristar+Casinos+acquires+hotel-casino+project+in+Lake+Charles%2C+La.&amp;rft.au=Howard+Stutz&amp;rft.date=2012-03-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.lvrj.com%2Fbusiness%2Fameristar-casinos-acquires-hotel-casino-project-in-lake-charles-la-142615986.html&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.chnfoundation.org">[7]</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ameristar.com/Corporate_Giving.aspx">[8]</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Seetharaman, Deepa (2009-04-24). <a rel="nofollow" class="external text" href="http://www.reuters.com/article/marketsNews/idUSN2440721020090424">"UPDATE 2-Pinnacle Entertainment posts profit on cost cuts"</a>. <i>Reuters</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=UPDATE+2-Pinnacle+Entertainment+posts+profit+on+cost+cuts&amp;rft.aufirst=Deepa&amp;rft.aulast=Seetharaman&amp;rft.date=2009-04-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2FmarketsNews%2FidUSN2440721020090424&amp;rft.jtitle=Reuters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-tradingmarkets.com-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-tradingmarkets.com_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tradingmarkets.com_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.tradingmarkets.com/.site/news/Stock%20News/2306637/">[9]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.denverpost.com/business/ci_10910133">"Stock of Ameristar Casinos climbs after thumbs-up from voters"</a>. <i>Denver Post</i>. 2008-11-06.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmeristar+Casinos&amp;rft.atitle=Stock+of+Ameristar+Casinos+climbs+after+thumbs-up+from+voters&amp;rft.date=2008-11-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.denverpost.com%2Fbusiness%2Fci_10910133&amp;rft.jtitle=Denver+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ameristar.com/About_Ameristar.aspx">[10]</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ameristar_Casinos&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.ameristar.com">Ameristar Casinos</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2166
+Cached time: 20170421190203
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.208 seconds
+Real time usage: 0.289 seconds
+Preprocessor visited node count: 1546/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36344/2097152 bytes
+Template argument size: 2956/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.099/10.000 seconds
+Lua memory usage: 5.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  255.921      1 -total
+ 45.14%  115.532      1 Template:Reflist
+ 26.61%   68.100      1 Template:Infobox_company
+ 22.67%   58.014      1 Template:Infobox
+ 13.82%   35.374      1 Template:Official_website
+ 12.90%   33.003     10 Template:Cite_news
+ 12.36%   31.637      2 Template:Cite_web
+ 11.43%   29.258      2 Template:Dead_link
+  9.98%   25.528      1 Template:Convert
+  9.81%   25.097      2 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1889176-0!*!0!!en!4!* and timestamp 20170421190203 and revision id 749211251
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ameristar_Casinos&amp;oldid=749211251">https://en.wikipedia.org/w/index.php?title=Ameristar_Casinos&amp;oldid=749211251</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ameristar_casinos" title="Category:Ameristar casinos">Ameristar casinos</a></li><li><a href="/wiki/Category:Companies_established_in_1954" title="Category:Companies established in 1954">Companies established in 1954</a></li><li><a href="/wiki/Category:Gambling_companies_of_the_United_States" title="Category:Gambling companies of the United States">Gambling companies of the United States</a></li><li><a href="/wiki/Category:Hospitality_companies_of_the_United_States" title="Category:Hospitality companies of the United States">Hospitality companies of the United States</a></li><li><a href="/wiki/Category:Companies_based_in_Paradise,_Nevada" title="Category:Companies based in Paradise, Nevada">Companies based in Paradise, Nevada</a></li><li><a href="/wiki/Category:1954_establishments_in_Nevada" title="Category:1954 establishments in Nevada">1954 establishments in Nevada</a></li><li><a href="/wiki/Category:Companies_formerly_listed_on_NASDAQ" title="Category:Companies formerly listed on NASDAQ">Companies formerly listed on NASDAQ</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2016" title="Category:Articles with dead external links from October 2016">Articles with dead external links from October 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Pages_using_infobox_company_with_unsupported_parameters" title="Category:Pages using infobox company with unsupported parameters">Pages using infobox company with unsupported parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ameristar+Casinos" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ameristar+Casinos" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ameristar_Casinos"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ameristar_Casinos"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ameristar_Casinos" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ameristar_Casinos&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ameristar_Casinos&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ameristar_Casinos" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ameristar_Casinos" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ameristar_Casinos&amp;oldid=749211251" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ameristar_Casinos&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4745799" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ameristar_Casinos&amp;id=749211251" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ameristar+Casinos">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ameristar+Casinos&amp;returnto=Ameristar+Casinos&amp;oldid=749211251&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ameristar_Casinos&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4745799#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 November 2016, at 02:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ameristar_Casinos&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.289","ppvisitednodes":{"value":1546,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36344,"limit":2097152},"templateargumentsize":{"value":2956,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  255.921      1 -total"," 45.14%  115.532      1 Template:Reflist"," 26.61%   68.100      1 Template:Infobox_company"," 22.67%   58.014      1 Template:Infobox"," 13.82%   35.374      1 Template:Official_website"," 12.90%   33.003     10 Template:Cite_news"," 12.36%   31.637      2 Template:Cite_web"," 11.43%   29.258      2 Template:Dead_link","  9.98%   25.528      1 Template:Convert","  9.81%   25.097      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.099","limit":"10.000"},"limitreport-memusage":{"value":5434275,"limit":52428800}},"cachereport":{"origin":"mw2166","timestamp":"20170421190203","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":354,"wgHostname":"mw2166"});});</script>
+	</body>
+</html>

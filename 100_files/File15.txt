@@ -1,0 +1,1065 @@
+https://en.wikipedia.org/wiki/1896
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1896 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1896","wgTitle":"1896","wgCurRevisionId":776833090,"wgRevisionId":776833090,"wgArticleId":34668,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from March 2011","All articles with unsourced statements","Articles with unsourced statements from November 2016","Articles with unsourced statements from December 2016","1896","Leap years in the Gregorian calendar"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1896","wgRelevantArticleId":34668,"wgRequestId":"WPzKBgrAEFAAAC3gItwAAAAT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7846","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/11/1869AD.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1896"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1896&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1896&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1896"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1896 rootpage-1896 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1896</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:1869AD.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/1869AD.png/220px-1869AD.png" width="220" height="90" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/1869AD.png/330px-1869AD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/1869AD.png/440px-1869AD.png 2x" data-file-width="533" data-file-height="217" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1869AD.png" class="internal" title="Enlarge"></a></div>
+A carved date from a building in Stamford</div>
+</div>
+</div>
+<div role="note" class="hatnote">This article is about the year 1896.</div>
+<table class="infobox" style="text-align: center;">
+<tr>
+<th style="text-align:right;"><a href="/wiki/Millennium" title="Millennium">Millennium</a>:</th>
+<td><a href="/wiki/2nd_millennium" title="2nd millennium">2nd&#160;millennium</a></td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_centuries" title="List of centuries">Centuries</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/18th_century" title="18th century">18th&#160;century</a></li>
+<li><b><a href="/wiki/19th_century" title="19th century">19th&#160;century</a></b></li>
+<li><a href="/wiki/20th_century" title="20th century">20th&#160;century</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_decades" title="List of decades">Decades</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/1870s" title="1870s">1870s</a></li>
+<li><a href="/wiki/1880s" title="1880s">1880s</a></li>
+<li><b><a href="/wiki/1890s" title="1890s">1890s</a></b></li>
+<li><a href="/wiki/1900s_(decade)" title="1900s (decade)">1900s</a></li>
+<li><a href="/wiki/1910s" title="1910s">1910s</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_years" title="List of years">Years</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/1893" title="1893">1893</a></li>
+<li><a href="/wiki/1894" title="1894">1894</a></li>
+<li><a href="/wiki/1895" title="1895">1895</a></li>
+<li><b><a class="mw-selflink selflink">1896</a></b></li>
+<li><a href="/wiki/1897" title="1897">1897</a></li>
+<li><a href="/wiki/1898" title="1898">1898</a></li>
+<li><a href="/wiki/1899" title="1899">1899</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table class="infobox" width="325">
+<tr>
+<td style="text-align:center;"><b><a href="/wiki/Category:1896" title="Category:1896">1896 in topic</a>:</b></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Humanities</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1896_in_archaeology" title="1896 in archaeology">Archaeology</a> – <a href="/wiki/1896_in_architecture" title="1896 in architecture">Architecture</a> – <a href="/wiki/1896_in_art" title="1896 in art">Art</a> – <a href="/wiki/1896_in_literature" title="1896 in literature">Literature</a> – <a href="/wiki/1896_in_music" title="1896 in music">Music</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>By country</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1896_in_Australia" title="1896 in Australia">Australia</a> – <a href="/wiki/1896_in_Brazil" title="1896 in Brazil">Brazil</a> - <a href="/wiki/1896_in_Canada" title="1896 in Canada">Canada</a> – <a href="/wiki/1896_in_Denmark" title="1896 in Denmark">Denmark</a> - <a href="/wiki/1896_in_France" title="1896 in France">France</a> – <a href="/wiki/1896_in_Germany" title="1896 in Germany">Germany</a> – <a href="/wiki/Category:1896_in_Mexico" title="Category:1896 in Mexico">Mexico</a> – <a href="/wiki/1896_in_Norway" title="1896 in Norway">Norway</a> - <a href="/wiki/Category:1896_in_the_Philippines" title="Category:1896 in the Philippines">Philippines</a> - <a href="/wiki/1896_in_Portugal" title="1896 in Portugal">Portugal</a>– <a href="/wiki/1896_in_Russia" title="1896 in Russia">Russia</a> - <a href="/wiki/1896_in_South_Africa" title="1896 in South Africa">South Africa</a> – <a href="/w/index.php?title=1896_in_Spain&amp;action=edit&amp;redlink=1" class="new" title="1896 in Spain (page does not exist)">Spain</a> - <a href="/wiki/1896_in_Sweden" title="1896 in Sweden">Sweden</a> - <a href="/wiki/1896_in_the_United_Kingdom" title="1896 in the United Kingdom">United Kingdom</a> – <a href="/wiki/1896_in_the_United_States" title="1896 in the United States">United States</a> – <a href="/w/index.php?title=1896_in_Venezuela&amp;action=edit&amp;redlink=1" class="new" title="1896 in Venezuela (page does not exist)">Venezuela</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Other topics</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1896_in_rail_transport" title="1896 in rail transport">Rail Transport</a> – <a href="/wiki/1896_in_science" title="1896 in science">Science</a> – <a href="/wiki/1896_in_sports" title="1896 in sports">Sports</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Lists of leaders</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/List_of_political_entities_in_the_19th_century" title="List of political entities in the 19th century">Sovereign states</a> – <a href="/wiki/List_of_state_leaders_in_1896" title="List of state leaders in 1896">State leaders</a> – <a href="/wiki/List_of_governors_of_dependent_territories_in_the_19th_century" title="List of governors of dependent territories in the 19th century">Territorial governors</a> – <a href="/wiki/List_of_19th-century_religious_leaders" title="List of 19th-century religious leaders">Religious leaders</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Birth and death categories</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1896_births" title="Category:1896 births">Births</a> – <a href="/wiki/Category:1896_deaths" title="Category:1896 deaths">Deaths</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Establishments and disestablishments categories</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1896_establishments" title="Category:1896 establishments">Establishments</a> – <a href="/wiki/Category:1896_disestablishments" title="Category:1896 disestablishments">Disestablishments</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Works category</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1896_works" title="Category:1896 works">Works</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:C19_year_in_topic" title="Template:C19 year in topic"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:C19_year_in_topic" title="Template talk:C19 year in topic"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:C19_year_in_topic&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption style="font-size:125%"><span class="summary dtstart">1896 in various <a href="/wiki/Calendar_era" title="Calendar era">calendars</a></span></caption>
+<tr>
+<td><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a></td>
+<td>1896<br />
+<span style="font-family: serif;"><i>MDCCCXCVI</i></span></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ab_urbe_condita" title="Ab urbe condita">Ab urbe condita</a></td>
+<td>2649</td>
+</tr>
+<tr>
+<td><a href="/wiki/Armenian_calendar" title="Armenian calendar">Armenian calendar</a></td>
+<td>1345<br />
+ԹՎ ՌՅԽԵ</td>
+</tr>
+<tr>
+<td><a href="/wiki/Assyrian_calendar" title="Assyrian calendar">Assyrian calendar</a></td>
+<td>6646</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bah%C3%A1%27%C3%AD_calendar" title="Bahá'í calendar">Bahá'í calendar</a></td>
+<td>52–53</td>
+</tr>
+<tr>
+<td><a href="/wiki/Balinese_saka_calendar" title="Balinese saka calendar">Balinese saka calendar</a></td>
+<td>1817–1818</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bengali_calendar" title="Bengali calendar">Bengali calendar</a></td>
+<td>1303</td>
+</tr>
+<tr>
+<td><a href="/wiki/Berber_calendar" title="Berber calendar">Berber calendar</a></td>
+<td>2846</td>
+</tr>
+<tr>
+<td><a href="/wiki/Regnal_years_of_English_monarchs" title="Regnal years of English monarchs">British Regnal year</a></td>
+<td>59&#160;<a href="/wiki/Queen_Victoria" title="Queen Victoria">Vict.&#160;1</a>&#160;–&#160;60&#160;<a href="/wiki/Queen_Victoria" title="Queen Victoria">Vict.&#160;1</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Buddhist_calendar" title="Buddhist calendar">Buddhist calendar</a></td>
+<td>2440</td>
+</tr>
+<tr>
+<td><a href="/wiki/Burmese_calendar" title="Burmese calendar">Burmese calendar</a></td>
+<td>1258</td>
+</tr>
+<tr>
+<td><a href="/wiki/Byzantine_calendar" title="Byzantine calendar">Byzantine calendar</a></td>
+<td>7404–7405</td>
+</tr>
+<tr>
+<td><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a></td>
+<td><a href="/wiki/Chinese_sexagenary_cycle" title="Chinese sexagenary cycle">乙未</a>年 <small>(Wood&#160;<a href="/wiki/Goat_(zodiac)" title="Goat (zodiac)">Goat</a>)</small><br />
+4592 or 4532<br />
+&#160;&#160;&#160;&#160;<i>—&#160;to&#160;—</i><br />
+丙申年 <small>(Fire&#160;<a href="/wiki/Monkey_(zodiac)" title="Monkey (zodiac)">Monkey</a>)</small><br />
+4593 or 4533</td>
+</tr>
+<tr>
+<td><a href="/wiki/Coptic_calendar" title="Coptic calendar">Coptic calendar</a></td>
+<td>1612–1613</td>
+</tr>
+<tr>
+<td><a href="/wiki/Discordian_calendar" title="Discordian calendar">Discordian calendar</a></td>
+<td>3062</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ethiopian_calendar" title="Ethiopian calendar">Ethiopian calendar</a></td>
+<td>1888–1889</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a></td>
+<td>5656–5657</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu calendars</a></td>
+<td></td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Vikram_Samvat" title="Vikram Samvat">Vikram Samvat</a></i></td>
+<td>1952–1953</td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Indian_national_calendar" title="Indian national calendar">Shaka Samvat</a></i></td>
+<td>1817–1818</td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Kali_Yuga" title="Kali Yuga">Kali Yuga</a></i></td>
+<td>4996–4997</td>
+</tr>
+<tr>
+<td><a href="/wiki/Holocene_calendar" title="Holocene calendar">Holocene calendar</a></td>
+<td>11896</td>
+</tr>
+<tr>
+<td><a href="/wiki/Igbo_calendar" title="Igbo calendar">Igbo calendar</a></td>
+<td>896–897</td>
+</tr>
+<tr>
+<td><a href="/wiki/Iranian_calendars" title="Iranian calendars">Iranian calendar</a></td>
+<td>1274–1275</td>
+</tr>
+<tr>
+<td><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td>
+<td>1313–1314</td>
+</tr>
+<tr>
+<td><a href="/wiki/Japanese_calendar" title="Japanese calendar">Japanese calendar</a></td>
+<td><a href="/wiki/Meiji_period" title="Meiji period">Meiji</a> 29<br />
+<small>(明治２９年)</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/Javanese_calendar" title="Javanese calendar">Javanese calendar</a></td>
+<td>1825–1826</td>
+</tr>
+<tr>
+<td><a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a></td>
+<td>Gregorian minus 12 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Korean_calendar" title="Korean calendar">Korean calendar</a></td>
+<td>4229</td>
+</tr>
+<tr>
+<td><a href="/wiki/Minguo_calendar" title="Minguo calendar">Minguo calendar</a></td>
+<td>16 before <a href="/wiki/Republic_of_China_(1912%E2%80%931949)" class="mw-redirect" title="Republic of China (1912–1949)">ROC</a><br />
+<small>民前16年</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/Nanakshahi_calendar" title="Nanakshahi calendar">Nanakshahi calendar</a></td>
+<td>428</td>
+</tr>
+<tr>
+<td><a href="/wiki/Thai_solar_calendar" title="Thai solar calendar">Thai solar calendar</a></td>
+<td>2438–2439</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="plainlinks hlist navbar"><span style="word-spacing:0">This box:</span>
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Year_in_various_calendars" title="Template:Year in various calendars"><span title="View this template">view</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Year_in_various_calendars" title="Template talk:Year in various calendars"><span title="Discuss this template">talk</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Year_in_various_calendars&amp;action=edit"><span title="Edit this template">edit</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:1896" class="extiw" title="commons:Category:1896">1896</a></b></i>.</td>
+</tr>
+</table>
+<p><br />
+<b>1896 (<a href="/wiki/Roman_numerals" title="Roman numerals">MDCCCXCVI</a>)</b> was a <a href="/wiki/Leap_year" title="Leap year">leap year</a> <a href="/wiki/Leap_year_starting_on_Wednesday" title="Leap year starting on Wednesday">starting on Wednesday</a> (<a href="/wiki/Dominical_letter" title="Dominical letter">dominical letter</a> ED) of the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>&#160;and a <a href="/wiki/Leap_year_starting_on_Monday" title="Leap year starting on Monday">leap year starting on Monday</a> (<a href="/wiki/Dominical_letter" title="Dominical letter">dominical letter</a> GF) of the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a>, the 1896th year of the <a href="/wiki/Common_Era" title="Common Era">Common Era</a> (CE) and <i><a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a></i> (AD) designations, the 896th year of the <a href="/wiki/2nd_millennium" title="2nd millennium">2nd&#160;millennium</a>, the 96th year of the <a href="/wiki/19th_century" title="19th century">19th&#160;century</a>, and the 7th year of the <a href="/wiki/1890s" title="1890s">1890s</a> decade. As of the start of 1896, the Gregorian calendar was 12 days ahead of the Julian calendar, which remained in localized use until 1923.</p>
+<div class="toclimit-2">
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Events"><span class="tocnumber">1</span> <span class="toctext">Events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#January.E2.80.93March"><span class="tocnumber">1.1</span> <span class="toctext">January–March</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#April.E2.80.93June"><span class="tocnumber">1.2</span> <span class="toctext">April–June</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#July.E2.80.93September"><span class="tocnumber">1.3</span> <span class="toctext">July–September</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#October.E2.80.93December"><span class="tocnumber">1.4</span> <span class="toctext">October–December</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Date_unknown"><span class="tocnumber">1.5</span> <span class="toctext">Date unknown</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Births"><span class="tocnumber">2</span> <span class="toctext">Births</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#January.E2.80.93February"><span class="tocnumber">2.1</span> <span class="toctext">January–February</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#March.E2.80.93April"><span class="tocnumber">2.2</span> <span class="toctext">March–April</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#May.E2.80.93June"><span class="tocnumber">2.3</span> <span class="toctext">May–June</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#July.E2.80.93August"><span class="tocnumber">2.4</span> <span class="toctext">July–August</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#September.E2.80.93October"><span class="tocnumber">2.5</span> <span class="toctext">September–October</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#November.E2.80.93December"><span class="tocnumber">2.6</span> <span class="toctext">November–December</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Date_unknown_2"><span class="tocnumber">2.7</span> <span class="toctext">Date unknown</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Deaths"><span class="tocnumber">3</span> <span class="toctext">Deaths</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#January.E2.80.93June"><span class="tocnumber">3.1</span> <span class="toctext">January–June</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#July.E2.80.93December"><span class="tocnumber">3.2</span> <span class="toctext">July–December</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=1" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January.E2.80.93March">January–March</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=2" title="Edit section: January–March">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:122px;"><a href="/wiki/File:Wilhelm_Conrad_R%C3%B6ntgen_(1845--1923).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wilhelm_Conrad_R%C3%B6ntgen_%281845--1923%29.jpg/120px-Wilhelm_Conrad_R%C3%B6ntgen_%281845--1923%29.jpg" width="120" height="186" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wilhelm_Conrad_R%C3%B6ntgen_%281845--1923%29.jpg/180px-Wilhelm_Conrad_R%C3%B6ntgen_%281845--1923%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wilhelm_Conrad_R%C3%B6ntgen_%281845--1923%29.jpg/240px-Wilhelm_Conrad_R%C3%B6ntgen_%281845--1923%29.jpg 2x" data-file-width="747" data-file-height="1160" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wilhelm_Conrad_R%C3%B6ntgen_(1845--1923).jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/January_5" title="January 5">January 5</a>: <a href="/wiki/Wilhelm_R%C3%B6ntgen" title="Wilhelm Röntgen">Röntgen</a> <a href="/wiki/X-ray" title="X-ray">rays</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:122px;"><a href="/wiki/File:X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg/120px-X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg" width="120" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg/180px-X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg/240px-X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg 2x" data-file-width="471" data-file-height="738" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/January_5" title="January 5">January 5</a>: <a href="/wiki/Wilhelm_R%C3%B6ntgen" title="Wilhelm Röntgen">Röntgen</a> <a href="/wiki/X-ray" title="X-ray">X-ray</a>.</div>
+</div>
+</div>
+<ul>
+<li>January – <a href="/wiki/Anglo-Ashanti_wars#Fourth_Anglo-Ashanti_War" title="Anglo-Ashanti wars">Fourth Anglo-Ashanti War</a>: British <a href="/wiki/British_Army" title="British Army">redcoats</a> enter the <a href="/wiki/Ashanti_people" title="Ashanti people">Ashanti</a> capital, <a href="/wiki/Kumasi" title="Kumasi">Kumasi</a>, and Asantehene Agyeman <a href="/wiki/Prempeh_I" title="Prempeh I">Prempeh I</a> is deposed.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/January_2" title="January 2">January 2</a> – The <a href="/wiki/Jameson_Raid" title="Jameson Raid">Jameson Raid</a> comes to an end, as Jameson surrenders to the <a href="/wiki/Boer" title="Boer">Boers</a>.<sup id="cite_ref-CBH_2-0" class="reference"><a href="#cite_note-CBH-2">[2]</a></sup></li>
+<li><a href="/wiki/January_4" title="January 4">January 4</a> – <a href="/wiki/Utah" title="Utah">Utah</a> is admitted as the 45th <a href="/wiki/U.S._state" title="U.S. state">U.S. state</a>.</li>
+<li><a href="/wiki/January_5" title="January 5">January 5</a> – An Austrian newspaper reports that <a href="/wiki/Wilhelm_R%C3%B6ntgen" title="Wilhelm Röntgen">Wilhelm Röntgen</a> has discovered a type of <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">radiation</a> later known as <a href="/wiki/X-ray" title="X-ray">X-rays</a>.</li>
+<li><a href="/wiki/January_6" title="January 6">January 6</a> – <a href="/wiki/Cecil_Rhodes" title="Cecil Rhodes">Cecil Rhodes</a> is forced to resign as Prime Minister of the <a href="/wiki/Cape_Colony" title="Cape Colony">Cape of Good Hope</a> for his involvement in the <a href="/wiki/Jameson_Raid" title="Jameson Raid">Jameson Raid</a>.</li>
+<li><a href="/wiki/January_7" title="January 7">January 7</a> – <a href="/wiki/Fannie_Farmer" title="Fannie Farmer">Fannie Farmer</a> publishes her first cookbook.</li>
+<li><a href="/wiki/January_12" title="January 12">January 12</a> – H. L. Smith takes the first <a href="/wiki/X-ray" title="X-ray">X-ray</a> photograph.</li>
+<li><a href="/wiki/January_18" title="January 18">January 18</a> – The <a href="/wiki/X-ray" title="X-ray">X-ray</a> machine is exhibited for the first time.</li>
+<li><a href="/wiki/January_28" title="January 28">January 28</a> – Walter Arnold, of <a href="/wiki/East_Peckham" title="East Peckham">East Peckham</a>, <a href="/wiki/Kent" title="Kent">Kent</a>, England, is fined 1 shilling for <a href="/wiki/Speeding" class="mw-redirect" title="Speeding">speeding</a> at 8&#160;mph (13&#160;km/h) (exceeding the contemporary <a href="/wiki/Speed_limit" title="Speed limit">speed limit</a> of 2&#160;mph (3.2&#160;km/h)), the first speeding fine.</li>
+<li><a href="/wiki/February_1" title="February 1">February 1</a> – <a href="/wiki/Giacomo_Puccini" title="Giacomo Puccini">Puccini</a>'s <a href="/wiki/Opera" title="Opera">opera</a> <i><a href="/wiki/La_boh%C3%A8me" title="La bohème">La bohème</a></i> premieres in <a href="/wiki/Turin" title="Turin">Turin</a>, Italy.</li>
+<li><a href="/wiki/February_4" title="February 4">February 4</a> – International Association of Bridge and Structural Iron Workers is established in <a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a>.</li>
+<li><a href="/wiki/February_11" title="February 11">February 11</a> – <a href="/wiki/Oscar_Wilde" title="Oscar Wilde">Oscar Wilde</a>'s play <i><a href="/wiki/Salome_(play)" title="Salome (play)">Salomé</a></i> premieres in Paris.</li>
+<li><a href="/wiki/February_19" title="February 19">February 19</a> – <a href="/wiki/Braamfontein_Explosion" title="Braamfontein Explosion">Braamfontein Explosion</a>: A train carrying 56 tons of <a href="/wiki/Dynamite" title="Dynamite">dynamite</a> explodes at <a href="/wiki/Braamfontein" title="Braamfontein">Braamfontein</a>, <a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a>, killing more than 78 people.<sup id="cite_ref-Blumberg_3-0" class="reference"><a href="#cite_note-Blumberg-3">[3]</a></sup></li>
+<li><a href="/wiki/March_1" title="March 1">March 1</a> – <a href="/wiki/Battle_of_Adwa" title="Battle of Adwa">Battle of Adwa</a>: <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> defends its independence from Italy, ending the <a href="/wiki/First_Italo-Ethiopian_War" title="First Italo-Ethiopian War">First Italo-Ethiopian War</a>.</li>
+<li><a href="/wiki/March_3" title="March 3">March 3</a> – Publication begins of the world's first magazine with an orientation to male <a href="/wiki/Homosexuality" title="Homosexuality">homosexuality</a>, <i><a href="/wiki/Der_Eigene" title="Der Eigene">Der Eigene</a></i>, by <a href="/wiki/Adolf_Brand" title="Adolf Brand">Adolf Brand</a> in Berlin.</li>
+<li><a href="/wiki/March_9" title="March 9">March 9</a> – Responding to national outrage at the defeat at Adwa, Italian Prime Minister <a href="/wiki/Francesco_Crispi" title="Francesco Crispi">Francesco Crispi</a> resigns.</li>
+<li><a href="/wiki/March_23" title="March 23">March 23</a> – The <a href="/wiki/New_York_State_Legislature" title="New York State Legislature">New York State Legislature</a> passes the <a href="/wiki/Raines_law" title="Raines law">Raines law</a>, restricting Sunday alcoholic beverage sales to hotels.</li>
+</ul>
+<h3><span class="mw-headline" id="April.E2.80.93June">April–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=3" title="Edit section: April–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/April" title="April">April</a> – The first study of <a href="/wiki/Svante_Arrhenius#Greenhouse_effect" title="Svante Arrhenius">the sensitivity of global climate to atmospheric carbon dioxide</a> is published. <a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a> presents his findings in his paper, "On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground", the <i>London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science</i>, as an extract of a paper that had been presented to the <a href="/wiki/Royal_Swedish_Academy_of_Sciences" title="Royal Swedish Academy of Sciences">Royal Swedish Academy of Sciences</a> on December 11, 1895.</li>
+<li><a href="/wiki/April_3" title="April 3">April 3</a> – The first edition of the Italian sports newspaper <i><a href="/wiki/La_Gazzetta_dello_Sport" title="La Gazzetta dello Sport">La Gazzetta dello Sport</a></i> is published.</li>
+<li><a href="/wiki/April_4" title="April 4">April 4</a> – The first known <a href="/wiki/Women%27s_basketball" title="Women's basketball">women's basketball</a> game between two colleges is played between <a href="/wiki/Stanford_University" title="Stanford University">Stanford</a> and <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">California</a>.</li>
+<li><a href="/wiki/April_6" title="April 6">April 6</a> – The opening ceremonies of the <a href="/wiki/1896_Summer_Olympics" title="1896 Summer Olympics">1896 Summer Olympics</a>, the first modern <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a>, are held in Athens.</li>
+<li><a href="/wiki/April_9" title="April 9">April 9</a> – The National Farm School (later <a href="/wiki/Delaware_Valley_College" class="mw-redirect" title="Delaware Valley College">Delaware Valley College</a>) is chartered in Doylestown, PA.</li>
+<li><a href="/wiki/May_8" title="May 8">May 8</a> – <a href="/wiki/Cricket" title="Cricket">Cricket</a>: Against <a href="/wiki/Warwickshire_County_Cricket_Club" title="Warwickshire County Cricket Club">Warwickshire</a>, <a href="/wiki/Yorkshire_County_Cricket_Club" title="Yorkshire County Cricket Club">Yorkshire</a> sets a still-standing <a href="/wiki/County_Championship" title="County Championship">County Championship</a> record when they accumulate an innings total of 887.</li>
+<li><a href="/wiki/May_13" title="May 13">May 13</a> – The Franchise Bill is passed by the <a href="/wiki/Colony_of_Natal" title="Colony of Natal">Colony of Natal</a>'s Legislative Assembly, disfranchising natives of other countries.</li>
+<li><a href="/wiki/May_18" title="May 18">May 18</a> – <i><a href="/wiki/Plessy_v._Ferguson" title="Plessy v. Ferguson">Plessy v. Ferguson</a></i>: The <a href="/wiki/U.S._Supreme_Court" class="mw-redirect" title="U.S. Supreme Court">U.S. Supreme Court</a> introduces the "<a href="/wiki/Separate_but_equal" title="Separate but equal">separate but equal</a>" doctrine and upholds <a href="/wiki/Racial_segregation" title="Racial segregation">racial segregation</a>.</li>
+<li><a href="/wiki/May_26" title="May 26">May 26</a> – Eleven years after its foundation, a group of 12 purely industrial stocks were chosen to form the <a href="/wiki/Dow_Jones_Industrial_Average" title="Dow Jones Industrial Average">Dow Jones Industrial Average</a>. The index was composed entirely of industrial shares for the first time.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li><a href="/wiki/May_27" title="May 27">May 27</a> – <a href="/wiki/1896_St._Louis%E2%80%93East_St._Louis_tornado" title="1896 St. Louis–East St. Louis tornado">St. Louis–East St. Louis tornado</a>: The costliest and third deadliest <a href="/wiki/Tornado" title="Tornado">tornado</a> in U.S. history levels a mile wide swath of downtown <a href="/wiki/St._Louis,_Missouri" class="mw-redirect" title="St. Louis, Missouri">St. Louis, Missouri</a>, incurring US$2.9 billion (1997 USD) in normalized damages, killing more than 255 and injuring over 1,000 people.</li>
+<li><a href="/wiki/June_4" title="June 4">June 4</a> – The <a href="/wiki/Ford_Quadricycle" title="Ford Quadricycle">Ford Quadricycle</a>, the first <a href="/wiki/Ford" class="mw-redirect" title="Ford">Ford</a> vehicle ever developed, is completed, eventually leading <a href="/wiki/Henry_Ford" title="Henry Ford">Henry Ford</a> to build the empire that "put America on wheels".</li>
+<li><a href="/wiki/June_7" title="June 7">June 7</a> – <a href="/wiki/Mahdist_War" title="Mahdist War">Mahdist War</a>: British and <a href="/wiki/Egypt" title="Egypt">Egyptian</a> victory at the <a href="/wiki/Battle_of_Ferkeh" title="Battle of Ferkeh">Battle of Ferkeh</a>.</li>
+<li><a href="/wiki/June_12" title="June 12">June 12</a> – <a href="/wiki/J._T._Hearne" title="J. T. Hearne">J. T. Hearne</a> sets a record for the earliest date of taking 100 wickets in cricket (it is equalled by <a href="/wiki/Charlie_Parker_(cricketer)" title="Charlie Parker (cricketer)">Charlie Parker</a> in <a href="/wiki/1931" title="1931">1931</a>).</li>
+<li><a href="/wiki/June_15" title="June 15">June 15</a> – The <a href="/wiki/1896_Sanriku_earthquake" title="1896 Sanriku earthquake">1896 Sanriku earthquake</a> and <a href="/wiki/Tsunami" title="Tsunami">tsunami</a> in Japan kills 27,000.</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:192px;"><a href="/wiki/File:Panathinaiko.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Panathinaiko.jpg/190px-Panathinaiko.jpg" width="190" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Panathinaiko.jpg/285px-Panathinaiko.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Panathinaiko.jpg/380px-Panathinaiko.jpg 2x" data-file-width="568" data-file-height="426" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Panathinaiko.jpg" class="internal" title="Enlarge"></a></div>
+A picture of the restored <a href="/wiki/Panathenaic_Stadium" title="Panathenaic Stadium">Panathenaic Stadium</a>, the site of the <a href="/wiki/1896_Summer_Olympics" title="1896 Summer Olympics">1896 Summer Olympics</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/June_18" title="June 18">June 18</a> – The <a href="/wiki/New_York_Telephone" class="mw-redirect" title="New York Telephone">New York Telephone</a> Company is formed, succeeding the Metropolitan Telephone and Telegraph Company, to control telephone service within New York City.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li><a href="/wiki/June_23" title="June 23">June 23</a> – Liberal leader <a href="/wiki/Wilfrid_Laurier" title="Wilfrid Laurier">Wilfrid Laurier</a> defeats <a href="/wiki/Charles_Tupper" title="Charles Tupper">Charles Tupper</a> during <a href="/wiki/Canadian_federal_election,_1896" title="Canadian federal election, 1896">Canadian federal elections</a> for the <a href="/wiki/8th_Canadian_Parliament" title="8th Canadian Parliament">8th Canadian Parliament</a> to become the first francophone <a href="/wiki/Prime_Minister_of_Canada" title="Prime Minister of Canada">Prime Minister of Canada</a>.</li>
+<li><a href="/wiki/June_28" title="June 28">June 28</a> – <a href="/wiki/Twin_Shaft_disaster" title="Twin Shaft disaster">Twin Shaft disaster</a>: An explosion in the Newton <a href="/wiki/Coal_mining" title="Coal mining">Coal</a> Company's Twin Shaft Mine in <a href="/wiki/Pittston,_Pennsylvania" title="Pittston, Pennsylvania">Pittston, Pennsylvania</a> results in a massive cave-in that kills 58 <a href="/wiki/Miners" class="mw-redirect" title="Miners">miners</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93September">July–September</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=4" title="Edit section: July–September">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/July_9" title="July 9">July 9</a> – <a href="/wiki/William_Jennings_Bryan" title="William Jennings Bryan">William Jennings Bryan</a> delivers his <a href="/wiki/Cross_of_Gold_speech" title="Cross of Gold speech">Cross of Gold speech</a> at the <a href="/wiki/Democratic_National_Convention" title="Democratic National Convention">Democratic National Convention</a>, which nominates him for President of the United States.</li>
+<li><a href="/wiki/July_11" title="July 11">July 11</a> – <a href="/wiki/Wilfrid_Laurier" title="Wilfrid Laurier">Wilfrid Laurier</a> becomes Canada's seventh <a href="/wiki/Prime_Minister_of_Canada" title="Prime Minister of Canada">prime minister</a> and the first French-speaker to hold that office.</li>
+<li><a href="/wiki/July_21" title="July 21">July 21</a> – In Washington, D.C., in response to a "call to confer" issued by <a href="/wiki/Josephine_St._Pierre_Ruffin" title="Josephine St. Pierre Ruffin">Josephine St. Pierre Ruffin</a> to all women of color, the <a href="/wiki/National_Association_of_Colored_Women%27s_Clubs" title="National Association of Colored Women's Clubs">National Association of Colored Women's Clubs</a> is organized.</li>
+<li><a href="/wiki/July_26" title="July 26">July 26</a> – <a href="/wiki/International_Socialist_Workers_and_Trade_Union_Congress,_London_1896" title="International Socialist Workers and Trade Union Congress, London 1896">International Socialist Workers and Trade Union Congress</a> opens in London.</li>
+<li><a href="/wiki/July_27" title="July 27">July 27</a> – A <a href="/wiki/Causeway" title="Causeway">causeway</a> is opened between the islands of <a href="/wiki/Saaremaa" title="Saaremaa">Saaremaa</a> and <a href="/wiki/Muhu" title="Muhu">Muhu</a> in <a href="/wiki/Estonia" title="Estonia">Estonia</a>.</li>
+<li><a href="/wiki/July_30" title="July 30">July 30</a> – <a href="/wiki/1896_Atlantic_City_rail_crash" title="1896 Atlantic City rail crash">Atlantic City rail crash</a>: Shortly after 6:30 pm, at a crossing just west of Atlantic City, New Jersey, two trains collide, crushing five loaded passenger coaches, killing fifty and seriously injuring approximately sixty.</li>
+<li>August – <a href="/wiki/1896_Eastern_North_America_heat_wave" title="1896 Eastern North America heat wave">1896 Eastern North America heat wave</a>.</li>
+<li><a href="/wiki/August_14" title="August 14">August 14</a> – The <a href="/wiki/Uganda_Railway" title="Uganda Railway">Uganda Railway</a> Act, 1896, is approved in the United Kingdom, for construction of a railway in Africa from <a href="/wiki/Mombasa" title="Mombasa">Mombasa</a> to <a href="/wiki/Lake_Victoria" title="Lake Victoria">Lake Victoria</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+<li><a href="/wiki/August_16" title="August 16">August 16</a> – <a href="/wiki/Skookum_Jim_Mason" class="mw-redirect" title="Skookum Jim Mason">Skookum Jim Mason</a>, <a href="/wiki/George_Carmack" title="George Carmack">George Carmack</a> and Dawson Charlie discover <a href="/wiki/Gold" title="Gold">gold</a> in the <a href="/wiki/Klondike,_Yukon" title="Klondike, Yukon">Klondike, Yukon</a>.</li>
+<li><a href="/wiki/August_17" title="August 17">August 17</a> – <a href="/wiki/Bridget_Driscoll" title="Bridget Driscoll">Bridget Driscoll</a> is run over by a <a href="/wiki/Benz_%26_Cie." class="mw-redirect" title="Benz &amp; Cie.">Benz</a> car in the grounds of <a href="/wiki/The_Crystal_Palace" title="The Crystal Palace">The Crystal Palace</a>, London, the world's first motoring fatality.</li>
+<li><a href="/wiki/August_23" title="August 23">August 23</a> – The <a href="/wiki/Cry_of_Pugad_Lawin" title="Cry of Pugad Lawin">Cry of Pugad Lawin</a> initiates the <a href="/wiki/Philippine_Revolution" title="Philippine Revolution">Philippine Revolution</a>.</li>
+<li><a href="/wiki/August_27" title="August 27">August 27</a>
+<ul>
+<li>The shortest war in recorded history, the <a href="/wiki/Anglo-Zanzibar_War" title="Anglo-Zanzibar War">Anglo-Zanzibar War</a>, starts at 9 in the morning and lasts for 45 minutes of shelling.</li>
+<li>Britain establishes a Protectorate over the <a href="/wiki/Ashanti_people" title="Ashanti people">Ashanti</a> concluding the <a href="/wiki/Anglo-Ashanti_wars#Fourth_Anglo-Ashanti_War" title="Anglo-Ashanti wars">Fourth Anglo-Ashanti War</a>.</li>
+</ul>
+</li>
+<li><a href="/wiki/September_2" title="September 2">September 2</a> – <a href="/wiki/Clarkson_University" title="Clarkson University">Clarkson University</a> holds its first classes, with 17 students attending in <a href="/wiki/Potsdam_(village),_New_York" title="Potsdam (village), New York">Potsdam, New York</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li><a href="/wiki/September_15" title="September 15">September 15</a> – The <a href="/wiki/Crush,_Texas" title="Crush, Texas">Crash at Crush</a> train wreck stunt is held in Texas.</li>
+<li><a href="/wiki/September_22" title="September 22">September 22</a> – <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a> surpasses her grandfather <a href="/wiki/George_III_of_the_United_Kingdom" title="George III of the United Kingdom">King George III</a> as the longest-reigning monarch in British history.</li>
+<li><a href="/wiki/September_30" title="September 30">September 30</a> – Italy and France sign a treaty whereby Italy virtually recognizes <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a> as a French dependency.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="October.E2.80.93December">October–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=5" title="Edit section: October–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:DMG-lastwagen-cannstatt-1896.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMG-lastwagen-cannstatt-1896.jpg/150px-DMG-lastwagen-cannstatt-1896.jpg" width="150" height="113" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMG-lastwagen-cannstatt-1896.jpg/225px-DMG-lastwagen-cannstatt-1896.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMG-lastwagen-cannstatt-1896.jpg/300px-DMG-lastwagen-cannstatt-1896.jpg 2x" data-file-width="817" data-file-height="614" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:DMG-lastwagen-cannstatt-1896.jpg" class="internal" title="Enlarge"></a></div>
+Model of <a href="/wiki/Truck" title="Truck">truck</a> <i>DMG Lastwagen</i>, 1896 in Germany</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/October_1" title="October 1">October 1</a> – <a href="/wiki/Gottlieb_Daimler" title="Gottlieb Daimler">Gottlieb Daimler</a> builds first worldwide gasoline <a href="/wiki/Truck" title="Truck">truck</a>.</li>
+<li><a href="/wiki/October_2" title="October 2">October 2</a> – <a href="/wiki/Victorian_Football_League" title="Victorian Football League">Victorian Football League</a> established as <a href="/wiki/Australian_rules_football" title="Australian rules football">Aussie rules football</a> in <a href="/wiki/Australia" title="Australia">Australia</a>. (a predecessor for <a href="/wiki/Australian_Football_League" title="Australian Football League">Australian Football League</a>)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/October_16" title="October 16">October 16</a> – The design of the <a href="/wiki/Flag_of_Knoxville,_Tennessee" title="Flag of Knoxville, Tennessee">Flag of Knoxville, Tennessee</a> is officially approved by Knoxville City Council.</li>
+<li><a href="/wiki/October_30" title="October 30">October 30</a> – <a href="/wiki/Augusta,_Kentucky" title="Augusta, Kentucky">Augusta, Kentucky</a>: The Augusta High School cornerstone is laid, marking the end of the <a href="/wiki/Augusta_Methodist_College" class="mw-redirect" title="Augusta Methodist College">Augusta Methodist College</a>.</li>
+<li><a href="/wiki/November_3" title="November 3">November 3</a> – <a href="/wiki/U.S._presidential_election,_1896" class="mw-redirect" title="U.S. presidential election, 1896">U.S. presidential election, 1896</a>: Republican <a href="/wiki/William_McKinley" title="William McKinley">William McKinley</a> defeats <a href="/wiki/William_Jennings_Bryan" title="William Jennings Bryan">William Jennings Bryan</a>. The event is viewed by some as a <a href="/wiki/Realigning_election" title="Realigning election">realigning election</a> for the <a href="/wiki/History_of_the_United_States_Republican_Party#The_Progressive_Era:_1896.E2.80.931932" title="History of the United States Republican Party">United States Republican Party</a></li>
+<li><a href="/wiki/November_27" title="November 27">November 27</a> – <a href="/wiki/Also_sprach_Zarathustra_(Strauss)" title="Also sprach Zarathustra (Strauss)">Also sprach Zarathustra (Strauss)</a> is first performed in <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a>.</li>
+<li><a href="/wiki/November_30" title="November 30">November 30</a>
+<ul>
+<li>The <a href="/wiki/Udinese_Calcio" title="Udinese Calcio">Udinese Calcio</a> is founded.</li>
+<li>'<a href="/wiki/St._Augustine_Monster" title="St. Augustine Monster">St. Augustine Monster</a>': A large carcass, later postulated to be the remains of a <a href="/wiki/Gigantic_octopus" title="Gigantic octopus">gigantic octopus</a>, is found washed ashore near <a href="/wiki/St._Augustine,_Florida" title="St. Augustine, Florida">St. Augustine, Florida</a>.</li>
+</ul>
+</li>
+<li><a href="/wiki/December_1" title="December 1">December 1</a> – Archaeologist <a href="/wiki/Alois_Anton_F%C3%BChrer" title="Alois Anton Führer">Alois Anton Führer</a>, <a href="/wiki/Nepal" title="Nepal">Nepalese</a> General Khadga Samsher Rana, and an expedition rediscover the great stone pillar of <a href="/wiki/Ashoka" title="Ashoka">Ashoka</a> at <a href="/wiki/Lumbini" title="Lumbini">Lumbini</a>, traditionally the spot of the birthplace of <a href="/wiki/Gautama_Buddha" title="Gautama Buddha">Gautama Buddha</a>, after using <a href="/wiki/Faxian" title="Faxian">Faxian</a>'s records.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li><a href="/wiki/December_10" title="December 10">December 10</a> – The premiere of <a href="/wiki/Alfred_Jarry" title="Alfred Jarry">Alfred Jarry</a>'s absurdist play <i><a href="/wiki/Ubu_Roi" title="Ubu Roi">Ubu Roi</a></i> in Paris causes a near-riot.</li>
+<li><a href="/wiki/December_14" title="December 14">December 14</a> – The <a href="/wiki/Glasgow_Subway" title="Glasgow Subway">Glasgow Subway</a>, the third-oldest <a href="/wiki/Rapid_transit" title="Rapid transit">underground metro</a> system in the world, opens.</li>
+<li><a href="/wiki/December_25" title="December 25">December 25</a> – <a href="/wiki/John_Philip_Sousa" title="John Philip Sousa">John Philip Sousa</a> composes his <a href="/wiki/Masterpiece" title="Masterpiece">magnum opus</a>, <i><a href="/wiki/The_Stars_and_Stripes_Forever" title="The Stars and Stripes Forever">The Stars and Stripes Forever</a></i>.</li>
+<li><a href="/wiki/December_30" title="December 30">December 30</a> – <a href="/wiki/Jos%C3%A9_Rizal" title="José Rizal">José Rizal</a>, Filipino scholar and poet, is <a href="/wiki/Firing_squad" class="mw-redirect" title="Firing squad">executed</a> by Spanish authorities in the <a href="/wiki/Philippines" title="Philippines">Philippines</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Date_unknown">Date unknown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=6" title="Edit section: Date unknown">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The <a href="/wiki/St_Patrick%27s_College,_Maynooth" title="St Patrick's College, Maynooth">Pontifical University of Maynooth</a> is established by decree of the <a href="/wiki/Holy_See" title="Holy See">Vatican</a>.</li>
+<li>France establishes an administrative post in <a href="/wiki/Abengourou" title="Abengourou">Abengourou</a>, <a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a>.</li>
+<li>Sperry &amp; Hutchinson begin offering <a href="/wiki/S%26H_Green_Stamps" title="S&amp;H Green Stamps">S&amp;H Green Stamps</a> to U.S. retailers.</li>
+<li><a href="/wiki/Devonport_High_School_for_Boys" title="Devonport High School for Boys">Devonport High School for Boys</a> is founded (in <a href="/wiki/Plymouth" title="Plymouth">Plymouth</a>, UK)</li>
+<li><a href="/wiki/Blackpool_Pleasure_Beach" title="Blackpool Pleasure Beach">Blackpool Pleasure Beach</a>, a popular English theme park (<i>Britain's Biggest Tourist Attraction</i>), is founded by Alderman William George Bean.</li>
+<li>A school of mines opens in <a href="/wiki/Kimberley,_Northern_Cape" title="Kimberley, Northern Cape">Kimberley</a> and will later form the core of the <a href="/wiki/University_of_the_Witwatersrand" title="University of the Witwatersrand">University of the Witwatersrand</a>.</li>
+<li>Racing Club de Lyon, a football club in <a href="/wiki/France" title="France">France</a>, officially founded, as predecessor for <a href="/wiki/Olympique_Lyonnais" title="Olympique Lyonnais">Olympique Lyonnais</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></li>
+</ul>
+<h2><span class="mw-headline" id="Births">Births</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=7" title="Edit section: Births">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January.E2.80.93February">January–February</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=8" title="Edit section: January–February">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:George_Burns_1961.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/George_Burns_1961.JPG/100px-George_Burns_1961.JPG" width="100" height="127" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/George_Burns_1961.JPG/150px-George_Burns_1961.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/George_Burns_1961.JPG/200px-George_Burns_1961.JPG 2x" data-file-width="737" data-file-height="939" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:George_Burns_1961.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/George_Burns" title="George Burns">George Burns</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Hund,Friedrich_1920er_G%C3%B6ttingen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hund%2CFriedrich_1920er_G%C3%B6ttingen.jpg/100px-Hund%2CFriedrich_1920er_G%C3%B6ttingen.jpg" width="100" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hund%2CFriedrich_1920er_G%C3%B6ttingen.jpg/150px-Hund%2CFriedrich_1920er_G%C3%B6ttingen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hund%2CFriedrich_1920er_G%C3%B6ttingen.jpg/200px-Hund%2CFriedrich_1920er_G%C3%B6ttingen.jpg 2x" data-file-width="614" data-file-height="876" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hund,Friedrich_1920er_G%C3%B6ttingen.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Friedrich_Hund" title="Friedrich Hund">Friedrich Hund</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/January_2" title="January 2">January 2</a> – <a href="/wiki/Dziga_Vertov" title="Dziga Vertov">Dziga Vertov</a>, Russian filmmaker (d. <a href="/wiki/1954" title="1954">1954</a>)</li>
+<li><a href="/wiki/January_4" title="January 4">January 4</a>
+<ul>
+<li><a href="/wiki/Everett_Dirksen" title="Everett Dirksen">Everett Dirksen</a>, American politician (d. <a href="/wiki/1969" title="1969">1969</a>)</li>
+<li><a href="/wiki/Andr%C3%A9_Masson" title="André Masson">André Masson</a>, French artist (d. <a href="/wiki/1987" title="1987">1987</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/January_8" title="January 8">January 8</a>
+<ul>
+<li><a href="/wiki/Arthur_Ford_(psychic)" title="Arthur Ford (psychic)">Arthur Ford</a>, American psychic spiritual medium, clairaudient (d. <a href="/wiki/1971" title="1971">1971</a>)</li>
+<li><a href="/wiki/Clifton_Sprague" title="Clifton Sprague">Clifton Sprague</a>, American admiral (d. <a href="/wiki/1955" title="1955">1955</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/January_14" title="January 14">January 14</a> – <a href="/wiki/John_Dos_Passos" title="John Dos Passos">John Dos Passos</a>, American author (d. <a href="/wiki/1970" title="1970">1970</a>)</li>
+<li><a href="/wiki/January_18" title="January 18">January 18</a> – <a href="/wiki/C._M._Eddy,_Jr." class="mw-redirect" title="C. M. Eddy, Jr.">C. M. Eddy, Jr.</a>, American author (d. <a href="/wiki/1967" title="1967">1967</a>)</li>
+<li><a href="/wiki/January_20" title="January 20">January 20</a> – <a href="/wiki/George_Burns" title="George Burns">George Burns</a>, American actor and comedian (d. <a href="/wiki/1996" title="1996">1996</a>)</li>
+<li><a href="/wiki/January_21" title="January 21">January 21</a> – <a href="/wiki/J._Carrol_Naish" title="J. Carrol Naish">J. Carrol Naish</a>, American <a href="/wiki/Character_actor" title="Character actor">character actor</a> (d. <a href="/wiki/1973" title="1973">1973</a>)</li>
+<li><a href="/wiki/January_23" title="January 23">January 23</a> – <a href="/wiki/Charlotte,_Grand_Duchess_of_Luxembourg" title="Charlotte, Grand Duchess of Luxembourg">Charlotte, Grand Duchess of Luxembourg</a> (d. <a href="/wiki/1985" title="1985">1985</a>)</li>
+<li><a href="/wiki/January_26" title="January 26">January 26</a> – <a href="/wiki/J%C3%B3zsef_Kiss" title="József Kiss">József Kiss</a>, Austro-Hungarian fighter pilot (d. <a href="/wiki/1918" title="1918">1918</a>)</li>
+<li><a href="/wiki/February_4" title="February 4">February 4</a> – <a href="/wiki/Friedrich_Hund" title="Friedrich Hund">Friedrich Hund</a>, German physicist (d. <a href="/wiki/1997" title="1997">1997</a>)</li>
+<li><a href="/wiki/February_16" title="February 16">February 16</a> – <a href="/wiki/Eug%C3%A9nie_Blanchard" title="Eugénie Blanchard">Eugénie Blanchard</a> French <a href="/wiki/Supercentenarian" title="Supercentenarian">supercentenarian</a> (d. <a href="/wiki/2010" title="2010">2010</a>)</li>
+<li><a href="/wiki/February_19" title="February 19">February 19</a> – <a href="/wiki/Andr%C3%A9_Breton" title="André Breton">André Breton</a>, French writer (d. <a href="/wiki/1966" title="1966">1966</a>)</li>
+<li><a href="/wiki/February_23" title="February 23">February 23</a> – <a href="/wiki/Herbert_Weichmann" title="Herbert Weichmann">Herbert Weichmann</a>, German politician and <a href="/wiki/List_of_mayors_of_Hamburg" title="List of mayors of Hamburg">mayor of Hamburg</a> (d. <a href="/wiki/1983" title="1983">1983</a>)</li>
+<li><a href="/wiki/February_25" title="February 25">February 25</a> – <a href="/wiki/Heinrich_Gontermann" title="Heinrich Gontermann">Heinrich Gontermann</a>, German World War I fighter ace (d. <a href="/wiki/1917" title="1917">1917</a>)</li>
+<li><a href="/wiki/February_28" title="February 28">February 28</a> – <a href="/wiki/Philip_Showalter_Hench" title="Philip Showalter Hench">Philip Showalter Hench</a>, American physician, recipient of the <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (d. <a href="/wiki/1965" title="1965">1965</a>)</li>
+<li><a href="/wiki/February_29" title="February 29">February 29</a>
+<ul>
+<li><a href="/wiki/Morarji_Desai" title="Morarji Desai">Morarji Desai</a>, Indian politician (d. <a href="/wiki/1995" title="1995">1995</a>)</li>
+<li><a href="/wiki/William_A._Wellman" title="William A. Wellman">William A. Wellman</a>, American motion picture director (d. <a href="/wiki/1975" title="1975">1975</a>)</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="March.E2.80.93April">March–April</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=9" title="Edit section: March–April">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/March_1" title="March 1">March 1</a>
+<ul>
+<li><a href="/wiki/Dimitri_Mitropoulos" title="Dimitri Mitropoulos">Dimitri Mitropoulos</a>, Greek conductor, pianist and composer (d. <a href="/wiki/1960" title="1960">1960</a>)</li>
+<li><a href="/wiki/Moriz_Seeler" title="Moriz Seeler">Moriz Seeler</a>, German writer, poet, film producer and man of the theatre (d. <a href="/wiki/1942" title="1942">1942</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/March_13" title="March 13">March 13</a> – <a href="/wiki/Field_Eugene_Kindley" title="Field Eugene Kindley">Field Eugene Kindley</a>, American World War I fighter pilot (d. <a href="/wiki/1920" title="1920">1920</a>)</li>
+<li><a href="/wiki/March_20" title="March 20">March 20</a> – <a href="/wiki/Wop_May" title="Wop May">Wilfrid Reid "Wop" May</a>, Canadian World War I pilot (d. <a href="/wiki/1952" title="1952">1952</a>)</li>
+<li><a href="/wiki/March_22" title="March 22">March 22</a> – <a href="/wiki/Joseph_Schildkraut" title="Joseph Schildkraut">Joseph Schildkraut</a>, Austrian-American actor (d. <a href="/wiki/1964" title="1964">1964</a>)</li>
+<li><a href="/wiki/March_29" title="March 29">March 29</a> – <a href="/wiki/Wilhelm_Ackermann" title="Wilhelm Ackermann">Wilhelm Ackermann</a>, German mathematician (d. <a href="/wiki/1962" title="1962">1962</a>)</li>
+<li><a href="/wiki/March_31" title="March 31">March 31</a> – <a href="/wiki/Florrie_Baldwin" title="Florrie Baldwin">Florrie Baldwin</a>, British supercentenarian (d. <a href="/wiki/2010" title="2010">2010</a>)</li>
+<li><a href="/wiki/April_13" title="April 13">April 13</a> – <a href="/wiki/Ira_C._Eaker" title="Ira C. Eaker">Ira C. Eaker</a>, World War II United States Army Air Forces general (d. <a href="/wiki/1987" title="1987">1987</a>)</li>
+<li><a href="/wiki/April_15" title="April 15">April 15</a>
+<ul>
+<li><a href="/wiki/Gerhard_Fieseler" title="Gerhard Fieseler">Gerhard Fieseler</a>, German World War I flying ace, aerobatics champion, and aircraft designer and manufacturer (d. <a href="/wiki/1987" title="1987">1987</a>)</li>
+<li><a href="/wiki/Nikolay_Nikolayevich_Semyonov" class="mw-redirect" title="Nikolay Nikolayevich Semyonov">Nikolay Nikolayevich Semyonov</a>, Russian chemist, <a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize</a> laureate (d. <a href="/wiki/1986" title="1986">1986</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/April_21" title="April 21">April 21</a>
+<ul>
+<li><a href="/wiki/Ralph_Hungerford" title="Ralph Hungerford">Ralph Hungerford</a>, 33rd <a href="/wiki/Governor_of_American_Samoa" class="mw-redirect" title="Governor of American Samoa">Governor of American Samoa</a> (d. <a href="/wiki/1977" title="1977">1977</a>)</li>
+<li><a href="/wiki/Geertruida_Wijsmuller-Meijer" title="Geertruida Wijsmuller-Meijer">Geertruida Wijsmuller-Meijer</a>, Dutch war hero, resistance fighter and humanitarian (d. <a href="/wiki/1978" title="1978">1978</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/April_26" title="April 26">April 26</a> – <a href="/wiki/Ernst_Udet" title="Ernst Udet">Ernst Udet</a>, German World War I fighter ace and Nazi <i>Luftwaffe</i> official (d. <a href="/wiki/1941" title="1941">1941</a>)</li>
+<li><a href="/wiki/April_27" title="April 27">April 27</a> – <a href="/wiki/Rogers_Hornsby" title="Rogers Hornsby">Rogers Hornsby</a>, American baseball player (d. <a href="/wiki/1963" title="1963">1963</a>)</li>
+<li><a href="/wiki/April_30" title="April 30">April 30</a>
+<ul>
+<li><a href="/wiki/Hans_List" title="Hans List">Hans List</a>, Austrian founder of the <a href="/wiki/AVL_(Anstalt_f%C3%BCr_Verbrennungskraftmaschinen_List)" class="mw-redirect" title="AVL (Anstalt für Verbrennungskraftmaschinen List)">AVL List</a> (d. <a href="/wiki/1996" title="1996">1996</a>)</li>
+<li><a href="/wiki/Reverend_Gary_Davis" title="Reverend Gary Davis">Gary Davis</a>, American musician (d. <a href="/wiki/1972" title="1972">1972</a>)</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="May.E2.80.93June">May–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=10" title="Edit section: May–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Jorge_Alessandri_Rodr%C3%ADguez.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Jorge_Alessandri_Rodr%C3%ADguez.JPG/100px-Jorge_Alessandri_Rodr%C3%ADguez.JPG" width="100" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Jorge_Alessandri_Rodr%C3%ADguez.JPG/150px-Jorge_Alessandri_Rodr%C3%ADguez.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Jorge_Alessandri_Rodr%C3%ADguez.JPG/200px-Jorge_Alessandri_Rodr%C3%ADguez.JPG 2x" data-file-width="308" data-file-height="439" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jorge_Alessandri_Rodr%C3%ADguez.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Jorge_Alessandri" title="Jorge Alessandri">Jorge Alessandri</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/May_1" title="May 1">May 1</a>
+<ul>
+<li><a href="/wiki/Mark_W._Clark" title="Mark W. Clark">Mark W. Clark</a>, American general (d. <a href="/wiki/1984" title="1984">1984</a>)</li>
+<li><a href="/wiki/J._Lawton_Collins" title="J. Lawton Collins">J. Lawton Collins</a>, American general (d. <a href="/wiki/1987" title="1987">1987</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/May_2" title="May 2">May 2</a> – <a href="/wiki/Helen_of_Greece_and_Denmark" title="Helen of Greece and Denmark">Helen of Greece and Denmark</a>, Queen Mother of Romania (d.<a href="/wiki/1982" title="1982">1982</a>)</li>
+<li><a href="/wiki/May_3" title="May 3">May 3</a> – <a href="/wiki/Karl_Allmenr%C3%B6der" title="Karl Allmenröder">Karl Allmenröder</a>, German World War I fighter pilot (d. <a href="/wiki/1917" title="1917">1917</a>)</li>
+<li><a href="/wiki/May_5" title="May 5">May 5</a> – <a href="/wiki/Kaju_Sugiura" title="Kaju Sugiura">Kaju Sugiura</a>, Japanese admiral (d. <a href="/wiki/1945" title="1945">1945</a>)</li>
+<li><a href="/wiki/May_6" title="May 6">May 6</a> – <a href="/wiki/Rolf_Maximilian_Sievert" title="Rolf Maximilian Sievert">Rolf Maximilian Sievert</a>, Swedish medical physicist (d. <a href="/wiki/1966" title="1966">1966</a>)</li>
+<li><a href="/wiki/May_7" title="May 7">May 7</a> – <a href="/wiki/John_Dunville" title="John Dunville">John Dunville</a>, British Army officer in World War I (d. <a href="/wiki/1917" title="1917">1917</a>)</li>
+<li><a href="/wiki/May_19" title="May 19">May 19</a> – <a href="/wiki/Jorge_Alessandri" title="Jorge Alessandri">Jorge Alessandri</a>, 27th <a href="/wiki/President_of_Chile" title="President of Chile">President of Chile</a> (d. <a href="/wiki/1986" title="1986">1986</a>)</li>
+<li><a href="/wiki/May_30" title="May 30">May 30</a> – <a href="/wiki/Howard_Hawks" title="Howard Hawks">Howard Hawks</a>, American director (d. <a href="/wiki/1977" title="1977">1977</a>)</li>
+<li><a href="/wiki/June_6" title="June 6">June 6</a>
+<ul>
+<li><a href="/wiki/Henry_Allingham" title="Henry Allingham">Henry Allingham</a>, British World War I veteran and world's oldest man (d. <a href="/wiki/2009" title="2009">2009</a>)</li>
+<li><a href="/wiki/Italo_Balbo" title="Italo Balbo">Italo Balbo</a>, Italian Fascist leader and aviator (d. <a href="/wiki/1940" title="1940">1940</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/June_7" title="June 7">June 7</a>
+<ul>
+<li><a href="/wiki/Robert_S._Mulliken" title="Robert S. Mulliken">Robert S. Mulliken</a>, American chemist, <a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize</a> laureate (d. <a href="/wiki/1986" title="1986">1986</a>)</li>
+<li><a href="/wiki/Douglas_Campbell_(aviator)" title="Douglas Campbell (aviator)">Douglas Campbell</a>, American World War I flying ace (d. <a href="/wiki/1990" title="1990">1990</a>)</li>
+<li><a href="/wiki/Hope_Summers" title="Hope Summers">Hope Summers</a>, American actress (d. <a href="/wiki/1979" title="1979">1979</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/June_18" title="June 18">June 18</a> – <a href="/wiki/Philip_Barry" title="Philip Barry">Philip Barry</a>, American playwright (d. <a href="/wiki/1949" title="1949">1949</a>)</li>
+<li><a href="/wiki/June_19" title="June 19">June 19</a> – <a href="/wiki/Wallis_Simpson" title="Wallis Simpson">Wallis Simpson</a>, American-born Duchess of Windsor (d. <a href="/wiki/1986" title="1986">1986</a>)</li>
+<li><a href="/wiki/June_25" title="June 25">June 25</a> – <a href="/wiki/Keiz%C5%8D_Komura" title="Keizō Komura">Keizō Komura</a>, Japanese admiral (d. <a href="/wiki/1978" title="1978">1978</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93August">July–August</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=11" title="Edit section: July–August">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Trygve_Lie_1938.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Trygve_Lie_1938.jpg/100px-Trygve_Lie_1938.jpg" width="100" height="138" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Trygve_Lie_1938.jpg/150px-Trygve_Lie_1938.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Trygve_Lie_1938.jpg/200px-Trygve_Lie_1938.jpg 2x" data-file-width="524" data-file-height="725" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Trygve_Lie_1938.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Trygve_Lie" title="Trygve Lie">Trygve Lie</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Jean_Piaget_in_Ann_Arbor.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jean_Piaget_in_Ann_Arbor.png/100px-Jean_Piaget_in_Ann_Arbor.png" width="100" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jean_Piaget_in_Ann_Arbor.png/150px-Jean_Piaget_in_Ann_Arbor.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jean_Piaget_in_Ann_Arbor.png/200px-Jean_Piaget_in_Ann_Arbor.png 2x" data-file-width="408" data-file-height="683" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jean_Piaget_in_Ann_Arbor.png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Gerty_Theresa_Cori.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gerty_Theresa_Cori.jpg/100px-Gerty_Theresa_Cori.jpg" width="100" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gerty_Theresa_Cori.jpg/150px-Gerty_Theresa_Cori.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gerty_Theresa_Cori.jpg/200px-Gerty_Theresa_Cori.jpg 2x" data-file-width="280" data-file-height="396" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gerty_Theresa_Cori.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Gerty_Cori" title="Gerty Cori">Gerty Cori</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/July_2" title="July 2">July 2</a> – <a href="/wiki/Quirino_Cristiani" title="Quirino Cristiani">Quirino Cristiani</a>, Argentine animated film director (d. <a href="/wiki/1984" title="1984">1984</a>)</li>
+<li><a href="/wiki/July_8" title="July 8">July 8</a> – <a href="/wiki/James_B._Wilson" title="James B. Wilson">James B. Wilson</a>, American football player and coach (d. <a href="/wiki/1986" title="1986">1986</a>)</li>
+<li><a href="/wiki/July_9" title="July 9">July 9</a> – <a href="/wiki/Maria_Gomes_Valentim" title="Maria Gomes Valentim">Maria Gomes Valentim</a>, Brazilian <a href="/wiki/Supercentenarian" title="Supercentenarian">supercentenarian</a> (d. <a href="/wiki/2011" title="2011">2011</a>)</li>
+<li><a href="/wiki/July_10" title="July 10">July 10</a> – <a href="/wiki/Maurice_Zbriger" title="Maurice Zbriger">Maurice Zbriger</a>, Canadian violinist, composer and conductor (d. <a href="/wiki/1981" title="1981">1981</a>)</li>
+<li><a href="/wiki/July_13" title="July 13">July 13</a>
+<ul>
+<li><a href="/wiki/Mordecai_Ardon" title="Mordecai Ardon">Mordecai Ardon</a>, Israeli painter (d. <a href="/wiki/1992" title="1992">1992</a>)</li>
+<li><a href="/wiki/John_Henry_Cates" title="John Henry Cates">John Henry Cates</a>, American businessman and political figure (d. <a href="/wiki/1986" title="1986">1986</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/July_16" title="July 16">July 16</a> – <a href="/wiki/Trygve_Lie" title="Trygve Lie">Trygve Lie</a>, Norway-born United Nations Secretary General (d. <a href="/wiki/1968" title="1968">1968</a>)</li>
+<li><a href="/wiki/July_20" title="July 20">July 20</a> – <a href="/wiki/Ellen_Louise_Mertz" title="Ellen Louise Mertz">Ellen Louise Mertz</a>, Denmark's first female geologist (d. <a href="/wiki/1987" title="1987">1987</a>)</li>
+<li><a href="/wiki/July_27" title="July 27">July 27</a> – <a href="/wiki/Henri_Longchambon" title="Henri Longchambon">Henri Longchambon</a>, French politician (d. <a href="/wiki/1969" title="1969">1969</a>)</li>
+<li><a href="/wiki/August_9" title="August 9">August 9</a>
+<ul>
+<li><a href="/wiki/Erich_H%C3%BCckel" title="Erich Hückel">Erich Hückel</a>, German physicist and physical chemist (d. <a href="/wiki/1980" title="1980">1980</a>)</li>
+<li><a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a>, Swiss psychologist (d. <a href="/wiki/1980" title="1980">1980</a>)</li>
+<li><a href="/wiki/L%C3%A9onide_Massine" title="Léonide Massine">Léonide Massine</a>, Russian ballet dancer and choreographer (d. <a href="/wiki/1979" title="1979">1979</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/August_12" title="August 12">August 12</a> – <a href="/wiki/Ejner_Federspiel" title="Ejner Federspiel">Ejner Federspiel</a>, Danish actor (d. <a href="/wiki/1981" title="1981">1981</a>)</li>
+<li><a href="/wiki/August_13" title="August 13">August 13</a> – <a href="/wiki/Rudolf_Schmundt" title="Rudolf Schmundt">Rudolf Schmundt</a>, German general (d. <a href="/wiki/1944" title="1944">1944</a>)</li>
+<li><a href="/wiki/August_14" title="August 14">August 14</a> – <a href="/wiki/Albert_Ball" title="Albert Ball">Albert Ball</a>, British World War I fighter ace, Victoria Cross recipient (d. <a href="/wiki/1917" title="1917">1917</a>)</li>
+<li><a href="/wiki/August_15" title="August 15">August 15</a>
+<ul>
+<li><a href="/wiki/Gerty_Cori" title="Gerty Cori">Gerty Cori</a>, Austrian-born biochemist, recipient of the <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (d. <a href="/wiki/1957" title="1957">1957</a>)</li>
+<li><a href="/wiki/Paul_Outerbridge" title="Paul Outerbridge">Paul Outerbridge</a>, American photographer (d. <a href="/wiki/1958" title="1958">1958</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/August_18" title="August 18">August 18</a> – <a href="/wiki/Jack_Pickford" title="Jack Pickford">Jack Pickford</a>, Canadian-born American actor, film director, and producer (d. <a href="/wiki/1933" title="1933">1933</a>)</li>
+<li><a href="/wiki/August_22" title="August 22">August 22</a> – <a href="/wiki/W._E._Lawrence" title="W. E. Lawrence">W. E. Lawrence</a>, American actor (d. <a href="/wiki/1947" title="1947">1947</a>)</li>
+<li><a href="/wiki/August_26" title="August 26">August 26</a> – <a href="/wiki/Besse_Cooper" title="Besse Cooper">Besse Cooper</a>, American <a href="/wiki/Supercentenarian" title="Supercentenarian">supercentenarian</a>; last known surviving person born in 1896 (d. <a href="/wiki/2012" title="2012">2012</a>)</li>
+<li><a href="/wiki/August_27" title="August 27">August 27</a> – <a href="/wiki/L%C3%A9on_Theremin" title="Léon Theremin">Léon Theremin</a>, Russian inventor (d. <a href="/wiki/1993" title="1993">1993</a>)</li>
+<li><a href="/wiki/August_30" title="August 30">August 30</a> – <a href="/wiki/Raymond_Massey" title="Raymond Massey">Raymond Massey</a>, Canadian-born American actor (d. <a href="/wiki/1983" title="1983">1983</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="September.E2.80.93October">September–October</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=12" title="Edit section: September–October">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Adele_Astaire_in_1919.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Adele_Astaire_in_1919.jpg/100px-Adele_Astaire_in_1919.jpg" width="100" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Adele_Astaire_in_1919.jpg/150px-Adele_Astaire_in_1919.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Adele_Astaire_in_1919.jpg/200px-Adele_Astaire_in_1919.jpg 2x" data-file-width="620" data-file-height="980" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Adele_Astaire_in_1919.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Adele_Astaire" title="Adele Astaire">Adele Astaire</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Pertini_ritratto.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pertini_ritratto.jpg/100px-Pertini_ritratto.jpg" width="100" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pertini_ritratto.jpg/150px-Pertini_ritratto.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pertini_ritratto.jpg/200px-Pertini_ritratto.jpg 2x" data-file-width="229" data-file-height="320" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pertini_ritratto.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Sandro_Pertini" title="Sandro Pertini">Sandro Pertini</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/September_1" title="September 1">September 1</a> – <a href="/wiki/A._C._Bhaktivedanta_Swami_Prabhupada" title="A. C. Bhaktivedanta Swami Prabhupada">A. C. Bhaktivedanta Swami Prabhupada</a>, Indian religious leader, founder-acharya of the <a href="/wiki/International_Society_for_Krishna_Consciousness" title="International Society for Krishna Consciousness">International Society for Krishna Consciousness</a> (d. <a href="/wiki/1977" title="1977">1977</a>)</li>
+<li><a href="/wiki/September_4" title="September 4">September 4</a> – <a href="/wiki/Antonin_Artaud" title="Antonin Artaud">Antonin Artaud</a>, French stage actor and director (d. <a href="/wiki/1948" title="1948">1948</a>)</li>
+<li><a href="/wiki/September_10" title="September 10">September 10</a> – <a href="/wiki/Adele_Astaire" title="Adele Astaire">Adele Astaire</a>, American dancer (d. <a href="/wiki/1981" title="1981">1981</a>)</li>
+<li><a href="/wiki/September_14" title="September 14">September 14</a> – <a href="/wiki/Jos%C3%A9_Mojica" title="José Mojica">Fray José de Guadalupe Mojica</a>, Mexican Franciscan friar, tenor and film actor (d. <a href="/wiki/1974" title="1974">1974</a>)</li>
+<li><a href="/wiki/September_15" title="September 15">September 15</a> – <a href="/wiki/Robert_B._McClure" title="Robert B. McClure">Robert B. McClure</a>, American general (d. <a href="/wiki/1973" title="1973">1973</a>)</li>
+<li><a href="/wiki/September_21" title="September 21">September 21</a> – <a href="/wiki/Walter_Breuning" title="Walter Breuning">Walter Breuning</a>, American <a href="/wiki/Supercentenarian" title="Supercentenarian">supercentenarian</a>; last known surviving male born in 1896 (d. <a href="/wiki/2011" title="2011">2011</a>)</li>
+<li><a href="/wiki/September_22" title="September 22">September 22</a> – <a href="/wiki/Uri_Zvi_Greenberg" title="Uri Zvi Greenberg">Uri Zvi Greenberg</a>, Israeli poet and journalist (d. <a href="/wiki/1981" title="1981">1981</a>)</li>
+<li><a href="/wiki/September_24" title="September 24">September 24</a> – <a href="/wiki/F._Scott_Fitzgerald" title="F. Scott Fitzgerald">F. Scott Fitzgerald</a>, American writer (d. <a href="/wiki/1940" title="1940">1940</a>)</li>
+<li><a href="/wiki/September_25" title="September 25">September 25</a> – <a href="/wiki/Sandro_Pertini" title="Sandro Pertini">Sandro Pertini</a>, <a href="/wiki/President_of_Italy" title="President of Italy">President of Italy</a> (d. <a href="/wiki/1990" title="1990">1990</a>)</li>
+<li><a href="/wiki/September_30" title="September 30">September 30</a> – <a href="/wiki/Jolie_Gabor" title="Jolie Gabor">Jolie Gabor</a>, Hungarian-American entrepreneur, jeweler and memoirist (d. <a href="/wiki/1997" title="1997">1997</a>)</li>
+<li><a href="/wiki/October_1" title="October 1">October 1</a> – <a href="/wiki/Abraham_Sofaer" title="Abraham Sofaer">Abraham Sofaer</a>, Burmese-born actor (d. <a href="/wiki/1988" title="1988">1988</a>)</li>
+<li><a href="/wiki/October_7" title="October 7">October 7</a> – <a href="/wiki/Paulino_Alc%C3%A1ntara" title="Paulino Alcántara">Paulino Alcántara</a>, Filipino-Spanish soccer player (d. <a href="/wiki/1964" title="1964">1964</a>)</li>
+<li><a href="/wiki/October_12" title="October 12">October 12</a> – <a href="/wiki/Eugenio_Montale" title="Eugenio Montale">Eugenio Montale</a>, Italian writer, <a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize</a> laureate (d. <a href="/wiki/1981" title="1981">1981</a>)</li>
+<li><a href="/wiki/October_14" title="October 14">October 14</a> – <a href="/wiki/Bud_Flanagan" title="Bud Flanagan">Bud Flanagan</a>, British entertainer and comedian (d. <a href="/wiki/1968" title="1968">1968</a>)</li>
+<li><a href="/wiki/October_27" title="October 27">October 27</a> – <a href="/wiki/Edith_Haisman" title="Edith Haisman">Edith Brown</a>, RMS Titanic survivor (d. <a href="/wiki/1997" title="1997">1997</a>)</li>
+<li><a href="/wiki/October_28" title="October 28">October 28</a> – <a href="/wiki/Howard_Hanson" title="Howard Hanson">Howard Hanson</a>, American composer (d. <a href="/wiki/1981" title="1981">1981</a>)</li>
+<li><a href="/wiki/October_30" title="October 30">October 30</a> – <a href="/wiki/Ruth_Gordon" title="Ruth Gordon">Ruth Gordon</a>, American actress, screenwriter, and playwright (d. <a href="/wiki/1985" title="1985">1985</a>)</li>
+<li><a href="/wiki/October_31" title="October 31">October 31</a> – <a href="/wiki/Ethel_Waters" title="Ethel Waters">Ethel Waters</a>, American singer and actress (d. <a href="/wiki/1977" title="1977">1977</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="November.E2.80.93December">November–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=13" title="Edit section: November–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Carlos_P_Garcia_photo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Carlos_P_Garcia_photo.jpg/100px-Carlos_P_Garcia_photo.jpg" width="100" height="142" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Carlos_P_Garcia_photo.jpg/150px-Carlos_P_Garcia_photo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Carlos_P_Garcia_photo.jpg/200px-Carlos_P_Garcia_photo.jpg 2x" data-file-width="1136" data-file-height="1608" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Carlos_P_Garcia_photo.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Carlos_P._Garcia" title="Carlos P. Garcia">Carlos P. Garcia</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Nobusuke_Kishi_Dec_14,_1956.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nobusuke_Kishi_Dec_14%2C_1956.jpg/100px-Nobusuke_Kishi_Dec_14%2C_1956.jpg" width="100" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/0/0f/Nobusuke_Kishi_Dec_14%2C_1956.jpg 1.5x" data-file-width="126" data-file-height="185" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nobusuke_Kishi_Dec_14,_1956.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Nobusuke_Kishi" title="Nobusuke Kishi">Nobusuke Kishi</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Mamie_Eisenhower_color_photo_portrait,_White_House,_May_1954.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mamie_Eisenhower_color_photo_portrait%2C_White_House%2C_May_1954.jpg/100px-Mamie_Eisenhower_color_photo_portrait%2C_White_House%2C_May_1954.jpg" width="100" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mamie_Eisenhower_color_photo_portrait%2C_White_House%2C_May_1954.jpg/150px-Mamie_Eisenhower_color_photo_portrait%2C_White_House%2C_May_1954.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mamie_Eisenhower_color_photo_portrait%2C_White_House%2C_May_1954.jpg/200px-Mamie_Eisenhower_color_photo_portrait%2C_White_House%2C_May_1954.jpg 2x" data-file-width="2703" data-file-height="3576" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mamie_Eisenhower_color_photo_portrait,_White_House,_May_1954.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Mamie_Eisenhower" title="Mamie Eisenhower">Mamie Eisenhower</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Carl_Ferdinand_Cori.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Carl_Ferdinand_Cori.jpg/100px-Carl_Ferdinand_Cori.jpg" width="100" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Carl_Ferdinand_Cori.jpg/150px-Carl_Ferdinand_Cori.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Carl_Ferdinand_Cori.jpg/200px-Carl_Ferdinand_Cori.jpg 2x" data-file-width="280" data-file-height="396" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Carl_Ferdinand_Cori.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Carl_Ferdinand_Cori" title="Carl Ferdinand Cori">Carl Ferdinand Cori</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Bundesarchiv_Bild_146-2005-0008,_Carl_Zuckmayer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bundesarchiv_Bild_146-2005-0008%2C_Carl_Zuckmayer.jpg/100px-Bundesarchiv_Bild_146-2005-0008%2C_Carl_Zuckmayer.jpg" width="100" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bundesarchiv_Bild_146-2005-0008%2C_Carl_Zuckmayer.jpg/150px-Bundesarchiv_Bild_146-2005-0008%2C_Carl_Zuckmayer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bundesarchiv_Bild_146-2005-0008%2C_Carl_Zuckmayer.jpg/200px-Bundesarchiv_Bild_146-2005-0008%2C_Carl_Zuckmayer.jpg 2x" data-file-width="524" data-file-height="787" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_146-2005-0008,_Carl_Zuckmayer.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Carl_Zuckmayer" title="Carl Zuckmayer">Carl Zuckmayer</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/November_4" title="November 4">November 4</a>
+<ul>
+<li><a href="/wiki/Carlos_P._Garcia" title="Carlos P. Garcia">Carlos P. Garcia</a>, 8th <a href="/wiki/President_of_the_Philippines" title="President of the Philippines">President of the Philippines</a> (d. <a href="/wiki/1971" title="1971">1971</a>)</li>
+<li><a href="/wiki/Ian_Wolfe" title="Ian Wolfe">Ian Wolfe</a>, American actor (d. <a href="/wiki/1992" title="1992">1992</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/November_8" title="November 8">November 8</a>
+<ul>
+<li><a href="/wiki/Erika_Abels_d%27Albert" title="Erika Abels d'Albert">Erika Abels d'Albert</a>, Austrian artist (d. <a href="/wiki/1975" title="1975">1975</a>)</li>
+<li><a href="/wiki/Bucky_Harris" title="Bucky Harris">Bucky Harris</a>, American baseball player (d. <a href="/wiki/1977" title="1977">1977</a>)</li>
+<li><a href="/wiki/Marie_Prevost" title="Marie Prevost">Marie Prevost</a>, Canadian-born American actress (d. <a href="/wiki/1937" title="1937">1937</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/November_10" title="November 10">November 10</a>
+<ul>
+<li><a href="/wiki/Jimmy_Dykes" title="Jimmy Dykes">Jimmy Dykes</a>, American baseball player and manager (d. <a href="/wiki/1976" title="1976">1976</a>)</li>
+<li><a href="/wiki/Mary,_Lady_Heath" title="Mary, Lady Heath">Mary, Lady Heath</a> (born Sophie Mary Peirce-Evans), Irish aviator (d. <a href="/wiki/1939" title="1939">1939</a>)</li>
+<li><a href="/wiki/Andreas_Stihl" title="Andreas Stihl">Andreas Stihl</a>, Swiss engineer, inventor and businessman (d. <a href="/wiki/1973" title="1973">1973</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/November_13" title="November 13">November 13</a> – <a href="/wiki/Nobusuke_Kishi" title="Nobusuke Kishi">Nobusuke Kishi</a>, Prime Minister of Japan (d. <a href="/wiki/1987" title="1987">1987</a>)</li>
+<li><a href="/wiki/November_14" title="November 14">November 14</a> – <a href="/wiki/Mamie_Eisenhower" title="Mamie Eisenhower">Mamie Eisenhower</a>, <a href="/wiki/First_Lady_of_the_United_States" title="First Lady of the United States">First Lady of the United States</a> (d. <a href="/wiki/1979" title="1979">1979</a>)</li>
+<li><a href="/wiki/November_15" title="November 15">November 15</a> – <a href="/wiki/Giovanni_Ancillotto" title="Giovanni Ancillotto">Giovanni Ancillotto</a>, Italian World War I flying ace (d. <a href="/wiki/1924" title="1924">1924</a>)</li>
+<li><a href="/wiki/November_16" title="November 16">November 16</a>
+<ul>
+<li><a href="/wiki/Oswald_Mosley" title="Oswald Mosley">Oswald Mosley</a>, leader of the British Union of Fascists (d. <a href="/wiki/1980" title="1980">1980</a>)</li>
+<li><a href="/wiki/Lawrence_Tibbett" title="Lawrence Tibbett">Lawrence Tibbett</a>, American opera singer and actor (d. <a href="/wiki/1960" title="1960">1960</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/November_17" title="November 17">November 17</a> – <a href="/wiki/Lev_Vygotsky" title="Lev Vygotsky">Lev Vygotsky</a>, Russian psychologist (d. <a href="/wiki/1934" title="1934">1934</a>)</li>
+<li><a href="/wiki/November_23" title="November 23">November 23</a> – <a href="/wiki/Klement_Gottwald" title="Klement Gottwald">Klement Gottwald</a>, Czechoslovak communist politician (d. <a href="/wiki/1953" title="1953">1953</a>)</li>
+<li><a href="/wiki/November_25" title="November 25">November 25</a>
+<ul>
+<li><a href="/wiki/Virgil_Thomson" title="Virgil Thomson">Virgil Thomson</a>, American composer and critic (d. <a href="/wiki/1989" title="1989">1989</a>)</li>
+<li><a href="/wiki/Jessie_Royce_Landis" title="Jessie Royce Landis">Jessie Royce Landis</a>, American actress (d. <a href="/wiki/1972" title="1972">1972</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/November_26" title="November 26">November 26</a> – <a href="/wiki/Manuel_A._Odr%C3%ADa" title="Manuel A. Odría">Manuel A. Odría</a>, 79th President of Peru (d. <a href="/wiki/1974" title="1974">1974</a>)</li>
+<li><a href="/wiki/November_28" title="November 28">November 28</a> – <a href="/wiki/Lilia_Skala" title="Lilia Skala">Lilia Skala</a>, Austrian-American actress (d. <a href="/wiki/1994" title="1994">1994</a>)</li>
+<li><a href="/wiki/December_1" title="December 1">December 1</a> – <a href="/wiki/Georgi_Zhukov" class="mw-redirect" title="Georgi Zhukov">Georgi Zhukov</a>, Soviet military leader, Marshal of the Soviet Union (d. <a href="/wiki/1974" title="1974">1974</a>)</li>
+<li><a href="/wiki/December_5" title="December 5">December 5</a> – <a href="/wiki/Carl_Ferdinand_Cori" title="Carl Ferdinand Cori">Carl Ferdinand Cori</a>, Austrian-born biochemist, recipient of the <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (d. <a href="/wiki/1984" title="1984">1984</a>)</li>
+<li><a href="/wiki/December_6" title="December 6">December 6</a> – <a href="/wiki/Ira_Gershwin" title="Ira Gershwin">Ira Gershwin</a>, American lyricist (d. <a href="/wiki/1983" title="1983">1983</a>)</li>
+<li><a href="/wiki/December_8" title="December 8">December 8</a> – <a href="/wiki/Christl_Mardayn" title="Christl Mardayn">Christl Mardayn</a>, German actress (d. <a href="/wiki/1976" title="1976">1976</a>)</li>
+<li><a href="/wiki/December_14" title="December 14">December 14</a> – <a href="/wiki/Jimmy_Doolittle" title="Jimmy Doolittle">Jimmy Doolittle</a>, American aviation pioneer and World War II United States Army Air Forces general (d. <a href="/wiki/1993" title="1993">1993</a>)</li>
+<li><a href="/wiki/December_15" title="December 15">December 15</a> – <a href="/wiki/Miles_Dempsey" title="Miles Dempsey">Miles Dempsey</a>, British general (d. <a href="/wiki/1969" title="1969">1969</a>)</li>
+<li><a href="/wiki/December_16" title="December 16">December 16</a> – <a href="/wiki/Anna_Anderson" title="Anna Anderson">Anna Anderson</a>, pretender to the Russian throne (d. <a href="/wiki/1984" title="1984">1984</a>)</li>
+<li><a href="/wiki/December_17" title="December 17">December 17</a> – <a href="/wiki/Robert_Francis_Anthony_Studds" title="Robert Francis Anthony Studds">Robert Francis Anthony Studds</a>, American admiral and engineer, fourth Director of the <a href="/wiki/United_States_Coast_and_Geodetic_Survey" class="mw-redirect" title="United States Coast and Geodetic Survey">United States Coast and Geodetic Survey</a> (d. <a href="/wiki/1962" title="1962">1962</a>)</li>
+<li><a href="/wiki/December_21" title="December 21">December 21</a> – <a href="/wiki/Leroy_Robertson" title="Leroy Robertson">Leroy Robertson</a>, American composer (d. <a href="/wiki/1971" title="1971">1971</a>)</li>
+<li><a href="/wiki/December_23" title="December 23">December 23</a> – <a href="/wiki/Giuseppe_Tomasi_di_Lampedusa" title="Giuseppe Tomasi di Lampedusa">Giuseppe Tomasi di Lampedusa</a>, Italian writer (d. <a href="/wiki/1957" title="1957">1957</a>)</li>
+<li><a href="/wiki/December_27" title="December 27">December 27</a> –
+<ul>
+<li><a href="/wiki/Louis_Bromfield" title="Louis Bromfield">Louis Bromfield</a>, American writer (d. <a href="/wiki/1956" title="1956">1956</a>)</li>
+<li><a href="/wiki/Carl_Zuckmayer" title="Carl Zuckmayer">Carl Zuckmayer</a>, German writer and playwright (d. <a href="/wiki/1977" title="1977">1977</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/December_28" title="December 28">December 28</a> – <a href="/wiki/Roger_Sessions" title="Roger Sessions">Roger Sessions</a>, American composer (d. <a href="/wiki/1985" title="1985">1985</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="Date_unknown_2">Date unknown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=14" title="Edit section: Date unknown">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Lawrence_Riley" title="Lawrence Riley">Lawrence Riley</a>, American playwright and screenwriter (d. <a href="/wiki/1974" title="1974">1974</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="Deaths">Deaths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=15" title="Edit section: Deaths">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January.E2.80.93June">January–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=16" title="Edit section: January–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Clara_Schumann_1878.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Clara_Schumann_1878.jpg/110px-Clara_Schumann_1878.jpg" width="110" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Clara_Schumann_1878.jpg/165px-Clara_Schumann_1878.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Clara_Schumann_1878.jpg/220px-Clara_Schumann_1878.jpg 2x" data-file-width="361" data-file-height="517" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Clara_Schumann_1878.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Clara_Schumann" title="Clara Schumann">Clara Schumann</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/January_4" title="January 4">January 4</a> – <a href="/wiki/Joseph_Hubert_Reinkens" title="Joseph Hubert Reinkens">Joseph Hubert Reinkens</a>, German Old Catholic bishop (b. <a href="/wiki/1821" title="1821">1821</a>)</li>
+<li><a href="/wiki/January_6" title="January 6">January 6</a> – <a href="/wiki/Thomas_W._Knox" title="Thomas W. Knox">Thomas W. Knox</a>, American author and journalist (b. <a href="/wiki/1835" title="1835">1835</a>)</li>
+<li><a href="/wiki/January_8" title="January 8">January 8</a> – <a href="/wiki/Paul_Verlaine" title="Paul Verlaine">Paul Verlaine</a>, French lyric poet (b. <a href="/wiki/1844" title="1844">1844</a>)</li>
+<li><a href="/wiki/January_15" title="January 15">January 15</a> – <a href="/wiki/Mathew_Brady" title="Mathew Brady">Mathew Brady</a>, American photographer (b. <a href="/wiki/1822" title="1822">1822</a>)</li>
+<li><a href="/wiki/January_20" title="January 20">January 20</a> – <a href="/wiki/Prince_Henry_of_Battenberg" title="Prince Henry of Battenberg">Prince Henry of Battenberg</a>, British royal, married to <a href="/wiki/Princess_Beatrice_of_the_United_Kingdom" title="Princess Beatrice of the United Kingdom">Princess Beatrice of the United Kingdom</a> (b. <a href="/wiki/1858" title="1858">1858</a>)</li>
+<li><a href="/wiki/February_7" title="February 7">February 7</a> – <a href="/wiki/William_Hayden_English" title="William Hayden English">William Hayden English</a>, American politician (b. <a href="/wiki/1822" title="1822">1822</a>)</li>
+<li><a href="/wiki/February_25" title="February 25">February 25</a> – <a href="/wiki/Joseph_P._Fyffe" title="Joseph P. Fyffe">Joseph P. Fyffe</a>, American admiral (b. <a href="/wiki/1832" title="1832">1832</a>)</li>
+<li><a href="/wiki/April_9" title="April 9">April 9</a> – <a href="/wiki/Gustav_Koerner" title="Gustav Koerner">Gustav Koerner</a>, German-American statesman (b. <a href="/wiki/1809" title="1809">1809</a>)</li>
+<li><a href="/wiki/May_1" title="May 1">May 1</a> – <a href="/wiki/Naser_al-Din_Shah_Qajar" title="Naser al-Din Shah Qajar">Naser al-Din Shah Qajar</a>, Shah of Persia, King of Herat (b. <a href="/wiki/1831" title="1831">1831</a>)</li>
+<li><a href="/wiki/May_7" title="May 7">May 7</a> – <a href="/wiki/Herman_Webster_Mudgett" class="mw-redirect" title="Herman Webster Mudgett">Herman Webster Mudgett</a>, alias H. H. Holmes, American serial killer (executed) (b. <a href="/wiki/1861" title="1861">1861</a>)</li>
+<li><a href="/wiki/May_10" title="May 10">May 10</a> – <a href="/wiki/Antti_Ahlstr%C3%B6m" title="Antti Ahlström">Antti Ahlström</a>, Finnish industrialist and founder of <a href="/wiki/Ahlstrom" title="Ahlstrom">Ahlstrom</a> (b. <a href="/wiki/1827" title="1827">1827</a>)</li>
+<li><a href="/wiki/May_17" title="May 17">May 17</a> – <a href="/wiki/Muhammad_Al-Sabah" title="Muhammad Al-Sabah">Muhammad Al-Sabah</a>, emir of Kuwait (b. <a href="/wiki/1831" title="1831">1831</a>)</li>
+<li><a href="/wiki/May_19" title="May 19">May 19</a> – <a href="/wiki/Archduke_Karl_Ludwig_of_Austria" title="Archduke Karl Ludwig of Austria">Archduke Karl Ludwig of Austria</a>, father of Archduke Ferdinand (b. <a href="/wiki/1833" title="1833">1833</a>)</li>
+<li><a href="/wiki/May_20" title="May 20">May 20</a> – <a href="/wiki/Clara_Schumann" title="Clara Schumann">Clara Schumann</a>, German composer and pianist (b. <a href="/wiki/1819" title="1819">1819</a>)</li>
+<li><a href="/wiki/May_24" title="May 24">May 24</a> – <a href="/wiki/Luigi_Federico_Menabrea" title="Luigi Federico Menabrea">Luigi Federico Menabrea</a>, Italian soldier and statesman (b. <a href="/wiki/1809" title="1809">1809</a>)</li>
+<li><a href="/wiki/June_12" title="June 12">June 12</a> – <a href="/wiki/Thomas_P._Leathers" class="mw-redirect" title="Thomas P. Leathers">Thomas P. Leathers</a>, American steamboat captain (b. <a href="/wiki/1816" title="1816">1816</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93December">July–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=17" title="Edit section: July–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Harriet_Beecher_Stowe_c1852.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harriet_Beecher_Stowe_c1852.jpg/110px-Harriet_Beecher_Stowe_c1852.jpg" width="110" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harriet_Beecher_Stowe_c1852.jpg/165px-Harriet_Beecher_Stowe_c1852.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harriet_Beecher_Stowe_c1852.jpg/220px-Harriet_Beecher_Stowe_c1852.jpg 2x" data-file-width="468" data-file-height="620" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Harriet_Beecher_Stowe_c1852.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Harriet_Beecher_Stowe" title="Harriet Beecher Stowe">Harriet Beecher Stowe</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Otto-lilienthal.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Otto-lilienthal.jpg/110px-Otto-lilienthal.jpg" width="110" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Otto-lilienthal.jpg/165px-Otto-lilienthal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Otto-lilienthal.jpg/220px-Otto-lilienthal.jpg 2x" data-file-width="431" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Otto-lilienthal.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Otto_Lilienthal" title="Otto Lilienthal">Otto Lilienthal</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Alfred_Nobel3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/110px-Alfred_Nobel3.jpg" width="110" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/165px-Alfred_Nobel3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/220px-Alfred_Nobel3.jpg 2x" data-file-width="1570" data-file-height="2091" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Alfred_Nobel3.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Alfred_Nobel" title="Alfred Nobel">Alfred Nobel</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Jose_rizal_01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jose_rizal_01.jpg/110px-Jose_rizal_01.jpg" width="110" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jose_rizal_01.jpg/165px-Jose_rizal_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jose_rizal_01.jpg/220px-Jose_rizal_01.jpg 2x" data-file-width="340" data-file-height="436" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jose_rizal_01.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Jose_Rizal" class="mw-redirect" title="Jose Rizal">Jose Rizal</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/July_1" title="July 1">July 1</a> – <a href="/wiki/Harriet_Beecher_Stowe" title="Harriet Beecher Stowe">Harriet Beecher Stowe</a>, American author (b. <a href="/wiki/1811" title="1811">1811</a>)</li>
+<li><a href="/wiki/July_4" title="July 4">July 4</a> – <a href="/wiki/Marcelo_H._del_Pilar" title="Marcelo H. del Pilar">Marcelo H. del Pilar</a>, Filipino writer and journalist (b. <a href="/wiki/1850" title="1850">1850</a>)</li>
+<li><a href="/wiki/July_7" title="July 7">July 7</a> – <a href="/wiki/Charles_Thomas_Wooldridge" title="Charles Thomas Wooldridge">Charles Thomas Wooldridge</a>, hanged at Reading Gaol and commemorated by Oscar Wilde (b. <a href="/wiki/1866" title="1866">1866</a>)</li>
+<li><a href="/wiki/July_13" title="July 13">July 13</a> – <a href="/wiki/August_Kekul%C3%A9" title="August Kekulé">August Kekulé</a>, German chemist (b. <a href="/wiki/1829" title="1829">1829</a>)</li>
+<li><a href="/wiki/July_16" title="July 16">July 16</a> – <a href="/wiki/Edmond_de_Goncourt" title="Edmond de Goncourt">Edmond de Goncourt</a>, French writer and co-founder of the Académie Goncourt (b. <a href="/wiki/1822" title="1822">1822</a>)</li>
+<li><a href="/wiki/July_19" title="July 19">July 19</a> – <a href="/wiki/Abraham_H._Cannon" title="Abraham H. Cannon">Abraham H. Cannon</a>, American Mormon apostle (b. <a href="/wiki/1859" title="1859">1859</a>)</li>
+<li><a href="/wiki/August_10" title="August 10">August 10</a> – <a href="/wiki/Otto_Lilienthal" title="Otto Lilienthal">Otto Lilienthal</a>, German aviation pioneer (b. <a href="/wiki/1848" title="1848">1848</a>)</li>
+<li><a href="/wiki/August_13" title="August 13">August 13</a> – <a href="/wiki/John_Everett_Millais" title="John Everett Millais">John Everett Millais</a>, British Pre-Raphaelite painter (b. <a href="/wiki/1829" title="1829">1829</a>)</li>
+<li><a href="/wiki/August_17" title="August 17">August 17</a> – <a href="/wiki/Bridget_Driscoll" title="Bridget Driscoll">Bridget Driscoll</a>, early British automobile fatality (b. c. <a href="/wiki/1852" title="1852">1852</a>)</li>
+<li><a href="/wiki/August_25" title="August 25">August 25</a> – Sultan <a href="/wiki/Hamad_bin_Thuwaini_of_Zanzibar" title="Hamad bin Thuwaini of Zanzibar">Hamad bin Thuwaini of Zanzibar</a> (b. <a href="/wiki/1857" title="1857">1857</a>)</li>
+<li><a href="/wiki/September_18" title="September 18">September 18</a> – <a href="/wiki/Hippolyte_Fizeau" title="Hippolyte Fizeau">Hippolyte Fizeau</a>, French physicist (b. <a href="/wiki/1819" title="1819">1819</a>)</li>
+<li><a href="/wiki/September_22" title="September 22">September 22</a> – <a href="/wiki/Pavlos_Kalligas" title="Pavlos Kalligas">Pavlos Kalligas</a>, Greek jurist and politician (b. <a href="/wiki/1814" title="1814">1814</a>)</li>
+<li><a href="/wiki/October_8" title="October 8">October 8</a> – <a href="/wiki/George_du_Maurier" title="George du Maurier">George du Maurier</a>, French-born British cartoonist and writer (b. <a href="/wiki/1834" title="1834">1834</a>)</li>
+<li><a href="/wiki/October_11" title="October 11">October 11</a>
+<ul>
+<li><a href="/wiki/Anton_Bruckner" title="Anton Bruckner">Anton Bruckner</a>, Austrian composer (b. <a href="/wiki/1824" title="1824">1824</a>)</li>
+<li><a href="/wiki/Edward_White_Benson" title="Edward White Benson">Edward White Benson</a>, Archbishop of Canterbury (b. <a href="/wiki/1829" title="1829">1829</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/October_21" title="October 21">October 21</a> – <a href="/wiki/James_Henry_Greathead" title="James Henry Greathead">James Henry Greathead</a>, British engineer and inventor (b. <a href="/wiki/1844" title="1844">1844</a>)</li>
+<li><a href="/wiki/October_23" title="October 23">October 23</a> – <a href="/wiki/Columbus_Delano" title="Columbus Delano">Columbus Delano</a>, American statesman (b. <a href="/wiki/1809" title="1809">1809</a>)</li>
+<li><a href="/wiki/October_30" title="October 30">October 30</a> – <a href="/wiki/Carol_Benesch" title="Carol Benesch">Carol Benesch</a>, <a href="/wiki/Silesia" title="Silesia">Silesian</a> and <a href="/wiki/Romania" title="Romania">Romanian</a> <a href="/wiki/Architect" title="Architect">architect</a> (b. <a href="/wiki/1822" title="1822">1822</a>)</li>
+<li><a href="/wiki/November_12" title="November 12">November 12</a> – <a href="/wiki/Joseph_James_Cheeseman" title="Joseph James Cheeseman">Joseph James Cheeseman</a>, Liberian politician, 12th <a href="/wiki/President_of_Liberia" title="President of Liberia">President of Liberia</a> (b. <a href="/wiki/1843" title="1843">1843</a>)</li>
+<li><a href="/wiki/November_16" title="November 16">November 16</a> – <a href="/wiki/Josip_%C5%A0ok%C4%8Devi%C4%87" title="Josip Šokčević">Josip Šokčević</a>, Croatian viceroy (b. <a href="/wiki/1811" title="1811">1811</a>)</li>
+<li><a href="/wiki/November_22" title="November 22">November 22</a> – <a href="/wiki/George_Washington_Gale_Ferris_Jr." title="George Washington Gale Ferris Jr.">George Washington Gale Ferris Jr.</a>, inventor of the <a href="/wiki/Ferris_wheel" title="Ferris wheel">Ferris wheel</a> (b. <a href="/wiki/1859" title="1859">1859</a>)</li>
+<li><a href="/wiki/December_10" title="December 10">December 10</a> – <a href="/wiki/Alfred_Nobel" title="Alfred Nobel">Alfred Nobel</a>, Swedish inventor of dynamite and creator of the Nobel Prize (b. <a href="/wiki/1833" title="1833">1833</a>)</li>
+<li><a href="/wiki/December_29" title="December 29">December 29</a> – <a href="/wiki/Jacob_ben_Moses_Bachrach" title="Jacob ben Moses Bachrach">Jacob ben Moses Bachrach</a>, noted apologist of Rabbinic Judaism (b. <a href="/wiki/1824" title="1824">1824</a>)</li>
+<li><a href="/wiki/December_30" title="December 30">December 30</a> – <a href="/wiki/Jos%C3%A9_Rizal" title="José Rizal">José Rizal</a>, national hero of the Philippines (b. <a href="/wiki/1861" title="1861">1861</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1896&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Slee, Christopher (1994). <i>The Guinness Book of Lasts</i>. Enfield: Guinness Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85112-783-5" title="Special:BookSources/0-85112-783-5">0-85112-783-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1896&amp;rft.aufirst=Christopher&amp;rft.aulast=Slee&amp;rft.btitle=The+Guinness+Book+of+Lasts&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=0-85112-783-5&amp;rft.place=Enfield&amp;rft.pub=Guinness+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CBH-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-CBH_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Palmer, Alan; Veronica (1992). <i>The Chronology of British History</i>. London: Century Ltd. pp.&#160;324–325. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7126-5616-2" title="Special:BookSources/0-7126-5616-2">0-7126-5616-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1896&amp;rft.aufirst=Alan&amp;rft.aulast=Palmer&amp;rft.au=Veronica&amp;rft.btitle=The+Chronology+of+British+History&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=0-7126-5616-2&amp;rft.pages=324-325&amp;rft.place=London&amp;rft.pub=Century+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Blumberg-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Blumberg_3-0">^</a></b></span> <span class="reference-text"><i>The Great Dynamite Explosion</i>, report by Mr. J.G. Blumberg, Fairmount School, Johannesburg, excerpt from the autobiography of Dutch immigrant Jan de Veer who came to South Africa in 1893.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://articles.philly.com/1995-02-24/news/25702996_1_blue-chip-stocks-industrial-shares-index">Dow Record Book Adds Another First</a>. Philly.com. Retrieved 2013-07-08.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i>Documents of the Senate of the State of New York: One Hundred and Thirty-sixth Session, 1913</i>, Volume 25, p255</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hmdb.org/marker.asp?marker=10470">"Twin Shaft Disaster Marker"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1896&amp;rft.btitle=Twin+Shaft+Disaster+Marker&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hmdb.org%2Fmarker.asp%3Fmarker%3D10470&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://query.nytimes.com/gst/abstract.html?res=9B00EEDF1638E033A2575AC2A9609C94679ED7CF">"100 MINERS ENTOMBED - Twin Shaft, Pittston, Caves In and Few Escape. RESCUERS WORK IN VAIN Three Men Saved, but Little Hope for the Others. FRENZIED CITY AT PIT'S MOUTH Startled from Slumber to Hopeless Activity by an Explosion in the Early Morning. BOSSES ARE AMONG THE MISSING All the Workmen Available Were Trying to Brace Up a Section That Was Considered Dangerous. ONE HUNDRED MINERS ENTOMBED - Front Page - NYTimes.com"</a>. June 29, 1896.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1896&amp;rft.atitle=100+MINERS+ENTOMBED+-++Twin+Shaft%2C+Pittston%2C+Caves+In+and+Few+Escape.+RESCUERS+WORK+IN+VAIN+Three+Men+Saved%2C+but+Little+Hope+for+the+Others.+FRENZIED+CITY+AT+PIT%27S+MOUTH+Startled+from+Slumber+to+Hopeless+Activity+by+an+Explosion+in+the+Early+Morning.+BOSSES+ARE+AMONG+THE+MISSING+All+the+Workmen+Available+Were+Trying+to+Brace+Up+a+Section+That+Was+Considered+Dangerous.+ONE+HUNDRED+MINERS+ENTOMBED+-+Front+Page+-+NYTimes.com&amp;rft.date=1896-06-29&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fquery.nytimes.com%2Fgst%2Fabstract.html%3Fres%3D9B00EEDF1638E033A2575AC2A9609C94679ED7CF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gendisasters.com/data1/pa/mines/pittston-minecavein1896.htm">"Pennsylvania"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1896&amp;rft.btitle=Pennsylvania&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gendisasters.com%2Fdata1%2Fpa%2Fmines%2Fpittston-minecavein1896.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><i>The Law Journal Reports for the Year 1896</i> (Stevens and Sons, Ltd., 1896), Volume 65, p247</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Miller, Charles (1971). <i>The Lunatic Express</i>. New York: Macdonald. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-02-584940-2" title="Special:BookSources/978-0-02-584940-2">978-0-02-584940-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1896&amp;rft.aufirst=Charles&amp;rft.aulast=Miller&amp;rft.btitle=The+Lunatic+Express&amp;rft.date=1971&amp;rft.genre=book&amp;rft.isbn=978-0-02-584940-2&amp;rft.place=New+York&amp;rft.pub=Macdonald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://nyheritage.nnyln.net/cdm/singleitem/collection/clarkson/id/124">"Clarkson Estate"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1896&amp;rft.btitle=Clarkson+Estate&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnyheritage.nnyln.net%2Fcdm%2Fsingleitem%2Fcollection%2Fclarkson%2Fid%2F124&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Iiams, Thomas M. (1962). <i>Dreyfus, Diplomatists and the Dual Alliance: Gabriel Hanotaux at the Quai D'Orsay (1894 – 1898)</i>, Geneva/Paris: Librairie Droz/Librairie Minard, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dgObEERSxvQC&amp;pg=PA115">p. 115</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Alois Anton Führer, <i>Monograph on Buddha Sakyamuni's Birth-Place in the Nepalese Taral</i> (Allahabad: The Government Press, 1897) p28</span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2212
+Cached time: 20170423153604
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.336 seconds
+Real time usage: 0.461 seconds
+Preprocessor visited node count: 5726/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39224/2097152 bytes
+Template argument size: 3241/2097152 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 4/500
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 5.89 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  302.949      1 -total
+ 25.12%   76.107      1 Template:C19_year_in_topic
+ 19.08%   57.799      1 Template:Reflist
+ 14.89%   45.123      2 Template:Citation_needed
+ 13.94%   42.244      2 Template:Fix
+ 13.58%   41.127     19 Template:Dr
+ 12.84%   38.884     19 Template:Dr-make
+ 12.82%   38.843      1 Template:Year_nav
+ 11.88%   36.002      1 Template:Year_in_various_calendars
+ 11.40%   34.527      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34668-0!*!0!!en!4!* and timestamp 20170423153611 and revision id 776833090
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1896&amp;oldid=776833090">https://en.wikipedia.org/w/index.php?title=1896&amp;oldid=776833090</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1896" title="Category:1896">1896</a></li><li><a href="/wiki/Category:Leap_years_in_the_Gregorian_calendar" title="Category:Leap years in the Gregorian calendar">Leap years in the Gregorian calendar</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_March_2011" title="Category:Use mdy dates from March 2011">Use mdy dates from March 2011</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">Articles with unsourced statements from November 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2016" title="Category:Articles with unsourced statements from December 2016">Articles with unsourced statements from December 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1896" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1896" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1896"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1896"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1896" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1896&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1896&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1896" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1896" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1896&amp;oldid=776833090" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1896&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7846" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1896&amp;id=776833090" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1896">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1896&amp;returnto=1896&amp;oldid=776833090&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1896&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:1896" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/1896" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/1896" title="1896 – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/1896" title="1896 – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/1896_%E1%8A%A5.%E1%8A%A4.%E1%8A%A0." title="1896 እ.ኤ.አ. – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/1896" title="1896 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/1896" title="1896 – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/1896" title="1896 – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/1896" title="1896 – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/1896" title="1896 – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A7%A7%E0%A7%AE%E0%A7%AF%E0%A7%AC" title="১৮৯৬ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/1896_n%C3%AE" title="1896 nî – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/1896" title="1896 – Basa Banyumasan" lang="map-bms" hreflang="map-bms" class="interlanguage-link-target">Basa Banyumasan</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/1896_%D0%B9%D1%8B%D0%BB" title="1896 йыл – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/1896" title="1896 – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/1896" title="1896 – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AF%E0%A5%AC" title="१८९६ – भोजपुरी" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/1896" title="1896 – Bikol Central" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/1896" title="1896 – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/1896" title="1896 – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/1896." title="1896. – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/1896" title="1896 – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/1896" title="1896 – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/1896" title="1896 – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/1896" title="1896 – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/1896" title="1896 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/1896" title="1896 – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/1896" title="1896 – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/1896" title="1896 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/1896" title="1896 – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/1896" title="1896 – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/1896" title="1896 – Emiliano-Romagnolo" lang="eml" hreflang="eml" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/1896_%D0%B8%D0%B5" title="1896 ие – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/1896" title="1896 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/1896" title="1896 – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/1896" title="1896 – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%B1%DB%B8%DB%B9%DB%B6_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="۱۸۹۶ (میلادی) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/1896" title="1896 – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/1896" title="1896 – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/1896" title="1896 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/1896" title="1896 – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/1896" title="1896 – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/1896" title="1896 – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/1896" title="1896 – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/1896" title="1896 – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/1896%E5%B9%B4" title="1896年 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/1896-ngi%C3%A8n" title="1896-ngièn – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/1896%EB%85%84" title="1896년 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/1896" title="1896 – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AF%E0%A5%AC" title="१८९६ – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/1896" title="1896 – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/1896." title="1896. – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/1896" title="1896 – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/1896" title="1896 – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A7%E0%A7%AE%E0%A7%AF%E0%A7%AC" title="মারি ১৮৯৬ – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/1896" title="1896 – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/1896" title="1896 – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/1896-%C3%A6%D0%BC_%D0%B0%D0%B7" title="1896-æм аз – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/1896" title="1896 – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/1896" title="1896 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/1896" title="1896 – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/1896" title="1896 – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B3%A7%E0%B3%AE%E0%B3%AF%E0%B3%AC" title="೧೮೯೬ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/1896_%D0%B4%D0%B6%D1%8B%D0%BB" title="1896 джыл – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/1896" title="1896 – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/1896" title="1896 – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/1896_%D0%B6%D1%8B%D0%BB" title="1896 жыл – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/1896" title="1896 – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/1896_%D0%B2%D0%BE" title="1896 во – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/1896_(almanak_gregoryen)" title="1896 (almanak gregoryen) – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/1896" title="1896 – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/1896_%D0%B8" title="1896 и – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/1896" title="1896 – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/1896._gads" title="1896. gads – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/1896" title="1896 – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/1896_m." title="1896 m. – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/1896" title="1896 – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/1896" title="1896 – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/1896" title="1896 – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/1896" title="1896 – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/1896" title="1896 – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AF%E0%A5%AC" title="१८९६ – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/1896" title="1896 – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/1896" title="1896 – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/1896" title="1896 – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/1896" title="1896 – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%87.%E0%A4%B8._%E0%A5%A7%E0%A5%AE%E0%A5%AF%E0%A5%AC" title="इ.स. १८९६ – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/1896" title="1896 – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/1896" title="1896 – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/1896" title="1896 – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Baso Minangkabau</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/1896_%D0%BE%D0%BD" title="1896 он – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%81%81%E1%81%88%E1%81%89%E1%81%86" title="၁၈၉၆ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/1896" title="1896 – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/1896" title="1896 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AE%E0%A5%AF%E0%A5%AC" title="सन् १८९६ – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AE%E0%A5%AF%E0%A5%AC" title="सन् १८९६ – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/1896%E5%B9%B4" title="1896年 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/1896" title="1896 – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/1896_%D1%88%D0%BE" title="1896 шо – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/1896" title="1896 – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/1896" title="1896 – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/1896" title="1896 – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/1896" title="1896 – Nouormand" lang="nrm" hreflang="nrm" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/1896" title="1896 – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/1896" title="1896 – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/1896" title="1896 – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AD%A7%E0%AD%AE%E0%AD%AF%E0%AD%AC" title="୧୮୯୬ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/1896" title="1896 – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/1896" title="1896 – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AF%E0%A5%AC" title="१८९६ – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/1896" title="1896 – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/1896" title="1896 – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/1896" title="1896 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/1896" title="1896 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/1896" title="1896 – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Joohr_1896" title="Joohr 1896 – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/1896" title="1896 – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/1896" title="1896 – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/1896" title="1896 – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/1896_%D0%B3%D0%BE%D0%B4" title="1896 год – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/1896" title="1896 – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/1896" title="1896 – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Sámegiella</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AF%E0%A5%AC" title="१८९६ – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/1896" title="1896 – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/1896" title="1896 – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/1896" title="1896 – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/1896" title="1896 – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/1896" title="1896 – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/1896" title="1896 – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/1896" title="1896 – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/1896%D8%B9" title="1896ع – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/1896" title="1896 – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/1896" title="1896 – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%A1%D9%A8%D9%A9%D9%A6" title="١٨٩٦ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/1896" title="1896 – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/1896" title="1896 – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/1896" title="1896 – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/1896" title="1896 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/1896" title="1896 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/1896" title="1896 – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/1896" title="1896 – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/1896_%D0%B5%D0%BB" title="1896 ел – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/1896" title="1896 – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/1896" title="1896 – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9E.%E0%B8%A8._2439" title="พ.ศ. 2439 – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B8_1896" title="Соли 1896 – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/1896" title="1896 – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/1896" title="1896 – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/1896_%D0%B0%D1%80" title="1896 ар – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/1896" title="1896 – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/1896%D8%A1" title="1896ء – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/1896" title="1896 – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/1896" title="1896 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/1896" title="1896 – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/1896" title="1896 – Võro" lang="fiu-vro" hreflang="fiu-vro" class="interlanguage-link-target">Võro</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/1896" title="1896 – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/1896" title="1896 – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/1896" title="1896 – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/1896" title="1896 – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/1896" title="1896 – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/1896%E5%B9%B4" title="1896年 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/1896" title="1896 – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/1896" title="1896 – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/1896%E5%B9%B4" title="1896年 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7846#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 April 2017, at 15:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1896&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.336","walltime":"0.461","ppvisitednodes":{"value":5726,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39224,"limit":2097152},"templateargumentsize":{"value":3241,"limit":2097152},"expansiondepth":{"value":28,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  302.949      1 -total"," 25.12%   76.107      1 Template:C19_year_in_topic"," 19.08%   57.799      1 Template:Reflist"," 14.89%   45.123      2 Template:Citation_needed"," 13.94%   42.244      2 Template:Fix"," 13.58%   41.127     19 Template:Dr"," 12.84%   38.884     19 Template:Dr-make"," 12.82%   38.843      1 Template:Year_nav"," 11.88%   36.002      1 Template:Year_in_various_calendars"," 11.40%   34.527      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":6174454,"limit":52428800}},"cachereport":{"origin":"mw2212","timestamp":"20170423153604","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw2107"});});</script>
+	</body>
+</html>

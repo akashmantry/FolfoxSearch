@@ -1,0 +1,855 @@
+https://en.wikipedia.org/wiki/1874
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1874 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1874","wgTitle":"1874","wgCurRevisionId":776654171,"wgRevisionId":776654171,"wgArticleId":34770,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from March 2011","All articles with unsourced statements","Articles with unsourced statements from December 2016","1874"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1874","wgRelevantArticleId":34770,"wgRequestId":"WPuTVQrAEDoAAfzhc3IAAAIX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7761","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1874"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1874&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1874&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1874"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1874 rootpage-1874 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1874</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the year 1874.</div>
+<table class="infobox" style="text-align: center;">
+<tr>
+<th style="text-align:right;"><a href="/wiki/Millennium" title="Millennium">Millennium</a>:</th>
+<td><a href="/wiki/2nd_millennium" title="2nd millennium">2nd&#160;millennium</a></td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_centuries" title="List of centuries">Centuries</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/18th_century" title="18th century">18th&#160;century</a></li>
+<li><b><a href="/wiki/19th_century" title="19th century">19th&#160;century</a></b></li>
+<li><a href="/wiki/20th_century" title="20th century">20th&#160;century</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_decades" title="List of decades">Decades</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/1850s" title="1850s">1850s</a></li>
+<li><a href="/wiki/1860s" title="1860s">1860s</a></li>
+<li><b><a href="/wiki/1870s" title="1870s">1870s</a></b></li>
+<li><a href="/wiki/1880s" title="1880s">1880s</a></li>
+<li><a href="/wiki/1890s" title="1890s">1890s</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_years" title="List of years">Years</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/1871" title="1871">1871</a></li>
+<li><a href="/wiki/1872" title="1872">1872</a></li>
+<li><a href="/wiki/1873" title="1873">1873</a></li>
+<li><b><a class="mw-selflink selflink">1874</a></b></li>
+<li><a href="/wiki/1875" title="1875">1875</a></li>
+<li><a href="/wiki/1876" title="1876">1876</a></li>
+<li><a href="/wiki/1877" title="1877">1877</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table class="infobox" width="325">
+<tr>
+<td style="text-align:center;"><b><a href="/wiki/Category:1874" title="Category:1874">1874 in topic</a>:</b></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Humanities</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1874_in_archaeology" title="1874 in archaeology">Archaeology</a> – <a href="/wiki/1874_in_architecture" title="1874 in architecture">Architecture</a> – <a href="/wiki/1874_in_art" title="1874 in art">Art</a> – <a href="/wiki/1874_in_literature" title="1874 in literature">Literature</a> – <a href="/wiki/1874_in_music" title="1874 in music">Music</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>By country</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1874_in_Australia" title="1874 in Australia">Australia</a> – <a href="/wiki/1874_in_Brazil" title="1874 in Brazil">Brazil</a> - <a href="/wiki/1874_in_Canada" title="1874 in Canada">Canada</a> – <a href="/wiki/1874_in_Denmark" title="1874 in Denmark">Denmark</a> - <a href="/wiki/1874_in_France" title="1874 in France">France</a> – <a href="/wiki/1874_in_Germany" title="1874 in Germany">Germany</a> – <a href="/wiki/Category:1874_in_Mexico" title="Category:1874 in Mexico">Mexico</a> – <a href="/wiki/1874_in_Norway" title="1874 in Norway">Norway</a> - <a href="/w/index.php?title=Category:1874_in_the_Philippines&amp;action=edit&amp;redlink=1" class="new" title="Category:1874 in the Philippines (page does not exist)">Philippines</a> - <a href="/wiki/1874_in_Portugal" title="1874 in Portugal">Portugal</a>– <a href="/wiki/1874_in_Russia" title="1874 in Russia">Russia</a> - <a href="/wiki/1874_in_South_Africa" title="1874 in South Africa">South Africa</a> – <a href="/w/index.php?title=1874_in_Spain&amp;action=edit&amp;redlink=1" class="new" title="1874 in Spain (page does not exist)">Spain</a> - <a href="/wiki/1874_in_Sweden" title="1874 in Sweden">Sweden</a> - <a href="/wiki/1874_in_the_United_Kingdom" title="1874 in the United Kingdom">United Kingdom</a> – <a href="/wiki/1874_in_the_United_States" title="1874 in the United States">United States</a> – <a href="/w/index.php?title=1874_in_Venezuela&amp;action=edit&amp;redlink=1" class="new" title="1874 in Venezuela (page does not exist)">Venezuela</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Other topics</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1874_in_rail_transport" title="1874 in rail transport">Rail Transport</a> – <a href="/wiki/1874_in_science" title="1874 in science">Science</a> – <a href="/wiki/1874_in_sports" title="1874 in sports">Sports</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Lists of leaders</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/List_of_political_entities_in_the_19th_century" title="List of political entities in the 19th century">Sovereign states</a> – <a href="/wiki/List_of_state_leaders_in_1874" title="List of state leaders in 1874">State leaders</a> – <a href="/wiki/List_of_governors_of_dependent_territories_in_the_19th_century" title="List of governors of dependent territories in the 19th century">Territorial governors</a> – <a href="/wiki/List_of_19th-century_religious_leaders" title="List of 19th-century religious leaders">Religious leaders</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Birth and death categories</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1874_births" title="Category:1874 births">Births</a> – <a href="/wiki/Category:1874_deaths" title="Category:1874 deaths">Deaths</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Establishments and disestablishments categories</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1874_establishments" title="Category:1874 establishments">Establishments</a> – <a href="/wiki/Category:1874_disestablishments" title="Category:1874 disestablishments">Disestablishments</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Works category</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1874_works" title="Category:1874 works">Works</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:C19_year_in_topic" title="Template:C19 year in topic"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:C19_year_in_topic" title="Template talk:C19 year in topic"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:C19_year_in_topic&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption style="font-size:125%"><span class="summary dtstart">1874 in various <a href="/wiki/Calendar_era" title="Calendar era">calendars</a></span></caption>
+<tr>
+<td><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a></td>
+<td>1874<br />
+<span style="font-family: serif;"><i>MDCCCLXXIV</i></span></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ab_urbe_condita" title="Ab urbe condita">Ab urbe condita</a></td>
+<td>2627</td>
+</tr>
+<tr>
+<td><a href="/wiki/Armenian_calendar" title="Armenian calendar">Armenian calendar</a></td>
+<td>1323<br />
+ԹՎ ՌՅԻԳ</td>
+</tr>
+<tr>
+<td><a href="/wiki/Assyrian_calendar" title="Assyrian calendar">Assyrian calendar</a></td>
+<td>6624</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bah%C3%A1%27%C3%AD_calendar" title="Bahá'í calendar">Bahá'í calendar</a></td>
+<td>30–31</td>
+</tr>
+<tr>
+<td><a href="/wiki/Balinese_saka_calendar" title="Balinese saka calendar">Balinese saka calendar</a></td>
+<td>1795–1796</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bengali_calendar" title="Bengali calendar">Bengali calendar</a></td>
+<td>1281</td>
+</tr>
+<tr>
+<td><a href="/wiki/Berber_calendar" title="Berber calendar">Berber calendar</a></td>
+<td>2824</td>
+</tr>
+<tr>
+<td><a href="/wiki/Regnal_years_of_English_monarchs" title="Regnal years of English monarchs">British Regnal year</a></td>
+<td>37&#160;<a href="/wiki/Queen_Victoria" title="Queen Victoria">Vict.&#160;1</a>&#160;–&#160;38&#160;<a href="/wiki/Queen_Victoria" title="Queen Victoria">Vict.&#160;1</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Buddhist_calendar" title="Buddhist calendar">Buddhist calendar</a></td>
+<td>2418</td>
+</tr>
+<tr>
+<td><a href="/wiki/Burmese_calendar" title="Burmese calendar">Burmese calendar</a></td>
+<td>1236</td>
+</tr>
+<tr>
+<td><a href="/wiki/Byzantine_calendar" title="Byzantine calendar">Byzantine calendar</a></td>
+<td>7382–7383</td>
+</tr>
+<tr>
+<td><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a></td>
+<td><a href="/wiki/Chinese_sexagenary_cycle" title="Chinese sexagenary cycle">癸酉</a>年 <small>(Water&#160;<a href="/wiki/Rooster_(zodiac)" title="Rooster (zodiac)">Rooster</a>)</small><br />
+4570 or 4510<br />
+&#160;&#160;&#160;&#160;<i>—&#160;to&#160;—</i><br />
+甲戌年 <small>(Wood&#160;<a href="/wiki/Dog_(zodiac)" title="Dog (zodiac)">Dog</a>)</small><br />
+4571 or 4511</td>
+</tr>
+<tr>
+<td><a href="/wiki/Coptic_calendar" title="Coptic calendar">Coptic calendar</a></td>
+<td>1590–1591</td>
+</tr>
+<tr>
+<td><a href="/wiki/Discordian_calendar" title="Discordian calendar">Discordian calendar</a></td>
+<td>3040</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ethiopian_calendar" title="Ethiopian calendar">Ethiopian calendar</a></td>
+<td>1866–1867</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a></td>
+<td>5634–5635</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu calendars</a></td>
+<td></td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Vikram_Samvat" title="Vikram Samvat">Vikram Samvat</a></i></td>
+<td>1930–1931</td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Indian_national_calendar" title="Indian national calendar">Shaka Samvat</a></i></td>
+<td>1795–1796</td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Kali_Yuga" title="Kali Yuga">Kali Yuga</a></i></td>
+<td>4974–4975</td>
+</tr>
+<tr>
+<td><a href="/wiki/Holocene_calendar" title="Holocene calendar">Holocene calendar</a></td>
+<td>11874</td>
+</tr>
+<tr>
+<td><a href="/wiki/Igbo_calendar" title="Igbo calendar">Igbo calendar</a></td>
+<td>874–875</td>
+</tr>
+<tr>
+<td><a href="/wiki/Iranian_calendars" title="Iranian calendars">Iranian calendar</a></td>
+<td>1252–1253</td>
+</tr>
+<tr>
+<td><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td>
+<td>1290–1291</td>
+</tr>
+<tr>
+<td><a href="/wiki/Japanese_calendar" title="Japanese calendar">Japanese calendar</a></td>
+<td><a href="/wiki/Meiji_period" title="Meiji period">Meiji</a> 7<br />
+<small>(明治７年)</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/Javanese_calendar" title="Javanese calendar">Javanese calendar</a></td>
+<td>1802–1803</td>
+</tr>
+<tr>
+<td><a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a></td>
+<td>Gregorian minus 12 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Korean_calendar" title="Korean calendar">Korean calendar</a></td>
+<td>4207</td>
+</tr>
+<tr>
+<td><a href="/wiki/Minguo_calendar" title="Minguo calendar">Minguo calendar</a></td>
+<td>38 before <a href="/wiki/Republic_of_China_(1912%E2%80%931949)" class="mw-redirect" title="Republic of China (1912–1949)">ROC</a><br />
+<small>民前38年</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/Nanakshahi_calendar" title="Nanakshahi calendar">Nanakshahi calendar</a></td>
+<td>406</td>
+</tr>
+<tr>
+<td><a href="/wiki/Thai_solar_calendar" title="Thai solar calendar">Thai solar calendar</a></td>
+<td>2416–2417</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="plainlinks hlist navbar"><span style="word-spacing:0">This box:</span>
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Year_in_various_calendars" title="Template:Year in various calendars"><span title="View this template">view</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Year_in_various_calendars" title="Template talk:Year in various calendars"><span title="Discuss this template">talk</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Year_in_various_calendars&amp;action=edit"><span title="Edit this template">edit</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:1874" class="extiw" title="commons:Category:1874">1874</a></b></i>.</td>
+</tr>
+</table>
+<p><br />
+<b>1874 (<a href="/wiki/Roman_numerals" title="Roman numerals">MDCCCLXXIV</a>)</b> was a <a href="/wiki/Common_year" title="Common year">common year</a> <a href="/wiki/Common_year_starting_on_Thursday" title="Common year starting on Thursday">starting on Thursday</a> (<a href="/wiki/Dominical_letter" title="Dominical letter">dominical letter</a> D) of the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>&#160;and a <a href="/wiki/Common_year_starting_on_Tuesday" title="Common year starting on Tuesday">common year starting on Tuesday</a> (<a href="/wiki/Dominical_letter" title="Dominical letter">dominical letter</a> F) of the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a>, the 1874th year of the <a href="/wiki/Common_Era" title="Common Era">Common Era</a> (CE) and <i><a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a></i> (AD) designations, the 874th year of the <a href="/wiki/2nd_millennium" title="2nd millennium">2nd&#160;millennium</a>, the 74th year of the <a href="/wiki/19th_century" title="19th century">19th&#160;century</a>, and the 5th year of the <a href="/wiki/1870s" title="1870s">1870s</a> decade. As of the start of 1874, the Gregorian calendar was 12 days ahead of the Julian calendar, which remained in localized use until 1923.</p>
+<div class="toclimit-2">
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Events"><span class="tocnumber">1</span> <span class="toctext">Events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#January.E2.80.93March"><span class="tocnumber">1.1</span> <span class="toctext">January–March</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#April.E2.80.93June"><span class="tocnumber">1.2</span> <span class="toctext">April–June</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#July.E2.80.93September"><span class="tocnumber">1.3</span> <span class="toctext">July–September</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#October.E2.80.93December"><span class="tocnumber">1.4</span> <span class="toctext">October–December</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Date_unknown"><span class="tocnumber">1.5</span> <span class="toctext">Date unknown</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Births"><span class="tocnumber">2</span> <span class="toctext">Births</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#January.E2.80.93March_2"><span class="tocnumber">2.1</span> <span class="toctext">January–March</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#April.E2.80.93June_2"><span class="tocnumber">2.2</span> <span class="toctext">April–June</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#July.E2.80.93September_2"><span class="tocnumber">2.3</span> <span class="toctext">July–September</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#October.E2.80.93December_2"><span class="tocnumber">2.4</span> <span class="toctext">October–December</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Deaths"><span class="tocnumber">3</span> <span class="toctext">Deaths</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#January.E2.80.93June"><span class="tocnumber">3.1</span> <span class="toctext">January–June</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#July.E2.80.93December"><span class="tocnumber">3.2</span> <span class="toctext">July–December</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=1" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January.E2.80.93March">January–March</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=2" title="Edit section: January–March">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>January – The <a href="/wiki/Pangkor_Treaty" class="mw-redirect" title="Pangkor Treaty">Pangkor Treaty</a> (also known as the Pangkor Engagement), by which the British extended their control over, first the Sultanate of <a href="/wiki/Perak" title="Perak">Perak</a> and later the other independent Malay States, is signed.</li>
+<li><a href="/wiki/January_1" title="January 1">January 1</a> – New York City annexes <a href="/wiki/The_Bronx" title="The Bronx">The Bronx</a>.</li>
+<li><a href="/wiki/January_2" title="January 2">January 2</a> – <a href="/wiki/Ignacio_Mar%C3%ADa_Gonz%C3%A1lez_(politician)" title="Ignacio María González (politician)">Ignacio María González</a> becomes head of state of the <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a> for the first time.</li>
+<li><a href="/wiki/January_3" title="January 3">January 3</a> – <a href="/wiki/Battle_of_Caspe" title="Battle of Caspe">Battle of Caspe</a> (<a href="/wiki/Third_Carlist_War" title="Third Carlist War">Third Carlist War</a>): Campaigning on the Ebro in Aragon for the Spanish Republican Government, Colonel Eulogio Despujol surprised a Carlist force under Manuel Marco de Bello at Caspe, northeast of Alcañiz. In a brilliant action the Carlists were routed, losing 200 prisoners and 80 horses, while Despujol was promoted to Brigadier and became Conde de Caspe.</li>
+<li><a href="/wiki/January_23" title="January 23">January 23</a>
+<ul>
+<li><a href="/wiki/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" title="Alfred, Duke of Saxe-Coburg and Gotha">Prince Alfred, Duke of Edinburgh</a>, second son of <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a>, marries <a href="/wiki/Grand_Duchess_Maria_Alexandrovna_of_Russia" title="Grand Duchess Maria Alexandrovna of Russia">Grand Duchess Maria Alexandrovna of Russia</a>, only daughter of Tsar <a href="/wiki/Alexander_III_of_Russia" title="Alexander III of Russia">Alexander III of Russia</a>.</li>
+<li><a href="/wiki/Camille_Saint-Sa%C3%ABns" title="Camille Saint-Saëns">Camille Saint-Saëns</a>' composition <i><a href="/wiki/Danse_macabre_(Saint-Sa%C3%ABns)" title="Danse macabre (Saint-Saëns)">Danse macabre</a></i> receives its première.</li>
+</ul>
+</li>
+<li><a href="/wiki/February_21" title="February 21">February 21</a> – The <i><a href="/wiki/Oakland_Daily_Tribune" class="mw-redirect" title="Oakland Daily Tribune">Oakland Daily Tribune</a></i> publishes its first issue.</li>
+<li><a href="/wiki/February_23" title="February 23">February 23</a> – <a href="/wiki/Walter_Clopton_Wingfield" title="Walter Clopton Wingfield">Walter Clopton Wingfield</a> patents a game called "sphairistike" which is more commonly called <a href="/wiki/Lawn_tennis" class="mw-redirect" title="Lawn tennis">lawn tennis</a>.</li>
+<li><a href="/wiki/February_24" title="February 24">February 24</a>-<a href="/wiki/February_25" title="February 25">February 25</a> –First Battle of Somorrostro (<a href="/wiki/Third_Carlist_War" title="Third Carlist War">Third Carlist War</a>): Determined to raise the siege of Bilbao by the Pretender Don Carlos VII, Republican commander Marshal Francisco Serrano sent General Domingo Moriones with a relief force of 14,000 men. Carlists, under General Nicolás Ollo, entrenched at Somorrostro outside Bilbao drive back a courageous assault by General Fernando Primo de Rivera and then the entire Republican army. The republicans lose 1,200 men, and Moriones loses his nerve demanding reinforcements and a replacement for himself. Moriones men entrenched and waited.</li>
+<li><a href="/wiki/March_14" title="March 14">March 14</a> – <a href="/w/index.php?title=Battle_of_Castellfollit_de_la_Roca&amp;action=edit&amp;redlink=1" class="new" title="Battle of Castellfollit de la Roca (page does not exist)">Battle of Castellfollit de la Roca</a> (<a href="/wiki/Third_Carlist_War" title="Third Carlist War">Third Carlist War</a>): Appointed to command the Spanish Republican army in the north, General Ramón Nouvilas attempted to relieve the Carlist siege of Olot in Girona. But at Castellfollit de la Roca, in one of the Government’s worst defeats, Nouvilas was routed by Carlist General <a href="/w/index.php?title=Francesc_Savalls&amp;action=edit&amp;redlink=1" class="new" title="Francesc Savalls (page does not exist)">Francesc Savalls</a>, and captured along with about 2,000 of his men. Olot capitulated two days later.</li>
+<li><a href="/wiki/March_18" title="March 18">March 18</a>
+<ul>
+<li>Hawaii signs a treaty with the United States granting exclusive trading rights.</li>
+<li>The <a href="/wiki/Dresden_English_Football_Club" title="Dresden English Football Club">Dresden English Football Club</a> is founded, first soccer club on European mainland.</li>
+</ul>
+</li>
+<li><a href="/wiki/March_25" title="March 25">March 25</a>–<a href="/wiki/March_27" title="March 27">27</a> – <a href="/w/index.php?title=Second_Battle_of_Somorrostro&amp;action=edit&amp;redlink=1" class="new" title="Second Battle of Somorrostro (page does not exist)">Second Battle of Somorrostro</a> (<a href="/wiki/Third_Carlist_War" title="Third Carlist War">Third Carlist War</a>): In a renewed attempt to raise the siege of Bilbao by Don Carlos VII, Republican commander Marshal Francisco Serrano himself arrived with 27,000 men and 70 cannon. However, in three days of fierce fighting, the Carlist General Joaquín Elío, with just 17,000 men, once again drove off the attack at nearby Somorrostro, and it was another six weeks before Serrano managed to relieve Bilbao.</li>
+<li>March – The Young Men's Hebrew Association in <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a> (which still operates today as the <a href="/wiki/92nd_Street_Y" title="92nd Street Y">92nd Street Y</a>) is founded.</li>
+</ul>
+<h3><span class="mw-headline" id="April.E2.80.93June">April–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=3" title="Edit section: April–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/April_15" title="April 15">April 15</a>–<a href="/wiki/May_15" title="May 15">May 15</a> – First exhibition of the group of young painters, <i>Société Anonyme Coopérative des Artistes, Peintres, Sculpteurs, Graveurs</i>, at the studio of the photographer <a href="/wiki/Nadar_(photographer)" title="Nadar (photographer)">Nadar</a> in Paris. <a href="/wiki/Louis_Leroy" title="Louis Leroy">Louis Leroy</a>'s critical review of it published on <a href="/wiki/25_April" class="mw-redirect" title="25 April">25 April</a> gives rise to the term <a href="/wiki/Impressionism" title="Impressionism">Impressionism</a> for the movement, with reference to <a href="/wiki/Claude_Monet" title="Claude Monet">Claude Monet</a>'s <i><a href="/wiki/Impression,_Sunrise" title="Impression, Sunrise">Impression, Sunrise</a></i>.</li>
+<li><a href="/wiki/May_2" title="May 2">May 2</a> – <a href="/w/index.php?title=Siege_of_Bilbao&amp;action=edit&amp;redlink=1" class="new" title="Siege of Bilbao (page does not exist)">Siege of Bilbao</a> (<a href="/wiki/Third_Carlist_War" title="Third Carlist War">Third Carlist War</a>): The siege is lifted.</li>
+<li><a href="/wiki/May_9" title="May 9">May 9</a> – The first commercial horse-drawn carriage debuts in the city of <a href="/wiki/Mumbai" title="Mumbai">Bombay</a>, plying two routes.</li>
+<li><a href="/wiki/May_20" title="May 20">May 20</a> – <a href="/wiki/Levi_Strauss" title="Levi Strauss">Levi Strauss</a> and <a href="/wiki/Jacob_Davis_(inventor)" class="mw-redirect" title="Jacob Davis (inventor)">Jacob Davis</a> receive a U.S. <a href="/wiki/Patent" title="Patent">patent</a> for blue <a href="/wiki/Jeans" title="Jeans">jeans</a> with copper rivets. The price is $13.50 per dozen.</li>
+<li><a href="/wiki/May_27" title="May 27">May 27</a> – The first group of <a href="/wiki/Dorsland_Trek" title="Dorsland Trek"><i>Dorsland Trekkers</i></a>, a series of expeditions by <i><a href="/wiki/Trekboer" title="Trekboer">Trekboere</a></i> in search of political independence and better farming conditions, departs South Africa to settle in <a href="/wiki/Angola" title="Angola">Angola</a>, led by <a href="/wiki/Gert_Alberts" title="Gert Alberts">Gert Alberts</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/June_14" title="June 14">June 14</a> – <a href="/wiki/Michel_Domingue" title="Michel Domingue">Michel Domingue</a> becomes head of state of <a href="/wiki/Haiti" title="Haiti">Haiti</a>.</li>
+<li><a href="/wiki/June_22" title="June 22">June 22</a> – <a href="/wiki/Andrew_Taylor_Still" title="Andrew Taylor Still">Andrew Taylor Still</a> starts the movement for <a href="/wiki/Osteopathic_medicine_in_the_United_States" title="Osteopathic medicine in the United States">osteopathic medicine in the United States</a> at <a href="/wiki/Kirksville,_Missouri" title="Kirksville, Missouri">Kirksville, Missouri</a>.</li>
+<li><a href="/wiki/June_25" title="June 25">June 25</a>–<a href="/wiki/June_27" title="June 27">June 27</a> – <a href="/w/index.php?title=Battle_of_Monte_Muro&amp;action=edit&amp;redlink=1" class="new" title="Battle of Monte Muro (page does not exist)">Battle of Monte Muro</a> (<a href="/wiki/Third_Carlist_War" title="Third Carlist War">Third Carlist War</a>): <a href="/wiki/Carlism" title="Carlism">Carlist</a> forces entrenched around <a href="/wiki/Ab%C3%A1rzuza" title="Abárzuza">Abárzuza</a>, on the approach to <a href="/wiki/Estella-Lizarra" title="Estella-Lizarra">Estella</a> in <a href="/wiki/Navarre" title="Navarre">Navarre</a>, repel an attack by Isabelino/Liberal (supporters of Queen Isabella II) troops led by General <a href="/wiki/Manuel_Guti%C3%A9rrez_de_la_Concha" title="Manuel Gutiérrez de la Concha">Manuel Gutiérrez de la Concha</a>, Marqués del Duero, who is killed on the third day of fighting.</li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93September">July–September</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=4" title="Edit section: July–September">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/July_1" title="July 1">July 1</a>
+<ul>
+<li><a href="/wiki/Universal_Postal_Union" title="Universal Postal Union">Universal Postal Union</a> is established.</li>
+<li><a href="/wiki/Philadelphia_Zoo" title="Philadelphia Zoo">Philadelphia Zoo</a> opens, the first public zoo in the <a href="/wiki/United_States" title="United States">United States</a>.</li>
+<li><a href="/wiki/Sholes_and_Glidden_typewriter" title="Sholes and Glidden typewriter">Sholes and Glidden typewriter</a>, with cylindrical platen and <a href="/wiki/QWERTY" title="QWERTY">QWERTY</a> keyboard, first marketed, in the United States.</li>
+<li>The <a href="/wiki/Bank_of_Spain" title="Bank of Spain">Bank of Spain</a> emits the first <a href="/wiki/Spanish_peseta" title="Spanish peseta">peseta</a> banknotes.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+</ul>
+</li>
+<li><a href="/wiki/July_14" title="July 14">July 14</a> – The <a href="/wiki/Chicago_Fire_of_1874" title="Chicago Fire of 1874">Chicago Fire of 1874</a> burns down 47 acres of the city, destroying 812 buildings, killing 20, and resulting in the fire insurance industry demanding municipal reforms from Chicago's city council.</li>
+<li><a href="/wiki/July_23" title="July 23">July 23</a> – <a href="/wiki/Aires_de_Ornelas_e_Vasconcelos" title="Aires de Ornelas e Vasconcelos">Aires de Ornelas e Vasconcelos</a> is appointed the Archbishop of the Portuguese colonial enclave of <a href="/wiki/Goa" title="Goa">Goa</a>.</li>
+<li><a href="/wiki/July_24" title="July 24">July 24</a> – <a href="/wiki/Mathew_Evans" title="Mathew Evans">Mathew Evans</a> and <a href="/wiki/Henry_Woodward_(inventor)" title="Henry Woodward (inventor)">Henry Woodward</a> patent the first <a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">incandescent lamp</a> with an electric light bulb.</li>
+<li><a href="/wiki/July_24" title="July 24">July 24</a> – <a href="/w/index.php?title=Sack_of_Cuenca&amp;action=edit&amp;redlink=1" class="new" title="Sack of Cuenca (page does not exist)">Sack of Cuenca</a> (<a href="/wiki/Third_Carlist_War" title="Third Carlist War">Third Carlist War</a>): After Carlist forces successfully defended Estella, Don Alfonso de Bourbon, brother of the Don Carlos VII, led 14,000 Catalan Carlists south to attack Cuenca 136&#160;km from Madrid, held by Republicans under Don Hilario Lozano. After two days the outnumbered garrison capitulated but Don Alfonso permitted a terrible slaughter. The city is sacked. Subsequently another republican force defeats the disorderly Catalans who flee back to the Ebro.</li>
+<li><a href="/wiki/July_31" title="July 31">July 31</a> –July 31, 1874 - <a href="/wiki/Patrick_Francis_Healy" title="Patrick Francis Healy">Patrick Francis Healy</a>, S.J., first Black man to receive a PhD, inaugurated as president of Georgetown University, the oldest Catholic University in America, and became the first Black to head a predominantly white university</li>
+<li><a href="/wiki/August_11" title="August 11">August 11</a> – <a href="/w/index.php?title=Battle_of_Oteiza&amp;action=edit&amp;redlink=1" class="new" title="Battle of Oteiza (page does not exist)">Battle of Oteiza</a> (<a href="/wiki/Third_Carlist_War" title="Third Carlist War">Third Carlist War</a>): Two months after Government forces were repulsed from Carlist-held Estella, in Navarre, Republican General Domingo Moriones made a fresh diversionary attack a few miles to the southeast at Oteiza. In heavy fighting Moriones secured a costly tactical victory over Carlist General Torcuato Mendíri, but the war continued another 18 months before Estella finally fell.</li>
+<li><a href="/wiki/September_14" title="September 14">September 14</a> — <a href="/wiki/Battle_of_Liberty_Place" title="Battle of Liberty Place">Battle of Liberty Place</a>: In <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>, former Confederate Army members of the <a href="/wiki/White_League" title="White League">White League</a> temporarily drive Republican Governor <a href="/wiki/William_P._Kellogg" class="mw-redirect" title="William P. Kellogg">William P. Kellogg</a> from office, replacing him with former Democratic Governor <a href="/wiki/John_McEnery_(Louisiana)" title="John McEnery (Louisiana)">John McEnery</a>. U.S. Army troops restore Kellogg to office five days later.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li><a href="/wiki/September_28" title="September 28">September 28</a> — <a href="/wiki/Texas%E2%80%93Indian_wars" title="Texas–Indian wars">Texas–Indian wars</a>: U.S. Army Colonel <a href="/wiki/Ranald_S._Mackenzie" title="Ranald S. Mackenzie">Ranald S. Mackenzie</a> leads his force of 600 men on the successful raid of the last sanctuary of the <a href="/wiki/Kiowa_people" class="mw-redirect" title="Kiowa people">Kiowa</a>, <a href="/wiki/Comanche_people" class="mw-redirect" title="Comanche people">Comanche</a> and <a href="/wiki/Cheyenne_people" class="mw-redirect" title="Cheyenne people">Cheyenne</a> Indian tribes, a village inside the <a href="/wiki/Palo_Duro_Canyon" title="Palo Duro Canyon">Palo Duro Canyon</a> in Texas, and carries out their removal to the designated Indian reservations in <a href="/wiki/Oklahoma" title="Oklahoma">Oklahoma</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="October.E2.80.93December">October–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=5" title="Edit section: October–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/October_9" title="October 9">October 9</a> – <a href="/wiki/Treaty_of_Bern" title="Treaty of Bern">Treaty of Bern</a> establishes the <a href="/wiki/General_Postal_Union" class="mw-redirect" title="General Postal Union">General Postal Union</a> to coordinate the exchange of international mail.</li>
+<li><a href="/wiki/October_19" title="October 19">October 19</a> – The modern <a href="/wiki/University_of_Zagreb" title="University of Zagreb">University of Zagreb</a> is founded in <a href="/wiki/Zagreb" title="Zagreb">Zagreb</a>.</li>
+<li><a href="/wiki/November_2" title="November 2">November 2</a> – The first issue of <a href="/wiki/Japanese_language" title="Japanese language">Japanese language</a> newspaper <i><a href="/wiki/Yomiuri_Shinbun" class="mw-redirect" title="Yomiuri Shinbun">Yomiuri Shinbun</a></i> published in <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>, <a href="/wiki/Japan" title="Japan">Japan</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/November_4" title="November 4">November 4</a> – <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democrats</a> gain control of the <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">United States House of Representatives</a> for the first time since 1860.</li>
+<li><a href="/wiki/November_7" title="November 7">November 7</a> – <i><a href="/wiki/Harper%27s_Weekly" title="Harper's Weekly">Harper's Weekly</a></i> publishes a <a href="/wiki/Cartoon" title="Cartoon">cartoon</a> by <a href="/wiki/Thomas_Nast" title="Thomas Nast">Thomas Nast</a> which is the first use of an <a href="/wiki/Elephant" title="Elephant">elephant</a> as a symbol for the <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican Party</a> in the United States.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li><a href="/wiki/November_9" title="November 9">November 9</a> – New York Zoo hoax, a supposed breakout of animals from the <a href="/wiki/Central_Park_Zoo" title="Central Park Zoo">Central Park Zoo</a>.</li>
+<li><a href="/wiki/November_10" title="November 10">November 10</a> – <a href="/wiki/John_Ernst_Worrell_Keely" title="John Ernst Worrell Keely">John Ernst Worrell Keely</a> demonstrates his "induction resonance motion motor", a <a href="/wiki/Perpetual_motion_machine" class="mw-redirect" title="Perpetual motion machine">perpetual motion machine</a> which eventually turns out to be a fraud.</li>
+<li><a href="/wiki/November_11" title="November 11">November 11</a> – The <a href="/wiki/Gamma_Phi_Beta" title="Gamma Phi Beta">Gamma Phi Beta</a> <a href="/wiki/Sorority" class="mw-redirect" title="Sorority">sorority</a> is founded at <a href="/wiki/Syracuse_University" title="Syracuse University">Syracuse University</a>. This is the first women's Greek letter organization to be called a <a href="/wiki/Sorority" class="mw-redirect" title="Sorority">sorority</a>.</li>
+<li><a href="/wiki/November_25" title="November 25">November 25</a> – The <a href="/wiki/United_States_Greenback_Party" class="mw-redirect" title="United States Greenback Party">United States Greenback Party</a> is established as a <a href="/wiki/Political_party" title="Political party">political party</a>, made primarily of farmers financially hurt by the <a href="/wiki/Panic_of_1873" title="Panic of 1873">Panic of 1873</a>.</li>
+<li><a href="/wiki/December_1" title="December 1">December 1</a> – <a href="/wiki/Iceland" title="Iceland">Iceland</a> is granted a <a href="/wiki/Constitution" title="Constitution">constitution</a> and limited home rule from Denmark.</li>
+<li><a href="/wiki/December_29" title="December 29">December 29</a> – General Martínez and Brigadier General Luís Daban stage a <i>pronunciamento</i> at <a href="/wiki/Sagunto" title="Sagunto">Sagunto</a> and proclaim Isabel's son <a href="/wiki/Alfonso_XII" class="mw-redirect" title="Alfonso XII">Alfonso</a> as King of Spain. Subsequently the Madrid garrison follows suit and the <a href="/wiki/First_Spanish_Republic" title="First Spanish Republic">First Spanish Republic</a> comes to an end.</li>
+</ul>
+<h3><span class="mw-headline" id="Date_unknown">Date unknown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=6" title="Edit section: Date unknown">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The <a href="/wiki/Agra_Canal" title="Agra Canal">Agra Canal</a> opens in India.</li>
+<li><a href="/wiki/St._Nicholas%27_Church,_Hamburg" title="St. Nicholas' Church, Hamburg">St. Nicholas' Church, Hamburg</a>, designed by <a href="/wiki/English_people" title="English people">English</a> <a href="/wiki/Architect" title="Architect">architect</a> <a href="/wiki/George_Gilbert_Scott" title="George Gilbert Scott">George Gilbert Scott</a>, is completed. Its 147 metres (482&#160;ft)-tall <a href="/wiki/Spire" title="Spire">spire</a> makes it (briefly, and by 5m) the <a href="/wiki/List_of_tallest_buildings_and_structures_in_the_world" class="mw-redirect" title="List of tallest buildings and structures in the world">world's tallest building</a> (a title held since <a href="/wiki/1647" title="1647">1647</a> by <a href="/wiki/Strasbourg_Cathedral" title="Strasbourg Cathedral">Strasbourg Cathedral</a>).</li>
+<li>The <a href="/wiki/House_of_Keys" title="House of Keys">House of Keys</a>, lower house of the <a href="/wiki/Tynwald" title="Tynwald">Tynwald</a>, the <a href="/wiki/Legislature" title="Legislature">legislature</a> of the <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a>, moves from <a href="/wiki/Castletown,_Isle_of_Man" title="Castletown, Isle of Man">Castletown</a> to <a href="/wiki/Douglas,_Isle_of_Man" title="Douglas, Isle of Man">Douglas</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li><a href="/wiki/Charles_Taze_Russell" title="Charles Taze Russell">Charles Taze Russell</a> and the <a href="/wiki/Bible_Student_movement" title="Bible Student movement">Bible Student movement</a> claim this year marks the invisible return of Jesus Christ to earth.</li>
+<li><a href="/wiki/Gold" title="Gold">Gold</a> is discovered in the <a href="/wiki/Black_Hills" title="Black Hills">Black Hills</a>.</li>
+<li>The <a href="/wiki/San_Diego_Natural_History_Museum" title="San Diego Natural History Museum">San Diego Natural History Museum</a> is founded.</li>
+<li>The following <a href="/wiki/Association_football" title="Association football">Association football</a> clubs are founded in Great Britain:
+<ul>
+<li><a href="/wiki/Aston_Villa_F.C." title="Aston Villa F.C.">Aston Villa</a>.</li>
+<li><a href="/wiki/Bolton_Wanderers_F.C." title="Bolton Wanderers F.C.">Bolton Wanderers</a> (as Christ Church F.C.)</li>
+<li><a href="/wiki/Greenock_Morton_F.C." title="Greenock Morton F.C.">Greenock Morton</a>.</li>
+<li><a href="/wiki/Heart_of_Midlothian_F.C." title="Heart of Midlothian F.C.">Heart of Midlothian</a>.</li>
+</ul>
+</li>
+<li>English chemist <a href="/wiki/C._R._Alder_Wright" class="mw-redirect" title="C. R. Alder Wright">C. R. Alder Wright</a> synthetizes <a href="/wiki/Heroin" title="Heroin">heroin</a> for the first time.</li>
+<li>Supreme Council 33° Ancient and Accepted Scottish Rite of Freemasonry of Canada is founded.</li>
+<li>The medieval <a href="/wiki/Frankish_Tower_(Acropolis_of_Athens)" title="Frankish Tower (Acropolis of Athens)">Frankish Tower</a> on the <a href="/wiki/Acropolis_of_Athens" title="Acropolis of Athens">Acropolis of Athens</a> is demolished.</li>
+</ul>
+<h2><span class="mw-headline" id="Births">Births</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=7" title="Edit section: Births">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January.E2.80.93March_2">January–March</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=8" title="Edit section: January–March">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:122px;"><a href="/wiki/File:John_D._Rockefeller_Jr..jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/John_D._Rockefeller_Jr..jpg/120px-John_D._Rockefeller_Jr..jpg" width="120" height="120" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/John_D._Rockefeller_Jr..jpg/180px-John_D._Rockefeller_Jr..jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/John_D._Rockefeller_Jr..jpg/240px-John_D._Rockefeller_Jr..jpg 2x" data-file-width="402" data-file-height="402" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:John_D._Rockefeller_Jr..jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/John_D._Rockefeller_Jr." title="John D. Rockefeller Jr.">John D. Rockefeller Jr.</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:122px;"><a href="/wiki/File:Honus_Wagner_(crop).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Honus_Wagner_%28crop%29.JPG/120px-Honus_Wagner_%28crop%29.JPG" width="120" height="116" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Honus_Wagner_%28crop%29.JPG/180px-Honus_Wagner_%28crop%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Honus_Wagner_%28crop%29.JPG/240px-Honus_Wagner_%28crop%29.JPG 2x" data-file-width="355" data-file-height="342" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Honus_Wagner_(crop).JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Honus_Wagner" title="Honus Wagner">Honus Wagner</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:122px;"><a href="/wiki/File:HarryHoudini1899.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/HarryHoudini1899.jpg/120px-HarryHoudini1899.jpg" width="120" height="203" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/HarryHoudini1899.jpg/180px-HarryHoudini1899.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/HarryHoudini1899.jpg/240px-HarryHoudini1899.jpg 2x" data-file-width="646" data-file-height="1093" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HarryHoudini1899.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Harry_Houdini" title="Harry Houdini">Harry Houdini</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:122px;"><a href="/wiki/File:Robert_Frost_NYWTS.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Robert_Frost_NYWTS.jpg/120px-Robert_Frost_NYWTS.jpg" width="120" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Robert_Frost_NYWTS.jpg/180px-Robert_Frost_NYWTS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Robert_Frost_NYWTS.jpg/240px-Robert_Frost_NYWTS.jpg 2x" data-file-width="2177" data-file-height="2837" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Robert_Frost_NYWTS.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Robert_Frost" title="Robert Frost">Robert Frost</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/January_1" title="January 1">January 1</a> – <a href="/wiki/Gustave_Whitehead" title="Gustave Whitehead">Gustav Albin Weißkopf</a>, German-born aviation pioneer (d. <a href="/wiki/1927" title="1927">1927</a>)</li>
+<li><a href="/wiki/January_4" title="January 4">January 4</a> – <a href="/wiki/Josef_Suk_(composer)" title="Josef Suk (composer)">Josef Suk</a>, Czech composer and violinist (d. <a href="/wiki/1935" title="1935">1935</a>)</li>
+<li><a href="/wiki/January_5" title="January 5">January 5</a> – <a href="/wiki/Joseph_Erlanger" title="Joseph Erlanger">Joseph Erlanger</a>, American physiologist, <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize</a> laureate (d. <a href="/wiki/1965" title="1965">1965</a>)</li>
+<li><a href="/wiki/January_13" title="January 13">January 13</a> – <a href="/wiki/Alexandros_Hatzikyriakos" title="Alexandros Hatzikyriakos">Alexandros Hatzikyriakos</a>, Greek admiral and politician (d. <a href="/wiki/1958" title="1958">1958</a>)</li>
+<li><a href="/wiki/January_16" title="January 16">January 16</a> – <a href="/wiki/Robert_W._Service" title="Robert W. Service">Robert W. Service</a>, American poet (d. <a href="/wiki/1958" title="1958">1958</a>)</li>
+<li><a href="/wiki/January_20" title="January 20">January 20</a> – <a href="/wiki/Steve_Bloomer" title="Steve Bloomer">Steve Bloomer</a>, English footballer, cricketer and baseball player (d. <a href="/wiki/1938" title="1938">1938</a>)</li>
+<li><a href="/wiki/January_21" title="January 21">January 21</a> – <a href="/wiki/Frederick_Madison_Smith" class="mw-redirect" title="Frederick Madison Smith">Frederick Madison Smith</a>, American religious leader and author (d. <a href="/wiki/1946" title="1946">1946</a>)</li>
+<li><a href="/wiki/January_25" title="January 25">January 25</a> – <a href="/wiki/W._Somerset_Maugham" title="W. Somerset Maugham">William Somerset Maugham</a>, English author (d. <a href="/wiki/1965" title="1965">1965</a>)</li>
+<li><a href="/wiki/January_28" title="January 28">January 28</a> – <a href="/wiki/Vsevolod_Meyerhold" title="Vsevolod Meyerhold">Vsevolod Meyerhold</a>, Russian Theatre Practitioner (d. <a href="/wiki/1940" title="1940">1940</a>)</li>
+<li><a href="/wiki/January_29" title="January 29">January 29</a> – <a href="/wiki/John_D._Rockefeller_Jr." title="John D. Rockefeller Jr.">John D. Rockefeller Jr.</a>, American entrepreneur (d. <a href="/wiki/1960" title="1960">1960</a>)</li>
+<li><a href="/wiki/February_1" title="February 1">February 1</a> – <a href="/wiki/Hugo_von_Hofmannsthal" title="Hugo von Hofmannsthal">Hugo von Hofmannsthal</a>, Austrian writer (d. <a href="/wiki/1929" title="1929">1929</a>)</li>
+<li><a href="/wiki/February_2" title="February 2">February 2</a> – <a href="/wiki/William_T._Innes" title="William T. Innes">William T. Innes</a>, American writer, ichthyologist, publisher (d. <a href="/wiki/1969" title="1969">1969</a>)</li>
+<li><a href="/wiki/February_3" title="February 3">February 3</a> – <a href="/wiki/Gertrude_Stein" title="Gertrude Stein">Gertrude Stein</a>, American writer and patron of the arts (d. <a href="/wiki/1946" title="1946">1946</a>)</li>
+<li><a href="/wiki/February_6" title="February 6">February 6</a> – <a href="/wiki/Henry_C._Mustin" title="Henry C. Mustin">Henry C. Mustin</a>, American naval aviation pioneer (d. <a href="/wiki/1923" title="1923">1923</a>)</li>
+<li><a href="/wiki/February_9" title="February 9">February 9</a> – <a href="/wiki/Amy_Lowell" title="Amy Lowell">Amy Lowell</a>, American poet (d. <a href="/wiki/1925" title="1925">1925</a>)</li>
+<li><a href="/wiki/February_11" title="February 11">February 11</a>
+<ul>
+<li><a href="/wiki/Elsa_Beskow" title="Elsa Beskow">Elsa Beskow</a>, Swedish writer (d. <a href="/wiki/1953" title="1953">1953</a>)</li>
+<li><a href="/wiki/Fritz_Hart" title="Fritz Hart">Fritz Hart</a>, English-born composer (d. <a href="/wiki/1949" title="1949">1949</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/February_15" title="February 15">February 15</a> – Sir <a href="/wiki/Ernest_Shackleton" title="Ernest Shackleton">Ernest Shackleton</a>, Irish explorer (d. <a href="/wiki/1922" title="1922">1922</a>)</li>
+<li><a href="/wiki/February_17" title="February 17">February 17</a> – <a href="/wiki/Thomas_J._Watson" title="Thomas J. Watson">Thomas J. Watson</a>, American computer pioneer (d. <a href="/wiki/1956" title="1956">1956</a>)</li>
+<li><a href="/wiki/February_20" title="February 20">February 20</a> – <a href="/wiki/Mary_Garden" title="Mary Garden">Mary Garden</a>, American opera soprano of Scots descent (some sources state her birth year as 1877) (d. <a href="/wiki/1967" title="1967">1967</a>)</li>
+<li><a href="/wiki/February_23" title="February 23">February 23</a> – <a href="/wiki/Konstantin_P%C3%A4ts" title="Konstantin Päts">Konstantin Päts</a>, Estonian president (d. <a href="/wiki/1956" title="1956">1956</a>)</li>
+<li><a href="/wiki/February_24" title="February 24">February 24</a> – <a href="/wiki/Honus_Wagner" title="Honus Wagner">Honus Wagner</a>, baseball player (d. <a href="/wiki/1955" title="1955">1955</a>)</li>
+<li><a href="/wiki/March_4" title="March 4">March 4</a> – <a href="/wiki/Stephen_Victor_Graham" title="Stephen Victor Graham">Stephen Victor Graham</a>, <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a> Rear Admiral and 18th <a href="/wiki/Governor_of_American_Samoa" class="mw-redirect" title="Governor of American Samoa">Governor of American Samoa</a> (d. <a href="/wiki/1955" title="1955">1955</a>)</li>
+<li><a href="/wiki/March_5" title="March 5">March 5</a> – <a href="/wiki/Henry_Travers" title="Henry Travers">Henry Travers</a>, English actor (d. <a href="/wiki/1965" title="1965">1965</a>)</li>
+<li><a href="/wiki/March_11" title="March 11">March 11</a> – <a href="/wiki/Charles_Sumner" title="Charles Sumner">Charles Sumner</a>, American senator and civil rights activist (b. <a href="/wiki/1811" title="1811">1811</a>)</li>
+<li><a href="/wiki/March_12" title="March 12">March 12</a> – <a href="/wiki/Charles_Weeghman" title="Charles Weeghman">Charles Weeghman</a>, American restaurateur and owner of Chicago Cubs (d. <a href="/wiki/1938" title="1938">1938</a>)</li>
+<li><a href="/wiki/March_20" title="March 20">March 20</a> – <a href="/wiki/B%C3%B6rries_von_M%C3%BCnchhausen" title="Börries von Münchhausen">Börries von Münchhausen</a>, German poet (d. <a href="/wiki/1945" title="1945">1945</a>)</li>
+<li><a href="/wiki/March_24" title="March 24">March 24</a> – <a href="/wiki/Harry_Houdini" title="Harry Houdini">Harry Houdini</a>, Hungarian-born magician (d. <a href="/wiki/1926" title="1926">1926</a>)</li>
+<li><a href="/wiki/March_26" title="March 26">March 26</a> – <a href="/wiki/Robert_Frost" title="Robert Frost">Robert Frost</a>, American poet (d. <a href="/wiki/1963" title="1963">1963</a>)</li>
+<li><a href="/wiki/March_29" title="March 29">March 29</a> – <a href="/wiki/Lou_Henry_Hoover" title="Lou Henry Hoover">Lou Henry Hoover</a>, <a href="/wiki/First_Lady_of_the_United_States" title="First Lady of the United States">First Lady of the United States</a> (d. <a href="/wiki/1944" title="1944">1944</a>)</li>
+<li><a href="/wiki/March_30" title="March 30">March 30</a> – <a href="/wiki/Charles_Herbert_Lightoller" class="mw-redirect" title="Charles Herbert Lightoller">Charles Herbert Lightoller</a>, 2nd Officer of the <a href="/wiki/RMS_Titanic" title="RMS Titanic">RMS Titanic</a> (d. <a href="/wiki/1952" title="1952">1952</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="April.E2.80.93June_2">April–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=9" title="Edit section: April–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Guglielmo_Marconi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Guglielmo_Marconi.jpg/110px-Guglielmo_Marconi.jpg" width="110" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Guglielmo_Marconi.jpg/165px-Guglielmo_Marconi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Guglielmo_Marconi.jpg/220px-Guglielmo_Marconi.jpg 2x" data-file-width="987" data-file-height="1314" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Guglielmo_Marconi.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Guglielmo_Marconi" title="Guglielmo Marconi">Guglielmo Marconi</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Howard_carter.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Howard_carter.jpg/110px-Howard_carter.jpg" width="110" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Howard_carter.jpg/165px-Howard_carter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Howard_carter.jpg/220px-Howard_carter.jpg 2x" data-file-width="346" data-file-height="473" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Howard_carter.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Howard_Carter" title="Howard Carter">Howard Carter</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/April_8" title="April 8">April 8</a> – <a href="/wiki/Stanis%C5%82aw_Taczak" title="Stanisław Taczak">Stanisław Taczak</a>, Polish general, commander-in-chief of the Greater Poland Uprising (d. <a href="/wiki/1960" title="1960">1960</a>)</li>
+<li><a href="/wiki/April_15" title="April 15">April 15</a> – <a href="/wiki/Johannes_Stark" title="Johannes Stark">Johannes Stark</a>, German physicist, <a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize</a> laureate (d. <a href="/wiki/1957" title="1957">1957</a>)</li>
+<li><a href="/wiki/April_19" title="April 19">April 19</a> – <a href="/wiki/Ernst_R%C3%BCdin" title="Ernst Rüdin">Ernst Rüdin</a>, Swiss psychiatrist and geneticist (d. <a href="/wiki/1952" title="1952">1952</a>)</li>
+<li><a href="/wiki/April_25" title="April 25">April 25</a> – <a href="/wiki/Guglielmo_Marconi" title="Guglielmo Marconi">Guglielmo Marconi</a>, Italian inventor, recipient of the <a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (d. <a href="/wiki/1937" title="1937">1937</a>)</li>
+<li><a href="/wiki/April_28" title="April 28">April 28</a> – <a href="/wiki/Sidney_Toler" title="Sidney Toler">Sidney Toler</a>, American actor, playwright and Theatre director (d. <a href="/wiki/1947" title="1947">1947</a>)</li>
+<li><a href="/wiki/May_3" title="May 3">May 3</a> – <a href="/wiki/Fran%C3%A7ois_Coty" title="François Coty">François Coty</a>, French perfume manufacturer (d. <a href="/wiki/1934" title="1934">1934</a>)</li>
+<li><a href="/wiki/May_7" title="May 7">May 7</a> – <a href="/wiki/Ilmari_Kianto" title="Ilmari Kianto">Ilmari Kianto</a>, Finnish poet (d. <a href="/wiki/1970" title="1970">1970</a>)</li>
+<li><a href="/wiki/May_9" title="May 9">May 9</a> – <a href="/wiki/Howard_Carter" title="Howard Carter">Howard Carter</a>, British archaeologist (d. <a href="/wiki/1939" title="1939">1939</a>)</li>
+<li><a href="/wiki/May_14" title="May 14">May 14</a> – <a href="/wiki/Polaire" title="Polaire">Polaire</a>, French actress and singer (d. <a href="/wiki/1939" title="1939">1939</a>)</li>
+<li><a href="/wiki/May_19" title="May 19">May 19</a> – <a href="/wiki/Gilbert_Jessop" title="Gilbert Jessop">Gilbert Jessop</a>, English cricketer (d. <a href="/wiki/1955" title="1955">1955</a>)</li>
+<li><a href="/wiki/May_26" title="May 26">May 26</a> – <a href="/wiki/Henri_Farman" title="Henri Farman">Henri Farman</a>, pioneer French pilot and aircraft designer (d. <a href="/wiki/1958" title="1958">1958</a>)</li>
+<li><a href="/wiki/May_29" title="May 29">May 29</a> – <a href="/wiki/G._K._Chesterton" title="G. K. Chesterton">G. K. Chesterton</a>, English author (d. <a href="/wiki/1936" title="1936">1936</a>)</li>
+<li><a href="/wiki/June_11" title="June 11">June 11</a> – <a href="/wiki/Lyman_Gilmore" title="Lyman Gilmore">Lyman Gilmore</a>, American aviation pioneer (d. <a href="/wiki/1951" title="1951">1951</a>)</li>
+<li><a href="/wiki/June_16" title="June 16">June 16</a> – <a href="/wiki/Arthur_Meighen" title="Arthur Meighen">Arthur Meighen</a>, 9th <a href="/wiki/Prime_Minister_of_Canada" title="Prime Minister of Canada">Prime Minister of Canada</a> (d. <a href="/wiki/1960" title="1960">1960</a>)</li>
+<li><a href="/wiki/June_19" title="June 19">June 19</a> – <a href="/wiki/Peder_Oluf_Pedersen" title="Peder Oluf Pedersen">Peder Oluf Pedersen</a>, Danish engineer and physicist (d. <a href="/wiki/1941" title="1941">1941</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93September_2">July–September</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=10" title="Edit section: July–September">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Herbert_Hoover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Herbert_Hoover.jpg/110px-Herbert_Hoover.jpg" width="110" height="136" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Herbert_Hoover.jpg/165px-Herbert_Hoover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Herbert_Hoover.jpg/220px-Herbert_Hoover.jpg 2x" data-file-width="912" data-file-height="1131" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Herbert_Hoover.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Herbert_Hoover" title="Herbert Hoover">Herbert Hoover</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Carl_Bosch.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Carl_Bosch.jpg/110px-Carl_Bosch.jpg" width="110" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Carl_Bosch.jpg/165px-Carl_Bosch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Carl_Bosch.jpg/220px-Carl_Bosch.jpg 2x" data-file-width="280" data-file-height="396" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Carl_Bosch.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Carl_Bosch" title="Carl Bosch">Carl Bosch</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/July_3" title="July 3">July 3</a> – <a href="/wiki/Richard_B._Bennett" class="mw-redirect" title="Richard B. Bennett">Richard B. Bennett</a>, 11th <a href="/wiki/Prime_Minister_of_Canada" title="Prime Minister of Canada">Prime Minister of Canada</a> (d. <a href="/wiki/1947" title="1947">1947</a>)</li>
+<li><a href="/wiki/July_4" title="July 4">July 4</a>? – <a href="/wiki/Moloko_Temo" title="Moloko Temo">Moloko Temo</a>, South African supercentenarian (d. <a href="/wiki/2009" title="2009">2009</a>)</li>
+<li><a href="/wiki/July_14" title="July 14">July 14</a> – <a href="/wiki/Abbas_II_of_Egypt" title="Abbas II of Egypt">Abbas II</a>, last khedive of Egypt (d. <a href="/wiki/1944" title="1944">1944</a>)</li>
+<li><a href="/wiki/July_25" title="July 25">July 25</a> – <a href="/wiki/Alfred_Walton_Hinds" title="Alfred Walton Hinds">Alfred Walton Hinds</a>, 17th <a href="/wiki/Naval_Governor_of_Guam" class="mw-redirect" title="Naval Governor of Guam">Naval Governor of Guam</a> (d. <a href="/wiki/1957" title="1957">1957</a>)</li>
+<li><a href="/wiki/July_26" title="July 26">July 26</a> – <a href="/wiki/Serge_Koussevitzky" title="Serge Koussevitzky">Serge Koussevitzky</a>, Russian conductor (d. <a href="/wiki/1951" title="1951">1951</a>)</li>
+<li><a href="/wiki/July_27" title="July 27">July 27</a> – <a href="/wiki/Frank_Shannon" title="Frank Shannon">Frank Shannon</a>, American actor (d. <a href="/wiki/1959" title="1959">1959</a>)</li>
+<li><a href="/wiki/July_29" title="July 29">July 29</a> – <a href="/wiki/J._S._Woodsworth" title="J. S. Woodsworth">J. S. Woodsworth</a>, Canadian politician (d. <a href="/wiki/1942" title="1942">1942</a>)</li>
+<li><a href="/wiki/August_6" title="August 6">August 6</a> – <a href="/wiki/Charles_Fort" title="Charles Fort">Charles Fort</a>, <a href="/wiki/Dutch-American" class="mw-redirect" title="Dutch-American">Dutch-American</a> writer and researcher into anomalous phenomena (d. <a href="/wiki/1932" title="1932">1932</a>)</li>
+<li><a href="/wiki/August_8" title="August 8">August 8</a> – <a href="/wiki/Albert_Stanley,_1st_Baron_Ashfield" title="Albert Stanley, 1st Baron Ashfield">Albert Stanley, 1st Baron Ashfield</a>, British-American businessman (d. <a href="/wiki/1948" title="1948">1948</a>)</li>
+<li><a href="/wiki/August_10" title="August 10">August 10</a>
+<ul>
+<li><a href="/wiki/Herbert_Hoover" title="Herbert Hoover">Herbert Hoover</a>, 31st <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a> (d. <a href="/wiki/1964" title="1964">1964</a>)</li>
+<li><a href="/wiki/Jir%C5%8D_Minami" title="Jirō Minami">Jirō Minami</a>, Japanese general and <a href="/wiki/Governor-General_of_Korea" title="Governor-General of Korea">Governor-General of Korea</a> (1936-1942) (d. <a href="/wiki/1955" title="1955">1955</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/August_27" title="August 27">August 27</a> – <a href="/wiki/Carl_Bosch" title="Carl Bosch">Carl Bosch</a>, German chemist, <a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize</a> laureate (d. <a href="/wiki/1940" title="1940">1940</a>)</li>
+<li><a href="/wiki/September_12" title="September 12">September 12</a>
+<ul>
+<li><a href="/wiki/Paul_Kuhn_(tenor)" title="Paul Kuhn (tenor)">Paul Kuhn</a>, German operatic tenor (d. <a href="/wiki/1966" title="1966">1966</a>)</li>
+<li><a href="/wiki/Redcliffe_N._Salaman" title="Redcliffe N. Salaman">Redcliffe N. Salaman</a>, British botanist (d. <a href="/wiki/1955" title="1955">1955</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/September_13" title="September 13">September 13</a>
+<ul>
+<li><a href="/wiki/Henry_Fountain_Ashurst" class="mw-redirect" title="Henry Fountain Ashurst">Henry Fountain Ashurst</a>, American politician (d. <a href="/wiki/1962" title="1962">1962</a>)</li>
+<li><a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Arnold Schoenberg</a>, Austrian composer (d. <a href="/wiki/1951" title="1951">1951</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/September_21" title="September 21">September 21</a> – <a href="/wiki/Gustav_Holst" title="Gustav Holst">Gustav Holst</a>, English composer (d. <a href="/wiki/1934" title="1934">1934</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="October.E2.80.93December_2">October–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=11" title="Edit section: October–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Sir_Winston_S_Churchill.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/110px-Sir_Winston_S_Churchill.jpg" width="110" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/165px-Sir_Winston_S_Churchill.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/220px-Sir_Winston_S_Churchill.jpg 2x" data-file-width="2730" data-file-height="3407" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sir_Winston_S_Churchill.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:King1941Two.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/King1941Two.jpg/110px-King1941Two.jpg" width="110" height="138" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/King1941Two.jpg/165px-King1941Two.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/King1941Two.jpg/220px-King1941Two.jpg 2x" data-file-width="384" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:King1941Two.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/William_Lyon_Mackenzie_King" title="William Lyon Mackenzie King">William Lyon Mackenzie King</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/October_3" title="October 3">October 3</a> – <a href="/wiki/Charles_B._Middleton" class="mw-redirect" title="Charles B. Middleton">Charles B. Middleton</a>, American actor (d. <a href="/wiki/1949" title="1949">1949</a>)</li>
+<li><a href="/wiki/October_8" title="October 8">October 8</a> – <a href="/wiki/Nance_O%27Neil" title="Nance O'Neil">Nance O'Neil</a>, stage &amp; film actress, friend of <a href="/wiki/Lizzie_Borden" title="Lizzie Borden">Lizzie Borden</a> (d. <a href="/wiki/1965" title="1965">1965</a>)</li>
+<li><a href="/wiki/October_9" title="October 9">October 9</a> – <a href="/wiki/Nicholas_Roerich" title="Nicholas Roerich">Nicholas Roerich</a>, Russian painter (d. <a href="/wiki/1947" title="1947">1947</a>)</li>
+<li><a href="/wiki/October_13" title="October 13">October 13</a> – <a href="/wiki/J%C3%B3zsef_Klekl_(politician)" title="József Klekl (politician)">József Klekl</a>, <a href="/wiki/Slovenes" title="Slovenes">Slovene</a> politician in Hungary (d. <a href="/wiki/1948" title="1948">1948</a>)</li>
+<li><a href="/wiki/October_15" title="October 15">October 15</a> – Prince <a href="/wiki/Prince_Alfred_of_Edinburgh" class="mw-redirect" title="Prince Alfred of Edinburgh">Alfred of Edinburgh and Saxe-Coburg-Gotha</a> (d. <a href="/wiki/1899" title="1899">1899</a>)</li>
+<li><a href="/wiki/October_20" title="October 20">October 20</a> – <a href="/wiki/Charles_Ives" title="Charles Ives">Charles Ives</a>, American composer (d. <a href="/wiki/1954" title="1954">1954</a>)</li>
+<li><a href="/wiki/October_26" title="October 26">October 26</a> – <a href="/wiki/Martin_Lowry" title="Martin Lowry">Martin Lowry</a>, English chemist (d. <a href="/wiki/1936" title="1936">1936</a>)</li>
+<li>November – <a href="/wiki/Salima_Machamba" title="Salima Machamba">Salima Machamba</a> <a href="/wiki/List_of_sultans_on_the_Comoros" title="List of sultans on the Comoros">Sultan of Mohéli</a> (d. <a href="/wiki/1964" title="1964">1964</a>)</li>
+<li><a href="/wiki/November_15" title="November 15">November 15</a> – <a href="/wiki/August_Krogh" title="August Krogh">August Krogh</a>, Danish zoophysiologist, recipient of the <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (d. <a href="/wiki/1949" title="1949">1949</a>)</li>
+<li><a href="/wiki/November_29" title="November 29">November 29</a> – <a href="/wiki/Egas_Moniz" class="mw-redirect" title="Egas Moniz">Egas Moniz</a>, Portuguese physician and neurologist, recipient of the <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (d. <a href="/wiki/1955" title="1955">1955</a>)</li>
+<li><a href="/wiki/November_30" title="November 30">November 30</a>
+<ul>
+<li><a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a>, <a href="/wiki/Prime_Minister_of_the_United_Kingdom" title="Prime Minister of the United Kingdom">Prime Minister of the United Kingdom</a>, recipient of the <a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a> (d. <a href="/wiki/1965" title="1965">1965</a>)</li>
+<li><a href="/wiki/Lucy_Maud_Montgomery" title="Lucy Maud Montgomery">Lucy Maud Montgomery</a>, Canadian author (d. <a href="/wiki/1942" title="1942">1942</a>)</li>
+<li><a href="/wiki/Friedrich_Hasen%C3%B6hrl" title="Friedrich Hasenöhrl">Friedrich Hasenöhrl</a>, Austrian physicist (d. <a href="/wiki/1915" title="1915">1915</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/December_7" title="December 7">December 7</a> – <a href="/wiki/James_L._Kraft" title="James L. Kraft">James L. Kraft</a>, Canadian-American entrepreneur and inventor (d. <a href="/wiki/1953" title="1953">1953</a>)</li>
+<li><a href="/wiki/December_13" title="December 13">December 13</a> – <a href="/wiki/Josef_Lh%C3%A9vinne" title="Josef Lhévinne">Josef Lhévinne</a>, Russian pianist (d. <a href="/wiki/1944" title="1944">1944</a>)</li>
+<li><a href="/wiki/December_17" title="December 17">December 17</a> – <a href="/wiki/William_Lyon_Mackenzie_King" title="William Lyon Mackenzie King">William Lyon Mackenzie King</a>, 10th <a href="/wiki/Prime_Minister_of_Canada" title="Prime Minister of Canada">Prime Minister of Canada</a> (d. <a href="/wiki/1950" title="1950">1950</a>)</li>
+<li><a href="/wiki/December_22" title="December 22">December 22</a> – <a href="/wiki/Franz_Schmidt" title="Franz Schmidt">Franz Schmidt</a>, Austrian composer (d. <a href="/wiki/1939" title="1939">1939</a>)</li>
+<li><a href="/wiki/December_26" title="December 26">December 26</a> – <a href="/wiki/Khan_Bahadur_Ahsanullah" title="Khan Bahadur Ahsanullah">Khan Bahadur Ahsanullah</a>, great Educationist, Philosopher, Philanthropist, Social Reformer, Sufi Thinker, Scientist and Spiritual Person (d. <a href="/wiki/1965" title="1965">1965</a>)</li>
+<li><a href="/wiki/December_29" title="December 29">December 29</a>
+<ul>
+<li><a href="/wiki/Thomas_W._Benoist" title="Thomas W. Benoist">Thomas W. Benoist</a>, American aviator, aircraft designer and manufacturer, and founder of the world's first scheduled airline (d. <a href="/wiki/1917" title="1917">1917</a>)</li>
+<li><a href="/wiki/Cecil_Hunter-Rodwell" title="Cecil Hunter-Rodwell">Cecil Hunter-Rodwell</a>, British colonial administrator (d. <a href="/wiki/1953" title="1953">1953</a>)</li>
+<li><a href="/wiki/Margaret_G._Hays" class="mw-redirect" title="Margaret G. Hays">Margaret G. Hays</a>, turn-of-the-century American female comics writer and artist (d. <a href="/wiki/1925" title="1925">1925</a>)</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Deaths">Deaths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=12" title="Edit section: Deaths">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January.E2.80.93June">January–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=13" title="Edit section: January–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Hoffmann_von_Fallersleben.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hoffmann_von_Fallersleben.jpg/110px-Hoffmann_von_Fallersleben.jpg" width="110" height="189" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hoffmann_von_Fallersleben.jpg/165px-Hoffmann_von_Fallersleben.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hoffmann_von_Fallersleben.jpg/220px-Hoffmann_von_Fallersleben.jpg 2x" data-file-width="281" data-file-height="483" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hoffmann_von_Fallersleben.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/August_Heinrich_Hoffmann_von_Fallersleben" title="August Heinrich Hoffmann von Fallersleben">August Heinrich Hoffmann von Fallersleben</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Moritz_Hermann_von_Jacobi_1856.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Moritz_Hermann_von_Jacobi_1856.jpg/110px-Moritz_Hermann_von_Jacobi_1856.jpg" width="110" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Moritz_Hermann_von_Jacobi_1856.jpg/165px-Moritz_Hermann_von_Jacobi_1856.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Moritz_Hermann_von_Jacobi_1856.jpg/220px-Moritz_Hermann_von_Jacobi_1856.jpg 2x" data-file-width="600" data-file-height="819" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Moritz_Hermann_von_Jacobi_1856.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Moritz_von_Jacobi" title="Moritz von Jacobi">Moritz von Jacobi</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Anders_Jonas_%C3%85ngstr%C3%B6m_-_001.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anders_Jonas_%C3%85ngstr%C3%B6m_-_001.png/110px-Anders_Jonas_%C3%85ngstr%C3%B6m_-_001.png" width="110" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anders_Jonas_%C3%85ngstr%C3%B6m_-_001.png/165px-Anders_Jonas_%C3%85ngstr%C3%B6m_-_001.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1f/Anders_Jonas_%C3%85ngstr%C3%B6m_-_001.png 2x" data-file-width="200" data-file-height="270" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Anders_Jonas_%C3%85ngstr%C3%B6m_-_001.png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Anders_Jonas_%C3%85ngstr%C3%B6m" title="Anders Jonas Ångström">Anders Jonas Ångström</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/January_8" title="January 8">January 8</a> – <a href="/wiki/Abb%C3%A9" title="Abbé">Abbé</a> <a href="/wiki/Charles_%C3%89tienne_Brasseur_de_Bourbourg" title="Charles Étienne Brasseur de Bourbourg">Charles Étienne Brasseur de Bourbourg</a>, French writer and historian (b. <a href="/wiki/1814" title="1814">1814</a>)</li>
+<li><a href="/wiki/January_14" title="January 14">January 14</a> – <a href="/wiki/Johann_Philipp_Reis" title="Johann Philipp Reis">Johann Philipp Reis</a>, German scientist and inventor (b. <a href="/wiki/1834" title="1834">1834</a>)</li>
+<li><a href="/wiki/January_17" title="January 17">January 17</a> – <a href="/wiki/Chang_and_Eng_Bunker" title="Chang and Eng Bunker">Chang and Eng Bunker</a>, <a href="/wiki/Siamese_twins" class="mw-redirect" title="Siamese twins">Siamese twins</a> and <a href="/wiki/Sideshow" title="Sideshow">sideshow</a> performers (b. <a href="/wiki/1811" title="1811">1811</a>)</li>
+<li><a href="/wiki/January_19" title="January 19">January 19</a> – <a href="/wiki/August_Heinrich_Hoffmann_von_Fallersleben" title="August Heinrich Hoffmann von Fallersleben">August Heinrich Hoffmann von Fallersleben</a>, German poet (b. <a href="/wiki/1798" title="1798">1798</a>)</li>
+<li><a href="/wiki/February_3" title="February 3">February 3</a> – <a href="/wiki/William_Charles_Lunalilo" class="mw-redirect" title="William Charles Lunalilo">William Charles Lunalilo</a>, last monarch of the House of Kamehameha (b. <a href="/wiki/1835" title="1835">1835</a>)</li>
+<li><a href="/wiki/February_8" title="February 8">February 8</a> – <a href="/wiki/David_Friedrich_Strauss" class="mw-redirect" title="David Friedrich Strauss">David Friedrich Strauss</a>, German theologian (b. <a href="/wiki/1808" title="1808">1808</a>)</li>
+<li><a href="/wiki/February_24" title="February 24">February 24</a> – <a href="/wiki/John_Bachman" title="John Bachman">John Bachman</a>, American Lutheran minister, social activist and naturalist, (b. <a href="/wiki/1790" title="1790">1790</a>)</li>
+<li><a href="/wiki/March_8" title="March 8">March 8</a> – <a href="/wiki/Millard_Fillmore" title="Millard Fillmore">Millard Fillmore</a>, 13th <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a> (b. <a href="/wiki/1800" title="1800">1800</a>)</li>
+<li><a href="/wiki/March_10" title="March 10">March 10</a> – <a href="/wiki/Moritz_von_Jacobi" title="Moritz von Jacobi">Moritz von Jacobi</a>, German engineer and physicist (b. <a href="/wiki/1801" title="1801">1801</a>)</li>
+<li><a href="/wiki/March_20" title="March 20">March 20</a> – <a href="/wiki/Hans_Christian_Lumbye" title="Hans Christian Lumbye">Hans Christian Lumbye</a>, Danish composer (b. <a href="/wiki/1810" title="1810">1810</a>)</li>
+<li><a href="/wiki/April_13" title="April 13">April 13</a> – <a href="/wiki/Et%C5%8D_Shimpei" title="Etō Shimpei">Etō Shimpei</a>, Japanese statesman (executed) (b. <a href="/wiki/1834" title="1834">1834</a>)</li>
+<li><a href="/wiki/April_20" title="April 20">April 20</a> – <a href="/wiki/Alexander_H._Bailey" title="Alexander H. Bailey">Alexander H. Bailey</a>, American politician (b. <a href="/wiki/1817" title="1817">1817</a>)</li>
+<li><a href="/wiki/June_20" title="June 20">June 20</a> – <a href="/wiki/John_Ruggles" title="John Ruggles">John Ruggles</a>, American politician (b. <a href="/wiki/1789" title="1789">1789</a>)</li>
+<li><a href="/wiki/June_21" title="June 21">June 21</a> – <a href="/wiki/Anders_Jonas_%C3%85ngstr%C3%B6m" title="Anders Jonas Ångström">Anders Jonas Ångström</a>, Swedish physicist (b. <a href="/wiki/1814" title="1814">1814</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93December">July–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=14" title="Edit section: July–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/July_8" title="July 8">July 8</a> – <a href="/wiki/Agnes_Strickland" title="Agnes Strickland">Agnes Strickland</a>, English popular historian (b. <a href="/wiki/1796" title="1796">1796</a>)</li>
+<li><a href="/wiki/July_12" title="July 12">July 12</a> – <a href="/wiki/Fritz_Reuter" title="Fritz Reuter">Fritz Reuter</a>, German novelist (b. <a href="/wiki/1810" title="1810">1810</a>)</li>
+<li><a href="/wiki/July_24" title="July 24">July 24</a> – <a href="/wiki/Gijsbert_Haan" title="Gijsbert Haan">Gijsbert Haan</a>, Dutch-American religious leader (b. <a href="/wiki/1801" title="1801">1801</a>)</li>
+<li><a href="/wiki/August_14" title="August 14">August 14</a> – <a href="/wiki/Jonathan_Clarkson_Gibbs" title="Jonathan Clarkson Gibbs">Jonathan Clarkson Gibbs</a>, African-American minister and politician (b. <a href="/wiki/1821" title="1821">1821</a>)</li>
+<li><a href="/wiki/October_6" title="October 6">October 6</a> – <a href="/wiki/Samuel_M._Kier" class="mw-redirect" title="Samuel M. Kier">Samuel M. Kier</a>, American oil magnate (b. <a href="/wiki/1813" title="1813">1813</a>)</li>
+<li><a href="/wiki/October_23" title="October 23">October 23</a> – <a href="/wiki/Abraham_Geiger" title="Abraham Geiger">Abraham Geiger</a>, German <a href="/wiki/Rabbi" title="Rabbi">rabbi</a>, a founder of European <a href="/wiki/Reform_Judaism" title="Reform Judaism">Reform Judaism</a> (b. <a href="/wiki/1810" title="1810">1810</a>)</li>
+<li><a href="/wiki/October_28" title="October 28">October 28</a> – <a href="/wiki/William_Henry_Rinehart" title="William Henry Rinehart">William Henry Rinehart</a>, American sculptor (b. <a href="/wiki/1825" title="1825">1825</a>)</li>
+<li><a href="/wiki/November_29" title="November 29">November 29</a> – <a href="/wiki/Ioan_Manu" title="Ioan Manu">Ioan Manu</a>, Russian politician (b. <a href="/wiki/1803" title="1803">1803</a>)</li>
+<li><a href="/wiki/December_7" title="December 7">December 7</a> – <a href="/wiki/Constantin_von_Tischendorf" title="Constantin von Tischendorf">Constantin von Tischendorf</a>, German Biblical scholar (b. <a href="/wiki/1815" title="1815">1815</a>)</li>
+<li><a href="/wiki/December_22" title="December 22">December 22</a> – <a href="/wiki/Johann_Peter_Pixis" title="Johann Peter Pixis">Johann Peter Pixis</a>, German pianist and composer (b. <a href="/wiki/1788" title="1788">1788</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1874&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.geni.com/people/Kmdt-Gert-Andries-Jacobus-Alberts-b1c5d3e1/6000000013007521716">Geni: Kmdt. Gert Andries Jacobus Alberts, b1c5d3e1</a> (Accessed on 17 April 2017)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>Standard Catalog of World Paper Money General Issues, 1368 - 1960</i>. 2008. p.&#160;1088. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1538-2001">1538-2001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1874&amp;rft.btitle=Standard+Catalog+of+World+Paper+Money+General+Issues%2C+1368+-+1960&amp;rft.date=2008&amp;rft.genre=book&amp;rft.issn=1538-2001&amp;rft.pages=1088&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">"Chief Justice Edward Douglass White", by William H. Forman, Jr., in <i>ABA Journal</i> (March 1970) p261</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Frances H. Kennedy, <i>American Indian Places: A Historical Guidebook</i> (Houghton Mifflin Harcourt, 2008) p168</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.harpweek.com/09Cartoon/CartoonOfTheDay.asp?Year=2003?Month=November?Date=7">“Attitude of the Easy Boss”</a>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iomguide.com/oldhouseofkeys.php">"Old House of Keys"</a>. <i>Isle of Man Guide</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1874&amp;rft.atitle=Old+House+of+Keys&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iomguide.com%2Foldhouseofkeys.php&amp;rft.jtitle=Isle+of+Man+Guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2126
+Cached time: 20170422114710
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.296 seconds
+Real time usage: 0.415 seconds
+Preprocessor visited node count: 5232/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30396/2097152 bytes
+Template argument size: 2746/2097152 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 3/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 4.22 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  289.437      1 -total
+ 29.44%   85.200      1 Template:C19_year_in_topic
+ 14.60%   42.247     19 Template:Dr
+ 14.59%   42.242      1 Template:Year_in_various_calendars
+ 13.82%   40.012     19 Template:Dr-make
+ 13.64%   39.486      1 Template:Year_nav
+ 13.51%   39.106      1 Template:Reflist
+ 12.62%   36.523      1 Template:Commons_category
+ 12.04%   34.854      1 Template:Citation_needed
+ 11.12%   32.183      1 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34770-0!*!0!!en!4!* and timestamp 20170422114721 and revision id 776654171
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1874&amp;oldid=776654171">https://en.wikipedia.org/w/index.php?title=1874&amp;oldid=776654171</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1874" title="Category:1874">1874</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_March_2011" title="Category:Use mdy dates from March 2011">Use mdy dates from March 2011</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2016" title="Category:Articles with unsourced statements from December 2016">Articles with unsourced statements from December 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1874" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1874" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1874"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1874"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1874" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1874&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1874&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1874" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1874" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1874&amp;oldid=776654171" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1874&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7761" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1874&amp;id=776654171" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1874">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1874&amp;returnto=1874&amp;oldid=776654171&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1874&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:1874" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/1874" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/1874" title="1874 – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/1874" title="1874 – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/1874_%E1%8A%A5.%E1%8A%A4.%E1%8A%A0." title="1874 እ.ኤ.አ. – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/1874" title="1874 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/1874" title="1874 – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/1874" title="1874 – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/1874" title="1874 – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A7%A7%E0%A7%AE%E0%A7%AD%E0%A7%AA" title="১৮৭৪ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/1874_n%C3%AE" title="1874 nî – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/1874" title="1874 – Basa Banyumasan" lang="map-bms" hreflang="map-bms" class="interlanguage-link-target">Basa Banyumasan</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/1874_%D0%B9%D1%8B%D0%BB" title="1874 йыл – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/1874" title="1874 – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/1874" title="1874 – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AD%E0%A5%AA" title="१८७४ – भोजपुरी" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/1874" title="1874 – Bikol Central" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/1874" title="1874 – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/1874" title="1874 – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/1874." title="1874. – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/1874" title="1874 – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/1874" title="1874 – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/1874" title="1874 – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/1874" title="1874 – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/1874" title="1874 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/1874" title="1874 – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/1874" title="1874 – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/1874" title="1874 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/1874" title="1874 – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/1874" title="1874 – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/1874" title="1874 – Emiliano-Romagnolo" lang="eml" hreflang="eml" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/1874_%D0%B8%D0%B5" title="1874 ие – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/1874" title="1874 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/1874" title="1874 – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/1874" title="1874 – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%B1%DB%B8%DB%B7%DB%B4_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="۱۸۷۴ (میلادی) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/1874" title="1874 – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/1874" title="1874 – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/1874" title="1874 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/1874" title="1874 – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/1874" title="1874 – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/1874" title="1874 – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/1874" title="1874 – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/1874" title="1874 – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/1874%E5%B9%B4" title="1874年 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/1874-ngi%C3%A8n" title="1874-ngièn – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/1874%EB%85%84" title="1874년 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/1874" title="1874 – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AD%E0%A5%AA" title="१८७४ – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/1874" title="1874 – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/1874." title="1874. – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/1874" title="1874 – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/1874" title="1874 – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A7%E0%A7%AE%E0%A7%AD%E0%A7%AA" title="মারি ১৮৭৪ – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/1874" title="1874 – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/1874" title="1874 – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/1874-%C3%A6%D0%BC_%D0%B0%D0%B7" title="1874-æм аз – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/1874" title="1874 – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/1874" title="1874 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/1874" title="1874 – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/1874" title="1874 – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B3%A7%E0%B3%AE%E0%B3%AD%E0%B3%AA" title="೧೮೭೪ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/1874_%D0%B4%D0%B6%D1%8B%D0%BB" title="1874 джыл – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/1874" title="1874 – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/1874" title="1874 – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/1874_%D0%B6%D1%8B%D0%BB" title="1874 жыл – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/1874" title="1874 – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/1874_%D0%B2%D0%BE" title="1874 во – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/1874_(almanak_gregoryen)" title="1874 (almanak gregoryen) – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/1874" title="1874 – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/1874_%D0%B8" title="1874 и – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/1874" title="1874 – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/1874._gads" title="1874. gads – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/1874" title="1874 – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/1874_m." title="1874 m. – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/1874" title="1874 – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/1874" title="1874 – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/1874" title="1874 – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AD%E0%A5%AA" title="१८७४ – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/1874" title="1874 – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/1874" title="1874 – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/1874" title="1874 – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%87.%E0%A4%B8._%E0%A5%A7%E0%A5%AE%E0%A5%AD%E0%A5%AA" title="इ.स. १८७४ – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/1874" title="1874 – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/1874" title="1874 – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/1874" title="1874 – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Baso Minangkabau</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%81%81%E1%81%88%E1%81%87%E1%81%84" title="၁၈၇၄ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/1874" title="1874 – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/1874" title="1874 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AE%E0%A5%AD%E0%A5%AA" title="सन् १८७४ – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%88_%E0%A4%B8%E0%A4%82_%E0%A5%A7%E0%A5%AE%E0%A5%AD%E0%A5%AA" title="ई सं १८७४ – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/1874%E5%B9%B4" title="1874年 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/1874" title="1874 – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/1874_%D1%88%D0%BE" title="1874 шо – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/1874" title="1874 – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/1874" title="1874 – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/1874" title="1874 – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/1874" title="1874 – Nouormand" lang="nrm" hreflang="nrm" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/1874" title="1874 – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/1874" title="1874 – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AD%A7%E0%AD%AE%E0%AD%AD%E0%AD%AA" title="୧୮୭୪ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/1874" title="1874 – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/1874" title="1874 – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AD%E0%A5%AA" title="१८७४ – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/1874" title="1874 – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/1874" title="1874 – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/1874" title="1874 – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/1874" title="1874 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/1874" title="1874 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/1874" title="1874 – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li><li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/1874" title="1874 – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Joohr_1874" title="Joohr 1874 – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/1874" title="1874 – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/1874" title="1874 – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/1874" title="1874 – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/1874_%D0%B3%D0%BE%D0%B4" title="1874 год – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/1874" title="1874 – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/1874" title="1874 – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Sámegiella</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AD%E0%A5%AA" title="१८७४ – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/1874" title="1874 – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/1874" title="1874 – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/1874" title="1874 – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/1874" title="1874 – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/1874" title="1874 – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/1874" title="1874 – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/1874%D8%B9" title="1874ع – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/1874" title="1874 – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/1874" title="1874 – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%A1%D9%A8%D9%A7%D9%A4" title="١٨٧٤ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/1874" title="1874 – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/1874" title="1874 – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/1874" title="1874 – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/1874" title="1874 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/1874" title="1874 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/1874" title="1874 – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/1874" title="1874 – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/1874_%D0%B5%D0%BB" title="1874 ел – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/1874" title="1874 – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/1874" title="1874 – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9E.%E0%B8%A8._2417" title="พ.ศ. 2417 – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B8_1874" title="Соли 1874 – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/1874" title="1874 – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/1874" title="1874 – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/1874_%D0%B0%D1%80" title="1874 ар – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/1874" title="1874 – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/1874%D8%A1" title="1874ء – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/1874" title="1874 – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/1874" title="1874 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/1874" title="1874 – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/1874" title="1874 – Võro" lang="fiu-vro" hreflang="fiu-vro" class="interlanguage-link-target">Võro</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/1874" title="1874 – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/1874" title="1874 – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/1874" title="1874 – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/1874" title="1874 – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/1874" title="1874 – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/1874%E5%B9%B4" title="1874年 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/1874" title="1874 – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/1874" title="1874 – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/1874" title="1874 – Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/1874%E5%B9%B4" title="1874年 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7761#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 April 2017, at 11:47.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1874&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.415","ppvisitednodes":{"value":5232,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30396,"limit":2097152},"templateargumentsize":{"value":2746,"limit":2097152},"expansiondepth":{"value":28,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  289.437      1 -total"," 29.44%   85.200      1 Template:C19_year_in_topic"," 14.60%   42.247     19 Template:Dr"," 14.59%   42.242      1 Template:Year_in_various_calendars"," 13.82%   40.012     19 Template:Dr-make"," 13.64%   39.486      1 Template:Year_nav"," 13.51%   39.106      1 Template:Reflist"," 12.62%   36.523      1 Template:Commons_category"," 12.04%   34.854      1 Template:Citation_needed"," 11.12%   32.183      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":4422967,"limit":52428800}},"cachereport":{"origin":"mw2126","timestamp":"20170422114710","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw2259"});});</script>
+	</body>
+</html>

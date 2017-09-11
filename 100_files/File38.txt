@@ -1,0 +1,1219 @@
+https://en.wikipedia.org/wiki/2014_Saint-Jean-sur-Richelieu_ramming_attack
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>2014 Saint-Jean-sur-Richelieu ramming attack - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2014_Saint-Jean-sur-Richelieu_ramming_attack","wgTitle":"2014 Saint-Jean-sur-Richelieu ramming attack","wgCurRevisionId":767988097,"wgRevisionId":767988097,"wgArticleId":44224866,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from December 2014","Murder in 2014","Attacks in 2014","Terrorist incidents in Canada in 2014","Crime in Quebec","Vehicle rampage","Homicides by motor vehicle","Terrorist incidents involving vehicular attacks","2014 in Quebec","Saint-Jean-sur-Richelieu","2014 crimes in Canada","ISIL terrorist incidents in Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2014_Saint-Jean-sur-Richelieu_ramming_attack","wgRelevantArticleId":44224866,"wgRequestId":"WP0WHgrAADwAATbhdfUAAABR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q18347861","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/2014_Saint-Jean-sur-Richelieu_ramming_attack"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/2014_Saint-Jean-sur-Richelieu_ramming_attack"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-2014_Saint-Jean-sur-Richelieu_ramming_attack rootpage-2014_Saint-Jean-sur-Richelieu_ramming_attack skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">2014 Saint-Jean-sur-Richelieu ramming attack</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%;">Saint-Jean-sur-Richelieu ramming attack</th>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="location"><span class="nowrap"><a href="/wiki/Saint-Jean-sur-Richelieu" title="Saint-Jean-sur-Richelieu">Saint-Jean-sur-Richelieu</a>, <a href="/wiki/Quebec" title="Quebec">Quebec</a>, <a href="/wiki/Canada" title="Canada">Canada</a></span></td>
+</tr>
+<tr>
+<th scope="row">Date</th>
+<td>October&#160;20,&#160;2014<span style="display:none">&#160;(<span class="bday dtstart published updated">2014-10-20</span>)</span><br />
+11:30 a.m. (<a href="/wiki/UTC%E2%88%9204:00" title="UTC−04:00">EDT</a>)</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Attack type</div>
+</th>
+<td><a href="/wiki/Vehicle_ramming" class="mw-redirect" title="Vehicle ramming">Vehicle ramming</a>, <a href="/wiki/Islamic_terrorism" title="Islamic terrorism">Islamic terrorism</a></td>
+</tr>
+<tr>
+<th scope="row">Weapons</th>
+<td>car</td>
+</tr>
+<tr>
+<th scope="row">Deaths</th>
+<td>2 (including the perpetrator)</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Non-fatal injuries</div>
+</th>
+<td>1</td>
+</tr>
+<tr>
+<th scope="row">Perpetrator</th>
+<td>Martin Couture-Rouleau</td>
+</tr>
+<tr>
+<th scope="row">Motive</th>
+<td><a href="/wiki/Jihadism" title="Jihadism">Jihadism</a></td>
+</tr>
+</table>
+<p>The <b>2014 Saint Jean sur Richelieu ramming attack</b> was a <a href="/wiki/Vehicular_assault_as_a_terrorist_tactic" class="mw-redirect" title="Vehicular assault as a terrorist tactic">terror car ramming</a> that occurred in <a href="/wiki/Quebec" title="Quebec">Quebec</a> on October 20, 2014. Two <a href="/wiki/Canadian_Armed_Forces" title="Canadian Armed Forces">Canadian Forces</a> members were hit by a <a href="/wiki/Lone_wolf_terrorist" class="mw-redirect" title="Lone wolf terrorist">lone wolf terrorist</a>, Martin Couture-Rouleau. <a href="/wiki/Warrant_officer" title="Warrant officer">Warrant officer</a> Patrice Vincent died from injuries, while another soldier was injured, but survived. The <a href="/wiki/Royal_Canadian_Mounted_Police" title="Royal Canadian Mounted Police">RCMP</a> and the <a href="/wiki/Government_of_Canada" title="Government of Canada">Government of Canada</a> has characterized the homicide as a terrorist act by an <a href="/wiki/Islamic_State_of_Iraq_and_the_Levant" title="Islamic State of Iraq and the Levant">ISIL</a>-inspired terrorist.<sup id="cite_ref-speeches_1-0" class="reference"><a href="#cite_note-speeches-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Attack_and_pursuit"><span class="tocnumber">1</span> <span class="toctext">Attack and pursuit</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Victims"><span class="tocnumber">2</span> <span class="toctext">Victims</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Perpetrator"><span class="tocnumber">3</span> <span class="toctext">Perpetrator</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Responses"><span class="tocnumber">4</span> <span class="toctext">Responses</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Media_reactions"><span class="tocnumber">5</span> <span class="toctext">Media reactions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Attack_and_pursuit">Attack and pursuit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit&amp;section=1" title="Edit section: Attack and pursuit">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On October 20, 2014, Martin Couture-Rouleau <a href="/wiki/Vehicle_ramming_as_a_terrorism_tactic" class="mw-redirect" title="Vehicle ramming as a terrorism tactic">deliberately rammed</a> a car into a pair of <a href="/wiki/Canadian_Armed_Forces" title="Canadian Armed Forces">Canadian Armed Forces</a> soldiers in a shopping centre parking lot in <a href="/wiki/Saint-Jean-sur-Richelieu" title="Saint-Jean-sur-Richelieu">Saint-Jean-sur-Richelieu</a>, <a href="/wiki/Quebec" title="Quebec">Quebec</a>, <a href="/wiki/Canada" title="Canada">Canada</a>, at 11:30&#160;a.m. ET. He had been seen sitting in his car and watching for over two hours before the attack.<sup id="cite_ref-prevarrest_2-0" class="reference"><a href="#cite_note-prevarrest-2">[2]</a></sup> A police chase ensued. The <i><a href="/wiki/Toronto_Sun" title="Toronto Sun">Toronto Sun</a></i> reported that the suspect called <a href="/wiki/9-1-1" title="9-1-1">911</a> during the chase to say that he carried out his acts in the name of <a href="/wiki/Allah" title="Allah">Allah</a>.<sup id="cite_ref-TSun_3-0" class="reference"><a href="#cite_note-TSun-3">[3]</a></sup></p>
+<p>The chase ended when Martin Couture-Rouleau lost control of his car, rolling it into a ditch and onto its roof. A witness said that a spike belt was deployed. According to witnesses, Couture-Rouleau exited the car and charged a female police officer with a knife.<sup id="cite_ref-TSun_3-1" class="reference"><a href="#cite_note-TSun-3">[3]</a></sup> Police shot him up to seven times and he was pronounced dead that evening in hospital.<sup id="cite_ref-TSun_3-2" class="reference"><a href="#cite_note-TSun-3">[3]</a></sup> A large knife was seen stuck in the ground according to eyewitnesses.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>There were two victims. <a href="/wiki/Warrant_officer" title="Warrant officer">Warrant officer</a> Patrice Vincent (53) died in hospital the next day while another unnamed soldier sustained non-life-threatening injures.<sup id="cite_ref-The_Guardian.2C_re:Rouleau_5-0" class="reference"><a href="#cite_note-The_Guardian.2C_re:Rouleau-5">[5]</a></sup> One of the soldiers was in uniform and one was not.<sup id="cite_ref-TSun_3-3" class="reference"><a href="#cite_note-TSun-3">[3]</a></sup></p>
+<p>The attack was linked to terrorism by government and police officials including in a statement by Prime Minister <a href="/wiki/Stephen_Harper" title="Stephen Harper">Stephen Harper</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Victims">Victims</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit&amp;section=2" title="Edit section: Victims">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox vcard" style="width:22em;width:315px;border-spacing:2px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#B0C4DE;"><span class="honorific-prefix" style="font-size: small"><a href="/wiki/Warrant_officer" title="Warrant officer">Warrant officer</a></span><br />
+<span class="fn">Patrice Vincent</span></th>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Died</th>
+<td>October 21, 2014 (age 53)<br />
+Saint-Jean-sur-Richelieu, Quebec</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Allegiance</th>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Canada" title="Canada">Canada</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Rank</th>
+<td>Warrant officer</td>
+</tr>
+</table>
+<p>Warrant officer <b>Patrice Vincent</b>, 53, had served in the military for 28 years and was considering retiring to become a cabinet maker.<sup id="cite_ref-Retirement_8-0" class="reference"><a href="#cite_note-Retirement-8">[8]</a></sup> He had previously served as a refrigeration and mechanical technician engineer as well as a military firefighter.<sup id="cite_ref-prevarrest_2-1" class="reference"><a href="#cite_note-prevarrest-2">[2]</a></sup> Vincent's funeral was held on November 1, 2014.<sup id="cite_ref-Retirement_8-1" class="reference"><a href="#cite_note-Retirement-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>A second Canadian Forces member was injured in the attack.</p>
+<h2><span class="mw-headline" id="Perpetrator">Perpetrator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit&amp;section=3" title="Edit section: Perpetrator">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Martin Couture-Rouleau</b> (died October 20, 2014, age 25) was a francophone Canadian living with his parents in <a href="/wiki/Saint-Jean-sur-Richelieu" title="Saint-Jean-sur-Richelieu">Saint-Jean-sur-Richelieu</a> at the time of the attack. He was separated from his partner and their young child. Couture-Rouleau had converted to <a href="/wiki/Islam" title="Islam">Islam</a> in the previous year, and was praying at a mosque "regularly."<sup id="cite_ref-Austen_10-0" class="reference"><a href="#cite_note-Austen-10">[10]</a></sup> He had owned a small power-washing business that failed.<sup id="cite_ref-Bruemmer_11-0" class="reference"><a href="#cite_note-Bruemmer-11">[11]</a></sup></p>
+<p>Legal documents show Couture-Rouleau became a <a href="/wiki/Muslim" title="Muslim">Muslim</a> <a href="/wiki/Religious_conversion" title="Religious conversion">convert</a> in 2013 and started to refer to himself as Ahmad LeConverti (Ahmad the Converted).<sup id="cite_ref-prevarrest_2-2" class="reference"><a href="#cite_note-prevarrest-2">[2]</a></sup> <a href="/wiki/Facebook" title="Facebook">Facebook</a> activity and a <a href="/wiki/Canadian_Broadcasting_Corporation" title="Canadian Broadcasting Corporation">CBC</a> interview show that he had become a supporter of <a href="/wiki/Islamic_State_of_Iraq_and_the_Levant" title="Islamic State of Iraq and the Levant">ISIL</a>. He posted images and links that were <a href="/wiki/Anti-Americanism" title="Anti-Americanism">anti-American foreign policy</a>, and links to <a href="/wiki/Antisemitism" title="Antisemitism">anti-Semitic</a> <a href="/wiki/YouTube" title="YouTube">YouTube</a> videos. <a href="/wiki/Global_Television_Network" title="Global Television Network">Global</a> reported Facebook posts in both English and French about Allah and graphic posters with references to Islam’s superiority over <a href="/wiki/Christianity" title="Christianity">Christianity</a>.<sup id="cite_ref-Global_12-0" class="reference"><a href="#cite_note-Global-12">[12]</a></sup> A Facebook friend who corresponded with Couture-Rouleau said, "So he was really mad that Canada actually supported the American bombing of [ISIS] in Syria and Iraq so I think that was the main motive in killing that Canadian soldier."<sup id="cite_ref-Who_is_Martin_Couture-Rouleau_13-0" class="reference"><a href="#cite_note-Who_is_Martin_Couture-Rouleau-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Another told Radio-Canada that Couture-Rouleau spent hours on the internet and devoured <a href="/wiki/Jihadism" title="Jihadism">jihadist</a> literature, and that Couture-Rouleau dreamed of dying as a <a href="/wiki/Martyr" title="Martyr">martyr</a>.<sup id="cite_ref-Who_is_Martin_Couture-Rouleau_13-1" class="reference"><a href="#cite_note-Who_is_Martin_Couture-Rouleau-13">[13]</a></sup></p>
+<p>According to information Radio-Canada obtained, he had convinced at least four or five people in his circle of friends to convert to Islam, but the friend said that Couture-Rouleau got carried away with an extreme interpretation of the <a href="/wiki/Quran" title="Quran">Qur'an</a>.<sup id="cite_ref-Who_is_Martin_Couture-Rouleau_13-2" class="reference"><a href="#cite_note-Who_is_Martin_Couture-Rouleau-13">[13]</a></sup> A friend said he was obsessed with practicing his new religion and trying to convert his friends.<sup id="cite_ref-Global_12-1" class="reference"><a href="#cite_note-Global-12">[12]</a></sup></p>
+<p>The <a href="/wiki/Royal_Canadian_Mounted_Police" title="Royal Canadian Mounted Police">RCMP</a> became aware of Couture-Rouleau after a relative alerted police to the man’s terrorist leanings.<sup id="cite_ref-TSun_3-4" class="reference"><a href="#cite_note-TSun-3">[3]</a></sup> He wanted to travel to Iraq to fight with ISIL the summer before he perpetrated the attack in Quebec.<sup id="cite_ref-Bruemmer_11-1" class="reference"><a href="#cite_note-Bruemmer-11">[11]</a></sup><sup id="cite_ref-ForeignFighter_15-0" class="reference"><a href="#cite_note-ForeignFighter-15">[15]</a></sup> His Canadian passport was revoked in June 2014 over concerns that he had "become radicalized after converting to Islam."<sup id="cite_ref-prevarrest_2-3" class="reference"><a href="#cite_note-prevarrest-2">[2]</a></sup> RCMP Commissioner <a href="/wiki/Bob_Paulson" title="Bob Paulson">Bob Paulson</a> confirmed he was one of 90 Canadians under surveillance<sup id="cite_ref-Who_is_Martin_Couture-Rouleau_13-3" class="reference"><a href="#cite_note-Who_is_Martin_Couture-Rouleau-13">[13]</a></sup> by the RCMP because they were suspected of wanting to join terrorist organizations.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Responses">Responses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit&amp;section=4" title="Edit section: Responses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Conservative government immediately labelled the act as a terrorist attack. According to <a href="/wiki/Steven_Blaney" title="Steven Blaney">Steven Blaney</a>, Canadian <a href="/wiki/Minister_of_Public_Safety" class="mw-redirect" title="Minister of Public Safety">Minister of Public Safety</a>, the attack was "clearly linked to terrorist ideology."<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> The Prime Minister's office released a statement that said in part "The individual who struck the two CAF members with his car is known to federal authorities, including the <a href="/wiki/Integrated_National_Security_Enforcement_Teams" title="Integrated National Security Enforcement Teams">Integrated National Security Enforcement Teams</a> (the Integrated National Security Enforcement Teams are an anti-terrorism police unit). Federal authorities have confirmed that there are clear indications that the individual had become radicalized."<sup id="cite_ref-Global_12-2" class="reference"><a href="#cite_note-Global-12">[12]</a></sup></p>
+<p>After the <a href="/wiki/2014_shootings_at_Parliament_Hill,_Ottawa" title="2014 shootings at Parliament Hill, Ottawa">2014 shootings at Parliament Hill, Ottawa</a>, Prime Minister Stephen Harper gave a nationally televised address in which he said "Warrant Officer Patrice Vincent... was killed earlier this week by an ISIL-inspired terrorist" and "this week's events are a grim reminder that Canada is not immune to the types of terrorist attacks we have seen elsewhere around the world. We are also reminded that attacks on our security personnel and on our institutions of governance are by their very nature, attacks on our country, on our values, on our society, on us Canadians as a free and democratic people who embrace human dignity for all."<sup id="cite_ref-speeches_1-1" class="reference"><a href="#cite_note-speeches-1">[1]</a></sup> Conservative MP <a href="/wiki/Erin_O%27Toole" title="Erin O'Toole">Erin O'Toole</a> said on <i><a href="/wiki/Power_Play_(Canadian_political_affairs_series)" title="Power Play (Canadian political affairs series)">Power Play</a></i> that he stands behind the terrorist act label, both in the case of Zehaf-Bibeau and Martin Couture-Rouleau. "Warrant Officer Vincent and Nathan Cirillo weren’t attacked for who they were, they were attacked for what their uniform represented, so inherently that’s terrorism."<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>Rouleau's next-door neighbour said, "Mr. Rouleau’s father, Gilles, as a peaceful man who tried to help his troubled son. She said Mr. Rouleau had been “brainwashed” by online radicals. "I don’t think it’s a terrorist act," she said. "He needed help. We could see that he needed psychiatric help."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> "To convert to a new religion and to adopt such violent, radical ideology suggests that he was influenced by others, in person or online," said Wagdy Loza, head of the <a href="/wiki/Canadian_Psychological_Association" title="Canadian Psychological Association">Canadian Psychological Association</a>'s extremism and terrorism section.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p>In an article on the <i><a href="/wiki/The_Daily_Beast" title="The Daily Beast">The Daily Beast</a></i> website, Jacob Siegel equated both Couture-Rouleau and Zehaf-Bibeau, "the killers who brought terror to Canada this week", with the <a href="/wiki/2014_Queens_hatchet_attack" title="2014 Queens hatchet attack">2014 New York City hatchet attacker</a>, saying "like the killers who brought terror to Canada this week, the New York attacker is being called a "lone wolf", meaning he acted essentially on his own, [Couture-Rouleau and Zehab-Bibeau] seem custom made for the stray dog profile, and the kind of terrorist the West could be seeing a lot more of in the future". He cites a paper by <a href="/wiki/Brian_Michael_Jenkins" title="Brian Michael Jenkins">Brian Michael Jenkins</a> of the <a href="/wiki/RAND_Corporation" title="RAND Corporation">RAND Corporation</a>. Jenkins described them as "stray dogs," rather than <a href="/wiki/Lone_wolf_(terrorism)" title="Lone wolf (terrorism)">lone wolves</a>, characterizing them as "misfits" who are "who are moved from seething anger to spontaneous deadly action" by exposure to <a href="/wiki/Islamism" title="Islamism">Islamist</a> propaganda.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="Media_reactions">Media reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit&amp;section=5" title="Edit section: Media reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Commentators have cited the attacks against Canadian soldiers in Quebec and Ottawa while arguing against Canadian Government changes to anti-terrorism legislation, although the legislation was prepared long before the attacks occurred and is not in response specifically to the two attacks.</p>
+<p>James Baxter, editor-in-chief of ipolitics.ca, an Ottawa political <a href="/wiki/Zine" title="Zine">zine</a>, said "the government is exploiting two isolated murders to push through sweeping new surveillance powers" and pointed out "the would-be 'terrorists' involved were armed only with a car and a vintage hunting rifle".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<p>In an opinion piece, <a href="/wiki/Linda_McQuaig" title="Linda McQuaig">Linda McQuaig</a>, said "lots of hype about Canada and our institutions being under attack — even as it got harder to explain the difference between the 'terrorist' murders of two soldiers and <a href="/wiki/2014_Moncton_shootings" title="2014 Moncton shootings">the 'non-terrorist' murders of three RCMP officers in Moncton</a>. The main difference appeared to be that the shooter in Moncton was not a follower of Islam".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<p><a href="/wiki/Pulitzer_Prize" title="Pulitzer Prize">Pulitzer Prize</a>-winning American journalist <a href="/wiki/Glenn_Greenwald" title="Glenn Greenwald">Glenn Greenwald</a> of <i><a href="/wiki/The_Intercept" title="The Intercept">The Intercept</a>,</i> referring to this case and the Parliament Hill shooting, "The statements of those accused by the west of terrorism, and even the Pentagon’s own commissioned research, have made conclusively clear what motivates these acts: namely, anger over the violence, abuse and interference by Western countries in that part of the world, with the world’s Muslims overwhelmingly the targets and victims. The very policies of militarism and civil liberties erosions justified in the name of stopping terrorism are actually what fuels terrorism and ensures its endless continuation."<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>Andre Picard, in an opinion piece for <i><a href="/wiki/The_Globe_and_Mail" title="The Globe and Mail">The Globe and Mail</a></i>, acknowledged the Couture-Rouleau and Zehaf-Bibeau were both attracted to radical elements in Islam, and dismissed arguments that mental illness caused their actions.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<p>Vincent and Nathan Cirillo, the victim in the Ottawa shootings, were jointly named the <a href="/wiki/Canadian_Newsmaker_of_the_Year" title="Canadian Newsmaker of the Year">Canadian Newsmakers of the Year</a> by the <a href="/wiki/Canadian_Press" class="mw-redirect" title="Canadian Press">Canadian Press</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Vehicular_assault_as_a_terrorist_tactic" class="mw-redirect" title="Vehicular assault as a terrorist tactic">Vehicular assault as a terrorist tactic</a></li>
+<li><a href="/wiki/2014_shootings_at_Parliament_Hill,_Ottawa" title="2014 shootings at Parliament Hill, Ottawa">2014 shootings at Parliament Hill, Ottawa</a></li>
+<li><a href="/wiki/2016_shooting_of_Philadelphia_police_officer" title="2016 shooting of Philadelphia police officer">2016 shooting of Philadelphia police officer</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-speeches-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-speeches_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-speeches_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/news/politics/ottawa-shooting-harper-mulcair-trudeau-speak-about-attack-1.2809530">"Ottawa shooting: Harper, Mulcair, Trudeau speak about attack"</a>. <i>CBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 30,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Ottawa+shooting%3A+Harper%2C+Mulcair%2C+Trudeau+speak+about+attack&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fpolitics%2Fottawa-shooting-harper-mulcair-trudeau-speak-about-attack-1.2809530&amp;rft.jtitle=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-prevarrest-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-prevarrest_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prevarrest_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-prevarrest_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-prevarrest_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">CBC News. <a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/montreal/martin-couture-rouleau-hit-and-run-driver-arrested-by-rcmp-in-july-1.2807078">"Martin Couture-Rouleau, hit-and-run driver, arrested by RCMP in July"</a>. <i>CBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 27,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Martin+Couture-Rouleau%2C+hit-and-run+driver%2C+arrested+by+RCMP+in+July&amp;rft.au=CBC+News&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fmontreal%2Fmartin-couture-rouleau-hit-and-run-driver-arrested-by-rcmp-in-july-1.2807078&amp;rft.jtitle=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TSun-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-TSun_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TSun_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TSun_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-TSun_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-TSun_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Deland, Maxime. <a rel="nofollow" class="external text" href="http://www.torontosun.com/2014/10/20/possible-terror-attack-as-soldiers-run-down-in-quebec-parking-lot">"<span style="padding-left:0.2em;">'</span>Radicalized' Quebecer shot dead after running down 2 soldiers in suspected terrorist attack"</a>. <i>Toronto Sun</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 30,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=%27Radicalized%27+Quebecer+shot+dead+after+running+down+2+soldiers+in+suspected+terrorist+attack&amp;rft.aufirst=Maxime&amp;rft.aulast=Deland&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.torontosun.com%2F2014%2F10%2F20%2Fpossible-terror-attack-as-soldiers-run-down-in-quebec-parking-lot&amp;rft.jtitle=Toronto+Sun&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cambridgetimes.ca/news-story/4924393-canadian-soldiers-run-down-in-possible-quebec-terror-attack/">"Canadian soldiers run down in possible Quebec terror attack"</a>. <i>Cambridge Times</i>. October 20, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Canadian+soldiers+run+down+in+possible+Quebec+terror+attack&amp;rft.date=2014-10-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cambridgetimes.ca%2Fnews-story%2F4924393-canadian-soldiers-run-down-in-possible-quebec-terror-attack%2F&amp;rft.jtitle=Cambridge+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Guardian.2C_re:Rouleau-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Guardian.2C_re:Rouleau_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2014/oct/21/canada-soldier-convert-islam-hit-and-run-quebec">"Canadian soldier killed by convert to Islam in hit and run"</a>. <i>The Guardian</i>. October 21, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">October 22,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Canadian+soldier+killed+by+convert+to+Islam+in+hit+and+run&amp;rft.date=2014-10-21&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2014%2Foct%2F21%2Fcanada-soldier-convert-islam-hit-and-run-quebec&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">National Post Staff (October 21, 2014). <a rel="nofollow" class="external text" href="http://news.nationalpost.com/2014/10/21/saint-jean-sur-richelieu-attack-was-an-unacceptable-act-of-violence-against-canada-public-safety-minister-says/">"Saint-Jean-sur-Richelieu attack was 'clearly linked to terrorist ideology,' safety minister says – National Post"</a>. <i>National Post</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Saint-Jean-sur-Richelieu+attack+was+%98clearly+linked+to+terrorist+ideology%2C%99+safety+minister+says+%93+National+Post&amp;rft.au=National+Post+Staff&amp;rft.date=2014-10-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.nationalpost.com%2F2014%2F10%2F21%2Fsaint-jean-sur-richelieu-attack-was-an-unacceptable-act-of-violence-against-canada-public-safety-minister-says%2F&amp;rft.jtitle=National+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Ellis, Ralph (October 21, 2014). <a rel="nofollow" class="external text" href="http://www.cnn.com/2014/10/21/us/canada-soldiers-killed-officer-attack/">"Canada: Soldier attack suspect 'radicalized<span style="padding-right:0.2em;">'</span>"</a>. <i>CNN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Canada%3A+Soldier+attack+suspect+%27radicalized%27&amp;rft.aufirst=Ralph&amp;rft.aulast=Ellis&amp;rft.date=2014-10-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2014%2F10%2F21%2Fus%2Fcanada-soldiers-killed-officer-attack%2F&amp;rft.jtitle=CNN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Retirement-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Retirement_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Retirement_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">CBC News (October 23, 2014). <a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/montreal/patrice-vincent-soldier-killed-in-st-jean-sur-richelieu-was-close-to-retirement-1.2810967">"Patrice Vincent, soldier killed in St-Jean-sur-Richelieu, was close to retirement"</a>. CBC News<span class="reference-accessdate">. Retrieved <span class="nowrap">October 27,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Patrice+Vincent%2C+soldier+killed+in+St-Jean-sur-Richelieu%2C+was+close+to+retirement&amp;rft.au=CBC+News&amp;rft.date=2014-10-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fmontreal%2Fpatrice-vincent-soldier-killed-in-st-jean-sur-richelieu-was-close-to-retirement-1.2810967&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.chch.com/funeral-arrangements-confirmed-patrice-vincent/">"Funeral arrangements confirmed for Patrice Vincent"</a>. CHCH TV<span class="reference-accessdate">. Retrieved <span class="nowrap">October 27,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.btitle=Funeral+arrangements+confirmed+for+Patrice+Vincent&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.chch.com%2Ffuneral-arrangements-confirmed-patrice-vincent%2F&amp;rft.pub=CHCH+TV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Austen-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Austen_10-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Austen, Ian (October 21, 2014). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2014/10/22/world/americas/canadian-soldier-run-down-in-what-officials-call-act-of-terror-dies.html">"Hit-and-Run That Killed Canadian Soldier Is Called Terrorist Attack"</a>. <i>New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 7,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Hit-and-Run+That+Killed+Canadian+Soldier+Is+Called+Terrorist+Attack&amp;rft.aufirst=Ian&amp;rft.aulast=Austen&amp;rft.date=2014-10-21&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F22%2Fworld%2Famericas%2Fcanadian-soldier-run-down-in-what-officials-call-act-of-terror-dies.html&amp;rft.jtitle=New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bruemmer-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bruemmer_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bruemmer_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Bruemmer, Rene (November 9, 2014). <a rel="nofollow" class="external text" href="http://news.nationalpost.com/2014/11/09/from-typical-teen-to-jihadist-how-martin-couture-rouleau-became-radicalized-after-converting-to-islam/">"From typical teen to jihadist: How Martin Couture-Rouleau became radicalized after converting to Islam"</a>. <i>National Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=From+typical+teen+to+jihadist%3A+How+Martin+Couture-Rouleau+became+radicalized+after+converting+to+Islam&amp;rft.aufirst=Rene&amp;rft.aulast=Bruemmer&amp;rft.date=2014-11-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.nationalpost.com%2F2014%2F11%2F09%2Ffrom-typical-teen-to-jihadist-how-martin-couture-rouleau-became-radicalized-after-converting-to-islam%2F&amp;rft.jtitle=National+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Global-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Global_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Global_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Global_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Tucker, Erika. <a rel="nofollow" class="external text" href="http://globalnews.ca/news/1626457/who-is-quebec-terror-linked-suspect-martin-rouleau/">"Who is Quebec terror-linked suspect Martin Rouleau?"</a>. <i>Global News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 30,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Who+is+Quebec+terror-linked+suspect+Martin+Rouleau%3F&amp;rft.aufirst=Erika&amp;rft.aulast=Tucker&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fglobalnews.ca%2Fnews%2F1626457%2Fwho-is-quebec-terror-linked-suspect-martin-rouleau%2F&amp;rft.jtitle=Global+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Who_is_Martin_Couture-Rouleau-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Who_is_Martin_Couture-Rouleau_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Who_is_Martin_Couture-Rouleau_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Who_is_Martin_Couture-Rouleau_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Who_is_Martin_Couture-Rouleau_13-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Gollom, Mark; Lindeman, Tracey (October 22, 2014). <a rel="nofollow" class="external text" href="http://www.cbc.ca/news/canada/who-is-martin-couture-rouleau-1.2807285">"Who is Martin Couture-Rouleau?"</a>. <i>CBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 26,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Who+is+Martin+Couture-Rouleau%3F&amp;rft.aufirst=Mark&amp;rft.aulast=Gollom&amp;rft.au=Lindeman%2C+Tracey&amp;rft.date=2014-10-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fwho-is-martin-couture-rouleau-1.2807285&amp;rft.jtitle=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">APreport (October 21, 2014). <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2014/oct/21/canada-soldier-convert-islam-hit-and-run-quebec">"Canadian soldier killed by convert to Islam in hit and run"</a>. The Guardian. AP<span class="reference-accessdate">. Retrieved <span class="nowrap">October 27,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Canadian+soldier+killed+by+convert+to+Islam+in+hit+and+run&amp;rft.au=APreport&amp;rft.date=2014-10-21&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2014%2Foct%2F21%2Fcanada-soldier-convert-islam-hit-and-run-quebec&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ForeignFighter-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-ForeignFighter_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Woods, Allan. <a rel="nofollow" class="external text" href="http://www.thestar.com/news/canada/2014/10/26/how_martin_couturerouleau_became_an_aspiring_islamic_state_fighter.html">"How Martin Couture-Rouleau became an aspiring Islamic State fighter"</a>. <i>Toronto Star</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 27,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=How+Martin+Couture-Rouleau+became+an+aspiring+Islamic+State+fighter&amp;rft.aufirst=Allan&amp;rft.aulast=Woods&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thestar.com%2Fnews%2Fcanada%2F2014%2F10%2F26%2Fhow_martin_couturerouleau_became_an_aspiring_islamic_state_fighter.html&amp;rft.jtitle=Toronto+Star&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Mayer, Andre (October 27, 2014). <a rel="nofollow" class="external text" href="http://www.cbc.ca/news/michael-zehaf-bibeau-and-martin-couture-rouleau-how-canada-tracks-homegrown-radicals-1.2807390">"Michael Zehaf-Bibeau and Martin Couture-Rouleau: How Canada tracks homegrown radicals Parliament Hill, Quebec attacks renew concerns about home-grown extremists"</a>. <i>CBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 7,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Michael+Zehaf-Bibeau+and+Martin+Couture-Rouleau%3A+How+Canada+tracks+homegrown+radicals+Parliament+Hill%2C+Quebec+attacks+renew+concerns+about+home-grown+extremists&amp;rft.aufirst=Andre&amp;rft.aulast=Mayer&amp;rft.date=2014-10-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fmichael-zehaf-bibeau-and-martin-couture-rouleau-how-canada-tracks-homegrown-radicals-1.2807390&amp;rft.jtitle=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">staff (October 21, 2014). <a rel="nofollow" class="external text" href="http://news.nationalpost.com/2014/10/21/saint-jean-sur-richelieu-attack-was-an-unacceptable-act-of-violence-against-canada-public-safety-minister-says/">"Saint-Jean-sur-Richelieu attack was 'clearly linked to terrorist ideology,' safety minister says"</a>. National Post<span class="reference-accessdate">. Retrieved <span class="nowrap">November 7,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Saint-Jean-sur-Richelieu+attack+was+%98clearly+linked+to+terrorist+ideology%2C%99+safety+minister+says&amp;rft.au=staff&amp;rft.date=2014-10-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.nationalpost.com%2F2014%2F10%2F21%2Fsaint-jean-sur-richelieu-attack-was-an-unacceptable-act-of-violence-against-canada-public-safety-minister-says%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.ctvnews.ca/canada/was-parliament-gunman-a-terrorist-mulcair-says-criminal-igniting-debate-1.2078067#ixzz3KXvgHuEW">"Was Parliament gunman a terrorist? Mulcair says 'criminal,' igniting debate"</a>. <i>CTV News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Was+Parliament+gunman+a+terrorist%3F+Mulcair+says+%27criminal%2C%27+igniting+debate&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ctvnews.ca%2Fcanada%2Fwas-parliament-gunman-a-terrorist-mulcair-says-criminal-igniting-debate-1.2078067%23ixzz3KXvgHuEW&amp;rft.jtitle=CTV+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news">Hamilton, Graeme (October 21, 2014). <a rel="nofollow" class="external text" href="http://news.nationalpost.com/2014/10/21/martin-rouleaus-neighbours-sad-but-not-surprised-over-his-alleged-role-in-soldiers-death/">"<i>Martin Rouleau's neighbours sad but not surprised over his alleged role in soldier's death</i>"</a>. <i>National Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Martin+Rouleau%99s+neighbours+sad+but+not+surprised+over+his+alleged+role+in+soldier%99s+death&amp;rft.aufirst=Graeme&amp;rft.aulast=Hamilton&amp;rft.date=2014-10-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.nationalpost.com%2F2014%2F10%2F21%2Fmartin-rouleaus-neighbours-sad-but-not-surprised-over-his-alleged-role-in-soldiers-death%2F&amp;rft.jtitle=National+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Blackwell, Tom (October 21, 2014). <a rel="nofollow" class="external text" href="http://news.nationalpost.com/2014/10/21/was-quebec-attack-on-soldiers-really-terrorism-or-just-the-violent-actions-of-a-disturbed-man/">"Was Quebec attack on soldiers really terrorism, or just the violent actions of a disturbed man?"</a>. <i>National Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=Was+Quebec+attack+on+soldiers+really+terrorism%2C+or+just+the+violent+actions+of+a+disturbed+man%3F&amp;rft.aufirst=Tom&amp;rft.aulast=Blackwell&amp;rft.date=2014-10-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.nationalpost.com%2F2014%2F10%2F21%2Fwas-quebec-attack-on-soldiers-really-terrorism-or-just-the-violent-actions-of-a-disturbed-man%2F&amp;rft.jtitle=National+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Siegel, Jacob (October 24, 2014). <a rel="nofollow" class="external text" href="http://www.thedailybeast.com/articles/2014/10/24/in-canada-the-stray-dogs-of-isis.html">"Lone Wolves, Terrorist Runts, and the Stray Dogs of ISIS Why ISIS and al Qaeda rely on loners and losers to carry out their terrorist agenda in the West"</a>. Daily Beast<span class="reference-accessdate">. Retrieved <span class="nowrap">November 7,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.aufirst=Jacob&amp;rft.aulast=Siegel&amp;rft.btitle=Lone+Wolves%2C+Terrorist+Runts%2C+and+the+Stray+Dogs+of+ISIS+Why+ISIS+and+al+Qaeda+rely+on+loners+and+losers+to+carry+out+their+terrorist+agenda+in+the+West&amp;rft.date=2014-10-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thedailybeast.com%2Farticles%2F2014%2F10%2F24%2Fin-canada-the-stray-dogs-of-isis.html&amp;rft.pub=Daily+Beast&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Baxter, James (November 4, 2014). <a rel="nofollow" class="external text" href="http://www.ipolitics.ca/2014/11/04/harper-isnt-about-to-let-a-good-crisis-get-away/">"<i>Harper isn't about to get a good crisis get away</i>,"</a>. iPolitics<span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.aufirst=James&amp;rft.aulast=Baxter&amp;rft.btitle=Harper+isn%27t+about+to+get+a+good+crisis+get+away%2C&amp;rft.date=2014-11-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ipolitics.ca%2F2014%2F11%2F04%2Fharper-isnt-about-to-let-a-good-crisis-get-away%2F&amp;rft.pub=iPolitics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">McQuaig, Linda (October 29, 2014). <a rel="nofollow" class="external text" href="http://www.ipolitics.ca/2014/10/29/for-stephen-harper-fear-works/">"<i>For Stephen Harper, Fear Works</i>"</a>. iPolitics<span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.aufirst=Linda&amp;rft.aulast=McQuaig&amp;rft.btitle=For+Stephen+Harper%2C+Fear+Works&amp;rft.date=2014-10-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ipolitics.ca%2F2014%2F10%2F29%2Ffor-stephen-harper-fear-works%2F&amp;rft.pub=iPolitics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Greenwald, Glenn (October 22, 2014). <a rel="nofollow" class="external text" href="https://firstlook.org/theintercept/2014/10/22/canada-proclaiming-war-12-years-shocked-someone-attacked-soldiers/">"<i>CANADA, AT WAR FOR 13 YEARS, SHOCKED THAT 'A TERRORIST' ATTACKED ITS SOLDIERS</i>"</a>. The Intercept<span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.aufirst=Glenn&amp;rft.aulast=Greenwald&amp;rft.btitle=CANADA%2C+AT+WAR+FOR+13+YEARS%2C+SHOCKED+THAT+%98A+TERRORIST%99+ATTACKED+ITS+SOLDIERS&amp;rft.date=2014-10-22&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Ffirstlook.org%2Ftheintercept%2F2014%2F10%2F22%2Fcanada-proclaiming-war-12-years-shocked-someone-attacked-soldiers%2F&amp;rft.pub=The+Intercept&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news">Picard, Andre (October 28, 2014). <a rel="nofollow" class="external text" href="http://www.theglobeandmail.com/globe-debate/we-cant-legislate-lost-souls/article21330013/">"We can't legislate lost souls"</a>. <i>The Globe and Mail</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.atitle=We+can%99t+legislate+lost+souls&amp;rft.aufirst=Andre&amp;rft.aulast=Picard&amp;rft.date=2014-10-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.theglobeandmail.com%2Fglobe-debate%2Fwe-cant-legislate-lost-souls%2Farticle21330013%2F&amp;rft.jtitle=The+Globe+and+Mail&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Perkel, Colin (December 20, 2014). <a rel="nofollow" class="external text" href="http://www.calgaryherald.com/news/national/Slain+soldiers+Cirillo+Vincent+named+Canadas+Newsmaker+Year/10671276/story.html">"Slain soldiers Cirillo and Vincent named Canada's Newsmaker of the Year"</a>. The Canadian Press<span class="reference-accessdate">. Retrieved <span class="nowrap">December 20,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;rft.aufirst=Colin&amp;rft.aulast=Perkel&amp;rft.btitle=Slain+soldiers+Cirillo+and+Vincent+named+Canada%27s+Newsmaker+of+the+Year&amp;rft.date=2014-12-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.calgaryherald.com%2Fnews%2Fnational%2FSlain%2Bsoldiers%2BCirillo%2BVincent%2Bnamed%2BCanadas%2BNewsmaker%2BYear%2F10671276%2Fstory.html&amp;rft.pub=The+Canadian+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Canadian_Newsmaker_of_the_Year" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Canadian_Newsmaker_of_the_Year" title="Template:Canadian Newsmaker of the Year"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Canadian_Newsmaker_of_the_Year" title="Template talk:Canadian Newsmaker of the Year"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Canadian_Newsmaker_of_the_Year&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Canadian_Newsmaker_of_the_Year" style="font-size:114%;margin:0 4em"><a href="/wiki/Canadian_Newsmaker_of_the_Year" title="Canadian Newsmaker of the Year">Canadian Newsmaker of the Year</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Igor_Gouzenko" title="Igor Gouzenko">Igor Gouzenko</a>
+<ul>
+<li>1946</li>
+</ul>
+</li>
+<li><a href="/wiki/Barbara_Ann_Scott" title="Barbara Ann Scott">Barbara Ann Scott</a>
+<ul>
+<li>1947</li>
+</ul>
+</li>
+<li><a href="/wiki/William_Lyon_Mackenzie_King" title="William Lyon Mackenzie King">William Lyon Mackenzie King</a>
+<ul>
+<li>1948</li>
+</ul>
+</li>
+<li><a href="/wiki/Louis_St._Laurent" title="Louis St. Laurent">Louis St. Laurent</a>
+<ul>
+<li>1949</li>
+</ul>
+</li>
+<li><a href="/wiki/Lester_B._Pearson" title="Lester B. Pearson">Lester B. Pearson</a>
+<ul>
+<li>1950–1953</li>
+</ul>
+</li>
+<li><a href="/wiki/Marilyn_Bell" title="Marilyn Bell">Marilyn Bell</a>
+<ul>
+<li>1954</li>
+</ul>
+</li>
+<li><a href="/wiki/Lester_B._Pearson" title="Lester B. Pearson">Lester B. Pearson</a>
+<ul>
+<li>1955–1956</li>
+</ul>
+</li>
+<li><a href="/wiki/John_Diefenbaker" title="John Diefenbaker">John Diefenbaker</a>
+<ul>
+<li>1957–1960</li>
+</ul>
+</li>
+<li><a href="/wiki/Joey_Smallwood" title="Joey Smallwood">Joey Smallwood</a>
+<ul>
+<li>1959</li>
+</ul>
+</li>
+<li><a href="/wiki/James_Coyne" title="James Coyne">James Coyne</a>
+<ul>
+<li>1961</li>
+</ul>
+</li>
+<li><a href="/wiki/R%C3%A9al_Caouette" title="Réal Caouette">Réal Caouette</a>
+<ul>
+<li>1962</li>
+</ul>
+</li>
+<li><a href="/wiki/Lester_B._Pearson" title="Lester B. Pearson">Lester B. Pearson</a>
+<ul>
+<li>1963–1964</li>
+</ul>
+</li>
+<li><a href="/wiki/Lucien_Rivard" title="Lucien Rivard">Lucien Rivard</a>
+<ul>
+<li>1965</li>
+</ul>
+</li>
+<li><a href="/wiki/John_Diefenbaker" title="John Diefenbaker">John Diefenbaker</a>
+<ul>
+<li>1966</li>
+</ul>
+</li>
+<li><a href="/wiki/Lester_B._Pearson" title="Lester B. Pearson">Lester B. Pearson</a>
+<ul>
+<li>1967</li>
+</ul>
+</li>
+<li><a href="/wiki/Pierre_Trudeau" title="Pierre Trudeau">Pierre Trudeau</a>
+<ul>
+<li>1968–1975</li>
+</ul>
+</li>
+<li><a href="/wiki/Ren%C3%A9_L%C3%A9vesque" title="René Lévesque">René Lévesque</a>
+<ul>
+<li>1976–1977</li>
+</ul>
+</li>
+<li><a href="/wiki/Pierre_Trudeau" title="Pierre Trudeau">Pierre Trudeau</a>
+<ul>
+<li>1978</li>
+</ul>
+</li>
+<li><a href="/wiki/Joe_Clark" title="Joe Clark">Joe Clark</a>
+<ul>
+<li>1979</li>
+</ul>
+</li>
+<li><a href="/wiki/Terry_Fox" title="Terry Fox">Terry Fox</a>
+<ul>
+<li>1980–1981</li>
+</ul>
+</li>
+<li><a href="/wiki/Wayne_Gretzky" title="Wayne Gretzky">Wayne Gretzky</a>
+<ul>
+<li>1982</li>
+</ul>
+</li>
+<li><a href="/wiki/Brian_Mulroney" title="Brian Mulroney">Brian Mulroney</a>
+<ul>
+<li>1983–1984</li>
+</ul>
+</li>
+<li><a href="/wiki/Steve_Fonyo" title="Steve Fonyo">Steve Fonyo</a>
+<ul>
+<li>1985</li>
+</ul>
+</li>
+<li><a href="/wiki/Rick_Hansen" title="Rick Hansen">Rick Hansen</a>
+<ul>
+<li>1986–1987</li>
+</ul>
+</li>
+<li><a href="/wiki/Ben_Johnson_(sprinter)" title="Ben Johnson (sprinter)">Ben Johnson</a>
+<ul>
+<li>1988</li>
+</ul>
+</li>
+<li><a href="/wiki/Michael_Wilson_(Canadian_politician)" title="Michael Wilson (Canadian politician)">Michael Wilson</a>
+<ul>
+<li>1989</li>
+</ul>
+</li>
+<li><a href="/wiki/Elijah_Harper" title="Elijah Harper">Elijah Harper</a>
+<ul>
+<li>1990</li>
+</ul>
+</li>
+<li><a href="/wiki/Brian_Mulroney" title="Brian Mulroney">Brian Mulroney</a>
+<ul>
+<li>1991</li>
+</ul>
+</li>
+<li><a href="/wiki/Charlottetown_Accord" title="Charlottetown Accord">The referendum on the Charlottetown Accord</a>
+<ul>
+<li>1992</li>
+</ul>
+</li>
+<li><a href="/wiki/Kim_Campbell" title="Kim Campbell">Kim Campbell</a>
+<ul>
+<li>1993</li>
+</ul>
+</li>
+<li><a href="/wiki/Jacques_Parizeau" title="Jacques Parizeau">Jacques Parizeau</a>
+<ul>
+<li>1994</li>
+</ul>
+</li>
+<li><a href="/wiki/Lucien_Bouchard" title="Lucien Bouchard">Lucien Bouchard</a>
+<ul>
+<li>1995</li>
+</ul>
+</li>
+<li><a href="/wiki/Donovan_Bailey" title="Donovan Bailey">Donovan Bailey</a>
+<ul>
+<li>1996</li>
+</ul>
+</li>
+<li><a href="/wiki/Sheldon_Kennedy" title="Sheldon Kennedy">Sheldon Kennedy</a>
+<ul>
+<li>1997</li>
+</ul>
+</li>
+<li><a href="/wiki/Jean_Chr%C3%A9tien" title="Jean Chrétien">Jean Chrétien</a>
+<ul>
+<li>1998</li>
+</ul>
+</li>
+<li><a href="/wiki/Pierre_Trudeau" title="Pierre Trudeau">Pierre Trudeau</a>
+<ul>
+<li>1999, as Newsmaker of the 20th Century</li>
+</ul>
+</li>
+<li><a href="/wiki/Pierre_Trudeau" title="Pierre Trudeau">Pierre Trudeau</a>
+<ul>
+<li>2000</li>
+</ul>
+</li>
+<li><a href="/wiki/Stockwell_Day" title="Stockwell Day">Stockwell Day</a>
+<ul>
+<li>2001</li>
+</ul>
+</li>
+<li><a href="/wiki/Jean_Chr%C3%A9tien" title="Jean Chrétien">Jean Chrétien</a>
+<ul>
+<li>2002</li>
+</ul>
+</li>
+<li><a href="/wiki/Paul_Martin" title="Paul Martin">Paul Martin</a>
+<ul>
+<li>2003–2004</li>
+</ul>
+</li>
+<li><a href="/wiki/John_Gomery" title="John Gomery">John Gomery</a>
+<ul>
+<li>2005</li>
+</ul>
+</li>
+<li><a href="/wiki/Canadian_Forces" class="mw-redirect" title="Canadian Forces">The Canadian Soldier</a>
+<ul>
+<li>2006</li>
+</ul>
+</li>
+<li><a href="/wiki/Royal_Canadian_Mounted_Police" title="Royal Canadian Mounted Police">RCMP</a>
+<ul>
+<li>2007</li>
+</ul>
+</li>
+<li><a href="/wiki/Stephen_Harper" title="Stephen Harper">Stephen Harper</a>
+<ul>
+<li>2008–2009</li>
+</ul>
+</li>
+<li><a href="/wiki/Russell_Williams_(criminal)" title="Russell Williams (criminal)">Russell Williams</a>
+<ul>
+<li>2010</li>
+</ul>
+</li>
+<li><a href="/wiki/Jack_Layton" title="Jack Layton">Jack Layton</a>
+<ul>
+<li>2011</li>
+</ul>
+</li>
+<li><a href="/wiki/Luka_Magnotta" title="Luka Magnotta">Luka Magnotta</a>
+<ul>
+<li>2012</li>
+</ul>
+</li>
+<li><a href="/wiki/Rob_Ford" title="Rob Ford">Rob Ford</a>
+<ul>
+<li>2013</li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">Patrice Vincent</a> and <a href="/wiki/2014_shootings_at_Parliament_Hill,_Ottawa" title="2014 shootings at Parliament Hill, Ottawa">Nathan Cirillo</a>
+<ul>
+<li>2014</li>
+</ul>
+</li>
+<li><a href="/wiki/Justin_Trudeau" title="Justin Trudeau">Justin Trudeau</a>
+<ul>
+<li>2015</li>
+</ul>
+</li>
+<li><a href="/wiki/Gord_Downie" title="Gord Downie">Gord Downie</a>
+<ul>
+<li>2016</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Canadian_Newsmakers_of_the_Year" title="Book:Canadian Newsmakers of the Year">Book:Canadian Newsmakers of the Year</a></b></li>
+<li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:History_of_Canada" title="Portal:History of Canada">Portal:History of Canada</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Islamic_State_of_Iraq_and_the_Levant" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Islamic_State_of_Iraq_and_the_Levant" title="Template:Islamic State of Iraq and the Levant"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Islamic_State_of_Iraq_and_the_Levant" title="Template talk:Islamic State of Iraq and the Levant"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Islamic_State_of_Iraq_and_the_Levant&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Islamic_State_of_Iraq_and_the_Levant" style="font-size:114%;margin:0 4em"><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant" title="Islamic State of Iraq and the Levant">Islamic State of Iraq and the Levant</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Leadership</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Current</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abu_Bakr_al-Baghdadi" title="Abu Bakr al-Baghdadi">Abu Bakr al-Baghdadi</a></li>
+<li><a href="/wiki/Abu_Ahmad_al-Alwani" title="Abu Ahmad al-Alwani">Abu Ahmad al-Alwani</a></li>
+<li><a href="/wiki/Abu_Fatima_al-Jaheishi" title="Abu Fatima al-Jaheishi">Abu Fatima al-Jaheishi</a></li>
+<li><a href="/wiki/Abu_Muhammad_al-Shimali" title="Abu Muhammad al-Shimali">Abu Muhammad al-Shimali</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">&#160;<a href="/wiki/Killed_in_action" title="Killed in action"><span style="font-family:'Times New Roman','Old English Text MT',serif"><b>†</b></span></a> Former</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Haji_Bakr" title="Haji Bakr">Haji Bakr</a></li>
+<li><a href="/wiki/Abu_Abdulrahman_al-Bilawi" title="Abu Abdulrahman al-Bilawi">Abu Abdulrahman al-Bilawi</a></li>
+<li><a href="/wiki/Abu_Mohannad_al-Sweidawi" title="Abu Mohannad al-Sweidawi">Abu Mohannad al-Sweidawi</a></li>
+<li><a href="/wiki/Abdul_Rauf_Aliza" title="Abdul Rauf Aliza">Abdul Rauf Aliza</a></li>
+<li><a href="/wiki/Abu_Sayyaf_(ISIL)" title="Abu Sayyaf (ISIL)">Abu Sayyaf</a></li>
+<li><a href="/wiki/Ali_Awni_al-Harzi" title="Ali Awni al-Harzi">Ali Awni al-Harzi</a></li>
+<li><a href="/wiki/Abu_Umar_al-Tunisi" title="Abu Umar al-Tunisi">Abu Umar al-Tunisi</a></li>
+<li><a href="/wiki/Abu_Muslim_al-Turkmani" title="Abu Muslim al-Turkmani">Abu Muslim al-Turkmani</a></li>
+<li><a href="/wiki/Jihadi_John" title="Jihadi John">Mohammed Emwazi</a></li>
+<li><a href="/wiki/Abu_Nabil_al-Anbari" title="Abu Nabil al-Anbari">Abu Nabil al-Anbari</a></li>
+<li><a href="/wiki/Abu_Ali_al-Anbari" title="Abu Ali al-Anbari">Abu Ali al-Anbari</a></li>
+<li><a href="/wiki/Abu_Waheeb" title="Abu Waheeb">Abu Waheeb</a></li>
+<li><a href="/wiki/Abu_Omar_al-Shishani" title="Abu Omar al-Shishani">Abu Omar al-Shishani</a></li>
+<li><a href="/wiki/Abu_Mohammad_al-Adnani" title="Abu Mohammad al-Adnani">Abu Mohammad al-Adnani</a></li>
+<li><a href="/wiki/Abu_Jandal_al-Kuwaiti" title="Abu Jandal al-Kuwaiti">Abu Jandal al-Kuwaiti</a></li>
+<li><a href="/wiki/Ahmad_Abousamra" title="Ahmad Abousamra">Ahmad Abousamra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">History</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jama%27at_al-Tawhid_wal-Jihad" title="Jama'at al-Tawhid wal-Jihad">Jama'at al-Tawhid wal-Jihad</a>&#160;<small>(1999–2004)</small></li>
+<li><a href="/wiki/Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn" title="Tanzim Qaidat al-Jihad fi Bilad al-Rafidayn">Tanzim Qaidat al-Jihad fi Bilad al-Rafidayn</a>&#160;<small>(2004–06)</small></li>
+<li><a href="/wiki/Mujahideen_Shura_Council_(Iraq)" title="Mujahideen Shura Council (Iraq)">Mujahideen Shura Council</a>&#160;<small>(2006)</small></li>
+<li><a href="/wiki/Islamic_State_of_Iraq" title="Islamic State of Iraq">Islamic State of Iraq</a>&#160;<small>(2006–13)</small></li>
+<li><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant#As_Islamic_State_of_Iraq_and_the_Levant.2C_2013.E2.80.9314" title="Islamic State of Iraq and the Levant">Islamic State of Iraq and the Levant</a>&#160;<small>(2013–14)</small></li>
+<li><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant#As_Islamic_State.2C_2014.E2.80.93present" title="Islamic State of Iraq and the Levant">Islamic State</a>&#160;<small>(June 2014–present)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Timeline_of_ISIL-related_events" title="Timeline of ISIL-related events">Timeline of events</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Timeline_of_ISIL-related_events_(2013)" title="Timeline of ISIL-related events (2013)">2013</a></li>
+<li><a href="/wiki/Timeline_of_ISIL-related_events_(2014)" title="Timeline of ISIL-related events (2014)">2014</a></li>
+<li><a href="/wiki/Timeline_of_ISIL-related_events_(2015)" title="Timeline of ISIL-related events (2015)">2015</a></li>
+<li><a href="/wiki/Timeline_of_ISIL-related_events_(2016)" title="Timeline of ISIL-related events (2016)">2016</a></li>
+<li><a href="/wiki/Timeline_of_ISIL-related_events_(2017)" title="Timeline of ISIL-related events (2017)">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/ISIL_territorial_claims#Specific_territorial_claims" title="ISIL territorial claims">International<br />
+branches</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant_%E2%80%93_Khorasan_Province" title="Islamic State of Iraq and the Levant – Khorasan Province">Khorasan Province (Afghanistan and Pakistan)</a></li>
+<li><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant_in_Libya" title="Islamic State of Iraq and the Levant in Libya">Libyan Provinces (Libya)</a></li>
+<li><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant_%E2%80%93_Caucasus_Province" title="Islamic State of Iraq and the Levant – Caucasus Province">Caucasus Province (North Caucasus)</a></li>
+<li><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant_%E2%80%93_Sinai_Province" title="Islamic State of Iraq and the Levant – Sinai Province">Sinai Province (Sinai)</a></li>
+<li><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant_%E2%80%93_Algeria_Province" title="Islamic State of Iraq and the Levant – Algeria Province">Algeria Province (Algeria)</a></li>
+<li><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant_%E2%80%93_Yemen_Province" title="Islamic State of Iraq and the Levant – Yemen Province">Yemen Province (Yemen)</a></li>
+<li><a href="/wiki/Islamic_State_in_Somalia" title="Islamic State in Somalia">Abnaa ul-Calipha (Somalia)</a></li>
+<li><a href="/wiki/Boko_Haram" title="Boko Haram">Boko Haram (West Africa)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_wars_and_battles_involving_ISIL" title="List of wars and battles involving ISIL">Wars</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/War_on_Terror" title="War on Terror">War on Terror</a></li>
+<li><a href="/wiki/Iraq_War" title="Iraq War">Iraq War</a>
+<ul>
+<li><a href="/wiki/Iraqi_insurgency_(2003%E2%80%9311)" title="Iraqi insurgency (2003–11)">Iraqi insurgency (2003–11)</a></li>
+<li><a href="/wiki/Sectarian_violence_in_Iraq_(2006%E2%80%9307)" title="Sectarian violence in Iraq (2006–07)">Sectarian violence (2006–07)</a></li>
+<li><a href="/wiki/Iraqi_insurgency_(2011%E2%80%9314)" title="Iraqi insurgency (2011–14)">Iraqi insurgency (2011–14)</a></li>
+<li><a href="/wiki/Iraqi_Civil_War_(2014%E2%80%93present)" title="Iraqi Civil War (2014–present)">Iraqi Civil War (2014–present)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Syrian_Civil_War" title="Syrian Civil War">Syrian Civil War</a>
+<ul>
+<li><a href="/wiki/Spillover_of_the_Syrian_Civil_War" title="Spillover of the Syrian Civil War">Spillover</a></li>
+<li><a href="/wiki/Syrian_Civil_War_spillover_in_Lebanon" title="Syrian Civil War spillover in Lebanon">Spillover in Lebanon</a></li>
+<li><a href="/wiki/Inter-rebel_conflict_during_the_Syrian_Civil_War" title="Inter-rebel conflict during the Syrian Civil War">Inter-rebel conflict</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sinai_insurgency" title="Sinai insurgency">Sinai insurgency</a></li>
+<li><a href="/wiki/Libyan_Civil_War_(2014%E2%80%93present)" title="Libyan Civil War (2014–present)">Libyan Civil War (2014–present)</a></li>
+<li><a href="/wiki/War_in_North-West_Pakistan" title="War in North-West Pakistan">War in North-West Pakistan</a></li>
+<li><a href="/wiki/War_in_Afghanistan_(2015%E2%80%93present)" title="War in Afghanistan (2015–present)">War in Afghanistan (2015–present)</a></li>
+<li><a href="/wiki/Moro_conflict" title="Moro conflict">Moro conflict (Philippines)</a></li>
+<li><a href="/wiki/Al-Qaeda_insurgency_in_Yemen" title="Al-Qaeda insurgency in Yemen">al-Qaeda insurgency in Yemen</a></li>
+<li><a href="/wiki/Yemeni_Civil_War_(2015%E2%80%93present)" title="Yemeni Civil War (2015–present)">Yemeni Civil War (2015–present)</a></li>
+<li><a href="/wiki/Boko_Haram_insurgency" title="Boko Haram insurgency">Boko Haram insurgency</a></li>
+<li><a href="/wiki/Military_intervention_against_ISIL" title="Military intervention against ISIL">Military intervention against ISIL</a>
+<ul>
+<li><a href="/wiki/American-led_intervention_in_Iraq_(2014%E2%80%93present)" title="American-led intervention in Iraq (2014–present)">American-led intervention in Iraq</a></li>
+<li><a href="/wiki/American-led_intervention_in_Syria" title="American-led intervention in Syria">American-led intervention in Syria</a></li>
+<li><a href="/wiki/Russian_military_intervention_in_Syria" title="Russian military intervention in Syria">Russian military intervention in Syria</a></li>
+<li><a href="/wiki/Turkish_military_intervention_in_Syria" title="Turkish military intervention in Syria">Turkish military intervention in Syria</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_wars_and_battles_involving_ISIL" title="List of wars and battles involving ISIL">Battles</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Akashat_ambush" title="Akashat ambush">Akashat ambush</a></li>
+<li><a href="/wiki/2013_Hawija_clashes" title="2013 Hawija clashes">Hawija clashes</a></li>
+<li><a href="/wiki/Raqqa_campaign_(2012%E2%80%9313)" title="Raqqa campaign (2012–13)">Raqqa campaign (2012–13)</a></li>
+<li><a href="/wiki/Operation_al-Shabah" title="Operation al-Shabah">Operation al-Shabah</a></li>
+<li><a href="/wiki/Battle_of_Ras_al-Ayn" title="Battle of Ras al-Ayn">Battle of Ras al-Ayn</a></li>
+<li><a href="/wiki/Battle_of_Tell_Abyad_(2013)" title="Battle of Tell Abyad (2013)">Battle of Tell Abyad</a></li>
+<li><a href="/wiki/2013_Latakia_offensive" title="2013 Latakia offensive">Latakia offensive</a></li>
+<li><a href="/wiki/Siege_of_Menagh_Air_Base" title="Siege of Menagh Air Base">Siege of Menagh Air Base</a></li>
+<li><a href="/wiki/Battle_of_Sadad" title="Battle of Sadad">Battle of Sadad</a></li>
+<li><a href="/wiki/Battle_of_Qalamoun_(2013)" title="Battle of Qalamoun (2013)">Battle of Qalamoun</a></li>
+<li><a href="/wiki/Aleppo_offensive_(October%E2%80%93December_2013)" title="Aleppo offensive (October–December 2013)">Aleppo offensive (October–December 2013)</a></li>
+<li><a href="/wiki/Anbar_campaign_(2013%E2%80%9314)" title="Anbar campaign (2013–14)">Anbar campaign (2013–14)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fall_of_Fallujah_(2014)" title="Fall of Fallujah (2014)">Fall of Fallujah</a></li>
+<li><a href="/wiki/Battle_of_Markada" title="Battle of Markada">Battle of Markada</a></li>
+<li><a href="/wiki/Northern_Iraq_offensive_(June_2014)" title="Northern Iraq offensive (June 2014)">Northern Iraq offensive (June 2014)</a></li>
+<li><a href="/wiki/Fall_of_Mosul" title="Fall of Mosul">Fall of Mosul</a></li>
+<li><a href="/wiki/Salahuddin_campaign" title="Salahuddin campaign">Salahuddin campaign</a></li>
+<li><a href="/wiki/First_Battle_of_Tikrit" title="First Battle of Tikrit">First Battle of Tikrit</a></li>
+<li><a href="/wiki/Northern_Iraq_offensive_(August_2014)" title="Northern Iraq offensive (August 2014)">Northern Iraq offensive (August 2014)</a></li>
+<li><a href="/wiki/Siege_of_Koban%C3%AE" title="Siege of Kobanî">Siege of Kobanî</a></li>
+<li><a href="/wiki/Sinjar_massacre" title="Sinjar massacre">Sinjar massacre</a></li>
+<li><a href="/wiki/Derna_campaign_(2014%E2%80%9316)" title="Derna campaign (2014–16)">Derna campaign (2014–16)</a></li>
+<li><a href="/wiki/Battle_of_Baiji_(2014)" title="Battle of Baiji (2014)">Battle of Baiji</a></li>
+<li><a href="/wiki/Battle_of_Ramadi_(2014%E2%80%9315)" title="Battle of Ramadi (2014–15)">Battle of Ramadi (2014–15)</a></li>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(December_2014)" title="Deir ez-Zor offensive (December 2014)">Deir ez-Zor offensive (December 2014)</a></li>
+<li><a href="/wiki/Battle_of_Baiji_(2014%E2%80%9315)" title="Battle of Baiji (2014–15)">Battle of Baiji (2014–15)</a></li>
+<li><a href="/wiki/December_2014_Sinjar_offensive" title="December 2014 Sinjar offensive">Sinjar offensive (December 2014)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2015</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fall_of_Nofaliya_(2015)" title="Fall of Nofaliya (2015)">Fall of Nofaliya</a></li>
+<li><a href="/wiki/2015_West_African_offensive" title="2015 West African offensive">West African offensive</a></li>
+<li><a href="/wiki/February_2015_Egyptian_airstrikes_in_Libya" title="February 2015 Egyptian airstrikes in Libya">February 2015 Egyptian airstrikes in Libya</a></li>
+<li><a href="/wiki/2015_Niger_raid" title="2015 Niger raid">Bosso and Diffa raid</a></li>
+<li><a href="/wiki/Eastern_al-Hasakah_offensive" title="Eastern al-Hasakah offensive">Eastern al-Hasakah offensive</a></li>
+<li><a href="/wiki/Second_Battle_of_Tikrit" title="Second Battle of Tikrit">Second Battle of Tikrit</a></li>
+<li><a href="/wiki/Battle_of_Sirte_(2015)" title="Battle of Sirte (2015)">Battle of Sirte</a></li>
+<li><a href="/wiki/Hama_and_Homs_offensive_(March%E2%80%93April_2015)" title="Hama and Homs offensive (March–April 2015)">Hama and Homs offensive (March–April 2015)</a></li>
+<li><a href="/wiki/Battle_of_Sarrin_(March%E2%80%93April_2015)" title="Battle of Sarrin (March–April 2015)">Battle of Sarrin (March–April 2015)</a></li>
+<li><a href="/wiki/Battle_of_Yarmouk_Camp_(2015)" title="Battle of Yarmouk Camp (2015)">Battle of Yarmouk Camp</a></li>
+<li><a href="/wiki/Al-Karmah_offensive_(2015)" title="Al-Karmah offensive (2015)">Anbar offensive (2015)</a></li>
+<li><a href="/wiki/Qalamoun_offensive_(May%E2%80%93June_2015)" title="Qalamoun offensive (May–June 2015)">Qalamoun offensive (May–June 2015)</a></li>
+<li><a href="/wiki/Palmyra_offensive_(May_2015)" title="Palmyra offensive (May 2015)">Palmyra offensive (May 2015)</a></li>
+<li><a href="/wiki/Western_al-Hasakah_offensive" title="Western al-Hasakah offensive">Western al-Hasakah offensive</a></li>
+<li><a href="/wiki/Al-Hasakah_city_offensive_(May%E2%80%93June_2015)" title="Al-Hasakah city offensive (May–June 2015)">Al-Hasakah city offensive (May–June 2015)</a></li>
+<li><a href="/wiki/Tell_Abyad_offensive" title="Tell Abyad offensive">Tell Abyad offensive (May–July 2015)</a></li>
+<li><a href="/wiki/Battle_of_Sarrin_(June%E2%80%93July_2015)" title="Battle of Sarrin (June–July 2015)">Battle of Sarrin (June–July 2015)</a></li>
+<li><a href="/wiki/Battle_of_al-Hasakah_(2015)" title="Battle of al-Hasakah (2015)">Battle of al-Hasakah</a></li>
+<li><a href="/wiki/Koban%C3%AE_massacre" title="Kobanî massacre">Kobanî massacre</a></li>
+<li><a href="/wiki/Palmyra_offensive_(July%E2%80%93August_2015)" title="Palmyra offensive (July–August 2015)">Palmyra offensive (July–August 2015)</a></li>
+<li><a href="/wiki/Battle_of_Ramadi_(2015%E2%80%9316)" title="Battle of Ramadi (2015–16)">Battle of Ramadi (2015–16)</a></li>
+<li><a href="/wiki/Battle_of_Al-Qaryatayn_(August_2015)" title="Battle of Al-Qaryatayn (August 2015)">Battle of Al-Qaryatayn (August 2015)</a></li>
+<li><a href="/wiki/2015_Al-Hawl_offensive" title="2015 Al-Hawl offensive">Al-Hawl offensive</a></li>
+<li><a href="/wiki/Homs_offensive_(November%E2%80%93December_2015)" title="Homs offensive (November–December 2015)">Homs offensive (November–December 2015)</a></li>
+<li><a href="/wiki/November_2015_Sinjar_offensive" title="November 2015 Sinjar offensive">Sinjar offensive (November 2015)</a></li>
+<li><a href="/wiki/East_Aleppo_offensive_(2015%E2%80%9316)" title="East Aleppo offensive (2015–16)">East Aleppo offensive (2015–16)</a></li>
+<li><a href="/wiki/Nineveh_Plains_offensive" title="Nineveh Plains offensive">Nineveh Plains offensive</a></li>
+<li><a href="/wiki/Tishrin_Dam_offensive" title="Tishrin Dam offensive">Tishrin Dam offensive</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2016</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(January_2016)" title="Deir ez-Zor offensive (January 2016)">Deir ez-Zor offensive (January 2016)</a></li>
+<li><a href="/wiki/Siege_of_Fallujah_(2016)" title="Siege of Fallujah (2016)">Siege of Fallujah (2016)</a></li>
+<li><a href="/wiki/Nangarhar_Offensive_(2016)" title="Nangarhar Offensive (2016)">Nangarhar Offensive</a></li>
+<li><a href="/wiki/Battle_of_Ben_Guerdane" title="Battle of Ben Guerdane">Battle of Ben Guerdane</a></li>
+<li><a href="/wiki/Ithriyah-Raqqa_offensive_(February%E2%80%93March_2016)" title="Ithriyah-Raqqa offensive (February–March 2016)">Ithriyah-Raqqa offensive (February–March 2016)</a></li>
+<li><a href="/wiki/Al-Shaddadi_offensive_(2016)" title="Al-Shaddadi offensive (2016)">Al-Shaddadi offensive</a></li>
+<li><a href="/wiki/2016_Khanasir_offensive" title="2016 Khanasir offensive">2016 Khanasir offensive</a></li>
+<li><a href="/wiki/Battle_of_al-Qaryatayn_(March%E2%80%93April_2016)" title="Battle of al-Qaryatayn (March–April 2016)">Battle of al-Qaryatayn (March–April 2016)</a></li>
+<li><a href="/wiki/Palmyra_offensive_(March_2016)" title="Palmyra offensive (March 2016)">Palmyra offensive (March 2016)</a></li>
+<li><a href="/wiki/Northern_Aleppo_offensive_(March%E2%80%93June_2016)" title="Northern Aleppo offensive (March–June 2016)">Northern Aleppo offensive (March–June 2016)</a></li>
+<li><a href="/wiki/H%C4%ABt_offensive_(2016)" title="Hīt offensive (2016)">Hīt offensive</a></li>
+<li><a href="/wiki/Battle_of_Tipo-Tipo" title="Battle of Tipo-Tipo">Battle of Basilan</a></li>
+<li><a href="/wiki/Battle_of_Sirte_(2016)" title="Battle of Sirte (2016)">Battle of Sirte</a></li>
+<li><a href="/wiki/Ar-Rutbah_offensive_(2016)" title="Ar-Rutbah offensive (2016)">Ar-Rutbah offensive</a></li>
+<li><a href="/wiki/Northern_Raqqa_offensive_(May_2016)" title="Northern Raqqa offensive (May 2016)">Northern Raqqa offensive (May 2016)</a></li>
+<li><a href="/wiki/Battle_of_Fallujah_(2016)" title="Battle of Fallujah (2016)">Battle of Fallujah</a></li>
+<li><a href="/wiki/Manbij_offensive" title="Manbij offensive">Manbij offensive</a></li>
+<li><a href="/wiki/Ithriyah-Raqqa_offensive_(June_2016)" title="Ithriyah-Raqqa offensive (June 2016)">Ithriyah-Raqqa offensive (June 2016)</a></li>
+<li><a href="/wiki/2016_Abu_Kamal_offensive" title="2016 Abu Kamal offensive">Abu Kamal offensive</a></li>
+<li><a href="/wiki/Battle_of_al-Rai_(August_2016)" title="Battle of al-Rai (August 2016)">Battle of al-Rai (August 2016)</a></li>
+<li><a href="/wiki/Northern_al-Bab_offensive_(September_2016)" title="Northern al-Bab offensive (September 2016)">Northern al-Bab offensive (September 2016)</a></li>
+<li><a href="/wiki/Western_al-Bab_offensive_(September_2016)" title="Western al-Bab offensive (September 2016)">Western al-Bab offensive (September 2016)</a></li>
+<li><a href="/wiki/2016_Dabiq_offensive" title="2016 Dabiq offensive">2016 Dabiq offensive</a></li>
+<li><a href="/wiki/Western_al-Bab_offensive_(October%E2%80%93November_2016)" title="Western al-Bab offensive (October–November 2016)">Western al-Bab offensive (October–November 2016)</a></li>
+<li><a href="/wiki/Battle_of_al-Bab" title="Battle of al-Bab">Battle of al-Bab</a></li>
+<li><a href="/wiki/Aleppo_offensive_(November%E2%80%93December_2016)" title="Aleppo offensive (November–December 2016)">Aleppo offensive (November–December 2016)</a></li>
+<li><a href="/wiki/Palmyra_offensive_(December_2016)" title="Palmyra offensive (December 2016)">Palmyra offensive (December 2016)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2017</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_Mosul_(2016%E2%80%9317)" title="Battle of Mosul (2016–17)">Battle of Mosul (2016–17)</a></li>
+<li><a href="/wiki/Raqqa_campaign_(2016%E2%80%93present)" title="Raqqa campaign (2016–present)">Raqqa campaign (2016–present)</a></li>
+<li><a href="/wiki/Palmyra_offensive_(2017)" title="Palmyra offensive (2017)">Palmyra offensive (2017)</a></li>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(January%E2%80%93February_2017)" title="Deir ez-Zor offensive (January–February 2017)">Deir ez-Zor offensive (January–February 2017)</a></li>
+<li><a href="/wiki/Eastern_Homs_offensive_(2017)" title="Eastern Homs offensive (2017)">Eastern Homs offensive (2017)</a></li>
+<li><a href="/wiki/2017_Hama_offensive" title="2017 Hama offensive">Hama offensive (2017)</a></li>
+<li><a href="/wiki/Battle_of_Tabqa_(2017)" title="Battle of Tabqa (2017)">Battle of Tabqa (2017)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_terrorist_incidents_linked_to_ISIL" title="List of terrorist incidents linked to ISIL">Attacks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jewish_Museum_of_Belgium_shooting" title="Jewish Museum of Belgium shooting">Jewish Museum of Belgium shooting</a></li>
+<li><a class="mw-selflink selflink">Saint-Jean-sur-Richelieu ramming attack</a></li>
+<li><a href="/wiki/2014_shootings_at_Parliament_Hill,_Ottawa" title="2014 shootings at Parliament Hill, Ottawa">Shootings at Parliament Hill, Ottawa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2015</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Porte_de_Vincennes_siege" title="Porte de Vincennes siege">Porte de Vincennes siege</a></li>
+<li><a href="/wiki/2015_kidnapping_and_beheading_of_Copts_in_Libya" title="2015 kidnapping and beheading of Copts in Libya">Beheading of Copts in Libya</a></li>
+<li><a href="/wiki/2015_Corinthia_Hotel_attack" title="2015 Corinthia Hotel attack">Corinthia Hotel attack</a></li>
+<li><a href="/wiki/Al_Qubbah_bombings" title="Al Qubbah bombings">Al Qubbah bombings</a></li>
+<li><a href="/wiki/Bardo_National_Museum_attack" title="Bardo National Museum attack">Bardo National Museum attack</a></li>
+<li><a href="/wiki/2015_Sana%27a_mosque_bombings" title="2015 Sana'a mosque bombings">Sana'a mosque bombings</a></li>
+<li><a href="/wiki/Jalalabad_suicide_bombing" title="Jalalabad suicide bombing">Jalalabad suicide bombing</a></li>
+<li><a href="/wiki/Curtis_Culwell_Center_attack" title="Curtis Culwell Center attack">Curtis Culwell Center attack</a></li>
+<li><a href="/wiki/Qatif_and_Dammam_mosque_bombings" title="Qatif and Dammam mosque bombings">Qatif and Dammam mosque bombings</a></li>
+<li><a href="/wiki/26_June_2015_Islamist_attacks" title="26 June 2015 Islamist attacks">26 June 2015 Islamist attacks</a>
+<ul>
+<li><a href="/wiki/Koban%C3%AE_massacre" title="Kobanî massacre">Kobanî massacre</a></li>
+<li><a href="/wiki/2015_Saint-Quentin-Fallavier_attack" title="2015 Saint-Quentin-Fallavier attack">Saint-Quentin-Fallavier attack</a></li>
+<li><a href="/wiki/2015_Kuwait_mosque_bombing" title="2015 Kuwait mosque bombing">Kuwait mosque bombing</a></li>
+<li><a href="/wiki/2015_Sousse_attacks" title="2015 Sousse attacks">Sousse attacks</a></li>
+</ul>
+</li>
+<li><a href="/wiki/2015_Khan_Bani_Saad_bombing" title="2015 Khan Bani Saad bombing">Khan Bani Saad bombing</a></li>
+<li><a href="/wiki/2015_Suru%C3%A7_bombing" title="2015 Suruç bombing">Suruç bombing</a></li>
+<li><a href="/wiki/August_2015_Baghdad_bombing" title="August 2015 Baghdad bombing">Baghdad bombing (August)</a></li>
+<li><a href="/wiki/2015_Ankara_bombings" title="2015 Ankara bombings">Ankara bombings</a></li>
+<li><a href="/wiki/Metrojet_Flight_9268" title="Metrojet Flight 9268">Metrojet Flight 9268</a></li>
+<li><a href="/wiki/2015_Beirut_bombings" title="2015 Beirut bombings">Beirut bombings</a></li>
+<li><a href="/wiki/November_2015_Paris_attacks" title="November 2015 Paris attacks">Paris attacks (November)</a></li>
+<li><a href="/wiki/2015_Tunis_bombing" title="2015 Tunis bombing">Tunis bombing</a></li>
+<li><a href="/wiki/2015_Qamishli_bombings" title="2015 Qamishli bombings">Qamishli bombings</a></li>
+<li><a href="/wiki/2015_New_Year%27s_attack_plots" title="2015 New Year's attack plots">New Year's attack plots</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2016</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zliten_truck_bombing" title="Zliten truck bombing">Zliten truck bombing</a></li>
+<li><a href="/wiki/2016_Hurghada_attack" title="2016 Hurghada attack">Hurghada attack</a></li>
+<li><a href="/wiki/January_2016_Istanbul_bombing" title="January 2016 Istanbul bombing">Istanbul bombing (January)</a></li>
+<li><a href="/wiki/2016_Jakarta_attacks" title="2016 Jakarta attacks">Jakarta attacks</a></li>
+<li><a href="/wiki/2016_Ramadi_bombing" title="2016 Ramadi bombing">Ramadi bombing</a></li>
+<li><a href="/wiki/Mahasin_mosque_attack" title="Mahasin mosque attack">Mahasin mosque attack</a></li>
+<li><a href="/wiki/January_2016_Sayyidah_Zaynab_attack" title="January 2016 Sayyidah Zaynab attack">Sayyidah Zaynab attack (January)</a></li>
+<li><a href="/wiki/2016_Mosul_massacre" title="2016 Mosul massacre">Mosul massacre</a></li>
+<li><a href="/wiki/February_2016_Homs_bombings" title="February 2016 Homs bombings">Homs bombings (February)</a></li>
+<li><a href="/wiki/February_2016_Sayyidah_Zaynab_bombings" title="February 2016 Sayyidah Zaynab bombings">Sayyidah Zaynab bombings (February)</a></li>
+<li><a href="/wiki/February_2016_Baghdad_bombings" title="February 2016 Baghdad bombings">Baghdad bombings (February)</a></li>
+<li><a href="/wiki/March_2016_Istanbul_bombing" title="March 2016 Istanbul bombing">Istanbul bombing (March)</a></li>
+<li><a href="/wiki/2016_Brussels_bombings" title="2016 Brussels bombings">Brussels bombings</a></li>
+<li><a href="/wiki/2016_Aden_car_bombing" title="2016 Aden car bombing">Aden car bombing</a></li>
+<li><a href="/wiki/Iskandariya_suicide_bombing" title="Iskandariya suicide bombing">Iskandariya suicide bombing</a></li>
+<li><a href="/wiki/April_2016_Baghdad_bombing" title="April 2016 Baghdad bombing">Baghdad bombing (April)</a></li>
+<li><a href="/wiki/2016_Samawa_bombing" title="2016 Samawa bombing">Samawa bombing</a></li>
+<li><a href="/wiki/May_2016_Gaziantep_bombing" title="May 2016 Gaziantep bombing">Gaziantep bombing (May)</a></li>
+<li><a href="/wiki/11_May_2016_Baghdad_bombings" title="11 May 2016 Baghdad bombings">Baghdad bombings (11 May)</a></li>
+<li><a href="/wiki/Real_Madrid_fan_club_massacres" title="Real Madrid fan club massacres">Real Madrid fan club massacres</a></li>
+<li><a href="/wiki/2016_Baghdad_gas_plant_attack" title="2016 Baghdad gas plant attack">Baghdad gas plant attack</a></li>
+<li><a href="/wiki/May_2016_Yemen_police_bombings" title="May 2016 Yemen police bombings">Yemen police bombings (15 May)</a></li>
+<li><a href="/wiki/May_2016_Baghdad_bombings" title="May 2016 Baghdad bombings">Baghdad bombings (17 May)</a></li>
+<li><a href="/wiki/May_2016_Jableh_and_Tartous_bombings" title="May 2016 Jableh and Tartous bombings">Jableh and Tartous bombings (May)</a></li>
+<li><a href="/wiki/23_May_2016_Yemen_bombings" title="23 May 2016 Yemen bombings">Yemen bombings (23 May)</a></li>
+<li><a href="/wiki/2016_Aktobe_shootings" title="2016 Aktobe shootings">Aktobe shootings</a></li>
+<li><a href="/wiki/2016_Magnanville_stabbing" title="2016 Magnanville stabbing">Magnanville stabbing</a></li>
+<li><a href="/wiki/June_2016_Mukalla_attacks" title="June 2016 Mukalla attacks">Mukalla attacks (June)</a></li>
+<li><a href="/wiki/2016_Movida_Bar_grenade_attack" title="2016 Movida Bar grenade attack">Movida Bar grenade attack</a></li>
+<li><a href="/wiki/2016_Atat%C3%BCrk_Airport_attack" title="2016 Atatürk Airport attack">Atatürk Airport attack</a></li>
+<li><a href="/wiki/July_2016_Dhaka_attack" title="July 2016 Dhaka attack">Dhaka attack (July)</a></li>
+<li><a href="/wiki/2016_Karrada_bombing" title="2016 Karrada bombing">Karrada bombing</a></li>
+<li><a href="/wiki/Muhammad_ibn_Ali_al-Hadi_Mausoleum_attack" title="Muhammad ibn Ali al-Hadi Mausoleum attack">Muhammad ibn Ali al-Hadi Mausoleum attack</a></li>
+<li><a href="/wiki/2016_W%C3%BCrzburg_train_attack" title="2016 Würzburg train attack">Würzburg train attack</a></li>
+<li><a href="/wiki/July_2016_Kabul_bombing" title="July 2016 Kabul bombing">Kabul bombing (July)</a></li>
+<li><a href="/wiki/2016_Ansbach_bombing" title="2016 Ansbach bombing">Ansbach bombing</a></li>
+<li><a href="/wiki/2016_Normandy_church_attack" title="2016 Normandy church attack">Normandy church attack</a></li>
+<li><a href="/wiki/July_2016_Qamishli_bombings" title="July 2016 Qamishli bombings">Qamishli bombings (July)</a></li>
+<li><a href="/wiki/2016_stabbing_of_Charleroi_police_officers" title="2016 stabbing of Charleroi police officers">Charleroi stabbing</a></li>
+<li><a href="/wiki/August_2016_Aden_bombing" title="August 2016 Aden bombing">Aden bombing (August)</a></li>
+<li><a href="/wiki/5_September_2016_Syria_bombings" title="5 September 2016 Syria bombings">Syria bombings (September)</a></li>
+<li><a href="/wiki/9_September_2016_Baghdad_bombings" title="9 September 2016 Baghdad bombings">Baghdad bombings (September)</a></li>
+<li><a href="/wiki/October_2016_Baghdad_attacks" title="October 2016 Baghdad attacks">Baghdad bombings (October)</a></li>
+<li><a href="/wiki/2016_Quetta_police_training_college_attack" title="2016 Quetta police training college attack">Quetta police training college attack</a></li>
+<li><a href="/wiki/Hamam_al-Alil_massacre" title="Hamam al-Alil massacre">Hamam al-Alil massacre</a></li>
+<li><a href="/wiki/2016_Khuzdar_bombing" title="2016 Khuzdar bombing">Khuzdar bombing</a></li>
+<li><a href="/wiki/2016_Samarinda_church_bombing" title="2016 Samarinda church bombing">Samarinda church bombing</a></li>
+<li><a href="/wiki/November_2016_Kabul_suicide_bombing" title="November 2016 Kabul suicide bombing">Kabul suicide bombing (November)</a></li>
+<li><a href="/wiki/November_2016_Hillah_suicide_truck_bombing" title="November 2016 Hillah suicide truck bombing">Hillah suicide truck bombing (November)</a></li>
+<li><a href="/wiki/December_2016_Aden_suicide_bombings" title="December 2016 Aden suicide bombings">Aden suicide bombings (December)</a></li>
+<li><a href="/wiki/Botroseya_Church_bombing" title="Botroseya Church bombing">Botroseya church bombing</a></li>
+<li><a href="/wiki/2016_Al-Karak_attack" title="2016 Al-Karak attack">Al-Karak attack</a></li>
+<li><a href="/wiki/2016_Berlin_attack" title="2016 Berlin attack">Berlin attack</a></li>
+<li><a href="/wiki/December_2016_Baghdad_bombings" title="December 2016 Baghdad bombings">Baghdad bombings (December)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2017</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2017_Istanbul_nightclub_shooting" title="2017 Istanbul nightclub shooting">Istanbul nightclub shooting</a></li>
+<li><a href="/wiki/January_2017_Baghdad_bombings" title="January 2017 Baghdad bombings">Baghdad bombings (January)</a></li>
+<li><a href="/wiki/January_2017_Azaz_bombing" title="January 2017 Azaz bombing">Azaz bombing (January)</a></li>
+<li><a href="/wiki/February_2017_Afghanistan%27s_Supreme_Court_in_Kabul_attack" title="February 2017 Afghanistan's Supreme Court in Kabul attack">Kabul Supreme Court attack (February)</a></li>
+<li><a href="/wiki/2017_Sehwan_suicide_bombing" title="2017 Sehwan suicide bombing">Sehwan suicide bombing</a></li>
+<li><a href="/wiki/2017_Bhopal%E2%80%93Ujjain_Passenger_train_bombing" title="2017 Bhopal–Ujjain Passenger train bombing">Bhopal–Ujjain train bombing</a></li>
+<li><a href="/wiki/March_2017_Kabul_attack" title="March 2017 Kabul attack">Kabul attack (March)</a></li>
+<li><a href="/wiki/2017_Dhaka_RAB_camp_suicide_bombing" title="2017 Dhaka RAB camp suicide bombing">Dhaka suicide bombing</a></li>
+<li><a href="/wiki/2017_Westminster_attack" title="2017 Westminster attack">London attack</a></li>
+<li><a href="/wiki/Palm_Sunday_church_bombings" title="Palm Sunday church bombings">Egypt church bombings</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Politics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Finances_of_ISIL" title="Finances of ISIL">Finances</a></li>
+<li><a href="/wiki/Ideology_of_the_Islamic_State_of_Iraq_and_the_Levant" title="Ideology of the Islamic State of Iraq and the Levant">Ideology</a></li>
+<li><a href="/wiki/Human_rights_in_ISIL-controlled_territory" title="Human rights in ISIL-controlled territory">Human rights</a></li>
+<li><a href="/wiki/Genocide_of_Christians_by_ISIL" title="Genocide of Christians by ISIL">Genocide of Christians</a></li>
+<li><a href="/wiki/Genocide_of_Shias_by_ISIL" title="Genocide of Shias by ISIL">Genocide of Shias</a></li>
+<li><a href="/wiki/Genocide_of_Yazidis_by_ISIL" title="Genocide of Yazidis by ISIL">Genocide of Yazidis</a></li>
+<li><a href="/wiki/Killing_of_captives_by_ISIL" title="Killing of captives by ISIL">Killing of captives</a></li>
+<li><a href="/wiki/ISIL_beheading_incidents" title="ISIL beheading incidents">Beheading incidents</a></li>
+<li><a href="/wiki/Destruction_of_cultural_heritage_by_ISIL" title="Destruction of cultural heritage by ISIL">Destruction of cultural heritage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Popular culture</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Iran_and_ISIL" title="Iran and ISIL">Iran and ISIL</a></li>
+<li><a href="/wiki/United_Kingdom_and_ISIL" title="United Kingdom and ISIL">United Kingdom and ISIL</a></li>
+<li><a href="/wiki/Foreign_fighters_in_the_Syrian_and_Iraqi_Civil_Wars" title="Foreign fighters in the Syrian and Iraqi Civil Wars">Foreign fighters</a></li>
+<li><a href="/wiki/Name_changes_due_to_the_Islamic_State_of_Iraq_and_the_Levant" title="Name changes due to the Islamic State of Iraq and the Levant">Name changes due to ISIL</a></li>
+<li><a href="/wiki/Portrayal_of_ISIL_in_American_media" title="Portrayal of ISIL in American media">Portrayal of ISIL in American media</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Society</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amaq_News_Agency" title="Amaq News Agency">Amaq News Agency</a></li>
+<li><a href="/wiki/List_of_Islamic_State_of_Iraq_and_the_Levant_members" title="List of Islamic State of Iraq and the Levant members">Members</a>
+<ul>
+<li><a href="/wiki/Brussels_ISIL_terror_cell" title="Brussels ISIL terror cell">Terrorist cell in Brussels</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISIL_territorial_claims" title="ISIL territorial claims">Territorial claims</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Caliphate" title="Caliphate">Caliphate</a></li>
+<li><a href="/wiki/Islamism" title="Islamism">Islamism</a></li>
+<li><a href="/wiki/Millenarianism" title="Millenarianism">Millenarianism</a></li>
+<li><a href="/wiki/Sexual_violence_in_the_Iraqi_insurgency" title="Sexual violence in the Iraqi insurgency">Sexual violence in the Iraqi insurgency</a></li>
+<li><a href="/wiki/Shia%E2%80%93Sunni_relations" title="Shia–Sunni relations">Shia–Sunni relations</a></li>
+<li><a href="/wiki/Slavery_in_21st-century_Islamism" title="Slavery in 21st-century Islamism">Slavery in 21st-century Islamism</a></li>
+<li><a href="/wiki/Theocracy" title="Theocracy">Theocracy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2234
+Cached time: 20170423210118
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.405 seconds
+Preprocessor visited node count: 3362/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 170188/2097152 bytes
+Template argument size: 10727/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 1/500
+Lua time usage: 0.150/10.000 seconds
+Lua memory usage: 4.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  325.669      1 -total
+ 45.88%  149.431      1 Template:Reflist
+ 29.17%   94.993     19 Template:Cite_news
+ 22.88%   74.526      2 Template:Infobox
+ 16.01%   52.154      5 Template:Navbox
+ 13.12%   42.713      1 Template:Infobox_military_person
+ 12.28%   40.001      1 Template:Infobox_civilian_attack
+  8.75%   28.494      1 Template:Islamic_State_of_Iraq_and_the_Levant
+  7.48%   24.356      1 Template:Use_mdy_dates
+  7.01%   22.814      7 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:44224866-0!*!0!!en!4!* and timestamp 20170423210118 and revision id 767988097
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;oldid=767988097">https://en.wikipedia.org/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;oldid=767988097</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Murder_in_2014" title="Category:Murder in 2014">Murder in 2014</a></li><li><a href="/wiki/Category:Attacks_in_2014" title="Category:Attacks in 2014">Attacks in 2014</a></li><li><a href="/wiki/Category:Terrorist_incidents_in_Canada_in_2014" title="Category:Terrorist incidents in Canada in 2014">Terrorist incidents in Canada in 2014</a></li><li><a href="/wiki/Category:Crime_in_Quebec" title="Category:Crime in Quebec">Crime in Quebec</a></li><li><a href="/wiki/Category:Vehicle_rampage" title="Category:Vehicle rampage">Vehicle rampage</a></li><li><a href="/wiki/Category:Homicides_by_motor_vehicle" title="Category:Homicides by motor vehicle">Homicides by motor vehicle</a></li><li><a href="/wiki/Category:Terrorist_incidents_involving_vehicular_attacks" title="Category:Terrorist incidents involving vehicular attacks">Terrorist incidents involving vehicular attacks</a></li><li><a href="/wiki/Category:2014_in_Quebec" title="Category:2014 in Quebec">2014 in Quebec</a></li><li><a href="/wiki/Category:Saint-Jean-sur-Richelieu" title="Category:Saint-Jean-sur-Richelieu">Saint-Jean-sur-Richelieu</a></li><li><a href="/wiki/Category:2014_crimes_in_Canada" title="Category:2014 crimes in Canada">2014 crimes in Canada</a></li><li><a href="/wiki/Category:ISIL_terrorist_incidents_in_Canada" title="Category:ISIL terrorist incidents in Canada">ISIL terrorist incidents in Canada</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_December_2014" title="Category:Use mdy dates from December 2014">Use mdy dates from December 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=2014+Saint-Jean-sur-Richelieu+ramming+attack" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2014+Saint-Jean-sur-Richelieu+ramming+attack" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/2014_Saint-Jean-sur-Richelieu_ramming_attack"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:2014_Saint-Jean-sur-Richelieu_ramming_attack"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/2014_Saint-Jean-sur-Richelieu_ramming_attack" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2014_Saint-Jean-sur-Richelieu_ramming_attack" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2014_Saint-Jean-sur-Richelieu_ramming_attack" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;oldid=767988097" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q18347861" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;id=767988097" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=2014+Saint-Jean-sur-Richelieu+ramming+attack">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;returnto=2014+Saint-Jean-sur-Richelieu+ramming+attack&amp;oldid=767988097&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Attentat_de_Saint-Jean-sur-Richelieu_de_2014" title="Attentat de Saint-Jean-sur-Richelieu de 2014 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Attentatet_i_Saint-Jean-sur-Richelieu_2014" title="Attentatet i Saint-Jean-sur-Richelieu 2014 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q18347861#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 March 2017, at 03:17.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=2014_Saint-Jean-sur-Richelieu_ramming_attack&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.405","ppvisitednodes":{"value":3362,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":170188,"limit":2097152},"templateargumentsize":{"value":10727,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  325.669      1 -total"," 45.88%  149.431      1 Template:Reflist"," 29.17%   94.993     19 Template:Cite_news"," 22.88%   74.526      2 Template:Infobox"," 16.01%   52.154      5 Template:Navbox"," 13.12%   42.713      1 Template:Infobox_military_person"," 12.28%   40.001      1 Template:Infobox_civilian_attack","  8.75%   28.494      1 Template:Islamic_State_of_Iraq_and_the_Levant","  7.48%   24.356      1 Template:Use_mdy_dates","  7.01%   22.814      7 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.150","limit":"10.000"},"limitreport-memusage":{"value":4684231,"limit":52428800}},"cachereport":{"origin":"mw2234","timestamp":"20170423210118","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":487,"wgHostname":"mw2234"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1672 @@
+https://en.wikipedia.org/wiki/1999_Ryder_Cup
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1999 Ryder Cup - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1999_Ryder_Cup","wgTitle":"1999 Ryder Cup","wgCurRevisionId":766158163,"wgRevisionId":766158163,"wgArticleId":7127064,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Ryder Cup","Golf in Massachusetts","1999 in golf","1999 in American sports","1999 in Massachusetts","September 1999 sports events"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1999_Ryder_Cup","wgRelevantArticleId":7127064,"wgRequestId":"WPWO4wpAEKoAAEXdfoYAAAAS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":42.315,"lon":-71.148},"wgWikibaseItemId":"Q3453913","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/3/3c/RyderCup1999Logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1999_Ryder_Cup"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1999_Ryder_Cup"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1999_Ryder_Cup rootpage-1999_Ryder_Cup skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1999 Ryder Cup</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<caption class="summary">33rd Ryder Cup Matches</caption>
+<tr>
+<td colspan="2" style="text-align:center;padding: 0.5em 0;"><a href="/wiki/File:RyderCup1999Logo.png" class="image" title="Logo"><img alt="Logo" src="//upload.wikimedia.org/wikipedia/en/thumb/3/3c/RyderCup1999Logo.png/180px-RyderCup1999Logo.png" width="180" height="127" srcset="//upload.wikimedia.org/wikipedia/en/3/3c/RyderCup1999Logo.png 1.5x" data-file-width="256" data-file-height="180" /></a></td>
+</tr>
+<tr>
+<th scope="row">Dates</th>
+<td>September 24–26, 1999</td>
+</tr>
+<tr>
+<th scope="row">Venue</th>
+<td><a href="/wiki/The_Country_Club" title="The Country Club">The Country Club</a></td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="location"><a href="/wiki/Brookline,_Massachusetts" title="Brookline, Massachusetts">Brookline, Massachusetts</a></td>
+</tr>
+<tr>
+<th scope="row">Captains</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><span class="attendee"><a href="/wiki/Ben_Crenshaw" title="Ben Crenshaw">Ben Crenshaw</a></span> (USA)</li>
+<li><span class="attendee"><a href="/wiki/Mark_James_(golfer)" title="Mark James (golfer)">Mark James</a></span> (Europe)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<table style="border-spacing: 6px 0; padding: 3px; border-top: 1px solid #aaa; border-bottom: 1px solid #aaa; margin: auto;">
+<tr>
+<td style="vertical-align: middle;"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png" width="46" height="24" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/69px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/92px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></td>
+<td style="vertical-align: middle; font-size: 125%; font-weight: bold;">14½</td>
+<td style="vertical-align: middle; font-size: 125%; font-weight: bold;">13½</td>
+<td style="vertical-align: middle;"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png" width="45" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/68px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/90px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="font-style: italic;">
+<td colspan="2" style="text-align:center">United States wins the <a href="/wiki/Ryder_Cup" title="Ryder Cup">Ryder Cup</a></td>
+</tr>
+<tr>
+<td colspan="2" class="noprint nowrap" style="text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/1997_Ryder_Cup" title="1997 Ryder Cup">← 1997</a></li>
+<li><a href="/wiki/2002_Ryder_Cup" title="2002 Ryder Cup">2002 →</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="noviewer thumb tright">
+<div class="thumbinner" style="width:240px">
+<div style="position:relative;width:238px;border:1px solid lightgray"><a href="/wiki/File:Usa_edcp_relief_location_map.png" class="image" title="The&#160;Country&#160;Club&#160; is located in the US"><img alt="The&#160;Country&#160;Club&#160; is located in the US" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usa_edcp_relief_location_map.png/238px-Usa_edcp_relief_location_map.png" width="238" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usa_edcp_relief_location_map.png/357px-Usa_edcp_relief_location_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usa_edcp_relief_location_map.png/476px-Usa_edcp_relief_location_map.png 2x" data-file-width="1181" data-file-height="731" /></a>
+<div style="position:absolute;top:28.313%;left:89.353%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="The&#160;Country&#160;Club&#160;" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/5px-Red_pog.svg.png" title="The&#160;Country&#160;Club&#160;" width="5" height="5" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/10px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><span style="padding:1px;float:right"><small>The&#160;Country&#160;Club&#160;</small></span></div>
+</div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Usa_edcp_relief_location_map.png" title="File:Usa edcp relief location map.png"></a></div>
+Location in the <a href="/wiki/United_States" title="United States">United States</a></div>
+</div>
+</div>
+<div class="noviewer thumb tright">
+<div class="thumbinner" style="width:240px">
+<div style="position:relative;width:238px;border:1px solid lightgray"><a href="/wiki/File:Relief_map_of_USA_Massachusetts.png" class="image" title="The&#160;Country&#160;Club&#160; is located in Massachusetts"><img alt="The&#160;Country&#160;Club&#160; is located in Massachusetts" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Relief_map_of_USA_Massachusetts.png/238px-Relief_map_of_USA_Massachusetts.png" width="238" height="163" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Relief_map_of_USA_Massachusetts.png/357px-Relief_map_of_USA_Massachusetts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Relief_map_of_USA_Massachusetts.png/476px-Relief_map_of_USA_Massachusetts.png 2x" data-file-width="700" data-file-height="478" /></a>
+<div style="position:absolute;top:37.381%;left:63.8%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="The&#160;Country&#160;Club&#160;" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/5px-Red_pog.svg.png" title="The&#160;Country&#160;Club&#160;" width="5" height="5" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/10px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><span style="padding:1px;float:right"><small>The&#160;Country&#160;Club&#160;</small></span></div>
+</div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Relief_map_of_USA_Massachusetts.png" title="File:Relief map of USA Massachusetts.png"></a></div>
+Location in <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></div>
+</div>
+</div>
+<p>The <b>33rd Ryder Cup Matches</b>, also known as the "Battle of Brookline",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> were held September 24–26, 1999, in the <a href="/wiki/United_States" title="United States">United States</a> at <a href="/wiki/The_Country_Club" title="The Country Club">The Country Club</a> in <a href="/wiki/Brookline,_Massachusetts" title="Brookline, Massachusetts">Brookline, Massachusetts</a>, a suburb southwest of <a href="/wiki/Boston" title="Boston">Boston</a>.</p>
+<p>The American team won the competition by a margin of 14½ to 13½, The Europeans, leading 10–6 heading into the final round, needed only 4 points on the final day to retain the cup. The Americans rallied on the Sunday, winning the first 6 matches of the day to surge into the lead. Further wins by <a href="/wiki/Steve_Pate" title="Steve Pate">Steve Pate</a> and <a href="/wiki/Jim_Furyk" title="Jim Furyk">Jim Furyk</a> took them into a 14–12 lead. The Americans recaptured the Ryder Cup when <a href="/wiki/Justin_Leonard" title="Justin Leonard">Justin Leonard</a> halved his match with <a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a>. With the match all-square Leonard holed a 45-foot birdie putt on the 17th hole. Olazabal then missed his 22-foot birdie putt to leave Leonard one up with just one hole to play, assuring him of a half point and guaranteeing an American victory.</p>
+<p>The behavior of the U.S. team was criticized after they raucously invaded the 17th green after Leonard had holed his long putt but before Olazábal had attempted his shorter putt. The incident which was viewed by many as appalling sportsmanship.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Veteran broadcaster <a href="/wiki/Alistair_Cooke" title="Alistair Cooke">Alistair Cooke</a> described the last day of the tournament as "a date that will live in infamy" in a <i><a href="/wiki/Letter_from_America" title="Letter from America">Letter from America</a></i> entitled "The arrival of the golf hooligan".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>The American win was the largest final day come-from-behind victory in Ryder Cup history, although Europe achieved the same feat in 2012. It is widely regarded as one of the most impressive come-from-behind victories in recent sports history.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>This was one of the last public appearances of <a href="/wiki/Payne_Stewart" title="Payne Stewart">Payne Stewart</a>, who died in a <a href="/wiki/1999_South_Dakota_Learjet_crash" title="1999 South Dakota Learjet crash">plane crash</a> less than a month later.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Pre-match_tensions_and_aftermath"><span class="tocnumber">1</span> <span class="toctext">Pre-match tensions and aftermath</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#17th_green_incident"><span class="tocnumber">2</span> <span class="toctext">17th green incident</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#The_course"><span class="tocnumber">3</span> <span class="toctext">The course</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Television"><span class="tocnumber">4</span> <span class="toctext">Television</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Format"><span class="tocnumber">5</span> <span class="toctext">Format</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Teams"><span class="tocnumber">6</span> <span class="toctext">Teams</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Team_Europe"><span class="tocnumber">6.1</span> <span class="toctext">Team Europe</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Team_USA"><span class="tocnumber">6.2</span> <span class="toctext">Team USA</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Friday.27s_matches"><span class="tocnumber">7</span> <span class="toctext">Friday's matches</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Morning_foursomes"><span class="tocnumber">7.1</span> <span class="toctext">Morning foursomes</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Afternoon_four-ball"><span class="tocnumber">7.2</span> <span class="toctext">Afternoon four-ball</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Saturday.27s_matches"><span class="tocnumber">8</span> <span class="toctext">Saturday's matches</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Morning_foursomes_2"><span class="tocnumber">8.1</span> <span class="toctext">Morning foursomes</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Afternoon_four-ball_2"><span class="tocnumber">8.2</span> <span class="toctext">Afternoon four-ball</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Sunday.27s_singles_matches"><span class="tocnumber">9</span> <span class="toctext">Sunday's singles matches</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Individual_player_records"><span class="tocnumber">10</span> <span class="toctext">Individual player records</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#United_States"><span class="tocnumber">10.1</span> <span class="toctext">United States</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Europe"><span class="tocnumber">10.2</span> <span class="toctext">Europe</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Pre-match_tensions_and_aftermath">Pre-match tensions and aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=1" title="Edit section: Pre-match tensions and aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Members of the U.S. team spoke out in press conferences in what appeared to be a blatant attempt to bait certain members of the European team into a confrontational response.<sup id="cite_ref-preview_6-0" class="reference"><a href="#cite_note-preview-6">[6]</a></sup> <a href="/wiki/Jeff_Maggert" title="Jeff Maggert">Jeff Maggert</a> being one of the worst offenders when (at the time ranked 18 in the world) lavishly and outspokenly said "lets face it, we've got the worlds' 12 best players".<sup id="cite_ref-preview_6-1" class="reference"><a href="#cite_note-preview-6">[6]</a></sup> Colin Montgomerie was one of the first to respond detailing "You want someone to bite?, well I'm not going to!"<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> <a href="/wiki/Payne_Stewart" title="Payne Stewart">Payne Stewart</a> also claimed by the strength of the European team, they should be caddying for the U.S. team not playing against them.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>The bad atmosphere continued into the week with the American fans heckling and abusing the European players to the point that Payne Stewart, playing Montgomerie in the Sunday singles, picked his ball up on the 18th fairway and conceded the match out of courtesy to Montgomerie who seemed to be the target of the majority of the fans taunts.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Analysis of the event in its aftermath seemed to conclude that the U.S. team and their fans' behavior throughout the matches had been unacceptable which led to apologies from many of the American players.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Many American journalists conceded that the matches had become so intense to the point that they were no longer being played in the spirit that <a href="/wiki/Samuel_Ryder" title="Samuel Ryder">Samuel Ryder</a> had intended.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>On November 18, 1999 Captain Ben Crenshaw and his two co-captains, Bill Rogers and Bruce Lietzke, recounted events before a black tie dinner held for members of the Men's Golf association of the San Antonio Country Club where Co-Captain Rogers was Director of Golf at the time. Those events just 8 weeks prior were captured and posted on YouTube: <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=T8685a-_Axs">https://www.youtube.com/watch?v=T8685a-_Axs</a></p>
+<h2><span class="mw-headline" id="17th_green_incident">17th green incident</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=2" title="Edit section: 17th green incident">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the Sunday singles, <a href="/wiki/Justin_Leonard" title="Justin Leonard">Justin Leonard</a> playing <a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a> in the ninth match of the order arrived at the green all square with at that point the U.S. team having 14 points and only requiring Leonard's point or half a point to make the remarkable comeback complete. Putting first from over 40 feet from the hole, he sank the putt meaning if Jose didn't hole his putt of roughly 25 feet then USA would be guaranteed victory as Leonard would be 1up with one hole to play thus gaining at least half a point. When Leonard's putt went in, almost the entire U.S. team and some fans ran onto the green to congratulate him being completely oblivious to the fact should Olazábal hole his putt then the match would technically still not be over. Many of the players and camera crew who ran onto the green to film the incident allegedly walked over the putting line of Olazábal which goes against the etiquette of golf, however no video evidence exists to prove either way.</p>
+<p>This incident was met with extreme criticism from the worlds' watching media accusing the Americans of bad sportsmanship. Many of the European players were extremely critical of their actions including <a href="/wiki/Sam_Torrance" title="Sam Torrance">Sam Torrance</a> one of the vice captains calling the American's behavior "disgusting".<sup id="cite_ref-bbc_12-0" class="reference"><a href="#cite_note-bbc-12">[12]</a></sup> <a href="/wiki/Tom_Lehman" title="Tom Lehman">Tom Lehman</a> who was singled out as one of the worst offenders admitted the U.S. team had been more than over-exuberant on the final day of the competition and apologized on the teams' behalf.<sup id="cite_ref-bbc_12-1" class="reference"><a href="#cite_note-bbc-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="The_course">The course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=3" title="Edit section: The course">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/The_Country_Club" title="The Country Club">The Country Club</a>, located in <a href="/wiki/Brookline,_Massachusetts" title="Brookline, Massachusetts">Brookline, Massachusetts</a>, is one of the oldest <a href="/wiki/Country_club" title="Country club">country clubs</a> in the United States. It was one of the five charter clubs which founded the <a href="/wiki/United_States_Golf_Association" title="United States Golf Association">United States Golf Association</a>, and has hosted numerous USGA tournaments including the <a href="/wiki/U.S._Open_(golf)" title="U.S. Open (golf)">U.S. Open</a> in <a href="/wiki/1913_U.S._Open_(golf)" title="1913 U.S. Open (golf)">1913</a>, won by then-unknown <a href="/wiki/Francis_Ouimet" title="Francis Ouimet">Francis Ouimet</a>. The club is one of the largest of its kind in the northeastern U.S., with about 1300 members.</p>
+<h2><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=4" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 33rd Ryder Cup Matches were covered live in the United States for all five sessions. <a href="/wiki/PGA_Tour_on_USA" title="PGA Tour on USA">USA Network</a> covered the Friday action, with <a href="/wiki/Bill_Macatee" title="Bill Macatee">Bill Macatee</a> and <a href="/wiki/Peter_Kostis" title="Peter Kostis">Peter Kostis</a> in the 18th tower. The weekend was covered live by <a href="/wiki/Golf_Channel_on_NBC" title="Golf Channel on NBC">NBC Sports</a>, with <a href="/wiki/Dick_Enberg" title="Dick Enberg">Dick Enberg</a> and <a href="/wiki/Johnny_Miller" title="Johnny Miller">Johnny Miller</a> in the 18th tower, <a href="/wiki/Dan_Hicks_(sportscaster)" title="Dan Hicks (sportscaster)">Dan Hicks</a> calling holes, and on-course reporters <a href="/wiki/Gary_Koch" title="Gary Koch">Gary Koch</a>, <a href="/wiki/Mark_Rolfing" title="Mark Rolfing">Mark Rolfing</a>, <a href="/wiki/Roger_Maltbie" title="Roger Maltbie">Roger Maltbie</a>, and <a href="/wiki/John_Schroeder_(golfer)" title="John Schroeder (golfer)">John Schroeder</a>. <a href="/wiki/Jim_Gray_(sportscaster)" title="Jim Gray (sportscaster)">Jim Gray</a> conducted interviews, and on the final day was also used as a fifth on-course reporter. On the weekend, former European Ryder Cup captain <a href="/wiki/Bernard_Gallacher" title="Bernard Gallacher">Bernard Gallacher</a> was brought in as a guest analyst to provide a European perspective.</p>
+<p>In the UK, <a href="/wiki/BBC" title="BBC">BBC</a> and <a href="/wiki/Sky_Sports" title="Sky Sports">Sky Sports</a> both had a presence, with <a href="/wiki/Peter_Alliss" title="Peter Alliss">Peter Alliss</a> and <a href="/wiki/Ewen_Murray" title="Ewen Murray">Ewen Murray</a> being the lead broadcaster for each.</p>
+<h2><span class="mw-headline" id="Format">Format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=5" title="Edit section: Format">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Ryder_Cup" title="Ryder Cup">Ryder Cup</a> is a <a href="/wiki/Match_play" title="Match play">match play</a> event, with each match worth one point. The competition format used from <a href="/wiki/1991_Ryder_Cup" title="1991 Ryder Cup">1991</a> to <a href="/wiki/2002_Ryder_Cup" title="2002 Ryder Cup">2002</a> was as follows:</p>
+<ul>
+<li><b>Day 1</b> (Friday) — 4 four-ball (better ball) matches in a morning session and 4 foursome (alternate shot) matches in an afternoon session</li>
+<li><b>Day 2</b> (Saturday) — 4 foursome matches in a morning session and 4 four-ball matches in an afternoon session</li>
+<li><b>Day 3</b> (Sunday) — 12 singles matches</li>
+</ul>
+<p>With a total of 28 points, 14½ points were required to win the Cup, and 14 points were required for the defending champion to retain the Cup. All matches were played to a maximum of 18 holes.</p>
+<h2><span class="mw-headline" id="Teams">Teams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=6" title="Edit section: Teams">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Team_Europe"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/50px-Flag_of_Europe.svg.png" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/75px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/100px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> Team Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=7" title="Edit section: Team Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 1999 European Team Points Table began in September 1998, and concluded on August 22, 1999, after the BMW International Open. The top 10 players in the Points Table qualified automatically for the team. Captain Mark James then left out the number 11 player <a href="/wiki/Robert_Karlsson" title="Robert Karlsson">Robert Karlsson</a> and the experienced (but out-of-form) <a href="/wiki/Bernhard_Langer" title="Bernhard Langer">Bernhard Langer</a> by instead selecting <a href="/wiki/Andrew_Coltart" title="Andrew Coltart">Andrew Coltart</a> and <a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Jesper Parnevik</a> as the two 'wild card' players to round out the team.</p>
+<table border="1" cellpadding="3" style="border-collapse: collapse;text-align:center">
+<tr style="background:#dfd;">
+<td colspan="8"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/50px-Flag_of_Europe.svg.png" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/75px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/100px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span>&#160;<b>Team Europe</b></td>
+</tr>
+<tr style="background:#dfd;">
+<th>Name</th>
+<th>Age</th>
+<th>Points<br />
+rank</th>
+<th>World<br />
+ranking</th>
+<th>Previous<br />
+Ryder Cups</th>
+<th>Matches</th>
+<th>W–L–H</th>
+<th>Winning<br />
+percentage</th>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/Mark_James_(golfer)" title="Mark James (golfer)">Mark James</a></td>
+<td>45</td>
+<td colspan="6">Non-playing captain</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Scotland" title="Scotland"><img alt="Scotland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Colin_Montgomerie" title="Colin Montgomerie">Colin Montgomerie</a></td>
+<td>36</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+<td>18</td>
+<td>9–6–3</td>
+<td>58.33</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/Lee_Westwood" title="Lee Westwood">Lee Westwood</a></td>
+<td>26</td>
+<td>2</td>
+<td>5</td>
+<td>1</td>
+<td>5</td>
+<td>2–3–0</td>
+<td>40.00</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Northern_Ireland" title="Northern Ireland"><img alt="Northern Ireland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/23px-Flag_of_Northern_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/35px-Flag_of_Northern_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/46px-Flag_of_Northern_Ireland.svg.png 2x" data-file-width="600" data-file-height="300" /></a></span> <a href="/wiki/Darren_Clarke" title="Darren Clarke">Darren Clarke</a></td>
+<td>31</td>
+<td>3</td>
+<td>21</td>
+<td>1</td>
+<td>2</td>
+<td>1–1–0</td>
+<td>50.00</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Scotland" title="Scotland"><img alt="Scotland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Paul Lawrie</a></td>
+<td>30</td>
+<td>4</td>
+<td>48</td>
+<td>0</td>
+<td colspan="3">Rookie</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez" title="Miguel Ángel Jiménez">Miguel Ángel Jiménez</a></td>
+<td>35</td>
+<td>5</td>
+<td>45</td>
+<td>0</td>
+<td colspan="3">Rookie</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a></td>
+<td>33</td>
+<td>6</td>
+<td>24</td>
+<td>5</td>
+<td>25</td>
+<td>14–8–3</td>
+<td>62.00</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a></td>
+<td>19</td>
+<td>7</td>
+<td>25</td>
+<td>0</td>
+<td colspan="3">Rookie</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Jarmo_Sandelin" title="Jarmo Sandelin">Jarmo Sandelin</a></td>
+<td>32</td>
+<td>8</td>
+<td>73</td>
+<td>0</td>
+<td colspan="3">Rookie</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean_van_de_Velde_(golfer)" title="Jean van de Velde (golfer)">Jean van de Velde</a></td>
+<td>33</td>
+<td>9</td>
+<td>90</td>
+<td>0</td>
+<td colspan="3">Rookie</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland"><img alt="Republic of Ireland" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/P%C3%A1draig_Harrington" title="Pádraig Harrington">Pádraig Harrington</a></td>
+<td>28</td>
+<td>10</td>
+<td>72</td>
+<td>0</td>
+<td colspan="3">Rookie</td>
+</tr>
+<tr style="background:#ffa;">
+<td align="left"><span class="flagicon"><a href="/wiki/Scotland" title="Scotland"><img alt="Scotland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Andrew_Coltart" title="Andrew Coltart">Andrew Coltart</a></td>
+<td>29</td>
+<td>12</td>
+<td>66</td>
+<td>0</td>
+<td colspan="3">Rookie</td>
+</tr>
+<tr style="background:#ffa;">
+<td align="left"><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Jesper Parnevik</a></td>
+<td>34</td>
+<td>15</td>
+<td>15</td>
+<td>1</td>
+<td>4</td>
+<td>1–1–2</td>
+<td>50.00</td>
+</tr>
+</table>
+<p>Captains picks are shown in yellow; the <a href="/wiki/Official_World_Golf_Ranking" title="Official World Golf Ranking">world rankings</a> and records are at the start of the 1999 Ryder Cup.</p>
+<h3><span class="mw-headline" id="Team_USA"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" width="50" height="26" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/75px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/100px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> Team USA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=8" title="Edit section: Team USA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 1999 U.S. Ryder Cup Team was chosen on the basis of points compiled by the PGA of America, early 1998, through the 81st PGA Championship, August 12–15, 1999. Points were awarded for top-10 finishes at PGA Tour co-sponsored or sanctioned events, with added emphasis on major championships and events played during the Ryder Cup year. The top 10 finishers on the points list automatically qualified for the 12-member team, and U.S. Captain Ben Crenshaw selected the final two players—Steve Pate and Tom Lehman.</p>
+<table border="1" cellpadding="3" style="border-collapse: collapse;text-align:center">
+<tr style="background:#dfd;">
+<td colspan="8"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" width="50" height="26" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/75px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/100px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span>&#160;<b>Team USA</b></td>
+</tr>
+<tr style="background:#dfd;">
+<th>Name</th>
+<th>Age</th>
+<th>Points<br />
+rank</th>
+<th>World<br />
+ranking</th>
+<th>Previous<br />
+Ryder Cups</th>
+<th>Matches</th>
+<th>W–L–H</th>
+<th>Winning<br />
+percentage</th>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Ben_Crenshaw" title="Ben Crenshaw">Ben Crenshaw</a></td>
+<td>47</td>
+<td colspan="6">Non-playing captain</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Tiger_Woods" title="Tiger Woods">Tiger Woods</a></td>
+<td>23</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>1–3–1</td>
+<td>30.00</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/David_Duval" title="David Duval">David Duval</a></td>
+<td>27</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td colspan="3">Rookie</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Payne_Stewart" title="Payne Stewart">Payne Stewart</a></td>
+<td>42</td>
+<td>3</td>
+<td>8</td>
+<td>4</td>
+<td>16</td>
+<td>8–7–1</td>
+<td>53.12</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Davis_Love_III" title="Davis Love III">Davis Love III</a></td>
+<td>35</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>13</td>
+<td>5–8–0</td>
+<td>38.46</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Mark_O%27Meara" title="Mark O'Meara">Mark O'Meara</a></td>
+<td>42</td>
+<td>5</td>
+<td>11</td>
+<td>4</td>
+<td>12</td>
+<td>4–7–1</td>
+<td>37.50</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Hal_Sutton" title="Hal Sutton">Hal Sutton</a></td>
+<td>41</td>
+<td>6</td>
+<td>10</td>
+<td>2</td>
+<td>9</td>
+<td>3–3–3</td>
+<td>50.00</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Justin_Leonard" title="Justin Leonard">Justin Leonard</a></td>
+<td>27</td>
+<td>7</td>
+<td>12</td>
+<td>1</td>
+<td>4</td>
+<td>0–2–2</td>
+<td>25.00</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jim_Furyk" title="Jim Furyk">Jim Furyk</a></td>
+<td>29</td>
+<td>8</td>
+<td>14</td>
+<td>1</td>
+<td>3</td>
+<td>1–2–0</td>
+<td>33.33</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a></td>
+<td>29</td>
+<td>9</td>
+<td>13</td>
+<td>2</td>
+<td>7</td>
+<td>4–1–2</td>
+<td>71.43</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jeff_Maggert" title="Jeff Maggert">Jeff Maggert</a></td>
+<td>35</td>
+<td>10</td>
+<td>16</td>
+<td>2</td>
+<td>7</td>
+<td>4–3–0</td>
+<td>57.14</td>
+</tr>
+<tr style="background:#ffa;">
+<td align="left"><a href="/wiki/Tom_Lehman" title="Tom Lehman">Tom Lehman</a></td>
+<td>40</td>
+<td>12</td>
+<td>23</td>
+<td>2</td>
+<td>7</td>
+<td>3–2–2</td>
+<td>57.14</td>
+</tr>
+<tr style="background:#ffa;">
+<td align="left"><a href="/wiki/Steve_Pate" title="Steve Pate">Steve Pate</a></td>
+<td>38</td>
+<td>14</td>
+<td>28</td>
+<td>1</td>
+<td>2</td>
+<td>0–1–1</td>
+<td>25.00</td>
+</tr>
+</table>
+<p>Captains picks are shown in yellow; the <a href="/wiki/Official_World_Golf_Ranking" title="Official World Golf Ranking">world rankings</a> and records are at the start of the 1999 Ryder Cup.</p>
+<h2><span class="mw-headline" id="Friday.27s_matches">Friday's matches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=9" title="Edit section: Friday's matches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Morning_foursomes">Morning foursomes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=10" title="Edit section: Morning foursomes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Paul Lawrie</a> hit the opening tee shot to begin the 33rd Ryder Cup Matches. The Americans got off to a good start when <a href="/wiki/Tom_Lehman" title="Tom Lehman">Tom Lehman</a> chipped in at the first hole, but the matches quickly swung toward Europe's favor. With the Americans' top two pairings losing, the Europeans gained confidence, finding a dynamic duo in <a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Jesper Parnevik</a> and <a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a>.</p>
+<table border="1" cellpadding="3" style="border-collapse:collapse; text-align:center;">
+<tr style="background:#dfd;">
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/50px-Flag_of_Europe.svg.png" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/75px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/100px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span></th>
+<th style="width:5.5em;">Results</th>
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" width="50" height="26" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/75px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/100px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></th>
+</tr>
+<tr>
+<td><b><a href="/wiki/Colin_Montgomerie" title="Colin Montgomerie">Montgomerie</a>/<a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Lawrie</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 3 &amp; 2</td>
+<td><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Mickelson</a>/<a href="/wiki/David_Duval" title="David Duval">Duval</a></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">García</a>/<a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Parnevik</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 2 &amp; 1</td>
+<td><a href="/wiki/Tom_Lehman" title="Tom Lehman">Lehman</a>/<a href="/wiki/Tiger_Woods" title="Tiger Woods">Woods</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez" title="Miguel Ángel Jiménez">Jiménez</a>/<a href="/wiki/P%C3%A1draig_Harrington" title="Pádraig Harrington">Harrington</a></td>
+<td>halved</td>
+<td><a href="/wiki/Davis_Love_III" title="Davis Love III">Love III</a>/<a href="/wiki/Payne_Stewart" title="Payne Stewart">Stewart</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Darren_Clarke" title="Darren Clarke">Clarke</a>/<a href="/wiki/Lee_Westwood" title="Lee Westwood">Westwood</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 3 &amp; 2</td>
+<td><b><a href="/wiki/Jeff_Maggert" title="Jeff Maggert">Maggert</a>/<a href="/wiki/Hal_Sutton" title="Hal Sutton">Sutton</a></b></td>
+</tr>
+<tr style="background:#dfd;">
+<td>2½</td>
+<td>Session</td>
+<td>1½</td>
+</tr>
+<tr style="background:#afa;">
+<th>2½</th>
+<th>Overall</th>
+<th>1½</th>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Afternoon_four-ball">Afternoon four-ball</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=11" title="Edit section: Afternoon four-ball">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Lee_Westwood" title="Lee Westwood">Lee Westwood</a> and <a href="/wiki/Darren_Clarke" title="Darren Clarke">Darren Clarke</a> defeated <a href="/wiki/Tiger_Woods" title="Tiger Woods">Tiger Woods</a> and <a href="/wiki/David_Duval" title="David Duval">David Duval</a>, the top two players in the world rankings. Woods missed a short eagle putt at the 14th that would have squared the match, while Westwood hit a fantastic chip shot at the final hole to secure victory. Both Duval and Woods were shut out on day one.</p>
+<p>The day's best match, and arguably the best team match of the week, pitted Parnevik and García against <a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a> and <a href="/wiki/Jim_Furyk" title="Jim Furyk">Jim Furyk</a>. Parnevik holed out for eagle at the par-4 eighth, putting him and García a combined 6-under-par for the match, but just 1 up. At the 13th, Furyk chipped in from near a pond to square the match, giving the American fans a chance to go into a frenzy. At the next hole, Garcia pitched in for an eagle from just the right of the green at the par 5, putting Europe back in front. At the 16th hole, with the Americans 1 down, Mickelson hit his tee shot inside of four feet from the hole. He was left with the short putt to square the match, but missed it, and the Americans continued to trail. At the final hole, Mickelson again put the ball within five feet of the hole, but again missed the putt, leaving the Americans with an agonizing 1 down loss, and keeping Parnevik and García unbeaten.</p>
+<table border="1" cellpadding="3" style="border-collapse:collapse; text-align:center;">
+<tr style="background:#dfd;">
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/50px-Flag_of_Europe.svg.png" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/75px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/100px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span></th>
+<th style="width:5.5em;">Results</th>
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" width="50" height="26" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/75px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/100px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></th>
+</tr>
+<tr>
+<td><a href="/wiki/Colin_Montgomerie" title="Colin Montgomerie">Montgomerie</a>/<a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Lawrie</a></td>
+<td>halved</td>
+<td><a href="/wiki/Davis_Love_III" title="Davis Love III">Love III</a>/<a href="/wiki/Justin_Leonard" title="Justin Leonard">Leonard</a></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">García</a>/<a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Parnevik</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 1 up</td>
+<td><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Mickelson</a>/<a href="/wiki/Jim_Furyk" title="Jim Furyk">Furyk</a></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez" title="Miguel Ángel Jiménez">Jiménez</a>/<a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">Olazábal</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 2 &amp; 1</td>
+<td><a href="/wiki/Jeff_Maggert" title="Jeff Maggert">Maggert</a>/<a href="/wiki/Hal_Sutton" title="Hal Sutton">Sutton</a></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Darren_Clarke" title="Darren Clarke">Clarke</a>/<a href="/wiki/Lee_Westwood" title="Lee Westwood">Westwood</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 1 up</td>
+<td><a href="/wiki/David_Duval" title="David Duval">Duval</a>/<a href="/wiki/Tiger_Woods" title="Tiger Woods">Woods</a></td>
+</tr>
+<tr style="background:#dfd;">
+<td>3½</td>
+<td>Session</td>
+<td>½</td>
+</tr>
+<tr style="background:#afa;">
+<th>6</th>
+<th>Overall</th>
+<th>2</th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Saturday.27s_matches">Saturday's matches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=12" title="Edit section: Saturday's matches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Morning_foursomes_2">Morning foursomes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=13" title="Edit section: Morning foursomes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Tiger_Woods" title="Tiger Woods">Tiger Woods</a> won his first match of the week, teaming with new partner <a href="/wiki/Steve_Pate" title="Steve Pate">Steve Pate</a>. Woods eagled 14 while Pate hit a shot from the rough at the 18th to within 15 feet to secure the win over <a href="/wiki/P%C3%A1draig_Harrington" title="Pádraig Harrington">Pádraig Harrington</a> and <a href="/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez" title="Miguel Ángel Jiménez">Miguel Ángel Jiménez</a>.</p>
+<p><a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Jesper Parnevik</a> and <a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a> won their third straight match, dominating the back nine to handily beat <a href="/wiki/Justin_Leonard" title="Justin Leonard">Justin Leonard</a> and <a href="/wiki/Payne_Stewart" title="Payne Stewart">Payne Stewart</a>.</p>
+<p>The final match on the course pitted <a href="/wiki/Jeff_Maggert" title="Jeff Maggert">Jeff Maggert</a> and <a href="/wiki/Hal_Sutton" title="Hal Sutton">Hal Sutton</a> against <a href="/wiki/Colin_Montgomerie" title="Colin Montgomerie">Colin Montgomerie</a> and <a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Paul Lawrie</a>. Maggert took the match into his hands in the final holes, making a long birdie putt at 17 to put the Americans in front, then sealing the win by hitting his approach within 5 feet at the final hole.</p>
+<table border="1" cellpadding="3" style="border-collapse:collapse; text-align:center;">
+<tr style="background:#dfd;">
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/50px-Flag_of_Europe.svg.png" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/75px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/100px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span></th>
+<th style="width:5.5em;">Results</th>
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" width="50" height="26" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/75px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/100px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></th>
+</tr>
+<tr>
+<td><a href="/wiki/Colin_Montgomerie" title="Colin Montgomerie">Montgomerie</a>/<a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Lawrie</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 1 up</td>
+<td><b><a href="/wiki/Hal_Sutton" title="Hal Sutton">Sutton</a>/<a href="/wiki/Jeff_Maggert" title="Jeff Maggert">Maggert</a></b></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Darren_Clarke" title="Darren Clarke">Clarke</a>/<a href="/wiki/Lee_Westwood" title="Lee Westwood">Westwood</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 3 &amp; 2</td>
+<td><a href="/wiki/Jim_Furyk" title="Jim Furyk">Furyk</a>/<a href="/wiki/Mark_O%27Meara" title="Mark O'Meara">O'Meara</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez" title="Miguel Ángel Jiménez">Jiménez</a>/<a href="/wiki/P%C3%A1draig_Harrington" title="Pádraig Harrington">Harrington</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 1 up</td>
+<td><b><a href="/wiki/Tiger_Woods" title="Tiger Woods">Woods</a>/<a href="/wiki/Steve_Pate" title="Steve Pate">Pate</a></b></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Parnevik</a>/<a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">García</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 3 &amp; 2</td>
+<td><a href="/wiki/Payne_Stewart" title="Payne Stewart">Stewart</a>/<a href="/wiki/Justin_Leonard" title="Justin Leonard">Leonard</a></td>
+</tr>
+<tr style="background:#dfd;">
+<td>2</td>
+<td>Session</td>
+<td>2</td>
+</tr>
+<tr style="background:#afa;">
+<th>8</th>
+<th>Overall</th>
+<th>4</th>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Afternoon_four-ball_2">Afternoon four-ball</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=14" title="Edit section: Afternoon four-ball">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>With the Americans desperate to climb back into the contest, Captain <a href="/wiki/Ben_Crenshaw" title="Ben Crenshaw">Ben Crenshaw</a> changed up some pairings in hope of making up at least two points. After playing with Maggert during the first three sessions, Sutton teamed with Leonard, but could only produce a half against the Spanish duo of <a href="/wiki/Miguel_Angel_Jim%C3%A9nez" class="mw-redirect" title="Miguel Angel Jiménez">Miguel Angel Jiménez</a> and <a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a>.</p>
+<p>Woods and Pate played together again, facing Montgomerie and Lawrie. Pate chipped in for birdie at the first hole, just as Lehman had done the day before, also while playing with Woods. However, the world #1 missed key putts on the back nine and lost for the third time in four matches.</p>
+<p><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a> finally found his game, nearing holing out for eagle at the 10th, as he and <a href="/wiki/Tom_Lehman" title="Tom Lehman">Tom Lehman</a> defeated <a href="/wiki/Lee_Westwood" title="Lee Westwood">Lee Westwood</a> and <a href="/wiki/Darren_Clarke" title="Darren Clarke">Darren Clarke</a>.</p>
+<p>The most dramatic finish of the session came in the match pitting <a href="/wiki/Davis_Love_III" title="Davis Love III">Davis Love III</a> and <a href="/wiki/David_Duval" title="David Duval">David Duval</a> against García and Parnevik. Love had hit a heroic approach at the 9th from a large rock formation to secure an eagle, followed by a Duval birdie at 10 to go 1 up. Parnevik then responded by pitching in for a par at the 12th to halve the hole, causing García to engage in a large display of emotion, running onto the green pumping his fists, then doing a victory lap. However, the Americans were on the verge of handing the European duo their first loss of the week, with Love and Duval still 1 up on the final hole. Both Love and García had birdie opportunities. Love's putt was to win the match, but he missed. García then holed his birdie to salvage a half point, keeping he and Parnevik undefeated for the week, and causing another wild European celebration.</p>
+<table border="1" cellpadding="3" style="border-collapse:collapse; text-align:center;">
+<tr style="background:#dfd;">
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/50px-Flag_of_Europe.svg.png" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/75px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/100px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span></th>
+<th style="width:5.5em;">Results</th>
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" width="50" height="26" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/75px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/100px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></th>
+</tr>
+<tr>
+<td><a href="/wiki/Darren_Clarke" title="Darren Clarke">Clarke</a>/<a href="/wiki/Lee_Westwood" title="Lee Westwood">Westwood</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 2 &amp; 1</td>
+<td><b><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Mickelson</a>/<a href="/wiki/Tom_Lehman" title="Tom Lehman">Lehman</a></b></td>
+</tr>
+<tr>
+<td><a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Parnevik</a>/<a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">García</a></td>
+<td>halved</td>
+<td><a href="/wiki/Davis_Love_III" title="Davis Love III">Love III</a>/<a href="/wiki/David_Duval" title="David Duval">Duval</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez" title="Miguel Ángel Jiménez">Jiménez</a>/<a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">Olazábal</a></td>
+<td>halved</td>
+<td><a href="/wiki/Justin_Leonard" title="Justin Leonard">Leonard</a>/<a href="/wiki/Hal_Sutton" title="Hal Sutton">Sutton</a></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Colin_Montgomerie" title="Colin Montgomerie">Montgomerie</a>/<a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Lawrie</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 2 &amp; 1</td>
+<td><a href="/wiki/Steve_Pate" title="Steve Pate">Pate</a>/<a href="/wiki/Tiger_Woods" title="Tiger Woods">Woods</a></td>
+</tr>
+<tr style="background:#dfd;">
+<td>2</td>
+<td>Session</td>
+<td>2</td>
+</tr>
+<tr style="background:#afa;">
+<th>10</th>
+<th>Overall</th>
+<th>6</th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Sunday.27s_singles_matches">Sunday's singles matches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=15" title="Edit section: Sunday's singles matches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>No team had previously come back from more than two points down on the final day to win the Ryder Cup. Team Europe captain <a href="/wiki/Mark_James_(golfer)" title="Mark James (golfer)">Mark James</a> put most of the team's strength at the back of the lineup. Meanwhile, <a href="/wiki/Ben_Crenshaw" title="Ben Crenshaw">Ben Crenshaw</a> arranged the American lineup to put most of the strength at the beginning, knowing that a fast start was needed if the Americans were going to recover from the four point deficit. This led to several early mismatches. James had not played three of his rookies during team play: <a href="/wiki/Jarmo_Sandelin" title="Jarmo Sandelin">Jarmo Sandelin</a>, <a href="/wiki/Jean_van_de_Velde_(golfer)" title="Jean van de Velde (golfer)">Jean van de Velde</a>, and <a href="/wiki/Andrew_Coltart" title="Andrew Coltart">Andrew Coltart</a>. Due to the opposite strategies, this resulted in the three rookies playing their first Ryder Cup matches against the some of strongest American players: <a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a>, <a href="/wiki/Davis_Love_III" title="Davis Love III">Davis Love III</a>, and <a href="/wiki/Tiger_Woods" title="Tiger Woods">Tiger Woods</a>.</p>
+<p><a href="/wiki/Tom_Lehman" title="Tom Lehman">Tom Lehman</a> and <a href="/wiki/Lee_Westwood" title="Lee Westwood">Lee Westwood</a>, playing in the lead match, halved the first three holes. However, the Europeans seemed to pick up where they had left off when <a href="/wiki/Darren_Clarke" title="Darren Clarke">Darren Clarke</a> chipped in at the opening hole, though <a href="/wiki/Hal_Sutton" title="Hal Sutton">Hal Sutton</a> squared the match at the next hole and would not trail again. The matches were close in the early stages, but then Love chipped in at the 5th for a birdie, which seemed to inspire his teammates. Woods, looking much more comfortable in individual play, followed with a chip-in of his own a few minutes later at the 8th, which caused an enormous roar from the crowd that could be heard through the course. The Americans now had the lead in the first six matches. Love secured the first point of the day, winning 6 &amp; 5 over Van de Velde, followed quickly by Lehman and Sutton. Mickelson and Sandelin previously had a history with each other, stemming from the 1996 <a href="/wiki/Alfred_Dunhill_Cup" title="Alfred Dunhill Cup">Alfred Dunhill Cup</a>. Sandelin drew the ire of the American fans, who were well aware of the incident, which led to a strange exchange at the second hole. Sandelin missed a short putt for birdie, for which the crowd cheered, prompting Sandelin to raise his hands in mock acknowledgement of the cheering. He would never look comfortable and lose to Mickelson 4 &amp; 3. <a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Jesper Parnevik</a>, separated from García, looked out of sorts, losing six of the first eight holes against <a href="/wiki/David_Duval" title="David Duval">David Duval</a>, and would lose by a five-hole margin. Woods then closed out Coltart to give the U.S. a 12–10 lead, their first lead of the week.</p>
+<p>The Americans had won the first six matches of the day. <a href="/wiki/P%C3%A1draig_Harrington" title="Pádraig Harrington">Pádraig Harrington</a> got the Europeans their first point of the day when his opponent <a href="/wiki/Mark_O%27Meara" title="Mark O'Meara">Mark O'Meara</a> could not escape a bunker at the final hole. <a href="/wiki/Steve_Pate" title="Steve Pate">Steve Pate</a> answered by defeating <a href="/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez" title="Miguel Ángel Jiménez">Miguel Ángel Jiménez</a>. The biggest European win came from the anchor match, with <a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Paul Lawrie</a> winning three of the first eight holes against <a href="/wiki/Jeff_Maggert" title="Jeff Maggert">Jeff Maggert</a>, and going on to win 4 &amp; 3. However, <a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a> lost by the same margin to <a href="/wiki/Jim_Furyk" title="Jim Furyk">Jim Furyk</a>, his first loss of the week. Both Parnevik and García lost by large margins in singles after going undefeated in team play.</p>
+<p>The Americans now led 14–12, with two matches on the course. The U.S. now needed just half a point to win, while Europe needed two points to retain the cup in a tie situation. The remaining matches pitted <a href="/wiki/Colin_Montgomerie" title="Colin Montgomerie">Colin Montgomerie</a> against <a href="/wiki/Payne_Stewart" title="Payne Stewart">Payne Stewart</a>, and <a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a> against <a href="/wiki/Justin_Leonard" title="Justin Leonard">Justin Leonard</a>. Montgomerie and Stewart had gone back and forth for much of the front nine, with both players making several long putts. Montgomerie then won the 12th to move 2 up. Stewart won the 14th, while both players found trouble at 15, and both faced lengthy par putts. Montgomerie missed from 15 feet, while Stewart holed from 35 feet to square the match with three holes to play. Stewart's excited fist pump has been used on many Ryder Cup promotional materials, including NBC's telecast opens, since the American's death a month later.</p>
+<p>Meanwhile, the other match appeared to be a blowout with Olazábal leading Leonard 4 up with just seven holes to play. However, the Spaniard played the next three holes in 5-6-5, losing all three, to drop his lead to one hole. Leonard then sunk a 40-foot putt at the 15th to square the match, a scene very similar to Stewart's putt at the same green. At the 17th, Leonard had another 40 footer for birdie, with Olazábal about 15 feet closer. Leonard holed the unlikely birdie, sending the American team into a frenzy. The team, their wives and NBC cameramen all ran onto the green to hug Leonard, with the cameramen allegedly stepping in Olazábal's line. Eventually order was restored, and Olazábal had a 25-foot putt to keep Europe's hope alive. He missed, and the American comeback was complete, with Leonard dormie, guaranteeing the half point needed by the U.S.</p>
+<p>With the crowd in a frenzy and the matches already decided, Stewart picked up the ball of Montgomerie and conceded the final match to the Europeans in a gesture of sportsmanship. This made the final score 14½–13½ officially.</p>
+<table border="1" cellpadding="3" style="border-collapse: collapse; text-align:center;">
+<tr style="background:#dfd;">
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/50px-Flag_of_Europe.svg.png" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/75px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/100px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span></th>
+<th style="width:5.5em;">Results</th>
+<th style="width:12em;"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" width="50" height="26" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/75px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/100px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></th>
+<th>Timetable</th>
+</tr>
+<tr>
+<td><a href="/wiki/Lee_Westwood" title="Lee Westwood">Lee Westwood</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 3 &amp; 2</td>
+<td><b><a href="/wiki/Tom_Lehman" title="Tom Lehman">Tom Lehman</a></b></td>
+<td>2nd (10–<b>8</b>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Darren_Clarke" title="Darren Clarke">Darren Clarke</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 4 &amp; 2</td>
+<td><b><a href="/wiki/Hal_Sutton" title="Hal Sutton">Hal Sutton</a></b></td>
+<td>4th (10–<b>10</b>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jarmo_Sandelin" title="Jarmo Sandelin">Jarmo Sandelin</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 5 &amp; 3</td>
+<td><b><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a></b></td>
+<td>3rd (10–<b>9</b>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jean_van_de_Velde_(golfer)" title="Jean van de Velde (golfer)">Jean van de Velde</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 6 &amp; 5</td>
+<td><b><a href="/wiki/Davis_Love_III" title="Davis Love III">Davis Love III</a></b></td>
+<td>1st (10–<b>7</b>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Andrew_Coltart" title="Andrew Coltart">Andrew Coltart</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 3 &amp; 2</td>
+<td><b><a href="/wiki/Tiger_Woods" title="Tiger Woods">Tiger Woods</a></b></td>
+<td>6th (10–<b>12</b>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Jesper Parnevik</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 5 &amp; 4</td>
+<td><b><a href="/wiki/David_Duval" title="David Duval">David Duval</a></b></td>
+<td>5th (10–<b>11</b>)</td>
+</tr>
+<tr>
+<td><b><a href="/wiki/P%C3%A1draig_Harrington" title="Pádraig Harrington">Pádraig Harrington</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 1 up</td>
+<td><a href="/wiki/Mark_O%27Meara" title="Mark O'Meara">Mark O'Meara</a></td>
+<td>8th (<b>11</b>–13)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez" title="Miguel Ángel Jiménez">Miguel Ángel Jiménez</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 2 &amp; 1</td>
+<td><b><a href="/wiki/Steve_Pate" title="Steve Pate">Steve Pate</a></b></td>
+<td>7th (10–<b>13</b>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a></td>
+<td>halved</td>
+<td><a href="/wiki/Justin_Leonard" title="Justin Leonard">Justin Leonard</a></td>
+<td>11th (12½–14½)</td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Colin_Montgomerie" title="Colin Montgomerie">Colin Montgomerie</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 1 up</td>
+<td><a href="/wiki/Payne_Stewart" title="Payne Stewart">Payne Stewart</a></td>
+<td>12th (<b>13½</b>–14½)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a></td>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> 4 &amp; 3</td>
+<td><b><a href="/wiki/Jim_Furyk" title="Jim Furyk">Jim Furyk</a></b></td>
+<td>10th (12–<b>14</b>)</td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Paul Lawrie</a></b></td>
+<td align="left"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> 4 &amp; 3</td>
+<td><a href="/wiki/Jeff_Maggert" title="Jeff Maggert">Jeff Maggert</a></td>
+<td>9th (<b>12</b>–13)</td>
+</tr>
+<tr style="background:#dfd;">
+<td>3½</td>
+<td>Session</td>
+<td>8½</td>
+</tr>
+<tr style="background:#afa;">
+<th>13½</th>
+<th>Overall</th>
+<th>14½</th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Individual_player_records">Individual player records</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=16" title="Edit section: Individual player records">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Each entry refers to the Win–Loss–Half record of the player.</p>
+<p>Source: <sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=17" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="text-align:center">
+<tr>
+<th>Player</th>
+<th>Points</th>
+<th>Overall</th>
+<th>Singles</th>
+<th>Foursomes</th>
+<th>Fourballs</th>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/David_Duval" title="David Duval">David Duval</a></td>
+<td>1.5</td>
+<td>1–2–1</td>
+<td>1–0–0</td>
+<td>0–1–0</td>
+<td>0–1–1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jim_Furyk" title="Jim Furyk">Jim Furyk</a></td>
+<td>1</td>
+<td>1–2–0</td>
+<td>1–0–0</td>
+<td>0–1–0</td>
+<td>0–1–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Tom_Lehman" title="Tom Lehman">Tom Lehman</a></td>
+<td>2</td>
+<td>2–1–0</td>
+<td>1–0–0</td>
+<td>0–1–0</td>
+<td>1–0–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Justin_Leonard" title="Justin Leonard">Justin Leonard</a></td>
+<td>1.5</td>
+<td>0–1–3</td>
+<td>0–0–1</td>
+<td>0–1–0</td>
+<td>0–0–2</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Davis_Love_III" title="Davis Love III">Davis Love III</a></td>
+<td>2.5</td>
+<td>1–0–3</td>
+<td>1–0–0</td>
+<td>0–0–1</td>
+<td>0–0–2</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jeff_Maggert" title="Jeff Maggert">Jeff Maggert</a></td>
+<td>2</td>
+<td>2–2–0</td>
+<td>0–1–0</td>
+<td>2–0–0</td>
+<td>0–1–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a></td>
+<td>2</td>
+<td>2–2–0</td>
+<td>1–0–0</td>
+<td>0–1–0</td>
+<td>1–1–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Mark_O%27Meara" title="Mark O'Meara">Mark O'Meara</a></td>
+<td>0</td>
+<td>0–2–0</td>
+<td>0–1–0</td>
+<td>0–1–0</td>
+<td>0–0–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Steve_Pate" title="Steve Pate">Steve Pate</a></td>
+<td>2</td>
+<td>2–1–0</td>
+<td>1–0–0</td>
+<td>1–0–0</td>
+<td>0–1–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Payne_Stewart" title="Payne Stewart">Payne Stewart</a></td>
+<td>0.5</td>
+<td>0–2–1</td>
+<td>0–1–0</td>
+<td>0–1–1</td>
+<td>0–0–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Hal_Sutton" title="Hal Sutton">Hal Sutton</a></td>
+<td>3.5</td>
+<td>3–1–1</td>
+<td>1–0–0</td>
+<td>2–0–0</td>
+<td>0–1–1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Tiger_Woods" title="Tiger Woods">Tiger Woods</a></td>
+<td>2</td>
+<td>2–3–0</td>
+<td>1–0–0</td>
+<td>1–1–0</td>
+<td>0–2–0</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=18" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="text-align:center">
+<tr>
+<th>Player</th>
+<th>Points</th>
+<th>Overall</th>
+<th>Singles</th>
+<th>Foursomes</th>
+<th>Fourballs</th>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Darren_Clarke" title="Darren Clarke">Darren Clarke</a></td>
+<td>2</td>
+<td>2–3–0</td>
+<td>0–1–0</td>
+<td>1–1–0</td>
+<td>1–1–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Andrew_Coltart" title="Andrew Coltart">Andrew Coltart</a></td>
+<td>0</td>
+<td>0–1–0</td>
+<td>0–1–0</td>
+<td>0–0–0</td>
+<td>0–0–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a></td>
+<td>3.5</td>
+<td>3–1–1</td>
+<td>0–1–0</td>
+<td>2–0–0</td>
+<td>1–0–1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/P%C3%A1draig_Harrington" title="Pádraig Harrington">Pádraig Harrington</a></td>
+<td>1.5</td>
+<td>1–1–1</td>
+<td>1–0–0</td>
+<td>0–1–1</td>
+<td>0–0–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez" title="Miguel Ángel Jiménez">Miguel Ángel Jiménez</a></td>
+<td>2</td>
+<td>1–2–2</td>
+<td>0–1–0</td>
+<td>0–1–1</td>
+<td>1–0–1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Paul_Lawrie" title="Paul Lawrie">Paul Lawrie</a></td>
+<td>3.5</td>
+<td>3–1–1</td>
+<td>1–0–0</td>
+<td>1–1–0</td>
+<td>1–0–1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Colin_Montgomerie" title="Colin Montgomerie">Colin Montgomerie</a></td>
+<td>3.5</td>
+<td>3–1–1</td>
+<td>1–0–0</td>
+<td>1–1–0</td>
+<td>1–0–1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a></td>
+<td>2</td>
+<td>1–0–2</td>
+<td>0–0–1</td>
+<td>0–0–0</td>
+<td>1–0–1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jesper_Parnevik" title="Jesper Parnevik">Jesper Parnevik</a></td>
+<td>3.5</td>
+<td>3–1–1</td>
+<td>0–1–0</td>
+<td>2–0–0</td>
+<td>1–0–1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jarmo_Sandelin" title="Jarmo Sandelin">Jarmo Sandelin</a></td>
+<td>0</td>
+<td>0–1–0</td>
+<td>0–1–0</td>
+<td>0–0–0</td>
+<td>0–0–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jean_van_de_Velde_(golfer)" title="Jean van de Velde (golfer)">Jean van de Velde</a></td>
+<td>0</td>
+<td>0–1–0</td>
+<td>0–1–0</td>
+<td>0–0–0</td>
+<td>0–0–0</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Lee_Westwood" title="Lee Westwood">Lee Westwood</a></td>
+<td>2</td>
+<td>2–3–0</td>
+<td>0–1–0</td>
+<td>1–1–0</td>
+<td>1–1–0</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/golf/7616263.stm">"Europe fired up for Ryder defence"</a>. <i>BBC News</i>. September 15, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">April 21,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.atitle=Europe+fired+up+for+Ryder+defence&amp;rft.date=2008-09-15&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fgolf%2F7616263.stm&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/golf/3977399.stm">Lehman named US Ryder Cup captain</a>, <a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a>, November 3, 2004.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Davies, David. <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/2004/nov/18/golf.daviddavies">Casey opens war with America</a>, <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>, November 18, 2004.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Cooke, Alistair (October 4, 1999). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/programmes/letter_from_america/464752.stm">"The arrival of the golf hooligan"</a>. BBC News<span class="reference-accessdate">. Retrieved <span class="nowrap">October 2,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.atitle=The+arrival+of+the+golf+hooligan&amp;rft.aufirst=Alistair&amp;rft.aulast=Cooke&amp;rft.date=1999-10-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fprogrammes%2Fletter_from_america%2F464752.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Shipnuck, Alan (October 4, 1999). <a rel="nofollow" class="external text" href="http://www.golf.com/golf/special/article/0,28136,1833909,00.html">"Ryder Cup 1999: Smokin<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/Sports_Illustrated" title="Sports Illustrated">Sports Illustrated</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.atitle=Ryder+Cup+1999%3A+Smokin%27&amp;rft.aufirst=Alan&amp;rft.aulast=Shipnuck&amp;rft.date=1999-10-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.golf.com%2Fgolf%2Fspecial%2Farticle%2F0%2C28136%2C1833909%2C00.html&amp;rft.jtitle=Sports+Illustrated&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-preview-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-preview_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-preview_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.golftoday.co.uk/tours/tours99/ryder/preview8.html">"Maggert says US are the worlds best"</a>. Golf Today<span class="reference-accessdate">. Retrieved <span class="nowrap">March 18,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.btitle=Maggert+says+US+are+the+worlds+best&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.golftoday.co.uk%2Ftours%2Ftours99%2Fryder%2Fpreview8.html&amp;rft.pub=Golf+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Brown, Clifton (September 22, 1999). <a rel="nofollow" class="external text" href="https://www.nytimes.com/1999/09/22/sports/golf-ryder-cup-99-notebook-maggert-cannot-hide-his-confidence.html">"Maggert Cannot Hide His Confidence"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 18,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.atitle=Maggert+Cannot+Hide+His+Confidence&amp;rft.aufirst=Clifton&amp;rft.aulast=Brown&amp;rft.date=1999-09-22&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1999%2F09%2F22%2Fsports%2Fgolf-ryder-cup-99-notebook-maggert-cannot-hide-his-confidence.html&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.amazon.com/Gigantic-Book-Golf-Quotations-Thousands/dp/1602390142/">The Gigantic Book of Golf Quotations</a></i>, ed. Jim Apfelbaum. 2007.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Markus, Don (October 26, 1999). <a rel="nofollow" class="external text" href="http://articles.baltimoresun.com/1999-10-26/sports/9910260003_1_payne-stewart-stewart-died-stewart-won">"First peace, then tragedy"</a>. <i><a href="/wiki/Baltimore_Sun" class="mw-redirect" title="Baltimore Sun">Baltimore Sun</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 29,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.atitle=First+peace%2C+then+tragedy&amp;rft.aufirst=Don&amp;rft.aulast=Markus&amp;rft.date=1999-10-26&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farticles.baltimoresun.com%2F1999-10-26%2Fsports%2F9910260003_1_payne-stewart-stewart-died-stewart-won&amp;rft.jtitle=Baltimore+Sun&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.golftoday.co.uk/news/yeartodate/news99/rydercupapol.html">"Americans still seeking forgiveness for Ryder Cup behaviour"</a>. Golf Today<span class="reference-accessdate">. Retrieved <span class="nowrap">March 18,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.btitle=Americans+still+seeking+forgiveness+for+Ryder+Cup+behaviour&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.golftoday.co.uk%2Fnews%2Fyeartodate%2Fnews99%2Frydercupapol.html&amp;rft.pub=Golf+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.golftoday.co.uk/noticeboard/quotes/ryder_cup.html">"The Ryder Cup – Quotations"</a>. Golf Today<span class="reference-accessdate">. Retrieved <span class="nowrap">March 18,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.btitle=The+Ryder+Cup+%93+Quotations&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.golftoday.co.uk%2Fnoticeboard%2Fquotes%2Fryder_cup.html&amp;rft.pub=Golf+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bbc-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbc_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbc_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/sport/golf/458434.stm">"Fury over Ryder Cup celebrations"</a>. <i>BBC News</i>. September 27, 1999<span class="reference-accessdate">. Retrieved <span class="nowrap">March 18,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.atitle=Fury+over+Ryder+Cup+celebrations&amp;rft.date=1999-09-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fsport%2Fgolf%2F458434.stm&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://2014rcmediaguide.com/2014RyderCupMediaGuide/">"2014 Ryder Cup Media and Players' Guide"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 5,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.btitle=2014+Ryder+Cup+Media+and+Players%27+Guide&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2F2014rcmediaguide.com%2F2014RyderCupMediaGuide%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rydercup.com/2006/europe/history/results/1999.html">"Ryder Cup 2006&#160;» History&#160;» 1999 Results"</a>. The PGA of America, Ryder Cup Limited, and Turner Sports Interactive<span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.btitle=Ryder+Cup+2006+%BB+History+%BB+1999+Results&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rydercup.com%2F2006%2Feurope%2Fhistory%2Fresults%2F1999.html&amp;rft.pub=The+PGA+of+America%2C+Ryder+Cup+Limited%2C+and+Turner+Sports+Interactive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/golf/3913453.stm">"Ryder Cup history: 1999"</a>. BBC Sport. September 13, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1999+Ryder+Cup&amp;rft.atitle=Ryder+Cup+history%3A+1999&amp;rft.date=2004-09-13&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fgolf%2F3913453.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.pgamediaguide.com/rydercup_detail.cfm?tournament_id=1743&amp;tourn_name_id=9&amp;dateid=1999">PGA of America: 1999 Ryder Cup</a></li>
+<li><a rel="nofollow" class="external text" href="http://golf.about.com/od/teamcompetitions/p/rydercup1999.htm">About.com: 1999 Ryder Cup</a></li>
+<li><a rel="nofollow" class="external text" href="http://sportsillustrated.cnn.com/vault/cover/toc/9710/index.htm"><i>Sports Illustrated</i></a> – October 4, 1999</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Ryder_Cup" style="padding:3px">
+<table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#afa;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ryder_Cup_tournaments" title="Template:Ryder Cup tournaments"><abbr title="View this template" style=";background:#afa;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ryder_Cup_tournaments" title="Template talk:Ryder Cup tournaments"><abbr title="Discuss this template" style=";background:#afa;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ryder_Cup_tournaments&amp;action=edit"><abbr title="Edit this template" style=";background:#afa;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ryder_Cup" style="font-size:114%;margin:0 4em"><a href="/wiki/Ryder_Cup" title="Ryder Cup">Ryder Cup</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#dfd;">United States vs. Great Britain</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1927_Ryder_Cup" title="1927 Ryder Cup">1927</a></li>
+<li><a href="/wiki/1929_Ryder_Cup" title="1929 Ryder Cup">1929</a></li>
+<li><a href="/wiki/1931_Ryder_Cup" title="1931 Ryder Cup">1931</a></li>
+<li><a href="/wiki/1933_Ryder_Cup" title="1933 Ryder Cup">1933</a></li>
+<li><a href="/wiki/1935_Ryder_Cup" title="1935 Ryder Cup">1935</a></li>
+<li><a href="/wiki/1937_Ryder_Cup" title="1937 Ryder Cup">1937</a></li>
+<li><span style="color:#aaa;">1939</span></li>
+<li><span style="color:#aaa;">1941</span></li>
+<li><span style="color:#aaa;">1943</span></li>
+<li><span style="color:#aaa;">1945</span></li>
+<li><a href="/wiki/1947_Ryder_Cup" title="1947 Ryder Cup">1947</a></li>
+<li><a href="/wiki/1949_Ryder_Cup" title="1949 Ryder Cup">1949</a></li>
+<li><a href="/wiki/1951_Ryder_Cup" title="1951 Ryder Cup">1951</a></li>
+<li><a href="/wiki/1953_Ryder_Cup" title="1953 Ryder Cup">1953</a></li>
+<li><a href="/wiki/1955_Ryder_Cup" title="1955 Ryder Cup">1955</a></li>
+<li><a href="/wiki/1957_Ryder_Cup" title="1957 Ryder Cup">1957</a></li>
+<li><a href="/wiki/1959_Ryder_Cup" title="1959 Ryder Cup">1959</a></li>
+<li><a href="/wiki/1961_Ryder_Cup" title="1961 Ryder Cup">1961</a></li>
+<li><a href="/wiki/1963_Ryder_Cup" title="1963 Ryder Cup">1963</a></li>
+<li><a href="/wiki/1965_Ryder_Cup" title="1965 Ryder Cup">1965</a></li>
+<li><a href="/wiki/1967_Ryder_Cup" title="1967 Ryder Cup">1967</a></li>
+<li><a href="/wiki/1969_Ryder_Cup" title="1969 Ryder Cup">1969</a></li>
+<li><a href="/wiki/1971_Ryder_Cup" title="1971 Ryder Cup">1971</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#dfd;">United States vs. Great Britain &amp; Ireland</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1973_Ryder_Cup" title="1973 Ryder Cup">1973</a></li>
+<li><a href="/wiki/1975_Ryder_Cup" title="1975 Ryder Cup">1975</a></li>
+<li><a href="/wiki/1977_Ryder_Cup" title="1977 Ryder Cup">1977</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#dfd;">United States vs. Europe</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1979_Ryder_Cup" title="1979 Ryder Cup">1979</a></li>
+<li><a href="/wiki/1981_Ryder_Cup" title="1981 Ryder Cup">1981</a></li>
+<li><a href="/wiki/1983_Ryder_Cup" title="1983 Ryder Cup">1983</a></li>
+<li><a href="/wiki/1985_Ryder_Cup" title="1985 Ryder Cup">1985</a></li>
+<li><a href="/wiki/1987_Ryder_Cup" title="1987 Ryder Cup">1987</a></li>
+<li><a href="/wiki/1989_Ryder_Cup" title="1989 Ryder Cup">1989</a></li>
+<li><a href="/wiki/1991_Ryder_Cup" title="1991 Ryder Cup">1991</a></li>
+<li><a href="/wiki/1993_Ryder_Cup" title="1993 Ryder Cup">1993</a></li>
+<li><a href="/wiki/1995_Ryder_Cup" title="1995 Ryder Cup">1995</a></li>
+<li><a href="/wiki/1997_Ryder_Cup" title="1997 Ryder Cup">1997</a></li>
+<li><a class="mw-selflink selflink">1999</a></li>
+<li><a href="/wiki/2002_Ryder_Cup" title="2002 Ryder Cup">2002</a></li>
+<li><a href="/wiki/2004_Ryder_Cup" title="2004 Ryder Cup">2004</a></li>
+<li><a href="/wiki/2006_Ryder_Cup" title="2006 Ryder Cup">2006</a></li>
+<li><a href="/wiki/2008_Ryder_Cup" title="2008 Ryder Cup">2008</a></li>
+<li><a href="/wiki/2010_Ryder_Cup" title="2010 Ryder Cup">2010</a></li>
+<li><a href="/wiki/2012_Ryder_Cup" title="2012 Ryder Cup">2012</a></li>
+<li><a href="/wiki/2014_Ryder_Cup" title="2014 Ryder Cup">2014</a></li>
+<li><a href="/wiki/2016_Ryder_Cup" title="2016 Ryder Cup">2016</a></li>
+<li><i><a href="/wiki/2018_Ryder_Cup" title="2018 Ryder Cup">2018</a></i></li>
+<li><i><a href="/wiki/2020_Ryder_Cup" class="mw-redirect" title="2020 Ryder Cup">2020</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#dfd;">See also</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_Ryder_Cup_matches" title="List of Ryder Cup matches">Ryder Cup matches</a></li>
+<li><a href="/wiki/List_of_American_Ryder_Cup_golfers" title="List of American Ryder Cup golfers">American Ryder Cup golfers</a></li>
+<li><a href="/wiki/List_of_European_Ryder_Cup_golfers" title="List of European Ryder Cup golfers">European Ryder Cup golfers</a></li>
+<li><a href="/wiki/List_of_Ryder_Cup_records" title="List of Ryder Cup records">Ryder Cup records</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Golf_Channel_.28NBC.29" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Golf_on_NBC" title="Template:Golf on NBC"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Golf_on_NBC" title="Template talk:Golf on NBC"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Golf_on_NBC&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Golf_Channel_.28NBC.29" style="font-size:114%;margin:0 4em"><a href="/wiki/Golf_Channel_on_NBC" title="Golf Channel on NBC"><i>Golf Channel (NBC)</i></a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/U.S._Open_(golf)" title="U.S. Open (golf)">U.S. Open</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1954_U.S._Open_(golf)" title="1954 U.S. Open (golf)">1954</a></li>
+<li><a href="/wiki/1955_U.S._Open_(golf)" title="1955 U.S. Open (golf)">1955</a></li>
+<li><a href="/wiki/1956_U.S._Open_(golf)" title="1956 U.S. Open (golf)">1956</a></li>
+<li><a href="/wiki/1957_U.S._Open_(golf)" title="1957 U.S. Open (golf)">1957</a></li>
+<li><a href="/wiki/1958_U.S._Open_(golf)" title="1958 U.S. Open (golf)">1958</a></li>
+<li><a href="/wiki/1959_U.S._Open_(golf)" title="1959 U.S. Open (golf)">1959</a></li>
+<li><a href="/wiki/1960_U.S._Open_(golf)" title="1960 U.S. Open (golf)">1960</a></li>
+<li><a href="/wiki/1961_U.S._Open_(golf)" title="1961 U.S. Open (golf)">1961</a></li>
+<li><a href="/wiki/1962_U.S._Open_(golf)" title="1962 U.S. Open (golf)">1962</a></li>
+<li><a href="/wiki/1963_U.S._Open_(golf)" title="1963 U.S. Open (golf)">1963</a></li>
+<li><a href="/wiki/1964_U.S._Open_(golf)" title="1964 U.S. Open (golf)">1964</a></li>
+<li><a href="/wiki/1965_U.S._Open_(golf)" title="1965 U.S. Open (golf)">1965</a></li>
+<li><a href="/wiki/1995_U.S._Open_(golf)" title="1995 U.S. Open (golf)">1995</a></li>
+<li><a href="/wiki/1996_U.S._Open_(golf)" title="1996 U.S. Open (golf)">1996</a></li>
+<li><a href="/wiki/1997_U.S._Open_(golf)" title="1997 U.S. Open (golf)">1997</a></li>
+<li><a href="/wiki/1998_U.S._Open_(golf)" title="1998 U.S. Open (golf)">1998</a></li>
+<li><a href="/wiki/1999_U.S._Open_(golf)" title="1999 U.S. Open (golf)">1999</a></li>
+<li><a href="/wiki/2000_U.S._Open_(golf)" title="2000 U.S. Open (golf)">2000</a></li>
+<li><a href="/wiki/2001_U.S._Open_(golf)" title="2001 U.S. Open (golf)">2001</a></li>
+<li><a href="/wiki/2002_U.S._Open_(golf)" title="2002 U.S. Open (golf)">2002</a></li>
+<li><a href="/wiki/2003_U.S._Open_(golf)" title="2003 U.S. Open (golf)">2003</a></li>
+<li><a href="/wiki/2004_U.S._Open_(golf)" title="2004 U.S. Open (golf)">2004</a></li>
+<li><a href="/wiki/2005_U.S._Open_(golf)" title="2005 U.S. Open (golf)">2005</a></li>
+<li><a href="/wiki/2006_U.S._Open_(golf)" title="2006 U.S. Open (golf)">2006</a></li>
+<li><a href="/wiki/2007_U.S._Open_(golf)" title="2007 U.S. Open (golf)">2007</a></li>
+<li><a href="/wiki/2008_U.S._Open_(golf)" title="2008 U.S. Open (golf)">2008</a></li>
+<li><a href="/wiki/2009_U.S._Open_(golf)" title="2009 U.S. Open (golf)">2009</a></li>
+<li><a href="/wiki/2010_U.S._Open_(golf)" title="2010 U.S. Open (golf)">2010</a></li>
+<li><a href="/wiki/2011_U.S._Open_(golf)" title="2011 U.S. Open (golf)">2011</a></li>
+<li><a href="/wiki/2012_U.S._Open_(golf)" title="2012 U.S. Open (golf)">2012</a></li>
+<li><a href="/wiki/2013_U.S._Open_(golf)" title="2013 U.S. Open (golf)">2013</a></li>
+<li><a href="/wiki/2014_U.S._Open_(golf)" title="2014 U.S. Open (golf)">2014</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Ryder_Cup" title="Ryder Cup">Ryder Cup</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1991_Ryder_Cup" title="1991 Ryder Cup">1991</a></li>
+<li><a href="/wiki/1993_Ryder_Cup" title="1993 Ryder Cup">1993</a></li>
+<li><a href="/wiki/1995_Ryder_Cup" title="1995 Ryder Cup">1995</a></li>
+<li><a href="/wiki/1997_Ryder_Cup" title="1997 Ryder Cup">1997</a></li>
+<li><a class="mw-selflink selflink">1999</a></li>
+<li><a href="/wiki/2002_Ryder_Cup" title="2002 Ryder Cup">2002</a></li>
+<li><a href="/wiki/2004_Ryder_Cup" title="2004 Ryder Cup">2004</a></li>
+<li><a href="/wiki/2006_Ryder_Cup" title="2006 Ryder Cup">2006</a></li>
+<li><a href="/wiki/2008_Ryder_Cup" title="2008 Ryder Cup">2008</a></li>
+<li><a href="/wiki/2010_Ryder_Cup" title="2010 Ryder Cup">2010</a></li>
+<li><a href="/wiki/2012_Ryder_Cup" title="2012 Ryder Cup">2012</a></li>
+<li><a href="/wiki/2014_Ryder_Cup" title="2014 Ryder Cup">2014</a></li>
+<li><a href="/wiki/2016_Ryder_Cup" title="2016 Ryder Cup">2016</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Presidents_Cup" title="Presidents Cup">Presidents Cup</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2000_Presidents_Cup" title="2000 Presidents Cup">2000</a></li>
+<li><a href="/wiki/2003_Presidents_Cup" title="2003 Presidents Cup">2003</a></li>
+<li><a href="/wiki/2005_Presidents_Cup" title="2005 Presidents Cup">2005</a></li>
+<li><a href="/wiki/2007_Presidents_Cup" title="2007 Presidents Cup">2007</a></li>
+<li><a href="/wiki/2009_Presidents_Cup" title="2009 Presidents Cup">2009</a></li>
+<li><a href="/wiki/2011_Presidents_Cup" title="2011 Presidents Cup">2011</a></li>
+<li><a href="/wiki/2013_Presidents_Cup" title="2013 Presidents Cup">2013</a></li>
+<li><a href="/wiki/2015_Presidents_Cup" title="2015 Presidents Cup">2015</a></li>
+<li><a href="/wiki/2017_Presidents_Cup" title="2017 Presidents Cup">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Open_Championship" class="mw-redirect" title="Open Championship">Open Championship</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2016_Open_Championship" title="2016 Open Championship">2016</a></li>
+<li><a href="/wiki/2017_Open_Championship" title="2017 Open Championship">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Other events</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hyundai_Tournament_of_Champions" class="mw-redirect" title="Hyundai Tournament of Champions">Hyundai Tournament of Champions</a> (2012–present)</li>
+<li><a href="/wiki/Phoenix_Open" title="Phoenix Open">Phoenix Open</a></li>
+<li><a href="/wiki/The_Honda_Classic" title="The Honda Classic">The Honda Classic</a> (1987–present)</li>
+<li><a href="/wiki/WGC-Cadillac_Championship" class="mw-redirect" title="WGC-Cadillac Championship">WGC-Cadillac Championship</a> (1999–present, <a href="/wiki/Doral_Open" title="Doral Open">fka Doral Open, 1999-2006</a>)</li>
+<li><a href="/wiki/Valspar_Championship" title="Valspar Championship">Valspar Championship</a> (2007–present)</li>
+<li><a href="/wiki/Arnold_Palmer_Invitational" title="Arnold Palmer Invitational">Arnold Palmer Invitational</a> (1987–present)</li>
+<li><a href="/wiki/Shell_Houston_Open" class="mw-redirect" title="Shell Houston Open">Shell Houston Open</a> (2007–present)</li>
+<li><a href="/wiki/Valero_Texas_Open" title="Valero Texas Open">Valero Texas Open</a> (2012–present)</li>
+<li><a href="/wiki/WGC-Cadillac_Match_Play" class="mw-redirect" title="WGC-Cadillac Match Play">WGC-Cadillac Match Play</a> (2007–present, except Winter Olympic years)</li>
+<li><a href="/wiki/The_Players_Championship" title="The Players Championship">The Players Championship</a> (1988–present)</li>
+<li><a href="/wiki/Deutsche_Bank_Championship" class="mw-redirect" title="Deutsche Bank Championship">Deutsche Bank Championship</a> (2007–present)</li>
+<li><a href="/wiki/BMW_Championship_(PGA_Tour)" title="BMW Championship (PGA Tour)">BMW Championship</a> (2007–present)</li>
+<li><a href="/wiki/The_Tour_Championship" class="mw-redirect" title="The Tour Championship">The Tour Championship</a> (2007–present)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Majors and special events</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Senior_PGA_Championship" title="Senior PGA Championship">Senior PGA Championship</a> (2007-present)</li>
+<li><a href="/wiki/Women%27s_PGA_Championship" title="Women's PGA Championship">Women's PGA Championship</a> (2015-present)</li>
+<li><a href="/wiki/Evian_Championship" class="mw-redirect" title="Evian Championship">Evian Championship</a> (2014-present)</li>
+<li><a href="/wiki/Women%27s_British_Open" title="Women's British Open">Women's British Open</a> (2016-future)</li>
+<li><a href="/wiki/Senior_Open_Championship" title="Senior Open Championship">Senior Open Championship</a> (2016-future)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Former events</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Humana_Challenge" class="mw-redirect" title="Humana Challenge">Bob Hope Classic</a> (mid 1960s–1998)</li>
+<li><a href="/wiki/Northern_Trust_Open" class="mw-redirect" title="Northern Trust Open">Northern Trust Open</a> (2010)</li>
+<li><a href="/wiki/BellSouth_Classic" class="mw-redirect" title="BellSouth Classic">BellSouth Classic</a> (1999–2006)</li>
+<li><a href="/wiki/Zurich_Classic_of_New_Orleans" title="Zurich Classic of New Orleans">Zurich Classic of New Orleans</a> (2007–2008)</li>
+<li><a href="/wiki/The_Tradition" title="The Tradition">The Tradition</a> (2007–2010)</li>
+<li><a href="/wiki/Senior_Players_Championship" title="Senior Players Championship">Senior Players Championship</a> (2007–2009)</li>
+<li><a href="/wiki/United_States_Women%27s_Open_Championship_(golf)" title="United States Women's Open Championship (golf)">U.S. Women's Open</a> (1995–2014)</li>
+<li><a href="/wiki/United_States_Senior_Open" class="mw-redirect" title="United States Senior Open">U.S. Senior Open</a> (1995–2014)</li>
+<li><a href="/wiki/Skins_Game_(PGA_Tour)" title="Skins Game (PGA Tour)">Skins Game</a> (1983–1990)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/List_of_NBC_Golf_commentators" class="mw-redirect" title="List of NBC Golf commentators">Key figures</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dan_Hicks_(sportscaster)" title="Dan Hicks (sportscaster)">Dan Hicks</a> (Host)</li>
+<li><a href="/wiki/Johnny_Miller" title="Johnny Miller">Johnny Miller</a> (Analyst)</li>
+<li><a href="/wiki/Gary_Koch" title="Gary Koch">Gary Koch</a> (Tower Announcer)</li>
+<li><a href="/wiki/Peter_Jacobsen" title="Peter Jacobsen">Peter Jacobsen</a> (Tower Announcer)</li>
+<li><a href="/wiki/Roger_Maltbie" title="Roger Maltbie">Roger Maltbie</a> (On-Course Reporter)</li>
+<li><a href="/wiki/Mark_Rolfing" title="Mark Rolfing">Mark Rolfing</a> (On-Course Reporter)</li>
+<li><a href="/wiki/Notah_Begay_III" title="Notah Begay III">Notah Begay III</a> (On-Course Reporter)</li>
+<li><a href="/wiki/Jimmy_Roberts" title="Jimmy Roberts">Jimmy Roberts</a> (Host/Essayist)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Music composers</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bruce_Rowland" title="Bruce Rowland">Bruce Rowland</a> (<a href="/wiki/The_Man_from_Snowy_River_(soundtrack)" title="The Man from Snowy River (soundtrack)"><i>The Man from Snowy River</i></a> "Main Title")</li>
+<li><a href="/wiki/Yanni" title="Yanni">Yanni</a> ("In Celebration of Man")</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sports_broadcasting_contracts_in_the_United_States#Golf" title="Sports broadcasting contracts in the United States">Television contract history</a></li>
+<li><i><a href="/wiki/NBC_Sports_Real_Golf" title="NBC Sports Real Golf">NBC Sports Real Golf</a></i></li>
+<li><a href="/wiki/Golf_Channel" title="Golf Channel">Golf Channel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="PGA_Tour_on_USA" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Golf_on_USA_Network" title="Template:Golf on USA Network"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Golf_on_USA_Network" title="Template talk:Golf on USA Network"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Golf_on_USA_Network&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="PGA_Tour_on_USA" style="font-size:114%;margin:0 4em"><a href="/wiki/PGA_Tour_on_USA" title="PGA Tour on USA"><i>PGA Tour on USA</i></a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Masters_Tournament" title="Masters Tournament">Masters Tournaments</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1982_Masters_Tournament" title="1982 Masters Tournament">1982</a></li>
+<li><a href="/wiki/1983_Masters_Tournament" title="1983 Masters Tournament">1983</a></li>
+<li><a href="/wiki/1984_Masters_Tournament" title="1984 Masters Tournament">1984</a></li>
+<li><a href="/wiki/1985_Masters_Tournament" title="1985 Masters Tournament">1985</a></li>
+<li><a href="/wiki/1986_Masters_Tournament" title="1986 Masters Tournament">1986</a></li>
+<li><a href="/wiki/1987_Masters_Tournament" title="1987 Masters Tournament">1987</a></li>
+<li><a href="/wiki/1988_Masters_Tournament" title="1988 Masters Tournament">1988</a></li>
+<li><a href="/wiki/1989_Masters_Tournament" title="1989 Masters Tournament">1989</a></li>
+<li><a href="/wiki/1990_Masters_Tournament" title="1990 Masters Tournament">1990</a></li>
+<li><a href="/wiki/1991_Masters_Tournament" title="1991 Masters Tournament">1991</a></li>
+<li><a href="/wiki/1992_Masters_Tournament" title="1992 Masters Tournament">1992</a></li>
+<li><a href="/wiki/1993_Masters_Tournament" title="1993 Masters Tournament">1993</a></li>
+<li><a href="/wiki/1994_Masters_Tournament" title="1994 Masters Tournament">1994</a></li>
+<li><a href="/wiki/1995_Masters_Tournament" title="1995 Masters Tournament">1995</a></li>
+<li><a href="/wiki/1996_Masters_Tournament" title="1996 Masters Tournament">1996</a></li>
+<li><a href="/wiki/1997_Masters_Tournament" title="1997 Masters Tournament">1997</a></li>
+<li><a href="/wiki/1998_Masters_Tournament" title="1998 Masters Tournament">1998</a></li>
+<li><a href="/wiki/1999_Masters_Tournament" title="1999 Masters Tournament">1999</a></li>
+<li><a href="/wiki/2000_Masters_Tournament" title="2000 Masters Tournament">2000</a></li>
+<li><a href="/wiki/2001_Masters_Tournament" title="2001 Masters Tournament">2001</a></li>
+<li><a href="/wiki/2002_Masters_Tournament" title="2002 Masters Tournament">2002</a></li>
+<li><a href="/wiki/2003_Masters_Tournament" title="2003 Masters Tournament">2003</a></li>
+<li><a href="/wiki/2004_Masters_Tournament" title="2004 Masters Tournament">2004</a></li>
+<li><a href="/wiki/2005_Masters_Tournament" title="2005 Masters Tournament">2005</a></li>
+<li><a href="/wiki/2006_Masters_Tournament" title="2006 Masters Tournament">2006</a></li>
+<li><a href="/wiki/2007_Masters_Tournament" title="2007 Masters Tournament">2007</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/List_of_Ryder_Cup_matches" title="List of Ryder Cup matches">Ryder Cup Matches</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1989_Ryder_Cup" title="1989 Ryder Cup">1989</a></li>
+<li><a href="/wiki/1991_Ryder_Cup" title="1991 Ryder Cup">1991</a></li>
+<li><a href="/wiki/1993_Ryder_Cup" title="1993 Ryder Cup">1993</a></li>
+<li><a href="/wiki/1995_Ryder_Cup" title="1995 Ryder Cup">1995</a></li>
+<li><a href="/wiki/1997_Ryder_Cup" title="1997 Ryder Cup">1997</a></li>
+<li><a class="mw-selflink selflink">1999</a></li>
+<li><a href="/wiki/2002_Ryder_Cup" title="2002 Ryder Cup">2002</a></li>
+<li><a href="/wiki/2004_Ryder_Cup" title="2004 Ryder Cup">2004</a></li>
+<li><a href="/wiki/2006_Ryder_Cup" title="2006 Ryder Cup">2006</a></li>
+<li><a href="/wiki/2010_Ryder_Cup" title="2010 Ryder Cup">2010</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Other events</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/The_Shark_Shootout" class="mw-redirect" title="The Shark Shootout">The Shark Shootout</a></li>
+<li><a href="/wiki/Bob_Hope_Chrysler_Classic" class="mw-redirect" title="Bob Hope Chrysler Classic">Bob Hope Chrysler Classic</a></li>
+<li><a href="/wiki/Buick_Invitational" class="mw-redirect" title="Buick Invitational">Buick Invitational</a></li>
+<li><a href="/wiki/FBR_Open" class="mw-redirect" title="FBR Open">FBR Open</a></li>
+<li><a href="/wiki/AT%26T_Pebble_Beach_Nat%27l_Pro-Am" class="mw-redirect" title="AT&amp;T Pebble Beach Nat'l Pro-Am">AT&amp;T Pebble Beach Nat'l Pro-Am</a></li>
+<li><a href="/wiki/Nissan_Open" class="mw-redirect" title="Nissan Open">Nissan Open</a></li>
+<li><a href="/wiki/Chrysler_Classic_of_Tucson" class="mw-redirect" title="Chrysler Classic of Tucson">Chrysler Classic of Tucson</a></li>
+<li><a href="/wiki/Ford_Championship_at_Doral" class="mw-redirect" title="Ford Championship at Doral">Ford Championship at Doral</a></li>
+<li><a href="/wiki/Honda_Classic" class="mw-redirect" title="Honda Classic">Honda Classic</a></li>
+<li><a href="/wiki/Bay_Hill_Invitational" class="mw-redirect" title="Bay Hill Invitational">Bay Hill Invitational presented by MasterCard</a></li>
+<li><a href="/wiki/BellSouth_Classic" class="mw-redirect" title="BellSouth Classic">BellSouth Classic</a></li>
+<li><a href="/wiki/Verizon_Heritage" class="mw-redirect" title="Verizon Heritage">Verizon Heritage</a></li>
+<li><a href="/wiki/Shell_Houston_Open" class="mw-redirect" title="Shell Houston Open">Shell Houston Open</a></li>
+<li><a href="/wiki/Zurich_Classic_of_New_Orleans" title="Zurich Classic of New Orleans">Zurich Classic of New Orleans</a></li>
+<li><a href="/wiki/Wachovia_Championship" class="mw-redirect" title="Wachovia Championship">Wachovia Championship</a></li>
+<li><a href="/wiki/EDS_Byron_Nelson_Championship" class="mw-redirect" title="EDS Byron Nelson Championship">EDS Byron Nelson Championship</a></li>
+<li><a href="/wiki/Bank_of_America_Colonial" class="mw-redirect" title="Bank of America Colonial">Bank of America Colonial</a></li>
+<li><a href="/wiki/Senior_PGA_Championship" title="Senior PGA Championship">Senior PGA Championship</a></li>
+<li><a href="/wiki/FedEx_St._Jude_Classic" class="mw-redirect" title="FedEx St. Jude Classic">FedEx St. Jude Classic</a></li>
+<li><a href="/wiki/Barclays_Classic" class="mw-redirect" title="Barclays Classic">Barclays Classic</a></li>
+<li><a href="/wiki/Booz_Allen_Classic" title="Booz Allen Classic">Booz Allen Classic</a></li>
+<li><a href="/wiki/Buick_Championship" class="mw-redirect" title="Buick Championship">Buick Championship</a></li>
+<li><a href="/wiki/Cialis_Western_Open" class="mw-redirect" title="Cialis Western Open">Cialis Western Open</a></li>
+<li><a href="/wiki/Ford_Senior_Players_Championship" class="mw-redirect" title="Ford Senior Players Championship">Ford Senior Players Championship</a></li>
+<li><a href="/wiki/John_Deere_Classic" title="John Deere Classic">John Deere Classic</a></li>
+<li><a href="/wiki/B.C._Open_presented_by_Turning_Stone_Resort" class="mw-redirect" title="B.C. Open presented by Turning Stone Resort">B.C. Open presented by Turning Stone Resort</a></li>
+<li><a href="/wiki/U.S._Bank_Championship_in_Milwaukee" class="mw-redirect" title="U.S. Bank Championship in Milwaukee">U.S. Bank Championship in Milwaukee</a></li>
+<li><a href="/wiki/Buick_Open" title="Buick Open">Buick Open</a></li>
+<li><a href="/wiki/The_INTERNATIONAL" class="mw-redirect" title="The INTERNATIONAL">The INTERNATIONAL</a></li>
+<li><a href="/wiki/Deutsche_Bank_Championship" class="mw-redirect" title="Deutsche Bank Championship">Deutsche Bank Championship</a></li>
+<li><a href="/wiki/Chrysler_Classic_of_Greensboro" class="mw-redirect" title="Chrysler Classic of Greensboro">Chrysler Classic of Greensboro</a></li>
+<li><a href="/wiki/Fry%27s.com_Open" class="mw-redirect" title="Fry's.com Open">Fry's.com Open</a></li>
+<li><a href="/wiki/Chrysler_Championship" class="mw-redirect" title="Chrysler Championship">Chrysler Championship</a></li>
+<li><a href="/wiki/Merrill_Lynch_Shootout" class="mw-redirect" title="Merrill Lynch Shootout">Merrill Lynch Shootout</a></li>
+<li><a href="/wiki/Target_World_Challenge" class="mw-redirect" title="Target World Challenge">Target World Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Key figures</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Phil_Blackmar" title="Phil Blackmar">Phil Blackmar</a></li>
+<li><a href="/wiki/Bob_Carpenter_(sportscaster)" title="Bob Carpenter (sportscaster)">Bob Carpenter</a></li>
+<li><a href="/wiki/Fran_Charles" title="Fran Charles">Fran Charles</a></li>
+<li><a href="/wiki/John_Cook_(golfer)" title="John Cook (golfer)">John Cook</a></li>
+<li><a href="/wiki/Jim_Gallagher,_Jr." class="mw-redirect" title="Jim Gallagher, Jr.">Jim Gallagher, Jr.</a></li>
+<li><a href="/wiki/Mike_Hulbert" title="Mike Hulbert">Mike Hulbert</a></li>
+<li><a href="/wiki/Peter_Kostis" title="Peter Kostis">Peter Kostis</a></li>
+<li><a href="/wiki/Bill_Macatee" title="Bill Macatee">Bill Macatee</a></li>
+<li><a href="/wiki/Gary_McCord" title="Gary McCord">Gary McCord</a></li>
+<li><a href="/wiki/Jennifer_Mills" title="Jennifer Mills">Jennifer Mills</a></li>
+<li><a href="/wiki/Bill_Patrick_(sports_anchor)" title="Bill Patrick (sports anchor)">Bill Patrick</a></li>
+<li><a href="/wiki/Larry_Rinker" title="Larry Rinker">Larry Rinker</a></li>
+<li><a href="/wiki/Ted_Robinson_(sportscaster)" title="Ted Robinson (sportscaster)">Ted Robinson</a></li>
+<li><a href="/wiki/Patty_Sheehan" title="Patty Sheehan">Patty Sheehan</a></li>
+<li><a href="/wiki/Jim_Simpson_(sportscaster)" title="Jim Simpson (sportscaster)">Jim Simpson</a></li>
+<li><a href="/wiki/Chris_Wragge" title="Chris Wragge">Chris Wragge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sports_broadcasting_contracts_in_the_United_States#Golf" title="Sports broadcasting contracts in the United States">Television contract history</a></li>
+<li><a href="/wiki/PGA_Tour_on_CBS" title="PGA Tour on CBS"><i>Golf on CBS</i></a> (produced early round Masters coverage)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=1999_Ryder_Cup&amp;params=42.315_N_-71.148_E_type:event"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°18′54″N</span> <span class="longitude">71°08′53″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.315°N 71.148°W</span><span style="display:none">﻿ / <span class="geo">42.315; -71.148</span></span></span></a></span></span></span></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20170409092944
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.352 seconds
+Real time usage: 0.434 seconds
+Preprocessor visited node count: 4559/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 105601/2097152 bytes
+Template argument size: 4846/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Lua time usage: 0.099/10.000 seconds
+Lua memory usage: 3.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  262.988      1 -total
+ 27.05%   71.135      1 Template:Reflist
+ 25.28%   66.489      1 Template:Infobox_team_golf_tournament
+ 23.04%   60.583      1 Template:Infobox
+ 18.63%   48.997     52 Template:Flagicon
+ 17.11%   44.985      6 Template:Cite_news
+  9.48%   24.931      1 Template:Coord
+  7.75%   20.382      5 Template:Navbox
+  6.96%   18.292      6 Template:Cite_web
+  5.94%   15.621      2 Template:Location_map
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7127064-0!*!0!!en!4!* and timestamp 20170409092944 and revision id 766158163
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1999_Ryder_Cup&amp;oldid=766158163">https://en.wikipedia.org/w/index.php?title=1999_Ryder_Cup&amp;oldid=766158163</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ryder_Cup" title="Category:Ryder Cup">Ryder Cup</a></li><li><a href="/wiki/Category:Golf_in_Massachusetts" title="Category:Golf in Massachusetts">Golf in Massachusetts</a></li><li><a href="/wiki/Category:1999_in_golf" title="Category:1999 in golf">1999 in golf</a></li><li><a href="/wiki/Category:1999_in_American_sports" title="Category:1999 in American sports">1999 in American sports</a></li><li><a href="/wiki/Category:1999_in_Massachusetts" title="Category:1999 in Massachusetts">1999 in Massachusetts</a></li><li><a href="/wiki/Category:September_1999_sports_events" title="Category:September 1999 sports events">September 1999 sports events</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1999+Ryder+Cup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1999+Ryder+Cup" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1999_Ryder_Cup"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1999_Ryder_Cup"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1999_Ryder_Cup" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1999_Ryder_Cup" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1999_Ryder_Cup" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1999_Ryder_Cup&amp;oldid=766158163" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1999_Ryder_Cup&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q3453913" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1999_Ryder_Cup&amp;id=766158163" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1999+Ryder+Cup">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1999+Ryder+Cup&amp;returnto=1999+Ryder+Cup&amp;oldid=766158163&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1999_Ryder_Cup&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ryder_Cup_1999" title="Ryder Cup 1999 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ryder_Cup_1999" title="Ryder Cup 1999 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q3453913#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 February 2017, at 15:57.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1999_Ryder_Cup&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.352","walltime":"0.434","ppvisitednodes":{"value":4559,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":105601,"limit":2097152},"templateargumentsize":{"value":4846,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  262.988      1 -total"," 27.05%   71.135      1 Template:Reflist"," 25.28%   66.489      1 Template:Infobox_team_golf_tournament"," 23.04%   60.583      1 Template:Infobox"," 18.63%   48.997     52 Template:Flagicon"," 17.11%   44.985      6 Template:Cite_news","  9.48%   24.931      1 Template:Coord","  7.75%   20.382      5 Template:Navbox","  6.96%   18.292      6 Template:Cite_web","  5.94%   15.621      2 Template:Location_map"]},"scribunto":{"limitreport-timeusage":{"value":"0.099","limit":"10.000"},"limitreport-memusage":{"value":3953806,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20170409092944","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw1215"});});</script>
+	</body>
+</html>

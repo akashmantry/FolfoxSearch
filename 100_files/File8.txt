@@ -1,0 +1,1209 @@
+https://en.wikipedia.org/wiki/41st_Primetime_Emmy_Awards
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>41st Primetime Emmy Awards - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"41st_Primetime_Emmy_Awards","wgTitle":"41st Primetime Emmy Awards","wgCurRevisionId":771974895,"wgRevisionId":771974895,"wgArticleId":21899318,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Primetime Emmy Award ceremonies","1989 television awards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"41st_Primetime_Emmy_Awards","wgRelevantArticleId":21899318,"wgRequestId":"WPMf5gpAADsAAc1lz04AAAAW","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2442026","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/41st_Primetime_Emmy_Awards"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/41st_Primetime_Emmy_Awards"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-41st_Primetime_Emmy_Awards rootpage-41st_Primetime_Emmy_Awards skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">41st Primetime Emmy Awards</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;background-color: #eedd82;">41st Primetime Emmy Awards</th>
+</tr>
+<tr>
+<th scope="row" style="width: 33%;">Date</th>
+<td>
+<div class="plainlist">
+<ul>
+<li>September 17, 1989<br />
+<small>(Ceremony)</small></li>
+<li>September 16, 1989<br />
+<small>(Creative Arts Awards)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="width: 33%;">Location</th>
+<td class="location"><a href="/wiki/Pasadena_Convention_Center" title="Pasadena Convention Center">Pasadena Civic Auditorium</a>, <a href="/wiki/Pasadena,_California" title="Pasadena, California">Pasadena, California</a></td>
+</tr>
+<tr>
+<th scope="row" style="width: 33%;">Hosted by</th>
+<td class="attendee"><a href="/wiki/John_Larroquette" title="John Larroquette">John Larroquette</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #eedd82;">Television/Radio coverage</th>
+</tr>
+<tr>
+<th scope="row" style="width: 33%;">Network</th>
+<td><a href="/wiki/Fox_Broadcasting_Company" title="Fox Broadcasting Company">Fox</a></td>
+</tr>
+<tr>
+<td colspan="2" class="hlist noprint nowraplinks" style="text-align:center;border-top: 1px solid #000; padding-top: 5px; font-weight: bold;">
+<ul>
+<li>←&#160;<a href="/wiki/40th_Primetime_Emmy_Awards" title="40th Primetime Emmy Awards">40th</a></li>
+<li><span class="nowrap"><a href="/wiki/Primetime_Emmy_Award" title="Primetime Emmy Award">Primetime Emmy Awards</a></span></li>
+<li><a href="/wiki/42nd_Primetime_Emmy_Awards" title="42nd Primetime Emmy Awards">42nd</a>&#160;→</li>
+</ul>
+</td>
+</tr>
+</table>
+<p>The <b>41st Primetime Emmy Awards</b> were held on Sunday, September 17, 1989. The ceremony was broadcast on <a href="/wiki/Fox_Broadcasting_Company" title="Fox Broadcasting Company">Fox</a> from the <a href="/wiki/Pasadena_Convention_Center" title="Pasadena Convention Center">Pasadena Civic Auditorium</a> in <a href="/wiki/Pasadena,_California" title="Pasadena, California">Pasadena, California</a>. The ceremony saw the guest acting categories double, as they were now based on gender as well as genre. Two networks, <a href="/wiki/Lifetime_(TV_network)" title="Lifetime (TV network)">Lifetime</a>, and <a href="/wiki/USA_(TV_network)" class="mw-redirect" title="USA (TV network)">USA</a>, received their first major nominations this year.</p>
+<p>After being nominated and losing the previous four years <i><a href="/wiki/Cheers" title="Cheers">Cheers</a></i> regained the title of <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Comedy_Series" title="Primetime Emmy Award for Outstanding Comedy Series">Outstanding Comedy Series</a>. <i><a href="/wiki/L.A._Law" title="L.A. Law">L.A. Law</a></i> also won <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Drama_Series" title="Primetime Emmy Award for Outstanding Drama Series">Outstanding Drama Series</a> after losing the previous year. For the second straight year, <i>L.A. Law</i> received 15 major nominations, making it the first show ever to receive more than 14 major nominations multiple times. With nine main cast acting nominations, <i>L.A. Law</i> tied the record set by <i><a href="/wiki/Hill_Street_Blues" title="Hill Street Blues">Hill Street Blues</a></i> in <a href="/wiki/34th_Primetime_Emmy_Awards" title="34th Primetime Emmy Awards">1982</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Winners_and_Nominees"><span class="tocnumber">1</span> <span class="toctext">Winners and Nominees</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Programs"><span class="tocnumber">1.1</span> <span class="toctext">Programs</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Acting"><span class="tocnumber">1.2</span> <span class="toctext">Acting</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Lead_performances"><span class="tocnumber">1.2.1</span> <span class="toctext">Lead performances</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Supporting_performances"><span class="tocnumber">1.2.2</span> <span class="toctext">Supporting performances</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Guest_performances"><span class="tocnumber">1.2.3</span> <span class="toctext">Guest performances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Directing"><span class="tocnumber">1.3</span> <span class="toctext">Directing</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Writing"><span class="tocnumber">1.4</span> <span class="toctext">Writing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Most_major_nominations"><span class="tocnumber">2</span> <span class="toctext">Most major nominations</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Most_major_awards"><span class="tocnumber">3</span> <span class="toctext">Most major awards</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Winners_and_Nominees">Winners and Nominees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=1" title="Edit section: Winners and Nominees">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><sup id="cite_ref-Winners.2FNominees_1-0" class="reference"><a href="#cite_note-Winners.2FNominees-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Programs">Programs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=2" title="Edit section: Programs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Comedy_Series" title="Primetime Emmy Award for Outstanding Comedy Series">Outstanding Comedy Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Drama_Series" title="Primetime Emmy Award for Outstanding Drama Series">Outstanding Drama Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/Cheers" title="Cheers">Cheers</a></i>, (<a href="/wiki/NBC" title="NBC">NBC</a>)</b>
+<ul>
+<li><i><a href="/wiki/Designing_Women" title="Designing Women">Designing Women</a>,</i> (<a href="/wiki/CBS" title="CBS">CBS</a>)</li>
+<li><i><a href="/wiki/The_Golden_Girls" title="The Golden Girls">The Golden Girls</a></i>, (NBC)</li>
+<li><i><a href="/wiki/Murphy_Brown" title="Murphy Brown">Murphy Brown</a></i>, (CBS)</li>
+<li><i><a href="/wiki/The_Wonder_Years" title="The Wonder Years">The Wonder Years</a></i>, (<a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a>)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/L.A._Law" title="L.A. Law">L.A. Law</a></i>, (NBC)</b>
+<ul>
+<li><i><a href="/wiki/Beauty_and_the_Beast_(1987_TV_series)" title="Beauty and the Beast (1987 TV series)">Beauty and the Beast</a></i>, (CBS)</li>
+<li><i><a href="/wiki/China_Beach" title="China Beach">China Beach</a></i>, (ABC)</li>
+<li><i><a href="/wiki/Thirtysomething" title="Thirtysomething">thirtysomething</a></i>, (ABC)</li>
+<li><i><a href="/wiki/Wiseguy" title="Wiseguy">Wiseguy</a></i>, (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Variety,_Music_or_Comedy_Series" class="mw-redirect" title="Primetime Emmy Award for Outstanding Variety, Music or Comedy Series">Outstanding Variety, Music or Comedy Program</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Made_for_Television_Movie" class="mw-redirect" title="Primetime Emmy Award for Outstanding Made for Television Movie">Outstanding Drama/Comedy Special</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/The_Tracey_Ullman_Show" title="The Tracey Ullman Show">The Tracey Ullman Show</a></i>, (<a href="/wiki/Fox_Broadcasting_Company" title="Fox Broadcasting Company">Fox</a>)</b>
+<ul>
+<li><i><a href="/wiki/The_Arsenio_Hall_Show" title="The Arsenio Hall Show">The Arsenio Hall Show</a></i>, (<a href="/wiki/Broadcast_syndication" title="Broadcast syndication">Syndicated</a>)</li>
+<li><i><a href="/wiki/Late_Night_with_David_Letterman" title="Late Night with David Letterman">Late Night with David Letterman</a>,</i> (NBC)</li>
+<li><i><a href="/wiki/Saturday_Night_Live" title="Saturday Night Live">Saturday Night Live</a></i>, (NBC)</li>
+<li><i>Tap Dance in America</i>, (<a href="/wiki/PBS" title="PBS">PBS</a>)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/Day_One_(1989_film)" title="Day One (1989 film)">Day One</a>,</i> (CBS)</b></li>
+<li><b><i><a href="/wiki/Roe_vs._Wade_(film)" title="Roe vs. Wade (film)">Roe vs. Wade</a></i>, (NBC)</b>
+<ul>
+<li><i><a href="/wiki/David_(1988_film)" title="David (1988 film)">David</a></i>, (ABC)</li>
+<li><i><a href="/wiki/Murderers_Among_Us:_The_Simon_Wiesenthal_Story" title="Murderers Among Us: The Simon Wiesenthal Story">Murderers Among Us: The Simon Wiesenthal Story</a></i>, (<a href="/wiki/HBO" title="HBO">HBO</a>)</li>
+<li><i><a href="/wiki/My_Name_Is_Bill_W." title="My Name Is Bill W.">My Name Is Bill W.</a></i>, (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Miniseries" class="mw-redirect" title="Primetime Emmy Award for Outstanding Miniseries">Outstanding Miniseries</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/War_and_Remembrance_(miniseries)" title="War and Remembrance (miniseries)">War and Remembrance</a></i>, (ABC)</b>
+<ul>
+<li><i><a href="/wiki/Steven_Stayner#Media_adaptations" title="Steven Stayner">I Know My First Name Is Steven</a></i>, (NBC)</li>
+<li><i><a href="/wiki/Lonesome_Dove_(miniseries)" title="Lonesome Dove (miniseries)">Lonesome Dove</a></i>, (CBS)</li>
+<li><i><a href="/wiki/A_Perfect_Spy_(TV_series)" title="A Perfect Spy (TV series)">A Perfect Spy</a></i>, (PBS)</li>
+<li><i><a href="/wiki/The_Women_of_Brewster_Place_(miniseries)" title="The Women of Brewster Place (miniseries)">The Women of Brewster Place</a></i>, (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Acting">Acting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=3" title="Edit section: Acting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Lead_performances">Lead performances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=4" title="Edit section: Lead performances">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series">Outstanding Lead Actor in a Comedy Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series">Outstanding Lead Actress in a Comedy Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Richard_Mulligan" title="Richard Mulligan">Richard Mulligan</a> as Dr. Harry Weston on <i><a href="/wiki/Empty_Nest" title="Empty Nest">Empty Nest</a></i> (Episode: "Pilot"), (NBC)</b>
+<ul>
+<li><a href="/wiki/Ted_Danson" title="Ted Danson">Ted Danson</a> as <a href="/wiki/Sam_Malone" title="Sam Malone">Sam Malone</a> on <i>Cheers</i> (Episode: "Swear to God"), (NBC)</li>
+<li><a href="/wiki/Michael_J._Fox" title="Michael J. Fox">Michael J. Fox</a> as <a href="/wiki/Alex_P._Keaton" title="Alex P. Keaton">Alex P. Keaton</a> on <i>Family Ties</i> (Episode: "Alex Doesn't Live Here Anymore"), (NBC)</li>
+<li><a href="/wiki/John_Goodman" title="John Goodman">John Goodman</a> as <a href="/wiki/Dan_Conner" title="Dan Conner">Dan Conner</a> on <i><a href="/wiki/Roseanne" title="Roseanne">Roseanne</a></i> (Episode: "Dan's Birthday Bash"), (ABC)</li>
+<li><a href="/wiki/Fred_Savage" title="Fred Savage">Fred Savage</a> as Kevin Arnold on <i>The Wonder Years</i> (Episode: "Birthday Boy"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Candice_Bergen" title="Candice Bergen">Candice Bergen</a> as Murphy Brown on <i>Murphy Brown</i> (Episode: "Respect"), (CBS)</b>
+<ul>
+<li><a href="/wiki/Bea_Arthur" title="Bea Arthur">Bea Arthur</a> as <a href="/wiki/Dorothy_Zbornak" title="Dorothy Zbornak">Dorothy Zbornak</a> on <i>The Golden Girls</i> (Episode: "Love Me Tender"), (NBC)</li>
+<li><a href="/wiki/Blair_Brown" title="Blair Brown">Blair Brown</a> as Molly Dodd on <i><a href="/wiki/The_Days_and_Nights_of_Molly_Dodd" title="The Days and Nights of Molly Dodd">The Days and Nights of Molly Dodd</a></i>, (<a href="/wiki/Lifetime_(TV_network)" title="Lifetime (TV network)">Lifetime</a>)</li>
+<li><a href="/wiki/Rue_McClanahan" title="Rue McClanahan">Rue McClanahan</a> as <a href="/wiki/Blanche_Devereaux" title="Blanche Devereaux">Blanche Devereaux</a> on <i>The Golden Girls</i> (Episode: "Yes, We Have No Havanas"), (NBC)</li>
+<li><a href="/wiki/Betty_White" title="Betty White">Betty White</a> as <a href="/wiki/Rose_Nylund" title="Rose Nylund">Rose Nylund</a> on <i>The Golden Girls</i> (Episode: "High Anxiety"), (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Lead Actor in a Drama Series">Outstanding Lead Actor in a Drama Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Lead Actress in a Drama Series">Outstanding Lead Actress in a Drama Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Carroll_O%27Connor" title="Carroll O'Connor">Carroll O'Connor</a> as Chief Bill Gillespie on <i><a href="/wiki/In_the_Heat_of_the_Night_(TV_series)" title="In the Heat of the Night (TV series)">In the Heat of the Night</a></i> (Episode: "A Trip Upstate"), (NBC)</b>
+<ul>
+<li><a href="/wiki/Ron_Perlman" title="Ron Perlman">Ron Perlman</a> as Vincent on <i>Beauty and the Beast</i>, (CBS)</li>
+<li><a href="/wiki/Michael_Tucker_(actor)" title="Michael Tucker (actor)">Michael Tucker</a> as Stuart Markowitz on <i>L.A. Law</i>, (NBC)</li>
+<li><a href="/wiki/Ken_Wahl" title="Ken Wahl">Ken Wahl</a> as Vincent Terranova on <i>Wiseguy</i>, (CBS)</li>
+<li><a href="/wiki/Edward_Woodward" title="Edward Woodward">Edward Woodward</a> as Robert McCall on <i><a href="/wiki/The_Equalizer" class="mw-redirect" title="The Equalizer">The Equalizer</a></i>, (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Dana_Delany" title="Dana Delany">Dana Delany</a> as Nurse Colleen McMurphy on <i>China Beach</i> (Episode: "The World"), (ABC)</b>
+<ul>
+<li><a href="/wiki/Susan_Dey" title="Susan Dey">Susan Dey</a> as Grace Van Owen on <i>L.A. Law</i>, (NBC)</li>
+<li><a href="/wiki/Jill_Eikenberry" title="Jill Eikenberry">Jill Eikenberry</a> as Ann Kelsey on <i>L.A. Law</i>, (NBC)</li>
+<li><a href="/wiki/Linda_Hamilton" title="Linda Hamilton">Linda Hamilton</a> as Asst. DA Catherine Chandler on <i>Beauty and the Beast</i>, (CBS)</li>
+<li><a href="/wiki/Angela_Lansbury" title="Angela Lansbury">Angela Lansbury</a> as <a href="/wiki/Jessica_Fletcher" title="Jessica Fletcher">Jessica Fletcher</a> on <i><a href="/wiki/Murder,_She_Wrote" title="Murder, She Wrote">Murder, She Wrote</a></i>, (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Miniseries_or_a_Movie" class="mw-redirect" title="Primetime Emmy Award for Outstanding Lead Actor in a Miniseries or a Movie">Outstanding Lead Actor in a Miniseries or a Special</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie" class="mw-redirect" title="Primetime Emmy Award for Outstanding Lead Actress in a Miniseries or a Movie">Outstanding Lead Actress in a Miniseries or a Special</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/James_Woods" title="James Woods">James Woods</a> as Bill Wilson on <i>My Name Is Bill W.</i>, (ABC)</b>
+<ul>
+<li><a href="/wiki/Robert_Duvall" title="Robert Duvall">Robert Duvall</a> as Augustus "Gus" McCrae on <i>Lonesome Dove</i> (Episode: "Part II"), (CBS)</li>
+<li><a href="/wiki/John_Gielgud" title="John Gielgud">John Gielgud</a> as Aaron Jastrow on <i>War and Remembrance</i> (Episode: "Part VIII"), (ABC)</li>
+<li><a href="/wiki/Tommy_Lee_Jones" title="Tommy Lee Jones">Tommy Lee Jones</a> as Woodrow F. Call on <i>Lonesome Dove</i> (Episode: "Part IV"), (CBS)</li>
+<li><a href="/wiki/Ben_Kingsley" title="Ben Kingsley">Ben Kingsley</a> as <a href="/wiki/Simon_Wiesenthal" title="Simon Wiesenthal">Simon Wiesenthal</a> on <i>Murderers Among Us: The Simon Wiesenthal Story</i>, (HBO)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Holly_Hunter" title="Holly Hunter">Holly Hunter</a> as Ellen Russell on <i>Roe vs. Wade</i>, (NBC)</b>
+<ul>
+<li><a href="/wiki/Anjelica_Huston" title="Anjelica Huston">Anjelica Huston</a> as Clara Allen on <i>Lonesome Dove</i> (Episode: "Part III"), (CBS)</li>
+<li><a href="/wiki/Diane_Lane" title="Diane Lane">Diane Lane</a> as Lorena Wood on <i>Lonesome Dove</i> (Episode: "Part IV"), (CBS)</li>
+<li><a href="/wiki/Amy_Madigan" title="Amy Madigan">Amy Madigan</a> as <a href="/wiki/Sarah_Weddington" title="Sarah Weddington">Sarah Weddington</a> on <i>Roe vs. Wade</i>, (NBC)</li>
+<li><a href="/wiki/Jane_Seymour_(actress)" title="Jane Seymour (actress)">Jane Seymour</a> as Natalie Henry on <i>War and Remembrance</i> (Episode: "Part XI"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Supporting_performances">Supporting performances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=5" title="Edit section: Supporting performances">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series">Outstanding Supporting Actor in a Comedy Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series">Outstanding Supporting Actress in a Comedy Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Woody_Harrelson" title="Woody Harrelson">Woody Harrelson</a> as <a href="/wiki/Woody_Boyd" title="Woody Boyd">Woody Boyd</a> on <i>Cheers</i> (Episodes: "Golden Boyd" + "The Gift of the Woodi" + "Call Me Irresponsible"), (NBC)</b>
+<ul>
+<li><a href="/wiki/Joe_Regalbuto" title="Joe Regalbuto">Joe Regalbuto</a> as Frank Fontana on <i>Murphy Brown</i> (Episodes: "Baby Love" + "It’s How You Play the Game" + "The Summer of '77"), (CBS)</li>
+<li><a href="/wiki/Peter_Scolari" title="Peter Scolari">Peter Scolari</a> as Michael Harris on <i><a href="/wiki/Newhart" title="Newhart">Newhart</a></i>, (CBS)</li>
+<li><a href="/wiki/Meshach_Taylor" title="Meshach Taylor">Meshach Taylor</a> as Anthony Bouvier on <i>Designing Women</i> (Episodes: "Hard Hats and Lovers" + "Tyrone" + "One Sees, the Other Doesn't"), (CBS)</li>
+<li><a href="/wiki/George_Wendt" title="George Wendt">George Wendt</a> as <a href="/wiki/Norm_Peterson" title="Norm Peterson">Norm Peterson</a> on <i>Cheers</i> (Episodes: "Norm, Is That You?" + "Jumping Jerks" + "Don't Paint Your Chickens"), (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Rhea_Perlman" title="Rhea Perlman">Rhea Perlman</a> as <a href="/wiki/Carla_Tortelli" title="Carla Tortelli">Carla Tortelli</a> on <i>Cheers</i> (Episodes: "Swear to God" + "Those Lips, Those Ice" + "I Kid You Not"), (NBC)</b>
+<ul>
+<li><a href="/wiki/Julia_Duffy" title="Julia Duffy">Julia Duffy</a> as Stephanie Vanderkellen on <i>Newhart</i>, (CBS)</li>
+<li><a href="/wiki/Faith_Ford" title="Faith Ford">Faith Ford</a> as Corky Sherwood on <i>Murphy Brown</i> (Episodes: "Devil with a Blue Dress On" + "It’s How You Play the Game" + "The Morning Show"), (CBS)</li>
+<li><a href="/wiki/Estelle_Getty" title="Estelle Getty">Estelle Getty</a> as <a href="/wiki/Sophia_Petrillo" title="Sophia Petrillo">Sophia Petrillo</a> on <i>The Golden Girls</i> (Episodes: "The Days and Nights of Sophia Petrillo" + "Sophia's Wedding" + "Two Rode Together"), (NBC)</li>
+<li><a href="/wiki/Katherine_Helmond" title="Katherine Helmond">Katherine Helmond</a> as Mona Robinson on <i><a href="/wiki/Who%27s_the_Boss%3F" title="Who's the Boss?">Who's the Boss?</a></i> (Episodes: "Double Dump" + "Your Grandmother's a Bimbo" + "Party Double"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series">Outstanding Supporting Actor in a Drama Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series">Outstanding Supporting Actress in a Drama Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Larry_Drake" title="Larry Drake">Larry Drake</a> as Benny Stulwicz on <i>L.A. Law</i> (Episodes: "Hey, Lick Me Over" + "I'm in the Nude for Love" + "America the Beautiful"), (NBC)</b>
+<ul>
+<li><a href="/wiki/Jonathan_Banks" title="Jonathan Banks">Jonathan Banks</a> as Frank McPike on <i>Wiseguy</i>, (CBS)</li>
+<li><a href="/wiki/Timothy_Busfield" title="Timothy Busfield">Timothy Busfield</a> as Elliot Weston on <i>thirtysomething</i>, (ABC)</li>
+<li><a href="/wiki/Richard_Dysart" title="Richard Dysart">Richard Dysart</a> as Leland McKenzie, Jr. on <i>L.A. Law</i>, (NBC)</li>
+<li><a href="/wiki/Jimmy_Smits" title="Jimmy Smits">Jimmy Smits</a> as Victor Sifuentes on <i>L.A. Law</i>, (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Melanie_Mayron" title="Melanie Mayron">Melanie Mayron</a> as Melissa Steadman on <i>thirtysomething</i> (Episodes: "Trust Me" + "Success" + "Be a Good Girl"), (ABC)</b>
+<ul>
+<li><a href="/wiki/Michele_Greene" title="Michele Greene">Michele Greene</a> as Abby Perkins on <i>L.A. Law</i> (Episodes: "Sperminator" + "Victor/Victorious" + "America the Beautiful"), (NBC)</li>
+<li><a href="/wiki/Lois_Nettleton" title="Lois Nettleton">Lois Nettleton</a> as Joanne St. John on <i>In the Heat of the Night</i> (Episodes: "Stranger in Town" + "Tear Down the Walls" + "A.K.A. Kelly Kay"), (NBC)</li>
+<li><a href="/wiki/Amanda_Plummer" title="Amanda Plummer">Amanda Plummer</a> as Alice Hackett on <i>L.A. Law</i> (Episodes: "America the Beautiful" + "Urine Trouble Now" + "Consumed Innocent"), (NBC)</li>
+<li><a href="/wiki/Susan_Ruttan" title="Susan Ruttan">Susan Ruttan</a> as Roxanne Melman on <i>L.A. Law</i> (Episodes: "Romancing the Drone" + "Izzy Ackerman or Is He Not?" + "Urine Trouble Now"), (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Miniseries_or_a_Movie" class="mw-redirect" title="Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie">Outstanding Supporting Actor in a Miniseries or a Special</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Miniseries_or_a_Movie" class="mw-redirect" title="Primetime Emmy Award for Outstanding Supporting Actress in a Miniseries or a Movie">Outstanding Supporting Actress in a Miniseries or a Special</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Derek_Jacobi" title="Derek Jacobi">Derek Jacobi</a> as The Imposter on <i><a href="/wiki/The_Tenth_Man_(novel)#Film.2C_TV_and_theatrical_adaptations" title="The Tenth Man (novel)">The Tenth Man</a></i>, (ABC)</b>
+<ul>
+<li><a href="/wiki/Armand_Assante" title="Armand Assante">Armand Assante</a> as <a href="/wiki/Richard_Mansfield" title="Richard Mansfield">Richard Mansfield</a> on <i><a href="/wiki/Jack_the_Ripper_(1988_TV_series)" title="Jack the Ripper (1988 TV series)">Jack the Ripper</a></i>, (CBS)</li>
+<li><a href="/wiki/James_Garner" title="James Garner">James Garner</a> as Dr. Bob Holbrook Smith on <i>My Name Is Bill W.</i>, (ABC)</li>
+<li><a href="/wiki/Danny_Glover" title="Danny Glover">Danny Glover</a> as Joshua Deets on <i>Lonesome Dove</i> (Episode: "Part II"), (CBS)</li>
+<li><a href="/wiki/Corin_Nemec" title="Corin Nemec">Corin Nemec</a> as <a href="/wiki/Steven_Stayner" title="Steven Stayner">Steven Stayner</a> on <i>I Know My First Name Is Steven</i> (Episode: "Part I"), (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Colleen_Dewhurst" title="Colleen Dewhurst">Colleen Dewhurst</a> as Margaret Page on <i><a href="/wiki/Those_She_Left_Behind" title="Those She Left Behind">Those She Left Behind</a></i>, (NBC)</b>
+<ul>
+<li><a href="/wiki/Peggy_Ashcroft" title="Peggy Ashcroft">Peggy Ashcroft</a> as Miss Dubber on <i>A Perfect Spy</i> (Episode: "Part V") (PBS)</li>
+<li><a href="/wiki/Polly_Bergen" title="Polly Bergen">Polly Bergen</a> as Rhoda Henry on <i>War and Remembrance</i> (Episode: "Part XII"), (ABC)</li>
+<li><a href="/wiki/Glenne_Headly" title="Glenne Headly">Glenne Headly</a> as Elmira Boot Johnson on <i>Lonesome Dove</i> (Episode: "Part II"), (CBS)</li>
+<li><a href="/wiki/Paula_Kelly_(actress)" title="Paula Kelly (actress)">Paula Kelly</a> as Theresa on <i>The Women of Brewster Place</i>, (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Guest_performances">Guest performances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=6" title="Edit section: Guest performances">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Guest_Actor_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series">Outstanding Guest Actor in a Comedy Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Guest_Actress_in_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series">Outstanding Guest Actress in a Comedy Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Cleavon_Little" title="Cleavon Little">Cleavon Little</a> as Tony Larkin on <i><a href="/wiki/Dear_John_(U.S._TV_series)" title="Dear John (U.S. TV series)">Dear John</a></i> (Episode: "Stand By Your Man"), (NBC)</b>
+<ul>
+<li><a href="/wiki/Sammy_Davis_Jr." title="Sammy Davis Jr.">Sammy Davis Jr.</a> as Ray Palomino on <i><a href="/wiki/The_Cosby_Show" title="The Cosby Show">The Cosby Show</a></i> (Episode: "No Way Baby"), (NBC)</li>
+<li><a href="/wiki/Jack_Gilford" title="Jack Gilford">Jack Gilford</a> as Max Weinstock on <i>The Golden Girls</i> (Episode: "Sophia's Wedding"), (NBC)</li>
+<li><a href="/wiki/Leslie_Nielsen" title="Leslie Nielsen">Leslie Nielsen</a> as Jack Harper on <i><a href="/wiki/Day_by_Day_(TV_series)" title="Day by Day (TV series)">Day by Day</a></i> (Episode: "Harper And Son"), (NBC)</li>
+<li><a href="/wiki/Robert_Picardo" title="Robert Picardo">Robert Picardo</a> as Coach Ed Cutlip on <i>The Wonder Years</i> (Episode: "Loosiers"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Colleen_Dewhurst" title="Colleen Dewhurst">Colleen Dewhurst</a> as Avery Brown on <i>Murphy Brown</i> (Episode: "Mama Said"), (CBS)</b>
+<ul>
+<li><a href="/wiki/Eileen_Brennan" title="Eileen Brennan">Eileen Brennan</a> as Corine Denby on <i>Newhart</i> (Episode: "The Little Match Girl"), (CBS)</li>
+<li><a href="/wiki/Diahann_Carroll" title="Diahann Carroll">Diahann Carroll</a> as Marion Gilbert on <i><a href="/wiki/A_Different_World" title="A Different World">A Different World</a></i> (Episode: "For She's Only A Bird In A Gilded Cage"), (NBC)</li>
+<li><a href="/wiki/Doris_Roberts" title="Doris Roberts">Doris Roberts</a> as Mrs. Bailey on <i><a href="/wiki/Perfect_Strangers_(TV_series)" title="Perfect Strangers (TV series)">Perfect Strangers</a></i> (Episode: "Maid to Order"), (ABC)</li>
+<li><a href="/wiki/Maxine_Stuart" title="Maxine Stuart">Maxine Stuart</a> as Mrs. Carples on <i>The Wonder Years</i> (Episode: "Coda"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Guest_Actor_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Guest Actor in a Drama Series">Outstanding Guest Actor in a Drama Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Guest_Actress_in_a_Drama_Series" title="Primetime Emmy Award for Outstanding Guest Actress in a Drama Series">Outstanding Guest Actress in a Drama Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Joe_Spano" title="Joe Spano">Joe Spano</a> as John Saringo on <i><a href="/wiki/Midnight_Caller" title="Midnight Caller">Midnight Caller</a></i> (Episode: "The Execution Of John Saringo"), (NBC)</b>
+<ul>
+<li><a href="/wiki/Peter_Boyle" title="Peter Boyle">Peter Boyle</a> as J.J. Killian on <i>Midnight Caller</i> (Episode: "Fathers and Sins"), (NBC)</li>
+<li><a href="/wiki/Jack_Gilford" title="Jack Gilford">Jack Gilford</a> as The Old Gentleman on <i>thirtysomething</i> (Episode: "The Mike Van Dyke Show"), (ABC)</li>
+<li><a href="/wiki/Michael_Moriarty" title="Michael Moriarty">Michael Moriarty</a> as Wayne Virgil on <i>The Equalizer</i> (Episode: "Starfire"), (CBS)</li>
+<li>Edward Woodward as Drummond on <i><a href="/wiki/The_New_Alfred_Hitchcock_Presents" class="mw-redirect" title="The New Alfred Hitchcock Presents">The New Alfred Hitchcock Presents</a></i> (Episode: "The Hunted"), (<a href="/wiki/USA_(TV_network)" class="mw-redirect" title="USA (TV network)">USA</a>)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Kay_Lenz" title="Kay Lenz">Kay Lenz</a> as Tina Cassidy on <i>Midnight Caller</i> (Episode: "After It Happened..."), (NBC)</b>
+<ul>
+<li><a href="/wiki/Shirley_Knight" title="Shirley Knight">Shirley Knight</a> as Mrs. Robert McCall on <i>The Equalizer</i> (Episode: "Time Present, Time Past"), (CBS)</li>
+<li><a href="/wiki/Jean_Simmons" title="Jean Simmons">Jean Simmons</a> as Eudora McVeigh on <i>Murder, She Wrote</i> (Episode: "Mirror, Mirror on the Wall: Part 1"), (CBS)</li>
+<li><a href="/wiki/Maureen_Stapleton" title="Maureen Stapleton">Maureen Stapleton</a> as Auntie Sue on <i><a href="/wiki/B.L._Stryker" title="B.L. Stryker">B.L. Stryker</a></i> (Episode: "Auntie Sue"), (ABC)</li>
+<li><a href="/wiki/Chloe_Webb" title="Chloe Webb">Chloe Webb</a> as Laurette Barber on <i>China Beach</i> (Episode: "Chao Ong"), (ABC)</li>
+<li><a href="/wiki/Teresa_Wright" title="Teresa Wright">Teresa Wright</a> as Nina Rothman on <i><a href="/wiki/Dolphin_Cove_(TV_series)" title="Dolphin Cove (TV series)">Dolphin Cove</a></i> (Episode: "The Elders"), (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Directing">Directing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=7" title="Edit section: Directing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Directing for a Comedy Series">Outstanding Directing in a Comedy Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series" title="Primetime Emmy Award for Outstanding Directing for a Drama Series">Outstanding Directing in a Drama Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Peter_Baldwin_(director)" title="Peter Baldwin (director)">Peter Baldwin</a>, for <i>The Wonder Years</i> (Episode: "Our Miss White"), (ABC)</b>
+<ul>
+<li><a href="/wiki/James_Burrows" title="James Burrows">James Burrows</a> for <i>Cheers</i> (Episode: "The Visiting Lecher"), (NBC)</li>
+<li><a href="/wiki/Michael_Dinner" title="Michael Dinner">Michael Dinner</a> for <i>The Wonder Years</i> (Episode: "How I'm Spending My Summer Vacation"), (ABC)</li>
+<li><a href="/wiki/Terry_Hughes_(director)" title="Terry Hughes (director)">Terry Hughes</a>, for <i>The Golden Girls</i> (Episode: "Brother Can You Spare That Jacket"), (NBC)</li>
+<li><a href="/wiki/Barnet_Kellman" title="Barnet Kellman">Barnet Kellman</a> for <i>Murphy Brown</i> (Episode: "Pilot"), (CBS)</li>
+<li><a href="/wiki/Steve_Miner" title="Steve Miner">Steve Miner</a> for <i>The Wonder Years</i> (Episode: "Birthday Boy"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Robert_Altman" title="Robert Altman">Robert Altman</a> for <i><a href="/wiki/Tanner_%2788" title="Tanner '88">Tanner '88</a></i> (Episode: "The Boiler Room"), (HBO)</b>
+<ul>
+<li><a href="/wiki/Thomas_Carter_(director)" title="Thomas Carter (director)">Thomas Carter</a> for <i>Midnight Caller</i> (Episode: "Pilot"), (NBC)</li>
+<li><a href="/wiki/Eric_Laneuville" title="Eric Laneuville">Eric Laneuville</a> for <i>L.A. Law</i> (Episode: "I'm in the Nude for Love"), (NBC)</li>
+<li><a href="/wiki/John_Pasquin" title="John Pasquin">John Pasquin</a> for <i>L.A. Law</i> (Episode: "To Live and Diet in L.A."), (NBC)</li>
+<li><a href="/wiki/Scott_Winant" title="Scott Winant">Scott Winant</a> for <i>thirtysomething</i> (Episode: "We'll Meet Again"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%">Outstanding Directing in a Variety or Music Program</th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Miniseries,_Movie_or_a_Dramatic_Special" class="mw-redirect" title="Primetime Emmy Award for Outstanding Directing for a Miniseries, Movie or a Dramatic Special">Outstanding Directing in a Miniseries or a Special</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Jim_Henson" title="Jim Henson">Jim Henson</a> for <i><a href="/wiki/The_Jim_Henson_Hour" title="The Jim Henson Hour">The Jim Henson Hour</a></i> (Episode: "Dog City"), (NBC)</b>
+<ul>
+<li><a href="/wiki/Debbie_Allen" title="Debbie Allen">Debbie Allen</a> for <i>The Debbie Allen Special</i>, (ABC)</li>
+<li><a href="/wiki/Ted_Bessell" title="Ted Bessell">Ted Bessell</a> for <i>The Tracey Ullman Show</i> (Episode: "Family Therapy"), (Fox)</li>
+<li><a href="/wiki/Hal_Gurnee" title="Hal Gurnee">Hal Gurnee</a> for <i>Late Night with David Letterman</i> (Episode: "In Chicago"), (NBC)</li>
+<li><a href="/wiki/Don_Mischer" title="Don Mischer">Don Mischer</a> for <i>Tap Dance in America</i>, (PBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Simon_Wincer" title="Simon Wincer">Simon Wincer</a> for <i>Lonesome Dove</i> (Episode: "Part IV"), (CBS)</b>
+<ul>
+<li><a href="/wiki/Dan_Curtis" title="Dan Curtis">Dan Curtis</a> for <i>War and Remembrance</i> (Episode: "Part XII"), (ABC)</li>
+<li>Larry Elikann for <i>I Know My First Name Is Steven</i>, (NBC)</li>
+<li><a href="/wiki/Gregory_Hoblit" title="Gregory Hoblit">Gregory Hoblit</a> for <i>Roe vs. Wade</i>, (NBC)</li>
+<li><a href="/wiki/Daniel_Petrie" title="Daniel Petrie">Daniel Petrie</a> for <i>My Name Is Bill W.</i>, (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Writing">Writing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=8" title="Edit section: Writing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" width="100%">
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Comedy_Series" title="Primetime Emmy Award for Outstanding Writing for a Comedy Series">Outstanding Writing in a Comedy Series</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series" title="Primetime Emmy Award for Outstanding Writing for a Drama Series">Outstanding Writing in a Drama Series</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Diane_English" title="Diane English">Diane English</a> for <i>Murphy Brown</i> (Episode: "Pilot"), (CBS)</b>
+<ul>
+<li><a href="/wiki/Matthew_Carlson" title="Matthew Carlson">Matthew Carlson</a> for <i>The Wonder Years</i> (Episode: "Pottery Will Get You Nowhere"), (ABC)</li>
+<li>Todd W. Langen for <i>The Wonder Years</i> (Episode: "Coda"), (ABC)</li>
+<li><a href="/wiki/David_M._Stern" title="David M. Stern">David M. Stern</a> for <i>The Wonder Years</i> (Episode: "Loosiers"), (ABC)</li>
+<li><a href="/wiki/Michael_J._Weithorn" title="Michael J. Weithorn">Michael J. Weithorn</a> for <i>The Wonder Years</i> (Episode: "Our Miss White"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Joseph_Dougherty" title="Joseph Dougherty">Joseph Dougherty</a> for <i>thirtysomething</i> (Episode: "First Day / Last Day"), (ABC)</b>
+<ul>
+<li><a href="/wiki/Steven_Bochco" title="Steven Bochco">Steven Bochco</a>, <a href="/wiki/David_E._Kelley" title="David E. Kelley">David E. Kelley</a>, <a href="/wiki/William_M._Finkelstein" title="William M. Finkelstein">William M. Finkelstein</a>, Michele Gallery for <i>L.A. Law</i> (Episode: "His Suit Is Hirsute"), (NBC)</li>
+<li>David E. Kelley for <i>L.A. Law</i> (Episode: "I'm in the Nude for Love"), (NBC)</li>
+<li>David E. Kelley, William M. Finkelstein, Michele Gallery, Judith Parker for <i>L.A. Law</i> (Episode: "Urine Trouble Now"), (NBC)</li>
+<li><a href="/wiki/Edward_Zwick" title="Edward Zwick">Edward Zwick</a>, <a href="/wiki/Marshall_Herskovitz" title="Marshall Herskovitz">Marshall Herskovitz</a> for <i>thirtysomething</i> (Episode: "The Mike Van Dyke Show"), (ABC)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Variety,_Music_or_Comedy_Program" class="mw-redirect" title="Primetime Emmy Award for Outstanding Writing for a Variety, Music or Comedy Program">Outstanding Writing in a Variety or Music Program</a></th>
+<th width="50%"><a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Miniseries,_Movie_or_a_Dramatic_Special" class="mw-redirect" title="Primetime Emmy Award for Outstanding Writing for a Miniseries, Movie or a Dramatic Special">Outstanding Writing in a Miniseries or a Special</a></th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><b><i><a href="/wiki/Saturday_Night_Live" title="Saturday Night Live">Saturday Night Live</a></i>, (NBC)</b>
+<ul>
+<li><i>The Tracey Ullman Show</i>, (Fox)</li>
+<li><i>Late Night with David Letterman</i> (Episode: "Seventh Anniversary Special"), (NBC)</li>
+<li><i><a href="/wiki/Not_Necessarily_the_News" title="Not Necessarily the News">Not Necessarily the News</a></i>, (HBO)</li>
+<li><i><a href="/wiki/The_Tonight_Show_Starring_Johnny_Carson" title="The Tonight Show Starring Johnny Carson">The Tonight Show Starring Johnny Carson</a></i>, (NBC)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><b><a href="/wiki/Abby_Mann" title="Abby Mann">Abby Mann</a>, Robin Vote, <a href="/wiki/Ron_Hutchinson_(screenwriter)" title="Ron Hutchinson (screenwriter)">Ron Hutchinson</a> for <i>Murderers Among Us: The Simon Wiesenthal Story</i>, (HBO)</b>
+<ul>
+<li><a href="/wiki/William_G._Borchert" title="William G. Borchert">William G. Borchert</a> for <i>My Name Is Bill W.</i>, (ABC)</li>
+<li>Alison Cross for <i>Roe vs. Wade</i>, (NBC)</li>
+<li><a href="/wiki/JP_Miller" title="JP Miller">JP Miller</a>, <a href="/wiki/Cynthia_Whitcomb" title="Cynthia Whitcomb">Cynthia Whitcomb</a> for <i>I Know My First Name Is Steven</i>, (NBC)</li>
+<li>Bill Wyttliff for <i>Lonesome Dove</i> (Episode: "Part I"), (CBS)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Most_major_nominations">Most major nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=9" title="Edit section: Most major nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>By network <sup id="cite_ref-MW_Note_2-0" class="reference"><a href="#cite_note-MW_Note-2">[note 1]</a></sup></dt>
+</dl>
+<ul>
+<li>NBC – 57</li>
+<li>ABC – 40</li>
+<li>CBS – 35</li>
+</ul>
+<dl>
+<dt>By program</dt>
+</dl>
+<ul>
+<li><i>L.A. Law</i> (NBC) – 15</li>
+<li><i>The Wonder Years</i> (ABC) – 11</li>
+<li><i>Lonesome Dove</i> (CBS) – 9</li>
+<li><i>The Golden Girls</i> (NBC) / <i>Murphy Brown</i> (CBS) / <i>thirtysomething</i> (ABC) – 7</li>
+<li><i>Cheers</i> (NBC) – 6</li>
+</ul>
+<h2><span class="mw-headline" id="Most_major_awards">Most major awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=10" title="Edit section: Most major awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>By network <sup id="cite_ref-MW_Note_2-1" class="reference"><a href="#cite_note-MW_Note-2">[note 1]</a></sup></dt>
+</dl>
+<ul>
+<li>NBC – 15</li>
+<li>ABC – 7</li>
+<li>CBS – 5</li>
+</ul>
+<dl>
+<dt>By program</dt>
+</dl>
+<ul>
+<li><i>Cheers</i> (NBC) / <i>Murphy Brown</i> (CBS) – 3</li>
+<li><i>L.A. Law</i> (NBC) / <i>Midnight Caller</i> (NBC) / <i>Roe vs. Wade</i> (NBC) / <i>thirtysomething</i> (ABC) – 2</li>
+</ul>
+<dl>
+<dt>Notes</dt>
+</dl>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-MW_Note-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-MW_Note_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MW_Note_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"Major" constitutes the categories listed above: Program, Acting, Directing, and Writing. Does not include the <a href="/wiki/Creative_Arts_Emmy" class="mw-redirect" title="Creative Arts Emmy">technical categories.</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Winners.2FNominees-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Winners.2FNominees_1-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.imdb.com/event/ev0000223/1989">"1989 Primetime Emmy Awards"</a>. <i><a href="/wiki/IMDb" title="IMDb">IMDb</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A41st+Primetime+Emmy+Awards&amp;rft.atitle=1989+Primetime+Emmy+Awards&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Fevent%2Fev0000223%2F1989&amp;rft.jtitle=IMDb&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.emmys.com/awards/nominees-winners/1989">Emmys.com list of 1989 Nominees &amp; Winners</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/Sections/Awards/Emmy_Awards/1989/">1989 Emmy Awards</a> at the <a href="/wiki/IMDb" title="IMDb">Internet Movie Database</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Emmy_Awards" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #EEDD82">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Emmy_Awards" title="Template:Emmy Awards"><abbr title="View this template" style="background: #EEDD82;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Emmy_Awards" title="Template talk:Emmy Awards"><abbr title="Discuss this template" style="background: #EEDD82;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Emmy_Awards&amp;action=edit"><abbr title="Edit this template" style="background: #EEDD82;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Emmy_Awards" style="font-size:114%;margin:0 4em"><a href="/wiki/Emmy_Award" title="Emmy Award">Emmy Awards</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEDD82">
+<div>
+<ul>
+<li><a href="/wiki/Academy_of_Television_Arts_%26_Sciences" title="Academy of Television Arts &amp; Sciences">ATAS</a></li>
+<li><a href="/wiki/National_Academy_of_Television_Arts_and_Sciences" title="National Academy of Television Arts and Sciences">NATAS</a></li>
+<li><a href="/wiki/International_Academy_of_Television_Arts_and_Sciences" title="International Academy of Television Arts and Sciences">International TV Academy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/Primetime_Emmy_Award" title="Primetime Emmy Award">Primetime Emmy Award</a>
+<div class="hlist" style="font-weight:normal">
+<ul>
+<li>(<a href="/wiki/Template:Primetime_Emmy_Award_categories" title="Template:Primetime Emmy Award categories">categories</a></li>
+<li><a href="/wiki/List_of_Primetime_Emmy_Award_winners" title="List of Primetime Emmy Award winners">winners</a></li>
+<li><br />
+<a href="/wiki/List_of_television_programs_with_the_most_Primetime_Emmys_per_ceremony" title="List of television programs with the most Primetime Emmys per ceremony">most awards per ceremony</a>)</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_Primetime_Emmy_Awards_ceremonies" title="List of Primetime Emmy Awards ceremonies">Main ceremonies</a></div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1st_Primetime_Emmy_Awards" title="1st Primetime Emmy Awards">1949</a></li>
+<li><a href="/wiki/2nd_Primetime_Emmy_Awards" title="2nd Primetime Emmy Awards">1950</a></li>
+<li><a href="/wiki/3rd_Primetime_Emmy_Awards" title="3rd Primetime Emmy Awards">1951</a></li>
+<li><a href="/wiki/4th_Primetime_Emmy_Awards" title="4th Primetime Emmy Awards">1952</a></li>
+<li><a href="/wiki/5th_Primetime_Emmy_Awards" title="5th Primetime Emmy Awards">1953</a></li>
+<li><a href="/wiki/6th_Primetime_Emmy_Awards" title="6th Primetime Emmy Awards">1954</a></li>
+<li><a href="/wiki/7th_Primetime_Emmy_Awards" title="7th Primetime Emmy Awards">1955</a></li>
+<li><a href="/wiki/8th_Primetime_Emmy_Awards" title="8th Primetime Emmy Awards">1956</a></li>
+<li><a href="/wiki/9th_Primetime_Emmy_Awards" title="9th Primetime Emmy Awards">1957</a></li>
+<li><a href="/wiki/10th_Primetime_Emmy_Awards" title="10th Primetime Emmy Awards">1958</a></li>
+<li><a href="/wiki/11th_Primetime_Emmy_Awards" title="11th Primetime Emmy Awards">1959</a></li>
+<li><a href="/wiki/12th_Primetime_Emmy_Awards" title="12th Primetime Emmy Awards">1960</a></li>
+<li><a href="/wiki/13th_Primetime_Emmy_Awards" title="13th Primetime Emmy Awards">1961</a></li>
+<li><a href="/wiki/14th_Primetime_Emmy_Awards" title="14th Primetime Emmy Awards">1962</a></li>
+<li><a href="/wiki/15th_Primetime_Emmy_Awards" title="15th Primetime Emmy Awards">1963</a></li>
+<li><a href="/wiki/16th_Primetime_Emmy_Awards" title="16th Primetime Emmy Awards">1964</a></li>
+<li><a href="/wiki/17th_Primetime_Emmy_Awards" title="17th Primetime Emmy Awards">1965</a></li>
+<li><a href="/wiki/18th_Primetime_Emmy_Awards" title="18th Primetime Emmy Awards">1966</a></li>
+<li><a href="/wiki/19th_Primetime_Emmy_Awards" title="19th Primetime Emmy Awards">1967</a></li>
+<li><a href="/wiki/20th_Primetime_Emmy_Awards" title="20th Primetime Emmy Awards">1968</a></li>
+<li><a href="/wiki/21st_Primetime_Emmy_Awards" title="21st Primetime Emmy Awards">1969</a></li>
+<li><a href="/wiki/22nd_Primetime_Emmy_Awards" title="22nd Primetime Emmy Awards">1970</a></li>
+<li><a href="/wiki/23rd_Primetime_Emmy_Awards" title="23rd Primetime Emmy Awards">1971</a></li>
+<li><a href="/wiki/24th_Primetime_Emmy_Awards" title="24th Primetime Emmy Awards">1972</a></li>
+<li><a href="/wiki/25th_Primetime_Emmy_Awards" title="25th Primetime Emmy Awards">1973</a></li>
+<li><a href="/wiki/26th_Primetime_Emmy_Awards" title="26th Primetime Emmy Awards">1974</a></li>
+<li><a href="/wiki/27th_Primetime_Emmy_Awards" title="27th Primetime Emmy Awards">1975</a></li>
+<li><a href="/wiki/28th_Primetime_Emmy_Awards" title="28th Primetime Emmy Awards">1976</a></li>
+<li><a href="/wiki/29th_Primetime_Emmy_Awards" title="29th Primetime Emmy Awards">1977</a></li>
+<li><a href="/wiki/30th_Primetime_Emmy_Awards" title="30th Primetime Emmy Awards">1978</a></li>
+<li><a href="/wiki/31st_Primetime_Emmy_Awards" title="31st Primetime Emmy Awards">1979</a></li>
+<li><a href="/wiki/32nd_Primetime_Emmy_Awards" title="32nd Primetime Emmy Awards">1980</a></li>
+<li><a href="/wiki/33rd_Primetime_Emmy_Awards" title="33rd Primetime Emmy Awards">1981</a></li>
+<li><a href="/wiki/34th_Primetime_Emmy_Awards" title="34th Primetime Emmy Awards">1982</a></li>
+<li><a href="/wiki/35th_Primetime_Emmy_Awards" title="35th Primetime Emmy Awards">1983</a></li>
+<li><a href="/wiki/36th_Primetime_Emmy_Awards" title="36th Primetime Emmy Awards">1984</a></li>
+<li><a href="/wiki/37th_Primetime_Emmy_Awards" title="37th Primetime Emmy Awards">1985</a></li>
+<li><a href="/wiki/38th_Primetime_Emmy_Awards" title="38th Primetime Emmy Awards">1986</a></li>
+<li><a href="/wiki/39th_Primetime_Emmy_Awards" title="39th Primetime Emmy Awards">1987</a></li>
+<li><a href="/wiki/40th_Primetime_Emmy_Awards" title="40th Primetime Emmy Awards">1988</a></li>
+<li><a class="mw-selflink selflink">1989</a></li>
+<li><a href="/wiki/42nd_Primetime_Emmy_Awards" title="42nd Primetime Emmy Awards">1990</a></li>
+<li><a href="/wiki/43rd_Primetime_Emmy_Awards" title="43rd Primetime Emmy Awards">1991</a></li>
+<li><a href="/wiki/44th_Primetime_Emmy_Awards" title="44th Primetime Emmy Awards">1992</a></li>
+<li><a href="/wiki/45th_Primetime_Emmy_Awards" title="45th Primetime Emmy Awards">1993</a></li>
+<li><a href="/wiki/46th_Primetime_Emmy_Awards" title="46th Primetime Emmy Awards">1994</a></li>
+<li><a href="/wiki/47th_Primetime_Emmy_Awards" title="47th Primetime Emmy Awards">1995</a></li>
+<li><a href="/wiki/48th_Primetime_Emmy_Awards" title="48th Primetime Emmy Awards">1996</a></li>
+<li><a href="/wiki/49th_Primetime_Emmy_Awards" title="49th Primetime Emmy Awards">1997</a></li>
+<li><a href="/wiki/50th_Primetime_Emmy_Awards" title="50th Primetime Emmy Awards">1998</a></li>
+<li><a href="/wiki/51st_Primetime_Emmy_Awards" title="51st Primetime Emmy Awards">1999</a></li>
+<li><a href="/wiki/52nd_Primetime_Emmy_Awards" title="52nd Primetime Emmy Awards">2000</a></li>
+<li><a href="/wiki/53rd_Primetime_Emmy_Awards" title="53rd Primetime Emmy Awards">2001</a></li>
+<li><a href="/wiki/54th_Primetime_Emmy_Awards" title="54th Primetime Emmy Awards">2002</a></li>
+<li><a href="/wiki/55th_Primetime_Emmy_Awards" title="55th Primetime Emmy Awards">2003</a></li>
+<li><a href="/wiki/56th_Primetime_Emmy_Awards" title="56th Primetime Emmy Awards">2004</a></li>
+<li><a href="/wiki/57th_Primetime_Emmy_Awards" title="57th Primetime Emmy Awards">2005</a></li>
+<li><a href="/wiki/58th_Primetime_Emmy_Awards" title="58th Primetime Emmy Awards">2006</a></li>
+<li><a href="/wiki/59th_Primetime_Emmy_Awards" title="59th Primetime Emmy Awards">2007</a></li>
+<li><a href="/wiki/60th_Primetime_Emmy_Awards" title="60th Primetime Emmy Awards">2008</a></li>
+<li><a href="/wiki/61st_Primetime_Emmy_Awards" title="61st Primetime Emmy Awards">2009</a></li>
+<li><a href="/wiki/62nd_Primetime_Emmy_Awards" title="62nd Primetime Emmy Awards">2010</a></li>
+<li><a href="/wiki/63rd_Primetime_Emmy_Awards" title="63rd Primetime Emmy Awards">2011</a></li>
+<li><a href="/wiki/64th_Primetime_Emmy_Awards" title="64th Primetime Emmy Awards">2012</a></li>
+<li><a href="/wiki/65th_Primetime_Emmy_Awards" title="65th Primetime Emmy Awards">2013</a></li>
+<li><a href="/wiki/66th_Primetime_Emmy_Awards" title="66th Primetime Emmy Awards">2014</a></li>
+<li><a href="/wiki/67th_Primetime_Emmy_Awards" title="67th Primetime Emmy Awards">2015</a></li>
+<li><a href="/wiki/68th_Primetime_Emmy_Awards" title="68th Primetime Emmy Awards">2016</a></li>
+<li><a href="/wiki/69th_Primetime_Emmy_Awards" title="69th Primetime Emmy Awards">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Creative_Arts_Emmy_Award" title="Creative Arts Emmy Award">Creative Arts</a></div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/59th_Primetime_Creative_Arts_Emmy_Awards" title="59th Primetime Creative Arts Emmy Awards">2007</a></li>
+<li><a href="/wiki/63rd_Primetime_Creative_Arts_Emmy_Awards" title="63rd Primetime Creative Arts Emmy Awards">2011</a></li>
+<li><a href="/wiki/64th_Primetime_Creative_Arts_Emmy_Awards" title="64th Primetime Creative Arts Emmy Awards">2012</a></li>
+<li><a href="/wiki/65th_Primetime_Creative_Arts_Emmy_Awards" title="65th Primetime Creative Arts Emmy Awards">2013</a></li>
+<li><a href="/wiki/66th_Primetime_Creative_Arts_Emmy_Awards" title="66th Primetime Creative Arts Emmy Awards">2014</a></li>
+<li><a href="/wiki/67th_Primetime_Creative_Arts_Emmy_Awards" title="67th Primetime Creative Arts Emmy Awards">2015</a></li>
+<li><a href="/wiki/68th_Primetime_Creative_Arts_Emmy_Awards" title="68th Primetime Creative Arts Emmy Awards">2016</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/Daytime_Emmy_Award" title="Daytime Emmy Award">Daytime Emmy Award</a>
+<div class="hlist" style="font-weight:normal">
+<ul>
+<li>(<a href="/wiki/Template:Daytime_Emmy_Award_categories" title="Template:Daytime Emmy Award categories">categories</a></li>
+<li><a href="/wiki/List_of_Daytime_Emmy_Award_winners" title="List of Daytime Emmy Award winners">winners</a>)</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Main ceremonies</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1st_Daytime_Emmy_Awards" title="1st Daytime Emmy Awards">1974</a></li>
+<li><a href="/wiki/2nd_Daytime_Emmy_Awards" title="2nd Daytime Emmy Awards">1975</a></li>
+<li><a href="/wiki/3rd_Daytime_Emmy_Awards" title="3rd Daytime Emmy Awards">1976</a></li>
+<li><a href="/wiki/4th_Daytime_Emmy_Awards" title="4th Daytime Emmy Awards">1977</a></li>
+<li><a href="/wiki/5th_Daytime_Emmy_Awards" title="5th Daytime Emmy Awards">1978</a></li>
+<li><a href="/wiki/6th_Daytime_Emmy_Awards" title="6th Daytime Emmy Awards">1979</a></li>
+<li><a href="/wiki/7th_Daytime_Emmy_Awards" title="7th Daytime Emmy Awards">1980</a></li>
+<li><a href="/wiki/8th_Daytime_Emmy_Awards" title="8th Daytime Emmy Awards">1981</a></li>
+<li><a href="/wiki/9th_Daytime_Emmy_Awards" title="9th Daytime Emmy Awards">1982</a></li>
+<li><a href="/wiki/10th_Daytime_Emmy_Awards" title="10th Daytime Emmy Awards">1983</a></li>
+<li><a href="/wiki/11th_Daytime_Emmy_Awards" title="11th Daytime Emmy Awards">1984</a></li>
+<li><a href="/wiki/12th_Daytime_Emmy_Awards" title="12th Daytime Emmy Awards">1985</a></li>
+<li><a href="/wiki/13th_Daytime_Emmy_Awards" title="13th Daytime Emmy Awards">1986</a></li>
+<li><a href="/wiki/14th_Daytime_Emmy_Awards" title="14th Daytime Emmy Awards">1987</a></li>
+<li><a href="/wiki/15th_Daytime_Emmy_Awards" title="15th Daytime Emmy Awards">1988</a></li>
+<li><a href="/wiki/16th_Daytime_Emmy_Awards" title="16th Daytime Emmy Awards">1989</a></li>
+<li><a href="/wiki/17th_Daytime_Emmy_Awards" title="17th Daytime Emmy Awards">1990</a></li>
+<li><a href="/wiki/18th_Daytime_Emmy_Awards" title="18th Daytime Emmy Awards">1991</a></li>
+<li><a href="/wiki/19th_Daytime_Emmy_Awards" title="19th Daytime Emmy Awards">1992</a></li>
+<li><a href="/wiki/20th_Daytime_Emmy_Awards" title="20th Daytime Emmy Awards">1993</a></li>
+<li><a href="/wiki/21st_Daytime_Emmy_Awards" title="21st Daytime Emmy Awards">1994</a></li>
+<li><a href="/wiki/22nd_Daytime_Emmy_Awards" title="22nd Daytime Emmy Awards">1995</a></li>
+<li><a href="/wiki/23rd_Daytime_Emmy_Awards" title="23rd Daytime Emmy Awards">1996</a></li>
+<li><a href="/wiki/24th_Daytime_Emmy_Awards" title="24th Daytime Emmy Awards">1997</a></li>
+<li><a href="/wiki/25th_Daytime_Emmy_Awards" title="25th Daytime Emmy Awards">1998</a></li>
+<li><a href="/wiki/26th_Daytime_Emmy_Awards" title="26th Daytime Emmy Awards">1999</a></li>
+<li><a href="/wiki/27th_Daytime_Emmy_Awards" title="27th Daytime Emmy Awards">2000</a></li>
+<li><a href="/wiki/28th_Daytime_Emmy_Awards" title="28th Daytime Emmy Awards">2001</a></li>
+<li><a href="/wiki/29th_Daytime_Emmy_Awards" title="29th Daytime Emmy Awards">2002</a></li>
+<li><a href="/wiki/30th_Daytime_Emmy_Awards" title="30th Daytime Emmy Awards">2003</a></li>
+<li><a href="/wiki/31st_Daytime_Emmy_Awards" title="31st Daytime Emmy Awards">2004</a></li>
+<li><a href="/wiki/32nd_Daytime_Emmy_Awards" title="32nd Daytime Emmy Awards">2005</a></li>
+<li><a href="/wiki/33rd_Daytime_Emmy_Awards" title="33rd Daytime Emmy Awards">2006</a></li>
+<li><a href="/wiki/34th_Daytime_Emmy_Awards" title="34th Daytime Emmy Awards">2007</a></li>
+<li><a href="/wiki/35th_Daytime_Emmy_Awards" title="35th Daytime Emmy Awards">2008</a></li>
+<li><a href="/wiki/36th_Daytime_Emmy_Awards" title="36th Daytime Emmy Awards">2009</a></li>
+<li><a href="/wiki/37th_Daytime_Emmy_Awards" title="37th Daytime Emmy Awards">2010</a></li>
+<li><a href="/wiki/38th_Daytime_Emmy_Awards" title="38th Daytime Emmy Awards">2011</a></li>
+<li><a href="/wiki/39th_Daytime_Emmy_Awards" title="39th Daytime Emmy Awards">2012</a></li>
+<li><a href="/wiki/40th_Daytime_Emmy_Awards" title="40th Daytime Emmy Awards">2013</a></li>
+<li><a href="/wiki/41st_Daytime_Emmy_Awards" title="41st Daytime Emmy Awards">2014</a></li>
+<li><a href="/wiki/42nd_Daytime_Emmy_Awards" title="42nd Daytime Emmy Awards">2015</a></li>
+<li><a href="/wiki/43rd_Daytime_Emmy_Awards" title="43rd Daytime Emmy Awards">2016</a></li>
+<li><a href="/wiki/44th_Daytime_Emmy_Awards" title="44th Daytime Emmy Awards">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Creative Arts</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/39th_Daytime_Creative_Arts_Emmy_Awards" title="39th Daytime Creative Arts Emmy Awards">2012</a></li>
+<li><a href="/wiki/40th_Daytime_Creative_Arts_Emmy_Awards" title="40th Daytime Creative Arts Emmy Awards">2013</a></li>
+<li><a href="/wiki/41st_Daytime_Creative_Arts_Emmy_Awards" title="41st Daytime Creative Arts Emmy Awards">2014</a></li>
+<li><a href="/wiki/42nd_Daytime_Creative_Arts_Emmy_Awards" title="42nd Daytime Creative Arts Emmy Awards">2015</a></li>
+<li><a href="/wiki/43rd_Daytime_Creative_Arts_Emmy_Awards" title="43rd Daytime Creative Arts Emmy Awards">2016</a></li>
+<li><a href="/wiki/44th_Daytime_Creative_Arts_Emmy_Awards" title="44th Daytime Creative Arts Emmy Awards">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/International_Emmy_Award" title="International Emmy Award">International</a>
+<div class="hlist" style="font-weight:normal">
+<ul>
+<li>(<a href="/wiki/Template:International_Emmy_Award_categories" title="Template:International Emmy Award categories">categories</a></li>
+<li><a href="/wiki/List_of_International_Emmy_Award_winners" title="List of International Emmy Award winners">winners</a>)</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1st_International_Emmy_Awards" title="1st International Emmy Awards">1973</a></li>
+<li><a href="/wiki/2nd_International_Emmy_Awards" title="2nd International Emmy Awards">1974</a></li>
+<li><a href="/wiki/3rd_International_Emmy_Awards" title="3rd International Emmy Awards">1975</a></li>
+<li><a href="/wiki/4th_International_Emmy_Awards" title="4th International Emmy Awards">1976</a></li>
+<li><a href="/wiki/5th_International_Emmy_Awards" title="5th International Emmy Awards">1977</a></li>
+<li><a href="/wiki/7th_International_Emmy_Awards" title="7th International Emmy Awards">1979</a></li>
+<li><a href="/wiki/8th_International_Emmy_Awards" title="8th International Emmy Awards">1980</a></li>
+<li><a href="/wiki/9th_International_Emmy_Awards" title="9th International Emmy Awards">1981</a></li>
+<li><a href="/wiki/10th_International_Emmy_Awards" title="10th International Emmy Awards">1982</a></li>
+<li><a href="/wiki/11th_International_Emmy_Awards" title="11th International Emmy Awards">1983</a></li>
+<li><a href="/wiki/12th_International_Emmy_Awards" title="12th International Emmy Awards">1984</a></li>
+<li><a href="/wiki/13th_International_Emmy_Awards" title="13th International Emmy Awards">1985</a></li>
+<li><a href="/wiki/14th_International_Emmy_Awards" title="14th International Emmy Awards">1986</a></li>
+<li><a href="/wiki/15th_International_Emmy_Awards" title="15th International Emmy Awards">1987</a></li>
+<li><a href="/wiki/16th_International_Emmy_Awards" title="16th International Emmy Awards">1988</a></li>
+<li><a href="/wiki/17th_International_Emmy_Awards" title="17th International Emmy Awards">1989</a></li>
+<li><a href="/wiki/18th_International_Emmy_Awards" title="18th International Emmy Awards">1990</a></li>
+<li><a href="/wiki/19th_International_Emmy_Awards" title="19th International Emmy Awards">1991</a></li>
+<li><a href="/wiki/20th_International_Emmy_Awards" title="20th International Emmy Awards">1992</a></li>
+<li><a href="/wiki/21st_International_Emmy_Awards" title="21st International Emmy Awards">1993</a></li>
+<li><a href="/wiki/22nd_International_Emmy_Awards" title="22nd International Emmy Awards">1994</a></li>
+<li><a href="/wiki/23rd_International_Emmy_Awards" title="23rd International Emmy Awards">1995</a></li>
+<li><a href="/wiki/24th_International_Emmy_Awards" title="24th International Emmy Awards">1996</a></li>
+<li><a href="/wiki/25th_International_Emmy_Awards" title="25th International Emmy Awards">1997</a></li>
+<li><a href="/wiki/26th_International_Emmy_Awards" title="26th International Emmy Awards">1998</a></li>
+<li><a href="/wiki/27th_International_Emmy_Awards" title="27th International Emmy Awards">1999</a></li>
+<li><a href="/wiki/28th_International_Emmy_Awards" title="28th International Emmy Awards">2000</a></li>
+<li><a href="/wiki/29th_International_Emmy_Awards" title="29th International Emmy Awards">2001</a></li>
+<li><a href="/wiki/30th_International_Emmy_Awards" title="30th International Emmy Awards">2002</a></li>
+<li><a href="/wiki/31st_International_Emmy_Awards" title="31st International Emmy Awards">2003</a></li>
+<li><a href="/wiki/32nd_International_Emmy_Awards" title="32nd International Emmy Awards">2004</a></li>
+<li><a href="/wiki/33rd_International_Emmy_Awards" title="33rd International Emmy Awards">2005</a></li>
+<li><a href="/wiki/34th_International_Emmy_Awards" title="34th International Emmy Awards">2006</a></li>
+<li><a href="/wiki/35th_International_Emmy_Awards" title="35th International Emmy Awards">2007</a></li>
+<li><a href="/wiki/36th_International_Emmy_Awards" title="36th International Emmy Awards">2008</a></li>
+<li><a href="/wiki/37th_International_Emmy_Awards" title="37th International Emmy Awards">2009</a></li>
+<li><a href="/wiki/38th_International_Emmy_Awards" title="38th International Emmy Awards">2010</a></li>
+<li><a href="/wiki/39th_International_Emmy_Awards" title="39th International Emmy Awards">2011</a></li>
+<li><a href="/wiki/40th_International_Emmy_Awards" title="40th International Emmy Awards">2012</a></li>
+<li><a href="/wiki/41st_International_Emmy_Awards" title="41st International Emmy Awards">2013</a></li>
+<li><a href="/wiki/42nd_International_Emmy_Awards" title="42nd International Emmy Awards">2014</a></li>
+<li><a href="/wiki/43rd_International_Emmy_Awards" title="43rd International Emmy Awards">2015</a></li>
+<li><a href="/wiki/44th_International_Emmy_Awards" title="44th International Emmy Awards">2016</a></li>
+<li><a href="/wiki/45th_International_Emmy_Awards" title="45th International Emmy Awards">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/Sports_Emmy_Award" title="Sports Emmy Award">Sports</a>
+<div class="hlist" style="font-weight:normal">
+<ul>
+<li>(<a href="/wiki/Template:Sports_Emmy_Award_categories" title="Template:Sports Emmy Award categories">categories</a>)</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/26th_Sports_Emmy_Awards" title="26th Sports Emmy Awards">2005</a></li>
+<li><a href="/wiki/27th_Sports_Emmy_Awards" title="27th Sports Emmy Awards">2006</a></li>
+<li><a href="/wiki/28th_Sports_Emmy_Awards" title="28th Sports Emmy Awards">2007</a></li>
+<li><a href="/wiki/29th_Sports_Emmy_Awards" title="29th Sports Emmy Awards">2008</a></li>
+<li><a href="/wiki/30th_Sports_Emmy_Awards" title="30th Sports Emmy Awards">2009</a></li>
+<li><a href="/wiki/31st_Sports_Emmy_Awards" title="31st Sports Emmy Awards">2010</a></li>
+<li><a href="/wiki/32nd_Sports_Emmy_Awards" title="32nd Sports Emmy Awards">2011</a></li>
+<li><a href="/wiki/33rd_Sports_Emmy_Awards" title="33rd Sports Emmy Awards">2012</a></li>
+<li><a href="/wiki/34th_Sports_Emmy_Awards" title="34th Sports Emmy Awards">2013</a></li>
+<li><a href="/wiki/35th_Sports_Emmy_Awards" title="35th Sports Emmy Awards">2014</a></li>
+<li><a href="/wiki/36th_Sports_Emmy_Awards" title="36th Sports Emmy Awards">2015</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/Technology_%26_Engineering_Emmy_Award" title="Technology &amp; Engineering Emmy Award">Technology &amp; Engineering</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/57th_Technology_%26_Engineering_Emmy_Awards" title="57th Technology &amp; Engineering Emmy Awards">2006</a></li>
+<li><a href="/wiki/58th_Technology_%26_Engineering_Emmy_Awards" title="58th Technology &amp; Engineering Emmy Awards">2007</a></li>
+<li><a href="/wiki/59th_Technology_%26_Engineering_Emmy_Awards" title="59th Technology &amp; Engineering Emmy Awards">2008</a></li>
+<li><a href="/wiki/60th_Technology_%26_Engineering_Emmy_Awards" title="60th Technology &amp; Engineering Emmy Awards">2009</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left"><a href="/wiki/News_%26_Documentary_Emmy_Award" title="News &amp; Documentary Emmy Award">News &amp; Documentary</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/31st_News_%26_Documentary_Emmy_Awards" title="31st News &amp; Documentary Emmy Awards">2010</a></li>
+<li><a href="/wiki/32nd_News_%26_Documentary_Emmy_Awards" title="32nd News &amp; Documentary Emmy Awards">2011</a></li>
+<li><a href="/wiki/33rd_News_%26_Documentary_Emmy_Awards" title="33rd News &amp; Documentary Emmy Awards">2012</a></li>
+<li><a href="/wiki/34th_News_%26_Documentary_Emmy_Awards" title="34th News &amp; Documentary Emmy Awards">2013</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEDD82;text-align: left">Regional</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chicago_/_Midwest_Emmy_Awards" title="Chicago / Midwest Emmy Awards">Chicago&#160;/ Midwest</a></li>
+<li><a href="/wiki/Heartland_Emmy_Awards" title="Heartland Emmy Awards">Heartlands</a></li>
+<li><a href="/wiki/Lone_Star_Emmy_Awards" title="Lone Star Emmy Awards">Lone Star</a></li>
+<li><a href="/wiki/Los_Angeles_Emmy_Award" title="Los Angeles Emmy Award">Los Angeles</a></li>
+<li><a href="/wiki/Lower_Great_Lakes_Emmy_Awards" title="Lower Great Lakes Emmy Awards">Lower Great Lakes</a></li>
+<li><a href="/wiki/Michigan_Emmy_Awards" title="Michigan Emmy Awards">Michigan</a></li>
+<li><a href="/wiki/Mid-America_Emmy_Awards" title="Mid-America Emmy Awards">Mid-America</a></li>
+<li><a href="/wiki/Mid-Atlantic_Emmy_Awards" title="Mid-Atlantic Emmy Awards">Mid-Atlantic</a></li>
+<li><a href="/wiki/Midsouth_Emmy_Awards" title="Midsouth Emmy Awards">Midsouth</a></li>
+<li><a href="/wiki/National_Capital_/_Chesapeake_Bay_Emmy_Awards" title="National Capital / Chesapeake Bay Emmy Awards">National Capital&#160;/ Chesapeake Bay</a></li>
+<li><a href="/wiki/New_England_Emmy_Awards" title="New England Emmy Awards">New England</a></li>
+<li><a href="/wiki/New_York_Emmy_Awards" title="New York Emmy Awards">New York</a></li>
+<li><a href="/wiki/Northwest_Emmy_Awards" title="Northwest Emmy Awards">Northwest</a></li>
+<li><a href="/wiki/Ohio_Valley_Emmy_Awards" title="Ohio Valley Emmy Awards">Ohio Valley</a></li>
+<li><a href="/wiki/Pacific_Southwest_Chapter_of_the_National_Television_Academy" title="Pacific Southwest Chapter of the National Television Academy">Pacific Southwest</a></li>
+<li><a href="/wiki/Rocky_Mountain_Emmy_Awards" title="Rocky Mountain Emmy Awards">Rocky Mountain&#160;/ Southwest</a></li>
+<li><a href="/wiki/San_Francisco_/_Northern_California_Emmy_Awards" title="San Francisco / Northern California Emmy Awards">San Francisco&#160;/ Northern California</a></li>
+<li><a href="/wiki/Southeast_Emmy_Awards" title="Southeast Emmy Awards">Atlanta&#160;/ Southeast</a></li>
+<li><a href="/wiki/Suncoast_Chapter" title="Suncoast Chapter">Suncoast</a></li>
+<li><a href="/wiki/Upper_Midwest_Emmy_Awards" title="Upper Midwest Emmy Awards">Upper Midwest</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEDD82">
+<div>
+<ul>
+<li><b><a href="/wiki/Bob_Hope_Humanitarian_Award" title="Bob Hope Humanitarian Award">Bob Hope Humanitarian Award</a></b></li>
+<li><b><a href="/wiki/List_of_people_who_have_won_Academy,_Emmy,_Grammy,_and_Tony_Awards" title="List of people who have won Academy, Emmy, Grammy, and Tony Awards">EGOT winners</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20170410023448
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.221 seconds
+Preprocessor visited node count: 1719/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 75621/2097152 bytes
+Template argument size: 6283/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 2.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  148.394      1 -total
+ 54.23%   80.471      1 Template:Infobox_award
+ 46.83%   69.493      1 Template:Infobox
+ 25.28%   37.519      3 Template:Navbox
+ 21.99%   32.626      2 Template:Reflist
+ 20.91%   31.036      1 Template:EmmyAwardsbyYear
+ 18.37%   27.264      1 Template:Cite_news
+  9.85%   14.614      2 Template:Navbox_subgroup
+  5.48%    8.125      1 Template:Unbulleted_list
+  3.06%    4.546      4 Template:Hlist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21899318-0!*!0!!en!*!* and timestamp 20170410023448 and revision id 771974895
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=41st_Primetime_Emmy_Awards&amp;oldid=771974895">https://en.wikipedia.org/w/index.php?title=41st_Primetime_Emmy_Awards&amp;oldid=771974895</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Primetime_Emmy_Award_ceremonies" title="Category:Primetime Emmy Award ceremonies">Primetime Emmy Award ceremonies</a></li><li><a href="/wiki/Category:1989_television_awards" title="Category:1989 television awards">1989 television awards</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=41st+Primetime+Emmy+Awards" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=41st+Primetime+Emmy+Awards" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/41st_Primetime_Emmy_Awards"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:41st_Primetime_Emmy_Awards"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/41st_Primetime_Emmy_Awards" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/41st_Primetime_Emmy_Awards" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/41st_Primetime_Emmy_Awards" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;oldid=771974895" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2442026" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=41st_Primetime_Emmy_Awards&amp;id=771974895" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=41st+Primetime+Emmy+Awards">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=41st+Primetime+Emmy+Awards&amp;returnto=41st+Primetime+Emmy+Awards&amp;oldid=771974895&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=41st_Primetime_Emmy_Awards&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/T%C4%93-41_H%C3%B4e_N%CC%82g-kim-s%C3%AE-t%C5%8Da%E2%81%BF_Emmy_Chi%C3%B3ng" title="Tē-41 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:Premios_Primetime_Emmy_de_1989" title="Anexo:Premios Primetime Emmy de 1989 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Premi_Emmy_1989" title="Premi Emmy 1989 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/41e_Primetime_Emmy_Awards" title="41e Primetime Emmy Awards – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2442026#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 March 2017, at 15:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=41st_Primetime_Emmy_Awards&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.221","ppvisitednodes":{"value":1719,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":75621,"limit":2097152},"templateargumentsize":{"value":6283,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  148.394      1 -total"," 54.23%   80.471      1 Template:Infobox_award"," 46.83%   69.493      1 Template:Infobox"," 25.28%   37.519      3 Template:Navbox"," 21.99%   32.626      2 Template:Reflist"," 20.91%   31.036      1 Template:EmmyAwardsbyYear"," 18.37%   27.264      1 Template:Cite_news","  9.85%   14.614      2 Template:Navbox_subgroup","  5.48%    8.125      1 Template:Unbulleted_list","  3.06%    4.546      4 Template:Hlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":2702067,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20170410023448","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":51,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>

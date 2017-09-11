@@ -1,0 +1,301 @@
+https://en.wikipedia.org/wiki/1470s_BC
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1470s BC - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1470s_BC","wgTitle":"1470s BC","wgCurRevisionId":716853336,"wgRevisionId":716853336,"wgArticleId":63292,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from December 2009","All articles lacking sources","15th century BC"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1470s_BC","wgRelevantArticleId":63292,"wgRequestId":"WPnd9QrAEFoAAFT78U4AAABP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2094094","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1470s_BC"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1470s_BC&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1470s_BC&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1470s_BC"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1470s_BC rootpage-1470s_BC skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1470s BC</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=1470s_BC&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox" style="width: auto; text-align: center;">
+<tr style="background-color:#f0f0f0">
+<td style="text-align: right;"><b><a href="/wiki/Millennium" title="Millennium">Millennium</a>:</b></td>
+<td><a href="/wiki/2nd_millennium_BC" title="2nd millennium BC">2nd&#160;millennium&#160;<small>BC</small></a></td>
+</tr>
+<tr>
+<td style="text-align: right;"><b><a href="/wiki/List_of_centuries" title="List of centuries">Centuries</a>:</b></td>
+<td>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/16th_century_BC" title="16th century BC">16th&#160;century&#160;<small>BC</small></a></li>
+<li><b><a href="/wiki/15th_century_BC" title="15th century BC">15th&#160;century&#160;<small>BC</small></a></b></li>
+<li><a href="/wiki/14th_century_BC" title="14th century BC">14th&#160;century&#160;<small>BC</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="background-color:#f0f0f0">
+<td style="text-align: right;"><b><a href="/wiki/List_of_decades" title="List of decades">Decades</a>:</b></td>
+<td>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/1490s_BC" title="1490s BC">1490s&#160;<small>BC</small></a></li>
+<li><a href="/wiki/1480s_BC" title="1480s BC">1480s&#160;<small>BC</small></a></li>
+<li><b><strong class="selflink">1470s&#160;<small>BC</small></strong></b></li>
+<li><a href="/wiki/1460s_BC" title="1460s BC">1460s&#160;<small>BC</small></a></li>
+<li><a href="/wiki/1450s_BC" title="1450s BC">1450s&#160;<small>BC</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;"><b><a href="/wiki/List_of_years" title="List of years">Years</a>:</b></td>
+<td>
+<div class="hlist">
+<ul>
+<li>1479&#160;<small>BC</small></li>
+<li>1478&#160;<small>BC</small></li>
+<li>1477&#160;<small>BC</small></li>
+<li>1476&#160;<small>BC</small></li>
+<li>1475&#160;<small>BC</small></li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li>1474&#160;<small>BC</small></li>
+<li>1473&#160;<small>BC</small></li>
+<li>1472&#160;<small>BC</small></li>
+<li>1471&#160;<small>BC</small></li>
+<li>1470&#160;<small>BC</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="background-color:#f0f0f0">
+<td style="text-align: right;"><b>Categories:</b></td>
+<td>
+<div class="plainlist">
+<ul>
+<li>
+<div class="hlist"></div>
+</li>
+<li>
+<div class="hlist"></div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1470s_BC&amp;action=edit&amp;section=1" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>c. <a href="/wiki/1478_BC" class="mw-redirect" title="1478 BC">1478 BC</a>–<a href="/wiki/1390_BC" class="mw-redirect" title="1390 BC">1390 BC</a>—Hand mirror, <a href="/wiki/Eighteenth_Dynasty_of_Egypt" title="Eighteenth Dynasty of Egypt">Eighteenth Dynasty of Egypt</a>, is made. It is now at The <a href="/wiki/Brooklyn_Museum" title="Brooklyn Museum">Brooklyn Museum</a>, New York.</li>
+<li>c. <a href="/wiki/1473_BC" class="mw-redirect" title="1473 BC">1473 BC</a>—<a href="/wiki/Hatshepsut" title="Hatshepsut">Hatshepsut</a> (18th Dynasty) started to rule. She is a daughter of <a href="/wiki/Thutmose_I" title="Thutmose I">Thutmose I</a>. Married to her half brother <a href="/wiki/Thutmose_II" title="Thutmose II">Thutmose II</a>.</li>
+<li>c. 1473 BC–<a href="/wiki/1458_BC" class="mw-redirect" title="1458 BC">1458 BC</a> – Funerary temple of Hatshepsut, <a href="/wiki/Deir_el-Bahari" title="Deir el-Bahari">Deir el-Bahari</a> is built. <a href="/wiki/Eighteenth_Dynasty_of_Egypt" title="Eighteenth Dynasty of Egypt">Eighteenth Dynasty of Egypt</a>.</li>
+<li>c. 1473 BC–1458 BC—<a href="/wiki/Hatshepsut" title="Hatshepsut">Hatshepsut</a> as <a href="/wiki/Sphinx" title="Sphinx">sphinx</a>, from <a href="/wiki/Deir_el-Bahari" title="Deir el-Bahari">Deir el-Bahari</a> was made. <a href="/wiki/Eighteenth_Dynasty_of_Egypt" title="Eighteenth Dynasty of Egypt">Eighteenth Dynasty of Egypt</a>. It is now in the <a href="/wiki/Metropolitan_Museum_of_Art" title="Metropolitan Museum of Art">Metropolitan Museum of Art</a>, New York.</li>
+</ul>
+<h2><span class="mw-headline" id="Significant_people">Significant people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1470s_BC&amp;action=edit&amp;section=2" title="Edit section: Significant people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Thutmose_III" title="Thutmose III">Thutmose III</a>, <a href="/wiki/Pharaoh" title="Pharaoh">Pharaoh</a> of the <a href="/wiki/Eighteenth_Dynasty_of_Egypt" title="Eighteenth Dynasty of Egypt">Eighteenth Dynasty</a> (1479 BC–<a href="/wiki/1420s_BC" title="1420s BC">1425 BC</a>). He was the first who called himself "pharaoh".</li>
+<li><a href="/wiki/Hatshepsut" title="Hatshepsut">Hatshepsut</a>, female <a href="/wiki/Pharaoh" title="Pharaoh">Pharaoh</a> of the <a href="/wiki/Eighteenth_Dynasty_of_Egypt" title="Eighteenth Dynasty of Egypt">18th Dynasty</a> (<a href="/wiki/1473_BC" class="mw-redirect" title="1473 BC">1473 BC</a>–<a href="/wiki/1458_BC" class="mw-redirect" title="1458 BC">1458 BC</a>).</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20170326233941
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.076 seconds
+Real time usage: 0.204 seconds
+Preprocessor visited node count: 2640/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15502/2097152 bytes
+Template argument size: 1871/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 6/500
+Lua time usage: 0.017/10.000 seconds
+Lua memory usage: 1.13 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  190.160      1 -total
+ 79.76%  151.663      1 Template:Decadebox_BC
+ 79.18%  150.574      1 Template:Decadebox
+ 68.73%  130.696     19 Template:Dr
+ 67.53%  128.410     19 Template:Dr-make
+ 20.21%   38.440      1 Template:Unreferenced
+ 15.74%   29.937      4 Template:Hlist
+ 13.09%   24.897      1 Template:Ambox
+  6.57%   12.495     19 Template:Drep
+  5.43%   10.319     19 Template:Dr-logno
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:63292-0!*!0!!*!4!* and timestamp 20170326233941 and revision id 716853336
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1470s_BC&amp;oldid=716853336">https://en.wikipedia.org/w/index.php?title=1470s_BC&amp;oldid=716853336</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:15th_century_BC" title="Category:15th century BC">15th century BC</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_December_2009" title="Category:Articles lacking sources from December 2009">Articles lacking sources from December 2009</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1470s+BC" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1470s+BC" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1470s_BC"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1470s_BC"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1470s_BC" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1470s_BC&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1470s_BC&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1470s_BC" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1470s_BC" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1470s_BC&amp;oldid=716853336" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1470s_BC&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2094094" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1470s_BC&amp;id=716853336" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1470s+BC">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1470s+BC&amp;returnto=1470s+BC&amp;oldid=716853336&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1470s_BC&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%A9cada_del_1470_e.C." title="Década del 1470 e.C. – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/1470te_p._n._e." title="1470te p. n. e. – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/K._a._1470ko_hamarkada" title="K. a. 1470ko hamarkada – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D9%87_%DB%B1%DB%B4%DB%B7%DB%B0_(%D9%BE%DB%8C%D8%B4_%D8%A7%D8%B2_%D9%85%DB%8C%D9%84%D8%A7%D8%AF)" title="دهه ۱۴۷۰ (پیش از میلاد) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ann%C3%A9es_1470_av._J.-C." title="Années 1470 av. J.-C. – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AA%E0%A5%AD%E0%A5%A6_%E0%A4%88%E0%A4%B8%E0%A4%BE_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5" title="१४७० ईसा पूर्व – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%AB%E1%83%95._%E1%83%AC._1470-%E1%83%98%E1%83%90%E1%83%9C%E1%83%94%E1%83%91%E1%83%98" title="ძვ. წ. 1470-იანები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Miaka_ya_1470_KK" title="Miaka ya 1470 KK – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/1470-an_SM" title="1470-an SM – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/1479-1470_v.Chr." title="1479-1470 v.Chr. – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/1470-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B_%D0%B4%D0%BE_%D0%BD._%D1%8D." title="1470-е годы до н. э. – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/70._roky_15._storo%C4%8Dia_pred_Kr." title="70. roky 15. storočia pred Kr. – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/1470%D0%B5_%D0%BF._%D0%BD._%D0%B5." title="1470е п. н. е. – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/1470-e_pne." title="1470-e pne. – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/1470-%D1%82%D1%96_%D0%B4%D0%BE_%D0%BD._%D0%B5." title="1470-ті до н. е. – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/1470_nga_dekada_UC" title="1470 nga dekada UC – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%89%8D1470%E5%B9%B4%E4%BB%A3" title="前1470年代 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%89%8D1470%E5%B9%B4%E4%BB%A3" title="前1470年代 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2094094#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 April 2016, at 09:01.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1470s_BC&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.076","walltime":"0.204","ppvisitednodes":{"value":2640,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15502,"limit":2097152},"templateargumentsize":{"value":1871,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  190.160      1 -total"," 79.76%  151.663      1 Template:Decadebox_BC"," 79.18%  150.574      1 Template:Decadebox"," 68.73%  130.696     19 Template:Dr"," 67.53%  128.410     19 Template:Dr-make"," 20.21%   38.440      1 Template:Unreferenced"," 15.74%   29.937      4 Template:Hlist"," 13.09%   24.897      1 Template:Ambox","  6.57%   12.495     19 Template:Drep","  5.43%   10.319     19 Template:Dr-logno"]},"scribunto":{"limitreport-timeusage":{"value":"0.017","limit":"10.000"},"limitreport-memusage":{"value":1184174,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20170326233941","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw2117"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1173 @@
+https://en.wikipedia.org/wiki/Ali-Illahism
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ali-Illahism - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ali-Illahism","wgTitle":"Ali-Illahism","wgCurRevisionId":775201863,"wgRevisionId":775201863,"wgArticleId":30197071,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be merged from March 2017","All articles to be merged","Articles containing Persian-language text","Iranian religions","Kurdish culture","Religion in Kurdistan","Monotheistic religions","Religion in Iran"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ali-Illahism","wgRelevantArticleId":30197071,"wgRequestId":"WPqr6wrAEFYAACvQzhYAAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4724500","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ali-Illahism"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ali-Illahism&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ali-Illahism&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ali-Illahism"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ali-Illahism rootpage-Ali-Illahism skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ali-Illahism</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/50px-Merge-arrow.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/75px-Merge-arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/100px-Merge-arrow.svg.png 2x" data-file-width="50" data-file-height="20" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">It has been suggested that this article be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> into <i><a href="/wiki/Yarsanism" title="Yarsanism">Yarsanism</a></i>. (<a href="/wiki/Talk:Yarsanism#Merger_proposal" title="Talk:Yarsanism">Discuss</a>) <small><i>Proposed since March 2017.</i></small></span></td>
+</tr>
+</table>
+<p><b>Ali Illahism</b> (<a href="/wiki/Persian_language" title="Persian language">Persian</a>: <span lang="fa" dir="rtl" xml:lang="fa">علی‌اللّهی</span>‎‎) is a name attributed to a <a href="/wiki/Syncretic" class="mw-redirect" title="Syncretic">syncretic</a> religion which has been practiced in parts of Iranian <a href="/wiki/Luristan" class="mw-redirect" title="Luristan">Luristan</a>, Pakistan, and India which combines elements of <a href="/wiki/Shia_Islam" title="Shia Islam">Shia Islam</a> with older religions. It centers on the belief that there have been successive <a href="/wiki/Incarnations" class="mw-redirect" title="Incarnations">incarnations</a> of the <a href="/wiki/Deity" title="Deity">Deity</a> throughout history, and Ali Ilahees reserve particular reverence for <a href="/wiki/Ali" title="Ali">Ali</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> the son-in-law of the Islamic prophet <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a>, who is considered one such incarnation.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Various <a href="/wiki/Rites" class="mw-redirect" title="Rites">rites</a> have been attributed as Ali Ilahian, similarly to the <a href="/wiki/Yezidis" class="mw-redirect" title="Yezidis">Yezidis</a>, <a href="/wiki/Alawi" class="mw-redirect" title="Alawi">Ansaris</a>, and all sects whose doctrine is unknown to the surrounding <a href="/wiki/Muslim" title="Muslim">Muslim</a> and <a href="/wiki/Christian" title="Christian">Christian</a> population. Observers have described it as an <a href="https://en.wiktionary.org/wiki/agglomeration" class="extiw" title="wikt:agglomeration">agglomeration</a> of the customs and rites of several earlier religions, including <a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a>, historically because travelogues were "evident that there is no definite code which can be described as Ali Illahism"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>Sometimes Ali-Illahism is used as a general term for the <a href="/wiki/Ghulat" title="Ghulat">several denominations that veneer or deify Ali</a>, like the <a href="/wiki/Alawis" class="mw-redirect" title="Alawis">Alawis</a>, the <a href="/wiki/Alevis" class="mw-redirect" title="Alevis">Alevis</a> or the <a href="/wiki/Yarsanism" title="Yarsanism">Ahl-e Haqq/Yarsanis</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> others to mean the Ahl-e Haqq.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="In_the_Dabestan-e_Mazaheb">In the <i>Dabestan-e Mazaheb</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali-Illahism&amp;action=edit&amp;section=1" title="Edit section: In the Dabestan-e Mazaheb">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <i><a href="/wiki/Dabestan-e_Mazaheb" title="Dabestan-e Mazaheb">Dabestan-e Mazaheb</a></i> (a persian book of the 17th century about the <a href="/wiki/South_Asian" class="mw-redirect" title="South Asian">South Asian</a> religions) presents the Ali Illahians as a sect that respected <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> and <a href="/wiki/Ali" title="Ali">Ali</a> and discarded the <a href="/wiki/Quran" title="Quran">Quran</a> as it was compiled under <a href="/wiki/Umar" title="Umar">Umar</a>. They avoided killing any animals and believed that the rules allowing the killing of some animals are created by <a href="/wiki/Abu_Bakr" title="Abu Bakr">Abu Bakr</a>, Umar, <a href="/wiki/Uthman_ibn_Affan" class="mw-redirect" title="Uthman ibn Affan">Uthman ibn Affan</a> and their followers.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali-Illahism&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Anthropotheism" title="Anthropotheism">Anthropotheism</a></li>
+<li><a href="/wiki/Goran_Kurds" class="mw-redirect" title="Goran Kurds">Goran Kurds</a></li>
+<li><a href="/wiki/Ghulat" title="Ghulat">Ghulat</a></li>
+<li><a href="/wiki/Kurdish_people" class="mw-redirect" title="Kurdish people">Kurdish people</a></li>
+<li><a href="/wiki/Y%C3%A2res%C3%A2n" class="mw-redirect" title="Yâresân">Yâresân</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali-Illahism&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Woulfe Sheil, Lady Mary Leonora; Sheil, Sir Justin (1856). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=zYZi0qSfHxoC&amp;pg=PA199#v=onepage&amp;q&amp;f=false"><i>Glimpses of Life and Manners in Persia</i></a>. p.&#160;199.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli-Illahism&amp;rft.aufirst=Lady+Mary+Leonora&amp;rft.aulast=Woulfe+Sheil&amp;rft.au=Sheil%2C+Sir+Justin&amp;rft.btitle=Glimpses+of+Life+and+Manners+in+Persia&amp;rft.date=1856&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DzYZi0qSfHxoC%26pg%3DPA199%23v%3Donepage%26q%26f%3Dfalse&amp;rft.pages=199&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Layard, Austen Henry (2010-08-31). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=-SQe_sNtIaMC&amp;pg=PA216&amp;lpg=PA216&amp;dq=ali+illahism&amp;source=bl&amp;ots=6aa4DgyQSn&amp;sig=265ueJ-UCGd_z_P-QtRZ-VtWhUo&amp;hl=en&amp;ei=KlgXTb-QIsOu8QPOj4WEBw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CDEQ6AEwBA#v=onepage&amp;q=ali%2520illahism&amp;f=false"><i>Discoveries in the Ruins of Nineveh and Babylon: With Travels in Armenia, Kurdistan and the Desert: Being the Result of a Second Expedition Undertaken for the Trustees of the British Museum</i></a>. Cambridge University Press. p.&#160;216. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781108016773" title="Special:BookSources/9781108016773">9781108016773</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli-Illahism&amp;rft.aufirst=Austen+Henry&amp;rft.aulast=Layard&amp;rft.btitle=Discoveries+in+the+Ruins+of+Nineveh+and+Babylon%3A+With+Travels+in+Armenia%2C+Kurdistan+and+the+Desert%3A+Being+the+Result+of+a+Second+Expedition+Undertaken+for+the+Trustees+of+the+British+Museum&amp;rft.date=2010-08-31&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D-SQe_sNtIaMC%26pg%3DPA216%26lpg%3DPA216%26dq%3Dali%2Billahism%26source%3Dbl%26ots%3D6aa4DgyQSn%26sig%3D265ueJ-UCGd_z_P-QtRZ-VtWhUo%26hl%3Den%26ei%3DKlgXTb-QIsOu8QPOj4WEBw%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult%26resnum%3D5%26ved%3D0CDEQ6AEwBA%23v%3Donepage%26q%3Dali%252520illahism%26f%3Dfalse&amp;rft.isbn=9781108016773&amp;rft.pages=216&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Soane, Ely B. (2008). <a rel="nofollow" class="external text" href="https://www.highbeam.com/doc/1G1-193095988.html">"To Mesopotamia and Kurdistan in disguise with historical notices of Kurdish tribes and the Chaldeans of Kurdistan. (Excerpt)"</a>. <i>International Journal of Kurdish Studies</i>: 10<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli-Illahism&amp;rft.atitle=To+Mesopotamia+and+Kurdistan+in+disguise+with+historical+notices+of+Kurdish+tribes+and+the+Chaldeans+of+Kurdistan.+%28Excerpt%29&amp;rft.aufirst=Ely+B.&amp;rft.aulast=Soane&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.highbeam.com%2Fdoc%2F1G1-193095988.html&amp;rft.jtitle=International+Journal+of+Kurdish+Studies&amp;rft.pages=10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>; <cite class="citation book">Soane, Ely B. (1914). "Of Kurds and their Country". <a rel="nofollow" class="external text" href="https://ia902300.us.archive.org/11/items/tomesopotamiakur00soanuoft/tomesopotamiakur00soanuoft.pdf#page=410"><i>To Mesopotamia and Kurdistan in disguise&#160;: with historical notices of the Kurdish tribes and the Chaldeans of Kurdistan</i></a> <span style="font-size:85%;">(PDF)</span>. Boston: Small, Maynard. p.&#160;384. <a href="/wiki/Open_Library" title="Open Library">OL</a>&#160;<a rel="nofollow" class="external text" href="//openlibrary.org/books/OL23348805M">23348805M</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli-Illahism&amp;rft.atitle=Of+Kurds+and+their+Country&amp;rft.aufirst=Ely+B.&amp;rft.aulast=Soane&amp;rft.btitle=To+Mesopotamia+and+Kurdistan+in+disguise+%3A+with+historical+notices+of+the+Kurdish+tribes+and+the+Chaldeans+of+Kurdistan&amp;rft.date=1914&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fia902300.us.archive.org%2F11%2Fitems%2Ftomesopotamiakur00soanuoft%2Ftomesopotamiakur00soanuoft.pdf%23page%3D410&amp;rft.pages=384&amp;rft.place=Boston&amp;rft.pub=Small%2C+Maynard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Bruinessen, Martin van. <a rel="nofollow" class="external text" href="http://www.let.uu.nl/~Martin.vanBruinessen/personal/publications/Bruinessen_Religion_in_Kurdistan.pdf#page=9">"Religion in Kurdistan"</a> <span style="font-size:85%;">(PDF)</span>. <i>Universiteit Utrecht</i>. p.&#160;9<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli-Illahism&amp;rft.atitle=Religion+in+Kurdistan&amp;rft.aufirst=Martin+van&amp;rft.aulast=Bruinessen&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.let.uu.nl%2F~Martin.vanBruinessen%2Fpersonal%2Fpublications%2FBruinessen_Religion_in_Kurdistan.pdf%23page%3D9&amp;rft.jtitle=Universiteit+Utrecht&amp;rft.pages=9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Moosa, Matti (1987). <a rel="nofollow" class="external text" href="https://books.google.pt/books?id=WYO1BqdvX9EC&amp;pg=PA185">"16. The Ahl-i Haqq (Ali Ilahis) - Origins and Identity"</a>. <i>Extremist Shiites - The Ghulat Sects</i>. Contemporary issues in the Middle East. Syracuse University Press. p.&#160;185. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780815624110" title="Special:BookSources/9780815624110">9780815624110</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli-Illahism&amp;rft.atitle=16.+The+Ahl-i+Haqq+%28Ali+Ilahis%29+-+Origins+and+Identity&amp;rft.aufirst=Matti&amp;rft.aulast=Moosa&amp;rft.btitle=Extremist+Shiites+-+The+Ghulat+Sects&amp;rft.date=1987&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fbooks.google.pt%2Fbooks%3Fid%3DWYO1BqdvX9EC%26pg%3DPA185&amp;rft.isbn=9780815624110&amp;rft.pages=185&amp;rft.pub=Syracuse+University+Press&amp;rft.series=Contemporary+issues+in+the+Middle+East&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://persian.packhum.org/persian/pf?file=15501052&amp;ct=34">"An Account of the Ali Ilahían"</a>. <a rel="nofollow" class="external text" href="http://persian.packhum.org/persian/pf?file=15501050&amp;ct=0"><i>The Dabistán, or School of Manners</i></a>. <b>II</b>. Translated by Shea, David; Troyer, Anthony. 1843. pp.&#160;451–460<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli-Illahism&amp;rft.atitle=An+Account+of+the+Ali+Ilah%C3an&amp;rft.btitle=The+Dabist%C3%A1n%2C+or+School+of+Manners&amp;rft.date=1843&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fpersian.packhum.org%2Fpersian%2Fpf%3Ffile%3D15501052%26ct%3D34&amp;rft.pages=451-460&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Religion" style="padding:3px">
+<table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Religion_topics" title="Template:Religion topics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Religion_topics" title="Template talk:Religion topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Religion_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Religion" style="font-size:114%;margin:0 4em"><a href="/wiki/Religion" title="Religion">Religion</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Major_religious_groups_and_religious_denominations" style="font-size:114%;margin:0 4em"><a href="/wiki/Major_religious_groups" title="Major religious groups">Major religious groups</a> and <a href="/wiki/Religious_denomination" title="Religious denomination">religious denominations</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Abrahamic_religions" title="Abrahamic religions">Abrahamic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Judaism" title="Judaism">Judaism</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a>
+<ul>
+<li><a href="/wiki/Haredi_Judaism" title="Haredi Judaism">Haredi</a></li>
+<li><a href="/wiki/Hasidic_Judaism" title="Hasidic Judaism">Hasidic</a></li>
+<li><a href="/wiki/Modern_Orthodox_Judaism" title="Modern Orthodox Judaism">Modern</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Conservative_Judaism" title="Conservative Judaism">Conservative</a></li>
+<li><a href="/wiki/Reform_Judaism" title="Reform Judaism">Reform</a></li>
+<li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaite</a></li>
+<li><a href="/wiki/Reconstructionist_Judaism" title="Reconstructionist Judaism">Reconstructionist</a></li>
+<li><a href="/wiki/Jewish_Renewal" title="Jewish Renewal">Renewal</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic</a></li>
+<li><a href="/wiki/Haymanot" title="Haymanot">Haymanot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Christianity" title="Christianity">Christianity</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catholic_Church" title="Catholic Church">Catholicism</a>
+<ul>
+<li><a href="/wiki/Eastern_Catholic_Churches" title="Eastern Catholic Churches">Eastern Catholic Churches</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eastern_Christianity" title="Eastern Christianity">Eastern Christianity</a>
+<ul>
+<li><a href="/wiki/Church_of_the_East" title="Church of the East">Church of the East</a>
+<ul>
+<li><a href="/wiki/Assyrian_Church_of_the_East" title="Assyrian Church of the East">Assyrian Church of the East</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodoxy</a></li>
+<li><a href="/wiki/Oriental_Orthodoxy" title="Oriental Orthodoxy">Oriental Orthodoxy</a>
+<ul>
+<li><a href="/wiki/Ethiopian_Orthodox_Tewahedo_Church" title="Ethiopian Orthodox Tewahedo Church">Ethiopian Orthodoxy</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Independent_Catholic_churches" class="mw-redirect" title="Independent Catholic churches">Independent Catholicism</a>
+<ul>
+<li><a href="/wiki/Old_Catholic_Church" title="Old Catholic Church">Old Catholicism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Protestantism" title="Protestantism">Protestantism</a>
+<ul>
+<li><a href="/wiki/Adventism" title="Adventism">Adventism</a></li>
+<li><a href="/wiki/Anabaptism" title="Anabaptism">Anabaptism</a></li>
+<li><a href="/wiki/Anglicanism" title="Anglicanism">Anglicanism</a></li>
+<li><a href="/wiki/Baptists" title="Baptists">Baptists</a></li>
+<li><a href="/wiki/Calvinism" title="Calvinism">Calvinism</a>
+<ul>
+<li><a href="/wiki/Presbyterianism" title="Presbyterianism">Presbyterianism</a></li>
+<li><a href="/wiki/Congregational_church" title="Congregational church">Congregationalism</a></li>
+<li><a href="/wiki/Continental_Reformed_church" title="Continental Reformed church">Continental Reformed</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lutheranism" title="Lutheranism">Lutheranism</a></li>
+<li><a href="/wiki/Methodism" title="Methodism">Methodism</a></li>
+<li><a href="/wiki/Pentecostalism" title="Pentecostalism">Pentecostalism</a></li>
+<li><a href="/wiki/Evangelicalism" title="Evangelicalism">Evangelicalism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nontrinitarianism" title="Nontrinitarianism">Nontrinitarianism</a>
+<ul>
+<li><a href="/wiki/Jehovah%27s_Witnesses" title="Jehovah's Witnesses">Jehovah's Witnesses</a></li>
+<li><a href="/wiki/Mormonism" title="Mormonism">Mormonism</a></li>
+<li><a href="/wiki/Jesuism" title="Jesuism">Jesuism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nondenominational_Christianity" title="Nondenominational Christianity">Nondenominational</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Islam" title="Islam">Islam</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sunni_Islam" title="Sunni Islam">Sunni</a>
+<ul>
+<li><a href="/wiki/Hanafi" title="Hanafi">Hanafi</a></li>
+<li><a href="/wiki/Maliki" title="Maliki">Maliki</a></li>
+<li><a href="/wiki/Hanbali" title="Hanbali">Hanbali</a></li>
+<li><a href="/wiki/Shafi%27i" title="Shafi'i">Shafi'i</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Shia_Islam" title="Shia Islam">Shia</a>
+<ul>
+<li><a href="/wiki/Twelver" title="Twelver">Twelver</a></li>
+<li><a href="/wiki/Isma%27ilism" title="Isma'ilism">Isma'ilism</a></li>
+<li><a href="/wiki/Zaidiyyah" title="Zaidiyyah">Zaidiyyah</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ahmadiyya" title="Ahmadiyya">Ahmadi</a></li>
+<li><a href="/wiki/Ibadi" title="Ibadi">Ibadi</a></li>
+<li><a href="/wiki/Non-denominational_Muslim" title="Non-denominational Muslim">Non-denominational</a></li>
+<li><a href="/wiki/Quranism" title="Quranism">Quranism</a></li>
+<li><a href="/wiki/%E1%BA%92%C4%81hir%C4%AB" title="Ẓāhirī">Zahirism</a></li>
+<li><a href="/wiki/Salafi_movement" title="Salafi movement">Salafism</a>
+<ul>
+<li><a href="/wiki/Wahhabism" title="Wahhabism">Wahhabism</a></li>
+<li><a href="/wiki/Ahl_al-Hadith" title="Ahl al-Hadith">Ahl al-Hadith</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mahdavia" title="Mahdavia">Mahdavia</a></li>
+<li><a href="/wiki/European_Islam" title="European Islam">European Islam</a></li>
+<li><a href="/wiki/Nation_of_Islam" title="Nation of Islam">Nation of Islam</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/B%C3%A1bism" title="Bábism">Bábism</a>
+<ul>
+<li><a href="/wiki/Azali" title="Azali">Azáli Bábism</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá'í Faith">Bahá'í Faith</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Druze" title="Druze">Druze</a></li>
+<li><a href="/wiki/Mandaeism" title="Mandaeism">Mandaeism</a></li>
+<li><a href="/wiki/Rastafari" title="Rastafari">Rastafari</a></li>
+<li><a href="/wiki/Samaritanism" class="mw-redirect" title="Samaritanism">Samaritanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Dharmic_religions" class="mw-redirect" title="Dharmic religions">Dharmic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnavism</a></li>
+<li><a href="/wiki/Shaktism" title="Shaktism">Shaktism</a></li>
+<li><a href="/wiki/Shaivism" title="Shaivism">Shaivism</a></li>
+<li><a href="/wiki/Ayyavazhi" title="Ayyavazhi">Ayyavazhi</a></li>
+<li><a href="/wiki/Smarta_Tradition" title="Smarta Tradition">Smartism</a></li>
+<li><a href="/wiki/Balinese_Hinduism" title="Balinese Hinduism">Balinese</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Buddhism" title="Buddhism">Buddhism</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mahayana" title="Mahayana">Mahayana</a>
+<ul>
+<li><a href="/wiki/Chan_Buddhism" title="Chan Buddhism">Chan</a>
+<ul>
+<li><a href="/wiki/Zen" title="Zen">Zen</a></li>
+<li><a href="/wiki/Vietnamese_Thi%E1%BB%81n" title="Vietnamese Thiền">Thiền</a></li>
+<li><a href="/wiki/Korean_Seon" title="Korean Seon">Seon</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pure_Land_Buddhism" title="Pure Land Buddhism">Pure Land</a></li>
+<li><a href="/wiki/Nichiren_Buddhism" title="Nichiren Buddhism">Nichiren</a></li>
+<li><a href="/wiki/Madhyamaka" title="Madhyamaka">Madhyamaka</a></li>
+<li><a href="/wiki/Tiantai" title="Tiantai">Tiantai</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Theravada" title="Theravada">Theravada</a></li>
+<li><a href="/wiki/Vajrayana" title="Vajrayana">Vajrayana</a>
+<ul>
+<li><a href="/wiki/Tibetan_Buddhism" title="Tibetan Buddhism">Tibetan</a></li>
+<li><a href="/wiki/Shingon_Buddhism" title="Shingon Buddhism">Shingon</a></li>
+<li><a href="/wiki/Newar_Buddhism" title="Newar Buddhism">Newar</a></li>
+<li><a href="/wiki/Bon" title="Bon">Bon</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Navayana" title="Navayana">Navayana</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jainism" title="Jainism">Jainism</a>
+<ul>
+<li><a href="/wiki/Digambara" title="Digambara">Digambara</a></li>
+<li><a href="/wiki/%C5%9Av%C4%93t%C4%81mbara" title="Śvētāmbara">Śvētāmbara</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sikhism" title="Sikhism">Sikhism</a></li>
+<li><a href="/wiki/Gurung_shamanism" title="Gurung shamanism">Gurung shamanism</a></li>
+<li><a href="/wiki/Tamang_people#Religion" title="Tamang people">Bon Lamaism</a></li>
+<li><a href="/wiki/Kirant_Mundhum" title="Kirant Mundhum">Kirant Mundhum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Iranian</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Manichaeism" title="Manichaeism">Manichaeism</a></li>
+<li><a href="/wiki/Yazd%C3%A2nism" title="Yazdânism">Yazdânism</a>
+<ul>
+<li><a href="/wiki/Yazidis" title="Yazidis">Yazidism</a></li>
+<li><a href="/wiki/Ishikism" title="Ishikism">Ishikism</a></li>
+<li><a class="mw-selflink selflink">Ali-Illahism</a></li>
+<li><a href="/wiki/Yarsanism" title="Yarsanism">Yarsanism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">European</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Armenian_neopaganism" title="Armenian neopaganism">Armenian</a></li>
+<li><a href="/wiki/Baltic_neopaganism" title="Baltic neopaganism">Baltic</a>
+<ul>
+<li><a href="/wiki/Dievtur%C4%ABba" title="Dievturība">Dievturība</a></li>
+<li><a href="/wiki/Druwi" title="Druwi">Druwi</a></li>
+<li><a href="/wiki/Romuva_(religion)" title="Romuva (religion)">Romuva</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Caucasian_neopaganism" title="Caucasian neopaganism">Caucasian</a></li>
+<li><a href="/wiki/Celtic_neopaganism" title="Celtic neopaganism">Celtic</a>
+<ul>
+<li><a href="/wiki/Neo-Druidism" title="Neo-Druidism">Druidry</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heathenry_(new_religious_movement)" title="Heathenry (new religious movement)">Germanic</a></li>
+<li><a href="/wiki/Hellenism_(religion)" title="Hellenism (religion)">Hellenism</a></li>
+<li><a href="/wiki/Italo-Roman_neopaganism" class="mw-redirect" title="Italo-Roman neopaganism">Italo-Roman</a></li>
+<li><a href="/wiki/Zalmoxianism" title="Zalmoxianism">Romanian</a></li>
+<li><a href="/wiki/Slavic_neopaganism" title="Slavic neopaganism">Slavic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Uralic</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Finnish_neopaganism" title="Finnish neopaganism">Finnish</a></li>
+<li><a href="/wiki/Hungarian_neopaganism" title="Hungarian neopaganism">Hungarian</a></li>
+<li><a href="/wiki/Uralic_neopaganism" title="Uralic neopaganism">Uralic</a>
+<ul>
+<li><a href="/wiki/Mari_native_religion" title="Mari native religion">Mari</a></li>
+<li><a href="/wiki/Mordvin_native_religion" title="Mordvin native religion">Mordvin</a></li>
+<li><a href="/wiki/Udmurt_Vos" title="Udmurt Vos">Udmurt</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Central and<br />
+Northern Asian</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burkhanism" title="Burkhanism">Burkhanism</a></li>
+<li><a href="/wiki/Vattisen_Yaly" title="Vattisen Yaly">Chuvash</a></li>
+<li><a href="/wiki/Manchu_shamanism" title="Manchu shamanism">Manchu</a></li>
+<li><a href="/wiki/Mongolian_shamanism" title="Mongolian shamanism">Mongolian</a></li>
+<li><a href="/wiki/Shamanism_in_Siberia" title="Shamanism in Siberia">Siberian</a></li>
+<li><a href="/wiki/Tengrism" title="Tengrism">Tengrism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/East_Asian_religions" title="East Asian religions">East Asian</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Confucianism" title="Confucianism">Confucianism</a></li>
+<li><a href="/wiki/Chinese_ritual_mastery_traditions" title="Chinese ritual mastery traditions">Faism</a></li>
+<li><a href="/wiki/Taoism" title="Taoism">Taoism</a></li>
+<li><a href="/wiki/Luo_teaching" title="Luo teaching">Luoism</a></li>
+<li><a href="/wiki/Neo-Confucianism" title="Neo-Confucianism">Neo-Confucianism</a></li>
+<li><a href="/wiki/Chinese_folk_religion" title="Chinese folk religion">Shenism</a></li>
+<li><a href="/wiki/Chinese_shamanism" title="Chinese shamanism">Wuism</a></li>
+<li><a href="/wiki/Shinto" title="Shinto">Shinto</a></li>
+<li><a href="/wiki/Ryukyuan_religion" title="Ryukyuan religion">Ryukyuan religion</a></li>
+<li><a href="/wiki/Cheondoism" title="Cheondoism">Cheondoism</a></li>
+<li><a href="/wiki/Korean_shamanism" title="Korean shamanism">Muism</a></li>
+<li><a href="/wiki/Jeung_San_Do" title="Jeung San Do">Jeungsanism</a></li>
+<li><a href="/wiki/Benzhuism" title="Benzhuism">Benzhuism</a></li>
+<li><a href="/wiki/Bimoism" title="Bimoism">Bimoism</a></li>
+<li><a href="/wiki/Bon" title="Bon">Bon</a></li>
+<li><a href="/wiki/Dongba" title="Dongba">Dongbaism</a></li>
+<li><a href="/wiki/Miao_folk_religion" title="Miao folk religion">Hmongism</a></li>
+<li><a href="/wiki/Yao_folk_religion" title="Yao folk religion">Meishanism</a></li>
+<li><a href="/wiki/Maitreya_teachings" title="Maitreya teachings">Mileism</a></li>
+<li><a href="/wiki/Mo_(religion)" title="Mo (religion)">Shigongism</a></li>
+<li><a href="/wiki/Yiguandao" title="Yiguandao">Yiguandao</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Southeast Asian</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burmese_folk_religion" title="Burmese folk religion">Burmese</a></li>
+<li><a href="/wiki/Caodaism" title="Caodaism">Caodaism</a></li>
+<li><a href="/wiki/Tai_folk_religion" title="Tai folk religion">Satsana Phi</a></li>
+<li><a href="/wiki/Malaysian_folk_religion" title="Malaysian folk religion">Malaysian</a></li>
+<li><a href="/wiki/Marapu" title="Marapu">Marapu</a> (Sumba)</li>
+<li><a href="/wiki/Aliran_kepercayaan" title="Aliran kepercayaan">Indonesian</a></li>
+<li><a href="/wiki/Kaharingan" title="Kaharingan">Kaharingan</a></li>
+<li><a href="/wiki/H%C3%B2a_H%E1%BA%A3o" title="Hòa Hảo">Hoahaoism</a></li>
+<li><a href="/wiki/Kebatinan" title="Kebatinan">Javanism</a></li>
+<li><a href="/wiki/Philippine_mythology" title="Philippine mythology">Philippine</a></li>
+<li><a href="/wiki/Vietnamese_folk_religion" title="Vietnamese folk religion">Vietnamese</a>
+<ul>
+<li><a href="/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu" title="Đạo Mẫu">Đạo Mẫu</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">African</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Traditional_African_religions" title="Traditional African religions">Traditional</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Akan_religion" title="Akan religion">Akan</a></li>
+<li><a href="/wiki/Kamba_people" title="Kamba people">Akamba</a></li>
+<li><a href="/wiki/Baluba_mythology" title="Baluba mythology">Baluba</a></li>
+<li><a href="/wiki/Bantu_mythology" title="Bantu mythology">Bantu</a></li>
+<li><a href="/wiki/Traditional_Berber_religion" title="Traditional Berber religion">Berber</a></li>
+<li><a href="/wiki/Bushongo_mythology" title="Bushongo mythology">Bushongo</a></li>
+<li><a href="/wiki/Waaq" title="Waaq">Cushitic</a></li>
+<li><a href="/wiki/Dinka_religion" title="Dinka religion">Dinka</a></li>
+<li><a href="/wiki/Efik_mythology" title="Efik mythology">Efik</a></li>
+<li><a href="/wiki/Dahomean_religion" title="Dahomean religion">Fon and Ewe</a></li>
+<li><a href="/wiki/Church_of_the_Guanche_People" title="Church of the Guanche People">Guanche</a></li>
+<li><a href="/wiki/Odinani" title="Odinani">Igbo</a></li>
+<li><a href="/wiki/Isoko_people" class="mw-redirect" title="Isoko people">Isoko</a></li>
+<li><a href="/wiki/Lotuko_mythology" title="Lotuko mythology">Lotuko</a></li>
+<li><a href="/wiki/Lozi_mythology" title="Lozi mythology">Lozi</a></li>
+<li><a href="/wiki/Lugbara_mythology" title="Lugbara mythology">Lugbara</a></li>
+<li><a href="/wiki/Maasai_mythology" title="Maasai mythology">Maasai</a></li>
+<li><a href="/wiki/Mbuti_mythology" title="Mbuti mythology">Mbuti</a></li>
+<li><a href="/wiki/San_religion" title="San religion">San</a></li>
+<li><a href="/wiki/Serer_religion" title="Serer religion">Serer</a></li>
+<li><a href="/wiki/Tumbuka_mythology" title="Tumbuka mythology">Tumbuka</a></li>
+<li><a href="/wiki/Waaq" title="Waaq">Waaq</a></li>
+<li><a href="/wiki/Yoruba_religion" title="Yoruba religion">Yoruba</a></li>
+<li><a href="/wiki/Zulu_people#Religion_and_beliefs" title="Zulu people">Zulu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/Afro-American_religion" title="Afro-American religion">Diasporic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Candombl%C3%A9" title="Candomblé">Candomblé</a></li>
+<li><a href="/wiki/Kumina" title="Kumina">Kumina</a></li>
+<li><a href="/wiki/Obeah" title="Obeah">Obeah</a></li>
+<li><a href="/wiki/Quimbanda" title="Quimbanda">Quimbanda</a></li>
+<li><a href="/wiki/Palo_(religion)" title="Palo (religion)">Palo</a></li>
+<li><a href="/wiki/Santer%C3%ADa" title="Santería">Santería</a></li>
+<li><a href="/wiki/Umbanda" title="Umbanda">Umbanda</a></li>
+<li><a href="/wiki/Haitian_Vodou" title="Haitian Vodou">Vodou</a></li>
+<li><a href="/wiki/Louisiana_Voodoo" title="Louisiana Voodoo">Voodoo</a></li>
+<li><a href="/wiki/Winti" title="Winti">Winti</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other groups</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bathouism" title="Bathouism">Bathouism</a></li>
+<li><a href="/wiki/Mun_(religion)" title="Mun (religion)">Bongthingism</a></li>
+<li><a href="/wiki/Donyi-Polo" title="Donyi-Polo">Donyi-Polo</a></li>
+<li><a href="/wiki/Dravidian_folk_religion" title="Dravidian folk religion">Dravidian</a></li>
+<li><a href="/wiki/Kirant_Mundhum" title="Kirant Mundhum">Kiratism</a></li>
+<li><a href="/wiki/Sanamahism" title="Sanamahism">Sanamahism</a></li>
+<li><a href="/wiki/Sarnaism" title="Sarnaism">Sarnaism</a></li>
+<li><a href="/wiki/Australian_Aboriginal_mythology" title="Australian Aboriginal mythology">Aboriginal Australian</a></li>
+<li><a href="/wiki/Native_American_religion" title="Native American religion">Native American</a></li>
+<li><a href="/wiki/Mesoamerican_religion" title="Mesoamerican religion">Mesoamerican</a></li>
+<li><a href="/wiki/Hawaiian_religion" title="Hawaiian religion">Hawaiian</a></li>
+<li><a href="/wiki/Polynesian_narrative" title="Polynesian narrative">Polynesian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_new_religious_movements" title="List of new religious movements">Recent</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discordianism" title="Discordianism">Discordianism</a></li>
+<li><a href="/wiki/Pastafarianism" class="mw-redirect" title="Pastafarianism">Pastafarianism</a></li>
+<li><a href="/wiki/Eckankar" title="Eckankar">Eckankar</a></li>
+<li><a href="/wiki/Jediism" title="Jediism">Jediism</a></li>
+<li><a href="/wiki/New_Age" title="New Age">New Age</a></li>
+<li><a href="/wiki/New_Thought" title="New Thought">New Thought</a></li>
+<li><a href="/wiki/Ra%C3%ABlism" title="Raëlism">Raëlism</a></li>
+<li><a href="/wiki/Satanism" title="Satanism">Satanism</a></li>
+<li><a href="/wiki/Scientology" title="Scientology">Scientology</a></li>
+<li><a href="/wiki/Thelema" title="Thelema">Thelema</a></li>
+<li><a href="/wiki/Unitarian_Universalism" title="Unitarian Universalism">Unitarian Universalism</a></li>
+<li><a href="/wiki/Wicca" title="Wicca">Wicca</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Historical_religions" style="font-size:114%;margin:0 4em"><a href="/wiki/History_of_religions" title="History of religions">Historical religions</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Prehistoric_religion" title="Prehistoric religion">Prehistoric</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Paleolithic_religion" title="Paleolithic religion">Paleolithic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Religions_of_the_ancient_Near_East" title="Religions of the ancient Near East">Near East</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Religion_in_pre-Islamic_Arabia" title="Religion in pre-Islamic Arabia">Arabian</a></li>
+<li><a href="/wiki/Ancient_Egyptian_religion" title="Ancient Egyptian religion">Egyptian</a></li>
+<li><a href="/wiki/Ancient_Mesopotamian_religion" title="Ancient Mesopotamian religion">Mesopotamian</a></li>
+<li><a href="/wiki/Ancient_Semitic_religion" title="Ancient Semitic religion">Semitic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Proto-Indo-European_religion" title="Proto-Indo-European religion">Indo-European</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Asia</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Proto-Indo-Iranian_religion" title="Proto-Indo-Iranian religion">Proto-Indo-Iranian</a></li>
+<li><a href="/wiki/Armenian_mythology" title="Armenian mythology">Armenian</a></li>
+<li><a href="/wiki/Ossetian_mythology" title="Ossetian mythology">Ossetian</a></li>
+<li><a href="/wiki/Historical_Vedic_religion" title="Historical Vedic religion">Vedic</a></li>
+<li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a>
+<ul>
+<li><a href="/wiki/Mithraism" title="Mithraism">Mithraism</a></li>
+<li><a href="/wiki/Zurvanism" title="Zurvanism">Zurvanism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gnosticism" title="Gnosticism">Gnosticism</a>
+<ul>
+<li><a href="/wiki/Manichaeism" title="Manichaeism">Manichaeism</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Europe</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Celtic_polytheism" title="Celtic polytheism">Celtic</a></li>
+<li><a href="/wiki/Germanic_paganism" title="Germanic paganism">Germanic</a>
+<ul>
+<li><a href="/wiki/Anglo-Saxon_paganism" title="Anglo-Saxon paganism">Anglo-Saxon</a></li>
+<li><a href="/wiki/Continental_Germanic_mythology" title="Continental Germanic mythology">Continental</a></li>
+<li><a href="/wiki/Norse_religion" title="Norse religion">Norse</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Greek_mythology" title="Greek mythology">Greek</a>
+<ul>
+<li><a href="/wiki/Gnosticism" title="Gnosticism">Gnosticism</a></li>
+<li><a href="/wiki/Neoplatonism" title="Neoplatonism">Neoplatonism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Manichaeism" title="Manichaeism">Manichaeism</a></li>
+<li><a href="/wiki/Paleo-Balkan_mythology" title="Paleo-Balkan mythology">Balkan</a></li>
+<li><a href="/wiki/Roman_mythology" title="Roman mythology">Roman</a></li>
+<li><a href="/wiki/Slavic_mythology" title="Slavic mythology">Slavic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;">
+<div style="padding:0em 0.25em">----</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Topics" style="font-size:114%;margin:0 4em">Topics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Aspects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apostasy" title="Apostasy">Apostasy</a>&#160;/ <a href="/wiki/Religious_disaffiliation" title="Religious disaffiliation">Disaffiliation</a></li>
+<li><a href="/wiki/Religious_behaviour" title="Religious behaviour">Behaviour</a></li>
+<li><a href="/wiki/Religious_belief" class="mw-redirect" title="Religious belief">Beliefs</a></li>
+<li><a href="/wiki/Clergy" title="Clergy">Clergy</a></li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Conversion</a></li>
+<li><a href="/wiki/Deity" title="Deity">Deities</a></li>
+<li><a href="/wiki/Entheogen" title="Entheogen">Entheogens</a></li>
+<li><a href="/wiki/Ethnic_religion" title="Ethnic religion">Ethnic religion</a></li>
+<li><a href="/wiki/Religious_denomination" title="Religious denomination">Denomination</a></li>
+<li><a href="/wiki/Faith" title="Faith">Faith</a></li>
+<li><a href="/wiki/Fire_worship" title="Fire worship">Fire</a></li>
+<li><a href="/wiki/Folk_religion" title="Folk religion">Folk religion</a></li>
+<li><a href="/wiki/God" title="God">God</a></li>
+<li><a href="/wiki/Meditation" title="Meditation">Meditation</a></li>
+<li><a href="/wiki/Monasticism" title="Monasticism">Monasticism</a>
+<ul>
+<li><a href="/wiki/Monk" title="Monk">monk</a></li>
+<li><a href="/wiki/Nun" title="Nun">nun</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mysticism" title="Mysticism">Mysticism</a></li>
+<li><a href="/wiki/Religion_and_mythology" title="Religion and mythology">Mythology</a></li>
+<li><a href="/wiki/Nature_worship" title="Nature worship">Nature</a></li>
+<li><a href="/wiki/Ordination" title="Ordination">Ordination</a></li>
+<li><a href="/wiki/Orthodoxy" title="Orthodoxy">Orthodoxy</a></li>
+<li><a href="/wiki/Orthopraxy" title="Orthopraxy">Orthopraxy</a></li>
+<li><a href="/wiki/Prayer" title="Prayer">Prayer</a></li>
+<li><a href="/wiki/Religious_experience" title="Religious experience">Religious experience</a></li>
+<li><a href="/wiki/Ritual" title="Ritual">Ritual</a>
+<ul>
+<li><a href="/wiki/Liturgy" title="Liturgy">liturgy</a></li>
+<li><a href="/wiki/Sacrifice" title="Sacrifice">sacrifice</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Spirituality" title="Spirituality">Spirituality</a></li>
+<li><a href="/wiki/Supernatural" title="Supernatural">Supernatural</a></li>
+<li><a href="/wiki/Religious_symbolism" title="Religious symbolism">Symbols</a></li>
+<li><a href="/wiki/Religious_views_on_truth" title="Religious views on truth">Truth</a></li>
+<li><a href="/wiki/Water_and_religion" title="Water and religion">Water</a></li>
+<li><a href="/wiki/Worship" title="Worship">Worship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Theism" title="Theism">Theism</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Animism" title="Animism">Animism</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Dualism" title="Dualism">Dualism</a></li>
+<li><a href="/wiki/Henotheism" title="Henotheism">Henotheism</a></li>
+<li><a href="/wiki/Monotheism" title="Monotheism">Monotheism</a></li>
+<li><a href="/wiki/Nontheism" title="Nontheism">Nontheism</a></li>
+<li><a href="/wiki/Panentheism" title="Panentheism">Panentheism</a></li>
+<li><a href="/wiki/Pantheism" title="Pantheism">Pantheism</a></li>
+<li><a href="/wiki/Polytheism" title="Polytheism">Polytheism</a></li>
+<li><a href="/wiki/Transtheism" title="Transtheism">Transtheism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Religious_studies" title="Religious studies">Religious studies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropology_of_religion" title="Anthropology of religion">Anthropology</a></li>
+<li><a href="/wiki/Cognitive_science_of_religion" title="Cognitive science of religion">Cognitive science</a></li>
+<li><a href="/wiki/Comparative_religion" title="Comparative religion">Comparative</a></li>
+<li><a href="/wiki/Development_of_religion" title="Development of religion">Development</a></li>
+<li><a href="/wiki/Evolutionary_origin_of_religions" title="Evolutionary origin of religions">Evolutionary origin</a></li>
+<li><a href="/wiki/Evolutionary_psychology_of_religion" title="Evolutionary psychology of religion">Evolutionary psychology</a></li>
+<li><a href="/wiki/History_of_religions" title="History of religions">History</a></li>
+<li><a href="/wiki/Philosophy_of_religion" title="Philosophy of religion">Philosophy</a></li>
+<li><a href="/wiki/Neurotheology" title="Neurotheology">Neurotheology</a></li>
+<li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Psychology</a></li>
+<li><a href="/wiki/Sociology_of_religion" title="Sociology of religion">Sociology</a></li>
+<li><a href="/wiki/Theology" title="Theology">Theology</a></li>
+<li><a href="/wiki/Theories_about_religions" title="Theories about religions">Theories</a></li>
+<li><a href="/wiki/Women_and_religion" title="Women and religion">Women</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Category:Religion_and_society" title="Category:Religion and society">Religion and<br />
+society</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Religion_and_agriculture" title="Religion and agriculture">Agriculture</a></li>
+<li><a href="/wiki/Religion_and_business" title="Religion and business">Business</a></li>
+<li><a href="/wiki/Clergy" title="Clergy">Clergy</a>
+<ul>
+<li><a href="/wiki/Monasticism" title="Monasticism">monasticism</a></li>
+<li><a href="/wiki/Ordination" title="Ordination">ordination</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Conversion</a>
+<ul>
+<li><a href="/wiki/Evangelism" title="Evangelism">evangelism</a></li>
+<li><a href="/wiki/Missionary" title="Missionary">missionary</a></li>
+<li><a href="/wiki/Proselytism" title="Proselytism">proselytism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Religious_education" title="Religious education">Education</a></li>
+<li><a href="/wiki/Religious_fanaticism" title="Religious fanaticism">Fanaticism</a></li>
+<li><a href="/wiki/Freedom_of_religion" title="Freedom of religion">Freedom</a>
+<ul>
+<li><a href="/wiki/Religious_pluralism" title="Religious pluralism">pluralism</a></li>
+<li><a href="/wiki/Syncretism" title="Syncretism">syncretism</a></li>
+<li><a href="/wiki/Toleration" title="Toleration">toleration</a></li>
+<li><a href="/wiki/Universalism" title="Universalism">universalism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fundamentalism" title="Fundamentalism">Fundamentalism</a></li>
+<li><a href="/wiki/Growth_of_religion" title="Growth of religion">Growth</a></li>
+<li><a href="/wiki/Religion_and_happiness" class="mw-redirect" title="Religion and happiness">Happiness</a></li>
+<li><a href="/wiki/Homosexuality_and_religion" title="Homosexuality and religion">Homosexuality</a></li>
+<li><a href="/wiki/Minority_religion" title="Minority religion">Minorities</a></li>
+<li><a href="/wiki/National_church" title="National church">National church</a></li>
+<li><a href="/wiki/Importance_of_religion_by_country" title="Importance of religion by country">National religiosity levels</a></li>
+<li><a href="/wiki/Religiocentrism" title="Religiocentrism">Religiocentrism</a></li>
+<li><a href="/wiki/Political_science_of_religion" title="Political science of religion">Political science</a></li>
+<li><a href="/wiki/List_of_religious_populations" title="List of religious populations">Populations</a></li>
+<li><a href="/wiki/Schism" title="Schism">Schism</a></li>
+<li><a href="/wiki/Relationship_between_religion_and_science" title="Relationship between religion and science">Science</a></li>
+<li><a href="/wiki/State_religion" title="State religion">State</a></li>
+<li><a href="/wiki/Theocracy" title="Theocracy">Theocracy</a></li>
+<li><a href="/wiki/Vegetarianism_and_religion" title="Vegetarianism and religion">Vegetarianism</a></li>
+<li><a href="/wiki/Religion_and_video_games" title="Religion and video games">Video games</a></li>
+<li><a href="/wiki/Religious_violence" title="Religious violence">Violence</a>
+<ul>
+<li><a href="/wiki/Religious_persecution" title="Religious persecution">persecution</a></li>
+<li><a href="/wiki/Religious_terrorism" title="Religious terrorism">terrorism</a></li>
+<li><a href="/wiki/Religious_war" title="Religious war">war</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wealth_and_religion" title="Wealth and religion">Wealth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Secularism" title="Secularism">Secularism</a> and<br />
+<a href="/wiki/Irreligion" title="Irreligion">irreligion</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antireligion" title="Antireligion">Antireligion</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Agnosticism" title="Agnosticism">Agnosticism</a></li>
+<li><a href="/wiki/Atheism" title="Atheism">Atheism</a></li>
+<li><a href="/wiki/Criticism_of_religion" title="Criticism of religion">Criticism</a></li>
+<li><a href="/wiki/LaVeyan_Satanism" title="LaVeyan Satanism">LaVeyan Satanism</a></li>
+<li><a href="/wiki/Deconstruction_and_religion" title="Deconstruction and religion">Deconstruction</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic Judaism</a></li>
+<li><a href="/wiki/List_of_countries_by_irreligion" title="List of countries by irreligion">Irreligion by country</a></li>
+<li><a href="/wiki/Objectivism_(Ayn_Rand)" title="Objectivism (Ayn Rand)">Objectivism</a></li>
+<li><a href="/wiki/Secular_humanism" title="Secular humanism">Secular humanism</a></li>
+<li><a href="/wiki/Secular_theology" title="Secular theology">Secular theology</a></li>
+<li><a href="/wiki/Secularization" title="Secularization">Secularization</a></li>
+<li><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">Separation of church and state</a></li>
+<li><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Unaffiliated</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Overviews<br />
+and <a href="/wiki/Category:Religion-related_lists" title="Category:Religion-related lists">lists</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Index_of_religion-related_articles" title="Index of religion-related articles">Index</a></li>
+<li><a href="/wiki/Outline_of_religion" title="Outline of religion">Outline</a></li>
+<li><a href="/wiki/Timeline_of_religion" title="Timeline of religion">Timeline</a></li>
+<li><a href="/wiki/Table_of_prophets_of_Abrahamic_religions" title="Table of prophets of Abrahamic religions">Abrahamic prophets</a></li>
+<li><a href="/wiki/List_of_people_who_have_been_considered_deities" title="List of people who have been considered deities">Deification</a></li>
+<li><a href="/wiki/Lists_of_deities" title="Lists of deities">Deities</a></li>
+<li><a href="/wiki/List_of_founders_of_religious_traditions" title="List of founders of religious traditions">Founders</a></li>
+<li><a href="/wiki/List_of_largest_peaceful_gatherings_in_history" title="List of largest peaceful gatherings in history">Mass gatherings</a></li>
+<li><a href="/wiki/List_of_new_religious_movements" title="List of new religious movements">New religious movements</a></li>
+<li><a href="/wiki/List_of_religious_organizations" title="List of religious organizations">Organizations</a></li>
+<li><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Religions and spiritual traditions</a></li>
+<li><a href="/wiki/List_of_religious_studies_scholars" title="List of religious studies scholars">Scholars</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><a href="/wiki/Category:Religion" title="Category:Religion">Category</a></li>
+<li><a href="/wiki/Portal:Religion" title="Portal:Religion">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20170414102500
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.270 seconds
+Preprocessor visited node count: 1441/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 189577/2097152 bytes
+Template argument size: 21617/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 3.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  198.214      1 -total
+ 34.78%   68.947      1 Template:Reflist
+ 32.63%   64.678      1 Template:Merge_to
+ 24.92%   49.400      1 Template:Religion_topics
+ 24.90%   49.359      5 Template:Cite_book
+ 23.43%   46.440      1 Template:Navbox_with_collapsible_groups
+ 16.26%   32.220      1 Template:Mbox
+ 12.01%   23.811      7 Template:Navbox
+  5.33%   10.557      1 Template:Lang-fa
+  4.94%    9.784      1 Template:DMC
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30197071-0!*!0!!*!4!* and timestamp 20170414102500 and revision id 775201863
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ali-Illahism&amp;oldid=775201863">https://en.wikipedia.org/w/index.php?title=Ali-Illahism&amp;oldid=775201863</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Iranian_religions" title="Category:Iranian religions">Iranian religions</a></li><li><a href="/wiki/Category:Kurdish_culture" title="Category:Kurdish culture">Kurdish culture</a></li><li><a href="/wiki/Category:Religion_in_Kurdistan" title="Category:Religion in Kurdistan">Religion in Kurdistan</a></li><li><a href="/wiki/Category:Monotheistic_religions" title="Category:Monotheistic religions">Monotheistic religions</a></li><li><a href="/wiki/Category:Religion_in_Iran" title="Category:Religion in Iran">Religion in Iran</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_merged_from_March_2017" title="Category:Articles to be merged from March 2017">Articles to be merged from March 2017</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li><li><a href="/wiki/Category:Articles_containing_Persian-language_text" title="Category:Articles containing Persian-language text">Articles containing Persian-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ali-Illahism" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ali-Illahism" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ali-Illahism"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ali-Illahism"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ali-Illahism" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ali-Illahism&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ali-Illahism&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ali-Illahism" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ali-Illahism" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ali-Illahism&amp;oldid=775201863" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ali-Illahism&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4724500" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ali-Illahism&amp;id=775201863" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ali-Illahism">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ali-Illahism&amp;returnto=Ali-Illahism&amp;oldid=775201863&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ali-Illahism&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ali-%C4%B0lahilik" title="Ali-İlahilik – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4724500#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 April 2017, at 10:14.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ali-Illahism&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.270","ppvisitednodes":{"value":1441,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":189577,"limit":2097152},"templateargumentsize":{"value":21617,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  198.214      1 -total"," 34.78%   68.947      1 Template:Reflist"," 32.63%   64.678      1 Template:Merge_to"," 24.92%   49.400      1 Template:Religion_topics"," 24.90%   49.359      5 Template:Cite_book"," 23.43%   46.440      1 Template:Navbox_with_collapsible_groups"," 16.26%   32.220      1 Template:Mbox"," 12.01%   23.811      7 Template:Navbox","  5.33%   10.557      1 Template:Lang-fa","  4.94%    9.784      1 Template:DMC"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":3871320,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20170414102500","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw2113"});});</script>
+	</body>
+</html>

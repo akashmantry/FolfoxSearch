@@ -1,0 +1,621 @@
+https://en.wikipedia.org/wiki/Amedeo_Nazzari
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Amedeo Nazzari - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Amedeo_Nazzari","wgTitle":"Amedeo Nazzari","wgCurRevisionId":761174901,"wgRevisionId":761174901,"wgArticleId":15058584,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from January 2016","Articles with hCards","Articles needing additional references from December 2015","All articles needing additional references","NPOV disputes from December 2015","All NPOV disputes","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with SBN identifiers","1907 births","1979 deaths","Italian male stage actors","Italian male film actors","People from Cagliari","Nastro d'Argento winners","20th-century Italian male actors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Amedeo_Nazzari","wgRelevantArticleId":15058584,"wgRequestId":"WPZEbQpAADkAAIODdxIAAACR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q460648","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/41/Amedeo_Nazzari_and_Edy_Vessel_1959.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Amedeo_Nazzari"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Amedeo_Nazzari"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Amedeo_Nazzari rootpage-Amedeo_Nazzari skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Amedeo Nazzari</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Amedeo Nazzari</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Amedeo_Nazzari_and_Edy_Vessel_1959.jpg" class="image"><img alt="Amedeo Nazzari and Edy Vessel 1959.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Amedeo_Nazzari_and_Edy_Vessel_1959.jpg/260px-Amedeo_Nazzari_and_Edy_Vessel_1959.jpg" width="260" height="213" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Amedeo_Nazzari_and_Edy_Vessel_1959.jpg/390px-Amedeo_Nazzari_and_Edy_Vessel_1959.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Amedeo_Nazzari_and_Edy_Vessel_1959.jpg/520px-Amedeo_Nazzari_and_Edy_Vessel_1959.jpg 2x" data-file-width="694" data-file-height="568" /></a>
+<div>Amedeo Nazzari (left) and <a href="/wiki/Edy_Vessel" title="Edy Vessel">Edy Vessel</a> in 1959</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span class="nickname">Amedeo Carlo Leone Buffa</span><br />
+<span style="display:none">(<span class="bday">1907-12-10</span>)</span>10 December 1907<br />
+<span class="birthplace"><a href="/wiki/Cagliari" title="Cagliari">Cagliari</a>, Italy</span></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>5 November 1979<span style="display:none">(<span class="dday deathdate">1979-11-05</span>)</span> (aged&#160;71)<br />
+<span class="deathplace">Rome, Italy</span></td>
+</tr>
+<tr>
+<th scope="row">Years&#160;active</th>
+<td>1936–76</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td>Irene Genna (1957–79; his death)</td>
+</tr>
+</table>
+<p><b>Amedeo Nazzari</b> (10 December 1907 in <a href="/wiki/Cagliari" title="Cagliari">Cagliari</a> – 5 November 1979) was an Italian actor. Nazzari was one of the leading figures of Italian classic cinema, often considered a local variant of the Australian-American star <a href="/wiki/Errol_Flynn" title="Errol Flynn">Errol Flynn</a>. Although he emerged as a star during the <a href="/wiki/Fascist_era" class="mw-redirect" title="Fascist era">Fascist era</a>, Nazzari's popularity continued well into the post-war years.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_career"><span class="tocnumber">1</span> <span class="toctext">Early career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Stardom"><span class="tocnumber">2</span> <span class="toctext">Stardom</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Later_career"><span class="tocnumber">3</span> <span class="toctext">Later career</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Awards"><span class="tocnumber">4</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Selected_filmography"><span class="tocnumber">5</span> <span class="toctext">Selected filmography</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Bibliography"><span class="tocnumber">7</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_career">Early career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit&amp;section=1" title="Edit section: Early career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Amedeo Nazzari was born as <b>Amedeo Carlo Leone Buffa</b> in <a href="/wiki/Cagliari" title="Cagliari">Cagliari</a>, Sardinia in 1907 and he later adopted as his professional name the name of his maternal grandfather, Amedeo Nazzari, a person who had been the <a href="/w/index.php?title=President_of_the_Court_of_Appeal_of&amp;action=edit&amp;redlink=1" class="new" title="President of the Court of Appeal of (page does not exist)">President of the Court of Appeal of</a> <a href="/wiki/Vicenza" title="Vicenza">Vicenza</a> in Venetia and later took the same position in Cagliari. Although Salvatore Amedeo eventually moved to Rome, he always retained a slight trace of his native Sardinian accent.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> While Nazzari was keen on gaining film contracts much of his early experience was in the theatre. He entered a contest organised by <a href="/wiki/Twentieth_Century_Fox" class="mw-redirect" title="Twentieth Century Fox">Twentieth Century Fox</a> to find an Italian actor to fill the boots of the recently deceased screen star <a href="/wiki/Rudolph_Valentino" title="Rudolph Valentino">Rudolph Valentino</a>, but lost out to <a href="/wiki/Alberto_Rabagliati" title="Alberto Rabagliati">Alberto Rabagliati</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He was rejected after <a href="/wiki/Screen_test" title="Screen test">screen tests</a> by Italian professionals, who found him too tall, thin and thought he had a too gloomy expression.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>Nazzari made his debut in <i><a href="/wiki/Ginevra_degli_Almieri" title="Ginevra degli Almieri">Ginevra degli Almieri</a></i> (1935), following a recommendation from <a href="/wiki/Elsa_Merlini" title="Elsa Merlini">Elsa Merlini</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> His first read role came with the 1936 film <i><a href="/wiki/Cavalry_(1936_Italian_film)" title="Cavalry (1936 Italian film)">Cavalry</a></i>, and he followed it up with <i><a href="/wiki/The_Castiglioni_Brothers" title="The Castiglioni Brothers">The Castiglioni Brothers</a></i> (1937). His breakthrough came with the 1938 film <i><a href="/wiki/Luciano_Serra,_Pilot" title="Luciano Serra, Pilot">Luciano Serra, Pilot</a></i> (1938) where he played a <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a> veteran who returns to fight for Italy during the <a href="/wiki/Second_Italo%E2%80%93Ethiopian_War" class="mw-redirect" title="Second Italo–Ethiopian War">Abyssinian War</a>. Nazzari was transformed into a <a href="/wiki/Matinee_idol" class="mw-redirect" title="Matinee idol">matinee idol</a>, the most bankable star of Italian cinema.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Following the film, Nazzari was invited to join the <a href="/wiki/Fascist_Party" class="mw-redirect" title="Fascist Party">Fascist Party</a> by <a href="/wiki/Benito_Mussolini" title="Benito Mussolini">Benito Mussolini</a>, but declined saying "Thank You Duce! I would prefer not to concern myself with politics, occupied as I am with more pressing artistic commitments".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Stardom">Stardom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit&amp;section=2" title="Edit section: Stardom">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Amedeo_Nazzari&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-POV" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Unbalanced scales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" data-file-width="400" data-file-height="354" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">The <b><a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutrality</a> of this article is <a href="/wiki/Wikipedia:NPOV_dispute" title="Wikipedia:NPOV dispute">disputed</a></b>. <span class="hide-when-compact">Relevant discussion may be found on the <a href="/wiki/Talk:Amedeo_Nazzari#.23" title="Talk:Amedeo Nazzari">talk page</a>. Please do not remove this message until <a href="/wiki/Template:POV#When_to_remove" title="Template:POV">conditions to do so are met</a>.</span> <small><i>(December 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>Despite declining to join the party Nazzari, along with a handful of other actor such as <a href="/wiki/Fosco_Giachetti" title="Fosco Giachetti">Fosco Giachetti</a>, was considered the model of a Male Hero. Most of his film roles from this point present him as a <a href="/wiki/Masculine" class="mw-redirect" title="Masculine">masculine</a> (often military) figure. His emergence as a star coincided with a major drive by the Italian government to rebuild the country's film industry which had declined since its heyday in the <a href="/wiki/Silent_era" class="mw-redirect" title="Silent era">silent era</a>.</p>
+<p>This policy involved large-scale government funding of films and the construction of the massive <a href="/wiki/Cinecitt%C3%A0" title="Cinecittà">Cinecittà</a> studio complex in Rome. The number of films produced each year climbed rapidly, with Nazarri a particularly prolific actor (making six films in 1939 and eight in 1941).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> During the era he appeared opposite most of the leading Italian actresses including <a href="/wiki/Alida_Valli" title="Alida Valli">Alida Valli</a>, <a href="/wiki/Lilia_Silvi" title="Lilia Silvi">Lilia Silvi</a>, <a href="/wiki/Luisa_Ferida" title="Luisa Ferida">Luisa Ferida</a>, <a href="/wiki/Mariella_Lotti" title="Mariella Lotti">Mariella Lotti</a>, <a href="/wiki/Assia_Noris" title="Assia Noris">Assia Noris</a>, <a href="/wiki/Vera_Carmi" title="Vera Carmi">Vera Carmi</a> and <a href="/wiki/Clara_Calamai" title="Clara Calamai">Clara Calamai</a>, often more than once.</p>
+<p>Nazzari was almost always cast as a straightforward hero, and he closely protected his public persona to avoid any negative roles. An exception was the historical comedy-drama film <i><a href="/wiki/The_Jester%27s_Supper" class="mw-redirect" title="The Jester's Supper">The Jester's Supper</a></i> (1942) in which he plays a loutish figure. Nazzari made four films with <a href="/wiki/Alida_Valli" title="Alida Valli">Alida Valli</a>, including <i><a href="/wiki/Unjustified_Absence" title="Unjustified Absence">Unjustified Absence</a></i> (1939).</p>
+<p>Following Italy's entry into the <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World War</a> in 1940, he combined romances and comedies, with occasional more propagandistic productions. Amongst the more political was <i><a href="/wiki/Bengasi_(film)" title="Bengasi (film)">Bengasi</a></i> (1942), an anti-British war film set in <a href="/wiki/Libya" title="Libya">Libya</a>. Nazzari portrays an Italian patriot who masquerades as a collaborator with the British occupiers of <a href="/wiki/Bengazi" class="mw-redirect" title="Bengazi">Bengazi</a> in order to steal their battle plans. It was the only time he featured alongside the other great male star of the era, Fosco Giachetti.</p>
+<h2><span class="mw-headline" id="Later_career">Later career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit&amp;section=3" title="Edit section: Later career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Amedeo_Nazzari_Il_brigante_musolino.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Amedeo_Nazzari_Il_brigante_musolino.jpg/220px-Amedeo_Nazzari_Il_brigante_musolino.jpg" width="220" height="187" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Amedeo_Nazzari_Il_brigante_musolino.jpg/330px-Amedeo_Nazzari_Il_brigante_musolino.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Amedeo_Nazzari_Il_brigante_musolino.jpg/440px-Amedeo_Nazzari_Il_brigante_musolino.jpg 2x" data-file-width="1776" data-file-height="1507" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Amedeo_Nazzari_Il_brigante_musolino.jpg" class="internal" title="Enlarge"></a></div>
+Nazzari in the 1950 film <i><a href="/wiki/Il_Brigante_Musolino" title="Il Brigante Musolino">Il Brigante Musolino</a></i></div>
+</div>
+</div>
+<p>Star of Italian cinema during the 40's and 50's. He made several melodramas with <a href="/wiki/Raffaello_Matarazzo" title="Raffaello Matarazzo">Raffaello Matarazzo</a>, such as <i><a href="/wiki/Catene_(1949_film)" class="mw-redirect" title="Catene (1949 film)">Catene</a></i> in 1949. Nazzari acts himself in <a href="/wiki/Federico_Fellini" title="Federico Fellini">Federico Fellini</a>'s <a href="/wiki/Nights_of_Cabiria" title="Nights of Cabiria">Nights of Cabiria</a>.</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit&amp;section=4" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/David_di_Donatello" title="David di Donatello">David di Donatello</a> Special David, For a life dedicated to cinema with passionate professionality and extraordinary success.</li>
+<li><a href="/wiki/Venice_Film_Festival" title="Venice Film Festival">Venice Film Festival</a> Best Actor in the Year of Count Volpi's Concession for <i>Caravaggio, il pittore maledetto</i>, 1941</li>
+<li><a href="/wiki/Nastro_d%27Argento" title="Nastro d'Argento">Nastro d'Argento</a> <a href="/wiki/Nastro_d%27Argento_for_Best_Actor" title="Nastro d'Argento for Best Actor">Best Actor</a> for <i><a href="/wiki/Il_bandito" class="mw-redirect" title="Il bandito">Il bandito</a></i>, 1947</li>
+</ul>
+<h2><span class="mw-headline" id="Selected_filmography">Selected filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit&amp;section=5" title="Edit section: Selected filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><i><a href="/wiki/Cavalry_(1936_Italian_film)" title="Cavalry (1936 Italian film)">Cavalry</a></i> (1936) as Umberto Solaro</li>
+<li><i><a href="/wiki/Ginevra_degli_Almieri" title="Ginevra degli Almieri">Ginevra degli Almieri</a></i> (1936) as Antonio Rondinelli</li>
+<li><i>La fossa degli angeli</i> (1937) as Pietro</li>
+<li><i><a href="/wiki/The_Castiglioni_Brothers" title="The Castiglioni Brothers">The Castiglioni Brothers</a></i> (1937) as Fulvio Castiglioni</li>
+<li><i>The Count of Brechard</i> (1938) as Francesco di Bréchard</li>
+<li><i><a href="/wiki/Luciano_Serra,_Pilot" title="Luciano Serra, Pilot">Luciano Serra, Pilot</a></i> (1938) as Luciano Serra</li>
+<li><i>Fuochi d'artificio</i> (1938) as Gerardo di Jersay</li>
+<li><i>La casa del peccato</i> (1938) as Giulio</li>
+<li><i>La grande luce</i> (1939) as Rocco Moretti</li>
+<li><i><a href="/wiki/Unjustified_Absence" title="Unjustified Absence">Unjustified Absence</a></i> (1939) as Il dottore Carlo Cristiani</li>
+<li><i><a href="/wiki/Cose_dell%27altro_mondo" class="mw-redirect" title="Cose dell'altro mondo">Cose dell'altro mondo</a></i> (1939) as Jack Morison / L'ispettore generale Garner</li>
+<li><i>La notte delle beffe</i> (1939) as Capatosta</li>
+<li><i>È sbarcato un marinaio</i> (1940) as Gianni / Hans</li>
+<li><i>Centomila dollari</i> (1940) as Woods</li>
+<li><i>Oltre l'amore</i> (1940) as Pietro Mirilli</li>
+<li><i>Dopo divorzieremo</i> (1940) as Phil Gilder</li>
+<li><i>Scarpe grosse</i> (1940) as Stefano Di Marco</li>
+<li><i>Yó soy mi rival</i> (1940) as Pietro Lanfranchi</li>
+<li><i>L'uomo del romanzo</i> (1940) as Pietro Lanfranchi</li>
+<li><i><a href="/wiki/Caravaggio_(1941_film)" title="Caravaggio (1941 film)">Caravaggio</a></i> (1941) as Michelangelo Merisi, il "Caravaggio"</li>
+<li><i>I mariti</i> (1941) as Fabio Regoli</li>
+<li><i>Scampolo</i> (1941) as Tito Sacchi</li>
+<li><i>Il cavaliere senza nome</i> (1941) as Bernardino Visconti</li>
+<li><i>Villa da vendere</i> (1941) as Franco Gádori</li>
+<li><i>L'ultimo ballo</i> (1941) as Il professore Stefano Boronkay</li>
+<li><i>Sancta Maria</i> (1942) as Paolo Wronski</li>
+<li><i><a href="/wiki/The_Jester%27s_Supper_(film)" title="The Jester's Supper (film)">The Jester's Supper</a></i> (1942) as Neri Chiaramontesi</li>
+<li><i><a href="/wiki/Bengasi_(film)" title="Bengasi (film)">Bengasi</a></i> (1942) as Filippo Colleoni</li>
+<li><i><a href="/wiki/Sleeping_Beauty_(1942_film)" title="Sleeping Beauty (1942 film)">Sleeping Beauty</a></i> (1942) as Salvatore detto 'Il Nero della solfara'</li>
+<li><i>Fedora</i> (1942) as Loris Ipanov / Ivan Petrovic</li>
+<li><i>La bisbetica domata</i> (1942) as Petruccio</li>
+<li><i>Romanzo di un giovane povero</i> (1942) as Massimo Doriot</li>
+<li><i>Giorni felici</i> (1942) as Michele</li>
+<li><i>Quelli della montagna</i> (1943) as Il tenente Andrea Fontana</li>
+<li><i>Harlem</i> (1943) as Amedeo Rossi</li>
+<li><i>Apparizione</i> (1943) as Amedeo Nazzari</li>
+<li><i>Grazia</i> (1963)</li>
+<li><i>La donna della montagna</i> (1944) as Rodolfo Morigi</li>
+<li><i><a href="/wiki/The_Ten_Commandments_(1945_film)" title="The Ten Commandments (1945 film)">The Ten Commandments</a></i> (1945) (segment "Non desiderare la donna d'altri")</li>
+<li><i><a href="/wiki/Un_giorno_nella_vita" title="Un giorno nella vita">Un giorno nella vita</a></i> (1946) as Captain De Palma</li>
+<li><i><a href="/wiki/Il_bandito" class="mw-redirect" title="Il bandito">Il bandito</a></i> (1946) as Ernesto</li>
+<li><i>Malacarne</i> (1946) as Zù Bastiano</li>
+<li><i>Il cavaliere del sogno</i> (1947) as Gaetano Donizetti</li>
+<li><i><a href="/wiki/When_the_Angels_Sleep" title="When the Angels Sleep">When the Angels Sleep</a></i> (1947) as Blin</li>
+<li><i>Fatalità</i> (1947) as Renato Salesi</li>
+<li><i><a href="/wiki/The_Captain%27s_Daughter_(film)" title="The Captain's Daughter (film)">The Captain's Daughter</a></i> (1947) as Pugaciov, il tsar Piotr III°</li>
+<li><i><a href="/wiki/Unexpected_Conflict" title="Unexpected Conflict">Unexpected Conflict</a></i> (1948) as Damian, the butler</li>
+<li><i>Legge di sangue</i> (1948)</li>
+<li><i>Don Juan de Serrallonga</i> (1949) as Don Juan de Serrallonga</li>
+<li><i>Romanticismo</i> (1949) as Vitaliano Lamberti</li>
+<li><i>L'Invasore</i> (1949) as Il conte Carlo di Valfreda</li>
+<li><i><a href="/wiki/The_Wolf_of_the_Sila" title="The Wolf of the Sila">The Wolf of the Sila</a></i> (1949) as Rocco Barra</li>
+<li><i>Marmolada</i> (1950)</li>
+<li><i><a href="/wiki/Torment_(1950_Italian_film)" title="Torment (1950 Italian film)">Torment</a></i> (1950) as Carlo Guarnieri</li>
+<li><i><a href="/wiki/Chains_(1949_film)" title="Chains (1949 film)">Chains</a></i> (1950) as Guglielmo Aniello</li>
+<li><i><a href="/wiki/Il_vedovo_allegro" title="Il vedovo allegro">Il vedovo allegro</a></i> (1950) as Il professore De Carlo</li>
+<li><i><a href="/wiki/Alina_(film)" title="Alina (film)">Alina</a></i> (1950) as Giovanni</li>
+<li><i><a href="/wiki/Barrier_to_the_North" title="Barrier to the North">Barrier to the North</a></i> (1950) as Major Mauri</li>
+<li><i><a href="/wiki/Donne_e_briganti" title="Donne e briganti">Donne e briganti</a></i> (1950) as Michele Pezza detto 'Fra Diavolo'</li>
+<li><i><a href="/wiki/Il_Brigante_Musolino" title="Il Brigante Musolino">Il Brigante Musolino</a></i> (1950) as Beppe Musolino</li>
+<li><i><a href="/wiki/Lebbra_bianca" title="Lebbra bianca">Lebbra bianca</a></i> (1951) as Francesco Leverrier, ispettore di polizia</li>
+<li><i><a href="/wiki/Double_Cross_(1951_film)" title="Double Cross (1951 film)">Double Cross</a></i> (1951) as Pietro Vanzetti</li>
+<li><i><a href="/wiki/Last_Meeting" title="Last Meeting">Last Meeting</a></i> (1951) as Piero Castelli</li>
+<li><i><a href="/wiki/Nobody%27s_Children_(1951_film)" title="Nobody's Children (1951 film)">Nobody's Children</a></i> (1951) as Guido Canali</li>
+<li><i><a href="/wiki/Volver_a_la_vida" title="Volver a la vida">Volver a la vida</a></i> (1951)</li>
+<li><i>Amori e veleni</i> (1952) as Franco Santinelli</li>
+<li><i><a href="/wiki/We_Are_All_Murderers" title="We Are All Murderers">We Are All Murderers</a></i> (1952) as Docteur Detouche (version italienne)</li>
+<li><i><a href="/wiki/Sensualit%C3%A0" class="mw-redirect" title="Sensualità">Sensualità</a></i> (1952) as Riccardo Sartori</li>
+<li><i><a href="/wiki/Processo_alla_citt%C3%A0" class="mw-redirect" title="Processo alla città">Processo alla città</a></i> (1952) as Prosecutor Antonio Spicacci</li>
+<li><i><a href="/wiki/The_Bandit_of_Tacca_Del_Lupo" title="The Bandit of Tacca Del Lupo">The Bandit of Tacca Del Lupo</a></i> (1952) as Capt. Giordani</li>
+<li><i><a href="/wiki/Altri_tempi_(1952_film)" class="mw-redirect" title="Altri tempi (1952 film)">Altri tempi</a></i> (1952) as Andrea Fabbri (segment "La morsa")</li>
+<li><i><a href="/wiki/The_Flame_(1952_film)" title="The Flame (1952 film)">The Flame</a></i> (1952) as Colonel Felt</li>
+<li><i><a href="/wiki/Who_is_Without_Sin" class="mw-redirect" title="Who is Without Sin">Who is Without Sin</a></i> (1952) as Stefano Brunot</li>
+<li><i><a href="/wiki/Il_mondo_le_condanna" class="mw-redirect" title="Il mondo le condanna">Il mondo le condanna</a></i> (1953) as Paolo Martelli</li>
+<li><i><a href="/wiki/Un_marito_per_Anna_Zaccheo" class="mw-redirect" title="Un marito per Anna Zaccheo">Un marito per Anna Zaccheo</a></i> (1953) as Il dottor Illuminato</li>
+<li><i><a href="/wiki/I_Always_Loved_You" title="I Always Loved You">I Always Loved You</a></i> (1953) as Massimo</li>
+<li><i><a href="/wiki/Piet%C3%A0_per_chi_cade" title="Pietà per chi cade">Pietà per chi cade</a></i> (1954) as Carlo Savelli</li>
+<li><i><a href="/wiki/Torna!" title="Torna!">Torna!</a></i> (1954) - Roberto Varesi</li>
+<li><i>Les Révoltés de Lomanach</i> (1954) as Jacques Barnaud</li>
+<li><i><a href="/wiki/Appassionatamente" title="Appassionatamente">Appassionatamente</a></i> (1954) as Andrea Morandi</li>
+<li><i><a href="/wiki/Proibito" title="Proibito">Proibito</a></i> (1954) as Costantino Corraine</li>
+<li><i><a href="/wiki/The_White_Angel_(1955_film)" title="The White Angel (1955 film)">The White Angel</a></i> (1955) as L'ingegnere Guido Carani</li>
+<li><i><a href="/wiki/L%27ultimo_amante" title="L'ultimo amante">L'ultimo amante</a></i> (1955) as Cesare Monti</li>
+<li><i><a href="/wiki/The_Intruder_(1956_film)" title="The Intruder (1956 film)">The Intruder</a></i> (1956) as Carlo Conti</li>
+<li><i><a href="/wiki/Nights_of_Cabiria" title="Nights of Cabiria">Nights of Cabiria</a></i> (1957) as Alberto Lazzari</li>
+<li><i><a href="/wiki/Le_notti_di_Cabiria" class="mw-redirect" title="Le notti di Cabiria">Le notti di Cabiria</a></i> (1957) as Alberto Lazzari</li>
+<li><i>La puerta abierta</i> (1957) as Michel de Caroli</li>
+<li><i><a href="/wiki/Anna_di_Brooklyn" class="mw-redirect" title="Anna di Brooklyn">Anna di Brooklyn</a></i> (1958) as Ciccone</li>
+<li><i><a href="/wiki/Il_cielo_brucia" class="mw-redirect" title="Il cielo brucia">Il cielo brucia</a></i> (1958) as Carlo Casati</li>
+<li><i><a href="/wiki/Melancholic_Autumn" title="Melancholic Autumn">Melancholic Autumn</a></i> (1958) as Andrea, capitano del mercantile</li>
+<li><i><a href="/wiki/La_Maja_desnuda" class="mw-redirect" title="La Maja desnuda">La Maja desnuda</a></i> (1958) as Prime Minister Manuel Godoy</li>
+<li><i><a href="/wiki/Policarpo_(film)" title="Policarpo (film)">Policarpo</a></i> (1959) as The Carabiniere (uncredited)</li>
+<li><i><a href="/wiki/Il_mondo_dei_miracoli" class="mw-redirect" title="Il mondo dei miracoli">Il mondo dei miracoli</a></i> (1959) as Il presentatore alla conferenza stampa</li>
+<li><i><a href="/wiki/Labyrinth_(1959_film)" title="Labyrinth (1959 film)">Labyrinth</a></i> (1959) as Professor De Lattre</li>
+<li><i>Carmen la de Ronda</i> (1959) as Coronel</li>
+<li><i><a href="/wiki/Il_raccomandato_di_ferro" title="Il raccomandato di ferro">Il raccomandato di ferro</a></i> (1959) as The State Secretary</li>
+<li><i><a href="/wiki/Carthage_in_Flames" title="Carthage in Flames">Carthage in Flames</a></i> (1959)</li>
+<li><i>La contessa azzurra</i> (1960) as Salvatore Acierno</li>
+<li><i><a href="/w/index.php?title=Antinea,_l%27amante_della_citt%C3%A0_sepolta&amp;action=edit&amp;redlink=1" class="new" title="Antinea, l'amante della città sepolta (page does not exist)">Antinea, l'amante della città sepolta</a></i> (1961) as Tamal</li>
+<li><i><a href="/wiki/Nefertiti,_Queen_of_the_Nile" title="Nefertiti, Queen of the Nile">Nefertiti, Queen of the Nile</a></i> (1961) as Amenophis IV</li>
+<li><i><a href="/wiki/I_due_nemici" class="mw-redirect" title="I due nemici">I due nemici</a></i> (1961) as Maj. Fornari</li>
+<li><i><a href="/wiki/The_Corsican_Brothers_(1961_film)" title="The Corsican Brothers (1961 film)">The Corsican Brothers</a></i> (1961) as Orlandi</li>
+<li><i>Finden Sie, daß Constanze sich richtig verhält?</i> (1962)</li>
+<li><i>Odio mortale</i> (1962) as Ruiz / André Leboeuf</li>
+<li><i>La leggenda di Fra Diavolo</i> (1962) as General Hugo</li>
+<li><i>Straße der Verheißung</i> (1962) as Herr im seidenen Anzug</li>
+<li><i><a href="/wiki/The_Shortest_Day" title="The Shortest Day">The Shortest Day</a></i> (1963) as Soldato strabico col pallottoliere</li>
+<li><i><a href="/wiki/Frenesia_dell%27estate" class="mw-redirect" title="Frenesia dell'estate">Frenesia dell'estate</a></i> (1964) as Count Marcello della Pietra</li>
+<li><i>Donde tú estés</i> (1964) as Max Branzeri</li>
+<li><i><a href="/wiki/Il_Gaucho" title="Il Gaucho">Il Gaucho</a></i> (1964) as Marucchelli</li>
+<li><i>Le monachine</i> (1965) as Livio Bertana</li>
+<li><i>Delitto d'amore</i> (1966) as François Derroux</li>
+<li><i><a href="/wiki/The_Poppy_Is_Also_a_Flower" title="The Poppy Is Also a Flower">The Poppy Is Also a Flower</a></i> (1966) as Captain Di Nonno</li>
+<li><i><a href="/wiki/Spy_Today,_Die_Tomorrow" title="Spy Today, Die Tomorrow">Spy Today, Die Tomorrow</a></i> (1967) as Bardo Baretti</li>
+<li><i><a href="/wiki/The_Column" title="The Column">The Column</a></i> (1968) as imparatur Traian</li>
+<li><i><a href="/wiki/Le_clan_des_siciliens" title="Le clan des siciliens">Le clan des siciliens</a></i> (1969) as Tony Nicosia</li>
+<li><i><a href="/wiki/The_Valachi_Papers" title="The Valachi Papers">The Valachi Papers</a></i> (1972) as Gaetano Reina</li>
+<li><i><a href="/wiki/A_Matter_of_Time_(film)" title="A Matter of Time (film)">A Matter of Time</a></i> (1976) as Tewfik</li>
+<li><i><a href="/wiki/Derrick_(TV_series)" title="Derrick (TV series)">Derrick</a></i> (season 3, episode 14: "Der Mann aus Portofino"; 1976) as Dr. Pinaldi</li>
+<li><i>Melodrammore</i> (1977) as Himself (final film role)</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Gundle p.194</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Gundle p.186</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Gundle p.186</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Gundle p.191</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Gundle p.184</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Gundle p.185</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Gundle p.191</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit&amp;section=7" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Amedeo Nazzari</i> written by Piero Pruzzo and Enrico Lancia. Collana "Le stelle filanti", Gremese Editore, Roma, 1983.</li>
+<li><i>Amedeo Nazzari. Il divo,l'uomo, l'attore</i> by Simone Casavecchia, with an interview to Evelina Nazzari, <a href="/wiki/Centro_Sperimentale_di_Cinematografia" title="Centro Sperimentale di Cinematografia">Centro Sperimentale di Cinematografia</a> (Roma, 2007) in the 100 Anniversary of the birth of the actor (1907/2007). <a rel="nofollow" class="external text" href="http://www.csc-cinematografia.it">Sito ufficiale del C.S.C.</a></li>
+<li><i>Amedeo Buffa in arte Nazzari written by Maria Evelina Buffa. Collana "Cinema italiano", Edizioni Sabinae, Roma, 2008.</i></li>
+<li>Gundle, Stephen. <i>Mussolini's Dream Factory: Film Stardom in Fascist Italy</i>. Berghahn Books, 2013.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Amedeo_Nazzari" class="extiw" title="commons:Category:Amedeo Nazzari">Amedeo Nazzari</a></b></i>.</td>
+</tr>
+</table>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/41px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/55px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0623443/">Amedeo Nazzari</a> at the <a href="/wiki/IMDb" title="IMDb">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=10302994">Amedeo Nazzari</a> at <a href="/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Nastro_d.27Argento_Award_for_Best_Actor" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #C0C0C0">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nastro_d%27Argento_Best_Actor" title="Template:Nastro d'Argento Best Actor"><abbr title="View this template" style="background: #C0C0C0;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nastro_d%27Argento_Best_Actor" title="Template talk:Nastro d'Argento Best Actor"><abbr title="Discuss this template" style="background: #C0C0C0;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nastro_d%27Argento_Best_Actor&amp;action=edit"><abbr title="Edit this template" style="background: #C0C0C0;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Nastro_d.27Argento_Award_for_Best_Actor" style="font-size:114%;margin:0 4em"><a href="/wiki/Nastro_d%27Argento" title="Nastro d'Argento">Nastro d'Argento</a> Award for <a href="/wiki/Nastro_d%27Argento_for_Best_Actor" title="Nastro d'Argento for Best Actor">Best Actor</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #C0C0C0">1946–1960</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andrea_Checchi" title="Andrea Checchi">Andrea Checchi</a> (1946)</li>
+<li><a class="mw-selflink selflink">Amedeo Nazzari</a> (1947)</li>
+<li><a href="/wiki/Vittorio_De_Sica" title="Vittorio De Sica">Vittorio De Sica</a> (1948)</li>
+<li><a href="/wiki/Massimo_Girotti" title="Massimo Girotti">Massimo Girotti</a> (1949)</li>
+<li><a href="/wiki/Aldo_Fabrizi" title="Aldo Fabrizi">Aldo Fabrizi</a> (1951)</li>
+<li><a href="/wiki/Tot%C3%B2" title="Totò">Totò</a> (1952)</li>
+<li><a href="/wiki/Renato_Rascel" title="Renato Rascel">Renato Rascel</a> (1953)</li>
+<li><a href="/wiki/Nino_Taranto" title="Nino Taranto">Nino Taranto</a> (1954)</li>
+<li><a href="/wiki/Marcello_Mastroianni" title="Marcello Mastroianni">Marcello Mastroianni</a> (1955)</li>
+<li><a href="/wiki/Alberto_Sordi" title="Alberto Sordi">Alberto Sordi</a> (1956)</li>
+<li><a href="/wiki/Marcello_Mastroianni" title="Marcello Mastroianni">Marcello Mastroianni</a> (1958)</li>
+<li><a href="/wiki/Vittorio_Gassman" title="Vittorio Gassman">Vittorio Gassman</a> (1959)</li>
+<li><a href="/wiki/Alberto_Sordi" title="Alberto Sordi">Alberto Sordi</a> (1960)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #C0C0C0">1961–1980</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Marcello_Mastroianni" title="Marcello Mastroianni">Marcello Mastroianni</a> (1961)</li>
+<li><a href="/wiki/Marcello_Mastroianni" title="Marcello Mastroianni">Marcello Mastroianni</a> (1962)</li>
+<li><a href="/wiki/Vittorio_Gassman" title="Vittorio Gassman">Vittorio Gassman</a> (1963)</li>
+<li><a href="/wiki/Ugo_Tognazzi" title="Ugo Tognazzi">Ugo Tognazzi</a> (1964)</li>
+<li><a href="/wiki/Saro_Urz%C3%AC" title="Saro Urzì">Saro Urzì</a> (1965)</li>
+<li><a href="/wiki/Nino_Manfredi" title="Nino Manfredi">Nino Manfredi</a> (1966)</li>
+<li><a href="/wiki/Tot%C3%B2" title="Totò">Totò</a> (1967)</li>
+<li><a href="/wiki/Gian_Maria_Volont%C3%A8" title="Gian Maria Volontè">Gian Maria Volontè</a> (1968)</li>
+<li><a href="/wiki/Ugo_Tognazzi" title="Ugo Tognazzi">Ugo Tognazzi</a> (1969)</li>
+<li><a href="/wiki/Nino_Manfredi" title="Nino Manfredi">Nino Manfredi</a> (1970)</li>
+<li><a href="/wiki/Gian_Maria_Volont%C3%A8" title="Gian Maria Volontè">Gian Maria Volontè</a> (1971)</li>
+<li><a href="/wiki/Riccardo_Cucciolla" title="Riccardo Cucciolla">Riccardo Cucciolla</a> (1972)</li>
+<li><a href="/wiki/Giancarlo_Giannini" title="Giancarlo Giannini">Giancarlo Giannini</a> (1973)</li>
+<li><a href="/wiki/Giancarlo_Giannini" title="Giancarlo Giannini">Giancarlo Giannini</a> (1974)</li>
+<li><a href="/wiki/Vittorio_Gassman" title="Vittorio Gassman">Vittorio Gassman</a> (1975)</li>
+<li><a href="/wiki/Michele_Placido" title="Michele Placido">Michele Placido</a> (1976)</li>
+<li><a href="/wiki/Alberto_Sordi" title="Alberto Sordi">Alberto Sordi</a> (1977)</li>
+<li><a href="/wiki/Nino_Manfredi" title="Nino Manfredi">Nino Manfredi</a> (1978)</li>
+<li><a href="/wiki/Flavio_Bucci" title="Flavio Bucci">Flavio Bucci</a> (1979)</li>
+<li><a href="/wiki/Nino_Manfredi" title="Nino Manfredi">Nino Manfredi</a> (1980)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #C0C0C0">1981–2000</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vittorio_Mezzogiorno" title="Vittorio Mezzogiorno">Vittorio Mezzogiorno</a> (1981)</li>
+<li><a href="/wiki/Ugo_Tognazzi" title="Ugo Tognazzi">Ugo Tognazzi</a> (1982)</li>
+<li><a href="/wiki/Francesco_Nuti" title="Francesco Nuti">Francesco Nuti</a> (1983)</li>
+<li><a href="/wiki/Carlo_Delle_Piane" title="Carlo Delle Piane">Carlo Delle Piane</a> (1984)</li>
+<li><a href="/wiki/Michele_Placido" title="Michele Placido">Michele Placido</a> (1985)</li>
+<li><a href="/wiki/Marcello_Mastroianni" title="Marcello Mastroianni">Marcello Mastroianni</a> (1986)</li>
+<li><a href="/wiki/Roberto_Benigni" title="Roberto Benigni">Roberto Benigni</a> (1987)</li>
+<li><a href="/wiki/Marcello_Mastroianni" title="Marcello Mastroianni">Marcello Mastroianni</a> (1988)</li>
+<li><a href="/wiki/Gian_Maria_Volont%C3%A8" title="Gian Maria Volontè">Gian Maria Volontè</a> (1989)</li>
+<li><a href="/wiki/Vittorio_Gassman" title="Vittorio Gassman">Vittorio Gassman</a> (1990)</li>
+<li><a href="/wiki/Marcello_Mastroianni" title="Marcello Mastroianni">Marcello Mastroianni</a> (1991)</li>
+<li><a href="/wiki/Roberto_Benigni" title="Roberto Benigni">Roberto Benigni</a> (1992)</li>
+<li><a href="/wiki/Diego_Abatantuono" title="Diego Abatantuono">Diego Abatantuono</a> (1993)</li>
+<li><a href="/wiki/Paolo_Villaggio" title="Paolo Villaggio">Paolo Villaggio</a> (1994)</li>
+<li><a href="/wiki/Alessandro_Haber" title="Alessandro Haber">Alessandro Haber</a> (1995)</li>
+<li><a href="/wiki/Sergio_Castellitto" title="Sergio Castellitto">Sergio Castellitto</a> (1996)</li>
+<li><a href="/wiki/Leonardo_Pieraccioni" title="Leonardo Pieraccioni">Leonardo Pieraccioni</a> (1997)</li>
+<li><a href="/wiki/Roberto_Benigni" title="Roberto Benigni">Roberto Benigni</a> (1998)</li>
+<li><a href="/wiki/Giancarlo_Giannini" title="Giancarlo Giannini">Giancarlo Giannini</a> (1999)</li>
+<li><a href="/wiki/Silvio_Orlando" title="Silvio Orlando">Silvio Orlando</a> (2000)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #C0C0C0">2001–present</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stefano_Accorsi" title="Stefano Accorsi">Stefano Accorsi</a> (2001)</li>
+<li><a href="/wiki/Sergio_Castellitto" title="Sergio Castellitto">Sergio Castellitto</a> (2002)</li>
+<li><a href="/wiki/Neri_Marcor%C3%A8" title="Neri Marcorè">Neri Marcorè</a> / <a href="/wiki/Gigi_Proietti" title="Gigi Proietti">Gigi Proietti</a> (2003)</li>
+<li><a href="/wiki/Alessio_Boni" title="Alessio Boni">Alessio Boni</a> / <a href="/wiki/Fabrizio_Gifuni" title="Fabrizio Gifuni">Fabrizio Gifuni</a> / <a href="/wiki/Luigi_Lo_Cascio" title="Luigi Lo Cascio">Luigi Lo Cascio</a> / <a href="/wiki/Andrea_Tidona" title="Andrea Tidona">Andrea Tidona</a> / <a href="/wiki/Roberto_Herlitzka" title="Roberto Herlitzka">Roberto Herlitzka</a> (2004)</li>
+<li><a href="/wiki/Toni_Servillo" title="Toni Servillo">Toni Servillo</a> (2005)</li>
+<li><a href="/wiki/Pierfrancesco_Favino" title="Pierfrancesco Favino">Pierfrancesco Favino</a> / <a href="/wiki/Kim_Rossi_Stuart" title="Kim Rossi Stuart">Kim Rossi Stuart</a> / <a href="/wiki/Claudio_Santamaria" title="Claudio Santamaria">Claudio Santamaria</a> (2006)</li>
+<li><a href="/wiki/Silvio_Orlando" title="Silvio Orlando">Silvio Orlando</a> (2007)</li>
+<li><a href="/wiki/Toni_Servillo" title="Toni Servillo">Toni Servillo</a> (2008)</li>
+<li><a href="/wiki/Toni_Servillo" title="Toni Servillo">Toni Servillo</a> (2009)</li>
+<li><a href="/wiki/Elio_Germano" title="Elio Germano">Elio Germano</a> / <a href="/wiki/Christian_De_Sica" title="Christian De Sica">Christian De Sica</a> (2010)</li>
+<li><a href="/wiki/Kim_Rossi_Stuart" title="Kim Rossi Stuart">Kim Rossi Stuart</a> (2011)</li>
+<li><a href="/wiki/Pierfrancesco_Favino" title="Pierfrancesco Favino">Pierfrancesco Favino</a> (2012)</li>
+<li><a href="/wiki/Aniello_Arena" class="mw-redirect" title="Aniello Arena">Aniello Arena</a> (2013)</li>
+<li><a href="/wiki/Fabrizio_Bentivoglio" title="Fabrizio Bentivoglio">Fabrizio Bentivoglio</a> / <a href="/wiki/Fabrizio_Gifuni" title="Fabrizio Gifuni">Fabrizio Gifuni</a> (2014)</li>
+<li><a href="/wiki/Alessandro_Gassmann" title="Alessandro Gassmann">Alessandro Gassmann</a> (2015)</li>
+<li><a href="/wiki/Stefano_Accorsi" title="Stefano Accorsi">Stefano Accorsi</a> (2016)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/44494847">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/44494847">44494847</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/nr98013624">nr98013624</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000073267065">0000 0000 7326 7065</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/121085945">121085945</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/085634808">085634808</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb14693010n">cb14693010n</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb14693010n">(data)</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Istituto_Centrale_per_il_Catalogo_Unico" title="Istituto Centrale per il Catalogo Unico">ICCU</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://opac.sbn.it/opacsbn/opac/iccu/scheda_authority.jsp?bid=IT\ICCU\RAVV\088599">IT\ICCU\RAVV\088599</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX1387400">XX1387400</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20170418165302
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.200 seconds
+Real time usage: 0.273 seconds
+Preprocessor visited node count: 1950/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37902/2097152 bytes
+Template argument size: 1810/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.061/10.000 seconds
+Lua memory usage: 2.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  221.059      1 -total
+ 39.97%   88.351      1 Template:Infobox_person
+ 24.21%   53.528      1 Template:Infobox
+ 13.18%   29.129      1 Template:Use_dmy_dates
+ 12.57%   27.788      1 Template:Unreferenced_section
+ 12.11%   26.763      2 Template:Ambox
+ 11.59%   25.622      1 Template:Unreferenced
+ 10.93%   24.172      5 Template:Br_separated_entries
+  7.15%   15.809      2 Template:Main_other
+  6.26%   13.845      1 Template:IMDb_name
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15058584-0!*!0!!en!4!* and timestamp 20170418165301 and revision id 761174901
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Amedeo_Nazzari&amp;oldid=761174901">https://en.wikipedia.org/w/index.php?title=Amedeo_Nazzari&amp;oldid=761174901</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1907_births" title="Category:1907 births">1907 births</a></li><li><a href="/wiki/Category:1979_deaths" title="Category:1979 deaths">1979 deaths</a></li><li><a href="/wiki/Category:Italian_male_stage_actors" title="Category:Italian male stage actors">Italian male stage actors</a></li><li><a href="/wiki/Category:Italian_male_film_actors" title="Category:Italian male film actors">Italian male film actors</a></li><li><a href="/wiki/Category:People_from_Cagliari" title="Category:People from Cagliari">People from Cagliari</a></li><li><a href="/wiki/Category:Nastro_d%27Argento_winners" title="Category:Nastro d'Argento winners">Nastro d'Argento winners</a></li><li><a href="/wiki/Category:20th-century_Italian_male_actors" title="Category:20th-century Italian male actors">20th-century Italian male actors</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_January_2016" title="Category:Use dmy dates from January 2016">Use dmy dates from January 2016</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2015" title="Category:Articles needing additional references from December 2015">Articles needing additional references from December 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:NPOV_disputes_from_December_2015" title="Category:NPOV disputes from December 2015">NPOV disputes from December 2015</a></li><li><a href="/wiki/Category:All_NPOV_disputes" title="Category:All NPOV disputes">All NPOV disputes</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SBN_identifiers" title="Category:Wikipedia articles with SBN identifiers">Wikipedia articles with SBN identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Amedeo+Nazzari" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Amedeo+Nazzari" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Amedeo_Nazzari"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Amedeo_Nazzari"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Amedeo_Nazzari" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Amedeo_Nazzari" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Amedeo_Nazzari" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Amedeo_Nazzari&amp;oldid=761174901" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Amedeo_Nazzari&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q460648" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Amedeo_Nazzari&amp;id=761174901" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Amedeo+Nazzari">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Amedeo+Nazzari&amp;returnto=Amedeo+Nazzari&amp;oldid=761174901&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Amedeo_Nazzari&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Amedeo_Nazzari" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Amedeo_Nazzari" title="Amedeo Nazzari – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Amedeo_Nazzari" title="Amedeo Nazzari – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%AF%D8%A6%D9%88_%D9%86%D8%A7%D8%AA%D8%B2%D8%A7%D8%B1%DB%8C" title="آمدئو ناتزاری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Amedeo_Nazzari" title="Amedeo Nazzari – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Amedeo_Nazzari" title="Amedeo Nazzari – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Amedeo_Nazzari" title="Amedeo Nazzari – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Amedeo_Nazzari" title="Amedeo Nazzari – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Amedeo_Nazzari" title="Amedeo Nazzari – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Amedeo_Nazzari" title="Amedeo Nazzari – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Amedeo_Nazzari" title="Amedeo Nazzari – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q460648#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 January 2017, at 11:07.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Amedeo_Nazzari&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.273","ppvisitednodes":{"value":1950,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37902,"limit":2097152},"templateargumentsize":{"value":1810,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  221.059      1 -total"," 39.97%   88.351      1 Template:Infobox_person"," 24.21%   53.528      1 Template:Infobox"," 13.18%   29.129      1 Template:Use_dmy_dates"," 12.57%   27.788      1 Template:Unreferenced_section"," 12.11%   26.763      2 Template:Ambox"," 11.59%   25.622      1 Template:Unreferenced"," 10.93%   24.172      5 Template:Br_separated_entries","  7.15%   15.809      2 Template:Main_other","  6.26%   13.845      1 Template:IMDb_name"]},"scribunto":{"limitreport-timeusage":{"value":"0.061","limit":"10.000"},"limitreport-memusage":{"value":2357211,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20170418165302","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":350,"wgHostname":"mw1262"});});</script>
+	</body>
+</html>

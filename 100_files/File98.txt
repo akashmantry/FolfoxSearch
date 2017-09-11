@@ -1,0 +1,1072 @@
+https://en.wikipedia.org/wiki/Baldock
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Baldock - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Baldock","wgTitle":"Baldock","wgCurRevisionId":774928673,"wgRevisionId":774928673,"wgArticleId":430705,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Use dmy dates from March 2015","Pages using deprecated image syntax","Articles with OS grid coordinates","Coordinates on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Towns in Hertfordshire","Charter fairs","People from Baldock"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Baldock","wgRelevantArticleId":430705,"wgRequestId":"WPr8PwrAADMAAc6Alb8AAAJV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.99,"lon":-0.19},"wgWikibaseItemId":"Q789348","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/67/Baldock_High_St_1.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Baldock"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Baldock&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Baldock&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Baldock"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Baldock rootpage-Baldock skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Baldock</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For other uses, see <a href="/wiki/Baldock_(disambiguation)" class="mw-disambig" title="Baldock (disambiguation)">Baldock (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Baldock</th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Baldock_High_St_1.jpg" class="image"><img alt="Baldock High St 1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Baldock_High_St_1.jpg/240px-Baldock_High_St_1.jpg" width="240" height="180" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Baldock_High_St_1.jpg/360px-Baldock_High_St_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Baldock_High_St_1.jpg/480px-Baldock_High_St_1.jpg 2x" data-file-width="1152" data-file-height="864" /></a><br />
+Baldock High Street – before regeneration</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:240px;padding:0">
+<div style="position:relative;width:240px"><a href="/wiki/File:Hertfordshire_UK_location_map.svg" class="image" title="Baldock is located in Hertfordshire"><img alt="Baldock is located in Hertfordshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hertfordshire_UK_location_map.svg/240px-Hertfordshire_UK_location_map.svg.png" width="240" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hertfordshire_UK_location_map.svg/360px-Hertfordshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hertfordshire_UK_location_map.svg/480px-Hertfordshire_UK_location_map.svg.png 2x" data-file-width="1425" data-file-height="992" /></a>
+<div style="position:absolute;top:20%;left:53.043%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Baldock" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Baldock" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left">Baldock</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Baldock shown within <a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a></td>
+</tr>
+<tr>
+<th scope="row" style="width: 40%">Population</th>
+<td>9,900&#160;<br />
+10,280 (2011 Census Baldock East and Town wards) <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="width: 40%"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">OS&#160;grid&#160;reference</a></th>
+<td><span class="plainlinks nourlexpansion"><span style="white-space: nowrap" class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/os/coor_g/?pagename=Baldock&amp;params=TL247337_region%3AGB_scale%3A25000">TL247337</a></span></span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/Districts_of_England" title="Districts of England">District</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/North_Hertfordshire" title="North Hertfordshire">North Hertfordshire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Shire&#160;county</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/East_of_England" title="East of England">East</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="mergedrow adr">
+<th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th>
+<td><span class="country-name"><a href="/wiki/England" title="England">England</a></span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign&#160;state</a></th>
+<td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th>
+<td><span style="font-size:80%;"><span class="allcaps" style="text-transform:uppercase;">BALDOCK</span></span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode&#160;district</a></th>
+<td><span style="font-size:100%;"><a href="/wiki/SG_postcode_area" title="SG postcode area">SG7</a></span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling&#160;code</a></th>
+<td><span style="font-size:100%;">01462</span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" class="mw-redirect" title="List of law enforcement agencies in the United Kingdom">Police</a></th>
+<td><a href="/wiki/Hertfordshire_Constabulary" title="Hertfordshire Constabulary">Hertfordshire</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th>
+<td><a href="/wiki/Hertfordshire_Fire_and_Rescue_Service" title="Hertfordshire Fire and Rescue Service">Hertfordshire</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th>
+<td><a href="/wiki/East_of_England_Ambulance_Service" title="East of England Ambulance Service">East of England</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2014%E2%80%9319" title="List of members of the European Parliament for the United Kingdom, 2014–19">EU&#160;Parliament</a></th>
+<td><a href="/wiki/East_of_England_(European_Parliament_constituency)" title="East of England (European Parliament constituency)">East of England</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/List_of_United_Kingdom_Parliament_constituencies" title="List of United Kingdom Parliament constituencies">UK&#160;Parliament</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/North_East_Hertfordshire_(UK_Parliament_constituency)" title="North East Hertfordshire (UK Parliament constituency)">North East Hertfordshire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="hlist noprint nowrap" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl>
+<dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a href="/wiki/List_of_places_in_England" title="List of places in England">England</a></dd>
+<dd><a href="/wiki/List_of_places_in_Hertfordshire" title="List of places in Hertfordshire">Hertfordshire</a></dd>
+</dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Baldock&amp;params=51.99_N_-0.19_E_region:GB_type:city(9900)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°59′N</span> <span class="longitude">0°11′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.99°N 0.19°W</span><span style="display:none">﻿ / <span class="geo">51.99; -0.19</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Baldock&amp;params=51.99_N_-0.19_E_region:GB_type:city(9900)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°59′N</span> <span class="longitude">0°11′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.99°N 0.19°W</span><span style="display:none">﻿ / <span class="geo">51.99; -0.19</span></span></span></a></span></span></span></td>
+</tr>
+</table>
+<p><b>Baldock</b> is a historic market town in the <a href="/wiki/Local_government" title="Local government">local government</a> district of <a href="/wiki/North_Hertfordshire" title="North Hertfordshire">North Hertfordshire</a> in the <a href="/wiki/Ceremonial_county" class="mw-redirect" title="Ceremonial county">ceremonial county</a> of <a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a>, England where the <a href="/wiki/River_Ivel" title="River Ivel">River Ivel</a> rises. It lies 33 miles (53&#160;km) north of London, 15 miles (24&#160;km) southeast of <a href="/wiki/Bedford" title="Bedford">Bedford</a>, and 14 miles (23&#160;km) north northwest of the <a href="/wiki/County_town" title="County town">county town</a> of <a href="/wiki/Hertford" title="Hertford">Hertford</a>. Nearby towns include <a href="/wiki/Royston,_Hertfordshire" title="Royston, Hertfordshire">Royston</a> to the northeast, <a href="/wiki/Letchworth" title="Letchworth">Letchworth</a> and <a href="/wiki/Hitchin" title="Hitchin">Hitchin</a> to the southwest and <a href="/wiki/Stevenage" title="Stevenage">Stevenage</a> to the south.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_and_etymology"><span class="tocnumber">1</span> <span class="toctext">History and etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Events"><span class="tocnumber">2</span> <span class="toctext">Events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Baldock_Festival"><span class="tocnumber">2.1</span> <span class="toctext">Baldock Festival</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Baldock_Charter_Fair"><span class="tocnumber">2.2</span> <span class="toctext">Baldock Charter Fair</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Balstock"><span class="tocnumber">2.3</span> <span class="toctext">Balstock</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#In_literature"><span class="tocnumber">3</span> <span class="toctext">In literature</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Education"><span class="tocnumber">4</span> <span class="toctext">Education</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Primary_education"><span class="tocnumber">4.1</span> <span class="toctext">Primary education</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Secondary_education"><span class="tocnumber">4.2</span> <span class="toctext">Secondary education</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Sport_and_leisure"><span class="tocnumber">5</span> <span class="toctext">Sport and leisure</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Nearby_villages"><span class="tocnumber">6</span> <span class="toctext">Nearby villages</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History_and_etymology">History and etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=1" title="Edit section: History and etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Paleolithic, Neolithic and Bronze Age settlements show the site of Baldock has been continuously occupied since prehistoric times.<sup id="cite_ref-Mawer_2-0" class="reference"><a href="#cite_note-Mawer-2">[2]</a></sup></p>
+<p>At the beginning of the Iron Age there was a hillfort at Arbury Banks, 5&#160;km to the northeast of Baldock, that dominated the area. In the Late Iron Age (c. 100 BC), the local power base shifted from the hillfort to the vicinity of Baldock. The soil was easily farmed and transportation was more convenient. In the Roman and late Roman eras the community appears to have been both a market town and religious centre. The Roman settlement gradually disappeared. There is no entry for Baldock in the Domesday Book.<sup id="cite_ref-Mawer_2-1" class="reference"><a href="#cite_note-Mawer-2">[2]</a></sup></p>
+<p>Baldock was founded by the <a href="/wiki/Knights_Templar" title="Knights Templar">Knights Templar</a> (also the name of the town's <a href="/wiki/Knights_Templar_School" title="Knights Templar School">secondary school</a>) as a medieval market town in the 1140s.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> It was laid out by the Knights Templar on land in the manor of Weston in the <a href="/wiki/Hundred_(county_division)" title="Hundred (county division)">hundred</a> of <a href="/wiki/List_of_hundreds_of_England_and_Wales#Hertfordshire" title="List of hundreds of England and Wales">Broadwater</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> granted by the earl of Pembroke, <a href="/wiki/Gilbert_de_Clare,_1st_Earl_of_Pembroke" title="Gilbert de Clare, 1st Earl of Pembroke">Gilbert de Clare</a>, before his death in 1148.<sup id="cite_ref-HCA_5-0" class="reference"><a href="#cite_note-HCA-5">[5]</a></sup> The 1850 tithe map,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> drawn up before the parish boundaries were extended in the later 19th century, clearly shows the boundaries of the land grant made from the manor of Weston in the 12th century. It is a triangular parcel of land beside the old Roman Road cut out from an older estate; it is likely that the Templars used their knowledge of mathematics when siting buildings.</p>
+<p>The main theory of the origin of the name <i>Baldock</i> is as a derivation from the Old French name for <a href="/wiki/Baghdad" title="Baghdad">Baghdad</a>: <i><a href="https://fr.wikipedia.org/wiki/Bagdad#.C3.89tymologie" class="extiw" title="fr:Bagdad">Baldac</a></i> or later <i><a href="https://fr.wikipedia.org/wiki/Bagdad#.C3.89tymologie" class="extiw" title="fr:Bagdad">Baudac</a></i>,<sup id="cite_ref-Mawer_2-2" class="reference"><a href="#cite_note-Mawer-2">[2]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> which the Templars had been thwarted from conquering during the <a href="/wiki/Crusades" title="Crusades">Crusades</a>. Although the Templars' connections to Baghdad were "tenuous",<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> it was widely regarded as the most prosperous market in the world and the Templars perhaps hoped that the name would confer a similar prosperity on their own market town in England.<sup id="cite_ref-BHFI_9-0" class="reference"><a href="#cite_note-BHFI-9">[9]</a></sup> Founding contemporaneous documents use the spelling <i>Baudac</i>. This place is first recorded as "Baldac" in the Pipe Rolls of Hertfordshire in 1168.<sup id="cite_ref-Skeat_10-0" class="reference"><a href="#cite_note-Skeat-10">[10]</a></sup></p>
+<p>It is possible the Knights Templar used a name already in use, especially since the location was already a crossroads. Other etymologies have been suggested, including Middle English "balled" meaning bald together with Old English "ac" meaning oak; and a conjectured Old English personal name "Bealdoc" meaning bold (with diminutive -oc suffix).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> In addition the settlement was already thriving as a late-Saxon part of Weston,<sup id="cite_ref-Mawer_2-3" class="reference"><a href="#cite_note-Mawer-2">[2]</a></sup> and may have been identified by a large old tree near the Saxon graveyard or where the Templar church was built.</p>
+<p><a href="/wiki/Marco_Polo" title="Marco Polo">Marco Polo</a> relates that in 1225 Alau the Great Lord of the Tartars captured the Calif and the great city of Baudac,<sup id="cite_ref-Polo_12-0" class="reference"><a href="#cite_note-Polo-12">[12]</a></sup> achieving what the Crusaders had not. The connection between the great city of Baudac and the ruins of Babylon, in the facile minds of the Templars, were obscurely compared with the great city of London and the ruins of Baldock.</p>
+<p>The modern layout of the town and many buildings in the centre date from the sixteenth century, with the earliest dating from the fourteenth century.<sup id="cite_ref-Mawer_2-4" class="reference"><a href="#cite_note-Mawer-2">[2]</a></sup><sup id="cite_ref-BHFI_9-1" class="reference"><a href="#cite_note-BHFI-9">[9]</a></sup></p>
+<p>The town thrived where the old <a href="/wiki/Great_North_Road_(United_Kingdom)" class="mw-redirect" title="Great North Road (United Kingdom)">Great North Road</a> and the <a href="/wiki/Icknield_Way" title="Icknield Way">Icknield Way</a> crossed. Despite the construction of the <a href="/wiki/A1(M)_motorway" title="A1(M) motorway">A1(M) motorway</a> in 1963, which bypassed the town (and which was called the Baldock Bypass for some years), it was still a major traffic bottleneck until March 2006, when a new bypass removed the <a href="/wiki/A505_road" title="A505 road">A505 road</a> (part of the old <a href="/wiki/Icknield_Way" title="Icknield Way">Icknield Way</a> to the east of Baldock) from the town.</p>
+<p>Thanks to its location, the town was a major staging post between <a href="/wiki/London" title="London">London</a> and the north: many old <a href="/wiki/Coaching_inn" title="Coaching inn">coaching inns</a> still operate as pubs and hotels, and Baldock has a surprising number of pubs for its size. From the 1770s until 2008 the high street was very wide,<sup id="cite_ref-BTCS_13-0" class="reference"><a href="#cite_note-BTCS-13">[13]</a></sup> a typical feature of medieval <a href="/wiki/Market_place" class="mw-redirect" title="Market place">market places</a> where more than one row of buildings used to stand. In the case of Baldock, the bottom of the High Street had three such rows, until Butcher's Row was demolished by the Turnpike authorities in the 1770s. In late 2008, a town centre enhancement plan included a narrowing of the road and subsequent widening of paved areas.<sup id="cite_ref-BTCS_13-1" class="reference"><a href="#cite_note-BTCS-13">[13]</a></sup></p>
+<p>Since the 16th century, Baldock has been a centre for <a href="/wiki/Malting" class="mw-redirect" title="Malting">malting</a>, subsequently becoming a regional <a href="/wiki/Brewing" title="Brewing">brewing</a> centre with at least three large brewers still operating at the end of the 19th Century, despite a decline in demand for the types of beer produced locally. The <a href="/wiki/United_Kingdom_Census_1881" title="United Kingdom Census 1881">1881 Census</a> records approximately 30 drinking establishments (the town's population was at that time around 1900). Throughout the early 20th century a large number of pubs continued to operate, many of which were sustained by the adjacent and much larger town of <a href="/wiki/Letchworth" title="Letchworth">Letchworth</a>, which had no alcohol retailers prior to 1958, and had only two pubs and a single hotel bar until the mid-1990s. Its larger population had for many years visited both Baldock and <a href="/wiki/Hitchin" title="Hitchin">Hitchin</a> for refreshment.</p>
+<p>The Wynn <a href="/wiki/Almshouse" title="Almshouse">almshouses</a>, in the High Street, were founded in 1621 and were endowed "To the World's End" by John Wynne, a cloth merchant from London who left £1000 in his will of 1614 for their upkeep.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>Since 1850, the town has a <a href="/wiki/Baldock_railway_station" title="Baldock railway station">railway station</a> which today operates on the <a href="/wiki/Hitchin-Cambridge_Line" class="mw-redirect" title="Hitchin-Cambridge Line">line</a> between <a href="/wiki/London_King%27s_Cross_railway_station" title="London King's Cross railway station">London Kings Cross</a> and <a href="/wiki/Cambridge" title="Cambridge">Cambridge</a>. With frequent services to London, including fast services of around 30 minutes, the town is home to many <a href="/wiki/Commuter" class="mw-redirect" title="Commuter">commuters</a>. The station is part of the <a href="/wiki/Thameslink" class="mw-redirect" title="Thameslink">Thameslink</a> extension project which will connect Cambridge to <a href="/wiki/Farringdon,_London" title="Farringdon, London">Farringdon</a>, <a href="/wiki/City_Thameslink" class="mw-redirect" title="City Thameslink">City Thameslink</a> and <a href="/wiki/Blackfriars,_London" title="Blackfriars, London">Blackfriars</a> via the <a href="/wiki/Great_Northern_Route" title="Great Northern Route">Great Northern Route</a>. There has been human activity on the site well before the modern town was founded. Prehistoric remains on <a href="/w/index.php?title=Clothall_Common&amp;action=edit&amp;redlink=1" class="new" title="Clothall Common (page does not exist)">Clothall Common</a> date back as far as c 3000 BCE.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Many <a href="/wiki/Roman_Britain" title="Roman Britain">Roman</a> remains have been discovered during building work in and around the town, and the core of the <a href="/wiki/Ancient_Rome" title="Ancient Rome">Roman</a> settlement lies between Walls Field and Bakers Close. Earlier <a href="/wiki/Iron_Age" title="Iron Age">Iron Age</a> remains have also been uncovered in the same general location, which may be the earliest town ever to develop in Britain.</p>
+<p>A <a href="/wiki/Medieval" class="mw-redirect" title="Medieval">medieval</a> <a href="/wiki/Leper_colony" title="Leper colony">leper colony</a>, on Royston Road, was located during excavations in 2003, having been thought for many years to lie to the south-east of the town on the former Pesthouse Lane (now Clothall Road), the A507.</p>
+<p>From 1808 to 1814, Baldock hosted a station in the <a href="/wiki/Semaphore_line" title="Semaphore line">shutter telegraph chain</a> that connected the Admiralty in London to its naval ships in the port of <a href="/wiki/Great_Yarmouth" title="Great Yarmouth">Great Yarmouth</a>.</p>
+<p>An authoritative history of "Baldock's Middle Ages" (<a href="/wiki/Special:BookSources/0905858972" class="internal mw-magiclink-isbn">ISBN 0-905858-97-2</a>) was compiled by Vivian Crellin, a former headmaster of the <a href="/wiki/Knights_Templar_School" title="Knights Templar School">Knights Templar School</a>, while local archaeologists Keith Fitzpatrick-Matthews and Gilbert Burleigh published 'Ancient Baldock: the story of an Iron Age and Roman town' in 2007.</p>
+<p>Baldock's position at the crossing of two important thoroughfares, the <a href="/wiki/A1_road_(Great_Britain)" title="A1 road (Great Britain)">Great North Road</a> and the <a href="/wiki/Icknield_Way" title="Icknield Way">Icknield Way</a> has made it a stopping point for a number of illustrious visitors, including <a href="/wiki/Charles_I_of_England" title="Charles I of England">Charles I</a>, who passed through Baldock en route for London after his arrest in 1648<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> and supposedly <a href="/wiki/Dick_Turpin" title="Dick Turpin">Dick Turpin</a>. Preacher <a href="/wiki/John_Wesley" title="John Wesley">John Wesley</a> came to the town in 1747.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p>In the 1960s and 70s Baldock was a centre of <a href="/wiki/Laser" title="Laser">laser</a> research at a MOD laboratory called SERL (Services Electronics Research Laboratory). This facility closed in the late 1970s and some projects and staff were transferred to <a href="/wiki/RSRE" class="mw-redirect" title="RSRE">RSRE</a> (Royal Signals &amp; Radar Establishment) near <a href="/wiki/Pershore" title="Pershore">Pershore</a>.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Baldock_Tesco.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Baldock_Tesco.jpg/220px-Baldock_Tesco.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Baldock_Tesco.jpg/330px-Baldock_Tesco.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Baldock_Tesco.jpg/440px-Baldock_Tesco.jpg 2x" data-file-width="1152" data-file-height="864" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Baldock_Tesco.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Tesco" title="Tesco">Tesco</a> supermarket</div>
+</div>
+</div>
+<p>Baldock was formerly the location of a film processing factory which closed before the company (originally based in Letchworth Garden City) could move in; local folklore has it that it was a silent film studio, but this is not the case.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> The building was then bought by the Full-Fashioned Hosiery Company from <a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a>, later becoming the Kayser Bondor ladies stocking factory (which temporarily produced parachutes during <a href="/wiki/World_War_II" title="World War II">World War II</a>). Its <a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a> facade still stands as the largest <a href="/wiki/Listed_Building" class="mw-redirect" title="Listed Building">Listed Building</a> in the town; it was converted to a <a href="/wiki/Tesco" title="Tesco">Tesco</a> supermarket in the late 1980s.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:162px;"><a href="/wiki/File:St_Mary_the_Virgin_Baldock.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/St_Mary_the_Virgin_Baldock.jpg/160px-St_Mary_the_Virgin_Baldock.jpg" width="160" height="213" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/St_Mary_the_Virgin_Baldock.jpg/240px-St_Mary_the_Virgin_Baldock.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/St_Mary_the_Virgin_Baldock.jpg/320px-St_Mary_the_Virgin_Baldock.jpg 2x" data-file-width="720" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:St_Mary_the_Virgin_Baldock.jpg" class="internal" title="Enlarge"></a></div>
+Church of St Mary the Virgin</div>
+</div>
+</div>
+<p>Another notable building in the town is the thirteenth century Baldock <a href="/wiki/Parish_church" title="Parish church">Parish Church</a> of <a href="/wiki/Church_of_St._Mary_the_Virgin,_Baldock" class="mw-redirect" title="Church of St. Mary the Virgin, Baldock">St. Mary the Virgin</a> at the centre of the town. The original church was built in about 1150 by the <a href="/wiki/Knights_Templar" title="Knights Templar">Knights Templar</a> before being largely rebuilt in about 1330 by the <a href="/wiki/Knights_Hospitaller" title="Knights Hospitaller">Knights Hospitaller</a>. It is a Grade I <a href="/wiki/Listed_building" title="Listed building">listed building</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<p>Malting and brewing were formerly major industries in the town, but apart from some <a href="/wiki/Light_industry" title="Light industry">light industry</a>, today it is mostly a <a href="/wiki/Commuter_town" title="Commuter town">commuter town</a>.</p>
+<p>In the past few years, many businesses have shut down in Baldock. Baldock lost its local football team, <a href="/wiki/Baldock_Town_F.C." title="Baldock Town F.C.">Baldock Town F.C.</a> in 2001, after nearly 100 years of existence.</p>
+<p>Located to the east of the town there is a large residential estate that was built in several phases. This is known as Clothall Common. Some residents are lobbying to have one green space given village green status. A significant archaeological dig took place in this part of Baldock in the late 80s.</p>
+<p>According to the meaning of Liff, a Baldock is defined as: "The sharp prong on the top of a tree stump where the tree has snapped off before being completely sawn through".</p>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=2" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several events take place in Baldock throughout the year. The largest three are the Festival, the <a href="/wiki/Charter_fair" title="Charter fair">Charter fair</a> and the Balstock music festival.</p>
+<h3><span class="mw-headline" id="Baldock_Festival">Baldock Festival</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=3" title="Edit section: Baldock Festival">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Baldock Festival is a cultural festival which started in 1983 and takes place on the first weekend in May. The festival consists of events throughout the town and the local area, such as museum trips, a barn dance, cheese tasting, brewery tours, clairvoyance evening, cricket match, comedy sketches, family quiz night, mystery tour, open gardens, history talks, and several music events, some of which feature local bands. The festival culminates in the <i>Historic Street Fair</i> held in the High Street, on the second and final weekend where stallholders dress in clothing of the era and help to portray what life was like in the historic town.</p>
+<p>The Baldock Beer Festival takes place during the first weekend where local and national real ales, real ciders and continental lagers may be sampled.</p>
+<h3><span class="mw-headline" id="Baldock_Charter_Fair">Baldock Charter Fair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=4" title="Edit section: Baldock Charter Fair">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Baldock's <a href="/wiki/Charter_Fair" class="mw-redirect" title="Charter Fair">Charter Fair</a> dates back to 1199, when <a href="/wiki/John_of_England" class="mw-redirect" title="John of England">King John</a> granted to <a href="/wiki/The_Templars" class="mw-redirect" title="The Templars">the Templars</a> the right of holding a yearly fair at Baldock on St. Matthew's Day and for four days following.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> This would mean the original fair was held on 21–25 September, but with the <a href="/wiki/Calendar_reform" title="Calendar reform">Calendar reform</a> of 1752 the dates are now 2, 3 and 4 October. Today the principal part of the fair is a visiting Amusement Fair which sets up in the High Street.</p>
+<h3><span class="mw-headline" id="Balstock">Balstock</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=5" title="Edit section: Balstock">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2015, the Balstock Festival completed its tenthyear having grown from a small event held in one pub, to a three-day event featuring more than 200 artists held on 13 stages across the town.{<a rel="nofollow" class="external free" href="http://www.balstock.com/info/history/}">http://www.balstock.com/info/history/}</a> It is now Hertfordshire's biggest free music festival with all proceeds going to a nominated charity.{<a rel="nofollow" class="external free" href="http://www.balstock.com/info/history/}">http://www.balstock.com/info/history/}</a> In 2015, that charity was Up on Downs, a local charity which provides which aids families that have children with Downs Syndrome.{<a rel="nofollow" class="external free" href="http://balstock.com/tag/charity-2/}">http://balstock.com/tag/charity-2/}</a></p>
+<p>The 2012 festival resulted in some controversy with a dispute between the organisers of the festival and the Performing Rights Society <sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="In_literature">In literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=6" title="Edit section: In literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Daniel_Defoe" title="Daniel Defoe">Daniel Defoe</a>, in his book <i>A tour through the whole island of Great Britain</i>, passed through Baldock and commented: "Here is that famous Lane call'd <i>Baldock Lane</i>, famous for being so unpassable, that the Coaches and Travellers were oblig'd to break out of the Way even by Force, which the People of the Country not able to prevent, at length placed Gates, and laid their lands open, setting Men at the Gates to take a voluntary Toll, which Travellers always chose to pay, rather than plunge into Sloughs and Holes, which no Horse could wade through."</p>
+<p>Baldock is one of the waypoints on Warren's long drive up the Great North Road, which brings about the occasion for the novel's plot, the rescue of the shipbuilding town of 'Sharples' (Blyth), in "Ruined City," by <a href="/wiki/Nevil_Shute" title="Nevil Shute">Nevil Shute</a>.</p>
+<p>Baldock is mentioned frequently in the supernatural thriller <i><a href="/wiki/The_Green_Man_(Kingsley_Amis_novel)" class="mw-redirect" title="The Green Man (Kingsley Amis novel)">The Green Man</a></i> by Kingsley Amis (1969). The town is the nearest local centre to the fictional pub owned and run by the main character "Maurice Allington". The Green Man was later adapted into a television drama starring Albert Finney as Allington.</p>
+<p>The author <a href="/wiki/Monica_Dickens" title="Monica Dickens">Monica Dickens</a>, who lived in nearby <a href="/wiki/Hinxworth" title="Hinxworth">Hinxworth</a> for four years after <a href="/wiki/World_War_II" title="World War II">World War II</a>, refers to her regular visits to Baldock and to <i>The George and Dragon</i> <a href="/wiki/Public_house" class="mw-redirect" title="Public house">public house</a> in particular, in her 1978 <a href="/wiki/Autobiography" title="Autobiography">autobiography</a> <i>An Open Book</i>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=7" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Primary_education">Primary education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=8" title="Edit section: Primary education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>St Mary's Church of England (VC) Infant School</li>
+<li>St Mary's Church of England (VC) Junior School</li>
+<li>Hartsfield Junior Mixed and Infant School</li>
+<li>St John Roman Catholic Primary School</li>
+</ul>
+<h3><span class="mw-headline" id="Secondary_education">Secondary education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=9" title="Edit section: Secondary education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Knights_Templar_School" title="Knights Templar School">Knights Templar School</a></li>
+<li>Brandles School</li>
+</ul>
+<h2><span class="mw-headline" id="Sport_and_leisure">Sport and leisure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=10" title="Edit section: Sport and leisure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Baldock has a <a href="/wiki/Non-League_football" title="Non-League football">Non-League football</a> club <a href="/wiki/Baldock_Town_F.C." title="Baldock Town F.C.">Baldock Town F.C.</a> who play at Stotfold FC. There is a Sunday league football team the Boot FC.</p>
+<p>The 110&#160;mile <a href="/wiki/Icknield_Way_Path" title="Icknield Way Path">Icknield Way Path</a> from <a href="/wiki/Ivinghoe_Beacon" title="Ivinghoe Beacon">Ivinghoe Beacon</a> in Buckinghamshire to <a href="/wiki/Knettishall_Heath" title="Knettishall Heath">Knettishall Heath</a> in Suffolk passes through the town.</p>
+<h2><span class="mw-headline" id="Nearby_villages">Nearby villages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=11" title="Edit section: Nearby villages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Ashwell,_Hertfordshire" title="Ashwell, Hertfordshire">Ashwell</a></li>
+<li><a href="/wiki/Bygrave" title="Bygrave">Bygrave</a></li>
+<li><a href="/wiki/Caldecote,_Hertfordshire" title="Caldecote, Hertfordshire">Caldecote</a></li>
+<li><a href="/wiki/Clothall" title="Clothall">Clothall</a></li>
+<li><a href="/wiki/Hinxworth" title="Hinxworth">Hinxworth</a></li>
+<li><a href="/wiki/Newnham,_Hertfordshire" title="Newnham, Hertfordshire">Newnham</a></li>
+<li><a href="/wiki/Radwell,_Hertfordshire" title="Radwell, Hertfordshire">Radwell</a></li>
+<li><a href="/wiki/Wallington,_Hertfordshire" title="Wallington, Hertfordshire">Wallington</a></li>
+<li><a href="/wiki/Weston,_Hertfordshire" title="Weston, Hertfordshire">Weston</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Jack_o%27_Legs" class="mw-redirect" title="Jack o' Legs">Jack o' Legs</a> Legendary 14th century "giant" associated with the town</li>
+<li><a href="/wiki/Baldock_Cemetery" title="Baldock Cemetery">Baldock Cemetery</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Baldock Wards of 2011 Census.North Hertfordshire Council</span></li>
+<li id="cite_note-Mawer-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mawer_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mawer_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Mawer_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Mawer_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Mawer_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Mawer, J. E. B., Stenton, Allen and Gover, F. M. (1938) <i>The Place-Names Of Hertfordshire</i> (English Place-Name Society Volume XV), Cambridge University Press, <a href="/wiki/ASIN" class="mw-redirect" title="ASIN">ASIN</a>: B0019T1T10 in <a rel="nofollow" class="external text" href="http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-436-1/dissemination/pdf/baldock.pdf">Archaeology Data Service archive – Baldock</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.baldockhistory.org.uk">Baldock Museum &amp; Local History Society</a>. Retrieved 6 December 2012.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://domesdaymap.co.uk/place/TL2530/weston/">http://domesdaymap.co.uk/place/TL2530/weston/</a> Domesday Online Map: Weston</span></li>
+<li id="cite_note-HCA-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-HCA_5-0">^</a></b></span> <span class="reference-text">Andrews, H C (1938): Gilbert de Clare, earl of Pembroke, and his gifts, from his manor of Weston to the Knights Templars, c1138-48. Trans EHAS 10/2 (1938), 150–62.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://websites.uk-plc.net/Heritage_Shop_Hertfordshire_Archives_and_Local_Studies/products/Tithe_Map_on_CD_Baldock_c1850.htm">http://websites.uk-plc.net/Heritage_Shop_Hertfordshire_Archives_and_Local_Studies/products/Tithe_Map_on_CD_Baldock_c1850.htm</a> Hertfordshire County Council Heritage Shop: Tithe Map on CD – Baldock c. 1850</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Eilert Ekwall (1981). <i>The Concise Oxford Dictionary of English Place-names</i>. Oxford [Eng.]: OUP. p.&#160;24. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-869103-3" title="Special:BookSources/0-19-869103-3">0-19-869103-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaldock&amp;rft.au=Eilert+Ekwall&amp;rft.btitle=The+Concise+Oxford+Dictionary+of+English+Place-names&amp;rft.date=1981&amp;rft.genre=book&amp;rft.isbn=0-19-869103-3&amp;rft.pages=24&amp;rft.place=Oxford+%5BEng.%5D&amp;rft.pub=OUP&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Evelyn Lord (2002). <i>The Knights Templar in Britain</i>. London [Eng.]: Longman. p.&#160;60. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-582-47287-3" title="Special:BookSources/0-582-47287-3">0-582-47287-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaldock&amp;rft.au=Evelyn+Lord&amp;rft.btitle=The+Knights+Templar+in+Britain&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-582-47287-3&amp;rft.pages=60&amp;rft.place=London+%5BEng.%5D&amp;rft.pub=Longman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BHFI-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-BHFI_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BHFI_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150202195702/http://www.north-herts.gov.uk/index/leisure_and_culture/tourism_and_travel/towns_and_villages/baldock/baldock_-_history_and_further_information.htm">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.north-herts.gov.uk/index/leisure_and_culture/tourism_and_travel/towns_and_villages/baldock/baldock_-_history_and_further_information.htm">the original</a> on 2 February 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaldock&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.north-herts.gov.uk%2Findex%2Fleisure_and_culture%2Ftourism_and_travel%2Ftowns_and_villages%2Fbaldock%2Fbaldock_-_history_and_further_information.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Baldock – History and Further Information (downloaded 1 February 2015)</span></li>
+<li id="cite_note-Skeat-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Skeat_10-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://books.google.com/books?id=UERBAAAAYAAJ&amp;pg=PA59&amp;lpg=PA59&amp;dq=baudac&amp;source=bl&amp;ots=BNxJsnyZIs&amp;sig=j_9fsAx8_xl9bCXgCxIne2jCYC4&amp;hl=en&amp;sa=X&amp;ei=v7fPVJOoOoadyAS43oLYBQ&amp;ved=0CDcQ6AEwBzgU#v=onepage&amp;q=baudac&amp;f=false">https://books.google.com/books?id=UERBAAAAYAAJ&amp;pg=PA59&amp;lpg=PA59&amp;dq=baudac&amp;source=bl&amp;ots=BNxJsnyZIs&amp;sig=j_9fsAx8_xl9bCXgCxIne2jCYC4&amp;hl=en&amp;sa=X&amp;ei=v7fPVJOoOoadyAS43oLYBQ&amp;ved=0CDcQ6AEwBzgU#v=onepage&amp;q=baudac&amp;f=false</a> The Place-names of Hertfordshire (Google eBook), by Walter William Skeat, East Herts Archaeological Society, 1904. Page 59</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Harrison, Henry (1912). <i>Surnames of the United Kingdom: A Concise Etymological Dictionary</i>. London: Eaton Press. p.&#160;18.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaldock&amp;rft.au=Harrison%2C+Henry&amp;rft.btitle=Surnames+of+the+United+Kingdom%3A+A+Concise+Etymological+Dictionary&amp;rft.date=1912&amp;rft.genre=book&amp;rft.pages=18&amp;rft.place=London&amp;rft.pub=Eaton+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Polo-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Polo_12-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://books.google.com/books?id=0NBQAwAAQBAJ&amp;pg=PA25&amp;lpg=PA25&amp;dq=baudac&amp;source=bl&amp;ots=lzy7j-sIm9&amp;sig=t24W8KtL6TcgB7kOi8CPRtGPeEk&amp;hl=en&amp;sa=X&amp;ei=TLTPVJCTPJenyAT58oBw&amp;ved=0CFIQ6AEwCQ#v=onepage&amp;q=baudac&amp;f=false">https://books.google.com/books?id=0NBQAwAAQBAJ&amp;pg=PA25&amp;lpg=PA25&amp;dq=baudac&amp;source=bl&amp;ots=lzy7j-sIm9&amp;sig=t24W8KtL6TcgB7kOi8CPRtGPeEk&amp;hl=en&amp;sa=X&amp;ei=TLTPVJCTPJenyAT58oBw&amp;ved=0CFIQ6AEwCQ#v=onepage&amp;q=baudac&amp;f=false</a> Travels of Marco Polo, by L. F. Benedetto, 1931. Page 26.</span></li>
+<li id="cite_note-BTCS-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-BTCS_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BTCS_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150202195657/http://www.north-herts.gov.uk/index/environment_and_planning/planning/planning_policy_and_projects-2/town_centre_strategies-2/baldock_town_centre_strategy-2.htm">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.north-herts.gov.uk/index/environment_and_planning/planning/planning_policy_and_projects-2/town_centre_strategies-2/baldock_town_centre_strategy-2.htm">the original</a> on 2 February 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaldock&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.north-herts.gov.uk%2Findex%2Fenvironment_and_planning%2Fplanning%2Fplanning_policy_and_projects-2%2Ftown_centre_strategies-2%2Fbaldock_town_centre_strategy-2.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Baldock Town Centre Strategy (downloaded 1 February 2015)</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><i>AA Touring Guide of England</i>, 1974, PAGE 138, <a href="/wiki/Special:BookSources/0092115500" class="internal mw-magiclink-isbn">ISBN 0-09-211550-0</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Gilbert R Burleigh and Keith J Fitzpatrick-Matthews (2010). <i>Excavations in Baldock 1978–1994, volume 1: an Iron Age and Romano-British cemetery at Wallington Road</i>. Letchworth Garden City: North Hertfordshire District Council Museums &amp; North Hertfordshire Archaeological Society. p.&#160;21. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-9554116-5-6" title="Special:BookSources/978-0-9554116-5-6">978-0-9554116-5-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaldock&amp;rft.au=Gilbert+R+Burleigh+and+Keith+J+Fitzpatrick-Matthews&amp;rft.btitle=Excavations+in+Baldock+1978%931994%2C+volume+1%3A+an+Iron+Age+and+Romano-British+cemetery+at+Wallington+Road&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-0-9554116-5-6&amp;rft.pages=21&amp;rft.place=Letchworth+Garden+City&amp;rft.pub=North+Hertfordshire+District+Council+Museums+%26+North+Hertfordshire+Archaeological+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.achurchnearyou.com/st-mary-the-virgin-baldock/page/6274/">[1]</a>. The Parish Church of St. Mary the Virgin Baldock on the <a href="/wiki/Church_of_England" title="Church of England">Church of England</a> website</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.visionofbritain.org.uk/text/chap_page.jsp?t_id=J_Wesley&amp;c_id=7&amp;p_id=5">[2]</a> A Vision of Britain Through Time: John Wesley</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Moira Keast (2007). <i>The Story of Kayser Bondor</i>. Baldock [Eng.]: Baldock Museum and Local History Society. pp.&#160;13–14.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaldock&amp;rft.au=Moira+Keast&amp;rft.btitle=The+Story+of+Kayser+Bondor&amp;rft.date=2007&amp;rft.genre=book&amp;rft.pages=13-14&amp;rft.place=Baldock+%5BEng.%5D&amp;rft.pub=Baldock+Museum+and+Local+History+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.britishlistedbuildings.co.uk/en-161611-church-of-saint-mary-hertfordshire">Church of Saint Mary, Baldock</a>". <i>British Listed Buildings</i>. Retrieved 14 April 2014.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">William Page (editor) (1912). <a rel="nofollow" class="external text" href="http://www.british-history.ac.uk/report.aspx?compid=43582">"Parishes: Baldock"</a>. <i>A History of the County of Hertford: volume 3</i>. British History Online<span class="reference-accessdate">. Retrieved <span class="nowrap">26 March</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaldock&amp;rft.atitle=Parishes%3A+Baldock&amp;rft.au=William+Page+%28editor%29&amp;rft.date=1912&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.british-history.ac.uk%2Freport.aspx%3Fcompid%3D43582&amp;rft.jtitle=A+History+of+the+County+of+Hertford%3A+volume+3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.thecomet.net/news/licensing_threat_to_future_of_balstock_music_festival_1_1567519">http://www.thecomet.net/news/licensing_threat_to_future_of_balstock_music_festival_1_1567519</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Dickens, Monica <i>An Open Book</i>, Mayflower Books/Heinemann (1978) pgs 111–122</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=14" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bramwell G Rudd (2014) <i>Courtaulds and the hosiery &amp; knitwear industry</i>, ISBN softback 978-1-905472-06-2, hardback 978-1-905472-18-5</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baldock&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.baldockfestival.org">Baldock Festival</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.geograph.co.uk/gridref/TL2433">Photographs of Baldock</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.st-marysjm-baldock.herts.sch.uk/">St Mary's Church of England (VC) Junior School</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hartsfield.herts.sch.uk/">Hartsfield JMI Primary School</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ktemplar.herts.sch.uk/">Knights Templar School</a></li>
+<li><a rel="nofollow" class="external text" href="http://baldockmidnightmorris.org.uk/">Baldock Midnight Morris</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hertfordshire-genealogy.co.uk/links/baldock.htm">Baldock (<i>A Guide to Old Hertfordshire</i>)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.british-history.ac.uk/report.aspx?compid=43582">British History Online: Baldock</a></li>
+</ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Baldock" class="extiw" title="commons:Category:Baldock">Baldock</a></b></i>.</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DHertfordshire.7Clink.3DHertfordshire_Ceremonial_county_of_Hertfordshire" style="padding:3px">
+<table class="nowraplinks hlist vcard collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hertfordshire" title="Template:Hertfordshire"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hertfordshire" title="Template talk:Hertfordshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hertfordshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DHertfordshire.7Clink.3DHertfordshire_Ceremonial_county_of_Hertfordshire" class="adr" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Hertfordshire" title="Hertfordshire"><img alt="Hertfordshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FlagOfHertfordshire.PNG/23px-FlagOfHertfordshire.PNG" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FlagOfHertfordshire.PNG/35px-FlagOfHertfordshire.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FlagOfHertfordshire.PNG/46px-FlagOfHertfordshire.PNG 2x" data-file-width="430" data-file-height="260" /></a></span> <span class="category"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial county</a></span> of <span class="fn org region"><a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a></span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i><a href="/wiki/Portal:Hertfordshire" title="Portal:Hertfordshire">Hertfordshire Portal</a></i></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Boroughs or districts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Broxbourne_(borough)" class="mw-redirect" title="Broxbourne (borough)">Borough of Broxbourne</a></li>
+<li><a href="/wiki/Dacorum" title="Dacorum">Borough of Dacorum</a></li>
+<li><a href="/wiki/East_Hertfordshire" title="East Hertfordshire">District of East Hertfordshire</a></li>
+<li><a href="/wiki/Hertsmere" title="Hertsmere">Borough of Hertsmere</a></li>
+<li><a href="/wiki/North_Hertfordshire" title="North Hertfordshire">District of North Hertfordshire</a></li>
+<li><a href="/wiki/City_of_St_Albans" class="mw-redirect" title="City of St Albans">City and District of St Albans</a></li>
+<li><a href="/wiki/Stevenage" title="Stevenage">Borough of Stevenage</a></li>
+<li><a href="/wiki/Three_Rivers_(district)" class="mw-redirect" title="Three Rivers (district)">District of Three Rivers</a></li>
+<li><a href="/wiki/Watford" title="Watford">Borough of Watford</a></li>
+<li><a href="/wiki/Welwyn_Hatfield" title="Welwyn Hatfield">Borough of Welwyn Hatfield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Major settlements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Baldock</a></li>
+<li><a href="/wiki/Berkhamsted" title="Berkhamsted">Berkhamsted</a></li>
+<li><a href="/wiki/Bishop%27s_Stortford" title="Bishop's Stortford">Bishop's Stortford</a></li>
+<li><a href="/wiki/Borehamwood" title="Borehamwood">Borehamwood</a></li>
+<li><a href="/wiki/Broxbourne" title="Broxbourne">Broxbourne</a></li>
+<li><a href="/wiki/Buntingford" title="Buntingford">Buntingford</a></li>
+<li><a href="/wiki/Bushey" title="Bushey">Bushey</a></li>
+<li><a href="/wiki/Cheshunt" title="Cheshunt">Cheshunt</a></li>
+<li><a href="/wiki/Harpenden" title="Harpenden">Harpenden</a></li>
+<li><a href="/wiki/Hatfield,_Hertfordshire" title="Hatfield, Hertfordshire">Hatfield</a></li>
+<li><a href="/wiki/Hemel_Hempstead" title="Hemel Hempstead">Hemel Hempstead</a></li>
+<li><a href="/wiki/Hertford" title="Hertford">Hertford</a></li>
+<li><a href="/wiki/Hitchin" title="Hitchin">Hitchin</a></li>
+<li><a href="/wiki/Hoddesdon" title="Hoddesdon">Hoddesdon</a></li>
+<li><a href="/wiki/Letchworth" title="Letchworth">Letchworth</a></li>
+<li><a href="/wiki/Potters_Bar" title="Potters Bar">Potters Bar</a></li>
+<li><a href="/wiki/Rickmansworth" title="Rickmansworth">Rickmansworth</a></li>
+<li><a href="/wiki/Royston,_Hertfordshire" title="Royston, Hertfordshire">Royston</a></li>
+<li><a href="/wiki/Sawbridgeworth" title="Sawbridgeworth">Sawbridgeworth</a></li>
+<li><b><a href="/wiki/St_Albans" title="St Albans">St Albans</a></b></li>
+<li><a href="/wiki/Stevenage" title="Stevenage">Stevenage</a></li>
+<li><a href="/wiki/Tring" title="Tring">Tring</a></li>
+<li><a href="/wiki/Waltham_Cross" title="Waltham Cross">Waltham Cross</a></li>
+<li><a href="/wiki/Ware,_Hertfordshire" title="Ware, Hertfordshire">Ware</a></li>
+<li><a href="/wiki/Watford" title="Watford">Watford</a></li>
+<li><a href="/wiki/Welwyn_Garden_City" title="Welwyn Garden City">Welwyn Garden City</a><br />
+<i>See also:</i> <b><a href="/wiki/List_of_civil_parishes_in_Hertfordshire" title="List of civil parishes in Hertfordshire">List of civil parishes in Hertfordshire</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hertfordshire_County_Council" title="Hertfordshire County Council">Hertfordshire County Council</a>
+<ul>
+<li><a href="/wiki/Hertfordshire_County_Council_elections" title="Hertfordshire County Council elections">Elections</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Flag_of_Hertfordshire" title="Flag of Hertfordshire">Flag</a></li>
+<li><a href="/wiki/Parliamentary_constituencies_in_Hertfordshire" title="Parliamentary constituencies in Hertfordshire">Parliamentary constituencies</a></li>
+<li><a href="/wiki/Hertfordshire_(European_Parliament_constituency)" title="Hertfordshire (European Parliament constituency)">European Parliament constituency</a></li>
+<li><a href="/wiki/List_of_Hertfordshire_boundary_changes" title="List of Hertfordshire boundary changes">Boundary changes</a></li>
+<li><a href="/wiki/List_of_places_in_Hertfordshire" title="List of places in Hertfordshire">Places</a></li>
+<li><a href="/wiki/List_of_settlements_in_Hertfordshire_by_population" title="List of settlements in Hertfordshire by population">Settlements by population</a></li>
+<li><a href="/wiki/List_of_lost_settlements_in_Hertfordshire" title="List of lost settlements in Hertfordshire">Lost settlements</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Hertfordshire" title="List of Sites of Special Scientific Interest in Hertfordshire">SSSIs</a></li>
+<li><a href="/wiki/Grade_I_listed_buildings_in_Hertfordshire" title="Grade I listed buildings in Hertfordshire">Grade I listed buildings</a></li>
+<li><a href="/wiki/Grade_II*_listed_buildings_in_Hertfordshire" title="Grade II* listed buildings in Hertfordshire">Grade II* listed buildings</a></li>
+<li><a href="/wiki/History_of_Hertfordshire" title="History of Hertfordshire">History</a></li>
+<li><a href="/wiki/Lord_Lieutenant_of_Hertfordshire" title="Lord Lieutenant of Hertfordshire">Lord Lieutenants</a></li>
+<li><a href="/wiki/High_Sheriff_of_Hertfordshire" title="High Sheriff of Hertfordshire">High Sheriffs</a></li>
+<li><a href="/wiki/List_of_schools_in_Hertfordshire" title="List of schools in Hertfordshire">Schools</a></li>
+<li><a href="/wiki/List_of_museums_in_Hertfordshire" title="List of museums in Hertfordshire">Museums</a></li>
+<li><a href="/wiki/List_of_windmills_in_Hertfordshire" title="List of windmills in Hertfordshire">Windmills</a></li>
+<li><a href="/wiki/List_of_King_George_V_Playing_Fields_in_Hertfordshire" title="List of King George V Playing Fields in Hertfordshire">King George V Playing Fields</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Civil_parishes_of_Hertfordshire" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Civil_parishes_of_Hertfordshire" title="Template:Civil parishes of Hertfordshire"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Civil_parishes_of_Hertfordshire" title="Template talk:Civil parishes of Hertfordshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Civil_parishes_of_Hertfordshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Civil_parishes_of_Hertfordshire" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_civil_parishes_in_Hertfordshire" title="List of civil parishes in Hertfordshire">Civil parishes</a> of <a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Borough_of_Broxbourne" title="Borough of Broxbourne">Broxbourne</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Unparished areas</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cheshunt" title="Cheshunt">Cheshunt</a></li>
+<li><a href="/wiki/Hoddesdon" title="Hoddesdon">Hoddesdon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Dacorum" title="Dacorum">Dacorum</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Parishes</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aldbury" title="Aldbury">Aldbury</a></li>
+<li><a href="/wiki/Berkhamsted" title="Berkhamsted">Berkhamsted</a></li>
+<li><a href="/wiki/Bovingdon" title="Bovingdon">Bovingdon</a></li>
+<li><a href="/wiki/Chipperfield" title="Chipperfield">Chipperfield</a></li>
+<li><a href="/wiki/Flamstead" title="Flamstead">Flamstead</a></li>
+<li><a href="/wiki/Flaunden" title="Flaunden">Flaunden</a></li>
+<li><a href="/wiki/Great_Gaddesden" title="Great Gaddesden">Great Gaddesden</a></li>
+<li><a href="/wiki/Kings_Langley" title="Kings Langley">Kings Langley</a></li>
+<li><a href="/wiki/Little_Gaddesden" title="Little Gaddesden">Little Gaddesden</a></li>
+<li><a href="/wiki/Markyate" title="Markyate">Markyate</a></li>
+<li><a href="/wiki/Nash_Mills" title="Nash Mills">Nash Mills</a></li>
+<li><a href="/wiki/Nettleden" title="Nettleden">Nettleden with Potten End</a></li>
+<li><a href="/wiki/Northchurch" title="Northchurch">Northchurch</a></li>
+<li><a href="/wiki/Tring" title="Tring">Tring</a></li>
+<li><a href="/wiki/Tring_Rural" title="Tring Rural">Tring Rural</a></li>
+<li><a href="/wiki/Wigginton,_Hertfordshire" title="Wigginton, Hertfordshire">Wigginton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Unparished areas</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hemel_Hempstead" title="Hemel Hempstead">Hemel Hempstead</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/East_Hertfordshire" title="East Hertfordshire">East Hertfordshire</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Albury,_Hertfordshire" title="Albury, Hertfordshire">Albury</a></li>
+<li><a href="/wiki/Anstey,_Hertfordshire" title="Anstey, Hertfordshire">Anstey</a></li>
+<li><a href="/wiki/Ardeley" title="Ardeley">Ardeley</a></li>
+<li><a href="/wiki/Aspenden" title="Aspenden">Aspenden</a></li>
+<li><a href="/wiki/Aston,_Hertfordshire" title="Aston, Hertfordshire">Aston</a></li>
+<li><a href="/wiki/Bayford,_Hertfordshire" title="Bayford, Hertfordshire">Bayford</a></li>
+<li><a href="/wiki/Bengeo_Rural" title="Bengeo Rural">Bengeo Rural</a></li>
+<li><a href="/wiki/Benington,_Hertfordshire" title="Benington, Hertfordshire">Benington</a></li>
+<li><a href="/wiki/Bishop%27s_Stortford" title="Bishop's Stortford">Bishop's Stortford</a></li>
+<li><a href="/wiki/Bramfield,_Hertfordshire" title="Bramfield, Hertfordshire">Bramfield</a></li>
+<li><a href="/wiki/Braughing" title="Braughing">Braughing</a></li>
+<li><a href="/wiki/Brent_Pelham" title="Brent Pelham">Brent Pelham</a> and <a href="/wiki/Meesden" title="Meesden">Meesden</a></li>
+<li><a href="/wiki/Brickendon" title="Brickendon">Brickendon Liberty</a></li>
+<li><a href="/wiki/Buckland,_Hertfordshire" title="Buckland, Hertfordshire">Buckland and Chipping</a></li>
+<li><a href="/wiki/Buntingford" title="Buntingford">Buntingford</a></li>
+<li><a href="/wiki/Cottered" title="Cottered">Cottered</a></li>
+<li><a href="/wiki/Datchworth" title="Datchworth">Datchworth</a></li>
+<li><a href="/wiki/Gilston" title="Gilston">Eastwick and Gilston</a></li>
+<li><a href="/wiki/Furneux_Pelham" title="Furneux Pelham">Furneux Pelham</a></li>
+<li><a href="/wiki/Amwell,_Hertfordshire" title="Amwell, Hertfordshire">Great Amwell</a></li>
+<li><a href="/wiki/Great_Munden" title="Great Munden">Great Munden</a></li>
+<li><a href="/wiki/Hertford" title="Hertford">Hertford</a></li>
+<li><a href="/wiki/Hertford_Heath" title="Hertford Heath">Hertford Heath</a></li>
+<li><a href="/wiki/Hertingfordbury" title="Hertingfordbury">Hertingfordbury</a></li>
+<li><a href="/wiki/High_Wych" title="High Wych">High Wych</a></li>
+<li><a href="/wiki/Hormead" title="Hormead">Hormead</a></li>
+<li><a href="/wiki/Hunsdon" title="Hunsdon">Hunsdon</a></li>
+<li><a href="/wiki/Little_Berkhamsted" title="Little Berkhamsted">Little Berkhamsted</a></li>
+<li><a href="/wiki/Little_Hadham" title="Little Hadham">Little Hadham</a></li>
+<li><a href="/wiki/Dane_End" title="Dane End">Little Munden</a></li>
+<li><a href="/wiki/Much_Hadham" title="Much Hadham">Much Hadham</a></li>
+<li><a href="/wiki/Sawbridgeworth" title="Sawbridgeworth">Sawbridgeworth</a></li>
+<li><a href="/wiki/Standon,_Hertfordshire" title="Standon, Hertfordshire">Standon</a></li>
+<li><a href="/wiki/Stanstead_Abbotts" title="Stanstead Abbotts">Stanstead Abbots</a></li>
+<li><a href="/wiki/Stanstead_St_Margarets" title="Stanstead St Margarets">Stanstead St Margarets</a></li>
+<li><a href="/wiki/Stapleford,_Hertfordshire" title="Stapleford, Hertfordshire">Stapleford</a></li>
+<li><a href="/wiki/Stocking_Pelham" title="Stocking Pelham">Stocking Pelham</a></li>
+<li><a href="/wiki/Tewin" title="Tewin">Tewin</a></li>
+<li><a href="/wiki/Thorley,_Hertfordshire" title="Thorley, Hertfordshire">Thorley</a></li>
+<li><a href="/wiki/Thundridge" title="Thundridge">Thundridge</a></li>
+<li><a href="/wiki/Walkern" title="Walkern">Walkern</a></li>
+<li><a href="/wiki/Ware,_Hertfordshire" title="Ware, Hertfordshire">Ware</a></li>
+<li><a href="/wiki/Wareside" title="Wareside">Wareside</a></li>
+<li><a href="/wiki/Watton-at-Stone" title="Watton-at-Stone">Watton-at-Stone</a></li>
+<li><a href="/wiki/Westmill" title="Westmill">Westmill</a></li>
+<li><a href="/wiki/Widford,_Hertfordshire" title="Widford, Hertfordshire">Widford</a></li>
+<li><a href="/wiki/Wyddial" title="Wyddial">Wyddial</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hertsmere" title="Hertsmere">Hertsmere</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Parishes</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aldenham" title="Aldenham">Aldenham</a></li>
+<li><a href="/wiki/Elstree_and_Borehamwood" title="Elstree and Borehamwood">Elstree and Borehamwood</a></li>
+<li><a href="/wiki/Ridge,_Hertfordshire" title="Ridge, Hertfordshire">Ridge</a></li>
+<li><a href="/wiki/Shenley,_Hertfordshire" title="Shenley, Hertfordshire">Shenley</a></li>
+<li><a href="/wiki/South_Mimms" title="South Mimms">South Mimms</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Unparished areas</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bushey" title="Bushey">Bushey</a></li>
+<li><a href="/wiki/Potters_Bar" title="Potters Bar">Potters Bar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/North_Hertfordshire" title="North Hertfordshire">North Hertfordshire</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Parishes</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ashwell,_Hertfordshire" title="Ashwell, Hertfordshire">Ashwell</a></li>
+<li><a href="/wiki/Barkway" title="Barkway">Barkway</a></li>
+<li><a href="/wiki/Barley,_Hertfordshire" title="Barley, Hertfordshire">Barley</a></li>
+<li><a href="/wiki/Bygrave" title="Bygrave">Bygrave</a></li>
+<li><a href="/wiki/Caldecote,_Hertfordshire" title="Caldecote, Hertfordshire">Caldecote</a> and <a href="/wiki/Newnham,_Hertfordshire" title="Newnham, Hertfordshire">Newnham</a></li>
+<li><a href="/wiki/Clothall" title="Clothall">Clothall and Luffenhall</a></li>
+<li><a href="/wiki/Codicote" title="Codicote">Codicote</a></li>
+<li><a href="/wiki/Graveley,_Hertfordshire" title="Graveley, Hertfordshire">Graveley</a></li>
+<li><a href="/wiki/Great_Ashby" title="Great Ashby">Great Ashby</a></li>
+<li><a href="/wiki/Hexton" title="Hexton">Hexton</a></li>
+<li><a href="/wiki/Hinxworth" title="Hinxworth">Hinxworth</a></li>
+<li><a href="/wiki/Holwell,_Hertfordshire" title="Holwell, Hertfordshire">Holwell</a></li>
+<li><a href="/wiki/Ickleford" title="Ickleford">Ickleford</a></li>
+<li><a href="/wiki/Kelshall" title="Kelshall">Kelshall</a></li>
+<li><a href="/wiki/Kimpton,_Hertfordshire" title="Kimpton, Hertfordshire">Kimpton</a></li>
+<li><a href="/wiki/King%27s_Walden" title="King's Walden">King's Walden</a></li>
+<li><a href="/wiki/Knebworth" title="Knebworth">Knebworth</a></li>
+<li><a href="/wiki/Langley,_Hertfordshire" title="Langley, Hertfordshire">Langley</a></li>
+<li><a href="/wiki/Lilley,_Hertfordshire" title="Lilley, Hertfordshire">Lilley</a></li>
+<li><a href="/wiki/Nuthampstead" title="Nuthampstead">Nuthampstead</a></li>
+<li><a href="/wiki/Offley" title="Offley">Offley</a></li>
+<li><a href="/wiki/Pirton,_Hertfordshire" title="Pirton, Hertfordshire">Pirton</a></li>
+<li><a href="/wiki/Preston,_Hertfordshire" title="Preston, Hertfordshire">Preston</a></li>
+<li><a href="/wiki/Radwell,_Hertfordshire" title="Radwell, Hertfordshire">Radwell</a></li>
+<li><a href="/wiki/Reed,_Hertfordshire" title="Reed, Hertfordshire">Reed</a></li>
+<li><a href="/wiki/Royston,_Hertfordshire" title="Royston, Hertfordshire">Royston</a></li>
+<li><a href="/wiki/Rushden,_Hertfordshire" title="Rushden, Hertfordshire">Rushden</a> and <a href="/wiki/Wallington,_Hertfordshire" title="Wallington, Hertfordshire">Wallington</a></li>
+<li><a href="/wiki/Sandon,_Hertfordshire" title="Sandon, Hertfordshire">Sandon</a></li>
+<li><a href="/wiki/St_Ippolyts" title="St Ippolyts">St Ippolyts</a></li>
+<li><a href="/wiki/St_Paul%27s_Walden" title="St Paul's Walden">St Paul's Walden</a></li>
+<li><a href="/wiki/Therfield" title="Therfield">Therfield</a></li>
+<li><a href="/wiki/Weston,_Hertfordshire" title="Weston, Hertfordshire">Weston</a></li>
+<li><a href="/wiki/Wymondley" title="Wymondley">Wymondley</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Unparished areas</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Baldock</a></li>
+<li><a href="/wiki/Hitchin" title="Hitchin">Hitchin</a></li>
+<li><a href="/wiki/Letchworth" title="Letchworth">Letchworth Garden City</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/City_of_St_Albans" class="mw-redirect" title="City of St Albans">St Albans</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Parishes</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Colney_Heath" title="Colney Heath">Colney Heath</a></li>
+<li><a href="/wiki/Harpenden" title="Harpenden">Harpenden</a></li>
+<li><a href="/wiki/Harpenden_Rural" title="Harpenden Rural">Harpenden Rural</a></li>
+<li><a href="/wiki/London_Colney" title="London Colney">London Colney</a></li>
+<li><a href="/wiki/Redbourn" title="Redbourn">Redbourn</a></li>
+<li><a href="/wiki/Sandridge" title="Sandridge">Sandridge</a></li>
+<li><a href="/wiki/St_Michael,_Hertfordshire" title="St Michael, Hertfordshire">St Michael</a></li>
+<li><a href="/wiki/St_Stephen,_Hertfordshire" title="St Stephen, Hertfordshire">St Stephen</a></li>
+<li><a href="/wiki/Wheathampstead" title="Wheathampstead">Wheathampstead</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Unparished areas</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/St_Albans" title="St Albans">St Albans</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Three_Rivers_District" title="Three Rivers District">Three Rivers</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Parishes</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abbots_Langley" title="Abbots Langley">Abbots Langley</a></li>
+<li><a href="/wiki/Chorleywood" title="Chorleywood">Chorleywood</a></li>
+<li><a href="/wiki/Croxley_Green" title="Croxley Green">Croxley Green</a></li>
+<li><a href="/wiki/Sarratt" title="Sarratt">Sarratt</a></li>
+<li><a href="/wiki/Watford_Rural" title="Watford Rural">Watford Rural</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Unparished areas</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rickmansworth" title="Rickmansworth">Rickmansworth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Welwyn_Hatfield" title="Welwyn Hatfield">Welwyn Hatfield</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Parishes</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ayot_St_Lawrence" title="Ayot St Lawrence">Ayot St Lawrence</a></li>
+<li><a href="/wiki/Ayot_St_Peter" title="Ayot St Peter">Ayot St Peter</a></li>
+<li><a href="/wiki/Essendon,_Hertfordshire" title="Essendon, Hertfordshire">Essendon</a></li>
+<li><a href="/wiki/Hatfield,_Hertfordshire" title="Hatfield, Hertfordshire">Hatfield</a></li>
+<li><a href="/wiki/North_Mymms" title="North Mymms">North Mymms</a></li>
+<li><a href="/wiki/Northaw_and_Cuffley" title="Northaw and Cuffley">Northaw and Cuffley</a></li>
+<li><a href="/wiki/Welwyn" title="Welwyn">Welwyn</a></li>
+<li><a href="/wiki/Woolmer_Green" title="Woolmer Green">Woolmer Green</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Unparished areas</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Welwyn_Garden_City" title="Welwyn Garden City">Welwyn Garden City</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Unparished boroughs</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stevenage" title="Stevenage">Stevenage</a></li>
+<li><a href="/wiki/Watford" title="Watford">Watford</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_places_in_Hertfordshire" title="List of places in Hertfordshire">List of places in Hertfordshire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/157709966">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/157709966">157709966</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/7694051-2">7694051-2</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2110
+Cached time: 20170422040833
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.456 seconds
+Real time usage: 0.745 seconds
+Preprocessor visited node count: 5805/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 129574/2097152 bytes
+Template argument size: 14014/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 4/500
+Lua time usage: 0.176/10.000 seconds
+Lua memory usage: 5.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  586.696      1 -total
+ 42.12%  247.145      1 Template:Infobox_UK_place
+ 39.49%  231.711      2 Template:Infobox
+ 18.40%  107.927      1 Template:Reflist
+ 14.83%   87.008      9 Template:Navbox
+ 12.72%   74.631      5 Template:Cite_book
+  7.93%   46.533     25 Template:Ubl
+  7.69%   45.120      1 Template:Other_uses
+  7.64%   44.844      1 Template:Civil_parishes_of_Hertfordshire
+  6.86%   40.233      1 Template:Coord
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:430705-0!*!0!!en!4!* and timestamp 20170422040832 and revision id 774928673
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Baldock&amp;oldid=774928673">https://en.wikipedia.org/w/index.php?title=Baldock&amp;oldid=774928673</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Towns_in_Hertfordshire" title="Category:Towns in Hertfordshire">Towns in Hertfordshire</a></li><li><a href="/wiki/Category:Charter_fairs" title="Category:Charter fairs">Charter fairs</a></li><li><a href="/wiki/Category:People_from_Baldock" title="Category:People from Baldock">People from Baldock</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2015" title="Category:Use dmy dates from March 2015">Use dmy dates from March 2015</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Baldock" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Baldock" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Baldock"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Baldock"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Baldock" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Baldock&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Baldock&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Baldock" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Baldock" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Baldock&amp;oldid=774928673" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Baldock&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q789348" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Baldock&amp;id=774928673" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Baldock">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Baldock&amp;returnto=Baldock&amp;oldid=774928673&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Baldock&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Baldock" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Baldock" title="Baldock – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Baldock" title="Baldock – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Baldock" title="Baldock – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Baldock" title="Baldock – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Baldock" title="Baldock – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Baldock" title="Baldock – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Baldock" title="Baldock – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Baldock" title="Baldock – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Baldock" title="Baldock – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Baldock" title="Baldock – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Baldock" title="Baldock – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Baldock" title="Baldock – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q789348#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 April 2017, at 15:27.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Baldock&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.456","walltime":"0.745","ppvisitednodes":{"value":5805,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":129574,"limit":2097152},"templateargumentsize":{"value":14014,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  586.696      1 -total"," 42.12%  247.145      1 Template:Infobox_UK_place"," 39.49%  231.711      2 Template:Infobox"," 18.40%  107.927      1 Template:Reflist"," 14.83%   87.008      9 Template:Navbox"," 12.72%   74.631      5 Template:Cite_book","  7.93%   46.533     25 Template:Ubl","  7.69%   45.120      1 Template:Other_uses","  7.64%   44.844      1 Template:Civil_parishes_of_Hertfordshire","  6.86%   40.233      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.176","limit":"10.000"},"limitreport-memusage":{"value":5831867,"limit":52428800}},"cachereport":{"origin":"mw2110","timestamp":"20170422040833","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw2226"});});</script>
+	</body>
+</html>

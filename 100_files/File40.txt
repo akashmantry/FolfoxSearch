@@ -1,0 +1,1894 @@
+https://en.wikipedia.org/wiki/2017_Masters_Tournament
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>2017 Masters Tournament - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2017_Masters_Tournament","wgTitle":"2017 Masters Tournament","wgCurRevisionId":776317590,"wgRevisionId":776317590,"wgArticleId":50116192,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from April 2016","Pages using deprecated image syntax","Official website not in Wikidata","Coordinates not on Wikidata","Masters Tournament","2017 in golf","2017 in American sports","2017 in Georgia (U.S. state)","April 2017 sports events in the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2017_Masters_Tournament","wgRelevantArticleId":50116192,"wgRequestId":"WPhnlQrAEEsAACrdw9MAAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":33.503,"lon":-82.02},"wgWikibaseItemId":"Q24197369","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/MastersTournamentLogo.svg/1200px-MastersTournamentLogo.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/2017_Masters_Tournament"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/2017_Masters_Tournament"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-2017_Masters_Tournament rootpage-2017_Masters_Tournament skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">2017 Masters Tournament</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">"2017 Masters" redirects here. For the snooker tournament, see <a href="/wiki/2017_Masters_(snooker)" title="2017 Masters (snooker)">2017 Masters (snooker)</a>.</div>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">2017 Masters Tournament</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:MastersTournamentLogo.svg" class="image"><img alt="MastersTournamentLogo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/2/2e/MastersTournamentLogo.svg/150px-MastersTournamentLogo.svg.png" width="150" height="187" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/2e/MastersTournamentLogo.svg/225px-MastersTournamentLogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/2e/MastersTournamentLogo.svg/300px-MastersTournamentLogo.svg.png 2x" data-file-width="155" data-file-height="193" /></a></td>
+</tr>
+<tr>
+<th colspan="2" class="navbox-title" style="text-align:center">Tournament information</th>
+</tr>
+<tr>
+<th scope="row">Dates</th>
+<td>April 6–9, 2017</td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="location"><a href="/wiki/Augusta,_Georgia" title="Augusta, Georgia">Augusta, Georgia</a>, U.S.</td>
+</tr>
+<tr>
+<th scope="row">Course(s)</th>
+<td><a href="/wiki/Augusta_National_Golf_Club" title="Augusta National Golf Club">Augusta National Golf Club</a></td>
+</tr>
+<tr>
+<th scope="row">Tour(s)</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/PGA_Tour" title="PGA Tour">PGA Tour</a></li>
+<li><a href="/wiki/European_Tour" class="mw-redirect" title="European Tour">European Tour</a></li>
+<li><a href="/wiki/Japan_Golf_Tour" title="Japan Golf Tour">Japan Golf Tour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" class="navbox-title" style="text-align:center">Statistics</th>
+</tr>
+<tr>
+<th scope="row">Par</th>
+<td>72</td>
+</tr>
+<tr>
+<th scope="row">Length</th>
+<td>7,435 yards (6,799&#160;m)</td>
+</tr>
+<tr>
+<th scope="row">Field</th>
+<td>93 players, 53 after cut</td>
+</tr>
+<tr>
+<th scope="row">Cut</th>
+<td>150 (+6)</td>
+</tr>
+<tr>
+<th scope="row">Prize fund</th>
+<td><a href="/wiki/United_States_dollar" title="United States dollar">$</a>11,000,000<br />
+<a href="/wiki/Euro" title="Euro">€</a>10,211,750</td>
+</tr>
+<tr>
+<th scope="row">Winner's share</th>
+<td>$1,980,000<br />
+€1,838,115</td>
+</tr>
+<tr>
+<th colspan="2" class="navbox-title" style="text-align:center">Champion</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">279 (−9), playoff</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="float: left;">«<a href="/wiki/2016_Masters_Tournament" title="2016 Masters Tournament">2016</a></div>
+<div style="float: right;"><a href="/wiki/2018_Masters_Tournament" title="2018 Masters Tournament">2018</a>»</div>
+</td>
+</tr>
+</table>
+<div class="noviewer thumb tright">
+<div class="thumbinner" style="width:242px">
+<div style="position:relative;width:240px;border:1px solid lightgray"><a href="/wiki/File:Usa_edcp_relief_location_map.png" class="image" title="Augusta&#160; is located in the US"><img alt="Augusta&#160; is located in the US" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usa_edcp_relief_location_map.png/240px-Usa_edcp_relief_location_map.png" width="240" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usa_edcp_relief_location_map.png/360px-Usa_edcp_relief_location_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usa_edcp_relief_location_map.png/480px-Usa_edcp_relief_location_map.png 2x" data-file-width="1181" data-file-height="731" /></a>
+<div style="position:absolute;top:64.488%;left:75.097%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Augusta&#160;" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/5px-Red_pog.svg.png" title="Augusta&#160;" width="5" height="5" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/10px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><span style="padding:1px;float:right"><small>Augusta&#160;</small></span></div>
+</div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Usa_edcp_relief_location_map.png" title="File:Usa edcp relief location map.png"></a></div>
+Location in the <a href="/wiki/United_States" title="United States">United States</a></div>
+</div>
+</div>
+<p>The <b>2017 Masters Tournament</b> was the 81st edition of the <a href="/wiki/Masters_Tournament" title="Masters Tournament">Masters Tournament</a> and the first of golf's four <a href="/wiki/Men%27s_major_golf_championships" title="Men's major golf championships">major championships</a> in 2017. It was held on <span class="nowrap">April 6–9</span> at <a href="/wiki/Augusta_National_Golf_Club" title="Augusta National Golf Club">Augusta National Golf Club</a> in <a href="/wiki/Augusta,_Georgia" title="Augusta, Georgia">Augusta, Georgia</a>.</p>
+<p><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a> beat <a href="/wiki/Justin_Rose" title="Justin Rose">Justin Rose</a> in a sudden-death playoff after they both completed the 72 holes in nine-under-par. This was García's first major championship title, which came in his 74th attempt. Previously, García finished in the top-10 on 22 occasions. He was the first Spaniard to win the Masters since <a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a> in <a href="/wiki/1999_Masters_Tournament" title="1999 Masters Tournament">1999</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Course"><span class="tocnumber">1</span> <span class="toctext">Course</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Field"><span class="tocnumber">2</span> <span class="toctext">Field</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Past_champions_in_the_field"><span class="tocnumber">2.1</span> <span class="toctext">Past champions in the field</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Made_the_cut"><span class="tocnumber">2.1.1</span> <span class="toctext">Made the cut</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Missed_the_cut"><span class="tocnumber">2.1.2</span> <span class="toctext">Missed the cut</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Nationalities_in_the_field"><span class="tocnumber">2.2</span> <span class="toctext">Nationalities in the field</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Par_3_contest"><span class="tocnumber">3</span> <span class="toctext">Par 3 contest</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Round_summaries"><span class="tocnumber">4</span> <span class="toctext">Round summaries</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#First_round"><span class="tocnumber">4.1</span> <span class="toctext">First round</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Second_round"><span class="tocnumber">4.2</span> <span class="toctext">Second round</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Third_round"><span class="tocnumber">4.3</span> <span class="toctext">Third round</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Final_round"><span class="tocnumber">4.4</span> <span class="toctext">Final round</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Scorecard"><span class="tocnumber">4.4.1</span> <span class="toctext">Scorecard</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Playoff"><span class="tocnumber">4.5</span> <span class="toctext">Playoff</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Course">Course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=1" title="Edit section: Course">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Augusta_National_Golf_Club" title="Augusta National Golf Club">Augusta National Golf Club</a></div>
+<table class="wikitable" style="text-align: center">
+<tr>
+<th>Hole</th>
+<th>Name</th>
+<th>Yards</th>
+<th>Par</th>
+<th></th>
+<th>Hole</th>
+<th>Name</th>
+<th>Yards</th>
+<th>Par</th>
+</tr>
+<tr>
+<td>1</td>
+<td align="left"><a href="/wiki/Tea_Olive" class="mw-redirect" title="Tea Olive">Tea Olive</a></td>
+<td>445</td>
+<td>4</td>
+<td rowspan="10"></td>
+<td>10</td>
+<td align="left"><a href="/wiki/Camellia" title="Camellia">Camellia</a></td>
+<td>495</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left"><a href="/wiki/Flowering_dogwood" class="mw-redirect" title="Flowering dogwood">Pink Dogwood</a></td>
+<td>575</td>
+<td>5</td>
+<td>11</td>
+<td align="left"><a href="/wiki/White_Dogwood" class="mw-redirect" title="White Dogwood">White Dogwood</a></td>
+<td>505</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td align="left"><a href="/wiki/Peach" title="Peach">Flowering Peach</a></td>
+<td>350</td>
+<td>4</td>
+<td>12</td>
+<td align="left"><a href="/wiki/Forsythia" title="Forsythia">Golden Bell</a></td>
+<td>155</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td align="left"><a href="/wiki/Malus" title="Malus">Flowering Crab Apple</a></td>
+<td>240</td>
+<td>3</td>
+<td>13</td>
+<td align="left"><a href="/wiki/Azalea" title="Azalea">Azalea</a></td>
+<td>510</td>
+<td>5</td>
+</tr>
+<tr>
+<td>5</td>
+<td align="left"><a href="/wiki/Southern_magnolia" class="mw-redirect" title="Southern magnolia">Magnolia</a></td>
+<td>455</td>
+<td>4</td>
+<td>14</td>
+<td align="left"><a href="/wiki/Cunninghamia" title="Cunninghamia">Chinese Fir</a></td>
+<td>440</td>
+<td>4</td>
+</tr>
+<tr>
+<td>6</td>
+<td align="left"><a href="/wiki/Eastern_Juniper" class="mw-redirect" title="Eastern Juniper">Juniper</a></td>
+<td>180</td>
+<td>3</td>
+<td>15</td>
+<td align="left"><a href="/wiki/Pyracantha" title="Pyracantha">Firethorn</a></td>
+<td>530</td>
+<td>5</td>
+</tr>
+<tr>
+<td>7</td>
+<td align="left"><a href="/wiki/Cortaderia_selloana" title="Cortaderia selloana">Pampas</a></td>
+<td>450</td>
+<td>4</td>
+<td>16</td>
+<td align="left"><a href="/wiki/Eastern_Redbud" class="mw-redirect" title="Eastern Redbud">Redbud</a></td>
+<td>170</td>
+<td>3</td>
+</tr>
+<tr>
+<td>8</td>
+<td align="left"><a href="/wiki/Yellow_Jessamine" class="mw-redirect" title="Yellow Jessamine">Yellow Jasmine</a></td>
+<td>570</td>
+<td>5</td>
+<td>17</td>
+<td align="left"><a href="/wiki/Nandina" title="Nandina">Nandina</a></td>
+<td>440</td>
+<td>4</td>
+</tr>
+<tr>
+<td>9</td>
+<td align="left"><a href="/wiki/Prunus_caroliniana" title="Prunus caroliniana">Carolina Cherry</a></td>
+<td>460</td>
+<td>4</td>
+<td>18</td>
+<td align="left"><a href="/wiki/American_holly" class="mw-redirect" title="American holly">Holly</a></td>
+<td>465</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="2"><b>Out</b></td>
+<td><b>3,725</b></td>
+<td><b>36</b></td>
+<td colspan="2"><b>In</b></td>
+<td><b>3,710</b></td>
+<td><b>36</b></td>
+</tr>
+<tr>
+<td colspan="5" align="left"><small>Source:</small></td>
+<td colspan="2"><b>Total</b></td>
+<td><b>7,435</b></td>
+<td><b>72</b></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Field">Field</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=2" title="Edit section: Field">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Masters has the smallest field of the four major championships. Officially, the Masters remains an invitation event, but there is a set of qualifying criteria that determines who is included in the field. Each player is classified according to the first category by which he qualified, with other categories in which he qualified shown in parentheses.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Golfers who qualify based solely on their performance in amateur tournaments (categories 7–11) must remain amateurs on the starting day of the tournament to be eligible to play.</p>
+<dl>
+<dt>1. Past <a href="/wiki/Masters_Tournament" title="Masters Tournament">Masters</a> Champions</dt>
+</dl>
+<p><a href="/wiki/%C3%81ngel_Cabrera" title="Ángel Cabrera">Ángel Cabrera</a>, <a href="/wiki/Fred_Couples" title="Fred Couples">Fred Couples</a>, <a href="/wiki/Trevor_Immelman" title="Trevor Immelman">Trevor Immelman</a>, <a href="/wiki/Zach_Johnson" title="Zach Johnson">Zach Johnson</a> (3,18,19), <a href="/wiki/Bernhard_Langer" title="Bernhard Langer">Bernhard Langer</a>, <a href="/wiki/Sandy_Lyle" title="Sandy Lyle">Sandy Lyle</a>, <a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a> (3,14,17,18,19), <a href="/wiki/Larry_Mize" title="Larry Mize">Larry Mize</a>, <a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a>, <a href="/wiki/Mark_O%27Meara" title="Mark O'Meara">Mark O'Meara</a>, <a href="/wiki/Charl_Schwartzel" title="Charl Schwartzel">Charl Schwartzel</a> (17,18,19), <a href="/wiki/Adam_Scott_(golfer)" title="Adam Scott (golfer)">Adam Scott</a> (17,18,19), <a href="/wiki/Vijay_Singh" title="Vijay Singh">Vijay Singh</a>, <a href="/wiki/Jordan_Spieth" title="Jordan Spieth">Jordan Spieth</a> (2,12,16,17,18,19), <a href="/wiki/Bubba_Watson" title="Bubba Watson">Bubba Watson</a> (17,18,19), <a href="/wiki/Mike_Weir" title="Mike Weir">Mike Weir</a>, <a href="/wiki/Danny_Willett" title="Danny Willett">Danny Willett</a> (12,18,19), <a href="/wiki/Ian_Woosnam" title="Ian Woosnam">Ian Woosnam</a></p>
+<ul>
+<li><i><a href="/wiki/Tiger_Woods" title="Tiger Woods">Tiger Woods</a> withdrew due to a back injury.</i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li><i>The following past champions did not enter: <a href="/wiki/Tommy_Aaron" title="Tommy Aaron">Tommy Aaron</a>, <a href="/wiki/Jack_Burke,_Jr." class="mw-redirect" title="Jack Burke, Jr.">Jack Burke, Jr.</a>, <a href="/wiki/Charles_Coody" title="Charles Coody">Charles Coody</a>, <a href="/wiki/Ben_Crenshaw" title="Ben Crenshaw">Ben Crenshaw</a>, <a href="/wiki/Nick_Faldo" title="Nick Faldo">Nick Faldo</a>, <a href="/wiki/Raymond_Floyd" title="Raymond Floyd">Raymond Floyd</a>, <a href="/wiki/Doug_Ford_(golfer)" title="Doug Ford (golfer)">Doug Ford</a>, <a href="/wiki/Bob_Goalby" title="Bob Goalby">Bob Goalby</a>, <a href="/wiki/Jack_Nicklaus" title="Jack Nicklaus">Jack Nicklaus</a>, <a href="/wiki/Gary_Player" title="Gary Player">Gary Player</a>, <a href="/wiki/Craig_Stadler" title="Craig Stadler">Craig Stadler</a>, <a href="/wiki/Tom_Watson_(golfer)" title="Tom Watson (golfer)">Tom Watson</a>, <a href="/wiki/Fuzzy_Zoeller" title="Fuzzy Zoeller">Fuzzy Zoeller</a>.</i></li>
+</ul>
+<dl>
+<dt>2. Winners of the last five <a href="/wiki/U.S._Open_(golf)" title="U.S. Open (golf)">U.S. Opens</a></dt>
+</dl>
+<p><a href="/wiki/Martin_Kaymer" title="Martin Kaymer">Martin Kaymer</a> (5,19), <a href="/wiki/Justin_Rose" title="Justin Rose">Justin Rose</a> (6,12,18,19), <a href="/wiki/Webb_Simpson" title="Webb Simpson">Webb Simpson</a></p>
+<ul>
+<li><i><a href="/wiki/Dustin_Johnson" title="Dustin Johnson">Dustin Johnson</a> (12,13,16,17,18,19) withdrew after sustaining a back injury the day before the tournament.</i><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+</ul>
+<dl>
+<dt>3. Winners of the last five <a href="/wiki/The_Open_Championship" title="The Open Championship">British Opens</a></dt>
+</dl>
+<p><a href="/wiki/Ernie_Els" title="Ernie Els">Ernie Els</a>, <a href="/wiki/Rory_McIlroy" title="Rory McIlroy">Rory McIlroy</a> (4,12,16,17,18,19), <a href="/wiki/Henrik_Stenson" title="Henrik Stenson">Henrik Stenson</a> (14,18,19)</p>
+<dl>
+<dt>4. Winners of the last five <a href="/wiki/PGA_Championship" title="PGA Championship">PGA Championships</a></dt>
+</dl>
+<p><a href="/wiki/Jason_Day" title="Jason Day">Jason Day</a> (5,12,15,16,17,18,19), <a href="/wiki/Jason_Dufner" title="Jason Dufner">Jason Dufner</a> (17), <a href="/wiki/Jimmy_Walker_(golfer)" title="Jimmy Walker (golfer)">Jimmy Walker</a> (15,17,18,19)</p>
+<dl>
+<dt>5. Winners of the last three <a href="/wiki/The_Players_Championship" title="The Players Championship">The Players Championships</a></dt>
+</dl>
+<p><a href="/wiki/Rickie_Fowler" title="Rickie Fowler">Rickie Fowler</a> (16,18,19)</p>
+<dl>
+<dt>6. Winner of the <a href="/wiki/Golf_at_the_2016_Summer_Olympics_%E2%80%93_Men%27s_individual" title="Golf at the 2016 Summer Olympics – Men's individual">2016 Olympic Golf Tournament</a></dt>
+</dl>
+<ul>
+<li><i>Eligible under category 2</i></li>
+</ul>
+<dl>
+<dt>7. Top two finishers in the 2016 <a href="/wiki/U.S._Amateur" class="mw-redirect" title="U.S. Amateur">U.S. Amateur</a></dt>
+</dl>
+<p><a href="/wiki/Brad_Dalke" title="Brad Dalke">Brad Dalke</a> (a), <a href="/wiki/Curtis_Luck" title="Curtis Luck">Curtis Luck</a> (a,9)</p>
+<dl>
+<dt>8. Winner of the 2016 <a href="/wiki/The_Amateur_Championship" title="The Amateur Championship">Amateur Championship</a></dt>
+</dl>
+<p><a href="/wiki/Scott_Gregory_(golfer)" title="Scott Gregory (golfer)">Scott Gregory</a> (a)</p>
+<dl>
+<dt>9. Winner of the 2016 <a href="/wiki/Asia-Pacific_Amateur_Championship" title="Asia-Pacific Amateur Championship">Asia-Pacific Amateur Championship</a></dt>
+</dl>
+<ul>
+<li><i>Eligible under category 7</i></li>
+</ul>
+<dl>
+<dt>10. Winner of the 2017 <a href="/wiki/Latin_America_Amateur_Championship" title="Latin America Amateur Championship">Latin America Amateur Championship</a></dt>
+</dl>
+<p><a href="/wiki/Toto_Gana" title="Toto Gana">Toto Gana</a> (a)</p>
+<dl>
+<dt>11. Winner of the 2016 <a href="/wiki/U.S._Mid-Amateur" class="mw-redirect" title="U.S. Mid-Amateur">U.S. Mid-Amateur</a></dt>
+</dl>
+<p><a href="/wiki/Stewart_Hagestad" title="Stewart Hagestad">Stewart Hagestad</a> (a)</p>
+<dl>
+<dt>12. The top 12 finishers and ties in the <a href="/wiki/2016_Masters_Tournament" title="2016 Masters Tournament">2016 Masters Tournament</a></dt>
+</dl>
+<p><a href="/wiki/Daniel_Berger_(golfer)" title="Daniel Berger (golfer)">Daniel Berger</a> (16,17,18,19), <a href="/wiki/Paul_Casey" title="Paul Casey">Paul Casey</a> (17,18,19), <a href="/wiki/Matthew_Fitzpatrick" title="Matthew Fitzpatrick">Matthew Fitzpatrick</a> (18,19), <a href="/wiki/J._B._Holmes" title="J. B. Holmes">J. B. Holmes</a> (14,17,18,19), <a href="/wiki/S%C3%B8ren_Kjeldsen" title="Søren Kjeldsen">Søren Kjeldsen</a> (18), <a href="/wiki/Hideki_Matsuyama" title="Hideki Matsuyama">Hideki Matsuyama</a> (15,16,17,18,19), <a href="/wiki/Brandt_Snedeker" title="Brandt Snedeker">Brandt Snedeker</a> (17,18,19), <a href="/wiki/Lee_Westwood" title="Lee Westwood">Lee Westwood</a> (18)</p>
+<dl>
+<dt>13. Top 4 finishers and ties in the <a href="/wiki/2016_U.S._Open_(golf)" title="2016 U.S. Open (golf)">2016 U.S. Open</a></dt>
+</dl>
+<p><a href="/wiki/Jim_Furyk" title="Jim Furyk">Jim Furyk</a> (18), <a href="/wiki/Shane_Lowry_(golfer)" title="Shane Lowry (golfer)">Shane Lowry</a> (18), <a href="/wiki/Scott_Piercy" title="Scott Piercy">Scott Piercy</a> (18,19)</p>
+<dl>
+<dt>14. Top 4 finishers and ties in the <a href="/wiki/2016_Open_Championship" title="2016 Open Championship">2016 British Open Championship</a></dt>
+</dl>
+<p><a href="/wiki/Steve_Stricker" title="Steve Stricker">Steve Stricker</a></p>
+<dl>
+<dt>15. Top 4 finishers and ties in the <a href="/wiki/2016_PGA_Championship" title="2016 PGA Championship">2016 PGA Championship</a></dt>
+</dl>
+<p><a href="/wiki/Branden_Grace" title="Branden Grace">Branden Grace</a> (15,16,18,19), <a href="/wiki/Brooks_Koepka" title="Brooks Koepka">Brooks Koepka</a> (18,19), <a href="/wiki/Daniel_Summerhays" title="Daniel Summerhays">Daniel Summerhays</a></p>
+<dl>
+<dt>16. Winners of PGA Tour events that award a full-point allocation for the FedEx Cup, between the <a href="/wiki/2016_Masters_Tournament" title="2016 Masters Tournament">2016 Masters Tournament</a> and the 2017 Masters Tournament</dt>
+</dl>
+<p><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a> (18,19), <a href="/wiki/Adam_Hadwin" title="Adam Hadwin">Adam Hadwin</a> (19), <a href="/wiki/James_Hahn_(golfer)" title="James Hahn (golfer)">James Hahn</a>, <a href="/wiki/Russell_Henley" title="Russell Henley">Russell Henley</a>, <a href="/wiki/Charley_Hoffman" title="Charley Hoffman">Charley Hoffman</a>, <a href="/wiki/Mackenzie_Hughes" title="Mackenzie Hughes">Mackenzie Hughes</a>, <a href="/wiki/Billy_Hurley_III" title="Billy Hurley III">Billy Hurley III</a>, <a href="/wiki/Kim_Si-woo" title="Kim Si-woo">Kim Si-woo</a> (17), <a href="/wiki/Russell_Knox" title="Russell Knox">Russell Knox</a> (17,18,19), <a href="/wiki/Marc_Leishman" title="Marc Leishman">Marc Leishman</a> (19), <a href="/wiki/William_McGirt" title="William McGirt">William McGirt</a> (17,18), <a href="/wiki/Ryan_Moore_(golfer)" title="Ryan Moore (golfer)">Ryan Moore</a> (17,18,19), <a href="/wiki/Rod_Pampling" title="Rod Pampling">Rod Pampling</a>, <a href="/wiki/Pat_Perez" title="Pat Perez">Pat Perez</a>, <a href="/wiki/Jon_Rahm" title="Jon Rahm">Jon Rahm</a> (19), <a href="/wiki/Patrick_Reed" title="Patrick Reed">Patrick Reed</a> (17,18,19), <a href="/wiki/Brendan_Steele" title="Brendan Steele">Brendan Steele</a>, <a href="/wiki/Brian_Stuard" title="Brian Stuard">Brian Stuard</a>, <a href="/wiki/Hudson_Swafford" title="Hudson Swafford">Hudson Swafford</a>, <a href="/wiki/Justin_Thomas_(golfer)" title="Justin Thomas (golfer)">Justin Thomas</a> (17,18,19), <a href="/wiki/Jhonattan_Vegas" title="Jhonattan Vegas">Jhonattan Vegas</a> (17)</p>
+<dl>
+<dt>17. All players qualifying for the 2016 edition of the <a href="/wiki/Tour_Championship" title="Tour Championship">Tour Championship</a></dt>
+</dl>
+<p><a href="/wiki/Roberto_Castro" title="Roberto Castro">Roberto Castro</a>, <a href="/wiki/Kevin_Chappell" title="Kevin Chappell">Kevin Chappell</a> (18,19), <a href="/wiki/Emiliano_Grillo" title="Emiliano Grillo">Emiliano Grillo</a> (18,19), <a href="/wiki/Kevin_Kisner" title="Kevin Kisner">Kevin Kisner</a> (19), <a href="/wiki/Matt_Kuchar" title="Matt Kuchar">Matt Kuchar</a> (18,19), <a href="/wiki/Kevin_Na" title="Kevin Na">Kevin Na</a> (18), <a href="/wiki/Sean_O%27Hair" title="Sean O'Hair">Sean O'Hair</a>, <a href="/wiki/Gary_Woodland" title="Gary Woodland">Gary Woodland</a> (18,19)</p>
+<dl>
+<dt>18. Top 50 on the final 2016 <a href="/wiki/Official_World_Golf_Ranking" title="Official World Golf Ranking">Official World Golf Ranking</a> list</dt>
+</dl>
+<p><a href="/wiki/An_Byeong-hun" title="An Byeong-hun">An Byeong-hun</a>, <a href="/wiki/Rafael_Cabrera-Bello" title="Rafael Cabrera-Bello">Rafael Cabrera-Bello</a> (19), <a href="/wiki/Bill_Haas" title="Bill Haas">Bill Haas</a> (19), <a href="/wiki/Tyrrell_Hatton" title="Tyrrell Hatton">Tyrrell Hatton</a> (19), <a href="/wiki/Yuta_Ikeda" title="Yuta Ikeda">Yuta Ikeda</a> (19), <a href="/wiki/Francesco_Molinari" title="Francesco Molinari">Francesco Molinari</a> (19), <a href="/wiki/Alexander_Nor%C3%A9n" title="Alexander Norén">Alexander Norén</a> (19), <a href="/wiki/Louis_Oosthuizen" title="Louis Oosthuizen">Louis Oosthuizen</a> (19), <a href="/wiki/Thomas_Pieters" title="Thomas Pieters">Thomas Pieters</a> (19), <a href="/wiki/Andy_Sullivan_(golfer)" title="Andy Sullivan (golfer)">Andy Sullivan</a>, <a href="/wiki/Bernd_Wiesberger" title="Bernd Wiesberger">Bernd Wiesberger</a> (19), <a href="/wiki/Chris_Wood_(golfer)" title="Chris Wood (golfer)">Chris Wood</a></p>
+<dl>
+<dt>19. Top 50 on the <a href="/wiki/Official_World_Golf_Ranking" title="Official World Golf Ranking">Official World Golf Ranking</a> list on March 27</dt>
+</dl>
+<p><a href="/wiki/Ross_Fisher" title="Ross Fisher">Ross Fisher</a>, <a href="/wiki/Tommy_Fleetwood" title="Tommy Fleetwood">Tommy Fleetwood</a>, <a href="/wiki/Hideto_Tanihara" title="Hideto Tanihara">Hideto Tanihara</a>, <a href="/wiki/Wang_Jeung-hun" title="Wang Jeung-hun">Wang Jeung-hun</a></p>
+<dl>
+<dt>20. International invitees</dt>
+</dl>
+<p><i>None</i></p>
+<p>All five amateurs were appearing in their first Masters, as were fourteen professionals: <a href="/wiki/Tommy_Fleetwood" title="Tommy Fleetwood">Tommy Fleetwood</a>, <a href="/wiki/Adam_Hadwin" title="Adam Hadwin">Adam Hadwin</a>, <a href="/wiki/Tyrrell_Hatton" title="Tyrrell Hatton">Tyrrell Hatton</a>, <a href="/wiki/Mackenzie_Hughes" title="Mackenzie Hughes">Mackenzie Hughes</a>, <a href="/wiki/Billy_Hurley_III" title="Billy Hurley III">Billy Hurley III</a>, <a href="/wiki/Kim_Si-woo" title="Kim Si-woo">Kim Si-woo</a>, <a href="/wiki/William_McGirt" title="William McGirt">William McGirt</a>, <a href="/wiki/Alexander_Nor%C3%A9n" title="Alexander Norén">Alexander Norén</a>, <a href="/wiki/Thomas_Pieters" title="Thomas Pieters">Thomas Pieters</a>, <a href="/wiki/Jon_Rahm" title="Jon Rahm">Jon Rahm</a>, <a href="/wiki/Brian_Stuard" title="Brian Stuard">Brian Stuard</a>, <a href="/wiki/Daniel_Summerhays" title="Daniel Summerhays">Daniel Summerhays</a>, <a href="/wiki/Hudson_Swafford" title="Hudson Swafford">Hudson Swafford</a>, and <a href="/wiki/Wang_Jeung-hun" title="Wang Jeung-hun">Wang Jeung-hun</a>. All the professionals, and <a href="/wiki/Scott_Gregory_(golfer)" title="Scott Gregory (golfer)">Scott Gregory</a>, had previously appeared in a major.</p>
+<h3><span class="mw-headline" id="Past_champions_in_the_field">Past champions in the field</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=3" title="Edit section: Past champions in the field">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Made_the_cut">Made the cut</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=4" title="Edit section: Made the cut">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th>Player</th>
+<th>Country</th>
+<th>Year(s) won</th>
+<th>R1</th>
+<th>R2</th>
+<th>R3</th>
+<th>R4</th>
+<th>Total</th>
+<th>To par</th>
+<th>Place</th>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Charl_Schwartzel" title="Charl Schwartzel">Charl Schwartzel</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
+<td><a href="/wiki/2011_Masters_Tournament" title="2011 Masters Tournament">2011</a></td>
+<td>74</td>
+<td>72</td>
+<td>68</td>
+<td>68</td>
+<td>282</td>
+<td>−6</td>
+<td>3</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Adam_Scott_(golfer)" title="Adam Scott (golfer)">Adam Scott</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" />&#160;</span><a href="/wiki/Australia" title="Australia">Australia</a></td>
+<td><a href="/wiki/2013_Masters_Tournament" title="2013 Masters Tournament">2013</a></td>
+<td>75</td>
+<td>69</td>
+<td>69</td>
+<td>73</td>
+<td>286</td>
+<td>−2</td>
+<td>T9</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jordan_Spieth" title="Jordan Spieth">Jordan Spieth</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/2015_Masters_Tournament" title="2015 Masters Tournament">2015</a></td>
+<td>75</td>
+<td>69</td>
+<td>68</td>
+<td>75</td>
+<td>287</td>
+<td>−1</td>
+<td>T11</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Fred_Couples" title="Fred Couples">Fred Couples</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/1992_Masters_Tournament" title="1992 Masters Tournament">1992</a></td>
+<td>73</td>
+<td>70</td>
+<td>74</td>
+<td>72</td>
+<td>289</td>
+<td>+1</td>
+<td>T18</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/2004_Masters_Tournament" title="2004 Masters Tournament">2004</a>, <a href="/wiki/2006_Masters_Tournament" title="2006 Masters Tournament">2006</a>, <a href="/wiki/2010_Masters_Tournament" title="2010 Masters Tournament">2010</a></td>
+<td>71</td>
+<td>73</td>
+<td>74</td>
+<td>72</td>
+<td>290</td>
+<td>+2</td>
+<td>T22</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Larry_Mize" title="Larry Mize">Larry Mize</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/1987_Masters_Tournament" title="1987 Masters Tournament">1987</a></td>
+<td>74</td>
+<td>76</td>
+<td>79</td>
+<td>76</td>
+<td>305</td>
+<td>+17</td>
+<td>52</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Missed_the_cut">Missed the cut</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=5" title="Edit section: Missed the cut">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th>Player</th>
+<th>Country</th>
+<th>Year(s) won</th>
+<th>R1</th>
+<th>R2</th>
+<th>Total</th>
+<th>To par</th>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Danny_Willett" title="Danny Willett">Danny Willett</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+<td><a href="/wiki/2016_Masters_Tournament" title="2016 Masters Tournament">2016</a></td>
+<td>73</td>
+<td>78</td>
+<td>151</td>
+<td>+7</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Zach_Johnson" title="Zach Johnson">Zach Johnson</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/2007_Masters_Tournament" title="2007 Masters Tournament">2007</a></td>
+<td>77</td>
+<td>74</td>
+<td>151</td>
+<td>+7</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Bubba_Watson" title="Bubba Watson">Bubba Watson</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/2012_Masters_Tournament" title="2012 Masters Tournament">2012</a>, <a href="/wiki/2014_Masters_Tournament" title="2014 Masters Tournament">2014</a></td>
+<td>74</td>
+<td>78</td>
+<td>152</td>
+<td>+8</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Vijay_Singh" title="Vijay Singh">Vijay Singh</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/35px-Flag_of_Fiji.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/46px-Flag_of_Fiji.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Fiji" title="Fiji">Fiji</a></td>
+<td><a href="/wiki/2000_Masters_Tournament" title="2000 Masters Tournament">2000</a></td>
+<td>78</td>
+<td>75</td>
+<td>153</td>
+<td>+9</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal" title="José María Olazábal">José María Olazábal</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td><a href="/wiki/1994_Masters_Tournament" title="1994 Masters Tournament">1994</a>, <a href="/wiki/1999_Masters_Tournament" title="1999 Masters Tournament">1999</a></td>
+<td>77</td>
+<td>76</td>
+<td>153</td>
+<td>+9</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Bernhard_Langer" title="Bernhard Langer">Bernhard Langer</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a></td>
+<td><a href="/wiki/1985_Masters_Tournament" title="1985 Masters Tournament">1985</a>, <a href="/wiki/1993_Masters_Tournament" title="1993 Masters Tournament">1993</a></td>
+<td>75</td>
+<td>78</td>
+<td>153</td>
+<td>+9</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/%C3%81ngel_Cabrera" title="Ángel Cabrera">Ángel Cabrera</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td>
+<td><a href="/wiki/2009_Masters_Tournament" title="2009 Masters Tournament">2009</a></td>
+<td>79</td>
+<td>75</td>
+<td>154</td>
+<td>+10</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Ian_Woosnam" title="Ian Woosnam">Ian Woosnam</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/23px-Flag_of_Wales_2.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/35px-Flag_of_Wales_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/46px-Flag_of_Wales_2.svg.png 2x" data-file-width="830" data-file-height="498" />&#160;</span><a href="/wiki/Wales" title="Wales">Wales</a></td>
+<td><a href="/wiki/1991_Masters_Tournament" title="1991 Masters Tournament">1991</a></td>
+<td>76</td>
+<td>78</td>
+<td>154</td>
+<td>+10</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Trevor_Immelman" title="Trevor Immelman">Trevor Immelman</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
+<td><a href="/wiki/2008_Masters_Tournament" title="2008 Masters Tournament">2008</a></td>
+<td>79</td>
+<td>76</td>
+<td>155</td>
+<td>+11</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Mike_Weir" title="Mike Weir">Mike Weir</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" />&#160;</span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td><a href="/wiki/2003_Masters_Tournament" title="2003 Masters Tournament">2003</a></td>
+<td>76</td>
+<td>79</td>
+<td>155</td>
+<td>+11</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Mark_O%27Meara" title="Mark O'Meara">Mark O'Meara</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/1998_Masters_Tournament" title="1998 Masters Tournament">1998</a></td>
+<td>78</td>
+<td>78</td>
+<td>156</td>
+<td>+12</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Sandy_Lyle" title="Sandy Lyle">Sandy Lyle</a></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Scotland" title="Scotland">Scotland</a></td>
+<td><a href="/wiki/1988_Masters_Tournament" title="1988 Masters Tournament">1988</a></td>
+<td>77</td>
+<td>83</td>
+<td>160</td>
+<td>+16</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Nationalities_in_the_field">Nationalities in the field</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=6" title="Edit section: Nationalities in the field">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th>North America (44)</th>
+<th>South America (4)</th>
+<th>Europe (28)</th>
+<th>Oceania (6)</th>
+<th>Asia (6)</th>
+<th>Africa (5)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" />&#160;</span><a href="/wiki/Canada" title="Canada">Canada</a> (3)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a> (2)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a> (11)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" />&#160;</span><a href="/wiki/Australia" title="Australia">Australia</a> (5)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Japan" title="Japan">Japan</a> (3)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a> (5)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a> (41)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Chile" title="Chile">Chile</a> (1)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/23px-Flag_of_Northern_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/35px-Flag_of_Northern_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/46px-Flag_of_Northern_Ireland.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a> (1)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/35px-Flag_of_Fiji.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/46px-Flag_of_Fiji.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Fiji" title="Fiji">Fiji</a> (1)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Korea" title="South Korea">South Korea</a> (3)</td>
+<td rowspan="11"></td>
+</tr>
+<tr>
+<td rowspan="10"></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a> (1)</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Scotland" title="Scotland">Scotland</a> (2)</td>
+<td rowspan="10"></td>
+<td rowspan="10"></td>
+</tr>
+<tr>
+<td rowspan="9"></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/23px-Flag_of_Wales_2.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/35px-Flag_of_Wales_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/46px-Flag_of_Wales_2.svg.png 2x" data-file-width="830" data-file-height="498" />&#160;</span><a href="/wiki/Wales" title="Wales">Wales</a> (1)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a> (1)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Austria" title="Austria">Austria</a> (1)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a> (1)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="370" data-file-height="280" />&#160;</span><a href="/wiki/Denmark" title="Denmark">Denmark</a> (1)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a> (2)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a> (1)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a> (4)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" />&#160;</span><a href="/wiki/Sweden" title="Sweden">Sweden</a> (2)</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Par_3_contest">Par 3 contest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=7" title="Edit section: Par 3 contest">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Wednesday, April 5, 2017</i></p>
+<p>Heavy rain forced the cancellation of the <a href="/wiki/Masters_Tournament_Par-3_contest" title="Masters Tournament Par-3 contest">Par-3 contest</a> for the first time in its history. <a href="/wiki/Mike_Weir" title="Mike Weir">Mike Weir</a> recorded the only hole-in-one before play was suspended.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Round_summaries">Round summaries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=8" title="Edit section: Round summaries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="First_round">First round</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=9" title="Edit section: First round">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Thursday, April 6, 2017</i></p>
+<p>After being one-over after five holes <a href="/wiki/Charley_Hoffman" title="Charley Hoffman">Charley Hoffman</a> birdied eight of his next 12 holes to shoot a round of 65 (−7). His four-stroke advantage after the first round was the largest at the Masters since <a href="/wiki/1955_Masters_Tournament" title="1955 Masters Tournament">1955</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>Place</th>
+<th>Player</th>
+<th>Country</th>
+<th>Score</th>
+<th>To par</th>
+</tr>
+<tr>
+<td align="center">1</td>
+<td><a href="/wiki/Charley_Hoffman" title="Charley Hoffman">Charley Hoffman</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td align="center">65</td>
+<td align="center">−7</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td><a href="/wiki/William_McGirt" title="William McGirt">William McGirt</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td align="center">69</td>
+<td align="center">−3</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td><a href="/wiki/Lee_Westwood" title="Lee Westwood">Lee Westwood</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+<td align="center">70</td>
+<td align="center">−2</td>
+</tr>
+<tr>
+<td rowspan="8" align="center">T4</td>
+<td><a href="/wiki/Kevin_Chappell" title="Kevin Chappell">Kevin Chappell</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td rowspan="8" align="center">71</td>
+<td rowspan="8" align="center">−1</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jason_Dufner" title="Jason Dufner">Jason Dufner</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Matthew_Fitzpatrick" title="Matthew Fitzpatrick">Matthew Fitzpatrick</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Russell_Henley" title="Russell Henley">Russell Henley</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Justin_Rose" title="Justin Rose">Justin Rose</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Andy_Sullivan_(golfer)" title="Andy Sullivan (golfer)">Andy Sullivan</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Second_round">Second round</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=10" title="Edit section: Second round">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Friday, April 7, 2017</i></p>
+<p><a href="/wiki/Charley_Hoffman" title="Charley Hoffman">Charley Hoffman</a> fell back to the pack with a three-over round of 75 and into a four-way tie for the lead. <a href="/wiki/Rickie_Fowler" title="Rickie Fowler">Rickie Fowler</a> had four birdies and an eagle on his way to a round of 67 (−5), the lowest score of the round, and tied for the lead along with <a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a> and <a href="/wiki/Thomas_Pieters" title="Thomas Pieters">Thomas Pieters</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Garcia was originally credited with a triple-bogey seven on the 10th, but his score was later corrected to a five. Fifteen players were within five shots of the lead, including past champions <a href="/wiki/Fred_Couples" title="Fred Couples">Fred Couples</a>, <a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a>, <a href="/wiki/Adam_Scott_(golfer)" title="Adam Scott (golfer)">Adam Scott</a>, and <a href="/wiki/Jordan_Spieth" title="Jordan Spieth">Jordan Spieth</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Amateur <a href="/wiki/Stewart_Hagestad" title="Stewart Hagestad">Stewart Hagestad</a> became the first <a href="/wiki/U.S._Mid-Amateur" class="mw-redirect" title="U.S. Mid-Amateur">U.S. Mid-Amateur</a> champion to make the cut at the Masters since the winner of that tournament was granted entry in 1989.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>Place</th>
+<th>Player</th>
+<th>Country</th>
+<th>Score</th>
+<th>To par</th>
+</tr>
+<tr>
+<td rowspan="4" align="center">T1</td>
+<td><a href="/wiki/Rickie_Fowler" title="Rickie Fowler">Rickie Fowler</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>73-67=140</td>
+<td rowspan="4" align="center">−4</td>
+</tr>
+<tr>
+<td><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td>71-69=140</td>
+</tr>
+<tr>
+<td><a href="/wiki/Charley_Hoffman" title="Charley Hoffman">Charley Hoffman</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>65-75=140</td>
+</tr>
+<tr>
+<td><a href="/wiki/Thomas_Pieters" title="Thomas Pieters">Thomas Pieters</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a></td>
+<td>72-68=140</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td><a href="/wiki/William_McGirt" title="William McGirt">William McGirt</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>69-73=142</td>
+<td align="center">−2</td>
+</tr>
+<tr>
+<td rowspan="4" align="center">T6</td>
+<td><a href="/wiki/Fred_Couples" title="Fred Couples">Fred Couples</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>73-70=143</td>
+<td rowspan="4" align="center">−1</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ryan_Moore_(golfer)" title="Ryan Moore (golfer)">Ryan Moore</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>74-69=143</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jon_Rahm" title="Jon Rahm">Jon Rahm</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td>73-70=143</td>
+</tr>
+<tr>
+<td><a href="/wiki/Justin_Rose" title="Justin Rose">Justin Rose</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+<td>71-72=143</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">T10</td>
+<td><a href="/wiki/Phil_Mickelson" title="Phil Mickelson">Phil Mickelson</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>71-73=144</td>
+<td rowspan="3" align="center">E</td>
+</tr>
+<tr>
+<td><a href="/wiki/Adam_Scott_(golfer)" title="Adam Scott (golfer)">Adam Scott</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" />&#160;</span><a href="/wiki/Australia" title="Australia">Australia</a></td>
+<td>75-69=144</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jordan_Spieth" title="Jordan Spieth">Jordan Spieth</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>75-69=144</td>
+</tr>
+</table>
+<p>Amateurs: <i><a href="/wiki/Stewart_Hagestad" title="Stewart Hagestad">Hagestad</a> (+3)</i>, <i><a href="/wiki/Curtis_Luck" title="Curtis Luck">Luck</a> (+6)</i>, <a href="/wiki/Brad_Dalke" title="Brad Dalke">Dalke</a> (+9), <a href="/wiki/Scott_Gregory_(golfer)" title="Scott Gregory (golfer)">Gregory</a> (+13), <a href="/wiki/Toto_Gana" title="Toto Gana">Gana</a> (+17)</p>
+<h3><span class="mw-headline" id="Third_round">Third round</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=11" title="Edit section: Third round">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Saturday, April 8, 2017</i></p>
+<p><a href="/wiki/Justin_Rose" title="Justin Rose">Justin Rose</a> birdied five of his final seven holes to post a score of 67 (−5), the lowest of the round, and tie <a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a> for the lead. <a href="/wiki/Charley_Hoffman" title="Charley Hoffman">Charley Hoffman</a> held solo possession of the lead before a bogey at 14 and double-bogey at 16 after hitting his tee shot in the water, finishing two shots behind.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> <a href="/wiki/Jordan_Spieth" title="Jordan Spieth">Jordan Spieth</a> was five-under on his round to get within a shot of the lead before a bogey at 18 also saw him fall to two behind.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>Place</th>
+<th>Player</th>
+<th>Country</th>
+<th>Score</th>
+<th>To par</th>
+</tr>
+<tr>
+<td rowspan="2" align="center">T1</td>
+<td><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td>71-69-70=210</td>
+<td rowspan="2" align="center">−6</td>
+</tr>
+<tr>
+<td><a href="/wiki/Justin_Rose" title="Justin Rose">Justin Rose</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+<td>71-72-67=210</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td><a href="/wiki/Rickie_Fowler" title="Rickie Fowler">Rickie Fowler</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>73-67-71=211</td>
+<td align="center">−5</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">T4</td>
+<td><a href="/wiki/Charley_Hoffman" title="Charley Hoffman">Charley Hoffman</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>65-75-72=212</td>
+<td rowspan="3" align="center">−4</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ryan_Moore_(golfer)" title="Ryan Moore (golfer)">Ryan Moore</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>74-69-69=212</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jordan_Spieth" title="Jordan Spieth">Jordan Spieth</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>75-69-68=212</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td><a href="/wiki/Adam_Scott_(golfer)" title="Adam Scott (golfer)">Adam Scott</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" />&#160;</span><a href="/wiki/Australia" title="Australia">Australia</a></td>
+<td>75-69-69=213</td>
+<td align="center">−3</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td><a href="/wiki/Charl_Schwartzel" title="Charl Schwartzel">Charl Schwartzel</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
+<td>74-72-68=214</td>
+<td align="center">−2</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">T9</td>
+<td><a href="/wiki/Thomas_Pieters" title="Thomas Pieters">Thomas Pieters</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a></td>
+<td>72-68-75=215</td>
+<td rowspan="2" align="center">−1</td>
+</tr>
+<tr>
+<td><a href="/wiki/Lee_Westwood" title="Lee Westwood">Lee Westwood</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+<td>70-77-68=215</td>
+</tr>
+</table>
+<p>Amateurs: <a href="/wiki/Stewart_Hagestad" title="Stewart Hagestad">Hagestad</a> (+5), <a href="/wiki/Curtis_Luck" title="Curtis Luck">Luck</a> (+9)</p>
+<h3><span class="mw-headline" id="Final_round">Final round</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=12" title="Edit section: Final round">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Sunday, April 9, 2017</i></p>
+<p>After <a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a> birdied two of his first three holes he opened up a three-shot lead. Beginning at the 6th, however, <a href="/wiki/Justin_Rose" title="Justin Rose">Justin Rose</a> recorded three consecutive birdies to tie García. With bogeys by García at the 10th and 11th, Rose went ahead by two shots.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> At the 13th, García was forced to take a drop when his tee shot found the trees, but was able to get <a href="/wiki/Glossary_of_golf#U" title="Glossary of golf">up and down</a> to save par while Rose missed his birdie attempt.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> García made birdie at the 14th to get within one and hit his approach to the par-5 15th to 14 feet. After converting the eagle attempt, he once again tied Rose, who made birdie. On the par-3 16th, both hit approaches to within 8 feet, and Rose made his birdie while García missed. At the 17th, however, Rose found the greenside bunker and suffered a bogey while Garcia two-putted for par, once again tying for the lead heading to the last hole. Rose missed a seven-footer for birdie, while García missed a five-foot putt to win the championship, forcing a sudden-death playoff. <a href="/wiki/Charl_Schwartzel" title="Charl Schwartzel">Charl Schwartzel</a>, the <a href="/wiki/2011_Masters_Tournament" title="2011 Masters Tournament">2011</a> champion, recorded four birdies on the back-nine to shoot 68 (−4) and finish in third place, three shots behind García and Rose.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> <a href="/wiki/Thomas_Pieters" title="Thomas Pieters">Thomas Pieters</a> also shot 68 after making four straight birdies on holes 12–15 and finished in a tie for fourth place. <a href="/wiki/Matt_Kuchar" title="Matt Kuchar">Matt Kuchar</a> birdied three consecutive holes on his final nine, then made a hole-in-one at the 16th to equal the lowest score of the round with 67 (−5) and finish in a tie with Pieters. <a href="/wiki/Rickie_Fowler" title="Rickie Fowler">Rickie Fowler</a> began the round a shot out of the lead but recorded a score of 76 (+4) and dropped to 11th, while <a href="/wiki/2015_Masters_Tournament" title="2015 Masters Tournament">2015</a> champion <a href="/wiki/Jordan_Spieth" title="Jordan Spieth">Jordan Spieth</a>, two back at the start of the round, shot 75 (+3).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p>After García took his drop on 13, some TV viewers reported the possibility that he caused his ball to move while removing some pine straw near his ball. Prior to the conclusion of the round Masters Officials determined there was no penalty.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Per Rule 18-2 (Decision 18/4) even if high definition TV camera evidence shows movement, there is no penalty if it is deemed that the movement was not reasonably discernible to the naked eye at the time.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>Place</th>
+<th>Player</th>
+<th>Country</th>
+<th>Score</th>
+<th>To par</th>
+<th>Money (<a href="/wiki/United_States_dollar" title="United States dollar">$</a>)</th>
+</tr>
+<tr>
+<td rowspan="2" align="center">T1</td>
+<td><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td>71-69-70-69=279</td>
+<td rowspan="2" align="center">−9</td>
+<td rowspan="2" align="center">Playoff</td>
+</tr>
+<tr>
+<td><a href="/wiki/Justin_Rose" title="Justin Rose">Justin Rose</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+<td>71-72-67-69=279</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td><a href="/wiki/Charl_Schwartzel" title="Charl Schwartzel">Charl Schwartzel</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
+<td>74-72-68-68=282</td>
+<td align="center">−6</td>
+<td align="center">748,000</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">T4</td>
+<td><a href="/wiki/Matt_Kuchar" title="Matt Kuchar">Matt Kuchar</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>72-73-71-67=283</td>
+<td rowspan="2" align="center">−5</td>
+<td rowspan="2" align="center">484,000</td>
+</tr>
+<tr>
+<td><a href="/wiki/Thomas_Pieters" title="Thomas Pieters">Thomas Pieters</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a></td>
+<td>72-68-75-68=283</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td><a href="/wiki/Paul_Casey" title="Paul Casey">Paul Casey</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+<td>72-75-69-68=284</td>
+<td align="center">−4</td>
+<td align="center">396,000</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">T7</td>
+<td><a href="/wiki/Kevin_Chappell" title="Kevin Chappell">Kevin Chappell</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>71-76-70-68=285</td>
+<td rowspan="2" align="center">−3</td>
+<td rowspan="2" align="center">354,750</td>
+</tr>
+<tr>
+<td><a href="/wiki/Rory_McIlroy" title="Rory McIlroy">Rory McIlroy</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/23px-Flag_of_Northern_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/35px-Flag_of_Northern_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/46px-Flag_of_Northern_Ireland.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a></td>
+<td>72-73-71-69=285</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">T9</td>
+<td><a href="/wiki/Ryan_Moore_(golfer)" title="Ryan Moore (golfer)">Ryan Moore</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>74-69-69-74=286</td>
+<td rowspan="2" align="center">−2</td>
+<td rowspan="2" align="center">308,000</td>
+</tr>
+<tr>
+<td><a href="/wiki/Adam_Scott_(golfer)" title="Adam Scott (golfer)">Adam Scott</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" />&#160;</span><a href="/wiki/Australia" title="Australia">Australia</a></td>
+<td>75-69-69-73=286</td>
+</tr>
+</table>
+<p>Amateurs: <a href="/wiki/Stewart_Hagestad" title="Stewart Hagestad">Hagestad</a> (+6), <a href="/wiki/Curtis_Luck" title="Curtis Luck">Luck</a> (+9)</p>
+<h4><span class="mw-headline" id="Scorecard">Scorecard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=13" title="Edit section: Scorecard">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable">
+<tr>
+<td style="background:Red; width:10px;"></td>
+<td>Eagle</td>
+<td style="background:Pink; width:10px;"></td>
+<td>Birdie</td>
+<td style="background:PaleGreen; width:10px;"></td>
+<td>Bogey</td>
+<td style="background:Green; width:10px;"></td>
+<td>Double bogey</td>
+</tr>
+</table>
+<p><i>Final round</i></p>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th>Hole</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+</tr>
+<tr>
+<td>Par</td>
+<td>4</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+<td>5</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> García</td>
+<td style="background: Pink;">−7</td>
+<td>−7</td>
+<td style="background: Pink;">−8</td>
+<td>−8</td>
+<td>−8</td>
+<td>−8</td>
+<td>−8</td>
+<td>−8</td>
+<td>−8</td>
+<td style="background: PaleGreen;">−7</td>
+<td style="background: PaleGreen;">−6</td>
+<td>−6</td>
+<td>−6</td>
+<td style="background: Pink;">−7</td>
+<td style="background: Red;">−9</td>
+<td>−9</td>
+<td>−9</td>
+<td>−9</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> Rose</td>
+<td>−6</td>
+<td>−6</td>
+<td>−6</td>
+<td>−6</td>
+<td style="background: PaleGreen;">−5</td>
+<td style="background: Pink;">−6</td>
+<td style="background: Pink;">−7</td>
+<td style="background: Pink;">−8</td>
+<td>−8</td>
+<td>−8</td>
+<td>−8</td>
+<td>−8</td>
+<td>−8</td>
+<td>−8</td>
+<td style="background: Pink;">−9</td>
+<td style="background: Pink;">−10</td>
+<td style="background: PaleGreen;">−9</td>
+<td>−9</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Schwartzel</td>
+<td>−2</td>
+<td style="background: Pink;">−3</td>
+<td style="background: PaleGreen;">−2</td>
+<td>−2</td>
+<td>−2</td>
+<td>−2</td>
+<td>−2</td>
+<td>−2</td>
+<td style="background: Pink;">−3</td>
+<td>−3</td>
+<td style="background: Pink;">−4</td>
+<td>−4</td>
+<td style="background: Pink;">−5</td>
+<td style="background: PaleGreen;">−4</td>
+<td style="background: Pink;">−5</td>
+<td>−5</td>
+<td>−5</td>
+<td style="background: Pink;">−6</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> Kuchar</td>
+<td style="background: PaleGreen;">+1</td>
+<td style="background: Pink;">E</td>
+<td style="background: PaleGreen;">+1</td>
+<td>+1</td>
+<td>+1</td>
+<td style="background: Pink;">E</td>
+<td style="background: Pink;">−1</td>
+<td>−1</td>
+<td style="background: PaleGreen;">E</td>
+<td>E</td>
+<td>E</td>
+<td style="background: Pink;">−1</td>
+<td style="background: Pink;">−2</td>
+<td style="background: Pink;">−3</td>
+<td>−3</td>
+<td style="background: Red;">−5</td>
+<td>−5</td>
+<td>−5</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> Pieters</td>
+<td>−1</td>
+<td style="background: Pink;">−2</td>
+<td>−2</td>
+<td style="background: PaleGreen;">−1</td>
+<td>−1</td>
+<td>−1</td>
+<td>−1</td>
+<td style="background: Pink;">−2</td>
+<td>−2</td>
+<td>−2</td>
+<td>−2</td>
+<td style="background: Pink;">−3</td>
+<td style="background: Pink;">−4</td>
+<td style="background: Pink;">−5</td>
+<td style="background: Pink;">−6</td>
+<td style="background: PaleGreen;">−5</td>
+<td>−5</td>
+<td>−5</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> Fowler</td>
+<td>−5</td>
+<td>−5</td>
+<td style="background: Pink;">−6</td>
+<td style="background: PaleGreen;">−5</td>
+<td style="background: PaleGreen;">−4</td>
+<td>−4</td>
+<td>−4</td>
+<td style="background: Pink;">−5</td>
+<td>−5</td>
+<td>−5</td>
+<td style="background: PaleGreen;">−4</td>
+<td style="background: PaleGreen;">−3</td>
+<td style="background: Pink;">−4</td>
+<td>−4</td>
+<td>−4</td>
+<td style="background: PaleGreen;">−3</td>
+<td style="background: PaleGreen;">−2</td>
+<td style="background: PaleGreen;">−1</td>
+</tr>
+<tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> Spieth</td>
+<td style="background: PaleGreen;">−3</td>
+<td style="background: Pink;">−4</td>
+<td style="background: PaleGreen;">−3</td>
+<td>−3</td>
+<td>−3</td>
+<td style="background: PaleGreen;">−2</td>
+<td>−2</td>
+<td>−2</td>
+<td>−2</td>
+<td style="background: PaleGreen;">−1</td>
+<td>−1</td>
+<td style="background: Green;">+1</td>
+<td>+1</td>
+<td style="background: PaleGreen;">+2</td>
+<td style="background: Pink;">+1</td>
+<td style="background: Pink;">E</td>
+<td>E</td>
+<td style="background: Pink;">−1</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Playoff">Playoff</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=14" title="Edit section: Playoff">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Beginning the sudden-death playoff at the par-4 18th, Rose's drive found the trees and he was forced to chip out. García's drive found the fairway and he hit his approach to 12 feet, while Rose was 14 feet away for par.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Rose missed the putt, giving García two putts to win the championship, but he converted the birdie to win his first career major championship. The win came in García's 19th Masters appearance and 74th major championship, the most by any player before their first win.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>Place</th>
+<th>Player</th>
+<th>Country</th>
+<th>Score</th>
+<th>To par</th>
+<th>Money ($)</th>
+</tr>
+<tr>
+<td align="center">1</td>
+<td><b><a href="/wiki/Sergio_Garc%C3%ADa" title="Sergio García">Sergio García</a></b></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td style="text-align:center;">3</td>
+<td align="center">−1</td>
+<td style="text-align:right;">1,980,000</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td><a href="/wiki/Justin_Rose" title="Justin Rose">Justin Rose</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+<td style="text-align:center;">5</td>
+<td align="center">+1</td>
+<td style="text-align:right;">1,188,000</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Kupelian, Vartan (April 9, 2017). <a rel="nofollow" class="external text" href="http://www.masters.com/en_US/news/articles/2017-04-09/garcia_outlasts_rose_to_claim_first_major_victory.html">"Garcia Outlasts Rose to Claim First Major Victory"</a>. Masters Tournament<span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.aufirst=Vartan&amp;rft.aulast=Kupelian&amp;rft.btitle=Garcia+Outlasts+Rose+to+Claim+First+Major+Victory&amp;rft.date=2017-04-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.masters.com%2Fen_US%2Fnews%2Farticles%2F2017-04-09%2Fgarcia_outlasts_rose_to_claim_first_major_victory.html&amp;rft.pub=Masters+Tournament&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.masters.com/en_US/players/invitees_2017.html">"2017 Tournament Invitees"</a>. Masters<span class="reference-accessdate">. Retrieved <span class="nowrap">January 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.btitle=2017+Tournament+Invitees&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.masters.com%2Fen_US%2Fplayers%2Finvitees_2017.html&amp;rft.pub=Masters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Harig, Bob (March 31, 2017). <a rel="nofollow" class="external text" href="http://www.espn.com/golf/story/_/id/19048513/tiger-woods-play-2017-masters">"Tiger Woods to miss Masters for third time in last four years"</a>. <i>ESPN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Tiger+Woods+to+miss+Masters+for+third+time+in+last+four+years&amp;rft.aufirst=Bob&amp;rft.aulast=Harig&amp;rft.date=2017-03-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fgolf%2Fstory%2F_%2Fid%2F19048513%2Ftiger-woods-play-2017-masters&amp;rft.jtitle=ESPN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">DiMeglio, Steve (April 6, 2017). <a rel="nofollow" class="external text" href="https://www.usatoday.com/story/sports/golf/masters/2017/04/06/dustin-johnson-withdraws-masters-first-round/100126476/">"Dustin Johnson withdraws from Masters"</a>. <i>USA Today</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Dustin+Johnson+withdraws+from+Masters&amp;rft.aufirst=Steve&amp;rft.aulast=DiMeglio&amp;rft.date=2017-04-06&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fsports%2Fgolf%2Fmasters%2F2017%2F04%2F06%2Fdustin-johnson-withdraws-masters-first-round%2F100126476%2F&amp;rft.jtitle=USA+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Kilbridge, Dan (April 5, 2017). <a rel="nofollow" class="external text" href="http://golfweek.com/2017/04/05/masters-par-3-contest-wiped-out-augusta-national-evacuated-due-to-storms/">"Masters Par 3 Contest wiped out, Augusta National closes course due to storms"</a>. <i>Golfweek</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.aufirst=Dan&amp;rft.aulast=Kilbridge&amp;rft.btitle=Masters+Par+3+Contest+wiped+out%2C+Augusta+National+closes+course+due+to+storms&amp;rft.date=2017-04-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgolfweek.com%2F2017%2F04%2F05%2Fmasters-par-3-contest-wiped-out-augusta-national-evacuated-due-to-storms%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.espn.com/golf/story/_/id/19095909/the-masters-charley-hoffman-thwarts-winds-4-shot-lead">"Charley Hoffman's 4-shot, opening Masters lead biggest in 62 years"</a>. <i>ESPN</i>. Associated Press. April 6, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Charley+Hoffman%27s+4-shot%2C+opening+Masters+lead+biggest+in+62+years&amp;rft.date=2017-04-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fgolf%2Fstory%2F_%2Fid%2F19095909%2Fthe-masters-charley-hoffman-thwarts-winds-4-shot-lead&amp;rft.jtitle=ESPN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Murray, Scott; Butler, Michael (April 6, 2017). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/live/2017/apr/06/the-masters-2017-first-round-live">"The Masters 2017: first round – as it happened"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 7,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=The+Masters+2017%3A+first+round+%93+as+it+happened&amp;rft.au=Butler%2C+Michael&amp;rft.aufirst=Scott&amp;rft.aulast=Murray&amp;rft.date=2017-04-06&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2Flive%2F2017%2Fapr%2F06%2Fthe-masters-2017-first-round-live&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Murray, Scott; Butler, Michael (April 8, 2017). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/live/2017/apr/07/the-masters-2017-second-round-live">"The Masters 2017: second round – as it happened"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 11,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=The+Masters+2017%3A+second+round+%93+as+it+happened&amp;rft.au=Butler%2C+Michael&amp;rft.aufirst=Scott&amp;rft.aulast=Murray&amp;rft.date=2017-04-08&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2Flive%2F2017%2Fapr%2F07%2Fthe-masters-2017-second-round-live&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.espn.com/golf/story/_/id/19105792/rickie-fowler-joins-4-way-tie-top-masters">"Sergio Garcia, Thomas Pieters, Charley Hoffman share lead with Rickie Fowler"</a>. <i>ESPN</i>. Associated Press. April 7, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Sergio+Garcia%2C+Thomas+Pieters%2C+Charley+Hoffman+share+lead+with+Rickie+Fowler&amp;rft.date=2017-04-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fgolf%2Fstory%2F_%2Fid%2F19105792%2Frickie-fowler-joins-4-way-tie-top-masters&amp;rft.jtitle=ESPN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Lavner, Ryan (April 7, 2017). <a rel="nofollow" class="external text" href="http://www.golfchannel.com/news/golf-central-blog/hagestad-first-mid-am-make-masters-cut/">"Hagestad first mid-am to make Masters cut"</a>. <i>Golf Channel</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Hagestad+first+mid-am+to+make+Masters+cut&amp;rft.aufirst=Ryan&amp;rft.aulast=Lavner&amp;rft.date=2017-04-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.golfchannel.com%2Fnews%2Fgolf-central-blog%2Fhagestad-first-mid-am-make-masters-cut%2F&amp;rft.jtitle=Golf+Channel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Murray, Scott (April 9, 2017). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/live/2017/apr/08/the-masters-2017-third-round-live">"The Masters 2017: third round – as it happened"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 11,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=The+Masters+2017%3A+third+round+%93+as+it+happened&amp;rft.aufirst=Scott&amp;rft.aulast=Murray&amp;rft.date=2017-04-09&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2Flive%2F2017%2Fapr%2F08%2Fthe-masters-2017-third-round-live&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.espn.com/golf/masters17/story/_/id/19112885/justin-rose-sergio-garcia-tied-lead-heading-masters-final-round">"Justin Rose, Sergio Garcia tied atop Masters; Rickie Fowler 1 back"</a>. <i>ESPN</i>. Associated Press. April 8, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Justin+Rose%2C+Sergio+Garcia+tied+atop+Masters%3B+Rickie+Fowler+1+back&amp;rft.date=2017-04-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fgolf%2Fmasters17%2Fstory%2F_%2Fid%2F19112885%2Fjustin-rose-sergio-garcia-tied-lead-heading-masters-final-round&amp;rft.jtitle=ESPN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Lawrenson, Derek (April 9, 2017). <a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/sport/golf/article-4396048/Sergio-Garcia-wins-Masters-epic-Justin-Rose-battle.html">"The best golfer never to win a major wins the Masters! Spaniard Sergio Garcia finally breaks his duck of 73 tournaments after his nailbiting victory over Briton Justin Rose"</a>. <i>Daily Mail</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=The+best+golfer+never+to+win+a+major+wins+the+Masters%21+Spaniard+Sergio+Garcia+finally+breaks+his+duck+of+73+tournaments+after+his+nailbiting+victory+over+Briton+Justin+Rose&amp;rft.aufirst=Derek&amp;rft.aulast=Lawrenson&amp;rft.date=2017-04-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Fsport%2Fgolf%2Farticle-4396048%2FSergio-Garcia-wins-Masters-epic-Justin-Rose-battle.html&amp;rft.jtitle=Daily+Mail&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">Brennan, Christine (April 9, 2017). <a rel="nofollow" class="external text" href="https://www.usatoday.com/story/sports/columnist/brennan/2017/04/09/sergio-garcia-wins-masters-tournament-breakthrough-major/100269670/">"Sergio Garcia finally rises to the occasion at Masters to win first major"</a>. <i>USA Today</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Sergio+Garcia+finally+rises+to+the+occasion+at+Masters+to+win+first+major&amp;rft.aufirst=Christine&amp;rft.aulast=Brennan&amp;rft.date=2017-04-09&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fsports%2Fcolumnist%2Fbrennan%2F2017%2F04%2F09%2Fsergio-garcia-wins-masters-tournament-breakthrough-major%2F100269670%2F&amp;rft.jtitle=USA+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Murray, Scott (April 9, 2017). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/live/2017/apr/09/the-masters-2017-fourth-round-live">"The Masters 2017: final round – as it happened!"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=The+Masters+2017%3A+final+round+%93+as+it+happened%21&amp;rft.aufirst=Scott&amp;rft.aulast=Murray&amp;rft.date=2017-04-09&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2Flive%2F2017%2Fapr%2F09%2Fthe-masters-2017-fourth-round-live&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.espn.com/golf/story/_/id/19120583/2017-masters-sergio-garcia-takes-first-major-championship-playoff-victory">"Sergio Garcia outlasts Justin Rose to claim Masters, first major"</a>. <i>ESPN</i>. Associated Press. April 9, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Sergio+Garcia+outlasts+Justin+Rose+to+claim+Masters%2C+first+major&amp;rft.date=2017-04-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fgolf%2Fstory%2F_%2Fid%2F19120583%2F2017-masters-sergio-garcia-takes-first-major-championship-playoff-victory&amp;rft.jtitle=ESPN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Beal, Joel (April 9, 2017). <a rel="nofollow" class="external text" href="http://www.golfdigest.com/story/masters-2017-live-updates">"Masters 2017: Live Updates – Sergio Garcia defeats Justin Rose to win his first green jacket"</a>. <i>Golf Digest</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.aufirst=Joel&amp;rft.aulast=Beal&amp;rft.btitle=Masters+2017%3A+Live+Updates+%93+Sergio+Garcia+defeats+Justin+Rose+to+win+his+first+green+jacket&amp;rft.date=2017-04-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.golfdigest.com%2Fstory%2Fmasters-2017-live-updates&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Cunningham, Kevin (April 10, 2017). <a rel="nofollow" class="external text" href="http://www.golf.com/tour-news/2017/04/10/would-be-rules-disaster-could-have-derailed-sergios-masters-victory">"Inside the alleged rules snafu that could have derailed Sergio's Masters victory"</a>. <i>Golf.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Inside+the+alleged+rules+snafu+that+could+have+derailed+Sergio%27s+Masters+victory&amp;rft.aufirst=Kevin&amp;rft.aulast=Cunningham&amp;rft.date=2017-04-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.golf.com%2Ftour-news%2F2017%2F04%2F10%2Fwould-be-rules-disaster-could-have-derailed-sergios-masters-victory&amp;rft.jtitle=Golf.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.usga.org/rules/rules-and-decisions.html#!decision-18,d18-4">"Rules and Decisions"</a>. United States Golf Association<span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.btitle=Rules+and+Decisions&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.usga.org%2Frules%2Frules-and-decisions.html%23%21decision-18%2Cd18-4&amp;rft.pub=United+States+Golf+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Jurejko, Jonathan (April 10, 2017). <a rel="nofollow" class="external text" href="http://www.bbc.com/sport/golf/39549330">"Sergio Garcia pips Justin Rose to win at Augusta"</a>. <i>BBC Sport</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Sergio+Garcia+pips+Justin+Rose+to+win+at+Augusta&amp;rft.aufirst=Jonathan&amp;rft.aulast=Jurejko&amp;rft.date=2017-04-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fsport%2Fgolf%2F39549330&amp;rft.jtitle=BBC+Sport&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Crouse, Karen (April 9, 2017). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2017/04/09/sports/golf/masters-2017-sergio-garcia-finally-wins-first-major-title.html?_r=0">"Masters 2017: Sergio García Finally Wins First Major Title"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Masters+Tournament&amp;rft.atitle=Masters+2017%3A+Sergio+Garc%C3a+Finally+Wins+First+Major+Title&amp;rft.aufirst=Karen&amp;rft.aulast=Crouse&amp;rft.date=2017-04-09&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2017%2F04%2F09%2Fsports%2Fgolf%2Fmasters-2017-sergio-garcia-finally-wins-first-major-title.html%3F_r%3D0&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.masters.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.majorschampionships.com/masters.html">Coverage on the PGA Tour's official site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.europeantour.com/europeantour/season=2017/tournamentid=2017028/index.html">Coverage on the European Tour's official site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.pga.com/masters/">Coverage from the PGA of America</a></li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/2016_PGA_Championship" title="2016 PGA Championship">2016 PGA Championship</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Men%27s_major_golf_championships" title="Men's major golf championships">Major Championships</a></b></td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/2017_U.S._Open_(golf)" title="2017 U.S. Open (golf)">2017 U.S. Open</a></span></td>
+</tr>
+</table>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=2017_Masters_Tournament&amp;params=33.503_N_82.020_W_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">33°30′11″N</span> <span class="longitude">82°01′12″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">33.503°N 82.020°W</span><span style="display:none">﻿ / <span class="geo">33.503; -82.020</span></span></span></a></span></span></span></p>
+<div role="navigation" class="navbox" aria-labelledby="2017_Men.27s_Major_Golf_Championships" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Golf_Major_Championships_master" title="Template:Golf Major Championships master"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Golf_Major_Championships_master" title="Template talk:Golf Major Championships master"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Golf_Major_Championships_master&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="2017_Men.27s_Major_Golf_Championships" style="font-size:114%;margin:0 4em"><a href="/wiki/Men%27s_major_golf_championships" title="Men's major golf championships">2017 Men's Major Golf Championships</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">The Masters</a></li>
+<li><a href="/wiki/2017_U.S._Open_(golf)" title="2017 U.S. Open (golf)">U.S. Open</a></li>
+<li><a href="/wiki/2017_Open_Championship" title="2017 Open Championship">The Open Championship</a></li>
+<li><a href="/wiki/2017_PGA_Championship" title="2017 PGA Championship">PGA Championship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Masters_Tournaments" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Masters_Tournaments" title="Template:Masters Tournaments"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Masters_Tournaments" title="Template talk:Masters Tournaments"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Masters_Tournaments&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Masters_Tournaments" style="font-size:114%;margin:0 4em"><a href="/wiki/Masters_Tournament" title="Masters Tournament">Masters Tournaments</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1934_Masters_Tournament" title="1934 Masters Tournament">1934</a></li>
+<li><a href="/wiki/1935_Masters_Tournament" title="1935 Masters Tournament">1935</a></li>
+<li><a href="/wiki/1936_Masters_Tournament" title="1936 Masters Tournament">1936</a></li>
+<li><a href="/wiki/1937_Masters_Tournament" title="1937 Masters Tournament">1937</a></li>
+<li><a href="/wiki/1938_Masters_Tournament" title="1938 Masters Tournament">1938</a></li>
+<li><a href="/wiki/1939_Masters_Tournament" title="1939 Masters Tournament">1939</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1940_Masters_Tournament" title="1940 Masters Tournament">1940</a></li>
+<li><a href="/wiki/1941_Masters_Tournament" title="1941 Masters Tournament">1941</a></li>
+<li><a href="/wiki/1942_Masters_Tournament" title="1942 Masters Tournament">1942</a></li>
+<li><span style="color:gray">1943</span></li>
+<li><span style="color:gray">1944</span></li>
+<li><span style="color:gray">1945</span></li>
+<li><a href="/wiki/1946_Masters_Tournament" title="1946 Masters Tournament">1946</a></li>
+<li><a href="/wiki/1947_Masters_Tournament" title="1947 Masters Tournament">1947</a></li>
+<li><a href="/wiki/1948_Masters_Tournament" title="1948 Masters Tournament">1948</a></li>
+<li><a href="/wiki/1949_Masters_Tournament" title="1949 Masters Tournament">1949</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1950_Masters_Tournament" title="1950 Masters Tournament">1950</a></li>
+<li><a href="/wiki/1951_Masters_Tournament" title="1951 Masters Tournament">1951</a></li>
+<li><a href="/wiki/1952_Masters_Tournament" title="1952 Masters Tournament">1952</a></li>
+<li><a href="/wiki/1953_Masters_Tournament" title="1953 Masters Tournament">1953</a></li>
+<li><a href="/wiki/1954_Masters_Tournament" title="1954 Masters Tournament">1954</a></li>
+<li><a href="/wiki/1955_Masters_Tournament" title="1955 Masters Tournament">1955</a></li>
+<li><a href="/wiki/1956_Masters_Tournament" title="1956 Masters Tournament">1956</a></li>
+<li><a href="/wiki/1957_Masters_Tournament" title="1957 Masters Tournament">1957</a></li>
+<li><a href="/wiki/1958_Masters_Tournament" title="1958 Masters Tournament">1958</a></li>
+<li><a href="/wiki/1959_Masters_Tournament" title="1959 Masters Tournament">1959</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1960_Masters_Tournament" title="1960 Masters Tournament">1960</a></li>
+<li><a href="/wiki/1961_Masters_Tournament" title="1961 Masters Tournament">1961</a></li>
+<li><a href="/wiki/1962_Masters_Tournament" title="1962 Masters Tournament">1962</a></li>
+<li><a href="/wiki/1963_Masters_Tournament" title="1963 Masters Tournament">1963</a></li>
+<li><a href="/wiki/1964_Masters_Tournament" title="1964 Masters Tournament">1964</a></li>
+<li><a href="/wiki/1965_Masters_Tournament" title="1965 Masters Tournament">1965</a></li>
+<li><a href="/wiki/1966_Masters_Tournament" title="1966 Masters Tournament">1966</a></li>
+<li><a href="/wiki/1967_Masters_Tournament" title="1967 Masters Tournament">1967</a></li>
+<li><a href="/wiki/1968_Masters_Tournament" title="1968 Masters Tournament">1968</a></li>
+<li><a href="/wiki/1969_Masters_Tournament" title="1969 Masters Tournament">1969</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1970_Masters_Tournament" title="1970 Masters Tournament">1970</a></li>
+<li><a href="/wiki/1971_Masters_Tournament" title="1971 Masters Tournament">1971</a></li>
+<li><a href="/wiki/1972_Masters_Tournament" title="1972 Masters Tournament">1972</a></li>
+<li><a href="/wiki/1973_Masters_Tournament" title="1973 Masters Tournament">1973</a></li>
+<li><a href="/wiki/1974_Masters_Tournament" title="1974 Masters Tournament">1974</a></li>
+<li><a href="/wiki/1975_Masters_Tournament" title="1975 Masters Tournament">1975</a></li>
+<li><a href="/wiki/1976_Masters_Tournament" title="1976 Masters Tournament">1976</a></li>
+<li><a href="/wiki/1977_Masters_Tournament" title="1977 Masters Tournament">1977</a></li>
+<li><a href="/wiki/1978_Masters_Tournament" title="1978 Masters Tournament">1978</a></li>
+<li><a href="/wiki/1979_Masters_Tournament" title="1979 Masters Tournament">1979</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1980_Masters_Tournament" title="1980 Masters Tournament">1980</a></li>
+<li><a href="/wiki/1981_Masters_Tournament" title="1981 Masters Tournament">1981</a></li>
+<li><a href="/wiki/1982_Masters_Tournament" title="1982 Masters Tournament">1982</a></li>
+<li><a href="/wiki/1983_Masters_Tournament" title="1983 Masters Tournament">1983</a></li>
+<li><a href="/wiki/1984_Masters_Tournament" title="1984 Masters Tournament">1984</a></li>
+<li><a href="/wiki/1985_Masters_Tournament" title="1985 Masters Tournament">1985</a></li>
+<li><a href="/wiki/1986_Masters_Tournament" title="1986 Masters Tournament">1986</a></li>
+<li><a href="/wiki/1987_Masters_Tournament" title="1987 Masters Tournament">1987</a></li>
+<li><a href="/wiki/1988_Masters_Tournament" title="1988 Masters Tournament">1988</a></li>
+<li><a href="/wiki/1989_Masters_Tournament" title="1989 Masters Tournament">1989</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1990_Masters_Tournament" title="1990 Masters Tournament">1990</a></li>
+<li><a href="/wiki/1991_Masters_Tournament" title="1991 Masters Tournament">1991</a></li>
+<li><a href="/wiki/1992_Masters_Tournament" title="1992 Masters Tournament">1992</a></li>
+<li><a href="/wiki/1993_Masters_Tournament" title="1993 Masters Tournament">1993</a></li>
+<li><a href="/wiki/1994_Masters_Tournament" title="1994 Masters Tournament">1994</a></li>
+<li><a href="/wiki/1995_Masters_Tournament" title="1995 Masters Tournament">1995</a></li>
+<li><a href="/wiki/1996_Masters_Tournament" title="1996 Masters Tournament">1996</a></li>
+<li><a href="/wiki/1997_Masters_Tournament" title="1997 Masters Tournament">1997</a></li>
+<li><a href="/wiki/1998_Masters_Tournament" title="1998 Masters Tournament">1998</a></li>
+<li><a href="/wiki/1999_Masters_Tournament" title="1999 Masters Tournament">1999</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2000_Masters_Tournament" title="2000 Masters Tournament">2000</a></li>
+<li><a href="/wiki/2001_Masters_Tournament" title="2001 Masters Tournament">2001</a></li>
+<li><a href="/wiki/2002_Masters_Tournament" title="2002 Masters Tournament">2002</a></li>
+<li><a href="/wiki/2003_Masters_Tournament" title="2003 Masters Tournament">2003</a></li>
+<li><a href="/wiki/2004_Masters_Tournament" title="2004 Masters Tournament">2004</a></li>
+<li><a href="/wiki/2005_Masters_Tournament" title="2005 Masters Tournament">2005</a></li>
+<li><a href="/wiki/2006_Masters_Tournament" title="2006 Masters Tournament">2006</a></li>
+<li><a href="/wiki/2007_Masters_Tournament" title="2007 Masters Tournament">2007</a></li>
+<li><a href="/wiki/2008_Masters_Tournament" title="2008 Masters Tournament">2008</a></li>
+<li><a href="/wiki/2009_Masters_Tournament" title="2009 Masters Tournament">2009</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2010_Masters_Tournament" title="2010 Masters Tournament">2010</a></li>
+<li><a href="/wiki/2011_Masters_Tournament" title="2011 Masters Tournament">2011</a></li>
+<li><a href="/wiki/2012_Masters_Tournament" title="2012 Masters Tournament">2012</a></li>
+<li><a href="/wiki/2013_Masters_Tournament" title="2013 Masters Tournament">2013</a></li>
+<li><a href="/wiki/2014_Masters_Tournament" title="2014 Masters Tournament">2014</a></li>
+<li><a href="/wiki/2015_Masters_Tournament" title="2015 Masters Tournament">2015</a></li>
+<li><a href="/wiki/2016_Masters_Tournament" title="2016 Masters Tournament">2016</a></li>
+<li><a class="mw-selflink selflink">2017</a></li>
+<li><a href="/wiki/2018_Masters_Tournament" title="2018 Masters Tournament">2018</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="PGA_Tour_on_CBS" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Golf_on_CBS" title="Template:Golf on CBS"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Golf_on_CBS" title="Template talk:Golf on CBS"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Golf_on_CBS&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="PGA_Tour_on_CBS" style="font-size:114%;margin:0 4em"><a href="/wiki/PGA_Tour_on_CBS" title="PGA Tour on CBS"><i>PGA Tour on CBS</i></a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Masters_Tournament" title="Masters Tournament">The Masters</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1956_Masters_Tournament" title="1956 Masters Tournament">1956</a></li>
+<li><a href="/wiki/1957_Masters_Tournament" title="1957 Masters Tournament">1957</a></li>
+<li><a href="/wiki/1958_Masters_Tournament" title="1958 Masters Tournament">1958</a></li>
+<li><a href="/wiki/1959_Masters_Tournament" title="1959 Masters Tournament">1959</a></li>
+<li><a href="/wiki/1960_Masters_Tournament" title="1960 Masters Tournament">1960</a></li>
+<li><a href="/wiki/1961_Masters_Tournament" title="1961 Masters Tournament">1961</a></li>
+<li><a href="/wiki/1962_Masters_Tournament" title="1962 Masters Tournament">1962</a></li>
+<li><a href="/wiki/1963_Masters_Tournament" title="1963 Masters Tournament">1963</a></li>
+<li><a href="/wiki/1964_Masters_Tournament" title="1964 Masters Tournament">1964</a></li>
+<li><a href="/wiki/1965_Masters_Tournament" title="1965 Masters Tournament">1965</a></li>
+<li><a href="/wiki/1966_Masters_Tournament" title="1966 Masters Tournament">1966</a></li>
+<li><a href="/wiki/1967_Masters_Tournament" title="1967 Masters Tournament">1967</a></li>
+<li><a href="/wiki/1968_Masters_Tournament" title="1968 Masters Tournament">1968</a></li>
+<li><a href="/wiki/1969_Masters_Tournament" title="1969 Masters Tournament">1969</a></li>
+<li><a href="/wiki/1970_Masters_Tournament" title="1970 Masters Tournament">1970</a></li>
+<li><a href="/wiki/1971_Masters_Tournament" title="1971 Masters Tournament">1971</a></li>
+<li><a href="/wiki/1972_Masters_Tournament" title="1972 Masters Tournament">1972</a></li>
+<li><a href="/wiki/1973_Masters_Tournament" title="1973 Masters Tournament">1973</a></li>
+<li><a href="/wiki/1974_Masters_Tournament" title="1974 Masters Tournament">1974</a></li>
+<li><a href="/wiki/1975_Masters_Tournament" title="1975 Masters Tournament">1975</a></li>
+<li><a href="/wiki/1976_Masters_Tournament" title="1976 Masters Tournament">1976</a></li>
+<li><a href="/wiki/1977_Masters_Tournament" title="1977 Masters Tournament">1977</a></li>
+<li><a href="/wiki/1978_Masters_Tournament" title="1978 Masters Tournament">1978</a></li>
+<li><a href="/wiki/1979_Masters_Tournament" title="1979 Masters Tournament">1979</a></li>
+<li><a href="/wiki/1980_Masters_Tournament" title="1980 Masters Tournament">1980</a></li>
+<li><a href="/wiki/1981_Masters_Tournament" title="1981 Masters Tournament">1981</a></li>
+<li><a href="/wiki/1982_Masters_Tournament" title="1982 Masters Tournament">1982</a></li>
+<li><a href="/wiki/1983_Masters_Tournament" title="1983 Masters Tournament">1983</a></li>
+<li><a href="/wiki/1984_Masters_Tournament" title="1984 Masters Tournament">1984</a></li>
+<li><a href="/wiki/1985_Masters_Tournament" title="1985 Masters Tournament">1985</a></li>
+<li><a href="/wiki/1986_Masters_Tournament" title="1986 Masters Tournament">1986</a></li>
+<li><a href="/wiki/1987_Masters_Tournament" title="1987 Masters Tournament">1987</a></li>
+<li><a href="/wiki/1988_Masters_Tournament" title="1988 Masters Tournament">1988</a></li>
+<li><a href="/wiki/1989_Masters_Tournament" title="1989 Masters Tournament">1989</a></li>
+<li><a href="/wiki/1990_Masters_Tournament" title="1990 Masters Tournament">1990</a></li>
+<li><a href="/wiki/1991_Masters_Tournament" title="1991 Masters Tournament">1991</a></li>
+<li><a href="/wiki/1992_Masters_Tournament" title="1992 Masters Tournament">1992</a></li>
+<li><a href="/wiki/1993_Masters_Tournament" title="1993 Masters Tournament">1993</a></li>
+<li><a href="/wiki/1994_Masters_Tournament" title="1994 Masters Tournament">1994</a></li>
+<li><a href="/wiki/1995_Masters_Tournament" title="1995 Masters Tournament">1995</a></li>
+<li><a href="/wiki/1996_Masters_Tournament" title="1996 Masters Tournament">1996</a></li>
+<li><a href="/wiki/1997_Masters_Tournament" title="1997 Masters Tournament">1997</a></li>
+<li><a href="/wiki/1998_Masters_Tournament" title="1998 Masters Tournament">1998</a></li>
+<li><a href="/wiki/1999_Masters_Tournament" title="1999 Masters Tournament">1999</a></li>
+<li><a href="/wiki/2000_Masters_Tournament" title="2000 Masters Tournament">2000</a></li>
+<li><a href="/wiki/2001_Masters_Tournament" title="2001 Masters Tournament">2001</a></li>
+<li><a href="/wiki/2002_Masters_Tournament" title="2002 Masters Tournament">2002</a></li>
+<li><a href="/wiki/2003_Masters_Tournament" title="2003 Masters Tournament">2003</a></li>
+<li><a href="/wiki/2004_Masters_Tournament" title="2004 Masters Tournament">2004</a></li>
+<li><a href="/wiki/2005_Masters_Tournament" title="2005 Masters Tournament">2005</a></li>
+<li><a href="/wiki/2006_Masters_Tournament" title="2006 Masters Tournament">2006</a></li>
+<li><a href="/wiki/2007_Masters_Tournament" title="2007 Masters Tournament">2007</a></li>
+<li><a href="/wiki/2008_Masters_Tournament" title="2008 Masters Tournament">2008</a></li>
+<li><a href="/wiki/2009_Masters_Tournament" title="2009 Masters Tournament">2009</a></li>
+<li><a href="/wiki/2010_Masters_Tournament" title="2010 Masters Tournament">2010</a></li>
+<li><a href="/wiki/2011_Masters_Tournament" title="2011 Masters Tournament">2011</a></li>
+<li><a href="/wiki/2012_Masters_Tournament" title="2012 Masters Tournament">2012</a></li>
+<li><a href="/wiki/2013_Masters_Tournament" title="2013 Masters Tournament">2013</a></li>
+<li><a href="/wiki/2014_Masters_Tournament" title="2014 Masters Tournament">2014</a></li>
+<li><a href="/wiki/2015_Masters_Tournament" title="2015 Masters Tournament">2015</a></li>
+<li><a href="/wiki/2016_Masters_Tournament" title="2016 Masters Tournament">2016</a></li>
+<li><a class="mw-selflink selflink">2017</a></li>
+<li><a href="/wiki/2018_Masters_Tournament" title="2018 Masters Tournament">2018</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/PGA_Championship" title="PGA Championship">PGA Championship</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1958_PGA_Championship" title="1958 PGA Championship">1958</a></li>
+<li><a href="/wiki/1959_PGA_Championship" title="1959 PGA Championship">1959</a></li>
+<li><a href="/wiki/1960_PGA_Championship" title="1960 PGA Championship">1960</a></li>
+<li><a href="/wiki/1961_PGA_Championship" title="1961 PGA Championship">1961</a></li>
+<li><a href="/wiki/1962_PGA_Championship" title="1962 PGA Championship">1962</a></li>
+<li><a href="/wiki/1963_PGA_Championship" title="1963 PGA Championship">1963</a></li>
+<li><a href="/wiki/1964_PGA_Championship" title="1964 PGA Championship">1964</a></li>
+<li><a href="/wiki/1991_PGA_Championship" title="1991 PGA Championship">1991</a></li>
+<li><a href="/wiki/1992_PGA_Championship" title="1992 PGA Championship">1992</a></li>
+<li><a href="/wiki/1993_PGA_Championship" title="1993 PGA Championship">1993</a></li>
+<li><a href="/wiki/1994_PGA_Championship" title="1994 PGA Championship">1994</a></li>
+<li><a href="/wiki/1995_PGA_Championship" title="1995 PGA Championship">1995</a></li>
+<li><a href="/wiki/1996_PGA_Championship" title="1996 PGA Championship">1996</a></li>
+<li><a href="/wiki/1997_PGA_Championship" title="1997 PGA Championship">1997</a></li>
+<li><a href="/wiki/1998_PGA_Championship" title="1998 PGA Championship">1998</a></li>
+<li><a href="/wiki/1999_PGA_Championship" title="1999 PGA Championship">1999</a></li>
+<li><a href="/wiki/2000_PGA_Championship" title="2000 PGA Championship">2000</a></li>
+<li><a href="/wiki/2001_PGA_Championship" title="2001 PGA Championship">2001</a></li>
+<li><a href="/wiki/2002_PGA_Championship" title="2002 PGA Championship">2002</a></li>
+<li><a href="/wiki/2003_PGA_Championship" title="2003 PGA Championship">2003</a></li>
+<li><a href="/wiki/2004_PGA_Championship" title="2004 PGA Championship">2004</a></li>
+<li><a href="/wiki/2005_PGA_Championship" title="2005 PGA Championship">2005</a></li>
+<li><a href="/wiki/2006_PGA_Championship" title="2006 PGA Championship">2006</a></li>
+<li><a href="/wiki/2007_PGA_Championship" title="2007 PGA Championship">2007</a></li>
+<li><a href="/wiki/2008_PGA_Championship" title="2008 PGA Championship">2008</a></li>
+<li><a href="/wiki/2009_PGA_Championship" title="2009 PGA Championship">2009</a></li>
+<li><a href="/wiki/2010_PGA_Championship" title="2010 PGA Championship">2010</a></li>
+<li><a href="/wiki/2011_PGA_Championship" title="2011 PGA Championship">2011</a></li>
+<li><a href="/wiki/2012_PGA_Championship" title="2012 PGA Championship">2012</a></li>
+<li><a href="/wiki/2013_PGA_Championship" title="2013 PGA Championship">2013</a></li>
+<li><a href="/wiki/2014_PGA_Championship" title="2014 PGA Championship">2014</a></li>
+<li><a href="/wiki/2015_PGA_Championship" title="2015 PGA Championship">2015</a></li>
+<li><a href="/wiki/2016_PGA_Championship" title="2016 PGA Championship">2016</a></li>
+<li><a href="/wiki/2017_PGA_Championship" title="2017 PGA Championship">2017</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Presidents_Cup" title="Presidents Cup">Presidents Cup</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1994_Presidents_Cup" title="1994 Presidents Cup">1994</a></li>
+<li><a href="/wiki/1996_Presidents_Cup" title="1996 Presidents Cup">1996</a></li>
+<li><a href="/wiki/1998_Presidents_Cup" title="1998 Presidents Cup">1998</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Other events</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Farmers_Insurance_Open" title="Farmers Insurance Open">Farmers Insurance Open</a></li>
+<li><a href="/wiki/Waste_Management_Phoenix_Open" class="mw-redirect" title="Waste Management Phoenix Open">Waste Management Phoenix Open</a></li>
+<li><a href="/wiki/AT%26T_Pebble_Beach_National_Pro-Am" class="mw-redirect" title="AT&amp;T Pebble Beach National Pro-Am">AT&amp;T Pebble Beach National Pro-Am</a></li>
+<li><a href="/wiki/Northern_Trust_Open" class="mw-redirect" title="Northern Trust Open">Northern Trust Open</a></li>
+<li><a href="/wiki/RBC_Heritage" title="RBC Heritage">RBC Heritage</a></li>
+<li><a href="/wiki/Valero_Texas_Open" title="Valero Texas Open">Valero Texas Open</a></li>
+<li><a href="/wiki/Zurich_Classic_of_New_Orleans" title="Zurich Classic of New Orleans">Zurich Classic of New Orleans</a></li>
+<li><a href="/wiki/WGC-Dell_Match_Play_Championship" class="mw-redirect" title="WGC-Dell Match Play Championship">WGC-Dell Match Play Championship</a></li>
+<li><a href="/wiki/Wells_Fargo_Championship" title="Wells Fargo Championship">Wells Fargo Championship</a></li>
+<li><a href="/wiki/HP_Byron_Nelson_Championship" class="mw-redirect" title="HP Byron Nelson Championship">HP Byron Nelson Championship</a></li>
+<li><a href="/wiki/Crowne_Plaza_Invitational_at_Colonial" class="mw-redirect" title="Crowne Plaza Invitational at Colonial">Crowne Plaza Invitational at Colonial</a></li>
+<li><a href="/wiki/The_Memorial_Tournament" class="mw-redirect" title="The Memorial Tournament">The Memorial Tournament</a></li>
+<li><a href="/wiki/FedEx_St._Jude_Classic" class="mw-redirect" title="FedEx St. Jude Classic">FedEx St. Jude Classic</a></li>
+<li><a href="/wiki/Travelers_Championship" title="Travelers Championship">Travelers Championship</a></li>
+<li><a href="/wiki/AT%26T_National" class="mw-redirect" title="AT&amp;T National">AT&amp;T National</a></li>
+<li><a href="/wiki/Greenbrier_Classic" title="Greenbrier Classic">Greenbrier Classic</a></li>
+<li><a href="/wiki/John_Deere_Classic" title="John Deere Classic">John Deere Classic</a></li>
+<li><a href="/wiki/RBC_Canadian_Open" class="mw-redirect" title="RBC Canadian Open">RBC Canadian Open</a></li>
+<li><a href="/wiki/WGC-Bridgestone_Invitational" title="WGC-Bridgestone Invitational">WGC-Bridgestone Invitational</a></li>
+<li><a href="/wiki/Wyndham_Championship" title="Wyndham Championship">Wyndham Championship</a></li>
+<li><a href="/wiki/The_Barclays" class="mw-redirect" title="The Barclays">The Barclays</a></li>
+<li><a href="/wiki/Liberty_Mutual_Legends_of_Golf" class="mw-redirect" title="Liberty Mutual Legends of Golf">Liberty Mutual Legends of Golf</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">LPGA events</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kraft_Nabisco_Championship" class="mw-redirect" title="Kraft Nabisco Championship">Kraft Nabisco Championship</a></li>
+<li><a href="/wiki/LPGA_Championship" class="mw-redirect" title="LPGA Championship">LPGA Championship</a></li>
+<li><a href="/wiki/Ginn_Open" title="Ginn Open">Ginn Open</a> (2006-2008)</li>
+<li><a href="/wiki/Walmart_NW_Arkansas_Championship" title="Walmart NW Arkansas Championship">Walmart NW Arkansas Championship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/List_of_PGA_Tour_on_CBS_commentators" title="List of PGA Tour on CBS commentators">Key figures</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Frank_Chirkinian" title="Frank Chirkinian">Frank Chirkinian</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Music composers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Earl_Klugh" title="Earl Klugh">Earl Klugh</a> ("Take It From The Top")</li>
+<li><a href="/wiki/Dave_Loggins" title="Dave Loggins">Dave Loggins</a> ("Augusta")</li>
+<li><a href="/wiki/David_Barrett_(musician)" title="David Barrett (musician)">David Barrett</a> ("The Gift")</li>
+<li><a href="/wiki/E.S._Posthumus" title="E.S. Posthumus">E.S. Posthumus</a> ("Burlingame", "Thrill of Victory")</li>
+<li><a href="/wiki/Lalo_Schifrin" title="Lalo Schifrin">Lalo Schifrin</a> ("<a href="/wiki/St._Ives_(1976_film)" title="St. Ives (1976 film)">St. Ives</a> Theme")</li>
+<li><a href="/wiki/Yanni" title="Yanni">Yanni</a> ("Fanfare")</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Related articles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sports_broadcasting_contracts_in_the_United_States#Golf" title="Sports broadcasting contracts in the United States">Television contract history</a></li>
+<li><a href="/wiki/PGA_Tour_on_USA" title="PGA Tour on USA"><i>Golf on USA Network</i></a> (early round Masters coverage)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2136
+Cached time: 20170420074716
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.588 seconds
+Real time usage: 0.731 seconds
+Preprocessor visited node count: 5148/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 117446/2097152 bytes
+Template argument size: 5100/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.178/10.000 seconds
+Lua memory usage: 6.95 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  494.211      1 -total
+ 29.43%  145.446      1 Template:Reflist
+ 13.32%   65.816      1 Template:Infobox_individual_golf_tournament
+ 13.18%   65.116     23 Template:Flag
+ 12.74%   62.940      1 Template:Infobox
+ 12.72%   62.845     15 Template:Cite_news
+ 10.06%   49.742      5 Template:Navbox
+ 10.00%   49.433      4 Template:Cite_web
+  6.00%   29.630      1 Template:Convert
+  5.39%   26.632      1 Template:Redirect
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:50116192-0!*!0!!en!4!* and timestamp 20170420074716 and revision id 776317590
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=2017_Masters_Tournament&amp;oldid=776317590">https://en.wikipedia.org/w/index.php?title=2017_Masters_Tournament&amp;oldid=776317590</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Masters_Tournament" title="Category:Masters Tournament">Masters Tournament</a></li><li><a href="/wiki/Category:2017_in_golf" title="Category:2017 in golf">2017 in golf</a></li><li><a href="/wiki/Category:2017_in_American_sports" title="Category:2017 in American sports">2017 in American sports</a></li><li><a href="/wiki/Category:2017_in_Georgia_(U.S._state)" title="Category:2017 in Georgia (U.S. state)">2017 in Georgia (U.S. state)</a></li><li><a href="/wiki/Category:April_2017_sports_events_in_the_United_States" title="Category:April 2017 sports events in the United States">April 2017 sports events in the United States</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_April_2016" title="Category:Use mdy dates from April 2016">Use mdy dates from April 2016</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Official_website_not_in_Wikidata" title="Category:Official website not in Wikidata">Official website not in Wikidata</a></li><li><a href="/wiki/Category:Coordinates_not_on_Wikidata" title="Category:Coordinates not on Wikidata">Coordinates not on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=2017+Masters+Tournament" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2017+Masters+Tournament" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/2017_Masters_Tournament"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:2017_Masters_Tournament"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/2017_Masters_Tournament" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2017_Masters_Tournament" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2017_Masters_Tournament" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=2017_Masters_Tournament&amp;oldid=776317590" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=2017_Masters_Tournament&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q24197369" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=2017_Masters_Tournament&amp;id=776317590" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=2017+Masters+Tournament">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=2017+Masters+Tournament&amp;returnto=2017+Masters+Tournament&amp;oldid=776317590&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=2017_Masters_Tournament&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Masters_Tournament_2017" title="Masters Tournament 2017 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/The_Masters_Tournament_2017" title="The Masters Tournament 2017 – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/2017_Masters_Turnuvas%C4%B1" title="2017 Masters Turnuvası – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q24197369#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 April 2017, at 07:47.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=2017_Masters_Tournament&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.588","walltime":"0.731","ppvisitednodes":{"value":5148,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":117446,"limit":2097152},"templateargumentsize":{"value":5100,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  494.211      1 -total"," 29.43%  145.446      1 Template:Reflist"," 13.32%   65.816      1 Template:Infobox_individual_golf_tournament"," 13.18%   65.116     23 Template:Flag"," 12.74%   62.940      1 Template:Infobox"," 12.72%   62.845     15 Template:Cite_news"," 10.06%   49.742      5 Template:Navbox"," 10.00%   49.433      4 Template:Cite_web","  6.00%   29.630      1 Template:Convert","  5.39%   26.632      1 Template:Redirect"]},"scribunto":{"limitreport-timeusage":{"value":"0.178","limit":"10.000"},"limitreport-memusage":{"value":7287918,"limit":52428800}},"cachereport":{"origin":"mw2136","timestamp":"20170420074716","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw2102"});});</script>
+	</body>
+</html>

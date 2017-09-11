@@ -1,0 +1,949 @@
+https://en.wikipedia.org/wiki/1863
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1863 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1863","wgTitle":"1863","wgCurRevisionId":768719260,"wgRevisionId":768719260,"wgArticleId":34641,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from March 2011","Articles containing Arabic-language text","Articles containing German-language text","Wikipedia articles needing page number citations from October 2016","1863"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1863","wgRelevantArticleId":34641,"wgRequestId":"WPlddgrAIEIAACW@wVAAAAAL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7701","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1863"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1863&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1863&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1863"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1863 rootpage-1863 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1863</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the year 1863.</div>
+<table class="infobox" style="text-align: center;">
+<tr>
+<th style="text-align:right;"><a href="/wiki/Millennium" title="Millennium">Millennium</a>:</th>
+<td><a href="/wiki/2nd_millennium" title="2nd millennium">2nd&#160;millennium</a></td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_centuries" title="List of centuries">Centuries</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/18th_century" title="18th century">18th&#160;century</a></li>
+<li><b><a href="/wiki/19th_century" title="19th century">19th&#160;century</a></b></li>
+<li><a href="/wiki/20th_century" title="20th century">20th&#160;century</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_decades" title="List of decades">Decades</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/1840s" title="1840s">1840s</a></li>
+<li><a href="/wiki/1850s" title="1850s">1850s</a></li>
+<li><b><a href="/wiki/1860s" title="1860s">1860s</a></b></li>
+<li><a href="/wiki/1870s" title="1870s">1870s</a></li>
+<li><a href="/wiki/1880s" title="1880s">1880s</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_years" title="List of years">Years</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/1860" title="1860">1860</a></li>
+<li><a href="/wiki/1861" title="1861">1861</a></li>
+<li><a href="/wiki/1862" title="1862">1862</a></li>
+<li><b><a class="mw-selflink selflink">1863</a></b></li>
+<li><a href="/wiki/1864" title="1864">1864</a></li>
+<li><a href="/wiki/1865" title="1865">1865</a></li>
+<li><a href="/wiki/1866" title="1866">1866</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table class="infobox" width="325">
+<tr>
+<td style="text-align:center;"><b><a href="/wiki/Category:1863" title="Category:1863">1863 in topic</a>:</b></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Humanities</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1863_in_archaeology" title="1863 in archaeology">Archaeology</a> – <a href="/wiki/1863_in_architecture" title="1863 in architecture">Architecture</a> – <a href="/wiki/1863_in_art" title="1863 in art">Art</a> – <a href="/wiki/1863_in_literature" title="1863 in literature">Literature</a> – <a href="/wiki/1863_in_music" title="1863 in music">Music</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>By country</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1863_in_Australia" title="1863 in Australia">Australia</a> – <a href="/wiki/1863_in_Brazil" class="mw-redirect" title="1863 in Brazil">Brazil</a> - <a href="/wiki/1863_in_Canada" title="1863 in Canada">Canada</a> – <a href="/wiki/1863_in_Denmark" title="1863 in Denmark">Denmark</a> - <a href="/wiki/1863_in_France" title="1863 in France">France</a> – <a href="/w/index.php?title=1863_in_Germany&amp;action=edit&amp;redlink=1" class="new" title="1863 in Germany (page does not exist)">Germany</a> – <a href="/wiki/Category:1863_in_Mexico" title="Category:1863 in Mexico">Mexico</a> – <a href="/wiki/1863_in_Norway" title="1863 in Norway">Norway</a> - <a href="/wiki/Category:1863_in_the_Philippines" title="Category:1863 in the Philippines">Philippines</a> - <a href="/wiki/1863_in_Portugal" title="1863 in Portugal">Portugal</a>– <a href="/wiki/1863_in_Russia" title="1863 in Russia">Russia</a> - <a href="/wiki/1863_in_South_Africa" title="1863 in South Africa">South Africa</a> – <a href="/w/index.php?title=1863_in_Spain&amp;action=edit&amp;redlink=1" class="new" title="1863 in Spain (page does not exist)">Spain</a> - <a href="/wiki/1863_in_Sweden" title="1863 in Sweden">Sweden</a> - <a href="/wiki/1863_in_the_United_Kingdom" title="1863 in the United Kingdom">United Kingdom</a> – <a href="/wiki/1863_in_the_United_States" title="1863 in the United States">United States</a> – <a href="/w/index.php?title=1863_in_Venezuela&amp;action=edit&amp;redlink=1" class="new" title="1863 in Venezuela (page does not exist)">Venezuela</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Other topics</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1863_in_rail_transport" title="1863 in rail transport">Rail Transport</a> – <a href="/wiki/1863_in_science" title="1863 in science">Science</a> – <a href="/wiki/1863_in_sports" title="1863 in sports">Sports</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Lists of leaders</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/List_of_political_entities_in_the_19th_century" title="List of political entities in the 19th century">Sovereign states</a> – <a href="/wiki/List_of_state_leaders_in_1863" title="List of state leaders in 1863">State leaders</a> – <a href="/wiki/List_of_governors_of_dependent_territories_in_the_19th_century" title="List of governors of dependent territories in the 19th century">Territorial governors</a> – <a href="/wiki/List_of_19th-century_religious_leaders" title="List of 19th-century religious leaders">Religious leaders</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Birth and death categories</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1863_births" title="Category:1863 births">Births</a> – <a href="/wiki/Category:1863_deaths" title="Category:1863 deaths">Deaths</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Establishments and disestablishments categories</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1863_establishments" title="Category:1863 establishments">Establishments</a> – <a href="/wiki/Category:1863_disestablishments" title="Category:1863 disestablishments">Disestablishments</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Works category</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1863_works" title="Category:1863 works">Works</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:C19_year_in_topic" title="Template:C19 year in topic"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:C19_year_in_topic" title="Template talk:C19 year in topic"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:C19_year_in_topic&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption style="font-size:125%"><span class="summary dtstart">1863 in various <a href="/wiki/Calendar_era" title="Calendar era">calendars</a></span></caption>
+<tr>
+<td><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a></td>
+<td>1863<br />
+<span style="font-family: serif;"><i>MDCCCLXIII</i></span></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ab_urbe_condita" title="Ab urbe condita">Ab urbe condita</a></td>
+<td>2616</td>
+</tr>
+<tr>
+<td><a href="/wiki/Armenian_calendar" title="Armenian calendar">Armenian calendar</a></td>
+<td>1312<br />
+ԹՎ ՌՅԺԲ</td>
+</tr>
+<tr>
+<td><a href="/wiki/Assyrian_calendar" title="Assyrian calendar">Assyrian calendar</a></td>
+<td>6613</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bah%C3%A1%27%C3%AD_calendar" title="Bahá'í calendar">Bahá'í calendar</a></td>
+<td>19–20</td>
+</tr>
+<tr>
+<td><a href="/wiki/Balinese_saka_calendar" title="Balinese saka calendar">Balinese saka calendar</a></td>
+<td>1784–1785</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bengali_calendar" title="Bengali calendar">Bengali calendar</a></td>
+<td>1270</td>
+</tr>
+<tr>
+<td><a href="/wiki/Berber_calendar" title="Berber calendar">Berber calendar</a></td>
+<td>2813</td>
+</tr>
+<tr>
+<td><a href="/wiki/Regnal_years_of_English_monarchs" title="Regnal years of English monarchs">British Regnal year</a></td>
+<td>26&#160;<a href="/wiki/Queen_Victoria" title="Queen Victoria">Vict.&#160;1</a>&#160;–&#160;27&#160;<a href="/wiki/Queen_Victoria" title="Queen Victoria">Vict.&#160;1</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Buddhist_calendar" title="Buddhist calendar">Buddhist calendar</a></td>
+<td>2407</td>
+</tr>
+<tr>
+<td><a href="/wiki/Burmese_calendar" title="Burmese calendar">Burmese calendar</a></td>
+<td>1225</td>
+</tr>
+<tr>
+<td><a href="/wiki/Byzantine_calendar" title="Byzantine calendar">Byzantine calendar</a></td>
+<td>7371–7372</td>
+</tr>
+<tr>
+<td><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a></td>
+<td><a href="/wiki/Chinese_sexagenary_cycle" title="Chinese sexagenary cycle">壬戌</a>年 <small>(Water&#160;<a href="/wiki/Dog_(zodiac)" title="Dog (zodiac)">Dog</a>)</small><br />
+4559 or 4499<br />
+&#160;&#160;&#160;&#160;<i>—&#160;to&#160;—</i><br />
+癸亥年 <small>(Water&#160;<a href="/wiki/Pig_(zodiac)" title="Pig (zodiac)">Pig</a>)</small><br />
+4560 or 4500</td>
+</tr>
+<tr>
+<td><a href="/wiki/Coptic_calendar" title="Coptic calendar">Coptic calendar</a></td>
+<td>1579–1580</td>
+</tr>
+<tr>
+<td><a href="/wiki/Discordian_calendar" title="Discordian calendar">Discordian calendar</a></td>
+<td>3029</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ethiopian_calendar" title="Ethiopian calendar">Ethiopian calendar</a></td>
+<td>1855–1856</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a></td>
+<td>5623–5624</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu calendars</a></td>
+<td></td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Vikram_Samvat" title="Vikram Samvat">Vikram Samvat</a></i></td>
+<td>1919–1920</td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Indian_national_calendar" title="Indian national calendar">Shaka Samvat</a></i></td>
+<td>1784–1785</td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Kali_Yuga" title="Kali Yuga">Kali Yuga</a></i></td>
+<td>4963–4964</td>
+</tr>
+<tr>
+<td><a href="/wiki/Holocene_calendar" title="Holocene calendar">Holocene calendar</a></td>
+<td>11863</td>
+</tr>
+<tr>
+<td><a href="/wiki/Igbo_calendar" title="Igbo calendar">Igbo calendar</a></td>
+<td>863–864</td>
+</tr>
+<tr>
+<td><a href="/wiki/Iranian_calendars" title="Iranian calendars">Iranian calendar</a></td>
+<td>1241–1242</td>
+</tr>
+<tr>
+<td><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td>
+<td>1279–1280</td>
+</tr>
+<tr>
+<td><a href="/wiki/Japanese_calendar" title="Japanese calendar">Japanese calendar</a></td>
+<td><a href="/wiki/Bunky%C5%AB" title="Bunkyū">Bunkyū</a> 3<br />
+<small>(文久３年)</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/Javanese_calendar" title="Javanese calendar">Javanese calendar</a></td>
+<td>1791–1792</td>
+</tr>
+<tr>
+<td><a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a></td>
+<td>Gregorian minus 12 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Korean_calendar" title="Korean calendar">Korean calendar</a></td>
+<td>4196</td>
+</tr>
+<tr>
+<td><a href="/wiki/Minguo_calendar" title="Minguo calendar">Minguo calendar</a></td>
+<td>49 before <a href="/wiki/Republic_of_China_(1912%E2%80%931949)" class="mw-redirect" title="Republic of China (1912–1949)">ROC</a><br />
+<small>民前49年</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/Nanakshahi_calendar" title="Nanakshahi calendar">Nanakshahi calendar</a></td>
+<td>395</td>
+</tr>
+<tr>
+<td><a href="/wiki/Thai_solar_calendar" title="Thai solar calendar">Thai solar calendar</a></td>
+<td>2405–2406</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="plainlinks hlist navbar"><span style="word-spacing:0">This box:</span>
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Year_in_various_calendars" title="Template:Year in various calendars"><span title="View this template">view</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Year_in_various_calendars" title="Template talk:Year in various calendars"><span title="Discuss this template">talk</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Year_in_various_calendars&amp;action=edit"><span title="Edit this template">edit</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:1863" class="extiw" title="commons:Category:1863">1863</a></b></i>.</td>
+</tr>
+</table>
+<p><br />
+<b>1863 (<a href="/wiki/Roman_numerals" title="Roman numerals">MDCCCLXIII</a>)</b> was a <a href="/wiki/Common_year" title="Common year">common year</a> <a href="/wiki/Common_year_starting_on_Thursday" title="Common year starting on Thursday">starting on Thursday</a> (<a href="/wiki/Dominical_letter" title="Dominical letter">dominical letter</a> D) of the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>&#160;and a <a href="/wiki/Common_year_starting_on_Tuesday" title="Common year starting on Tuesday">common year starting on Tuesday</a> (<a href="/wiki/Dominical_letter" title="Dominical letter">dominical letter</a> F) of the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a>, the 1863rd year of the <a href="/wiki/Common_Era" title="Common Era">Common Era</a> (CE) and <i><a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a></i> (AD) designations, the 863rd year of the <a href="/wiki/2nd_millennium" title="2nd millennium">2nd&#160;millennium</a>, the 63rd year of the <a href="/wiki/19th_century" title="19th century">19th&#160;century</a>, and the 4th year of the <a href="/wiki/1860s" title="1860s">1860s</a> decade. As of the start of 1863, the Gregorian calendar was 12 days ahead of the Julian calendar, which remained in localized use until 1923.</p>
+<div class="toclimit-2">
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Events"><span class="tocnumber">1</span> <span class="toctext">Events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#January.E2.80.93March"><span class="tocnumber">1.1</span> <span class="toctext">January–March</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#April.E2.80.93June"><span class="tocnumber">1.2</span> <span class="toctext">April–June</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#July.E2.80.93September"><span class="tocnumber">1.3</span> <span class="toctext">July–September</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#October.E2.80.93December"><span class="tocnumber">1.4</span> <span class="toctext">October–December</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Date_unknown"><span class="tocnumber">1.5</span> <span class="toctext">Date unknown</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Births"><span class="tocnumber">2</span> <span class="toctext">Births</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#January.E2.80.93June"><span class="tocnumber">2.1</span> <span class="toctext">January–June</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#July.E2.80.93December"><span class="tocnumber">2.2</span> <span class="toctext">July–December</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Date_unknown_2"><span class="tocnumber">2.3</span> <span class="toctext">Date unknown</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Deaths"><span class="tocnumber">3</span> <span class="toctext">Deaths</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#January.E2.80.93June_2"><span class="tocnumber">3.1</span> <span class="toctext">January–June</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#July.E2.80.93December_2"><span class="tocnumber">3.2</span> <span class="toctext">July–December</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#In_fiction"><span class="tocnumber">4</span> <span class="toctext">In fiction</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=1" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:Transcontinental_railroad_route.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Transcontinental_railroad_route.png/180px-Transcontinental_railroad_route.png" width="180" height="111" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Transcontinental_railroad_route.png/270px-Transcontinental_railroad_route.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Transcontinental_railroad_route.png/360px-Transcontinental_railroad_route.png 2x" data-file-width="1000" data-file-height="619" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Transcontinental_railroad_route.png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/January_8" title="January 8">January 8</a>: <a href="/wiki/First_Transcontinental_Railroad" title="First Transcontinental Railroad">First Transcontinental Railroad</a></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="January.E2.80.93March">January–March</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=2" title="Edit section: January–March">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>January – <a href="/wiki/John_Tyndall" title="John Tyndall">John Tyndall</a> first explains the workings of the <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/January_1" title="January 1">January 1</a>
+<ul>
+<li><a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Abraham Lincoln</a> signs the <a href="/wiki/Emancipation_Proclamation" title="Emancipation Proclamation">Emancipation Proclamation</a> during the third year of the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>, making the abolition of <a href="/wiki/Slavery" title="Slavery">slavery</a> in the Confederate states an official war goal. It proclaims the freedom of 3.1 million of the nation's four million slaves, and immediately frees 50,000 of them, with the rest freed as Union armies advance.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+<li>The first claim under the <a href="/wiki/Homestead_Act" class="mw-redirect" title="Homestead Act">Homestead Act</a> is made, for a farm in <a href="/wiki/Nebraska" title="Nebraska">Nebraska</a>.</li>
+</ul>
+</li>
+<li><a href="/wiki/January_3" title="January 3">January 3</a> – <i><a href="/wiki/Harper%27s_Weekly" title="Harper's Weekly">Harper's Weekly</a></i> publishes <a href="/wiki/Thomas_Nast" title="Thomas Nast">Thomas Nast</a>'s first drawing of the modern <a href="/wiki/Santa_Claus" title="Santa Claus">Santa Claus</a> (although Santa existed previously).</li>
+<li><a href="/wiki/January_4" title="January 4">January 4</a> – The <a href="/wiki/New_Apostolic_Church" title="New Apostolic Church">New Apostolic Church</a>, a Christian and <a href="/wiki/Chiliastic" class="mw-redirect" title="Chiliastic">chiliastic</a> church, established in <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a>, Germany.</li>
+<li><a href="/wiki/January_7" title="January 7">January 7</a> – In the <a href="/wiki/Cantons_of_Switzerland" title="Cantons of Switzerland">Swiss canton</a> <a href="/wiki/Ticino" title="Ticino">Ticino</a>, the village of <a href="/wiki/Bedretto" title="Bedretto">Bedretto</a> is partly destroyed, and 29 killed, by an <a href="/wiki/Avalanche" title="Avalanche">avalanche</a>.<sup id="cite_ref-Resoconto_3-0" class="reference"><a href="#cite_note-Resoconto-3">[3]</a></sup></li>
+<li><a href="/wiki/January_8" title="January 8">January 8</a>
+<ul>
+<li>Ground is broken in <a href="/wiki/Sacramento,_California" title="Sacramento, California">Sacramento, California</a>, on the construction of the <a href="/wiki/First_Transcontinental_Railroad" title="First Transcontinental Railroad">First Transcontinental Railroad</a> in the United States.</li>
+<li>The <a href="/wiki/Yorkshire_County_Cricket_Club" title="Yorkshire County Cricket Club">Yorkshire County Cricket Club</a> is founded at the <a href="/wiki/Adelphi_Hotel_(Sheffield)" title="Adelphi Hotel (Sheffield)">Adelphi Hotel</a> in <a href="/wiki/Sheffield" title="Sheffield">Sheffield</a>, England.</li>
+</ul>
+</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:192px;"><a href="/wiki/File:Battle_of_Fort_Hindman.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Battle_of_Fort_Hindman.png/190px-Battle_of_Fort_Hindman.png" width="190" height="121" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Battle_of_Fort_Hindman.png/285px-Battle_of_Fort_Hindman.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Battle_of_Fort_Hindman.png/380px-Battle_of_Fort_Hindman.png 2x" data-file-width="1451" data-file-height="923" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Battle_of_Fort_Hindman.png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/January_11" title="January 11">Jan.11</a>: <a href="/wiki/Battle_of_Arkansas_Post" title="Battle of Arkansas Post">Battle of Arkansas Post</a>.</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/January_10" title="January 10">January 10</a> – The first section of the <a href="/wiki/London_Underground" title="London Underground">London Underground</a> Railway (<a href="/wiki/Paddington_tube_station_(Circle_and_Hammersmith_%26_City_lines)" title="Paddington tube station (Circle and Hammersmith &amp; City lines)">Paddington</a> to <a href="/wiki/Farringdon_station" title="Farringdon station">Farringdon Street</a>) opens officially.<sup id="cite_ref-The_People.27s_Chronology_4-0" class="reference"><a href="#cite_note-The_People.27s_Chronology-4">[4]</a></sup></li>
+<li><a href="/wiki/January_11" title="January 11">January 11</a>
+<ul>
+<li><a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – <a href="/wiki/Battle_of_Arkansas_Post" title="Battle of Arkansas Post">Battle of Arkansas Post</a>: General <a href="/wiki/John_McClernand" class="mw-redirect" title="John McClernand">John McClernand</a> and Admiral <a href="/wiki/David_Dixon_Porter" title="David Dixon Porter">David Dixon Porter</a> capture the <a href="/wiki/Arkansas_River" title="Arkansas River">Arkansas River</a> for the Union.</li>
+<li>In the Swiss Canton Ticino, the roof of the church of Sant'Antonio in <a href="/wiki/Locarno" title="Locarno">Locarno</a> collapses under the weight of snow, killing 47.<sup id="cite_ref-Resoconto_3-1" class="reference"><a href="#cite_note-Resoconto-3">[3]</a></sup></li>
+</ul>
+</li>
+<li><a href="/wiki/January_15" title="January 15">January 15</a> – <a href="/wiki/French_intervention_in_Mexico" title="French intervention in Mexico">French intervention in Mexico</a> – French forces bombard <a href="/wiki/Veracruz,_Veracruz" class="mw-redirect" title="Veracruz, Veracruz">Veracruz</a>.</li>
+<li><a href="/wiki/January_21" title="January 21">January 21</a> – <a href="/wiki/Adam_Opel" title="Adam Opel">Adam Opel</a> founds <a href="/wiki/Opel" title="Opel">Opel AG</a>.</li>
+<li><a href="/wiki/January_22" title="January 22">January 22</a> – The <a href="/wiki/January_Uprising" title="January Uprising">January Uprising</a> breaks out in Poland, <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> and <a href="/wiki/Belarus" title="Belarus">Belarus</a>. The aim of the national movement is to liberate the <a href="/wiki/Polish%E2%80%93Lithuanian%E2%80%93Ruthenian_Commonwealth" title="Polish–Lithuanian–Ruthenian Commonwealth">Polish–Lithuanian–Ruthenian Commonwealth</a> from Russian occupation.</li>
+<li><a href="/wiki/January_29" title="January 29">January 29</a> – <a href="/wiki/American_Indian_Wars" title="American Indian Wars">American Indian Wars</a>: The <a href="/wiki/United_States_Army" title="United States Army">United States Army</a> led by General <a href="/wiki/Patrick_Edward_Connor" title="Patrick Edward Connor">Patrick Edward Connor</a> massacres Chief <a href="/wiki/Bear_Hunter" title="Bear Hunter">Bear Hunter</a> and forces of the <a href="/wiki/Shoshone" title="Shoshone">Shoshone</a> in the <a href="/wiki/Bear_River_Massacre" title="Bear River Massacre">Bear River Massacre</a> in <a href="/wiki/Idaho_Territory" title="Idaho Territory">Idaho Territory</a>.</li>
+<li><a href="/wiki/January_31" title="January 31">January 31</a> – <a href="/wiki/Jules_Verne" title="Jules Verne">Jules Verne</a>'s first adventure novel, <i><a href="/wiki/Five_Weeks_in_a_Balloon" title="Five Weeks in a Balloon">Five Weeks in a Balloon</a></i> (<i>Cinq semaines en ballon</i>), is published in Paris.</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:192px;"><a href="/wiki/File:HMS_Orpheus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/HMS_Orpheus.jpg/190px-HMS_Orpheus.jpg" width="190" height="130" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/HMS_Orpheus.jpg/285px-HMS_Orpheus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/HMS_Orpheus.jpg/380px-HMS_Orpheus.jpg 2x" data-file-width="500" data-file-height="343" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HMS_Orpheus.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/February_7" title="February 7">February 7</a>: <a href="/wiki/HMS_Orpheus_(1861)" class="mw-redirect" title="HMS Orpheus (1861)">HMS <i>Orpheus</i></a> sinks.</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/February_1" title="February 1">February 1</a> – Radicals in Lithuania, Belarus, Latvia, northern Ukraine and western Russia join the <a href="/wiki/January_Uprising" title="January Uprising">January Uprising</a>.</li>
+<li><a href="/wiki/February_2" title="February 2">February 2</a> – January Uprising: Polish peasants are massacred by Russian hussars at Čysta Būda, near <a href="/wiki/Marijampol%C4%97" title="Marijampolė">Marijampolė</a>.</li>
+<li><a href="/wiki/February_7" title="February 7">February 7</a> – <a href="/wiki/HMS_Orpheus_(1860)" title="HMS Orpheus (1860)">HMS&#160;<i>Orpheus</i></a> sinks attempting to enter <a href="/wiki/Manukau_Harbour" title="Manukau Harbour">Manukau Harbour</a> in New Zealand, with the loss of 189 lives.</li>
+<li><a href="/wiki/February_10" title="February 10">February 10</a>
+<ul>
+<li>The world-famous midgets <a href="/wiki/General_Tom_Thumb" title="General Tom Thumb">General Tom Thumb</a> and <a href="/wiki/Lavinia_Warren" title="Lavinia Warren">Lavinia Warren</a> get married in New York City; <a href="/wiki/P._T._Barnum" title="P. T. Barnum">P. T. Barnum</a> takes an entrance fee.</li>
+<li>Alanson Crane patents a <a href="/wiki/Fire_extinguisher" title="Fire extinguisher">fire extinguisher</a>.</li>
+</ul>
+</li>
+<li><a href="/wiki/February_16" title="February 16">February 16</a> – <a href="/wiki/Kansas_State_Agricultural_College" class="mw-redirect" title="Kansas State Agricultural College">Kansas State Agricultural College</a> is established as the first <a href="/wiki/Land-grant_university" title="Land-grant university">land grant college</a> created under the 1862 <a href="/wiki/Morrill_Land-Grant_Colleges_Act" class="mw-redirect" title="Morrill Land-Grant Colleges Act">Morrill Act</a>.</li>
+<li><a href="/wiki/February_17" title="February 17">February 17</a> – First meeting of the "Committee of the Five" in <a href="/wiki/Geneva" title="Geneva">Geneva</a>, Switzerland, regarded as the foundation of the <a href="/wiki/International_Committee_of_the_Red_Cross" title="International Committee of the Red Cross">International Committee of the Red Cross</a>, following the lead of humanitarian businessman <a href="/wiki/Henry_Dunant" title="Henry Dunant">Henry Dunant</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li><a href="/wiki/February_24" title="February 24">February 24</a> – <a href="/wiki/Arizona_Territory" title="Arizona Territory">Arizona</a> is organized as a <a href="/wiki/Political_divisions_of_the_United_States" title="Political divisions of the United States">United States territory</a>.</li>
+<li><a href="/wiki/February_26" title="February 26">February 26</a> – Abraham Lincoln signs the <a href="/wiki/National_Banking_Act" class="mw-redirect" title="National Banking Act">National Banking Act</a> into law.</li>
+<li><a href="/wiki/March_2" title="March 2">March 2</a> – <a href="/wiki/Clapham_Junction_railway_station" title="Clapham Junction railway station">Clapham Junction railway station</a> opens in London.</li>
+<li><a href="/wiki/March_3" title="March 3">March 3</a>
+<ul>
+<li><a href="/wiki/Idaho_Territory" title="Idaho Territory">Idaho Territory</a> is organized by the <a href="/wiki/Congress_of_the_United_States" class="mw-redirect" title="Congress of the United States">U.S. Congress</a>.</li>
+<li>The U.S. <a href="/wiki/Enrollment_Act" title="Enrollment Act">National Conscription Act</a> is signed, leading to the <a href="/wiki/New_York_City_draft_riots" title="New York City draft riots">New York City draft riots</a> in July.</li>
+</ul>
+</li>
+<li><a href="/wiki/March_10" title="March 10">March 10</a> – Albert Edward, Prince of Wales (later <a href="/wiki/Edward_VII" title="Edward VII">Edward VII</a>) marries <a href="/wiki/Alexandra_of_Denmark" title="Alexandra of Denmark">Princess Alexandra of Denmark</a> (later Queen Alexandra).<sup id="cite_ref-Pocket_On_This_Day_6-0" class="reference"><a href="#cite_note-Pocket_On_This_Day-6">[6]</a></sup></li>
+<li><a href="/wiki/March_14" title="March 14">March 14</a> – <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a> issues <a href="/wiki/Letters_Patent" class="mw-redirect" title="Letters Patent">Letters Patent</a> granting <a href="/wiki/Goulburn,_New_South_Wales" title="Goulburn, New South Wales">Goulburn, New South Wales</a>, city status, making it Australia's first inland city.</li>
+<li><a href="/wiki/March_19" title="March 19">March 19</a> – The <a href="/wiki/SS_Georgiana" title="SS Georgiana">SS&#160;<i>Georgiana</i></a> is destroyed on her maiden voyage while attempting to run the <a href="/wiki/Blockade" title="Blockade">blockade</a> into <a href="/wiki/Charleston,_South_Carolina" title="Charleston, South Carolina">Charleston, South Carolina</a>. The wreck is discovered exactly 102 years later by <a href="/wiki/E._Lee_Spence" title="E. Lee Spence">E. Lee Spence</a>.</li>
+<li><a href="/wiki/March_30" title="March 30">March 30</a> – 17-year-old Prince Wilhelm George of <a href="/wiki/Monarchy_of_Denmark" title="Monarchy of Denmark">Denmark</a> is elected by the <a href="/wiki/Hellenic_Parliament" title="Hellenic Parliament">Hellenic Parliament</a> as <a href="/wiki/George_I_of_Greece" title="George I of Greece">George, King of the Hellenes</a>; he will reign in Greece for fifty years. He arrives in <a href="/wiki/Athens" title="Athens">Athens</a> on <a href="/wiki/October_30" title="October 30">October 30</a> to take the throne.</li>
+</ul>
+<h3><span class="mw-headline" id="April.E2.80.93June">April–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=3" title="Edit section: April–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/April_14" title="April 14">April 14</a> – <a href="/wiki/Treaty_of_Hu%E1%BA%BF_(1863)" title="Treaty of Huế (1863)">Treaty of Huế</a> is signed between <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a> and the <a href="/wiki/French_colonial_empire" title="French colonial empire">French Empire</a>.</li>
+<li><a href="/wiki/April_17" title="April 17">April 17</a>–<a href="/wiki/May_2" title="May 2">May 2</a> – The <a href="/wiki/Grierson%27s_Raid" title="Grierson's Raid">Grierson's Raid</a>: <a href="/wiki/Union_(American_Civil_War)" title="Union (American Civil War)">Union</a> cavalrymen are ambushed while crossing the <a href="/wiki/Tickfaw" class="mw-redirect" title="Tickfaw">Tickfaw</a> river in <a href="/wiki/Mississippi" title="Mississippi">Mississippi</a>.</li>
+<li><a href="/wiki/April_20" title="April 20">April 20</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – The <a href="/wiki/Battle_of_Washington" title="Battle of Washington">Battle of Washington</a> ends inconclusively in <a href="/wiki/Beaufort_County,_North_Carolina" title="Beaufort County, North Carolina">Beaufort County, North Carolina</a>.</li>
+<li><a href="/wiki/April_21" title="April 21">April 21</a>
+<ul>
+<li><span lang="ar" xml:lang="ar"><i>Ayyam-i butun</i></span>: <a href="/wiki/Bah%C3%A1%27u%27ll%C3%A1h" title="Bahá'u'lláh">Bahá'u'lláh</a> begins a 12-day stay in the <a href="/wiki/Garden_of_Ridv%C3%A1n,_Baghdad" title="Garden of Ridván, Baghdad">Najibiyyih gardens, Baghdad</a> (now known as the Garden of Ridván) during which he declares his station as "<a href="/wiki/He_whom_God_shall_make_manifest" title="He whom God shall make manifest">He whom God shall make manifest</a>". This date is celebrated in the <a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá'í Faith">Bahá'í Faith</a> as the festival of <a href="/wiki/Ridv%C3%A1n" title="Ridván">Ridván</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li><a href="/wiki/January_Uprising" title="January Uprising">January Uprising</a>: The Polish peasant army, now led by Zygmunt Sierakowski, achieves its first victory over the Russian army, near <a href="/wiki/Raguva" title="Raguva">Raguva</a>.</li>
+</ul>
+</li>
+<li><a href="/wiki/April_30" title="April 30">April 30</a> – <a href="/wiki/Battle_of_Camar%C3%B3n" title="Battle of Camarón">Battle of Camarón</a> in Mexico: 65 soldiers of the <a href="/wiki/French_Foreign_Legion" title="French Foreign Legion">French Foreign Legion</a> fight 2,000 Mexicans.</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:192px;"><a href="/wiki/File:Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/190px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg" width="190" height="148" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/285px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/380px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg 2x" data-file-width="5649" data-file-height="4389" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/May_17" title="May 17">May 17</a>: <a href="/wiki/%C3%89douard_Manet" title="Édouard Manet">Manet</a>'s <i><a href="/wiki/Le_d%C3%A9jeuner_sur_l%27herbe" class="mw-redirect" title="Le déjeuner sur l'herbe">Le déjeuner sur l'herbe</a></i> exhibited.</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/May_1" title="May 1">May 1</a>–<a href="/wiki/May_4" title="May 4">4</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – The <a href="/wiki/Battle_of_Chancellorsville" title="Battle of Chancellorsville">Battle of Chancellorsville</a>: General <a href="/wiki/Robert_E._Lee" title="Robert E. Lee">Robert E. Lee</a> defeats Union forces with 13,000 Confederate casualties, among them <a href="/wiki/Stonewall_Jackson" title="Stonewall Jackson">Stonewall Jackson</a> (lost to friendly fire), and 17,500 Union casualties.</li>
+<li><a href="/wiki/May_8" title="May 8">May 8</a>
+<ul>
+<li><a href="/wiki/Granadine_Confederation" title="Granadine Confederation">Granadine Confederation</a> becomes the <a href="/wiki/United_States_of_Colombia" title="United States of Colombia">United States of Colombia</a> under <a href="/wiki/President_of_Colombia" title="President of Colombia">President</a> <a href="/wiki/Tom%C3%A1s_Cipriano_de_Mosquera" title="Tomás Cipriano de Mosquera">Tomás Cipriano de Mosquera</a>.</li>
+<li><a href="/wiki/January_Uprising" title="January Uprising">January Uprising</a>: The Polish insurgent army is defeated by the Russians near Gudiškis.</li>
+</ul>
+</li>
+<li><a href="/wiki/May_14" title="May 14">May 14</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – <a href="/wiki/Battle_of_Jackson,_Mississippi" title="Battle of Jackson, Mississippi">Battle of Jackson, Mississippi</a>: Union General <a href="/wiki/Ulysses_S._Grant" title="Ulysses S. Grant">Ulysses S. Grant</a> defeats Confederate General <a href="/wiki/Joseph_E._Johnston" title="Joseph E. Johnston">Joseph E. Johnston</a>, opening the way for the <a href="/wiki/Siege_of_Vicksburg" title="Siege of Vicksburg">Siege of Vicksburg</a>.</li>
+<li><a href="/wiki/May_17" title="May 17">May 17</a>
+<ul>
+<li>After a 2-month siege, the French army of <a href="/wiki/Achille_Bazaine" class="mw-redirect" title="Achille Bazaine">Bazaine</a> takes <a href="/wiki/Puebla,_Puebla" class="mw-redirect" title="Puebla, Puebla">Puebla</a>, Mexico.</li>
+<li>Opening of <a href="/wiki/Salon_des_Refus%C3%A9s" title="Salon des Refusés">Salon des Refusés</a> in Paris draws attention to paintings by <a href="/wiki/Avant-garde" title="Avant-garde">avant-garde</a> artists, notably <a href="/wiki/%C3%89douard_Manet" title="Édouard Manet">Manet</a>'s <i><a href="/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe" title="Le Déjeuner sur l’herbe">Le Déjeuner sur l’herbe</a></i>.</li>
+</ul>
+</li>
+<li><a href="/wiki/May_18" title="May 18">May 18</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: The <a href="/wiki/Battle_of_Vicksburg" class="mw-redirect" title="Battle of Vicksburg">Siege of Vicksburg</a> begins (ends <a href="/wiki/July_4" title="July 4">July 4</a>, when 30,189 Confederate men surrender).</li>
+<li><a href="/wiki/May_21" title="May 21">May 21</a>
+<ul>
+<li><a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: The <a href="/wiki/Siege_of_Port_Hudson" title="Siege of Port Hudson">Siege of Port Hudson</a>, Louisiana by Union forces begins.</li>
+<li>The <a href="/wiki/General_Conference_of_Seventh-day_Adventists" title="General Conference of Seventh-day Adventists">General Conference of Seventh-day Adventists</a> is formed in <a href="/wiki/Battle_Creek,_Michigan" title="Battle Creek, Michigan">Battle Creek, Michigan</a>.</li>
+</ul>
+</li>
+<li><a href="/wiki/May_23" title="May 23">May 23</a> – <a href="/wiki/Ferdinand_Lassalle" title="Ferdinand Lassalle">Ferdinand Lassalle</a> founds the <span lang="de" xml:lang="de"><i>Allgemeiner Deutscher Arbeiterverein</i></span> (<a href="/wiki/General_German_Workers%27_Association" title="General German Workers' Association">General German Workers' Association</a>, ADAV), the first socialist workers party in Germany.</li>
+<li><a href="/wiki/May_28" title="May 28">May 28</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – The <a href="/wiki/54th_Massachusetts" class="mw-redirect" title="54th Massachusetts">54th Massachusetts</a>, the first <a href="/wiki/African-American" class="mw-redirect" title="African-American">African-American</a> regiment, leaves <a href="/wiki/Boston" title="Boston">Boston</a> to fight for the Union.</li>
+<li><a href="/wiki/May_31" title="May 31">May 31</a> – The first <a href="/wiki/Prix_de_l%27Arc_de_Triomphe" title="Prix de l'Arc de Triomphe">Prix de l'Arc de Triomphe</a> horse race is held.</li>
+<li><a href="/wiki/June_7" title="June 7">June 7</a> – <a href="/wiki/French_intervention_in_Mexico" title="French intervention in Mexico">French intervention in Mexico</a> – French forces enter Mexico City.</li>
+<li><a href="/wiki/June_9" title="June 9">June 9</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – The <a href="/wiki/Battle_of_Brandy_Station" title="Battle of Brandy Station">Battle of Brandy Station</a>, <a href="/wiki/Virginia" title="Virginia">Virginia</a> ends inconclusively.</li>
+<li><a href="/wiki/June_12" title="June 12">June 12</a> – <a href="/wiki/The_Arts_Club" title="The Arts Club">The Arts Club</a> is founded by <a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a>, <a href="/wiki/Frederic_Leighton" title="Frederic Leighton">Frederic Leighton</a> and others in Hanover Square, London.</li>
+<li><a href="/wiki/June_13" title="June 13">June 13</a> – <a href="/wiki/Samuel_Butler_(novelist)" title="Samuel Butler (novelist)">Samuel Butler</a>'s <a href="/wiki/Dystopia" title="Dystopia">dystopian</a> article "<a href="/wiki/Darwin_among_the_Machines" title="Darwin among the Machines">Darwin among the Machines</a>" is published (as by "Cellarius") in <i><a href="/wiki/The_Press" title="The Press">The Press</a></i> newspaper in <a href="/wiki/Christchurch" title="Christchurch">Christchurch</a>, New Zealand; it will be incorporated into his novel <i><a href="/wiki/Erewhon" title="Erewhon">Erewhon</a></i> (1872).</li>
+<li><a href="/wiki/June_14" title="June 14">June 14</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – <a href="/wiki/Second_Battle_of_Winchester" title="Second Battle of Winchester">Second Battle of Winchester</a>: A <a href="/wiki/United_States" title="United States">Union</a> garrison is defeated by the <a href="/wiki/Army_of_Northern_Virginia" title="Army of Northern Virginia">Army of Northern Virginia</a> in the <a href="/wiki/Shenandoah_Valley" title="Shenandoah Valley">Shenandoah Valley</a> town of <a href="/wiki/Winchester,_Virginia" title="Winchester, Virginia">Winchester, Virginia</a>.</li>
+<li><a href="/wiki/June_17" title="June 17">June 17</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – The <a href="/wiki/Battle_of_Aldie" title="Battle of Aldie">Battle of Aldie</a> in the <a href="/wiki/Gettysburg_Campaign" title="Gettysburg Campaign">Gettysburg Campaign</a> ends inconclusively.</li>
+<li><a href="/wiki/June_20" title="June 20">June 20</a> – <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a> is admitted as the 35th <a href="/wiki/U.S._state" title="U.S. state">U.S. state</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93September">July–September</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=4" title="Edit section: July–September">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:192px;"><a href="/wiki/File:Battle_of_Gettysburg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Battle_of_Gettysburg.jpg/190px-Battle_of_Gettysburg.jpg" width="190" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Battle_of_Gettysburg.jpg/285px-Battle_of_Gettysburg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Battle_of_Gettysburg.jpg/380px-Battle_of_Gettysburg.jpg 2x" data-file-width="2789" data-file-height="2095" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Battle_of_Gettysburg.jpg" class="internal" title="Enlarge"></a></div>
+July: <a href="/wiki/Battle_of_Gettysburg" title="Battle of Gettysburg">Battle of Gettysburg</a>.</div>
+</div>
+</div>
+<ul>
+<li>July – The tiny <a href="/wiki/Confederate_States_of_America" title="Confederate States of America">Confederate States of America</a> hand-propelled <a href="/wiki/Submarine" title="Submarine">submarine</a> <i><a href="/wiki/H._L._Hunley_(submarine)" title="H. L. Hunley (submarine)">H. L. Hunley</a></i> is first tested successfully.<sup id="cite_ref-Hunley_8-0" class="reference"><a href="#cite_note-Hunley-8">[8]</a></sup></li>
+<li><a href="/wiki/July_1" title="July 1">July 1</a> – Slavery is abolished in the <a href="/wiki/Dutch_Empire" title="Dutch Empire">Dutch colonies</a> of <a href="/wiki/Suriname" title="Suriname">Suriname</a> (independent from 1975) and <a href="/wiki/Cura%C3%A7ao_and_Dependencies" title="Curaçao and Dependencies">Curaçao and Dependencies</a>.</li>
+<li><a href="/wiki/July_1" title="July 1">July 1</a>–<a href="/wiki/July_3" title="July 3">3</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: <a href="/wiki/Battle_of_Gettysburg" title="Battle of Gettysburg">Battle of Gettysburg</a> – Union forces under <a href="/wiki/George_G._Meade" class="mw-redirect" title="George G. Meade">George G. Meade</a> turn back a Confederate invasion by <a href="/wiki/Robert_E._Lee" title="Robert E. Lee">Robert E. Lee</a> in the largest battle of the war (28,000 Confederate casualties, 23,000 Union).</li>
+<li><a href="/wiki/July_4" title="July 4">July 4</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: <a href="/wiki/Siege_of_Vicksburg" title="Siege of Vicksburg">Siege of Vicksburg</a> – <a href="/wiki/Ulysses_S._Grant" title="Ulysses S. Grant">Ulysses S. Grant</a> and the Union army capture the Confederate city <a href="/wiki/Vicksburg,_Mississippi" title="Vicksburg, Mississippi">Vicksburg, Mississippi</a>, after the town surrenders. The siege lasts 47 days.</li>
+<li><a href="/wiki/July_6" title="July 6">July 6</a> – <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a> issues <a href="/wiki/Letters_Patent" class="mw-redirect" title="Letters Patent">Letters Patent</a> annexing to <a href="/wiki/South_Australia" title="South Australia">South Australia</a> the part of the colony of <a href="/wiki/New_South_Wales" title="New South Wales">New South Wales</a> that will later become the <a href="/wiki/Northern_Territory" title="Northern Territory">Northern Territory</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li><a href="/wiki/July_9" title="July 9">July 9</a> – The <a href="/wiki/Siege_of_Port_Hudson" title="Siege of Port Hudson">Siege of Port Hudson</a> ends and the Union controls the entire Mississippi River for the first time.</li>
+<li><a href="/wiki/July_13" title="July 13">July 13</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – <a href="/wiki/New_York_City_draft_riots" title="New York City draft riots">New York City draft riots</a>: In New York City, opponents of <a href="/wiki/Conscription" title="Conscription">conscription</a> begin 3 days of violent rioting, which will be regarded as the worst in the history of the United States with around 120 killed.</li>
+<li><a href="/wiki/July_16" title="July 16">July 16</a> – <a href="/wiki/Battle_of_Shimonoseki_Straits" title="Battle of Shimonoseki Straits">Battle of Shimonoseki Straits</a>: The <a href="/wiki/Screw_sloop" title="Screw sloop">screw sloop</a> <a href="/wiki/USS_Wyoming_(1859)" title="USS Wyoming (1859)">USS&#160;<i>Wyoming</i></a> engages with the <a href="/wiki/Ch%C5%8Dsh%C5%AB_Domain" title="Chōshū Domain">Chōshū Domain</a> fleet before withdrawing, Japan's first naval engagement between elements of modern navies.</li>
+<li><a href="/wiki/July_17" title="July 17">July 17</a> – <a href="/wiki/New_Zealand_Wars" title="New Zealand Wars">New Zealand Wars</a> against the <a href="/wiki/M%C4%81ori_people" title="Māori people">Māori people</a> resume as British forces in New Zealand led by <a href="/wiki/Duncan_Cameron_(British_Army_officer)" title="Duncan Cameron (British Army officer)">Duncan Cameron</a> begin their <a href="/wiki/Invasion_of_the_Waikato" title="Invasion of the Waikato">Invasion of the Waikato</a>.</li>
+<li><a href="/wiki/July_17" title="July 17">July 17</a> – <a href="/wiki/Battle_of_Honey_Springs" title="Battle of Honey Springs">Battle of Honey Springs</a> was a Union strategic victory over the Confederates for control of <a href="/wiki/Indian_Territory" title="Indian Territory">Indian Territory</a> north of the <a href="/wiki/Arkansas_River" title="Arkansas River">Arkansas River</a>.</li>
+<li><a href="/wiki/July_18" title="July 18">July 18</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: The first formal African American military unit, the <a href="/wiki/54th_Massachusetts_Volunteer_Infantry" class="mw-redirect" title="54th Massachusetts Volunteer Infantry">54th Massachusetts Volunteer Infantry</a>, unsuccessfully assaults Confederate-held <a href="/wiki/Fort_Wagner" title="Fort Wagner">Fort Wagner</a> but their valiant fighting still proves the worth of African American soldiers during the war. Their commander, Colonel <a href="/wiki/Robert_Gould_Shaw" title="Robert Gould Shaw">Robert Shaw</a> is shot leading the attack and was buried with his men (450 Union, 175 Confederate).</li>
+<li><a href="/wiki/July_26" title="July 26">July 26</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – <a href="/wiki/Morgan%27s_Raid" title="Morgan's Raid">Morgan's Raid</a>: At <a href="/wiki/Salineville,_Ohio" title="Salineville, Ohio">Salineville, Ohio</a>, Confederate cavalry leader <a href="/wiki/John_Hunt_Morgan" title="John Hunt Morgan">John Hunt Morgan</a> and 375 of his volunteers are captured by Union forces.</li>
+<li><a href="/wiki/July_30" title="July 30">July 30</a> – <a href="/wiki/American_Indian_Wars" title="American Indian Wars">American Indian Wars</a>: Representatives of the United States and tribal leaders including <a href="/wiki/Chief_Pocatello" class="mw-redirect" title="Chief Pocatello">Chief Pocatello</a> (of the <a href="/wiki/Shoshone" title="Shoshone">Shoshone</a>) sign the <a href="/wiki/Box_Elder_Treaty" title="Box Elder Treaty">Treaty of Box Elder</a>.</li>
+<li><a href="/wiki/August_3" title="August 3">August 3</a> – <a href="/wiki/Otago_Boys%27_High_School" title="Otago Boys' High School">Otago Boys' High School</a> founded in New Zealand.</li>
+<li><a href="/wiki/August_8" title="August 8">August 8</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: Following his defeat in the <a href="/wiki/Battle_of_Gettysburg" title="Battle of Gettysburg">Battle of Gettysburg</a>, General Robert E. Lee sends a letter of resignation to Confederate President <a href="/wiki/Jefferson_Davis" title="Jefferson Davis">Jefferson Davis</a> (Davis refuses the request upon receipt).</li>
+<li><a href="/wiki/August_15" title="August 15">August 15</a>–<a href="/wiki/August_17" title="August 17">17</a> – <a href="/wiki/Bombardment_of_Kagoshima" title="Bombardment of Kagoshima">Bombardment of Kagoshima</a>: The British <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> bombards the town of <a href="/wiki/Kagoshima" title="Kagoshima">Kagoshima</a> in Japan in retribution after the <a href="/wiki/Namamugi_Incident" title="Namamugi Incident">Namamugi Incident</a> of 1862.</li>
+<li><a href="/wiki/August_16" title="August 16">August 16</a> – After Spain's annexation of the <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>, rebels raise the <a href="/wiki/Flag_of_the_Dominican_Republic" title="Flag of the Dominican Republic">Dominican flag</a> in <a href="/wiki/Santiago_de_los_Caballeros" title="Santiago de los Caballeros">Santiago</a> to begin the <a href="/wiki/Dominican_Restoration_War" title="Dominican Restoration War">Dominican Restoration War</a>.</li>
+<li><a href="/wiki/August_17" title="August 17">August 17</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: In <a href="/wiki/Charleston,_South_Carolina" title="Charleston, South Carolina">Charleston, South Carolina</a>, Union batteries and ships bombard Confederate-held <a href="/wiki/Fort_Sumter" title="Fort Sumter">Fort Sumter</a> (the bombardment does not end until <a href="/wiki/December_31" title="December 31">December 31</a>).</li>
+<li><a href="/wiki/August_21" title="August 21">August 21</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>
+<ul>
+<li><a href="/wiki/Battle_of_Lawrence" class="mw-redirect" title="Battle of Lawrence">Battle of Lawrence</a>: <a href="/wiki/Lawrence,_Kansas" title="Lawrence, Kansas">Lawrence, Kansas</a> is attacked by <a href="/wiki/William_Quantrill" title="William Quantrill">William Quantrill</a>'s raiders, who kill an estimated 200 men and boys. The raid becomes notorious in the North as one of the most vicious atrocities of the Civil War.</li>
+<li>American clipper <i>Anglo Saxon</i> westbound is captured and burned by <a href="/wiki/Confederate_States_of_America" title="Confederate States of America">Confederate</a> <a href="/wiki/Privateer" title="Privateer">privateer</a> <i>Florida</i> off the south coast of Ireland.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+</ul>
+</li>
+<li>September – The <a href="/wiki/Western_Railroad_(North_Carolina)" title="Western Railroad (North Carolina)">Western Railroad</a> from <a href="/wiki/Fayetteville,_North_Carolina" title="Fayetteville, North Carolina">Fayetteville</a>, North Carolina to the coal fields of <a href="/wiki/Cumnock,_North_Carolina" title="Cumnock, North Carolina">Egypt</a>, North Carolina is completed.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li><a href="/wiki/September_6" title="September 6">September 6</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: <a href="/wiki/Confederate_States_of_America" title="Confederate States of America">Confederates</a> evacuate <a href="/wiki/Battery_Wagner" class="mw-redirect" title="Battery Wagner">Battery Wagner</a> and <a href="/wiki/Morris_Island" title="Morris Island">Morris Island</a> in <a href="/wiki/South_Carolina" title="South Carolina">South Carolina</a>.</li>
+<li><a href="/wiki/September_16" title="September 16">September 16</a> – <a href="/wiki/Robert_College" title="Robert College">Robert College</a> of <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>–<a href="/wiki/Turkey" title="Turkey">Turkey</a>, the first American educational institution outside the United States, is founded by <a href="/wiki/Christopher_Robert" title="Christopher Robert">Christopher Robert</a>, an American philanthropist.</li>
+<li><a href="/wiki/September_19" title="September 19">September 19</a>–<a href="/wiki/September_20" title="September 20">20</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: Confederate forces turn back a Union invasion of <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a> in the <a href="/wiki/Battle_of_Chickamauga" title="Battle of Chickamauga">Battle of Chickamauga</a>.</li>
+<li><a href="/wiki/September_30" title="September 30">September 30</a> – <a href="/wiki/Georges_Bizet" title="Georges Bizet">Georges Bizet</a>'s opera <i><a href="/wiki/Les_p%C3%AAcheurs_de_perles" title="Les pêcheurs de perles">Les pêcheurs de perles</a></i> debuts at the <a href="/wiki/Th%C3%A9%C3%A2tre_Lyrique" title="Théâtre Lyrique">Théâtre Lyrique</a> in Paris.</li>
+</ul>
+<h3><span class="mw-headline" id="October.E2.80.93December">October–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=5" title="Edit section: October–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Flag_of_the_Red_Cross.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_the_Red_Cross.svg/200px-Flag_of_the_Red_Cross.svg.png" width="200" height="133" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_the_Red_Cross.svg/300px-Flag_of_the_Red_Cross.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_the_Red_Cross.svg/400px-Flag_of_the_Red_Cross.svg.png 2x" data-file-width="900" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Flag_of_the_Red_Cross.svg" class="internal" title="Enlarge"></a></div>
+October: <a href="/wiki/Red_Cross" class="mw-redirect" title="Red Cross">Red Cross</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/October_3" title="October 3">October 3</a> – US President Lincoln proclaims a national <a href="/wiki/Thanksgiving_(United_States)" title="Thanksgiving (United States)">Thanksgiving</a> day to be celebrated the final Thursday in November in the United States.</li>
+<li><a href="/wiki/October_5" title="October 5">October 5</a> – The <a href="/wiki/Brooklyn,_Bath_and_Coney_Island_Rail_Road" class="mw-redirect" title="Brooklyn, Bath and Coney Island Rail Road">Brooklyn, Bath and Coney Island Rail Road</a> starts operations in <a href="/wiki/Brooklyn,_New_York" class="mw-redirect" title="Brooklyn, New York">Brooklyn, New York</a>; this is now the oldest <a href="/wiki/Right-of-way_(railroad)" class="mw-redirect" title="Right-of-way (railroad)">right-of-way</a> on the <a href="/wiki/New_York_City_Subway" title="New York City Subway">New York City Subway</a>, the largest <a href="/wiki/Rapid_transit" title="Rapid transit">rapid transit</a> system in the United States and one of the largest in the world.</li>
+<li><a href="/wiki/October_14" title="October 14">October 14</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: <a href="/wiki/Battle_of_Bristoe_Station" title="Battle of Bristoe Station">Battle of Bristoe Station</a> – Confederate General Robert E. Lee forces fail to drive the Union army out of <a href="/wiki/Virginia" title="Virginia">Virginia</a>.</li>
+<li><a href="/wiki/October_15" title="October 15">October 15</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: The Confederate submarine <i><a href="/wiki/H._L._Hunley_(submarine)" title="H. L. Hunley (submarine)">H. L. Hunley</a></i> sinks during a test, killing <a href="/wiki/Horace_Lawson_Hunley" title="Horace Lawson Hunley">Horace Lawson Hunley</a> (its inventor) and a crew of seven.<sup id="cite_ref-Hunley_8-1" class="reference"><a href="#cite_note-Hunley-8">[8]</a></sup></li>
+<li><a href="/wiki/October_23" title="October 23">October 23</a> – <a href="/wiki/Ffestiniog_Railway" title="Ffestiniog Railway">Ffestiniog Railway</a> in <a href="/wiki/North_Wales" title="North Wales">North Wales</a> introduces <a href="/wiki/Steam_locomotive" title="Steam locomotive">steam locomotives</a> into general service, the first time this has been done anywhere in the world on a public railway of such a <a href="/wiki/Narrow_gauge_railway" class="mw-redirect" title="Narrow gauge railway">narrow gauge</a> (2&#160;ft (60&#160;cm)).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li><a href="/wiki/October_26" title="October 26">October 26</a> – <a href="/wiki/The_Football_Association" title="The Football Association">The Football Association</a> is formed in London.<sup id="cite_ref-The_People.27s_Chronology_4-1" class="reference"><a href="#cite_note-The_People.27s_Chronology-4">[4]</a></sup></li>
+<li><a href="/wiki/October_26" title="October 26">October 26</a>–<a href="/wiki/October_29" title="October 29">29</a> – The Resolutions of the Geneva International Conference are signed by sixteen countries meeting in <a href="/wiki/Geneva" title="Geneva">Geneva</a> agreeing to form the <a href="/wiki/International_Red_Cross" class="mw-redirect" title="International Red Cross">International Red Cross</a>.</li>
+<li><a href="/wiki/October_29" title="October 29">October 29</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – <a href="/wiki/Battle_of_Wauhatchie" title="Battle of Wauhatchie">Battle of Wauhatchie</a>: Forces under Union General Ulysses S. Grant, having fought through the night, ward off a Confederate attack led by General <a href="/wiki/James_Longstreet" title="James Longstreet">James Longstreet</a>. Union forces thus open a <a href="/wiki/Supply_line" class="mw-redirect" title="Supply line">supply line</a> into <a href="/wiki/Chattanooga,_Tennessee" title="Chattanooga, Tennessee">Chattanooga, Tennessee</a>.</li>
+<li><a href="/wiki/November_4" title="November 4">November 4</a> – <a href="/wiki/Hector_Berlioz" title="Hector Berlioz">Hector Berlioz</a>'s opera <i><a href="/wiki/Les_Troyens" title="Les Troyens">Les Troyens</a></i> debuts at the <a href="/wiki/Th%C3%A9%C3%A2tre_Lyrique" title="Théâtre Lyrique">Théâtre Lyrique</a> in Paris.</li>
+<li><a href="/wiki/November_15" title="November 15">November 15</a> – The death of King <a href="/wiki/Frederick_VII_of_Denmark" title="Frederick VII of Denmark">Frederick VII of Denmark</a> and his succession by his distant cousin <a href="/wiki/Christian_IX_of_Denmark" title="Christian IX of Denmark">Christian IX</a> marks the beginning of the Second <a href="/wiki/Schleswig-Holstein" title="Schleswig-Holstein">Schleswig-Holstein</a> crisis.</li>
+<li><a href="/wiki/November_16" title="November 16">November 16</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – <a href="/wiki/Battle_of_Campbell%27s_Station" title="Battle of Campbell's Station">Battle of Campbell's Station</a>: Near <a href="/wiki/Knoxville,_Tennessee" title="Knoxville, Tennessee">Knoxville, Tennessee</a>, Confederate troops led by General James Longstreet unsuccessfully attack Union forces under General <a href="/wiki/Ambrose_Burnside" title="Ambrose Burnside">Ambrose Burnside</a>.</li>
+<li><a href="/wiki/November_17" title="November 17">November 17</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – The <a href="/wiki/Siege_of_Knoxville" class="mw-redirect" title="Siege of Knoxville">Siege of Knoxville</a> begins: Confederate forces led by General James Longstreet place Knoxville, Tennessee under siege (the 2-week-long siege and an attack are unsuccessful).</li>
+<li><a href="/wiki/November_18" title="November 18">November 18</a> – King <a href="/wiki/Christian_IX_of_Denmark" title="Christian IX of Denmark">Christian IX</a> of Denmark signs <a href="/wiki/History_of_Schleswig-Holstein#The_November_Constitution" title="History of Schleswig-Holstein">the November constitution</a>, which declares <a href="/wiki/Schleswig" class="mw-redirect" title="Schleswig">Schleswig</a> to be part of Denmark, regarded by the <a href="/wiki/German_Confederation" title="German Confederation">German Confederation</a> as a violation of the <a href="/wiki/London_Protocol_(1852)" title="London Protocol (1852)">London Protocol of 1852</a>, leading to the <a href="/wiki/Second_Schleswig_War" title="Second Schleswig War">German–Danish war of 1864</a>.</li>
+<li><a href="/wiki/November_19" title="November 19">November 19</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: U. S. President Abraham Lincoln delivers the <a href="/wiki/Gettysburg_Address" title="Gettysburg Address">Gettysburg Address</a> at the military cemetery dedication ceremony in <a href="/wiki/Gettysburg,_Pennsylvania" title="Gettysburg, Pennsylvania">Gettysburg, Pennsylvania</a>.</li>
+<li><a href="/wiki/November_23" title="November 23">November 23</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – The <a href="/wiki/Battle_of_Chattanooga_III" class="mw-redirect" title="Battle of Chattanooga III">Battle of Chattanooga III</a> begins: Union forces led by General Ulysses S. Grant reinforce troops at Chattanooga, Tennessee and counter-attack Confederate troops.</li>
+<li><a href="/wiki/November_24" title="November 24">November 24</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – <a href="/wiki/Battle_of_Lookout_Mountain" title="Battle of Lookout Mountain">Battle of Lookout Mountain</a>: Near Chattanooga, Tennessee, Union forces under General Ulysses S. Grant capture Lookout Mountain and begin to break the Confederate siege of the city led by General <a href="/wiki/Braxton_Bragg" title="Braxton Bragg">Braxton Bragg</a>.</li>
+<li><a href="/wiki/November_25" title="November 25">November 25</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – <a href="/wiki/Battle_of_Missionary_Ridge" title="Battle of Missionary Ridge">Battle of Missionary Ridge</a>: At <a href="/wiki/Missionary_Ridge" title="Missionary Ridge">Missionary Ridge</a> in <a href="/wiki/Tennessee" title="Tennessee">Tennessee</a>, Union forces led by General Ulysses S. Grant break the Siege of Chattanooga by routing Confederate troops under General Braxton Bragg.</li>
+<li><a href="/wiki/November_26" title="November 26">November 26</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> – Mine Run: Union forces under General <a href="/wiki/George_Meade" title="George Meade">George Meade</a> position against troops led by Confederate General Robert E. Lee (Meade's forces can not find any weaknesses in the Confederate lines and give up trying after 5 days).</li>
+<li><a href="/wiki/November_27" title="November 27">November 27</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: Confederate cavalry leader John Hunt Morgan and several of his men escape the Ohio state prison, and return safely to the South.</li>
+<li><a href="/wiki/December_1" title="December 1">December 1</a> – Opening of first steam-operated passenger railway in New Zealand, at <a href="/wiki/Christchurch" title="Christchurch">Christchurch</a> in <a href="/wiki/South_Island" title="South Island">South Island</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (October 2016)">page&#160;needed</span></a></i>]</sup></li>
+<li><a href="/wiki/December_8" title="December 8">December 8</a>
+<ul>
+<li><a href="/wiki/Church_of_the_Company_Fire" title="Church of the Company Fire">Church of the Company Fire</a> in <a href="/wiki/Santiago" title="Santiago">Santiago</a>, <a href="/wiki/Chile" title="Chile">Chile</a>, kills between 2,000 and 3,000.</li>
+<li>The Football Association laws are agreed.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+</ul>
+</li>
+<li><a href="/wiki/December_15" title="December 15">December 15</a>
+<ul>
+<li><a href="/wiki/Romania" title="Romania">Romania</a> opens its first <a href="/wiki/Mountain_railway" title="Mountain railway">mountain railway</a> (from <a href="/wiki/Anina" title="Anina">Anina</a> to <a href="/wiki/Oravi%C8%9Ba" title="Oravița">Oravița</a>).</li>
+<li>22-year-old <a href="/wiki/Gerard_Adriaan_Heineken" class="mw-redirect" title="Gerard Adriaan Heineken">Gerard Adriaan Heineken</a> buys the brewery 'De Hooiberg' ("The Haystack") in <a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>.</li>
+</ul>
+</li>
+<li><a href="/wiki/December_19" title="December 19">December 19</a>
+<ul>
+<li><a href="/wiki/Linoleum" title="Linoleum">Linoleum</a> patented in the United Kingdom.<sup id="cite_ref-The_People.27s_Chronology_4-2" class="reference"><a href="#cite_note-The_People.27s_Chronology-4">[4]</a></sup></li>
+<li><a href="/wiki/Association_football" title="Association football">Association football</a> is played for the first time in the modern era.</li>
+</ul>
+</li>
+<li><a href="/wiki/December_25" title="December 25">December 25</a> – <a href="/wiki/Henry_Wadsworth_Longfellow" title="Henry Wadsworth Longfellow">Henry Wadsworth Longfellow</a> writes the poem "Christmas Bells", or, as it is better known "<a href="/wiki/I_Heard_the_Bells_on_Christmas_Day" title="I Heard the Bells on Christmas Day">I Heard the Bells on Christmas Day</a>".</li>
+</ul>
+<h3><span class="mw-headline" id="Date_unknown">Date unknown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=6" title="Edit section: Date unknown">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Beginning of Second <a href="/wiki/Anglo-Ashanti_wars#Second_Anglo-Ashanti_War" title="Anglo-Ashanti wars">Anglo-Ashanti war</a>.</li>
+<li><a href="/wiki/Ch%C5%8Dsh%C5%AB_Five" title="Chōshū Five">Chōshū Five</a> leave Japan secretly to study at <a href="/wiki/University_College_London" title="University College London">University College London</a>, part of the ending of <a href="/wiki/Sakoku" title="Sakoku">sakoku</a>.</li>
+<li><a href="/wiki/Bartolom%C3%A9_Mitre" title="Bartolomé Mitre">Bartolomé Mitre</a> secretly backs the revolt of <a href="/wiki/Venancio_Flores" title="Venancio Flores">Venancio Flores</a> against the <a href="/wiki/Uruguay" title="Uruguay">Uruguayan</a> Blanco government</li>
+<li><a href="/wiki/Douglas,_Isle_of_Man" title="Douglas, Isle of Man">Douglas</a> becomes the capital of the <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a>, after its <a href="/wiki/Parliament" title="Parliament">parliament</a> (<a href="/wiki/Tynwald" title="Tynwald">Tynwald</a>) moves its chambers from <a href="/wiki/Castletown,_Isle_of_Man" title="Castletown, Isle of Man">Castletown</a>.</li>
+<li>First outbreak of <a href="/wiki/Phylloxera" title="Phylloxera">phylloxera</a> on the European mainland observed in the vineyards of the southern Rhône region of France.</li>
+<li><a href="/wiki/Richard_Owen" title="Richard Owen">Richard Owen</a> publishes the first description of a fossilised bird, <i><a href="/wiki/Archaeopteryx" title="Archaeopteryx">Archaeopteryx</a></i>.<sup id="cite_ref-The_People.27s_Chronology_4-3" class="reference"><a href="#cite_note-The_People.27s_Chronology-4">[4]</a></sup></li>
+<li><a href="/wiki/Winged_Victory_of_Samothrace" title="Winged Victory of Samothrace">Winged Victory of Samothrace</a> found at <a href="/wiki/Samothrace" title="Samothrace">Samothrace</a> by <a href="/wiki/Charles_Champoiseau" class="mw-redirect" title="Charles Champoiseau">Charles Champoiseau</a>. Made c.190 BC(?), it is now in the <a href="/wiki/Mus%C3%A9e_du_Louvre" class="mw-redirect" title="Musée du Louvre">Musée du Louvre</a>, Paris.</li>
+</ul>
+<h2><span class="mw-headline" id="Births">Births</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=7" title="Edit section: Births">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January.E2.80.93June">January–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=8" title="Edit section: January–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/January_1" title="January 1">January 1</a> – <a href="/wiki/Pierre_de_Coubertin" title="Pierre de Coubertin">Pierre de Coubertin</a>, French founder of the modern Olympic Games (d. <a href="/wiki/1937" title="1937">1937</a>)</li>
+<li><a href="/wiki/January_12" title="January 12">January 12</a> – <a href="/wiki/Swami_Vivekananda" title="Swami Vivekananda">Swami Vivekananda</a>, Indian religious leader (d. <a href="/wiki/1902" title="1902">1902</a>)</li>
+<li><a href="/wiki/January_14" title="January 14">January 14</a> – <a href="/wiki/Gomes_da_Costa" class="mw-redirect" title="Gomes da Costa">Gomes da Costa</a>, Portuguese general, who served as the 10th President of Portugal (d. <a href="/wiki/1929" title="1929">1929</a>)</li>
+<li><a href="/wiki/January_15" title="January 15">January 15</a> – <a href="/wiki/Wilhelm_Marx" title="Wilhelm Marx">Wilhelm Marx</a>, <a href="/wiki/Chancellor_of_Germany_(German_Reich)" class="mw-redirect" title="Chancellor of Germany (German Reich)">Chancellor of Germany</a> (d. <a href="/wiki/1946" title="1946">1946</a>)</li>
+<li><a href="/wiki/January_17" title="January 17">January 17</a>
+<ul>
+<li><a href="/wiki/David_Lloyd_George" title="David Lloyd George">David Lloyd George</a>, <a href="/wiki/Prime_Minister_of_the_United_Kingdom" title="Prime Minister of the United Kingdom">Prime Minister of the United Kingdom</a> (d. <a href="/wiki/1945" title="1945">1945</a>)</li>
+<li><a href="/wiki/Constantin_Stanislavski" class="mw-redirect" title="Constantin Stanislavski">Constantin Stanislavski</a>, Russian <a href="/wiki/Theatre_practitioner" title="Theatre practitioner">theatre practitioner</a> and founder of modern realistic acting (d. <a href="/wiki/1938" title="1938">1938</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/January_28" title="January 28">January 28</a> – <a href="/wiki/Ernest_William_Christmas" title="Ernest William Christmas">Ernest William Christmas</a>, Australian <a href="/wiki/Painting" title="Painting">painter</a> (d. <a href="/wiki/1918" title="1918">1918</a>)</li>
+<li><a href="/wiki/February_11" title="February 11">February 11</a> – <a href="/wiki/John_F._Fitzgerald" title="John F. Fitzgerald">John F. Fitzgerald</a>, Mayor of Boston (d. <a href="/wiki/1950" title="1950">1950</a>)</li>
+<li><a href="/wiki/April_29" title="April 29">April 29</a> – <a href="/wiki/Signe_H%C3%A4ggman" title="Signe Häggman">Signe Häggman</a>, Finnish physical education pioneer (d. <a href="/wiki/1911" title="1911">1911</a>)</li>
+<li><a href="/wiki/March_1" title="March 1">March 1</a> – <a href="/wiki/Sydney_Deane" title="Sydney Deane">Sydney Deane</a>, Australian cricketer and actor (d. <a href="/wiki/1934" title="1934">1934</a>)</li>
+<li><a href="/wiki/March_11" title="March 11">March 11</a> – <a href="/wiki/Andrew_Stoddart" title="Andrew Stoddart">Andrew Stoddart</a>, English cricketer (d. <a href="/wiki/1915" title="1915">1915</a>)</li>
+<li><a href="/wiki/March_12" title="March 12">March 12</a> – <a href="/wiki/Gabriele_D%27Annunzio" title="Gabriele D'Annunzio">Gabriele D'Annunzio</a>, Italian writer, war hero, and politician (d. <a href="/wiki/1938" title="1938">1938</a>)</li>
+<li><a href="/wiki/March_25" title="March 25">March 25</a> – <a href="/wiki/Simon_Flexner" title="Simon Flexner">Simon Flexner</a>, American pathologist (d. <a href="/wiki/1946" title="1946">1946</a>)</li>
+<li><a href="/wiki/May_21" title="May 21">May 21</a> – <a href="/wiki/Archduke_Eugen_of_Austria" title="Archduke Eugen of Austria">Archduke Eugen of Austria</a>, Austrian field marshal (d. <a href="/wiki/1954" title="1954">1954</a>)</li>
+<li><a href="/wiki/March_27" title="March 27">March 27</a> – <a href="/wiki/Henry_Royce" title="Henry Royce">Henry Royce</a>, English automobile pioneer (d. <a href="/wiki/1933" title="1933">1933</a>)</li>
+<li><a href="/wiki/April_15" title="April 15">April 15</a> – <a href="/wiki/Ioannis_Svoronos" title="Ioannis Svoronos">Ioannis Svoronos</a>, Greek numismatist (d. <a href="/wiki/1922" title="1922">1922</a>)</li>
+<li><a href="/wiki/April_18" title="April 18">April 18</a> – <a href="/wiki/Count_Leopold_Berchtold" title="Count Leopold Berchtold">Count Leopold Berchtold</a>, Austro-Hungarian foreign minister (d. <a href="/wiki/1942" title="1942">1942</a>)</li>
+<li><a href="/wiki/April_28" title="April 28">April 28</a> – <a href="/wiki/Josiah_Thomas" title="Josiah Thomas">Josiah Thomas</a>, Australian politician (d. <a href="/wiki/1933" title="1933">1933</a>)</li>
+<li><a href="/wiki/April_29" title="April 29">April 29</a> – <a href="/wiki/William_Randolph_Hearst" title="William Randolph Hearst">William Randolph Hearst</a>, American newspaper publisher (d. <a href="/wiki/1951" title="1951">1951</a>)</li>
+<li><a href="/wiki/May_24" title="May 24">May 24</a> – <a href="/wiki/George_Grey_Barnard" title="George Grey Barnard">George Grey Barnard</a>, American sculptor (d. <a href="/wiki/1938" title="1938">1938</a>)</li>
+<li><a href="/wiki/May_29" title="May 29">May 29</a> – <a href="/wiki/Arthur_Mold" title="Arthur Mold">Arthur Mold</a>, English cricketer (d. <a href="/wiki/1921" title="1921">1921</a>)</li>
+<li><a href="/wiki/June_2" title="June 2">June 2</a> – <a href="/wiki/Felix_Weingartner" title="Felix Weingartner">Felix Weingartner</a>, Yugoslavian conductor (d. <a href="/wiki/1942" title="1942">1942</a>)</li>
+<li><a href="/wiki/June_13" title="June 13">June 13</a> – <a href="/wiki/Lucy,_Lady_Duff-Gordon" title="Lucy, Lady Duff-Gordon">Lucy, Lady Duff-Gordon</a>, English fashion designer (d. <a href="/wiki/1942" title="1942">1942</a>)</li>
+<li><a href="/wiki/June_17" title="June 17">June 17</a> – <a href="/wiki/Charles_Michael,_Duke_of_Mecklenburg" title="Charles Michael, Duke of Mecklenburg">Charles Michael, Duke of Mecklenburg</a>, head of the <a href="/wiki/House_of_Mecklenburg-Strelitz" class="mw-redirect" title="House of Mecklenburg-Strelitz">House of Mecklenburg-Strelitz</a> (d. <a href="/wiki/1934" title="1934">1934</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93December">July–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=9" title="Edit section: July–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Winckler,_Hugo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Winckler%2C_Hugo.jpg/110px-Winckler%2C_Hugo.jpg" width="110" height="160" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/4/44/Winckler%2C_Hugo.jpg 1.5x" data-file-width="144" data-file-height="209" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Winckler,_Hugo.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Hugo_Winckler" title="Hugo Winckler">Hugo Winckler</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Henry_ford_1919.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Henry_ford_1919.jpg/110px-Henry_ford_1919.jpg" width="110" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Henry_ford_1919.jpg/165px-Henry_ford_1919.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Henry_ford_1919.jpg/220px-Henry_ford_1919.jpg 2x" data-file-width="1744" data-file-height="2226" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Henry_ford_1919.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Henry_Ford" title="Henry Ford">Henry Ford</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/July_1" title="July 1">July 1</a> – <a href="/wiki/William_Grant_Stairs" title="William Grant Stairs">William Grant Stairs</a>, Canadian explorer (d. 1892)</li>
+<li><a href="/wiki/July_4" title="July 4">July 4</a> – <a href="/wiki/Hugo_Winckler" title="Hugo Winckler">Hugo Winckler</a>, German archaeologist and historian who uncovered the capital of the Hittite Empire (Hattusa) (d. 1913)</li>
+<li><a href="/wiki/July_6" title="July 6">July 6</a> – <a href="/wiki/Reginald_McKenna" title="Reginald McKenna">Reginald McKenna</a>, British <a href="/wiki/Chancellor_of_the_Exchequer" title="Chancellor of the Exchequer">Chancellor of the Exchequer</a> 1915–1916 (d. 1943)</li>
+<li><a href="/wiki/July_21" title="July 21">July 21</a> – <a href="/wiki/C._Aubrey_Smith" title="C. Aubrey Smith">C. Aubrey Smith</a>, English actor (d. 1948)</li>
+<li><a href="/wiki/July_25" title="July 25">July 25</a> – <a href="/wiki/Alison_Skipworth" title="Alison Skipworth">Alison Skipworth</a>, English actress (d. 1952)</li>
+<li><a href="/wiki/July_30" title="July 30">July 30</a> – <a href="/wiki/Henry_Ford" title="Henry Ford">Henry Ford</a>, American automobile manufacturer and industrialist (d. 1947)</li>
+<li><a href="/wiki/August_3" title="August 3">August 3</a> – <a href="/wiki/G%C3%A9za_G%C3%A1rdonyi" title="Géza Gárdonyi">Géza Gárdonyi</a>, Hungarian author (d. 1922)</li>
+<li><a href="/wiki/August_11" title="August 11">August 11</a> – <a href="/wiki/Gaston_Doumergue" title="Gaston Doumergue">Gaston Doumergue</a>, President of France during the Third Republic (d. 1937)</li>
+<li><a href="/wiki/August_17" title="August 17">August 17</a> – <a href="/wiki/Gene_Stratton-Porter" title="Gene Stratton-Porter">Gene Stratton-Porter</a>, American author, screenwriter and naturalist (d. 1924)</li>
+<li><a href="/wiki/September_1" title="September 1">September 1</a> – <a href="/wiki/Jo%C3%A3o_Pinheiro_Chagas" title="João Pinheiro Chagas">João Pinheiro Chagas</a>, Prime Minister of Portugal (d. 1925)</li>
+<li><a href="/wiki/September_9" title="September 9">September 9</a> – <a href="/wiki/Herbert_Henry_Ball" title="Herbert Henry Ball">Herbert Henry Ball</a>, Ontario Politician and King's Printer (d. 1943)</li>
+<li><a href="/wiki/September_13" title="September 13">September 13</a>
+<ul>
+<li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Arthur Henderson</a>, Scottish politician, recipient of the <a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Peace Prize</a> (d. 1935)</li>
+<li><a href="/wiki/Franz_von_Hipper" title="Franz von Hipper">Franz von Hipper</a>, German admiral (d. 1932)</li>
+</ul>
+</li>
+<li><a href="/wiki/September_21" title="September 21">September 21</a> – <a href="/wiki/John_Bunny" title="John Bunny">John Bunny</a>, American film comedian (d. 1915)</li>
+<li><a href="/wiki/September_22" title="September 22">September 22</a>
+<ul>
+<li><a href="/wiki/Alexandre_Yersin" title="Alexandre Yersin">Alexandre Yersin</a>, Swiss-French physician and bacteriologist (d. <a href="/wiki/1943" title="1943">1943</a>)</li>
+<li><a href="/wiki/G._R._S._Mead" title="G. R. S. Mead">G. R. S. Mead</a>, British writer (d. 1933)</li>
+</ul>
+</li>
+<li><a href="/wiki/September_30" title="September 30">September 30</a> – <a href="/wiki/Reinhard_Scheer" title="Reinhard Scheer">Reinhard Scheer</a>, German admiral (d. 1928)</li>
+<li><a href="/wiki/October_1" title="October 1">October 1</a> – <a href="/wiki/Adolph_Otto_Niedner" title="Adolph Otto Niedner">Adolph Otto Niedner</a>, American cartridge designer (d. 1954)</li>
+<li><a href="/wiki/October_7" title="October 7">October 7</a> – <a href="/wiki/Clarence_Stewart_Williams" title="Clarence Stewart Williams">Clarence Stewart Williams</a>, American admiral (d. 1951)</li>
+<li><a href="/wiki/October_11" title="October 11">October 11</a>
+<ul>
+<li><a href="/wiki/Lionel_Cripps" title="Lionel Cripps">Lionel Cripps</a>, Rhodesian politician (d. 1950)</li>
+<li><a href="/wiki/Louis_Cyr" title="Louis Cyr">Louis Cyr</a>, Canadian strongman (d. 1912)</li>
+</ul>
+</li>
+<li><a href="/wiki/October_16" title="October 16">October 16</a> – <a href="/wiki/Austen_Chamberlain" title="Austen Chamberlain">Austen Chamberlain</a>, English statesman, recipient of the <a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Peace Prize</a> (d. 1937)</li>
+<li><a href="/wiki/October_18" title="October 18">October 18</a> – <a href="/wiki/Tommy_Tucker_(baseball)" title="Tommy Tucker (baseball)">Tommy Tucker</a>, 19th century baseball pioneer (d. 1935)</li>
+<li><a href="/wiki/November_8" title="November 8">November 8</a> – <a href="/wiki/Eero_J%C3%A4rnefelt" title="Eero Järnefelt">Eero Järnefelt</a>, Finnish realist painter (d. 1937)</li>
+<li><a href="/wiki/November_11" title="November 11">November 11</a> – <a href="/wiki/Paul_Signac" title="Paul Signac">Paul Signac</a>, French Neo-Impressionist painter (d. <a href="/wiki/1935" title="1935">1935</a>)</li>
+<li><a href="/wiki/November_14" title="November 14">November 14</a> – <a href="/wiki/Leo_Baekeland" title="Leo Baekeland">Leo Baekeland</a> Belgian-born American chemist (d. 1944)</li>
+<li><a href="/wiki/November_20" title="November 20">November 20</a> – <a href="/wiki/Zeffie_Tilbury" title="Zeffie Tilbury">Zeffie Tilbury</a>, stage &amp; film actress(daughter of <a href="/wiki/Lydia_Thompson" title="Lydia Thompson">Lydia Thompson</a>) (d. 1950)</li>
+<li><a href="/wiki/November_30" title="November 30">November 30</a> – <a href="/wiki/Andr%C3%A9s_Bonifacio" title="Andrés Bonifacio">Andrés Bonifacio</a>, Filipino revolutionary (d. 1897)</li>
+<li><a href="/wiki/December_5" title="December 5">December 5</a> – <a href="/wiki/Pattillo_Higgins" title="Pattillo Higgins">Pattillo Higgins</a>, oil pioneer and businessman, known as the "Prophet of <a href="/wiki/Spindletop" title="Spindletop">Spindletop</a>" (d. 1955)</li>
+<li><a href="/wiki/December_7" title="December 7">December 7</a>
+<ul>
+<li><a href="/wiki/Felix_Calonder" title="Felix Calonder">Felix Calonder</a>, Swiss politician (d. 1952)</li>
+<li><a href="/wiki/Richard_Warren_Sears" title="Richard Warren Sears">Richard Warren Sears</a>, American businessman (d. 1914)</li>
+<li><a href="/wiki/Pietro_Mascagni" title="Pietro Mascagni">Pietro Mascagni</a>, Italian composer (d. 1945)</li>
+</ul>
+</li>
+<li><a href="/wiki/December_8" title="December 8">December 8</a> – <a href="/wiki/Albert_Abrams" title="Albert Abrams">Albert Abrams</a>, American doctor (d. 1924)</li>
+<li><a href="/wiki/December_11" title="December 11">December 11</a>
+<ul>
+<li><a href="/wiki/Georg_Bruchm%C3%BCller" title="Georg Bruchmüller">Georg Bruchmüller</a>, influential German artillery officer (d. <a href="/wiki/1948" title="1948">1948</a>)</li>
+<li><a href="/wiki/Annie_Jump_Cannon" title="Annie Jump Cannon">Annie Jump Cannon</a>, American astronomer (d. <a href="/wiki/1941" title="1941">1941</a>)</li>
+</ul>
+</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Edvard_Munch_1921.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Edvard_Munch_1921.jpg/110px-Edvard_Munch_1921.jpg" width="110" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Edvard_Munch_1921.jpg/165px-Edvard_Munch_1921.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Edvard_Munch_1921.jpg/220px-Edvard_Munch_1921.jpg 2x" data-file-width="361" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Edvard_Munch_1921.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Edvard_Munch" title="Edvard Munch">Edvard Munch</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/December_12" title="December 12">December 12</a>
+<ul>
+<li><a href="/wiki/Edvard_Munch" title="Edvard Munch">Edvard Munch</a>, Norwegian painter (d. 1944)</li>
+<li><a href="/wiki/Sahibzada_Abdul_Qayyum_Khan" class="mw-redirect" title="Sahibzada Abdul Qayyum Khan">Sahibzada Abdul Qayyum Khan</a>, educationist, politician British India</li>
+</ul>
+</li>
+<li><a href="/wiki/December_16" title="December 16">December 16</a> – <a href="/wiki/George_Santayana" title="George Santayana">George Santayana</a>, philosopher, poet, essayist and novelist (d. 1952)</li>
+<li><a href="/wiki/December_18" title="December 18">December 18</a> – <a href="/wiki/Archduke_Franz_Ferdinand_of_Austria" title="Archduke Franz Ferdinand of Austria">Archduke Franz Ferdinand of Austria</a> (d. 1914)</li>
+</ul>
+<h3><span class="mw-headline" id="Date_unknown_2">Date unknown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=10" title="Edit section: Date unknown">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Qasim_Amin" title="Qasim Amin">Qasim Amin</a>, writer (d. 1908)</li>
+<li><a href="/wiki/Black_Elk" title="Black Elk">Black Elk</a>/ Heȟáka Sápa', Oglala Teton <a href="/wiki/Lakota_people" title="Lakota people">Lakota</a> (Western Sioux) medicine/holy man (d. 1950)</li>
+<li><a href="/wiki/Mar%C3%ADa_Abella_de_Ram%C3%ADrez" title="María Abella de Ramírez">María Abella de Ramírez</a>, Uruguayan women's rights activist (d. <a href="/wiki/1926" title="1926">1926</a>)</li>
+<li><a href="/wiki/Aaron_S._Watkins" title="Aaron S. Watkins">Aaron S. Watkins</a>, American Presidential candidate (d. 1941)</li>
+<li><a href="/wiki/Kenneth_Robert_Balfour" class="mw-redirect" title="Kenneth Robert Balfour">Kenneth Robert Balfour</a>, British Conservative Party politician (d. 1936)</li>
+</ul>
+<h2><span class="mw-headline" id="Deaths">Deaths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=11" title="Edit section: Deaths">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January.E2.80.93June_2">January–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=12" title="Edit section: January–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:Antonio_Valero_Bernabe.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Antonio_Valero_Bernabe.gif/110px-Antonio_Valero_Bernabe.gif" width="110" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Antonio_Valero_Bernabe.gif/165px-Antonio_Valero_Bernabe.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Antonio_Valero_Bernabe.gif/220px-Antonio_Valero_Bernabe.gif 2x" data-file-width="400" data-file-height="499" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Antonio_Valero_Bernabe.gif" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Antonio_Valero_de_Bernab%C3%A9" title="Antonio Valero de Bernabé">Antonio Valero de Bernabé</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/April_1" title="April 1">April 1</a> – <a href="/wiki/Jakob_Steiner" title="Jakob Steiner">Jakob Steiner</a>, Swiss mathematician (b. 1796)</li>
+<li><a href="/wiki/April_10" title="April 10">April 10</a> – <a href="/wiki/Giovanni_Battista_Amici" title="Giovanni Battista Amici">Giovanni Battista Amici</a>, Italian astronomer, microscopist, and botanist (b. 1786)</li>
+<li><a href="/wiki/April_21" title="April 21">April 21</a> – <a href="/wiki/Sir_Robert_Bateson,_1st_Baronet" title="Sir Robert Bateson, 1st Baronet">Sir Robert Bateson, 1st Baronet</a>, Irish nobility (b. 1782)</li>
+<li><a href="/wiki/May_7" title="May 7">May 7</a> – <a href="/wiki/Earl_Van_Dorn" title="Earl Van Dorn">Earl Van Dorn</a>, American Confederate general (b. <a href="/wiki/1820" title="1820">1820</a>)</li>
+<li><a href="/wiki/May_10" title="May 10">May 10</a> – <a href="/wiki/Stonewall_Jackson" title="Stonewall Jackson">Thomas J. "Stonewall" Jackson</a>, American Confederate general (b. 1824)</li>
+<li><a href="/wiki/June_7" title="June 7">June 7</a> – <a href="/wiki/Antonio_Valero_de_Bernab%C3%A9" title="Antonio Valero de Bernabé">Antonio Valero de Bernabé</a>, Latin American liberator (b. 1790)</li>
+<li><a href="/wiki/June_9" title="June 9">June 9</a> – <a href="/wiki/Dost_Mohammad_Khan_(Emir_of_Afghanistan)" title="Dost Mohammad Khan (Emir of Afghanistan)">Dost Mohammad Khan</a>, Emir of <a href="/wiki/Kabul" title="Kabul">Kabul</a>, King of <a href="/wiki/Kandahar" title="Kandahar">Kandahar</a> (b. 1793)</li>
+<li><a href="/wiki/June_26" title="June 26">June 26</a> – <a href="/wiki/Andrew_Hull_Foote" title="Andrew Hull Foote">Andrew Hull Foote</a>, American admiral (b. 1806)</li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93December_2">July–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=13" title="Edit section: July–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg/110px-F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg" width="110" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg/165px-F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg/220px-F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg 2x" data-file-width="1531" data-file-height="2107" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Eug%C3%A8ne_Delacroix" title="Eugène Delacroix">Eugène Delacroix</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a href="/wiki/File:JacobGrimm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/JacobGrimm.jpg/110px-JacobGrimm.jpg" width="110" height="135" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/JacobGrimm.jpg/165px-JacobGrimm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/JacobGrimm.jpg/220px-JacobGrimm.jpg 2x" data-file-width="285" data-file-height="351" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:JacobGrimm.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Jacob_Grimm" title="Jacob Grimm">Jacob Grimm</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/July_1" title="July 1">July 1</a> – <a href="/wiki/John_F._Reynolds" title="John F. Reynolds">John F. Reynolds</a>, American general (b. 1820)</li>
+<li><a href="/wiki/July_5" title="July 5">July 5</a> – <a href="/wiki/Lewis_A._Armistead" class="mw-redirect" title="Lewis A. Armistead">Lewis A. Armistead</a>, Confederate general (b. 1817)</li>
+<li><a href="/wiki/July_21" title="July 21">July 21</a> - <a href="/wiki/Josephine_Kablick" title="Josephine Kablick">Josephine Kablick</a>, Czech botanist and paleontologist (b. 1787)</li>
+<li><a href="/wiki/July_26" title="July 26">July 26</a> – <a href="/wiki/Sam_Houston" title="Sam Houston">Sam Houston</a>, first <a href="/wiki/President_of_the_Republic_of_Texas" title="President of the Republic of Texas">President of the Republic of Texas</a> (b. 1793)</li>
+<li><a href="/wiki/August_13" title="August 13">August 13</a> – <a href="/wiki/Eug%C3%A8ne_Delacroix" title="Eugène Delacroix">Eugène Delacroix</a>, French painter (b. 1798)</li>
+<li><a href="/wiki/September_17" title="September 17">September 17</a> – <a href="/wiki/Alfred_de_Vigny" title="Alfred de Vigny">Alfred de Vigny</a>, French author (b. 1797)</li>
+<li><a href="/wiki/September_20" title="September 20">September 20</a> – <a href="/wiki/Jacob_Grimm" title="Jacob Grimm">Jacob Grimm</a>, German folklorist (b. 1785)</li>
+<li><a href="/wiki/October_13" title="October 13">October 13</a> – <a href="/wiki/Philippe_Antoine_d%27Ornano" title="Philippe Antoine d'Ornano">Philippe Antoine d'Ornano</a>, Marshal of France (b. 1784)</li>
+<li><a href="/wiki/November_2" title="November 2">November 2</a> – <a href="/wiki/Theodore_Judah" title="Theodore Judah">Theodore Judah</a>, American railroad engineer (b. 1826)</li>
+<li><a href="/wiki/November_15" title="November 15">November 15</a> – King <a href="/wiki/Frederick_VII_of_Denmark" title="Frederick VII of Denmark">Frederick VII of Denmark</a> (b. 1808)</li>
+<li><a href="/wiki/December_2" title="December 2">December 2</a> – <a href="/wiki/Jane_Pierce" title="Jane Pierce">Jane Pierce</a>, 15th <a href="/wiki/First_Lady_of_the_United_States" title="First Lady of the United States">First Lady of the United States</a> (b. <a href="/wiki/1806" title="1806">1806</a>)</li>
+<li><a href="/wiki/December_13" title="December 13">December 13</a> – <a href="/wiki/Christian_Friedrich_Hebbel" title="Christian Friedrich Hebbel">Christian Friedrich Hebbel</a>, German writer (b. 1813)</li>
+<li><a href="/wiki/December_16" title="December 16">December 16</a> – <a href="/wiki/John_Buford" title="John Buford">John Buford</a>, American general (b. 1826)</li>
+<li><a href="/wiki/December_24" title="December 24">December 24</a> – <a href="/wiki/William_Makepeace_Thackeray" title="William Makepeace Thackeray">William Makepeace Thackeray</a>, British novelist (b. 1811)</li>
+</ul>
+<h2><span class="mw-headline" id="In_fiction">In fiction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=14" title="Edit section: In fiction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>The film <i><a href="/wiki/Glory_(1989_film)" title="Glory (1989 film)">Glory</a></i> (starring <a href="/wiki/Morgan_Freeman" title="Morgan Freeman">Morgan Freeman</a>, <a href="/wiki/Denzel_Washington" title="Denzel Washington">Denzel Washington</a>, and <a href="/wiki/Matthew_Broderick" title="Matthew Broderick">Matthew Broderick</a>), shows events of 1863, notably the assault on Fort Wagner.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1863&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">In a public lecture, "On Radiation Through The Earth's Atmosphere", reprinted in his book <i>Contributions to Molecular Physics in the Domain of Radiant Heat</i> (1872).</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Foner, Eric (2010). <i>The Fiery Trial: Abraham Lincoln and American Slavery</i>. New York: Norton. pp.&#160;239–42. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-393-06618-0" title="Special:BookSources/978-0-393-06618-0">978-0-393-06618-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.aufirst=Eric&amp;rft.aulast=Foner&amp;rft.btitle=The+Fiery+Trial%3A+Abraham+Lincoln+and+American+Slavery&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-0-393-06618-0&amp;rft.pages=239-42&amp;rft.place=New+York&amp;rft.pub=Norton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Resoconto-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Resoconto_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Resoconto_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><i>Resoconto del Comitato cantonale di Soccorso intorno ai sussidi raccolti e distribuiti pei danni cagionati dalle nevi nel gennaio 1863</i>. Lugano: Tip. Cantonale. 1864.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.btitle=Resoconto+del+Comitato+cantonale+di+Soccorso+intorno+ai+sussidi+raccolti+e+distribuiti+pei+danni+cagionati+dalle+nevi+nel+gennaio+1863&amp;rft.date=1864&amp;rft.genre=book&amp;rft.place=Lugano&amp;rft.pub=Tip.+Cantonale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_People.27s_Chronology-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_People.27s_Chronology_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_People.27s_Chronology_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-The_People.27s_Chronology_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-The_People.27s_Chronology_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Everett, Jason M., ed. (2006). "1863". <i>The People's Chronology</i>. Thomson Gale.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.atitle=1863&amp;rft.btitle=The+People%27s+Chronology&amp;rft.date=2006&amp;rft.genre=bookitem&amp;rft.pub=Thomson+Gale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Boissier, Pierre (1985). <i>History of the International Committee of the Red Cross. Volume I: From Solferino to Tsushima</i>. Geneva: Henry Dunant Institute. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/2-88044-012-2" title="Special:BookSources/2-88044-012-2">2-88044-012-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.aufirst=Pierre&amp;rft.aulast=Boissier&amp;rft.btitle=History+of+the+International+Committee+of+the+Red+Cross.+Volume+I%3A+From+Solferino+to+Tsushima&amp;rft.date=1985&amp;rft.genre=book&amp;rft.isbn=2-88044-012-2&amp;rft.place=Geneva&amp;rft.pub=Henry+Dunant+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pocket_On_This_Day-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pocket_On_This_Day_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>Penguin Pocket On This Day</i>. Penguin Reference Library. 2006. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-14-102715-0" title="Special:BookSources/0-14-102715-0">0-14-102715-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.btitle=Penguin+Pocket+On+This+Day&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-14-102715-0&amp;rft.pub=Penguin+Reference+Library&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Smith, Peter (2000). "Ridvan". <i>A concise encyclopedia of the Bahá'í Faith</i>. Oxford: Oneworld Publications. pp.&#160;296–297. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85168-184-1" title="Special:BookSources/1-85168-184-1">1-85168-184-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.atitle=Ridvan&amp;rft.aufirst=Peter&amp;rft.aulast=Smith&amp;rft.btitle=A+concise+encyclopedia+of+the+Bah%C3%A1%27%C3+Faith&amp;rft.date=2000&amp;rft.genre=bookitem&amp;rft.isbn=1-85168-184-1&amp;rft.pages=296-297&amp;rft.place=Oxford&amp;rft.pub=Oneworld+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hunley-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hunley_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hunley_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Chaffin, Tom (2008). <i>The H. L. Hunley: the Secret Hope of the Confederacy</i>. New York: Hill and Wang. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8090-9512-4" title="Special:BookSources/978-0-8090-9512-4">978-0-8090-9512-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.aufirst=Tom&amp;rft.aulast=Chaffin&amp;rft.btitle=The+H.+L.+Hunley%3A+the+Secret+Hope+of+the+Confederacy&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0-8090-9512-4&amp;rft.place=New+York&amp;rft.pub=Hill+and+Wang&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.foundingdocs.gov.au/item.asp?dID=49">Letters Patent annexing the Northern Territory to South Australia, 1863</a>. <a href="/wiki/National_Archives_of_Australia" title="National Archives of Australia">National Archives of Australia</a>.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Nolan, Daniel J. (2011). <i>Clippers: the ships that shaped the world</i>. Bray: Malbay Publishing. p.&#160;97. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-908726-00-1" title="Special:BookSources/978-1-908726-00-1">978-1-908726-00-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.aufirst=Daniel+J.&amp;rft.aulast=Nolan&amp;rft.btitle=Clippers%3A+the+ships+that+shaped+the+world&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-1-908726-00-1&amp;rft.pages=97&amp;rft.place=Bray&amp;rft.pub=Malbay+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.historync.org/railroad-WRR.htm">CommunicationSolutions/ISI, "Railroad — Western Railroad Company"</a>, <i>North Carolina Business History</i>, 2006, accessed 1 Feb 2010</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Ransom, P. J. G. (1996). <i>Narrow Gauge Steam: its origins and world-wide development</i>. Sparkford: Oxford Publishing Co. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-86093-533-7" title="Special:BookSources/0-86093-533-7">0-86093-533-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.au=Ransom%2C+P.+J.+G.&amp;rft.btitle=Narrow+Gauge+Steam%3A+its+origins+and+world-wide+development&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=0-86093-533-7&amp;rft.place=Sparkford&amp;rft.pub=Oxford+Publishing+Co&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/John_Marshall_(railway_historian)" title="John Marshall (railway historian)">Marshall, John</a> (1989). <i>The Guinness Railway Book</i>. Enfield: Guinness Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8511-2359-7" title="Special:BookSources/0-8511-2359-7">0-8511-2359-7</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/24175552">24175552</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.aufirst=John&amp;rft.aulast=Marshall&amp;rft.btitle=The+Guinness+Railway+Book&amp;rft.date=1989&amp;rft.genre=book&amp;rft_id=info%3Aoclcnum%2F24175552&amp;rft.isbn=0-8511-2359-7&amp;rft.place=Enfield&amp;rft.pub=Guinness+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Melvyn_Bragg" title="Melvyn Bragg">Bragg, Melvyn</a> (2006). <i>12 books that changed the world</i>. London: Hodder &amp; Stoughton. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-340-83980-5" title="Special:BookSources/0-340-83980-5">0-340-83980-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1863&amp;rft.aufirst=Melvyn&amp;rft.aulast=Bragg&amp;rft.btitle=12+books+that+changed+the+world&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-340-83980-5&amp;rft.place=London&amp;rft.pub=Hodder+%26+Stoughton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://books.google.com/books?id=z2FigFVIkxUC&amp;source=gbs_navlinks_s"><i>Appleton's Annual Cyclopedia...1863</i> (1864), detailed coverage of events in all countries</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.familytales.org/results.php?year=1863">Historic Letters of 1863</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20170412103501
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.304 seconds
+Real time usage: 0.414 seconds
+Preprocessor visited node count: 5943/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43124/2097152 bytes
+Template argument size: 2948/2097152 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 7/500
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 5.04 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  287.383      1 -total
+ 25.93%   74.514      1 Template:Reflist
+ 23.11%   66.403      1 Template:C19_year_in_topic
+ 19.03%   54.690     10 Template:Cite_book
+ 13.72%   39.442     19 Template:Dr
+ 13.26%   38.116      1 Template:Year_in_various_calendars
+ 12.95%   37.208      1 Template:Year_nav
+ 12.94%   37.193     19 Template:Dr-make
+  8.51%   24.453      1 Template:Page_needed
+  7.95%   22.843      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34641-0!*!0!!en!4!* and timestamp 20170412103501 and revision id 768719260
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1863&amp;oldid=768719260">https://en.wikipedia.org/w/index.php?title=1863&amp;oldid=768719260</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1863" title="Category:1863">1863</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_March_2011" title="Category:Use mdy dates from March 2011">Use mdy dates from March 2011</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_October_2016" title="Category:Wikipedia articles needing page number citations from October 2016">Wikipedia articles needing page number citations from October 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1863" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1863" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1863"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1863"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1863" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1863&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1863&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1863" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1863" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1863&amp;oldid=768719260" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1863&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7701" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1863&amp;id=768719260" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1863">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1863&amp;returnto=1863&amp;oldid=768719260&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1863&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:1863" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/1863" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/1863" title="1863 – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/1863" title="1863 – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/1863_%E1%8A%A5.%E1%8A%A4.%E1%8A%A0." title="1863 እ.ኤ.አ. – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/1863" title="1863 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/1863" title="1863 – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/1863" title="1863 – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/1863" title="1863 – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/1863" title="1863 – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/1863" title="1863 – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A7%A7%E0%A7%AE%E0%A7%AC%E0%A7%A9" title="১৮৬৩ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/1863_n%C3%AE" title="1863 nî – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/1863" title="1863 – Basa Banyumasan" lang="map-bms" hreflang="map-bms" class="interlanguage-link-target">Basa Banyumasan</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/1863_%D0%B9%D1%8B%D0%BB" title="1863 йыл – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/1863" title="1863 – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/1863" title="1863 – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AC%E0%A5%A9" title="१८६३ – भोजपुरी" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/1863" title="1863 – Bikol Central" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/1863" title="1863 – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/1863" title="1863 – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/1863." title="1863. – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/1863" title="1863 – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/1863" title="1863 – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/1863" title="1863 – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/1863" title="1863 – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/1863" title="1863 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/1863" title="1863 – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/1863" title="1863 – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/1863" title="1863 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/1863" title="1863 – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/1863" title="1863 – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/1863" title="1863 – Emiliano-Romagnolo" lang="eml" hreflang="eml" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/1863_%D0%B8%D0%B5" title="1863 ие – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/1863" title="1863 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/1863" title="1863 – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/1863" title="1863 – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%B1%DB%B8%DB%B6%DB%B3_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="۱۸۶۳ (میلادی) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/1863" title="1863 – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/1863" title="1863 – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/1863" title="1863 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/1863" title="1863 – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/1863" title="1863 – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/1863" title="1863 – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/1863" title="1863 – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/1863%E5%B9%B4" title="1863年 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/1863%EB%85%84" title="1863년 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/1863" title="1863 – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AC%E0%A5%A9" title="१८६३ – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/1863" title="1863 – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/1863." title="1863. – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/1863" title="1863 – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/1863" title="1863 – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A7%E0%A7%AE%E0%A7%AC%E0%A7%A9" title="মারি ১৮৬৩ – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/1863" title="1863 – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/1863" title="1863 – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/1863-%C3%A6%D0%BC_%D0%B0%D0%B7" title="1863-æм аз – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/1863" title="1863 – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/1863" title="1863 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/1863" title="1863 – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/1863" title="1863 – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B3%A7%E0%B3%AE%E0%B3%AC%E0%B3%A9" title="೧೮೬೩ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/1863_%D0%B4%D0%B6%D1%8B%D0%BB" title="1863 джыл – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/1863" title="1863 – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/1863" title="1863 – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/1863_%D0%B6%D1%8B%D0%BB" title="1863 жыл – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/1863" title="1863 – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/1863_%D0%B2%D0%BE" title="1863 во – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/1863_(almanak_gregoryen)" title="1863 (almanak gregoryen) – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/1863" title="1863 – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/1863_%D0%B8" title="1863 и – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/1863" title="1863 – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/1863._gads" title="1863. gads – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/1863" title="1863 – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/1863_m." title="1863 m. – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/1863" title="1863 – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/1863" title="1863 – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/1863" title="1863 – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/1863" title="1863 – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AC%E0%A5%A9" title="१८६३ – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/1863" title="1863 – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/1863" title="1863 – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/1863" title="1863 – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/1863" title="1863 – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%87.%E0%A4%B8._%E0%A5%A7%E0%A5%AE%E0%A5%AC%E0%A5%A9" title="इ.स. १८६३ – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/1863" title="1863 – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/1863" title="1863 – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/1863" title="1863 – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Baso Minangkabau</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%81%81%E1%81%88%E1%81%86%E1%81%83" title="၁၈၆၃ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/1863" title="1863 – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/1863" title="1863 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AE%E0%A5%AC%E0%A5%A9" title="सन् १८६३ – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%88_%E0%A4%B8%E0%A4%82_%E0%A5%A7%E0%A5%AE%E0%A5%AC%E0%A5%A9" title="ई सं १८६३ – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/1863%E5%B9%B4" title="1863年 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/1863" title="1863 – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/1863_%D1%88%D0%BE" title="1863 шо – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/1863" title="1863 – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/1863" title="1863 – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/1863" title="1863 – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/1863" title="1863 – Nouormand" lang="nrm" hreflang="nrm" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/1863" title="1863 – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/1863" title="1863 – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AD%A7%E0%AD%AE%E0%AD%AC%E0%AD%A9" title="୧୮୬୩ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/1863" title="1863 – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/1863" title="1863 – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AC%E0%A5%A9" title="१८६३ – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/1863" title="1863 – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/1863" title="1863 – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/1863" title="1863 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/1863" title="1863 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/1863" title="1863 – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Joohr_1863" title="Joohr 1863 – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/1863" title="1863 – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/1863" title="1863 – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/1863" title="1863 – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/1863_%D0%B3%D0%BE%D0%B4" title="1863 год – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/1863" title="1863 – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/1863" title="1863 – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Sámegiella</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AE%E0%A5%AC%E0%A5%A9" title="१८६३ – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/1863" title="1863 – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/1863" title="1863 – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/1863" title="1863 – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/1863" title="1863 – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/1863" title="1863 – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/1863" title="1863 – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/1863%D8%B9" title="1863ع – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/1863" title="1863 – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/1863" title="1863 – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%A1%D9%A8%D9%A6%D9%A3" title="١٨٦٣ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/1863" title="1863 – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/1863" title="1863 – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/1863" title="1863 – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/1863" title="1863 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/1863" title="1863 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/1863" title="1863 – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/1863" title="1863 – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/1863_%D0%B5%D0%BB" title="1863 ел – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/1863" title="1863 – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/1863" title="1863 – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9E.%E0%B8%A8._2406" title="พ.ศ. 2406 – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B8_1863" title="Соли 1863 – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/1863" title="1863 – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/1863" title="1863 – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/1863_%D0%B0%D1%80" title="1863 ар – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/1863" title="1863 – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/1863%D8%A1" title="1863ء – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/1863" title="1863 – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/1863" title="1863 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/1863" title="1863 – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/1863" title="1863 – Võro" lang="fiu-vro" hreflang="fiu-vro" class="interlanguage-link-target">Võro</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/1863" title="1863 – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/1863" title="1863 – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/1863" title="1863 – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/1863" title="1863 – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/1863" title="1863 – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/1863" title="1863 – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/1863%E5%B9%B4" title="1863年 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/1863" title="1863 – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/1863" title="1863 – Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/1863%E5%B9%B4" title="1863年 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7701#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 March 2017, at 11:28.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1863&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.414","ppvisitednodes":{"value":5943,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43124,"limit":2097152},"templateargumentsize":{"value":2948,"limit":2097152},"expansiondepth":{"value":28,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  287.383      1 -total"," 25.93%   74.514      1 Template:Reflist"," 23.11%   66.403      1 Template:C19_year_in_topic"," 19.03%   54.690     10 Template:Cite_book"," 13.72%   39.442     19 Template:Dr"," 13.26%   38.116      1 Template:Year_in_various_calendars"," 12.95%   37.208      1 Template:Year_nav"," 12.94%   37.193     19 Template:Dr-make","  8.51%   24.453      1 Template:Page_needed","  7.95%   22.843      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.088","limit":"10.000"},"limitreport-memusage":{"value":5280270,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20170412103501","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw2178"});});</script>
+	</body>
+</html>

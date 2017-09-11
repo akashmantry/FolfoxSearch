@@ -1,0 +1,1990 @@
+https://en.wikipedia.org/wiki/2017_Aleppo_suicide_car_bombing
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>2017 Aleppo suicide car bombing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2017_Aleppo_suicide_car_bombing","wgTitle":"2017 Aleppo suicide car bombing","wgCurRevisionId":776840494,"wgRevisionId":776840494,"wgArticleId":53784622,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Wikipedia articles needing clarification from April 2017","2017 murders in Asia","April 2017 crimes in Asia","April 2017 events in Syria","Mass murder in 2017","Mass murder in Syria","Massacres of the Syrian Civil War in 2017","Suicide car and truck bombings in Syria","Violence against Shia Muslims"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2017_Aleppo_suicide_car_bombing","wgRelevantArticleId":53784622,"wgRequestId":"WPzYcgrAIFcAAB3SkeMAAAFL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":36.169444444444,"lon":37.056666666667},"wgWikibaseItemId":"Q29413569","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.20"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aleppo_in_Syria_%28%2BGolan%29.svg/1200px-Aleppo_in_Syria_%28%2BGolan%29.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/2017_Aleppo_suicide_car_bombing"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/2017_Aleppo_suicide_car_bombing"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-2017_Aleppo_suicide_car_bombing rootpage-2017_Aleppo_suicide_car_bombing skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">2017 Aleppo suicide car bombing</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%;">2017 Aleppo suicide car bombing</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">Part of the <a href="/wiki/Syrian_Civil_War" title="Syrian Civil War">Syrian Civil War</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Aleppo_in_Syria_(%2BGolan).svg" class="image"><img alt="Aleppo in Syria (+Golan).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aleppo_in_Syria_%28%2BGolan%29.svg/220px-Aleppo_in_Syria_%28%2BGolan%29.svg.png" width="220" height="182" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aleppo_in_Syria_%28%2BGolan%29.svg/330px-Aleppo_in_Syria_%28%2BGolan%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aleppo_in_Syria_%28%2BGolan%29.svg/440px-Aleppo_in_Syria_%28%2BGolan%29.svg.png 2x" data-file-width="922" data-file-height="762" /></a></td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="location">Rashideen District, western <a href="/wiki/Aleppo" title="Aleppo">Aleppo</a>, <a href="/wiki/Syria" title="Syria">Syria</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=2017_Aleppo_suicide_car_bombing&amp;params=36_10_10_N_37_03_24_E_region:SY_type:event"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°10′10″N</span> <span class="longitude">37°03′24″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.16944°N 37.05667°E</span><span style="display:none">﻿ / <span class="geo">36.16944; 37.05667</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=2017_Aleppo_suicide_car_bombing&amp;params=36_10_10_N_37_03_24_E_region:SY_type:event"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°10′10″N</span> <span class="longitude">37°03′24″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.16944°N 37.05667°E</span><span style="display:none">﻿ / <span class="geo">36.16944; 37.05667</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row">Date</th>
+<td>15 April 2017</td>
+</tr>
+<tr>
+<th scope="row">Weapons</th>
+<td><a href="/wiki/Car_bomb" title="Car bomb">Car bomb</a></td>
+</tr>
+<tr>
+<th scope="row">Deaths</th>
+<td>126+<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Non-fatal injuries</div>
+</th>
+<td>55+</td>
+</tr>
+<tr>
+<th scope="row">Perpetrator</th>
+<td>Unknown</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="Syrian_Civil_War" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Syrian_Civil_War" title="Template:Campaignbox Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Syrian_Civil_War" title="Template talk:Campaignbox Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Syrian_Civil_War" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Syrian_Civil_War" title="Syrian Civil War">Syrian Civil War</a></span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><a href="/wiki/Timeline_of_the_Syrian_Civil_War" title="Timeline of the Syrian Civil War">Timeline</a></dt>
+</dl>
+<ul>
+<li>
+<ul>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2011)" title="Timeline of the Syrian Civil War (January–April 2011)">Jan–Apr 2011</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(May%E2%80%93August_2011)" title="Timeline of the Syrian Civil War (May–August 2011)">May–Aug 2011</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(September%E2%80%93December_2011)" title="Timeline of the Syrian Civil War (September–December 2011)">Sep–Dec 2011</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2012)" title="Timeline of the Syrian Civil War (January–April 2012)">Jan–Apr 2012</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(May%E2%80%93August_2012)" title="Timeline of the Syrian Civil War (May–August 2012)">May–Aug 2012</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(September%E2%80%93December_2012)" title="Timeline of the Syrian Civil War (September–December 2012)">Sep–Dec 2012</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2013)" title="Timeline of the Syrian Civil War (January–April 2013)">Jan–Apr 2013</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(May%E2%80%93December_2013)" title="Timeline of the Syrian Civil War (May–December 2013)">May–Dec 2013</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93July_2014)" title="Timeline of the Syrian Civil War (January–July 2014)">Jan–July 2014</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(August%E2%80%93December_2014)" title="Timeline of the Syrian Civil War (August–December 2014)">Aug–Dec 2014</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93July_2015)" title="Timeline of the Syrian Civil War (January–July 2015)">Jan–July 2015</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(August%E2%80%93December_2015)" title="Timeline of the Syrian Civil War (August–December 2015)">Aug–Dec 2015</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2016)" title="Timeline of the Syrian Civil War (January–April 2016)">Jan–Apr 2016</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(May%E2%80%93August_2016)" title="Timeline of the Syrian Civil War (May–August 2016)">May–Aug 2016</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(September%E2%80%93December_2016)" title="Timeline of the Syrian Civil War (September–December 2016)">Sep–Dec 2016</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2017)" title="Timeline of the Syrian Civil War (January–April 2017)">Jan–Apr 2017</a></li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><i><a href="/wiki/Casualties_of_the_Syrian_Civil_War" title="Casualties of the Syrian Civil War">Casualties</a></i></li>
+<li><i><a href="/wiki/Cities_and_towns_during_the_Syrian_Civil_War" title="Cities and towns during the Syrian Civil War">Cities</a></i></li>
+<li><i><a href="/wiki/List_of_bombings_during_the_Syrian_Civil_War" class="mw-redirect" title="List of bombings during the Syrian Civil War">Bombings</a></i></li>
+<li><i><a href="/wiki/List_of_massacres_during_the_Syrian_Civil_War" title="List of massacres during the Syrian Civil War">Massacres</a></i></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Civil_uprisingin_Syria_.28March.E2.80.93August_2011.29" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_civil_uprising_phase_of_the_Syrian_Civil_War" title="Template:Campaignbox civil uprising phase of the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_civil_uprising_phase_of_the_Syrian_Civil_War" title="Template talk:Campaignbox civil uprising phase of the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_civil_uprising_phase_of_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Civil_uprisingin_Syria_.28March.E2.80.93August_2011.29" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Civil_uprising_phase_of_the_Syrian_Civil_War" title="Civil uprising phase of the Syrian Civil War">Civil uprising<br />
+in Syria</a> (March–August 2011)</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Siege_of_Daraa" title="Siege of Daraa">Daraa</a></li>
+<li><a href="/wiki/Siege_of_Baniyas" title="Siege of Baniyas">Baniyas</a></li>
+<li><a href="/wiki/Siege_of_Homs" title="Siege of Homs">Homs (May–August 2011)</a></li>
+<li><a href="/wiki/May_2011_Talkalakh_siege" title="May 2011 Talkalakh siege">Talkalakh</a></li>
+<li><a href="/wiki/Siege_of_Rastan_and_Talbiseh" title="Siege of Rastan and Talbiseh">Rastan and Talbiseh</a></li>
+<li><a href="/wiki/June_2011_Jisr_ash-Shugur_operation" title="June 2011 Jisr ash-Shugur operation">1st Jisr ash-Shugur</a></li>
+<li><a href="/wiki/Summer_2011_Jabal_al-Zawiya_operation" title="Summer 2011 Jabal al-Zawiya operation">1st Jabal al-Zawiya</a></li>
+<li><a href="/wiki/Siege_of_Hama_(2011)" title="Siege of Hama (2011)">Hama</a></li>
+<li><a href="/wiki/Siege_of_Latakia" title="Siege of Latakia">Latakia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Start_of_insurgency_.28September_2011_.E2.80.93_April_2012.29" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_early_insurgency_phase_of_the_Syrian_Civil_War" title="Template:Campaignbox early insurgency phase of the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_early_insurgency_phase_of_the_Syrian_Civil_War" title="Template talk:Campaignbox early insurgency phase of the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_early_insurgency_phase_of_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Start_of_insurgency_.28September_2011_.E2.80.93_April_2012.29" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Early_insurgency_phase_of_the_Syrian_Civil_War" title="Early insurgency phase of the Syrian Civil War">Start of insurgency</a> (September 2011 – April 2012)</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Siege_of_Homs" title="Siege of Homs">Homs (2011–14)</a>
+<ul>
+<li><a href="/wiki/2012_Homs_offensive" title="2012 Homs offensive">Homs offensive</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Idlib_Governorate_clashes_(September_2011%E2%80%93March_2012)" title="Idlib Governorate clashes (September 2011–March 2012)">1st Idlib Gov.</a>
+<ul>
+<li><a href="/wiki/December_2011_Syrian%E2%80%93Turkish_border_clash" title="December 2011 Syrian–Turkish border clash">Syrian–Turkish border</a></li>
+<li><a href="/wiki/December_2011_Jabal_al-Zawiya_massacres" title="December 2011 Jabal al-Zawiya massacres">Jabal al-Zawiya</a></li>
+<li><a href="/wiki/First_Battle_of_Idlib" title="First Battle of Idlib">1st Idlib City</a></li>
+<li><a href="/wiki/Battle_of_Saraqeb" title="Battle of Saraqeb">Saraqeb</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Battle_of_Rastan_(2011)" title="Battle of Rastan (2011)">1st Rastan</a></li>
+<li><a href="/wiki/Hama_Governorate_clashes_(2011%E2%80%9312)" title="Hama Governorate clashes (2011–12)">Hama Gov.</a></li>
+<li><a href="/wiki/Shayrat_and_Tiyas_airbase_ambush" title="Shayrat and Tiyas airbase ambush">Shayrat &amp; Tiyas ambush</a></li>
+<li><a href="/wiki/Daraa_Governorate_clashes_(2011%E2%80%9313)" title="Daraa Governorate clashes (2011–13)">Daraa Gov.</a></li>
+<li><a href="/wiki/Rif_Dimashq_clashes_(November_2011%E2%80%93March_2012)" title="Rif Dimashq clashes (November 2011–March 2012)">1st Rif Dimashq</a>
+<ul>
+<li><a href="/wiki/Battle_of_Zabadani_(2012)" title="Battle of Zabadani (2012)">1st Zabadani</a></li>
+<li><a href="/wiki/Battle_of_Douma" title="Battle of Douma">Douma</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Deir_ez-Zor_clashes_(2011%E2%80%9314)" title="Deir ez-Zor clashes (2011–14)">Deir ez-Zor (2011–2014)</a>
+<ul>
+<li><a href="/wiki/Hatla_massacre" title="Hatla massacre">Hatla</a></li>
+</ul>
+</li>
+<li><a href="/wiki/2012_Aleppo_Governorate_clashes" title="2012 Aleppo Governorate clashes">Aleppo Gov.</a>
+<ul>
+<li><a href="/wiki/Battle_of_Azaz_(2012)" title="Battle of Azaz (2012)">Azaz</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Battle_of_Rastan_(2012)" title="Battle of Rastan (2012)">2nd Rastan</a></li>
+<li><a href="/wiki/Battle_of_al-Qusayr_(2012)" title="Battle of al-Qusayr (2012)">1st al-Qusayr</a></li>
+<li><a href="/wiki/April_2012_Idlib_Governorate_Operation" title="April 2012 Idlib Governorate Operation">2nd Idlib Gov.</a>
+<ul>
+<li><a href="/wiki/Battle_of_Taftanaz" title="Battle of Taftanaz">Taftanaz</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Cease-fire_and_civil_war_.28May_2012_.E2.80.93_December_2013.29" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_cease-fire_period_and_start_of_the_Syrian_Civil_War" title="Template:Campaignbox cease-fire period and start of the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_cease-fire_period_and_start_of_the_Syrian_Civil_War" title="Template talk:Campaignbox cease-fire period and start of the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_cease-fire_period_and_start_of_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cease-fire_and_civil_war_.28May_2012_.E2.80.93_December_2013.29" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em">Cease-fire and civil war (May 2012 – December 2013)</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/May_2012_battle_of_Rastan" title="May 2012 battle of Rastan">3rd Rastan</a></li>
+<li><a href="/wiki/Houla_massacre" title="Houla massacre">Houla</a></li>
+<li><a href="/wiki/Battle_of_al-Haffah" title="Battle of al-Haffah">Al-Haffah</a></li>
+<li><a href="/wiki/Al-Qubeir_massacre" title="Al-Qubeir massacre">Al-Qubeir</a></li>
+<li><a href="/wiki/Battle_of_Tremseh" title="Battle of Tremseh">Al-Tremseh</a></li>
+<li><a href="/wiki/Idlib_Governorate_clashes_(June_2012%E2%80%93April_2013)" title="Idlib Governorate clashes (June 2012–April 2013)">3rd Idlib Gov.</a></li>
+<li><a href="/wiki/Battle_of_Damascus_(2012)" title="Battle of Damascus (2012)">1st Damascus</a>
+<ul>
+<li><a href="/wiki/18_July_2012_Damascus_bombing" title="18 July 2012 Damascus bombing">Bombing</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Battle_of_Aleppo_(2012%E2%80%932016)" class="mw-redirect" title="Battle of Aleppo (2012–2016)">Aleppo</a>
+<ul>
+<li><a href="/wiki/Battle_of_Anadan" title="Battle of Anadan">Anadan</a></li>
+<li><a href="/wiki/Siege_of_Menagh_Air_Base" title="Siege of Menagh Air Base">Menagh Air Base</a></li>
+<li><a href="/wiki/Siege_of_Base_46" title="Siege of Base 46">Base 46</a></li>
+<li><a href="/wiki/Khan_al-Assal_massacre" title="Khan al-Assal massacre">Khan al-Assal</a></li>
+<li><a href="/wiki/Aleppo_offensive_(October%E2%80%93December_2013)" title="Aleppo offensive (October–December 2013)">1st Aleppo offensive</a></li>
+<li><a href="/wiki/Operation_Canopus_Star" title="Operation Canopus Star">2nd Aleppo offensive</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Rojava_conflict" title="Rojava conflict">Syrian Kurdistan</a></i>
+<ul>
+<li><a href="/wiki/Battle_of_Ras_al-Ayn" title="Battle of Ras al-Ayn">Ras al-Ayn</a></li>
+<li><a href="/wiki/Battle_of_Tell_Abyad_(2013)" title="Battle of Tell Abyad (2013)">Tell Abyad</a></li>
+<li><i><a href="/wiki/Syrian_Kurdish%E2%80%93Islamist_conflict_(2013%E2%80%93present)" title="Syrian Kurdish–Islamist conflict (2013–present)">Kurdish–Islamist conflict</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Siege_of_Nubl_and_Al-Zahraa" title="Siege of Nubl and Al-Zahraa">Nubl &amp; Al-Zahraa</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(August%E2%80%93October_2012)" title="Rif Dimashq offensive (August–October 2012)">2nd Rif Dimashq</a> (<a href="/wiki/Darayya_massacre" title="Darayya massacre">1st Darayya</a>)</li>
+<li><a href="/wiki/Siege_of_Abu_al-Duhur_Airbase" title="Siege of Abu al-Duhur Airbase">Abu al-Duhur Airbase</a></li>
+<li><a href="/wiki/Quneitra_Governorate_clashes_(2012%E2%80%9314)" title="Quneitra Governorate clashes (2012–14)">Quneitra Gov.</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(November_2012%E2%80%93February_2013)" title="Rif Dimashq offensive (November 2012–February 2013)">3rd Rif Dimashq</a>
+<ul>
+<li><a href="/wiki/Yarmouk_camp_fighting_(December_2012)" class="mw-redirect" title="Yarmouk camp fighting (December 2012)">1st Yarmouk camp</a></li>
+<li><a href="/wiki/Battle_of_Darayya_(November_2012%E2%80%93February_2013)" title="Battle of Darayya (November 2012–February 2013)">2nd Darayya</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Siege_of_Darayya_and_Muadamiyat" title="Siege of Darayya and Muadamiyat">Darayya &amp; Muadamiyat</a></li>
+<li><a href="/wiki/Aqrab_massacre" title="Aqrab massacre">Aqrab</a></li>
+<li><a href="/wiki/2012_Hama_offensive" title="2012 Hama offensive">1st Hama offensive</a>
+<ul>
+<li><a href="/wiki/Halfaya_massacre" class="mw-redirect" title="Halfaya massacre">Halfaya</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Battle_of_Safira" title="Battle of Safira">1st Safira</a></li>
+<li><a href="/wiki/Battle_of_Shadadeh" title="Battle of Shadadeh">Shadadeh</a></li>
+<li><a href="/wiki/Damascus_offensive_(2013)" title="Damascus offensive (2013)">2nd Damascus</a></li>
+<li><a href="/wiki/Raqqa_campaign_(2012%E2%80%9313)" title="Raqqa campaign (2012–13)">1st Raqqa campaign</a> (<a href="/wiki/Battle_of_Raqqa_(March_2013)" title="Battle of Raqqa (March 2013)">Raqqa</a>)</li>
+<li><a href="/wiki/2013_Daraa_offensive" title="2013 Daraa offensive">1st Daraa offensive</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(March%E2%80%93August_2013)" title="Rif Dimashq offensive (March–August 2013)">4th Rif Dimashq</a>
+<ul>
+<li><a href="/wiki/Battle_of_Jdaidet_al-Fadl" title="Battle of Jdaidet al-Fadl">Jdaidet al-Fadl</a></li>
+<li><a href="/wiki/Ghouta_chemical_attack" title="Ghouta chemical attack">Ghouta</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Al-Qusayr_offensive" title="Al-Qusayr offensive">Al-Qusayr offensive</a>
+<ul>
+<li><a href="/wiki/Battle_of_al-Qusayr_(2013)" title="Battle of al-Qusayr (2013)">2nd al-Qusayr</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bayda_and_Baniyas_massacres" title="Bayda and Baniyas massacres">Bayda and Baniyas</a></li>
+<li><a href="/wiki/2013_Hama_offensive" title="2013 Hama offensive">2nd Hama offensive</a></li>
+<li><a href="/wiki/2013_Latakia_offensive" title="2013 Latakia offensive">1st Latakia offensive</a></li>
+<li><a href="/wiki/Battle_of_Ma%27loula" title="Battle of Ma'loula">Ma'loula</a></li>
+<li><a href="/wiki/Battle_of_Sadad" title="Battle of Sadad">Sadad</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(September%E2%80%93November_2013)" title="Rif Dimashq offensive (September–November 2013)">5th Rif Dimashq</a></li>
+<li><a href="/wiki/Battle_of_al-Yaarubiyah" title="Battle of al-Yaarubiyah">al-Yaarubiyah</a></li>
+<li><a href="/wiki/Battle_of_Qalamoun" class="mw-redirect" title="Battle of Qalamoun">1st Qalamoun</a></li>
+<li><a href="/wiki/Siege_of_Wadi_Barada" title="Siege of Wadi Barada">Wadi Barada</a></li>
+<li><a href="/wiki/Adra_massacre" title="Adra massacre">Adra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Rise_of_the_Islamists_.28January.E2.80.93September_2014.29" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_rise_of_the_Islamists_in_the_Syrian_Civil_War" title="Template:Campaignbox rise of the Islamists in the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_rise_of_the_Islamists_in_the_Syrian_Civil_War" title="Template talk:Campaignbox rise of the Islamists in the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_rise_of_the_Islamists_in_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Rise_of_the_Islamists_.28January.E2.80.93September_2014.29" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em">Rise of the Islamists (January–September 2014)</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Inter-rebel_conflict_during_the_Syrian_Civil_War" title="Inter-rebel conflict during the Syrian Civil War">Inter-rebel conflict</a></i>
+<ul>
+<li><a href="/wiki/Battle_of_Markada" title="Battle of Markada">Markada</a></li>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(April%E2%80%93July_2014)" title="Deir ez-Zor offensive (April–July 2014)">1st Deir ez-Zor offensive</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Al-Otaiba_ambush" title="Al-Otaiba ambush">al-Otaiba ambush</a></li>
+<li><a href="/wiki/Maan_massacre" title="Maan massacre">Maan</a></li>
+<li><a href="/wiki/Battle_of_Hosn" title="Battle of Hosn">Hosn</a></li>
+<li><a href="/wiki/Battle_of_Mork" class="mw-redirect" title="Battle of Mork">Morek</a></li>
+<li><a href="/wiki/Daraa_offensive_(February%E2%80%93May_2014)" title="Daraa offensive (February–May 2014)">2nd Daraa offensive</a></li>
+<li><a href="/wiki/2014_Latakia_offensive" title="2014 Latakia offensive">2nd Latakia offensive</a></li>
+<li><a href="/wiki/2014_Idlib_offensive" title="2014 Idlib offensive">4th Idlib Gov.</a></li>
+<li><a href="/wiki/Battle_of_Al-Malihah" title="Battle of Al-Malihah">Al-Malihah</a></li>
+<li><a href="/wiki/Second_Siege_of_Wadi_Deif" title="Second Siege of Wadi Deif">2nd Wadi Deif</a></li>
+<li><a href="/wiki/Qalamoun_offensive_(June%E2%80%93August_2014)" title="Qalamoun offensive (June–August 2014)">2nd Qalamoun</a>
+<ul>
+<li><a href="/wiki/Battle_of_Arsal" class="mw-redirect" title="Battle of Arsal">Arsal</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Siege_of_Deir_ez-Zor_(2014%E2%80%93present)" title="Siege of Deir ez-Zor (2014–present)">Deir ez-Zor (2014–2017)</a></i></li>
+<li><a href="/wiki/First_Battle_of_the_Shaer_gas_field" title="First Battle of the Shaer gas field">1st Shaer gas field</a></li>
+<li><a href="/wiki/2014_Eastern_Syria_offensive" title="2014 Eastern Syria offensive">Eastern Syria</a>
+<ul>
+<li><a href="/wiki/Battle_of_Al-Tabqa_air_base" class="mw-redirect" title="Battle of Al-Tabqa air base">Tabqa Air base</a></li>
+</ul>
+</li>
+<li><a href="/wiki/2014_Hama_offensive" title="2014 Hama offensive">3rd Hama offensive</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(August%E2%80%93November_2014)" title="Rif Dimashq offensive (August–November 2014)">6th Rif Dimashq</a></li>
+<li><a href="/wiki/2014_Quneitra_offensive" title="2014 Quneitra offensive">Quneitra</a></li>
+<li><a href="/wiki/Siege_of_Koban%C3%AE" title="Siege of Kobanî">Kobanî</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="United_States-led_intervention_.28September_2014_.E2.80.93_September_2015.29" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_intervention_against_ISIS_in_the_Syrian_Civil_War" title="Template:Campaignbox intervention against ISIS in the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_intervention_against_ISIS_in_the_Syrian_Civil_War" title="Template talk:Campaignbox intervention against ISIS in the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_intervention_against_ISIS_in_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="United_States-led_intervention_.28September_2014_.E2.80.93_September_2015.29" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/American-led_intervention_in_Syria" title="American-led intervention in Syria">United States-led intervention</a> (September 2014 – September 2015)</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/American-led_intervention_in_Syria" title="American-led intervention in Syria">U.S.-led intervention</a></i></li>
+<li><a href="/wiki/Daraa_offensive_(October_2014)" title="Daraa offensive (October 2014)">3rd Daraa offensive</a></li>
+<li><a href="/wiki/2014_Al-Safira_offensive" title="2014 Al-Safira offensive">2nd Safira</a></li>
+<li><a href="/wiki/2014_Idlib_city_raid" title="2014 Idlib city raid">2014 Idlib city raid</a></li>
+<li><a href="/wiki/Al-Nusra_Front%E2%80%93SRF/Hazzm_Movement_conflict" title="Al-Nusra Front–SRF/Hazzm Movement conflict">Nusra–FSA conflict</a></li>
+<li><a href="/wiki/Second_Battle_of_the_Shaer_gas_field" title="Second Battle of the Shaer gas field">2nd Shaer gas field</a></li>
+<li><a href="/wiki/First_Battle_of_Al-Shaykh_Maskin" title="First Battle of Al-Shaykh Maskin">1st Al-Shaykh Maskin</a></li>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(December_2014)" title="Deir ez-Zor offensive (December 2014)">2nd Deir ez-Zor offensive</a></li>
+<li><a href="/wiki/Operation_Rainbow_(Syrian_Civil_War)" title="Operation Rainbow (Syrian Civil War)">3rd Aleppo offensive</a></li>
+<li><a href="/wiki/2015_Syrian_Air_Force_An-26_crash" title="2015 Syrian Air Force An-26 crash">An-26 crash</a></li>
+<li><a href="/wiki/Daraa_offensive_(January_2015)" title="Daraa offensive (January 2015)">4th Daraa offensive</a></li>
+<li><a href="/wiki/2015_Southern_Syria_offensive" title="2015 Southern Syria offensive">Southern Syria</a></li>
+<li><a href="/wiki/Eastern_al-Hasakah_offensive" title="Eastern al-Hasakah offensive">Eastern al-Hasakah offensive</a></li>
+<li><a href="/wiki/Battle_of_Sarrin_(March%E2%80%93April_2015)" title="Battle of Sarrin (March–April 2015)">1st Sarrin</a></li>
+<li><a href="/wiki/Hama_and_Homs_offensive_(March%E2%80%93April_2015)" title="Hama and Homs offensive (March–April 2015)">Hama/Homs offensive</a></li>
+<li><a href="/wiki/Battle_of_Bosra_(2015)" title="Battle of Bosra (2015)">Bosra</a></li>
+<li><a href="/wiki/2015_Idlib_offensive" title="2015 Idlib offensive">5th Idlib Gov</a>
+<ul>
+<li><a href="/wiki/Second_Battle_of_Idlib" title="Second Battle of Idlib">2nd Idlib city</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Siege_of_al-Fu%27ah_and_Kafriya" title="Siege of al-Fu'ah and Kafriya">Al-Fu'ah-Kafriya</a></i></li>
+<li><a href="/wiki/Battle_of_Nasib_Border_Crossing" title="Battle of Nasib Border Crossing">Nasib</a></li>
+<li><a href="/wiki/Battle_of_Yarmouk_Camp_(2015)" title="Battle of Yarmouk Camp (2015)">2nd Yarmouk camp</a></li>
+<li><a href="/wiki/Northwestern_Syria_offensive_(April%E2%80%93June_2015)" title="Northwestern Syria offensive (April–June 2015)">1st Northwestern Syria</a></li>
+<li><a href="/wiki/Qalamoun_offensive_(May%E2%80%93June_2015)" title="Qalamoun offensive (May–June 2015)">3rd Qalamoun</a></li>
+<li><a href="/wiki/Palmyra_offensive_(May_2015)" title="Palmyra offensive (May 2015)">1st Palmyra</a></li>
+<li><a href="/wiki/Western_al-Hasakah_offensive" title="Western al-Hasakah offensive">Western al-Hasakah offensive</a></li>
+<li><a href="/wiki/Al-Hasakah_city_offensive_(May%E2%80%93June_2015)" title="Al-Hasakah city offensive (May–June 2015)">1st Al-Hasakah city</a></li>
+<li><a href="/wiki/Tell_Abyad_offensive_(2015)" class="mw-redirect" title="Tell Abyad offensive (2015)">Tell Abyad</a></li>
+<li><a href="/wiki/Daraa_and_As-Suwayda_offensive_(June_2015)" title="Daraa and As-Suwayda offensive (June 2015)">Daraa/As-Suwayda</a></li>
+<li><a href="/wiki/Quneitra_offensive_(June_2015)" title="Quneitra offensive (June 2015)">2nd Quneitra</a></li>
+<li><a href="/wiki/Battle_of_Sarrin_(June%E2%80%93July_2015)" title="Battle of Sarrin (June–July 2015)">2nd Sarrin</a></li>
+<li><a href="/wiki/Daraa_offensive_(June%E2%80%93July_2015)" title="Daraa offensive (June–July 2015)">5th Daraa</a></li>
+<li><a href="/wiki/Battle_of_al-Hasakah_(June%E2%80%93August_2015)" class="mw-redirect" title="Battle of al-Hasakah (June–August 2015)">2nd Al-Hasakah city</a></li>
+<li><a href="/wiki/June_2015_Koban%C3%AE_attack" class="mw-redirect" title="June 2015 Kobanî attack">2nd Kobanî</a></li>
+<li><a href="/wiki/Aleppo_offensive_(July_2015)" title="Aleppo offensive (July 2015)">4th Aleppo offensive</a></li>
+<li><a href="/wiki/Battle_of_Zabadani_(2015)" title="Battle of Zabadani (2015)">2nd Zabadani</a></li>
+<li><a href="/wiki/Palmyra_offensive_(July%E2%80%93August_2015)" title="Palmyra offensive (July–August 2015)">2nd Palmyra</a></li>
+<li><a href="/wiki/Al-Ghab_offensive_(July%E2%80%93August_2015)" title="Al-Ghab offensive (July–August 2015)">Al-Ghab</a></li>
+<li><a href="/wiki/Battle_of_Al-Qaryatayn_(August_2015)" title="Battle of Al-Qaryatayn (August 2015)">1st Al-Qaryatayn</a></li>
+<li><a href="/wiki/2015_Douma_market_massacre" class="mw-redirect" title="2015 Douma market massacre">Douma market</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(September_2015)" title="Rif Dimashq offensive (September 2015)">7th Rif Dimashq</a></li>
+<li><a href="/wiki/Kuweires_offensive_(September%E2%80%93November_2015)" title="Kuweires offensive (September–November 2015)">Kuweires offensive</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Russian_intervention_.28September_2015_.E2.80.93_March_2016.29" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Russian_intervention_in_the_Syrian_Civil_War" title="Template:Campaignbox Russian intervention in the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Russian_intervention_in_the_Syrian_Civil_War" title="Template talk:Campaignbox Russian intervention in the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Russian_intervention_in_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Russian_intervention_.28September_2015_.E2.80.93_March_2016.29" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Russian_military_intervention_in_Syria" title="Russian military intervention in Syria">Russian intervention</a> (September 2015 – March 2016)</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Russian_military_intervention_in_the_Syrian_Civil_War" class="mw-redirect" title="Russian military intervention in the Syrian Civil War">Russian intervention</a></i></li>
+<li><a href="/wiki/Quneitra_offensive_(October_2015)" title="Quneitra offensive (October 2015)">3rd Quneitra</a></li>
+<li><a href="/wiki/Northwestern_Syria_offensive_(October%E2%80%93November_2015)" title="Northwestern Syria offensive (October–November 2015)">2nd Northwestern Syria</a></li>
+<li><a href="/wiki/Latakia_offensive_(2015%E2%80%932016)" class="mw-redirect" title="Latakia offensive (2015–2016)">3rd Latakia offensive</a>
+<ul>
+<li><a href="/wiki/2015_Russian_Sukhoi_Su-24_shootdown" title="2015 Russian Sukhoi Su-24 shootdown">Su-24 shootdown</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Aleppo_offensive_(October%E2%80%93December_2015)" title="Aleppo offensive (October–December 2015)">5th Aleppo offensive</a></li>
+<li><a href="/wiki/2015_Al-Hawl_offensive" title="2015 Al-Hawl offensive">Al-Hawl</a></li>
+<li><a href="/wiki/Homs_offensive_(November%E2%80%93December_2015)" title="Homs offensive (November–December 2015)">Homs offensive</a></li>
+<li><a href="/wiki/East_Aleppo_offensive_(2015%E2%80%9316)" title="East Aleppo offensive (2015–16)">6th Aleppo offensive</a></li>
+<li><a href="/wiki/2015_Hama_offensive" title="2015 Hama offensive">4th Hama offensive</a></li>
+<li><a href="/wiki/Tell_Tamer_bombings" title="Tell Tamer bombings">Tell Tamer</a></li>
+<li><a href="/wiki/Tishrin_Dam_offensive" title="Tishrin Dam offensive">Tishrin Dam</a></li>
+<li><a href="/wiki/Second_Battle_of_Al-Shaykh_Maskin" title="Second Battle of Al-Shaykh Maskin">2nd Al-Shaykh Maskin</a></li>
+<li><a href="/wiki/2015_al-Qamishli_bombings" class="mw-redirect" title="2015 al-Qamishli bombings">al-Qamishli bombings</a></li>
+<li><a href="/wiki/Orontes_River_offensive" title="Orontes River offensive">Orontes River</a></li>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(January_2016)" title="Deir ez-Zor offensive (January 2016)">3rd Deir ez-Zor offensive</a></li>
+<li><a href="/wiki/January_2016_Sayyidah_Zaynab_attack" title="January 2016 Sayyidah Zaynab attack">1st Sayyidah Zaynab</a></li>
+<li><a href="/wiki/Northern_Aleppo_offensive_(February_2016)" title="Northern Aleppo offensive (February 2016)">7th Aleppo offensive</a></li>
+<li><a href="/wiki/Ithriyah-Raqqa_offensive_(February%E2%80%93March_2016)" title="Ithriyah-Raqqa offensive (February–March 2016)">1st Ithriyah-Raqqa</a></li>
+<li><a href="/wiki/Al-Shaddadi_offensive_(2016)" title="Al-Shaddadi offensive (2016)">Al-Shaddadi</a></li>
+<li><a href="/wiki/February_2016_Homs_bombings" title="February 2016 Homs bombings">Homs bombings</a></li>
+<li><a href="/wiki/February_2016_Sayyidah_Zaynab_bombings" title="February 2016 Sayyidah Zaynab bombings">2nd Sayyidah Zaynab</a></li>
+<li><a href="/wiki/2016_Khanasir_offensive" title="2016 Khanasir offensive">Khanasir</a></li>
+<li><a href="/wiki/Battle_of_Tel_Abyad" class="mw-redirect" title="Battle of Tel Abyad">2nd Tel Abyad</a></li>
+<li><a href="/wiki/Battle_of_al-Qaryatayn_(March%E2%80%93April_2016)" title="Battle of al-Qaryatayn (March–April 2016)">2nd Al-Qaryatayn</a></li>
+<li><a href="/wiki/Palmyra_offensive_(March_2016)" title="Palmyra offensive (March 2016)">3rd Palmyra</a></li>
+<li><a href="/wiki/Second_Battle_of_Maarat_al-Nu%27man" title="Second Battle of Maarat al-Nu'man">2nd Maarat al-Nu'man</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Aleppo_escalation_and_Turkish_intervention_.28March.E2.80.93December_2016.29" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Aleppo_escalation_period_in_the_Syrian_Civil_War" title="Template:Campaignbox Aleppo escalation period in the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Aleppo_escalation_period_in_the_Syrian_Civil_War" title="Template talk:Campaignbox Aleppo escalation period in the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Aleppo_escalation_period_in_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Aleppo_escalation_and_Turkish_intervention_.28March.E2.80.93December_2016.29" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Battle_of_Aleppo_(2012%E2%80%9316)" title="Battle of Aleppo (2012–16)">Aleppo escalation</a> and <a href="/wiki/Turkish_military_intervention_in_Syria" title="Turkish military intervention in Syria">Turkish intervention</a> (March–December 2016)</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Northern_Aleppo_offensive_(March%E2%80%93June_2016)" title="Northern Aleppo offensive (March–June 2016)">8th Aleppo offensive</a></li>
+<li><a href="/wiki/Daraa_offensive_(March%E2%80%93April_2016)" title="Daraa offensive (March–April 2016)">6th Daraa</a></li>
+<li><a href="/wiki/2016_Southern_Aleppo_campaign" title="2016 Southern Aleppo campaign">9th–11th Aleppo offensives</a></li>
+<li><a href="/wiki/Al-Dumayr_offensive_(April_2016)" title="Al-Dumayr offensive (April 2016)">Al-Dumayr</a></li>
+<li><a href="/wiki/East_Ghouta_inter-rebel_conflict_(April%E2%80%93May_2016)" title="East Ghouta inter-rebel conflict (April–May 2016)">East Ghouta inter-rebel conflict</a></li>
+<li><a href="/wiki/Battle_of_Qamishli_(April_2016)" title="Battle of Qamishli (April 2016)">Al-Qamishli clashes</a></li>
+<li><a href="/wiki/Aleppo_bombings_(April%E2%80%93July_2016)" title="Aleppo bombings (April–July 2016)">Aleppo bombings</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(April%E2%80%93May_2016)" title="Rif Dimashq offensive (April–May 2016)">8th Rif Dimashq</a></li>
+<li><a href="/wiki/Third_Battle_of_the_Shaer_gas_field" title="Third Battle of the Shaer gas field">3rd Shaer gas field</a></li>
+<li><a href="/wiki/Northern_Raqqa_offensive_(May_2016)" title="Northern Raqqa offensive (May 2016)">Northern Raqqa</a></li>
+<li><a href="/wiki/May_2016_Jableh_and_Tartous_bombings" title="May 2016 Jableh and Tartous bombings">Jableh &amp; Tartus</a></li>
+<li><a href="/wiki/Manbij_offensive_(2016)" class="mw-redirect" title="Manbij offensive (2016)">Manbij</a>
+<ul>
+<li><a href="/wiki/Tokhar_massacre_(2016)" class="mw-redirect" title="Tokhar massacre (2016)">Tokhar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ithriyah-Raqqa_offensive_(June_2016)" title="Ithriyah-Raqqa offensive (June 2016)">2nd Ithriyah-Raqqa</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(June%E2%80%93October_2016)" title="Rif Dimashq offensive (June–October 2016)">9th Rif Dimashq</a></li>
+<li><a href="/wiki/2016_Aleppo_summer_campaign" title="2016 Aleppo summer campaign">12th–14th Aleppo offensives</a>
+<ul>
+<li><a href="/wiki/Aleppo_offensive_(June%E2%80%93July_2016)" title="Aleppo offensive (June–July 2016)">12th</a></li>
+<li><a href="/wiki/Aleppo_offensive_(July%E2%80%93August_2016)" title="Aleppo offensive (July–August 2016)">13th</a></li>
+<li><a href="/wiki/Aleppo_offensive_(August%E2%80%93September_2016)" title="Aleppo offensive (August–September 2016)">14th</a></li>
+</ul>
+</li>
+<li><a href="/wiki/2016_Latakia_offensive" title="2016 Latakia offensive">4th Latakia offensive</a></li>
+<li><a href="/wiki/2016_Abu_Kamal_offensive" title="2016 Abu Kamal offensive">Abu Kamal</a></li>
+<li><a href="/wiki/July_2016_Qamishli_bombings" title="July 2016 Qamishli bombings">3rd Qamishli</a></li>
+<li><a href="/wiki/2016_Atmeh_attack" title="2016 Atmeh attack">Atmeh</a></li>
+<li><a href="/wiki/Battle_of_al-Rai_(August_2016)" title="Battle of al-Rai (August 2016)">al-Rai</a></li>
+<li><a href="/wiki/Battle_of_al-Hasakah_(2016)" title="Battle of al-Hasakah (2016)">3rd Al-Hasakah City</a></li>
+<li><a href="/wiki/Turkish_military_intervention_in_Syria" title="Turkish military intervention in Syria">Turkish intervention</a>
+<ul>
+<li><a href="/wiki/Northern_al-Bab_offensive_(September_2016)" title="Northern al-Bab offensive (September 2016)">Northern al-Bab</a></li>
+<li><a href="/wiki/2016_Dabiq_offensive" title="2016 Dabiq offensive">Dabiq</a></li>
+<li><a href="/wiki/Battle_of_al-Bab" title="Battle of al-Bab">al-Bab</a></li>
+</ul>
+</li>
+<li><a href="/wiki/2016_Hama_offensive" title="2016 Hama offensive">5th Hama offensive</a></li>
+<li><a href="/wiki/Western_al-Bab_offensive_(September_2016)" title="Western al-Bab offensive (September 2016)">1st Western al-Bab</a></li>
+<li><a href="/wiki/Eastern_Qalamoun_offensive_(September%E2%80%93October_2016)" title="Eastern Qalamoun offensive (September–October 2016)">Eastern Qalamoun</a></li>
+<li><a href="/wiki/5_September_2016_Syria_bombings" title="5 September 2016 Syria bombings">September bombings</a></li>
+<li><a href="/wiki/Quneitra_offensive_(September_2016)" title="Quneitra offensive (September 2016)">4th Quneitra offensive</a></li>
+<li><a href="/wiki/September_2016_Deir_ez-Zor_air_raid" title="September 2016 Deir ez-Zor air raid">Deir ez-Zor airstrike</a></li>
+<li><a href="/wiki/September_2016_Urum_al-Kubra_Aid_Convoy_Attack" class="mw-redirect" title="September 2016 Urum al-Kubra Aid Convoy Attack">Aleppo aid convoy attack</a></li>
+<li><a href="/wiki/Aleppo_offensive_(September%E2%80%93October_2016)" title="Aleppo offensive (September–October 2016)">15th Aleppo offensive</a></li>
+<li><a href="/wiki/Khan_al-Shih_offensive_(October%E2%80%93November_2016)" title="Khan al-Shih offensive (October–November 2016)">Khan al-Shih</a></li>
+<li><a href="/wiki/October_2016_Idlib_Governorate_clashes" title="October 2016 Idlib Governorate clashes">1st Idlib inter-rebel conflict</a></li>
+<li><a href="/wiki/Western_al-Bab_offensive_(October-November_2016)" class="mw-redirect" title="Western al-Bab offensive (October-November 2016)">2nd Western al-Bab</a></li>
+<li><a href="/wiki/Aleppo_offensive_(October%E2%80%93November_2016)" title="Aleppo offensive (October–November 2016)">16th Aleppo offensive</a></li>
+<li><i><a href="/wiki/Raqqa_campaign_(2016%E2%80%93present)" title="Raqqa campaign (2016–present)">2nd Raqqa campaign</a></i></li>
+<li><a href="/wiki/Aleppo_offensive_(November%E2%80%93December_2016)" title="Aleppo offensive (November–December 2016)">17th Aleppo offensive</a></li>
+<li><a href="/wiki/Palmyra_offensive_(December_2016)" title="Palmyra offensive (December 2016)">4th Palmyra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Post-Aleppo_period_.28December_2016.E2.80.93present.29" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Post-Aleppo_period_in_the_Syrian_Civil_War" title="Template:Campaignbox Post-Aleppo period in the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Post-Aleppo_period_in_the_Syrian_Civil_War" title="Template talk:Campaignbox Post-Aleppo period in the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Post-Aleppo_period_in_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Post-Aleppo_period_.28December_2016.E2.80.93present.29" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em">Post-Aleppo period (December 2016–present)</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Siege_of_Wadi_Barada#December_2016.E2.80.9317_offensive" title="Siege of Wadi Barada">Wadi Barada</a></li>
+<li><a href="/wiki/2017_southern_Syrian_Desert_campaign" title="2017 southern Syrian Desert campaign">Syrian Desert</a></li>
+<li><a href="/wiki/January_2017_Azaz_bombing" title="January 2017 Azaz bombing">Azaz bombings</a></li>
+<li><a href="/wiki/Palmyra_offensive_(2017)" title="Palmyra offensive (2017)">5th Palmyra</a></li>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(January%E2%80%93February_2017)" title="Deir ez-Zor offensive (January–February 2017)">4th Deir ez-Zor offensive</a></li>
+<li><i><a href="/wiki/East_Aleppo_offensive_(2017)" title="East Aleppo offensive (2017)">18th Aleppo offensive</a></i></li>
+<li><a href="/wiki/Idlib_Governorate_clashes_(2017)" title="Idlib Governorate clashes (2017)">2nd Idlib inter-rebel conflict</a></li>
+<li><i><a href="/wiki/Daraa_offensive_(February_2017%E2%80%93ongoing)" title="Daraa offensive (February 2017–ongoing)">7th Daraa</a></i></li>
+<li><i><a href="/wiki/Qaboun_offensive_(February%E2%80%93April_2017)" title="Qaboun offensive (February–April 2017)">Qaboun</a></i></li>
+<li><a href="/wiki/ISIL_Daraa_offensive_(February_2017)" title="ISIL Daraa offensive (February 2017)">8th Daraa</a></li>
+<li><i><a href="/wiki/Eastern_Homs_offensive_(2017)" title="Eastern Homs offensive (2017)">Eastern Homs offensive (2017)</a></i></li>
+<li><a href="/wiki/2017_al-Jinah_airstrike" title="2017 al-Jinah airstrike">al-Jina mosque</a></li>
+<li><i><a href="/wiki/2017_Hama_offensive" title="2017 Hama offensive">6th Hama offensive</a></i></li>
+<li><i><a href="/wiki/Battle_of_Tabqa_(2017)" title="Battle of Tabqa (2017)">Tabqa</a></i></li>
+<li><a href="/wiki/Khan_Shaykhun_chemical_attack" title="Khan Shaykhun chemical attack">Khan Shaykhun</a></li>
+<li><a href="/wiki/2017_Shayrat_missile_strike" title="2017 Shayrat missile strike">US Shayrat strikes</a></li>
+<li><a class="mw-selflink selflink">Aleppo bus bombing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Syrian_War_spillover_and_international_incidents" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Spillover_of_the_Syrian_Civil_War" title="Template:Campaignbox Spillover of the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Spillover_of_the_Syrian_Civil_War" title="Template talk:Campaignbox Spillover of the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Spillover_of_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Syrian_War_spillover_and_international_incidents" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Spillover_of_the_Syrian_Civil_War" title="Spillover of the Syrian Civil War"><span class="wrap">Syrian War spillover and international incidents</span></a></span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Syrian_Civil_War_spillover_in_Lebanon" title="Syrian Civil War spillover in Lebanon">Lebanon spillover</a>
+<ul>
+<li><a href="/wiki/Lebanese%E2%80%93Syrian_border_clashes" title="Lebanese–Syrian border clashes">Lebanese–Syrian border</a></li>
+<li><a href="/wiki/Battle_of_Sidon_(2013)" title="Battle of Sidon (2013)">Sidon</a></li>
+<li><a href="/wiki/2013_Iranian_embassy_bombing" title="2013 Iranian embassy bombing">Iranian embassy bombing</a></li>
+<li><a href="/wiki/North_Lebanon_clashes_(2014)" title="North Lebanon clashes (2014)">North Lebanon clashes</a></li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><a href="/wiki/Syrian%E2%80%93Turkish_border_incidents_during_the_Syrian_Civil_War" class="mw-redirect" title="Syrian–Turkish border incidents during the Syrian Civil War">Syrian–Turkish border incidents</a>
+<ul>
+<li><a href="/wiki/June_2012_interception_of_Turkish_aircraft" class="mw-redirect" title="June 2012 interception of Turkish aircraft">Turkish F4 shootdown</a></li>
+<li><a href="/wiki/2013_Reyhanl%C4%B1_bombings" class="mw-redirect" title="2013 Reyhanlı bombings">Reyhanlı bombings</a></li>
+<li><a href="/wiki/2014_Kurdish_riots_in_Turkey" title="2014 Kurdish riots in Turkey">Kurdish riots</a></li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><a href="/wiki/Russo-Turkish_confrontation_in_Syria" title="Russo-Turkish confrontation in Syria">Russo-Turkish confrontation</a>
+<ul>
+<li><a href="/wiki/2015_Russian_Sukhoi_Su-24_shootdown" title="2015 Russian Sukhoi Su-24 shootdown">Russian Su-24 shootdown</a></li>
+<li><a href="/wiki/Assassination_of_Andrei_Karlov" title="Assassination of Andrei Karlov">Assassination of Andrei Karlov</a></li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><a href="/wiki/Jordanian%E2%80%93Syrian_border_incidents_during_the_Syrian_Civil_War" title="Jordanian–Syrian border incidents during the Syrian Civil War">Jordanian–Syrian border incidents</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="/wiki/Israeli%E2%80%93Syrian_ceasefire_line_incidents_during_the_Syrian_Civil_War" title="Israeli–Syrian ceasefire line incidents during the Syrian Civil War">Israeli–Syrian ceasefire line</a>
+<ul>
+<li><a href="/wiki/January_2015_Mazraat_Amal_incident" title="January 2015 Mazraat Amal incident">Mazraat Amal</a></li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><a href="/wiki/Iraqi_Civil_War_(2014%E2%80%93present)" title="Iraqi Civil War (2014–present)">Iraqi–Syrian border incidents</a>
+<ul>
+<li><a href="/wiki/Akashat_ambush" title="Akashat ambush">Akashat</a></li>
+<li><a href="/wiki/Operation_al-Shabah" title="Operation al-Shabah">al-Shabah</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Foreign_involvement_in_theSyrian_Civil_War" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Foreign_involvement_in_the_Syrian_Civil_War" title="Template:Campaignbox Foreign involvement in the Syrian Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Foreign_involvement_in_the_Syrian_Civil_War" class="mw-redirect" title="Template talk:Campaignbox Foreign involvement in the Syrian Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Foreign_involvement_in_the_Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Foreign_involvement_in_theSyrian_Civil_War" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Foreign_involvement_in_the_Syrian_Civil_War" title="Foreign involvement in the Syrian Civil War">Foreign involvement in the<br />
+Syrian Civil War</a></span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Turkish_involvement_in_the_Syrian_Civil_War" title="Turkish involvement in the Syrian Civil War">Turkish involvement</a>
+<ul>
+<li><a href="/wiki/Turkey%E2%80%93ISIL_conflict" title="Turkey–ISIL conflict">Turkey–ISIL conflict</a></li>
+<li><a href="/wiki/Tomb_of_Suleyman_Shah#Events_during_the_Syrian_Civil_War" title="Tomb of Suleyman Shah">Relocation of the Tomb of Suleyman Shah</a></li>
+<li><a href="/wiki/Turkish_military_intervention_in_the_Syrian_Civil_War" class="mw-redirect" title="Turkish military intervention in the Syrian Civil War">military intervention</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Russian_involvement_in_the_Syrian_Civil_War" title="Russian involvement in the Syrian Civil War">Russian involvement</a>
+<ul>
+<li><a href="/wiki/Russian_military_intervention_in_the_Syrian_Civil_War" class="mw-redirect" title="Russian military intervention in the Syrian Civil War">military intervention</a></li>
+<li><a href="/wiki/Russian%E2%80%93Syrian_hospital_bombing_campaign" title="Russian–Syrian hospital bombing campaign">medical facility targeting</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Iranian_involvement_in_the_Syrian_Civil_War" title="Iranian involvement in the Syrian Civil War">Iranian involvement</a></li>
+<li><a href="/wiki/Hezbollah_involvement_in_the_Syrian_Civil_War" title="Hezbollah involvement in the Syrian Civil War">Hezbollah involvement</a></li>
+<li><a href="/wiki/Iran-Israel_proxy_conflict" class="mw-redirect" title="Iran-Israel proxy conflict">Israeli airstrikes</a></li>
+<li><a href="/wiki/American-led_intervention_in_Syria" title="American-led intervention in Syria">U.S.-led Intervention</a>
+<ul>
+<li><a href="/wiki/Timeline_of_the_American-led_intervention_in_Syria" title="Timeline of the American-led intervention in Syria">Timeline of raids</a></li>
+<li><a href="/wiki/2014_American_rescue_mission_in_Syria" title="2014 American rescue mission in Syria">2014 rescue operation</a></li>
+<li><a href="/wiki/May_2015_U.S._special_forces_raid_in_Syria" title="May 2015 U.S. special forces raid in Syria">May 2015 raid</a></li>
+<li><a href="/wiki/2017_Shayrat_missile_strike" title="2017 Shayrat missile strike">April 2017 missile strikes on Shayrat Airbase</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Dutch_involvement_in_the_Syrian_Civil_War" title="Dutch involvement in the Syrian Civil War">Dutch involvement</a></li>
+<li><a href="/wiki/German_intervention_against_ISIL" title="German intervention against ISIL">German intervention</a></li>
+<li><a href="/wiki/Op%C3%A9ration_Chammal" title="Opération Chammal">French intervention</a></li>
+<li><a href="/wiki/Operation_Okra" title="Operation Okra">Australian intervention</a></li>
+<li><a href="/wiki/Operation_Shader" title="Operation Shader">UK intervention</a></li>
+<li><a href="/wiki/Jordanian_intervention_in_the_Syrian_Civil_War" title="Jordanian intervention in the Syrian Civil War">Jordanian intervention</a>
+<ul>
+<li><a href="/wiki/Operation_Martyr_Muath" title="Operation Martyr Muath">Operation Martyr Muath</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Qatari_support_to_Syrian_Opposition_in_the_Syrian_Civil_War" title="Qatari support to Syrian Opposition in the Syrian Civil War">Qatari support</a></li>
+<li><a href="/wiki/Saudi_Arabian_support_to_Syrian_Opposition_in_the_Syrian_Civil_War" title="Saudi Arabian support to Syrian Opposition in the Syrian Civil War">Saudi support</a></li>
+<li><a href="/wiki/Foreign_rebel_fighters_in_the_Syrian_Civil_War" class="mw-redirect" title="Foreign rebel fighters in the Syrian Civil War">Foreign rebel fighters</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p>On 15 April 2017, a <a href="/wiki/Car_bomb" title="Car bomb">car bomb</a> detonated near a convoy of buses in the al-Rashideen neighbourhood of western <a href="/wiki/Aleppo" title="Aleppo">Aleppo</a>, Syria.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The buses carried civilian evacuees from the <a href="/wiki/Siege_of_al-Fu%27ah_and_Kafriya" title="Siege of al-Fu'ah and Kafriya">besieged</a> government-controlled towns of <a href="/wiki/Al-Fu%27ah" title="Al-Fu'ah">al-Fu'ah</a> and <a href="/wiki/Kafriya" title="Kafriya">Kafriya</a> and were guarded by rebel fighters.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The bombing killed at least 126 people<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> including at least 80 children.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The bus evacuation was part of an <a href="/wiki/2015_Zabadani_cease-fire_agreement" title="2015 Zabadani cease-fire agreement">agreement</a> brokered by the <a href="/wiki/Syrian" class="mw-redirect" title="Syrian">Syrian</a> government, <a href="/wiki/Iran" title="Iran">Iran</a>, and Qatar, and implemented by the <a href="/wiki/Syrian_Arab_Red_Crescent" title="Syrian Arab Red Crescent">Syrian Arab Red Crescent</a>.<sup id="cite_ref-evac_6-0" class="reference"><a href="#cite_note-evac-6">[6]</a></sup> Under the terms of the evacuation deal, residents of the <a href="/wiki/Shia_Islam" title="Shia Islam">Shia</a> communities of <a href="/wiki/Al-Fu%27ah" title="Al-Fu'ah">al-Fu'ah</a> and <a href="/wiki/Kafriya" title="Kafriya">Kafriya</a>, which supported the Syrian government<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> and were surrounded by the <a href="/wiki/Army_of_Conquest" title="Army of Conquest">Army of Conquest</a>,<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (April 2017)">clarification needed</span></a></i>]</sup> would be transported to Aleppo.<sup id="cite_ref-evac_6-1" class="reference"><a href="#cite_note-evac-6">[6]</a></sup> In return, residents of <a href="/wiki/Madaya,_Syria" title="Madaya, Syria">Madaya</a> and <a href="/wiki/Al-Zabadani" title="Al-Zabadani">Al-Zabadani</a>, which are Sunni-majority and support the opposition, would be transported to the <a href="/wiki/Idlib_Governorate" title="Idlib Governorate">Idlib province</a>.<sup id="cite_ref-evac_6-2" class="reference"><a href="#cite_note-evac-6">[6]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Bombing"><span class="tocnumber">1</span> <span class="toctext">Bombing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Perpetrator"><span class="tocnumber">2</span> <span class="toctext">Perpetrator</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Reactions"><span class="tocnumber">3</span> <span class="toctext">Reactions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Criticism_of_Western_governments"><span class="tocnumber">3.1</span> <span class="toctext">Criticism of Western governments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Bombing">Bombing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=edit&amp;section=1" title="Edit section: Bombing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:224px;max-width:224px">
+<div class="tsingle" style="margin:1px;width:222px;max-width:222px">
+<div class="thumbimage"><a href="/wiki/File:Starvation_of_Al-Fu%27ah_and_Kafriya_people_by_tasnimnews.com16.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Starvation_of_Al-Fu%27ah_and_Kafriya_people_by_tasnimnews.com16.jpg/220px-Starvation_of_Al-Fu%27ah_and_Kafriya_people_by_tasnimnews.com16.jpg" width="220" height="157" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Starvation_of_Al-Fu%27ah_and_Kafriya_people_by_tasnimnews.com16.jpg/330px-Starvation_of_Al-Fu%27ah_and_Kafriya_people_by_tasnimnews.com16.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Starvation_of_Al-Fu%27ah_and_Kafriya_people_by_tasnimnews.com16.jpg/440px-Starvation_of_Al-Fu%27ah_and_Kafriya_people_by_tasnimnews.com16.jpg 2x" data-file-width="746" data-file-height="534" /></a></div>
+<div class="thumbcaption" style="clear:left">Children holding placards with inscriptions "We want bread and security", "<a href="/wiki/UNICEF" title="UNICEF">UNICEF</a> where is <a href="/wiki/Children%27s_rights" title="Children's rights">children's rights</a>?", "save al-Fu'ah and Kafriya from certain death"</div>
+</div>
+</div>
+</div>
+<p>The attack took place in the Rashideen district, in the western outskirts of the city of Aleppo, at about 15:30 local time.<sup id="cite_ref-bbc_8-0" class="reference"><a href="#cite_note-bbc-8">[8]</a></sup> According to journalists, the bomb was in a car that parked and began distributing food near the front of a convoy of buses that were stopped at a checkpoint to move injured refugees.<sup id="cite_ref-bbc_8-1" class="reference"><a href="#cite_note-bbc-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>Early reports indicated that a few dozen people had been killed,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> but the confirmed death toll rose to 126 by the following day, according to the <a href="/wiki/Syrian_Observatory_for_Human_Rights" title="Syrian Observatory for Human Rights">Syrian Observatory for Human Rights</a>.<sup id="cite_ref-bbc_8-2" class="reference"><a href="#cite_note-bbc-8">[8]</a></sup> The Observatory said that 109 of the dead were refugees, including 68 children, with the remainder rebel fighters and aid workers,<sup id="cite_ref-bbc_8-3" class="reference"><a href="#cite_note-bbc-8">[8]</a></sup> though a spokesman for the <a href="/wiki/Ahrar_al-Sham" title="Ahrar al-Sham">Ahrar al-Sham</a> rebel group said that about 30 of its members were killed.<sup id="cite_ref-stltoday_11-0" class="reference"><a href="#cite_note-stltoday-11">[11]</a></sup> According to the <a href="/wiki/White_Helmets_(Syrian_Civil_War)" title="White Helmets (Syrian Civil War)">White Helmets</a> civil defense group, 55 people were injured.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>The bombing led to the suspension of evacuations for several days; they resumed on 19 April with tight security at the Rashideen checkpoint.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Three days after the bombing, a <a href="/wiki/United_Nations" title="United Nations">United Nations</a> spokesperson said that the bombing was "likely a war crime" and a person of interest seen in footage prior to the bombing is being investigated.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="Perpetrator">Perpetrator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=edit&amp;section=2" title="Edit section: Perpetrator">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The perpetrator's identity is unknown. According to Syrian state television, the civilians of Fuaa and Kafriya supported the government during the rebel siege of the towns, and the rebels were responsible for the bombing.<sup id="cite_ref-Telegraph1_15-0" class="reference"><a href="#cite_note-Telegraph1-15">[15]</a></sup> Ahrar al-Sham denied responsibility,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> and members of the opposition suggested that the Assad government might have been behind the attack as a way of diverting attention from the <a href="/wiki/Khan_Shaykhun_chemical_attack" title="Khan Shaykhun chemical attack">Khan Shaykhun chemical attack</a>.<sup id="cite_ref-Telegraph1_15-1" class="reference"><a href="#cite_note-Telegraph1-15">[15]</a></sup> Rami Abdulrahman, the head of the <a href="/wiki/Syrian_Observatory_for_Human_Rights" title="Syrian Observatory for Human Rights">Syrian Observatory for Human Rights</a> (SOHR), stated in a televised interview that he believed the bombing was not done by the Syrian government.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="Reactions">Reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=edit&amp;section=3" title="Edit section: Reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Secretary-General_of_the_United_Nations" title="Secretary-General of the United Nations">Secretary-General of the United Nations</a> <a href="/wiki/Ant%C3%B3nio_Guterres" title="António Guterres">António Guterres</a> requested that all parties guarantee the security of those waiting to be evacuated.<sup id="cite_ref-theguardian_18-0" class="reference"><a href="#cite_note-theguardian-18">[18]</a></sup> <a href="/wiki/Pope_Francis" title="Pope Francis">Pope Francis</a> condemned the bombing during his Easter Sunday address, calling it a "vile attack on fleeing refugees".<sup id="cite_ref-bbc_8-4" class="reference"><a href="#cite_note-bbc-8">[8]</a></sup> Iranian Foreign Ministry spokesman Bahram Qassem called the attack "a shameful criminal act by <a href="/wiki/Takfiri" title="Takfiri">Takfiri</a> terrorists". He further argued that supporters of Syrian rebel groups who divide the rebels into "good and bad" only emboldens terrorists.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The Turkish Foreign Ministry said that the attack "has shown once again the necessity to strengthen the ceasefire agreement".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h3><span class="mw-headline" id="Criticism_of_Western_governments">Criticism of Western governments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=edit&amp;section=4" title="Edit section: Criticism of Western governments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Robert_Fisk" title="Robert Fisk">Robert Fisk</a>, writing for <a href="/wiki/The_Independent" title="The Independent"><i>the Independent</i></a>, criticized Western governments for a <a href="/wiki/Double_standard" title="Double standard">double standard</a> regarding the attack, contrasting their silence on the bombing with their reaction to the <a href="/wiki/Khan_Shaykhun_chemical_attack" title="Khan Shaykhun chemical attack">Khan Shaykhun chemical attack</a> earlier in the month; he said that "after this weekend's suicide bombing [...] the White House said nothing [...] because–and here's the point–they were the victims of the wrong kind of killer."<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> In an interview with the Iranian <a href="/wiki/Tasnim_News_Agency" title="Tasnim News Agency">Tasnim News Agency</a>, Syrian Ambassador to Tehran <a href="/wiki/Adnan_Hassan_Mahmoud" title="Adnan Hassan Mahmoud">Adnan Hassan Mahmoud</a> said the US and the West’s inaction to the bloody terrorist attack signifies "their fake concern for the security and lives of Syrian people."<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/2015_Zabadani_cease-fire_agreement" title="2015 Zabadani cease-fire agreement">2015 Zabadani cease-fire agreement</a> for the four-town evacuation agreement involving the buses</li>
+<li><a href="/wiki/List_of_bombings_during_the_Syrian_Civil_War" class="mw-redirect" title="List of bombings during the Syrian Civil War">List of bombings during the Syrian Civil War</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.al-monitor.com/pulse/afp/2017/04/syria-conflict-evacuation-bombings-toll.html">"Syria evacuees bomb attack death toll rises to 112: monitor"</a>. <i>AFP</i>. 16 April 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Syria+evacuees+bomb+attack+death+toll+rises+to+112%3A+monitor&amp;rft.date=2017-04-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.al-monitor.com%2Fpulse%2Fafp%2F2017%2F04%2Fsyria-conflict-evacuation-bombings-toll.html&amp;rft.jtitle=AFP&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cbc.ca/beta/news/world/evacuations-syria-bus-convoy-explosion-1.4071801">"Dozens killed after bomb explodes near Aleppo evacuation bus convoy"</a>. CBC News. 15 April 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.btitle=Dozens+killed+after+bomb+explodes+near+Aleppo+evacuation+bus+convoy&amp;rft.date=2017-04-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fbeta%2Fnews%2Fworld%2Fevacuations-syria-bus-convoy-explosion-1.4071801&amp;rft.pub=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-middle-east-39609288">"Syria war: Huge bomb kills dozens of evacuees in Syria"</a>. <i>BBC News</i>. 15 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">15 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Syria+war%3A+Huge+bomb+kills+dozens+of+evacuees+in+Syria&amp;rft.date=2017-04-15&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-middle-east-39609288&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.reuters.com/article/us-mideast-crisis-syria-idUSKBN17H04Y">"Death toll from Aleppo bus convoy bomb attack at least 126: Observatory"</a>. <i>Reuters</i>. 2017-04-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Death+toll+from+Aleppo+bus+convoy+bomb+attack+at+least+126%3A+Observatory&amp;rft.date=2017-04-16&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-mideast-crisis-syria-idUSKBN17H04Y&amp;rft.jtitle=Reuters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.abc.net.au/news/2017-04-17/syrian-bus-bombing-kills-at-least-80-children/8447104">"<span style="padding-left:0.2em;">'</span>A new horror': 80 children among those slaughtered in suicide attack on refugee convoy"</a>. <i>ABC News</i>. 2017-04-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=%27A+new+horror%27%3A+80+children+among+those+slaughtered+in+suicide+attack+on+refugee+convoy&amp;rft.date=2017-04-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.abc.net.au%2Fnews%2F2017-04-17%2Fsyrian-bus-bombing-kills-at-least-80-children%2F8447104&amp;rft.jtitle=ABC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-evac-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-evac_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-evac_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-evac_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2017/04/14/world/middleeast/syria-towns-sieges-population-transfers-assad.html">"More Than 7,000 People Evacuated From 4 Besieged Syrian Towns"</a>. The New York Times. 14 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.btitle=More+Than+7%2C000+People+Evacuated+From+4+Besieged+Syrian+Towns&amp;rft.date=2017-04-14&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2017%2F04%2F14%2Fworld%2Fmiddleeast%2Fsyria-towns-sieges-population-transfers-assad.html&amp;rft.pub=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">al-Kurdi, Anas. <a rel="nofollow" class="external text" href="https://www.alaraby.co.uk/english/politics/2015/4/16/syrian-regime-forces-lost-stomach-to-retake-idlib">"Syrian regime forces 'lost stomach to retake Idlib<span style="padding-right:0.2em;">'</span>"</a>. <i>alaraby.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Syrian+regime+forces+%27lost+stomach+to+retake+Idlib%27&amp;rft.aufirst=Anas&amp;rft.aulast=al-Kurdi&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.alaraby.co.uk%2Fenglish%2Fpolitics%2F2015%2F4%2F16%2Fsyrian-regime-forces-lost-stomach-to-retake-idlib&amp;rft.jtitle=alaraby.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bbc-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbc_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbc_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bbc_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bbc_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-bbc_8-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.com/news/world-middle-east-39613313">"Syria war: 'At least 68 children among 126 killed' in bus bombing"</a>. BBC News Online. 16 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.btitle=Syria+war%3A+%27At+least+68+children+among+126+killed%27+in+bus+bombing&amp;rft.date=2017-04-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-39613313&amp;rft.pub=BBC+News+Online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aljazeera.com/news/2017/04/explosion-hits-syrian-evacuation-convoy-aleppo-170415132111011.html">"Aleppo blast: Syrian evacuation convoy targeted"</a>. Al-Jazeera. 16 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.btitle=Aleppo+blast%3A+Syrian+evacuation+convoy+targeted&amp;rft.date=2017-04-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2017%2F04%2Fexplosion-hits-syrian-evacuation-convoy-aleppo-170415132111011.html&amp;rft.pub=Al-Jazeera&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2017/04/15/world/middleeast/syria-aleppo-car-bomb.html">"Dozens Killed as Blast Strikes Convoy Carrying Evacuated Syrians"</a>. The New York Times. 15 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.btitle=Dozens+Killed+as+Blast+Strikes+Convoy+Carrying+Evacuated+Syrians&amp;rft.date=2017-04-15&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2017%2F04%2F15%2Fworld%2Fmiddleeast%2Fsyria-aleppo-car-bomb.html&amp;rft.pub=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-stltoday-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-stltoday_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">El Deeb, Sarah; Issa, Philip. <a rel="nofollow" class="external text" href="http://www.stltoday.com/news/national/over-killed-during-syria-s-troubled-population-transfer/article_f390240e-ab8c-53f9-807c-8a203aa2bcb4.html">"Over 100 killed during Syria's troubled population transfer"</a>. <i>stltoday</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Over+100+killed+during+Syria%27s+troubled+population+transfer&amp;rft.aufirst=Sarah&amp;rft.au=Issa%2C+Philip&amp;rft.aulast=El+Deeb&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.stltoday.com%2Fnews%2Fnational%2Fover-killed-during-syria-s-troubled-population-transfer%2Farticle_f390240e-ab8c-53f9-807c-8a203aa2bcb4.html&amp;rft.jtitle=stltoday&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cnn.com/2017/04/15/middleeast/syria-evacuations-bombing/">"Syria: 126 killed as bomb hits buses with evacuees, group says"</a>. CNN. 16 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.btitle=Syria%3A+126+killed+as+bomb+hits+buses+with+evacuees%2C+group+says&amp;rft.date=2017-04-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2017%2F04%2F15%2Fmiddleeast%2Fsyria-evacuations-bombing%2F&amp;rft.pub=CNN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.com/news/world-middle-east-39640055">"Syria war: Evacuations resume after deadly bombing"</a>. BBC News Online. 19 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">19 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.btitle=Syria+war%3A+Evacuations+resume+after+deadly+bombing&amp;rft.date=2017-04-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-39640055&amp;rft.pub=BBC+News+Online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.un.org/apps/news/story.asp?NewsID=56575#.WPq9Y2clHIU">"Recent attack on evacuated civilians in Syria 'likely a war crime,' says UN rights office"</a>. <i>un.org</i>. 18 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Recent+attack+on+evacuated+civilians+in+Syria+%98likely+a+war+crime%2C%99+says+UN+rights+office&amp;rft.date=2017-04-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fapps%2Fnews%2Fstory.asp%3FNewsID%3D56575%23.WPq9Y2clHIU&amp;rft.jtitle=un.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Telegraph1-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Telegraph1_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Telegraph1_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Sanchez, Raf. <a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/news/2017/04/15/suicide-car-bomb-targeting-syrians-evacuated-rebel-held-area/">"Dozens killed as suicide bomber hits convoy of civilians evacuating besieged Syrian towns"</a>. <i>Telegraph</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Dozens+killed+as+suicide+bomber+hits+convoy+of+civilians+evacuating+besieged+Syrian+towns&amp;rft.aufirst=Raf&amp;rft.aulast=Sanchez&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2017%2F04%2F15%2Fsuicide-car-bomb-targeting-syrians-evacuated-rebel-held-area%2F&amp;rft.jtitle=Telegraph&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.france24.com/en/20170419-syria-evacuations-resume-deadly-car-bomb-rashidin-qatar">"Syria evacuations resume after weekend car bomb kills more than 100"</a>. France24. 19 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">19 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.btitle=Syria+evacuations+resume+after+weekend+car+bomb+kills+more+than+100&amp;rft.date=2017-04-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.france24.com%2Fen%2F20170419-syria-evacuations-resume-deadly-car-bomb-rashidin-qatar&amp;rft.pub=France24&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cnn.com/2017/04/15/middleeast/syria-evacuations-bombing/">"Syria: 126 killed as bomb hits buses with evacuees, group says"</a>. CNN. 16 April 2017. <q>Abdul Rahman said he doesn't believe the Syrian regime is behind the attack.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Syria%3A+126+killed+as+bomb+hits+buses+with+evacuees%2C+group+says&amp;rft.date=2017-04-16&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2017%2F04%2F15%2Fmiddleeast%2Fsyria-evacuations-bombing%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-theguardian-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-theguardian_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Graham-Harrison, Emma; Damien Gayle, Damien. <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2017/apr/15/syria-aleppo-bombing-evacuees-rebels-killed">"Deadly Aleppo suicide attack kills 100 in evacuation operation"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Deadly+Aleppo+suicide+attack+kills+100+in+evacuation+operation&amp;rft.au=Damien+Gayle%2C+Damien&amp;rft.aufirst=Emma&amp;rft.aulast=Graham-Harrison&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2017%2Fapr%2F15%2Fsyria-aleppo-bombing-evacuees-rebels-killed&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.presstv.ir/Detail/2017/04/15/518188/syria-aleppo-iran-slams-takfiri-bus">"PressTV-Iran slams deadly bus attack in Syria"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=PressTV-Iran+slams+deadly+bus+attack+in+Syria&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.presstv.ir%2FDetail%2F2017%2F04%2F15%2F518188%2Fsyria-aleppo-iran-slams-takfiri-bus&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.dailysabah.com/diplomacy/2017/04/17/turkey-condemns-deadly-attack-near-syrias-aleppo">"Turkey condemns deadly attack near Syria's Aleppo"</a>. Daily Sabah. 17 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Turkey+condemns+deadly+attack+near+Syria%27s+Aleppo&amp;rft.date=2017-04-17&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.dailysabah.com%2Fdiplomacy%2F2017%2F04%2F17%2Fturkey-condemns-deadly-attack-near-syrias-aleppo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.independent.co.uk/voices/syria-suicide-attack-refugee-buses-trump-only-cares-sunni-children-a7687066.html">"If Trump cares so much about Syrian babies, why is he not condemning the rebels who slaughtered children?"</a>. <i>The Independent</i>. 2017-04-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=If+Trump+cares+so+much+about+Syrian+babies%2C+why+is+he+not+condemning+the+rebels+who+slaughtered+children%3F&amp;rft.date=2017-04-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Fvoices%2Fsyria-suicide-attack-refugee-buses-trump-only-cares-sunni-children-a7687066.html&amp;rft.jtitle=The+Independent&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.tasnimnews.com/en/news/2017/04/17/1381427/aleppo-bus-convoy-attack-aimed-at-disrupting-reconciliation-process-syrian-envoy">"Tasnim News Agency - Aleppo Bus Convoy Attack Aimed at Disrupting Reconciliation Process: Syrian Envoy"</a>. <i>Tasnim News Agency</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Aleppo+suicide+car+bombing&amp;rft.atitle=Tasnim+News+Agency+-+Aleppo+Bus+Convoy+Attack+Aimed+at+Disrupting+Reconciliation+Process%3A+Syrian+Envoy&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.tasnimnews.com%2Fen%2Fnews%2F2017%2F04%2F17%2F1381427%2Faleppo-bus-convoy-attack-aimed-at-disrupting-reconciliation-process-syrian-envoy&amp;rft.jtitle=Tasnim+News+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Syrian_Civil_War" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Syrian_Civil_War" title="Template:Syrian Civil War"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Syrian_Civil_War" title="Template talk:Syrian Civil War"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Syrian_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Syrian_Civil_War" style="font-size:114%;margin:0 4em"><a href="/wiki/Syrian_Civil_War" title="Syrian Civil War">Syrian Civil War</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="padding:0 0 0.5em;">
+<div>Part of the <a href="/wiki/Arab_Spring" title="Arab Spring">Arab Spring</a><br />
+<span class="flagicon"><a href="/wiki/Syria" title="Syria"><img alt="Syria" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/35px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/45px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <span class="flagicon"><a href="/wiki/Syrian_opposition" title="Syrian opposition"><img alt="Syrian opposition" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Syria_2011%2C_observed.svg/23px-Flag_of_Syria_2011%2C_observed.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Syria_2011%2C_observed.svg/35px-Flag_of_Syria_2011%2C_observed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Syria_2011%2C_observed.svg/45px-Flag_of_Syria_2011%2C_observed.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <span class="flagicon"><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant" title="Islamic State of Iraq and the Levant"><img alt="Islamic State of Iraq and the Levant" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/AQMI_Flag_asymmetric.svg/20px-AQMI_Flag_asymmetric.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/AQMI_Flag_asymmetric.svg/31px-AQMI_Flag_asymmetric.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/AQMI_Flag_asymmetric.svg/40px-AQMI_Flag_asymmetric.svg.png 2x" data-file-width="800" data-file-height="600" /></a></span> <span class="flagicon"><a href="/wiki/Rojava" title="Rojava"><img alt="Rojava" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Syrian_Kurdistan.svg/21px-Flag_of_Syrian_Kurdistan.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Syrian_Kurdistan.svg/32px-Flag_of_Syrian_Kurdistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Syrian_Kurdistan.svg/42px-Flag_of_Syrian_Kurdistan.svg.png 2x" data-file-width="640" data-file-height="456" /></a></span></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="BackgroundTimeline" style="font-size:114%;margin:0 4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Syrian_Civil_War#2Background" title="Syrian Civil War">Background</a></li>
+<li><a href="/wiki/Timeline_of_the_Syrian_Civil_War" title="Timeline of the Syrian Civil War">Timeline</a></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em"><a href="/wiki/Syrian_Civil_War#Background" title="Syrian Civil War">Background</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1963_Syrian_coup_d%27%C3%A9tat" title="1963 Syrian coup d'état">1963 <i>coup d'état</i></a></li>
+<li><a href="/wiki/1966_Syrian_coup_d%27%C3%A9tat" title="1966 Syrian coup d'état">1966 <i>coup d'état</i></a></li>
+<li><a href="/wiki/Corrective_Movement_(Syria)" title="Corrective Movement (Syria)">1970 "Corrective Revolution"</a></li>
+<li><a href="/wiki/Islamist_uprising_in_Syria" title="Islamist uprising in Syria">1979–82 Islamic uprising</a></li>
+<li><a href="/wiki/1999_Latakia_protests" title="1999 Latakia protests">1999 Latakia protests</a></li>
+<li><a href="/wiki/Damascus_Spring" title="Damascus Spring">2000–01 Damascus Spring</a></li>
+<li><a href="/wiki/2004_Qamishli_riots" title="2004 Qamishli riots">2004 Qamishli riots</a></li>
+<li><a href="/wiki/Syrian_occupation_of_Lebanon" title="Syrian occupation of Lebanon">Syrian occupation of Lebanon</a></li>
+<li><a href="/wiki/Damascus_Declaration" title="Damascus Declaration">2005 Damascus Declaration</a></li>
+<li><a href="/wiki/Human_rights_in_Syria" title="Human rights in Syria">Human rights in Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em">2011<br />
+<small>(<a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2011)" title="Timeline of the Syrian Civil War (January–April 2011)">Jan–Apr</a> • <a href="/wiki/Timeline_of_the_Syrian_Civil_War_(May%E2%80%93August_2011)" title="Timeline of the Syrian Civil War (May–August 2011)">May–Aug</a> • <a href="/wiki/Timeline_of_the_Syrian_Civil_War_(September%E2%80%93December_2011)" title="Timeline of the Syrian Civil War (September–December 2011)">Sep–Dec</a>)</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Death_of_Hamza_Ali_Al-Khateeb" title="Death of Hamza Ali Al-Khateeb">Death of Hamza Ali Al-Khateeb</a></li>
+<li><a href="/wiki/Siege_of_Daraa" title="Siege of Daraa">Siege of Daraa</a></li>
+<li><a href="/wiki/Siege_of_Baniyas" title="Siege of Baniyas">Siege of Baniyas</a></li>
+<li><a href="/wiki/May_2011_Talkalakh_siege" title="May 2011 Talkalakh siege">Talkalakh siege</a></li>
+<li><a href="/wiki/Siege_of_Rastan_and_Talbiseh" title="Siege of Rastan and Talbiseh">Siege of Rastan and Talbiseh</a></li>
+<li><a href="/wiki/June_2011_Jisr_ash-Shugur_operation" title="June 2011 Jisr ash-Shugur operation">Jisr ash-Shugur operation</a></li>
+<li><a href="/wiki/Siege_of_Hama_(2011)" title="Siege of Hama (2011)">Siege of Hama</a></li>
+<li><a href="/wiki/Siege_of_Homs" title="Siege of Homs">Siege of Homs</a></li>
+<li><a href="/wiki/Summer_2011_Jabal_al-Zawiya_operation" title="Summer 2011 Jabal al-Zawiya operation">Jabal al-Zawiya operation</a></li>
+<li><a href="/wiki/Siege_of_Latakia" title="Siege of Latakia">Siege of Latakia</a></li>
+<li><a href="/wiki/Deir_ez-Zor_clashes_(2011%E2%80%9314)" title="Deir ez-Zor clashes (2011–14)">Deir ez-Zor Clashes</a></li>
+<li><a href="/wiki/Rif_Dimashq_clashes_(November_2011%E2%80%93March_2012)" title="Rif Dimashq clashes (November 2011–March 2012)">Rif Dimashq clashes</a>
+<ul>
+<li><small><a href="/wiki/Battle_of_Zabadani" class="mw-redirect" title="Battle of Zabadani">Battle of Zabadani</a></small></li>
+<li><small><a href="/wiki/Battle_of_Douma" title="Battle of Douma">Battle of Douma</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Daraa_Governorate_clashes_(2011%E2%80%932013)" class="mw-redirect" title="Daraa Governorate clashes (2011–2013)">Daraa Governorate clashes</a></li>
+<li><a href="/wiki/Battle_of_Rastan_(2011)" title="Battle of Rastan (2011)">First Battle of Rastan</a></li>
+<li><a href="/wiki/Shayrat_and_Tiyas_airbase_ambush" title="Shayrat and Tiyas airbase ambush">Shayrat and Tiyas airbase ambush</a></li>
+<li><a href="/wiki/Idlib_Governorate_clashes_(September_2011%E2%80%93March_2012)" title="Idlib Governorate clashes (September 2011–March 2012)">Idlib Governorate clashes</a></li>
+<li><a href="/wiki/December_2011_Jabal_al-Zawiya_massacres" title="December 2011 Jabal al-Zawiya massacres">Jabal al-Zawiya massacres</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em">2012<br />
+<small>(<a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2012)" title="Timeline of the Syrian Civil War (January–April 2012)">Jan–Apr</a> • <a href="/wiki/Timeline_of_the_Syrian_Civil_War_(May%E2%80%93August_2012)" title="Timeline of the Syrian Civil War (May–August 2012)">May–Aug</a> • <a href="/wiki/Timeline_of_the_Syrian_Civil_War_(September%E2%80%93December_2012)" title="Timeline of the Syrian Civil War (September–December 2012)">Sep–Dec</a>)</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/January_2012_al-Midan_bombing" title="January 2012 al-Midan bombing">al-Midan bombing</a></li>
+<li><a href="/wiki/Battle_of_Rastan_(2012)" title="Battle of Rastan (2012)">Second Battle of Rastan</a></li>
+<li><a href="/wiki/February_2012_Idlib_Operation" class="mw-redirect" title="February 2012 Idlib Operation">First Idlib operation</a></li>
+<li><a href="/wiki/First_Battle_of_Idlib" title="First Battle of Idlib">First Battle of Idlib</a></li>
+<li><a href="/wiki/Battle_of_al-Qusayr_(2012)" title="Battle of al-Qusayr (2012)">First Battle of al-Qusayr</a></li>
+<li><a href="/wiki/April_2012_Idlib_Governorate_Operation" title="April 2012 Idlib Governorate Operation">Second Idlib operation</a>
+<ul>
+<li><small><a href="/wiki/Battle_of_Taftanaz" title="Battle of Taftanaz">Battle of Taftanaz</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/May_2012_battle_of_Rastan" title="May 2012 battle of Rastan">Third Battle of Rastan</a></li>
+<li><a href="/wiki/Houla_massacre" title="Houla massacre">Houla massacre</a></li>
+<li><a href="/wiki/Battle_of_al-Haffah" title="Battle of al-Haffah">Battle of al-Haffah</a></li>
+<li><a href="/wiki/Al-Qubeir_massacre" title="Al-Qubeir massacre">Al-Qubeir massacre</a></li>
+<li><a href="/wiki/Battle_of_Tremseh" title="Battle of Tremseh">Battle of Tremseh</a></li>
+<li><a href="/wiki/Battle_of_Damascus_(2012)" title="Battle of Damascus (2012)">Battle of Damascus</a>
+<ul>
+<li><small><a href="/wiki/18_July_2012_Damascus_bombing" title="18 July 2012 Damascus bombing">Damascus bombing</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Battle_of_Aleppo_(2012%E2%80%93present)" class="mw-redirect" title="Battle of Aleppo (2012–present)">Battle of Aleppo</a>
+<ul>
+<li><small><a href="/wiki/Battle_of_Anadan" title="Battle of Anadan">Battle of Anadan</a></small></li>
+<li><small><a href="/wiki/Siege_of_Base_46" title="Siege of Base 46">Siege of Base 46</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(August%E2%80%93October_2012)" title="Rif Dimashq offensive (August–October 2012)">First Rif Dimashq offensive</a>
+<ul>
+<li><small><a href="/wiki/Darayya_massacre" title="Darayya massacre">Darayya massacre</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Battle_of_Khirbet_al-Joz" class="mw-redirect" title="Battle of Khirbet al-Joz">Battle of Khirbet al-Joz</a></li>
+<li><a href="/wiki/Battle_of_Maarrat_al-Nu%27man" title="Battle of Maarrat al-Nu'man">Battle of Maarrat al-Nu'man</a></li>
+<li><a href="/wiki/First_Siege_of_Wadi_Deif" title="First Siege of Wadi Deif">First Siege of Wadi Deif</a></li>
+<li><a href="/wiki/Battle_of_Harem" title="Battle of Harem">Battle of Harem</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(November_2012%E2%80%93February_2013)" title="Rif Dimashq offensive (November 2012–February 2013)">Second Rif Dimashq offensive</a>
+<ul>
+<li><small><a href="/wiki/Battle_of_Darayya_(2012%E2%80%93present)" class="mw-redirect" title="Battle of Darayya (2012–present)">Battle of Darayya</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Aqrab_massacre" title="Aqrab massacre">Aqrab massacre</a></li>
+<li><a href="/wiki/2012_Hama_offensive" title="2012 Hama offensive">First Hama offensive</a>
+<ul>
+<li><small><a href="/wiki/Halfaya_massacre" class="mw-redirect" title="Halfaya massacre">Halfaya massacre</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Battle_of_Darayya_(2012%E2%80%93present)" class="mw-redirect" title="Battle of Darayya (2012–present)">Battle of Darayya</a></li>
+<li><a href="/wiki/Quneitra_Governorate_clashes_(2012%E2%80%93present)" class="mw-redirect" title="Quneitra Governorate clashes (2012–present)">Quneitra Governorate clashes</a></li>
+<li><a href="/wiki/Talbiseh_bakery_massacre" title="Talbiseh bakery massacre">Talbiseh bakery massacre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em">2013<br />
+<small>(<a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2013)" title="Timeline of the Syrian Civil War (January–April 2013)">Jan–Apr</a> • <a href="/wiki/Timeline_of_the_Syrian_Civil_War_(May%E2%80%93December_2013)" title="Timeline of the Syrian Civil War (May–December 2013)">May–Dec</a>)</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_Safira" title="Battle of Safira">Battle of Safira</a></li>
+<li><a href="/wiki/Battle_of_Shadadeh" title="Battle of Shadadeh">Battle of Shadadeh</a></li>
+<li><a href="/wiki/Damascus_offensive_(2013)" title="Damascus offensive (2013)">Damascus offensive</a></li>
+<li><a href="/wiki/Raqqa_campaign_(2012%E2%80%9313)" title="Raqqa campaign (2012–13)">Raqqa campaign (2012–13)</a> (<a href="/wiki/Battle_of_Raqqa" class="mw-redirect" title="Battle of Raqqa">Battle of Raqqa</a>)</li>
+<li><a href="/wiki/2013_Daraa_offensive" title="2013 Daraa offensive">Daraa offensive</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(March%E2%80%93August_2013)" title="Rif Dimashq offensive (March–August 2013)">Third Rif Dimashq offensive</a>
+<ul>
+<li><small><a href="/wiki/Battle_of_Jdaidet_al-Fadl" title="Battle of Jdaidet al-Fadl">Battle of Jdaidet al-Fadl</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Ghouta_chemical_attack" title="Ghouta chemical attack">Ghouta chemical attack</a></li>
+<li><a href="/wiki/Al-Qusayr_offensive" title="Al-Qusayr offensive">Al-Qusayr offensive</a>
+<ul>
+<li><small><a href="/wiki/Battle_of_al-Qusayr_(2013)" title="Battle of al-Qusayr (2013)">Second Battle of al-Qusayr</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Bayda_and_Baniyas_massacres" title="Bayda and Baniyas massacres">Bayda and Baniyas massacres</a></li>
+<li><a href="/wiki/2013_Hama_offensive" title="2013 Hama offensive">Second Hama offensive</a></li>
+<li><a href="/wiki/Hatla_massacre" title="Hatla massacre">Hatla massacre</a></li>
+<li><a href="/wiki/Khan_al-Assal_chemical_attack" title="Khan al-Assal chemical attack">Khan al-Assal chemical attack</a></li>
+<li><a href="/wiki/Khan_al-Assal_massacre" title="Khan al-Assal massacre">Khan al-Assal massacre</a></li>
+<li><a href="/wiki/Adra_massacre" title="Adra massacre">Adra massacre</a></li>
+<li><a href="/wiki/Battle_of_Ras_al-Ayn" title="Battle of Ras al-Ayn">Battle of Ras al-Ayn</a></li>
+<li><a href="/wiki/Battle_of_Tell_Abyad_(2013)" title="Battle of Tell Abyad (2013)">Battle of Tell Abyad</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(September%E2%80%93November_2013)" title="Rif Dimashq offensive (September–November 2013)">Fourth Rif Dimashq offensive</a></li>
+<li><a href="/wiki/Aleppo_offensive_(October%E2%80%93December_2013)" title="Aleppo offensive (October–December 2013)">Aleppo offensive</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em">2014<br />
+<small>(<a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93July_2014)" title="Timeline of the Syrian Civil War (January–July 2014)">Jan–Jul</a> • <a href="/wiki/Timeline_of_the_Syrian_Civil_War_(August%E2%80%93December_2014)" title="Timeline of the Syrian Civil War (August–December 2014)">Aug–Dec</a>)</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Inter-rebel_conflict_during_the_Syrian_Civil_War" title="Inter-rebel conflict during the Syrian Civil War">First Inter-Rebel Conflict</a>
+<ul>
+<li><small><a href="/wiki/Battle_of_Markada" title="Battle of Markada">Battle of Markada</a></small></li>
+<li><small><a href="/wiki/2014_Deir_ez-Zor_offensive" class="mw-redirect" title="2014 Deir ez-Zor offensive">First Deir ez-Zor Offensive</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Battle_of_Mork" class="mw-redirect" title="Battle of Mork">Battle of Mork</a></li>
+<li><a href="/wiki/Daraa_offensive_(February%E2%80%93May_2014)" title="Daraa offensive (February–May 2014)">2nd Daraa Offensive</a></li>
+<li><a href="/wiki/Maan_massacre" title="Maan massacre">Maan massacre</a></li>
+<li><a href="/wiki/Al-Otaiba_ambush" title="Al-Otaiba ambush">Al-Otaiba ambush</a></li>
+<li><a href="/wiki/2014_Idlib_offensive" title="2014 Idlib offensive">4th Idlib Offensive</a></li>
+<li><a href="/wiki/Battle_of_Hosn" title="Battle of Hosn">Battle of Hosn</a></li>
+<li><a href="/wiki/2014_Latakia_offensive" title="2014 Latakia offensive">2nd Latakia Offensive</a></li>
+<li><a href="/wiki/Battle_of_Al-Malihah" title="Battle of Al-Malihah">Battle of Al-Malihah</a></li>
+<li><a href="/wiki/2014_Kafr_Zita_chemical_attack" title="2014 Kafr Zita chemical attack">Kafr Zita chemical attack</a></li>
+<li><a href="/wiki/Second_Siege_of_Wadi_Deif" title="Second Siege of Wadi Deif">Second Siege of Wadi Deif</a></li>
+<li><a href="/wiki/Qalamoun_offensive_(June%E2%80%93August_2014)" title="Qalamoun offensive (June–August 2014)">2nd Qalamoun Offensive</a>
+<ul>
+<li><small><a href="/wiki/Battle_of_Arsal" class="mw-redirect" title="Battle of Arsal">Battle of Arsal</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/First_Battle_of_the_Shaer_gas_field" title="First Battle of the Shaer gas field">First Battle of the Shaer gas field</a></li>
+<li><a href="/wiki/2014_Eastern_Syria_offensive" title="2014 Eastern Syria offensive">Eastern Syria Offensive</a>
+<ul>
+<li><small><a href="/wiki/Battle_for_Tabqa_Air_base" class="mw-redirect" title="Battle for Tabqa Air base">Battle for Tabqa Air base</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/2014_Hama_offensive" title="2014 Hama offensive">3rd Hama Offensive</a></li>
+<li><a href="/wiki/2014_Quneitra_offensive" title="2014 Quneitra offensive">Quneitra Offensive</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(August%E2%80%93November_2014)" title="Rif Dimashq offensive (August–November 2014)">6th Rif Dimashq offensive</a></li>
+<li><a href="/wiki/Siege_of_Koban%C3%AE" title="Siege of Kobanî">Siege of Kobanî</a></li>
+<li><a href="/wiki/Daraa_offensive_(October_2014)" title="Daraa offensive (October 2014)">3rd Daraa offensive</a></li>
+<li><a href="/wiki/2014_Al-Safira_offensive" title="2014 Al-Safira offensive">2nd Al-Safira offensive</a></li>
+<li><a href="/wiki/2014_Idlib_city_raid" title="2014 Idlib city raid">Idlib Raid</a></li>
+<li><a href="/wiki/Al-Nusra_Front%E2%80%93SRF/Hazzm_Movement_conflict" title="Al-Nusra Front–SRF/Hazzm Movement conflict">Second Inter-Rebel Conflict</a></li>
+<li><a href="/wiki/Second_Battle_of_the_Shaer_gas_field" title="Second Battle of the Shaer gas field">Second Battle of the Shaer gas field</a></li>
+<li><a href="/wiki/Battle_of_Al-Shaykh_Maskin" class="mw-redirect" title="Battle of Al-Shaykh Maskin">Battle of Al-Shaykh Maskin</a></li>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(December_2014)" title="Deir ez-Zor offensive (December 2014)">2nd Deir ez-Zor offensive</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em">2015<br />
+<small>(<a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93July_2015)" title="Timeline of the Syrian Civil War (January–July 2015)">Jan–Jul</a> • <a href="/wiki/Timeline_of_the_Syrian_Civil_War_(August%E2%80%93December_2015)" title="Timeline of the Syrian Civil War (August–December 2015)">Aug–Dec</a>)</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2015_Syrian_Air_Force_An-26_crash" title="2015 Syrian Air Force An-26 crash">An-26 crash</a></li>
+<li><a href="/wiki/Daraa_offensive_(January_2015)" title="Daraa offensive (January 2015)">4th Daraa Offensive</a></li>
+<li><a href="/wiki/2015_Southern_Syria_offensive" title="2015 Southern Syria offensive">Southern Syria Offensive</a></li>
+<li><a href="/wiki/Eastern_al-Hasakah_offensive" title="Eastern al-Hasakah offensive">Eastern al-Hasakah offensive</a></li>
+<li><a href="/wiki/Battle_of_Sarrin_(March%E2%80%93April_2015)" title="Battle of Sarrin (March–April 2015)">1st Battle of Sarrin</a></li>
+<li><a href="/wiki/Battle_of_Sarrin_(June%E2%80%93July_2015)" title="Battle of Sarrin (June–July 2015)">2nd Battle of Sarrin</a></li>
+<li><a href="/wiki/Battle_of_Bosra_(2015)" title="Battle of Bosra (2015)">Battle of Bosra</a></li>
+<li><a href="/wiki/2015_Idlib_offensive" title="2015 Idlib offensive">5th Idlib Offensive</a></li>
+<li><a href="/wiki/Second_Battle_of_Idlib" title="Second Battle of Idlib">Second Battle of Idlib</a></li>
+<li><a href="/wiki/Battle_of_Nasib_Border_Crossing" title="Battle of Nasib Border Crossing">Battle of Nasib Border Crossing</a></li>
+<li><a href="/wiki/Battle_of_Yarmouk_Camp_(2015)" title="Battle of Yarmouk Camp (2015)">2nd Battle of Yarmouk Camp</a></li>
+<li><a href="/wiki/Western_al-Hasakah_offensive" title="Western al-Hasakah offensive">Western al-Hasakah offensive</a></li>
+<li><a href="/wiki/Palmyra_offensive_(May_2015)" title="Palmyra offensive (May 2015)">Palmyra offensive (May 2015)</a></li>
+<li><a href="/wiki/Tell_Abyad_offensive" title="Tell Abyad offensive">Tell Abyad offensive</a></li>
+<li><a href="/wiki/Koban%C3%AE_massacre" title="Kobanî massacre">Kobanî massacre</a></li>
+<li><a href="/wiki/Quneitra_offensive_(June_2015)" title="Quneitra offensive (June 2015)">Quneitra offensive</a></li>
+<li><a href="/wiki/Palmyra_offensive_(July%E2%80%93August_2015)" title="Palmyra offensive (July–August 2015)">Palmyra offensive (July–August 2015)</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(September_2015)" title="Rif Dimashq offensive (September 2015)">7th Rif Dimashq offensive</a></li>
+<li><a href="/wiki/Northwestern_Syria_offensive_(October_2015)" class="mw-redirect" title="Northwestern Syria offensive (October 2015)">Northwestern Syria offensive</a></li>
+<li><a href="/wiki/Aleppo_offensive_(October%E2%80%93December_2015)" title="Aleppo offensive (October–December 2015)">2015 Aleppo offensive</a></li>
+<li><a href="/wiki/2015_Al-Hawl_offensive" title="2015 Al-Hawl offensive">2015 Al-Hawl offensive</a></li>
+<li><a href="/wiki/Homs_offensive_(November%E2%80%93December_2015)" title="Homs offensive (November–December 2015)">Homs offensive (November–December 2015)</a></li>
+<li><a href="/wiki/East_Aleppo_offensive_(2015%E2%80%9316)" title="East Aleppo offensive (2015–16)">East Aleppo offensive (2015–16)</a></li>
+<li><a href="/wiki/Latakia_offensive_(2015%E2%80%932016)" class="mw-redirect" title="Latakia offensive (2015–2016)">Latakia offensive (2015–2016)</a></li>
+<li><a href="/wiki/Tishrin_Dam_offensive" title="Tishrin Dam offensive">Tishrin Dam offensive</a></li>
+<li><a href="/wiki/2015_Russian_Sukhoi_Su-24_shootdown" title="2015 Russian Sukhoi Su-24 shootdown">2015 Russian Sukhoi Su-24 shootdown</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em">2016<br />
+<small>(<a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2016)" title="Timeline of the Syrian Civil War (January–April 2016)">Jan–Apr</a> • <a href="/wiki/Timeline_of_the_Syrian_Civil_War_(May%E2%80%93August_2016)" title="Timeline of the Syrian Civil War (May–August 2016)">May–Aug</a> • <a href="/wiki/Timeline_of_the_Syrian_Civil_War_(September%E2%80%93December_2016)" title="Timeline of the Syrian Civil War (September–December 2016)">Sep–Dec</a>)</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Second_Battle_of_Al-Shaykh_Maskin" title="Second Battle of Al-Shaykh Maskin">Second Battle of Al-Shaykh Maskin</a></li>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(January_2016)" title="Deir ez-Zor offensive (January 2016)">3rd Deir ez-Zor offensive</a></li>
+<li><a href="/wiki/January_2016_Sayyidah_Zaynab_attack" title="January 2016 Sayyidah Zaynab attack">Sayyidah Zaynab bombings</a></li>
+<li><a href="/wiki/Wusta_clashes" class="mw-redirect" title="Wusta clashes">Wusta clashes</a></li>
+<li><a href="/wiki/Northern_Aleppo_offensive_(February_2016)" title="Northern Aleppo offensive (February 2016)">Northern Aleppo offensive (February 2016)</a></li>
+<li><a href="/wiki/Ithriyah-Raqqa_offensive_(February%E2%80%93March_2016)" title="Ithriyah-Raqqa offensive (February–March 2016)">Ithriyah-Raqqa offensive (February–March 2016)</a></li>
+<li><a href="/wiki/Al-Shaddadi_offensive_(2016)" title="Al-Shaddadi offensive (2016)">Al-Shaddadi offensive (2016)</a></li>
+<li><a href="/wiki/February_2016_Homs_bombings" title="February 2016 Homs bombings">February Homs bombings</a></li>
+<li><a href="/wiki/February_2016_Sayyidah_Zaynab_bombings" title="February 2016 Sayyidah Zaynab bombings">February Sayyidah Zaynab bombings</a></li>
+<li><a href="/wiki/2016_Khanasir_offensive" title="2016 Khanasir offensive">2016 Khanasir offensive</a></li>
+<li><a href="/wiki/Battle_of_Tel_Abyad" class="mw-redirect" title="Battle of Tel Abyad">Battle of Tel Abyad</a></li>
+<li><a href="/wiki/Qamishli_clashes_(April_2016)" class="mw-redirect" title="Qamishli clashes (April 2016)">Qamishli clashes (April 2016)</a></li>
+<li><a href="/wiki/Northern_Aleppo_offensive_(March%E2%80%93June_2016)" title="Northern Aleppo offensive (March–June 2016)">Northern Aleppo offensive (March–June 2016)</a></li>
+<li><a href="/wiki/Palmyra_offensive_(March_2016)" title="Palmyra offensive (March 2016)">Palmyra offensive (March 2016)</a></li>
+<li><a href="/wiki/East_Ghouta_inter-rebel_conflict_(April%E2%80%93May_2016)" title="East Ghouta inter-rebel conflict (April–May 2016)">East Ghouta inter-rebel conflict (April–May 2016)</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(April%E2%80%93May_2016)" title="Rif Dimashq offensive (April–May 2016)">8th Rif Dimashq offensive</a></li>
+<li><a href="/wiki/Northern_Raqqa_offensive_(May_2016)" title="Northern Raqqa offensive (May 2016)">Northern Raqqa offensive (May 2016)</a></li>
+<li><a href="/wiki/May_2016_Jableh_and_Tartous_bombings" title="May 2016 Jableh and Tartous bombings">May 2016 Jableh and Tartous bombings</a></li>
+<li><a href="/wiki/Ithriyah-Raqqa_offensive_(June_2016)" title="Ithriyah-Raqqa offensive (June 2016)">Ithriyah-Raqqa offensive (June 2016)</a></li>
+<li><a href="/wiki/Rif_Dimashq_offensive_(June%E2%80%93July_2016)" class="mw-redirect" title="Rif Dimashq offensive (June–July 2016)">9th Rif Dimashq offensive</a></li>
+<li><a href="/wiki/Manbij_offensive_(2016)" class="mw-redirect" title="Manbij offensive (2016)">Manbij offensive (2016)</a>
+<ul>
+<li><small><a href="/wiki/Tokhar_massacre_(2016)" class="mw-redirect" title="Tokhar massacre (2016)">Tokhar</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/2016_Southern_Aleppo_campaign" title="2016 Southern Aleppo campaign">2016 Southern Aleppo campaign</a></li>
+<li><a href="/wiki/Battle_of_al-Rai_(August_2016)" title="Battle of al-Rai (August 2016)">Battle of al-Rai (August 2016)</a></li>
+<li><a href="/wiki/2016_Aleppo_campaign" class="mw-redirect" title="2016 Aleppo campaign">2016 Aleppo campaign</a></li>
+<li><a href="/wiki/Jarabulus_offensive_(2016)" class="mw-redirect" title="Jarabulus offensive (2016)">Jarabulus offensive (2016)</a></li>
+<li><a href="/wiki/Western_al-Bab_offensive_(2016)" class="mw-redirect" title="Western al-Bab offensive (2016)">Western al-Bab offensive (2016)</a></li>
+<li><a href="/wiki/5_September_2016_Syria_bombings" title="5 September 2016 Syria bombings">5 September 2016 Syria bombings</a></li>
+<li><a href="/wiki/September_2016_Deir_ez-Zor_air_raid" title="September 2016 Deir ez-Zor air raid">September 2016 Deir ez-Zor air raid</a></li>
+<li><a href="/wiki/September_2016_Urum_al-Kubra_Aid_Convoy_Attack" class="mw-redirect" title="September 2016 Urum al-Kubra Aid Convoy Attack">September 2016 Urum al-Kubra Aid Convoy Attack</a></li>
+<li><a href="/wiki/Aleppo_offensive_(September_2016)" class="mw-redirect" title="Aleppo offensive (September 2016)">September Aleppo offensive</a></li>
+<li><a href="/wiki/2016_Dabiq_offensive" title="2016 Dabiq offensive">2016 Dabiq offensive</a></li>
+<li><a href="/wiki/Western_al-Bab_offensive_(October_2016)" class="mw-redirect" title="Western al-Bab offensive (October 2016)">Western al-Bab offensive (October 2016)</a></li>
+<li><a href="/wiki/Aleppo_offensive_(October_2016)" class="mw-redirect" title="Aleppo offensive (October 2016)">Aleppo offensive (October 2016)</a></li>
+<li><a href="/wiki/Khan_al-Shih_offensive_(October_2016)" class="mw-redirect" title="Khan al-Shih offensive (October 2016)">Khan al-Shih offensive (October 2016)</a></li>
+<li><a href="/wiki/Raqqa_offensive_(2016%E2%80%93present)" class="mw-redirect" title="Raqqa offensive (2016–present)">Raqqa offensive (2016–present)</a></li>
+<li><a href="/wiki/Northern_al-Bab_offensive_(November_2016)" class="mw-redirect" title="Northern al-Bab offensive (November 2016)">Northern al-Bab offensive (November 2016)</a></li>
+<li><a href="/wiki/Battle_of_al-Bab_(2016)" class="mw-redirect" title="Battle of al-Bab (2016)">Battle of al-Bab (2016)</a></li>
+<li><a href="/wiki/Aleppo_offensive_(November_2016)" class="mw-redirect" title="Aleppo offensive (November 2016)">Aleppo offensive (November 2016)</a></li>
+<li><a href="/wiki/Palmyra_offensive_(December_2016)" title="Palmyra offensive (December 2016)">Palmyra offensive (December 2016)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em">2017<br />
+<small>(<a href="/wiki/Timeline_of_the_Syrian_Civil_War_(January%E2%80%93April_2017)" title="Timeline of the Syrian Civil War (January–April 2017)">Jan–Apr</a> · )</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Siege_of_Wadi_Barada" title="Siege of Wadi Barada">Siege of Wadi Barada</a></li>
+<li><a href="/wiki/January_2017_Azaz_bombing" title="January 2017 Azaz bombing">January 2017 Azaz bombing</a></li>
+<li><a href="/wiki/2017_southern_Syrian_Desert_campaign" title="2017 southern Syrian Desert campaign">2017 southern Syrian Desert campaign</a></li>
+<li><a href="/wiki/Idlib_Governorate_clashes_(2017)" title="Idlib Governorate clashes (2017)">Idlib Governorate clashes (2017)</a></li>
+<li><a href="/wiki/Deir_ez-Zor_offensive_(January%E2%80%93February_2017)" title="Deir ez-Zor offensive (January–February 2017)">Deir ez-Zor offensive (January–February 2017)</a></li>
+<li><a href="/wiki/Daraa_offensive_(February%E2%80%93March_2017)" class="mw-redirect" title="Daraa offensive (February–March 2017)">Daraa offensive (February–March 2017)</a></li>
+<li><a href="/wiki/ISIL_Daraa_offensive_(February_2017)" title="ISIL Daraa offensive (February 2017)">ISIL Daraa offensive (February 2017)</a></li>
+<li><a href="/wiki/Qaboun_offensive_(February%E2%80%93April_2017)" title="Qaboun offensive (February–April 2017)">Qaboun offensive (February–April 2017)</a></li>
+<li><a href="/wiki/Palmyra_offensive_(2017)" title="Palmyra offensive (2017)">Palmyra offensive (2017)</a></li>
+<li><a href="/wiki/East_Aleppo_offensive_(2017)" title="East Aleppo offensive (2017)">East Aleppo offensive (2017)</a></li>
+<li><a href="/wiki/March_2017_Damascus_bombings" title="March 2017 Damascus bombings">March 2017 Damascus bombings</a></li>
+<li><a href="/wiki/2017_al-Jinah_airstrike" title="2017 al-Jinah airstrike">2017 al-Jinah airstrike</a></li>
+<li><a href="/wiki/2017_Hama_offensive" title="2017 Hama offensive">2017 Hama offensive</a></li>
+<li><a href="/wiki/Battle_of_Tabqa_Dam_(2017)" class="mw-redirect" title="Battle of Tabqa Dam (2017)">Battle of Tabqa Dam (2017)</a></li>
+<li><a href="/wiki/Khan_Shaykhun_chemical_attack" title="Khan Shaykhun chemical attack">Khan Shaykhun chemical attack</a></li>
+<li><a href="/wiki/2017_Shayrat_missile_strike" title="2017 Shayrat missile strike">2017 Shayrat missile strike</a></li>
+<li><a class="mw-selflink selflink">2017 Aleppo suicide car bombing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em"><a href="/wiki/Spillover_of_the_Syrian_Civil_War" title="Spillover of the Syrian Civil War">Spillover</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Syrian_Civil_War_spillover_in_Lebanon" title="Syrian Civil War spillover in Lebanon">Spillover into Lebanon</a>
+<ul>
+<li><small><a href="/wiki/Lebanese%E2%80%93Syrian_border_clashes" title="Lebanese–Syrian border clashes">Lebanese–Syrian border clashes</a></small></li>
+<li><small><a href="/wiki/Battle_of_Sidon_(2013)" title="Battle of Sidon (2013)">Battle of Sidon</a></small></li>
+<li><small><a href="/wiki/2013_Iranian_embassy_bombing" title="2013 Iranian embassy bombing">Iranian Embassy Bombing</a></small></li>
+<li><small><a href="/wiki/North_Lebanon_clashes_(2014)" title="North Lebanon clashes (2014)">Northern Lebanon Clashes</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Syrian%E2%80%93Turkish_border_incidents_during_the_Syrian_Civil_War" class="mw-redirect" title="Syrian–Turkish border incidents during the Syrian Civil War">Syrian-Turkish border clashes</a>
+<ul>
+<li><small><a href="/wiki/December_2011_Syrian%E2%80%93Turkish_border_clash" title="December 2011 Syrian–Turkish border clash">December 2011 Syrian–Turkish border clash</a></small></li>
+<li><small><a href="/wiki/June_2012_interception_of_Turkish_aircraft" class="mw-redirect" title="June 2012 interception of Turkish aircraft">Turkish aircraft shootdown</a></small></li>
+<li><small><a href="/wiki/2012_Syrian%E2%80%93Turkish_border_clashes" class="mw-redirect" title="2012 Syrian–Turkish border clashes">October 2012 Syrian-Turkish border clashes</a></small></li>
+<li><small><a href="/wiki/Reyhanl%C4%B1_bombings" title="Reyhanlı bombings">Reyhanlı bombings</a></small></li>
+<li><small><a href="/wiki/January_2014_Turkish_airstrike_in_Syria" class="mw-redirect" title="January 2014 Turkish airstrike in Syria">January 2014 Turkish airstrike in Syria</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Israeli%E2%80%93Syrian_ceasefire_line_incidents_during_the_Syrian_Civil_War" title="Israeli–Syrian ceasefire line incidents during the Syrian Civil War">Israeli–Syrian ceasefire line incidents</a>
+<ul>
+<li><small><a href="/wiki/March_2017_Israel%E2%80%93Syria_incident" title="March 2017 Israel–Syria incident">March 2017 incident</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/October_2012_Jordanian%E2%80%93Syrian_border_clash" class="mw-redirect" title="October 2012 Jordanian–Syrian border clash">Jordanian-Syrian border clashes</a>
+<ul>
+<li><small><a href="/wiki/April_2014_Jordanian%E2%80%93Syrian_border_airstrike" class="mw-redirect" title="April 2014 Jordanian–Syrian border airstrike">April 2014 Jordanian–Syrian border airstrike</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Timeline_of_the_Iraqi_insurgency_(2014)" class="mw-redirect" title="Timeline of the Iraqi insurgency (2014)">Spillover into Iraq</a>
+<ul>
+<li><small><a href="/wiki/Akashat_ambush" title="Akashat ambush">Akashat ambush</a></small></li>
+<li><small><a href="/wiki/Operation_al-Shabah" title="Operation al-Shabah">Operation al-Shabah</a></small></li>
+<li><small><a href="/wiki/April_2014_Iraqi%E2%80%93Syrian_border_airstrike" class="mw-redirect" title="April 2014 Iraqi–Syrian border airstrike">April 2014 Iraqi–Syrian border airstrike</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Assassination_of_Andrei_Karlov" title="Assassination of Andrei Karlov">Assassination of Andrei Karlov</a></li>
+<li><a href="/wiki/Idlib_Governorate_clashes_(2017)" title="Idlib Governorate clashes (2017)">Idlib Governorate clashes (2017)</a></li>
+<li><a href="/wiki/2017_Russian_Air_Force_Al-Bab_incident" title="2017 Russian Air Force Al-Bab incident">2017 Russian Air Force Al-Bab incident</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Involved_parties" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Organizations_of_the_Syrian_Civil_War" title="Category:Organizations of the Syrian Civil War">Involved parties</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em"><a href="/wiki/Syria" title="Syria">Syria</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;"><a href="/wiki/Syrian_Government" class="mw-redirect" title="Syrian Government">Ba'ath Government</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arab_Socialist_Ba%27ath_Party_%E2%80%93_Syria_Region" title="Arab Socialist Ba'ath Party – Syria Region">Arab Socialist Ba'ath Party – Syria Region</a></li>
+<li><a href="/wiki/Syrian_Social_Nationalist_Party" title="Syrian Social Nationalist Party">Syrian Social Nationalist Party</a></li>
+<li><a href="/wiki/Arab_Socialist_Movement" title="Arab Socialist Movement">Arab Socialist Movement</a></li>
+<li><a href="/wiki/Syrian_Communist_Party_(Bakdash)" title="Syrian Communist Party (Bakdash)">Syrian Communist Party</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;">Military &amp; Militias</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Syrian_Armed_Forces" title="Syrian Armed Forces">Syrian Armed Forces</a></li>
+<li><a href="/wiki/Syrian_Resistance" title="Syrian Resistance">Syrian Resistance</a></li>
+<li><a href="/wiki/Popular_Front_for_the_Liberation_of_Palestine_%E2%80%93_General_Command" title="Popular Front for the Liberation of Palestine – General Command">PFLP-GC</a></li>
+<li><a href="/wiki/Liwa_al-Quds" title="Liwa al-Quds">Jerusalem Brigade</a></li>
+<li><a href="/wiki/Palestine_Liberation_Army" title="Palestine Liberation Army">Palestine Liberation Army</a></li>
+<li>Smaller groups</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;"><a href="/wiki/Foreign_involvement_in_the_Syrian_Civil_War" title="Foreign involvement in the Syrian Civil War">Support for the government</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hezbollah_involvement_in_the_Syrian_Civil_War" title="Hezbollah involvement in the Syrian Civil War">Hezbollah involvement</a></li>
+<li><a href="/wiki/Iranian_involvement_in_the_Syrian_Civil_War" title="Iranian involvement in the Syrian Civil War">Iranian involvement</a>
+<ul>
+<li><a href="/wiki/Liwa_Fatemiyoun" title="Liwa Fatemiyoun">Liwa Fatemiyoun</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Russian_involvement_in_the_Syrian_Civil_War" title="Russian involvement in the Syrian Civil War">Russia's involvement</a>
+<ul>
+<li><a href="/wiki/Russian%E2%80%93Syrian_hospital_bombing_campaign" title="Russian–Syrian hospital bombing campaign">medical facility targeting</a></li>
+<li><a href="/wiki/Russian_military_intervention_in_Syria" title="Russian military intervention in Syria">military intervention</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Russia%E2%80%93Syria%E2%80%93Iran%E2%80%93Iraq_coalition" title="Russia–Syria–Iran–Iraq coalition">Russia–Syria–Iran–Iraq coalition</a></li>
+<li><a href="/wiki/Popular_Mobilization_Forces" title="Popular Mobilization Forces">Popular Mobilization Forces (Iraq)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em"><a href="/wiki/Syrian_opposition" title="Syrian opposition">Syrian opposition</a>, <a href="/wiki/Al-Qaeda" title="Al-Qaeda">Al-Qaeda</a><br />
+affiliates and allies</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;"><a href="/wiki/Syrian_Interim_Government" title="Syrian Interim Government">NCSR Government</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Coalition_for_Syrian_Revolutionary_and_Opposition_Forces" title="National Coalition for Syrian Revolutionary and Opposition Forces">National Coalition</a>
+<ul>
+<li><small><a href="/wiki/Local_Coordination_Committees_of_Syria" title="Local Coordination Committees of Syria">Local Co-ordination Committees</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Syrian_National_Council" title="Syrian National Council">Syrian National Council</a></li>
+<li><a href="/wiki/Supreme_Council_of_the_Syrian_Revolution" title="Supreme Council of the Syrian Revolution">Supreme Council of the Syrian Revolution</a></li>
+<li><a href="/wiki/National_Coordination_Committee_for_Democratic_Change" title="National Coordination Committee for Democratic Change">National Coordination Committee for Democratic Change</a></li>
+<li><a href="/wiki/Syrian_Revolution_General_Commission" title="Syrian Revolution General Commission">Syrian Revolution General Commission</a></li>
+<li><a href="/wiki/Syrian_Support_Group" title="Syrian Support Group">Syrian Support Group</a></li>
+<li><a href="/wiki/Adopt_a_Revolution" title="Adopt a Revolution">Adopt a Revolution</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;">Opposition militias</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Turkish_Free_Syrian_Army" title="Turkish Free Syrian Army">TFSA</a></li>
+<li><a href="/wiki/Southern_Front_(Syrian_rebel_group)" title="Southern Front (Syrian rebel group)">Southern Front</a></li>
+<li><a href="/wiki/Army_of_Free_Tribes" title="Army of Free Tribes">Army of Free Tribes</a></li>
+<li><a href="/wiki/Ahrar_al-Sham" title="Ahrar al-Sham">Ahrar al-Sham</a></li>
+<li><a href="/wiki/Jaysh_al-Izza" title="Jaysh al-Izza">Jaysh al-Izza</a></li>
+<li><a href="/wiki/Sham_Legion" title="Sham Legion">Sham Legion</a></li>
+<li><a href="/wiki/Jaysh_al-Islam" title="Jaysh al-Islam">Jaysh al-Islam</a></li>
+<li><a href="/wiki/Al-Rahman_Legion" title="Al-Rahman Legion">al-Rahman Legion</a></li>
+<li>Liwa al-Majid</li>
+<li><a href="/wiki/Free_Idlib_Army" title="Free Idlib Army">Free Idlib Army</a></li>
+<li><a href="/wiki/Martyrs_of_Islam_Brigade" title="Martyrs of Islam Brigade">Martyrs of Islam Brigade</a></li>
+<li><a href="/wiki/Ajnad_al-Sham_Islamic_Union" title="Ajnad al-Sham Islamic Union">Ajnad al-Sham Islamic Union</a></li>
+<li><a href="/wiki/Jabhat_Ansar_al-Islam" title="Jabhat Ansar al-Islam">Ansar al-Islam Front</a></li>
+<li><a href="/wiki/Alwiya_al-Furqan" title="Alwiya al-Furqan">Alwiya al-Furqan</a></li>
+<li><a href="/wiki/Ajnad_al-Sham" title="Ajnad al-Sham">Ajnad al-Sham</a></li>
+<li>Smaller groups</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;"><a href="/wiki/Al-Qaeda" title="Al-Qaeda">al-Qaeda</a> affiliates and allies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tahrir_al-Sham" title="Tahrir al-Sham">Tahrir al-Sham</a></li>
+<li><a href="/wiki/Turkistan_Islamic_Party_in_Syria" title="Turkistan Islamic Party in Syria">Turkistan Islamic Party in Syria</a></li>
+<li><a href="/wiki/Caucasus_Emirate" title="Caucasus Emirate">Caucasus Emirate</a></li>
+<li>Ajnad al-Kavkaz</li>
+<li>Junud al Makhdi</li>
+<li><a href="/wiki/Jund_al-Aqsa" title="Jund al-Aqsa">Jund al-Aqsa</a></li>
+<li><a href="/wiki/Malhama_Tactical" title="Malhama Tactical">Malhama Tactical</a></li>
+<li>Smaller groups</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;">Allied groups (to the Opposition militias)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Muslim_Brotherhood_of_Syria" title="Muslim Brotherhood of Syria">Muslim Brotherhood of Syria</a></li>
+<li><a href="/wiki/Grey_Wolves_(organization)" title="Grey Wolves (organization)">Grey Wolves</a></li>
+<li>Smaller groups</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;">Support for the Opposition</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American-led_intervention_in_Syria" title="American-led intervention in Syria">American-led intervention</a>
+<ul>
+<li><small><a href="/wiki/2014_American_rescue_mission_in_Syria" title="2014 American rescue mission in Syria">American rescue mission</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Jordanian_intervention_in_the_Syrian_Civil_War" title="Jordanian intervention in the Syrian Civil War">Jordanian intervention</a></li>
+<li><a href="/wiki/Qatari_involvement_in_the_Syrian_Civil_War" class="mw-redirect" title="Qatari involvement in the Syrian Civil War">Qatari involvement</a></li>
+<li><a href="/wiki/Saudi_Arabian_involvement_in_the_Syrian_Civil_War" class="mw-redirect" title="Saudi Arabian involvement in the Syrian Civil War">Saudi Arabia</a></li>
+<li><a href="/wiki/Turkish_involvement_in_the_Syrian_Civil_War" title="Turkish involvement in the Syrian Civil War">Turkey</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em"><a href="/wiki/Rojava" title="Rojava">Rojava (SDF)</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;"><a href="/wiki/Movement_for_a_Democratic_Society" title="Movement for a Democratic Society">Rojava government</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Democratic_Union_Party_(Syria)" title="Democratic Union Party (Syria)">Democratic Union Party</a></li>
+<li><a href="/wiki/Kurdish_National_Council" title="Kurdish National Council">Kurdish National Council</a></li>
+<li><a href="/wiki/List_of_political_parties_in_Rojava" title="List of political parties in Rojava">Smaller political parties</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;"><a href="/wiki/Syrian_Democratic_Forces" title="Syrian Democratic Forces">SDF groups</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/People%27s_Protection_Units" title="People's Protection Units">People's Protection Units</a></li>
+<li><a href="/wiki/Women%27s_Protection_Units" title="Women's Protection Units">Women's Protection Units</a></li>
+<li><a href="/wiki/Al-Sanadid_Forces" title="Al-Sanadid Forces">Al-Sanadid Forces</a></li>
+<li><a href="/wiki/Army_of_Revolutionaries" title="Army of Revolutionaries">Army of Revolutionaries</a></li>
+<li><a href="/wiki/Al-Nukhbat_Brigade" class="mw-redirect" title="Al-Nukhbat Brigade">Elite Forces</a></li>
+<li><a href="/wiki/Syrian_Democratic_Forces_military_councils" title="Syrian Democratic Forces military councils">SDF Military Councils</a></li>
+<li><a href="/wiki/Syriac_Military_Council" title="Syriac Military Council">Syriac Military Council</a></li>
+<li><a href="/wiki/Liwa_Thuwar_al-Raqqa" class="mw-redirect" title="Liwa Thuwar al-Raqqa">Liwa Thuwar al-Raqqa</a></li>
+<li><a href="/wiki/Raqqa_Hawks_Brigade" title="Raqqa Hawks Brigade">Raqqa Hawks Brigade</a></li>
+<li>Northern Democratic Brigade</li>
+<li>Free Officers Union</li>
+<li>Smaller groups</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;">Allied groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Patriotic_Union_of_Kurdistan" title="Patriotic Union of Kurdistan">Patriotic Union of Kurdistan</a></li>
+<li><a href="/wiki/Kurdistan_Workers%27_Party" title="Kurdistan Workers' Party">Kurdistan Workers' Party</a></li>
+<li><a href="/wiki/International_Freedom_Battalion" title="International Freedom Battalion">International Freedom Battalion</a></li>
+<li><a href="/wiki/Sinjar_Resistance_Units" title="Sinjar Resistance Units">Sinjar Resistance Units</a></li>
+<li>Antifascist Internationalist Tabur</li>
+<li>Smaller groups</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.25em">ISIL</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;"><a href="/wiki/Islamic_State_of_Iraq_and_the_Levant" title="Islamic State of Iraq and the Levant">Islamic State of<br />
+Iraq and the Levant</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Military_of_ISIL" class="mw-redirect" title="Military of ISIL">Military of ISIL</a></li>
+<li>Jamaat Bayt al-Maqdis al-Islamiya</li>
+<li><a href="/wiki/Dokumac%C4%B1lar" title="Dokumacılar">Dokumacılar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.5em;font-weight:normal;">Allied groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Khalid_ibn_al-Walid_Army" title="Khalid ibn al-Walid Army">Khalid ibn al-Walid Army</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="People" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:People_of_the_Syrian_Civil_War" title="Category:People of the Syrian Civil War">People</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ammar_Abdulhamid" title="Ammar Abdulhamid">Ammar Abdulhamid</a></li>
+<li><a href="/wiki/Ali_al-Abdallah" title="Ali al-Abdallah">Ali al-Abdallah</a></li>
+<li><a href="/wiki/Adnan_al-Aroor" title="Adnan al-Aroor">Adnan al-Aroor</a></li>
+<li><a href="/wiki/Al-Assad_family" title="Al-Assad family">al-Assad family</a>
+<ul>
+<li><small><a href="/wiki/Bashar_al-Assad" title="Bashar al-Assad">Bashar</a></small></li>
+<li><small><a href="/wiki/Maher_al-Assad" title="Maher al-Assad">Maher</a></small></li>
+<li><small><a href="/wiki/Rifaat_al-Assad" title="Rifaat al-Assad">Rifaat</a></small></li>
+<li><small><a href="/wiki/Rami_Makhlouf" title="Rami Makhlouf">Rami Makhlouf</a></small></li>
+<li><small><a href="/wiki/Hafez_Makhlouf" title="Hafez Makhlouf">Hafez Makhlouf</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Riad_al-Asaad" title="Riad al-Asaad">Riad al-Asaad</a></li>
+<li><a href="/wiki/Anwar_al-Bunni" title="Anwar al-Bunni">Anwar al-Bunni</a></li>
+<li><a href="/wiki/Fahd_Jassem_al-Freij" title="Fahd Jassem al-Freij">Fahd Jassem al-Freij</a></li>
+<li><a href="/wiki/Haitham_al-Maleh" title="Haitham al-Maleh">Haitham al-Maleh</a></li>
+<li><a href="/wiki/Moaz_al-Khatib" title="Moaz al-Khatib">Moaz al-Khatib</a></li>
+<li><a href="/wiki/Kamal_al-Labwani" title="Kamal al-Labwani">Kamal al-Labwani</a></li>
+<li><a href="/wiki/Death_of_Hamza_Ali_Al-Khateeb" title="Death of Hamza Ali Al-Khateeb">Hamza al-Khateeb</a></li>
+<li><a href="/wiki/Tal_al-Mallohi" title="Tal al-Mallohi">Tal al-Mallohi</a></li>
+<li><a href="/wiki/Fida_al-Sayed" title="Fida al-Sayed">Fida al-Sayed</a></li>
+<li><a href="/wiki/Riad_al-Turk" title="Riad al-Turk">Riad al-Turk</a></li>
+<li><a href="/wiki/Khaled_Khoja" title="Khaled Khoja">Khaled Khoja</a></li>
+<li><a href="/wiki/Ammar_al-Qurabi" title="Ammar al-Qurabi">Ammar al-Qurabi</a></li>
+<li><a href="/wiki/Suheir_Atassi" title="Suheir Atassi">Suheir Atassi</a></li>
+<li><a href="/wiki/Ali_Sadreddine_Al-Bayanouni" title="Ali Sadreddine Al-Bayanouni">Ali Sadreddine Al-Bayanouni</a></li>
+<li><a href="/wiki/Aref_Dalila" title="Aref Dalila">Aref Dalila</a></li>
+<li><a href="/wiki/Farid_Ghadry" title="Farid Ghadry">Farid Ghadry</a></li>
+<li><a href="/wiki/Burhan_Ghalioun" title="Burhan Ghalioun">Burhan Ghalioun</a></li>
+<li><a href="/wiki/Razan_Ghazzawi" title="Razan Ghazzawi">Razan Ghazzawi</a></li>
+<li><a href="/wiki/Ghassan_Hitto" title="Ghassan Hitto">Ghassan Hitto</a></li>
+<li><a href="/wiki/Salim_Idris" title="Salim Idris">Salim Idris</a></li>
+<li><a href="/wiki/Randa_Kassis" title="Randa Kassis">Randa Kassis</a></li>
+<li><a href="/wiki/Abdul_Halim_Khaddam" title="Abdul Halim Khaddam">Abdul Halim Khaddam</a></li>
+<li><a href="/wiki/Michel_Kilo" title="Michel Kilo">Michel Kilo</a></li>
+<li><a href="/wiki/Bassma_Kodmani" title="Bassma Kodmani">Bassma Kodmani</a></li>
+<li><a href="/wiki/Ali_Habib_Mahmud" title="Ali Habib Mahmud">Ali Habib Mahmud</a></li>
+<li><a href="/wiki/Ali_Mahmoud_Othman" title="Ali Mahmoud Othman">Ali Mahmoud Othman</a></li>
+<li><a href="/wiki/Ibrahim_Qashoush" title="Ibrahim Qashoush">Ibrahim Qashoush</a></li>
+<li><a href="/wiki/Dawoud_Rajiha" title="Dawoud Rajiha">Dawoud Rajiha</a></li>
+<li><a href="/wiki/Yassin_al-Haj_Saleh" title="Yassin al-Haj Saleh">Yassin al-Haj Saleh</a></li>
+<li><a href="/wiki/Bouthaina_Shaaban" title="Bouthaina Shaaban">Bouthaina Shaaban</a></li>
+<li><a href="/wiki/Adib_Shishakly" title="Adib Shishakly">Adib Shishakly</a></li>
+<li><a href="/wiki/Abdulbaset_Sieda" title="Abdulbaset Sieda">Abdulbaset Sieda</a></li>
+<li><a href="/wiki/Riad_Seif" title="Riad Seif">Riad Seif</a></li>
+<li><a href="/wiki/Fadwa_Soliman" title="Fadwa Soliman">Fadwa Soliman</a></li>
+<li><a href="/wiki/Mohamad_Anas_Haitham_Soueid" title="Mohamad Anas Haitham Soueid">Mohamad Anas Haitham Soueid</a></li>
+<li><a href="/wiki/Yaser_Tabbara" title="Yaser Tabbara">Yaser Tabbara</a></li>
+<li><a href="/wiki/Razan_Zaitouneh" title="Razan Zaitouneh">Razan Zaitouneh</a></li>
+<li><a href="/wiki/Rami_Jarrah" title="Rami Jarrah">Rami Jarrah</a></li>
+<li><a href="/wiki/Abdurrahman_Mustafa" title="Abdurrahman Mustafa">Abdurrahman Mustafa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="IssuesPeace_processRelated_topicsElections" style="font-size:114%;margin:0 4em">
+<div class="hlist">
+<ul>
+<li>Issues</li>
+<li>Peace process</li>
+<li>Related topics</li>
+<li>Elections</li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Issues</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Casualties_of_the_Syrian_Civil_War" title="Casualties of the Syrian Civil War">Casualties</a></li>
+<li><a href="/wiki/Use_of_chemical_weapons_in_the_Syrian_Civil_War" title="Use of chemical weapons in the Syrian Civil War">Chemical weapons</a></li>
+<li><a href="/wiki/Cities_and_towns_during_the_Syrian_Civil_War" title="Cities and towns during the Syrian Civil War">Cities and towns</a></li>
+<li><a href="/wiki/List_of_heritage_sites_damaged_during_the_Syrian_Civil_War" title="List of heritage sites damaged during the Syrian Civil War">Damaged heritage sites</a></li>
+<li><a href="/wiki/Foreign_involvement_in_the_Syrian_Civil_War" title="Foreign involvement in the Syrian Civil War">Foreign involvement</a></li>
+<li><a href="/wiki/Human_rights_violations_during_the_Syrian_Civil_War" title="Human rights violations during the Syrian Civil War">Human rights violations</a></li>
+<li><a href="/wiki/Humanitarian_aid_during_the_Syrian_Civil_War" title="Humanitarian aid during the Syrian Civil War">Humanitarian aid</a></li>
+<li><a href="/wiki/International_reactions_to_the_Syrian_Civil_War" title="International reactions to the Syrian Civil War">International reactions</a></li>
+<li><a href="/wiki/International_demonstrations_and_protests_relating_to_the_Syrian_Civil_War" title="International demonstrations and protests relating to the Syrian Civil War">International demonstrations and protests</a></li>
+<li><a href="/wiki/List_of_massacres_during_the_Syrian_Civil_War" title="List of massacres during the Syrian Civil War">Massacres</a></li>
+<li><a href="/wiki/Refugees_of_the_Syrian_Civil_War" title="Refugees of the Syrian Civil War">Refugees</a> (<a href="/wiki/European_migrant_crisis" title="European migrant crisis">European migrant crisis</a>)</li>
+<li><a href="/wiki/Sectarianism_and_minorities_in_the_Syrian_Civil_War" title="Sectarianism and minorities in the Syrian Civil War">Sectarianism and minorities</a></li>
+<li><a href="/wiki/Syrian_Civil_War_spillover_in_Lebanon" title="Syrian Civil War spillover in Lebanon">Spillover into Lebanon</a></li>
+<li><a href="/wiki/Syrian_reactions_to_the_Syrian_Civil_War" title="Syrian reactions to the Syrian Civil War">Syrian reactions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Syrian_peace_process" title="Syrian peace process">Peace process</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arab_League_monitors_in_Syria" title="Arab League monitors in Syria">Arab League monitors</a></li>
+<li><a href="/wiki/Friends_of_Syria_Group" title="Friends of Syria Group">Friends of Syria Group</a></li>
+<li><a href="/wiki/Kofi_Annan_Syrian_peace_plan" title="Kofi Annan Syrian peace plan">Kofi Annan peace plan</a>
+<ul>
+<li><small><a href="/wiki/United_Nations_Supervision_Mission_in_Syria" title="United Nations Supervision Mission in Syria">UN Supervision Mission</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Lakhdar_Brahimi_Syrian_peace_plan" title="Lakhdar Brahimi Syrian peace plan">Lakhdar Brahimi peace plan</a></li>
+<li><a href="/wiki/U.S.%E2%80%93Russia_peace_proposals_on_Syria" title="U.S.–Russia peace proposals on Syria">U.S.–Russia peace proposals on Syria</a></li>
+<li><a href="/wiki/39th_G8_summit" title="39th G8 summit">39th G8 summit</a></li>
+<li><a href="/wiki/United_Nations_Security_Council_Resolution_2118" title="United Nations Security Council Resolution 2118">UN Security Council Resolution 2118</a></li>
+<li><a href="/wiki/Geneva_II_Conference_on_Syria" title="Geneva II Conference on Syria">Geneva II Conference</a></li>
+<li><a href="/wiki/2015_Zabadani_cease-fire_agreement" title="2015 Zabadani cease-fire agreement">2015 Zabadani cease-fire agreement</a></li>
+<li><a href="/wiki/Syria_peace_talks_in_Vienna" class="mw-redirect" title="Syria peace talks in Vienna">2015 Vienna talks</a></li>
+<li><a href="/wiki/Geneva_peace_talks_on_Syria_(2016)" title="Geneva peace talks on Syria (2016)">2016 Geneva talks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2014_Syrian_detainee_report" title="2014 Syrian detainee report">2014 Syrian detainee report</a></li>
+<li><a href="/wiki/Exclusive_mandate" title="Exclusive mandate">Exclusive mandate</a></li>
+<li><a href="/wiki/Fourth_Extraordinary_Session_of_the_Islamic_Summit_Conference" title="Fourth Extraordinary Session of the Islamic Summit Conference">Fourth Extraordinary Session of the Islamic Summit Conference</a></li>
+<li><a href="/wiki/International_recognition_of_the_Syrian_National_Council" title="International recognition of the Syrian National Council">International recognition of the Syrian National Council</a></li>
+<li><a href="/wiki/Syria_Files" title="Syria Files">Syria Files</a></li>
+<li><a href="/wiki/Syrian_media_coverage_of_the_Syrian_Civil_War" class="mw-redirect" title="Syrian media coverage of the Syrian Civil War">Syrian media coverage</a></li>
+<li><i><a href="/wiki/The_Return_to_Homs" title="The Return to Homs">The Return to Homs</a></i></li>
+<li><i><a href="/wiki/Silvered_Water,_Syria_Self-Portrait" title="Silvered Water, Syria Self-Portrait">Silvered Water, Syria Self-Portrait</a></i></li>
+<li><a href="/wiki/Sunnistan" class="mw-redirect" title="Sunnistan">Sunnistan</a></li>
+<li><a href="/wiki/Syrian_presidential_election,_2014" title="Syrian presidential election, 2014">Syrian presidential election, 2014</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Elections and referendums<br />
+held during the civil war</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Syrian_local_elections,_2011" title="Syrian local elections, 2011">Syrian local elections, 2011</a></li>
+<li><a href="/wiki/Syrian_constitutional_referendum,_2012" title="Syrian constitutional referendum, 2012">Syrian constitutional referendum, 2012</a></li>
+<li><a href="/wiki/Syrian_presidential_election,_2014" title="Syrian presidential election, 2014">Syrian presidential election, 2014</a></li>
+<li><a href="/wiki/Rojava_local_elections,_2015" title="Rojava local elections, 2015">Rojava local elections, 2015</a></li>
+<li><a href="/wiki/Syrian_parliamentary_election,_2016" title="Syrian parliamentary election, 2016">Syrian parliamentary election, 2016</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Syrian_Civil_War" title="Category:Syrian Civil War">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2213
+Cached time: 20170423163738
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.688 seconds
+Real time usage: 0.831 seconds
+Preprocessor visited node count: 7911/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 587289/2097152 bytes
+Template argument size: 139846/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 1/500
+Lua time usage: 0.305/10.000 seconds
+Lua memory usage: 5.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  637.862      1 -total
+ 50.57%  322.596     11 Template:Campaignbox
+ 49.84%  317.890     11 Template:Military_navigation
+ 48.44%  308.969     11 Template:Navbox
+ 30.18%  192.481      1 Template:Campaignbox_Syrian_Civil_War
+ 25.28%  161.256      1 Template:Reflist
+ 17.33%  110.548      1 Template:Infobox_civilian_attack
+ 16.59%  105.797      1 Template:Infobox
+ 15.57%   99.308      1 Template:Syrian_Civil_War
+ 14.92%   95.183      1 Template:Navbox_with_collapsible_groups
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:53784622-0!*!0!!en!4!* and timestamp 20170423163751 and revision id 776840494
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;oldid=776840494">https://en.wikipedia.org/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;oldid=776840494</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2017_murders_in_Asia" title="Category:2017 murders in Asia">2017 murders in Asia</a></li><li><a href="/wiki/Category:April_2017_crimes_in_Asia" title="Category:April 2017 crimes in Asia">April 2017 crimes in Asia</a></li><li><a href="/wiki/Category:April_2017_events_in_Syria" title="Category:April 2017 events in Syria">April 2017 events in Syria</a></li><li><a href="/wiki/Category:Mass_murder_in_2017" title="Category:Mass murder in 2017">Mass murder in 2017</a></li><li><a href="/wiki/Category:Mass_murder_in_Syria" title="Category:Mass murder in Syria">Mass murder in Syria</a></li><li><a href="/wiki/Category:Massacres_of_the_Syrian_Civil_War_in_2017" title="Category:Massacres of the Syrian Civil War in 2017">Massacres of the Syrian Civil War in 2017</a></li><li><a href="/wiki/Category:Suicide_car_and_truck_bombings_in_Syria" title="Category:Suicide car and truck bombings in Syria">Suicide car and truck bombings in Syria</a></li><li><a href="/wiki/Category:Violence_against_Shia_Muslims" title="Category:Violence against Shia Muslims">Violence against Shia Muslims</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_April_2017" title="Category:Wikipedia articles needing clarification from April 2017">Wikipedia articles needing clarification from April 2017</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=2017+Aleppo+suicide+car+bombing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2017+Aleppo+suicide+car+bombing" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/2017_Aleppo_suicide_car_bombing"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:2017_Aleppo_suicide_car_bombing"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/2017_Aleppo_suicide_car_bombing" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2017_Aleppo_suicide_car_bombing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2017_Aleppo_suicide_car_bombing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;oldid=776840494" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q29413569" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=2017_Aleppo_suicide_car_bombing&amp;id=776840494" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=2017+Aleppo+suicide+car+bombing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=2017+Aleppo+suicide+car+bombing&amp;returnto=2017+Aleppo+suicide+car+bombing&amp;oldid=776840494&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%AC%D9%8A%D8%B1_%D8%AD%D9%8A_%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D9%8A%D9%86_2017" title="تفجير حي الراشدين 2017 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Anschlag_von_Raschidin" title="Anschlag von Raschidin – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%85%D8%A8%E2%80%8C%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C_%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1%DB%8C_%D8%AD%D9%84%D8%A8_%DB%B2%DB%B0%DB%B1%DB%B7" title="بمب‌گذاری انتحاری حلب ۲۰۱۷ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Attentat_de_Rachidine" title="Attentat de Rachidine – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/2017_%E0%A4%85%E0%A4%B2%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A5%8B_%E0%A4%86%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%98%E0%A4%BE%E0%A4%A4%E0%A5%80_%E0%A4%95%E0%A4%BE%E0%A4%B0_%E0%A4%B9%E0%A4%AE%E0%A4%B2%E0%A4%BE" title="2017 अलप्पो आत्मघाती कार हमला – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bom_mobil_bunuh_diri_Aleppo_2017" title="Bom mobil bunuh diri Aleppo 2017 – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Bom_mobil_Aleppo_2017" title="Bom mobil Aleppo 2017 – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B2%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%8B_%E0%AE%A4%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B2%E0%AF%88_%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AE%A9%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D_2017" title="அலெப்போ தற்கொலை வாகனத் தாக்குதல் 2017 – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Bom_xe_t%E1%BB%B1_s%C3%A1t_Aleppo_2017" title="Bom xe tự sát Aleppo 2017 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/2017%E5%B9%B4%E6%8B%89%E5%B8%8C%E4%B8%81%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A" title="2017年拉希丁炸彈襲擊 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q29413569#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 April 2017, at 16:37.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=2017_Aleppo_suicide_car_bombing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.688","walltime":"0.831","ppvisitednodes":{"value":7911,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":587289,"limit":2097152},"templateargumentsize":{"value":139846,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  637.862      1 -total"," 50.57%  322.596     11 Template:Campaignbox"," 49.84%  317.890     11 Template:Military_navigation"," 48.44%  308.969     11 Template:Navbox"," 30.18%  192.481      1 Template:Campaignbox_Syrian_Civil_War"," 25.28%  161.256      1 Template:Reflist"," 17.33%  110.548      1 Template:Infobox_civilian_attack"," 16.59%  105.797      1 Template:Infobox"," 15.57%   99.308      1 Template:Syrian_Civil_War"," 14.92%   95.183      1 Template:Navbox_with_collapsible_groups"]},"scribunto":{"limitreport-timeusage":{"value":"0.305","limit":"10.000"},"limitreport-memusage":{"value":5906878,"limit":52428800}},"cachereport":{"origin":"mw2213","timestamp":"20170423163738","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54,"wgHostname":"mw2199"});});</script>
+	</body>
+</html>
