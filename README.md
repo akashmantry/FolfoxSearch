@@ -3,11 +3,12 @@ This is as simple search engine I created which ranks using tf-idf and PageRank.
 
 It consists of the following parts:
 
-1. Crawled pages (set of 100 wikipedia pages) which were crawled using a crawler I created from scratch.
+1. Crawled pages (set of 100 wikipedia pages) which were crawled using a crawler I created from scratch [WebCrawler](https://github.com/akashmantry/WebCrawler).
 2. Parser, the crawled pages were parsed using various filtering techniques like stemming, stop word removeal, etc., discussed later.
 3. Indexer, the crawled pages were indexed using a Cloudera VM running Hadoop MapReduce using python streaming.
 4. Ranking, the pages were ranked using a combination of tf-idf and PageRank.
 5. MongoDb, database to store parsed pages, indexing results, tf-idf results, etc.
+6. The project was also deployed on an AWS EC2 instance using DynamoDb and S3 file storage.
 
 ## Parser
 All the documents are in html and we need a parser to retreive meaningful information from them. BeautifulSoup and readability libraries were used to parse the raw html to get information. the results are stored in parsed_pages collection.
